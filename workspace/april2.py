@@ -57,39 +57,50 @@ def merge( C, A, B):
 		C[pt] = B[k]
 		pt += 1
 		
-def build_tree( tree, magicA, Code, cur , l , r ):
+def build_tree( tree, magicA, tree2, A, cur , l , r ):
 	if( l==r ):
-		tree[cur] = Code[magicA[l]] #[ magicA[ l ] ]
+		tree[cur] = [ magicA[ l ] ]
+		
+		#cumul sum of elements in tree 
+			tree2[cur] =  A[ magicA[ l ] ] #??
 		return
 	mid = l+(r-l)/2
-	build_tree(tree, magicA, Code, 2*cur+1 , l , mid ) #Build left tree 
-	build_tree(tree, magicA, Code, 2*cur+2 , mid+1 , r ) #Build right tree
+	build_tree(tree, magicA, tree2, A, 2*cur+1 , l , mid ) #Build left tree 
+	build_tree(tree, magicA, tree2, A,  2*cur+2 , mid+1 , r ) #Build right tree
 	LL = 2*cur+1
 	LR = 2*cur+2
-	tree[cur] = tree[LL] + tree[LR]
-	#tree[cur] = [0] * (len(tree[LL]) + len(tree[LR]) ) #merge( tree[2*cur+1] , tree[2*cur+2] ); //Merging the two sorted arrays
-	#merge(tree[cur], tree[LL], tree[LR])
 	
+	tree[cur] = [0] * (len(tree[LL]) + len(tree[LR]) ) #merge( tree[2*cur+1] , tree[2*cur+2] ); //Merging the two sorted arrays
+	merge(tree[cur], tree[LL], tree[LR])
 	
+	tree2[cur] = tree2[LL] + tree2[LR]
 	
-	
+	#cumul sum of elements in treecur
+		# ??
+
  
  
-def query( magicTree, cur, l, r, x, y, k) :
-	if( r < x or l > y ):
-		return 0 #[] #out of range
- 
-	if( x<=l and r<=y ) : #Binary search over the current sorted vector to find elements smaller than K
-		#upper_bound(tree[cur].begin(),tree[cur].end(),K)-tree[cur].begin();
-		return magicTree[cur] #bisect.bisect_right(magicTree[cur],k)
-	mid=l+(r-l)/2
-	LL = query(magicTree, 2*cur+1,l,mid,x,y,k)
-	LR = query(magicTree, 2*cur+2,mid+1,r,x,y,k)
-	#M = [0]* ( len(LL) + len(LR) ) 
-	#merge(M,LL,LR)
-	#return M
+def query( magicTree, magicTree2, rev, cur, l, r, x, y, k) :
 	
-	return LL + LR
+	_sum = 0
+	while (l != r ):
+		mid=l+(r-l)/2
+		
+		part = 2*cur + 1
+		low = bisect.bisect_right( magicTree[part], y) - bisect.bisect_left( magicTree[part], x)
+		loc 
+		
+		if (low >= k):
+			cur = 2*cur + 1
+			r = mid
+		else:
+			_sum += loc
+			cur = 2*cur + 2
+			l = mid+1
+			k -= low
+			
+
+	return ( rev[l], _sum)
  
 def recurs(L,R,l,r):
 	
@@ -117,15 +128,38 @@ def main():
 	# print recurs(L, R, 0, (10**6) -1 )
 	# print time.time()-s 
 	
-	# N = 140
+	N = 10 #10**5
+	#A = list( range(N) )
+	A = [ random.randint(1,7) for k in range(N) ]
 	
-	# ini = 0
-	# for k in range(1,N):
-		# ini = (ini +1)*k
 	
-	# print ini
+	_sorted  = sorted(enumerate(A), key=lambda x:x[1])
 	
-	#return 
+	pos = [0]*N
+	rev = [0]*N
+	for n in range(N):
+		pos[n] = _sorted[n][0]
+		rev[n] = _sorted[n][1]
+	
+	_mul = N* (int(math.log(N,2))+3)
+	magicTree = [0]*_mul
+	magicTree2 = [0]*_mul
+	build_tree(magicTree,pos,magicTree2,rev,0,0,N-1)
+	
+	#print magicTree
+	for _ in range(1):
+		L = random.randint(0,N-1) #2
+		R = random.randint(L,N-1) #N-1
+		X = random.randint(1,R-L+1) # 2
+		#print rev[query( magicTree, 0, 0, N-1, L, R, X)]
+		#print test(A,L,R,X)
+		
+		if query( magicTree, magicTree2, rev, 0, 0, N-1, L, R, X) != test(A,L,R,X):
+			print A, L, R, X
+			print query( magicTree, magicTree2, rev, 0, 0, N-1, L, R, X), test(A,L,R,X)
+			return
+	
+	return
 	
 	T = int(sys.stdin.readline().strip())
 	
@@ -179,21 +213,11 @@ def main():
 		
 
 		
-def test(A,reverse,L,R,X,Y):
-	res = 0
-	for i in range(X, Y+1):
-		if not i in reverse:
-			continue
-		
-		for j in range(L-1,R):
-			cur = A[j]
-			exp = 0
-			while (cur % i == 0):
-				cur = cur / i
-				exp += 1
-			res += exp
+def test(A,L,R,X):
+	B = A[L:R+1]
+	B= sorted(B)
 	
-	return res
+	return (B[X-1], sum(B[:X]))
 	
 def generate():
 	_str= ""
