@@ -8,151 +8,351 @@ from Queue import PriorityQueue
 #from itertools import chain, combinations
 import random
 import bisect
+import copy
  
-from collections import deque
- 
- 
+
+TOP = 10**9
 #pi = pi / Decimal(10**100)
- 
- 
-def build_tree_max( tree1, tree2, magicA, cur , l , r , NN):
-	if( l==r ):
-		tree1[ NN*cur + l] = magicA[ l ] 
-		tree2[ NN*cur + l] = magicA[ l ] 
-		return
-	
-	mid = l+(r-l)/2
-	build_tree_max(tree1, tree2, magicA, cur+1 , l , mid , NN) #Build left tree 
-	build_tree_max(tree1, tree2, magicA, cur+1 , mid+1 , r , NN) #Build right tree
-	
-	
-	start = NN*cur + l 
-	
-	ptL = NN*(cur+1) + l
-	endPtL = NN*(cur+1) + mid + 1
-	
-	ptR = NN*(cur+1) + mid + 1
-	endPtR = NN*(cur+1) + r + 1
-	
-	while ptL < endPtL and ptR < endPtR:
-		if tree1[ptL] <= tree1[ptR]:
-			tree1[start] = tree1[ptL]
-			ptL += 1
-		else:
-			tree1[start] = tree1[ptR]
-			ptR += 1
+
+class Node:
+
+	def __init__(self, id):
+		self.id = id
+		self.level = 0 
+		self.parent = None
+		self.children = []
 		
-		start += 1
-	
-	for k in xrange(ptL, endPtL):
-		tree1[start] = tree1[k]
-		start += 1
+		self.allMinHash = None
+		self.onesMinHash = { "00" : [None, None] , "01": [None, None], "10": [None, None], "11": [None, None] } #up 2 to values , tuple -> (index, val)
 		
-	for k in xrange(ptR, endPtR):
-		tree1[start] = tree1[k]
-		start += 1
-	
-	start = NN*cur + l 
-	end = NN*cur + r + 1 
-	tree2[start]  = tree1[start]
-	for k in xrange(start+1,end):
-		tree2[k] = tree2[k-1] ^ tree1[k]
-	
- 
- 
-def query_max(tree1, tree2, cur, l, r, x, y, NN, K ) :
- 
-	if ( r<x  or l>y ) : 
-		return 0
-	
-	if (l ==r):
-		if ( tree1[NN*cur + l ] <= K):
-			return tree2[NN*cur + l ]
-		else:
-			return 0
-		return
+		#only for 01
+		self.secondHash = {}
+		self.secondOnesMin = None
 		
-	if( x<=l and r<=y ) : 
-		top = bisect.bisect_right(tree1, K, NN*cur+l , NN*cur +r + 1)
-		if top == NN*cur+l:
-			return 0
-		return tree2[top-1]
- 
+		self.data = [  TOP,  #000
+					   TOP,  #001
+					   TOP,  #010
+					   TOP,  #011
+					   TOP,  #100 #cant do
+					   1,  #101
+					   1,  #110
+					   1  #111
+					     ] # 8 values, 000 -> 111
 		
-	mid=l+(r-l)/2
+	def setParent(self,parent):
+		self.level = parent.level + 1
+		self.parent = parent
+	
+	def addChild(self, child):
+		self.children.append(child)
+	
+	def initMinHash(self):
+		ll = len(self.children)
 		
-	return query_max(tree1, tree2, cur+1, l, mid, x, y, NN, K ) ^ query_max(tree1, tree2, cur+1, mid+1, r, x, y, NN, K )
- 
- 
-	
- 
-def next_recurs(vertices, ray, parent, branches, magic):
-	
-	queue = []
-	
-	queue.append((1,-1, 0,1)) # cur, position in the branch , level, node at the root of the branch
-	parent[1] = (1,-1, 0,1)  # parent, position in the branch , level,  node at the root of the branch
-	branches[1] = []
-	
-	#visited = set([])
-	
-	while len(queue) > 0 :
-		cur, pos, level, cur_branch = queue.pop() #dequeue ??
+		self.allMinHash ={ "00" : [(0,0,0)]*ll , "01": [(0,0,0)]*ll, "10": [(0,0,0)]*ll, "11": [(0,0,0)]*ll }
 		
-		#if (cur in visited): 
-		#	continue
+	def updateMin(self, key, index, val0, val1):
+		self.allMinHash[key][index] = (val0,val1, min(val0,val1))
 		
- 
-		size = len(vertices[cur].keys())
-		if size > 0:
-			_sorted = sorted( vertices[cur].keys(),  key=lambda x: ray[x])
+		if (val1 != TOP ) :
+			if ( self.onesMinHash[key][0] == None ) or ( val1 < self.onesMinHash[key][0][1] ) or ( ( val1 == self.onesMinHash[key][0][1] ) and (val0 >  self.allMinHash[key][ self.onesMinHash[key][0][0] ][0] ) ):
+				#decal
+				self.onesMinHash[key][1] = self.onesMinHash[key][0]
+				self.onesMinHash[key][0] = (index, val1)
+			elif  ( self.onesMinHash[key][1] == None ) or ( val1 < self.onesMinHash[key][1][1] ) or ( ( val1 == self.onesMinHash[key][1][1] ) and (val0 >  self.allMinHash[key][ self.onesMinHash[key][1][0] ][0] ) ):
+				self.onesMinHash[key][1] = (index, val1)
+
+	def updateParMin(self, id, val0, val1):
+		if self.parent ==None:
+			return
+		
+		self.parent.secondHash[id] = (val0,val1, min(val0,val1))
+		
+		if (val1 != TOP ):
+			if (self.parent.secondOnesMin == None) or (val1 < self.parent.secondOnesMin[1]) or ( (val1 == self.parent.secondOnesMin[1])  and (val0 > self.parent.secondHash[ self.parent.secondOnesMin[0] ][0] ) ):
+				self.parent.secondOnesMin = (id, val1)
 			
-			if (size > 1):
-				for k in xrange(size-1):
-					queue.append((_sorted[k], 0 , level+1,_sorted[k]))
-					parent[_sorted[k]] = (cur, 0, level+1,_sorted[k])
-					branches[_sorted[k]] = [ magic[(cur, _sorted[k])] ]
-				
-			queue.append((_sorted[size-1], pos +1 , level+1, cur_branch))
-			parent[_sorted[size-1]] = (cur, pos+1, level+1,cur_branch)
-			branches[cur_branch].append(magic[(cur, _sorted[size-1])])
 		
-		#visited.add(cur)
+	
+	def process(self, index):
+		
+			
+		if ( len(self.children) > 0 ):
+			#update the data
+			
+			# key "00", need at least two ones
+			key = "00"
+			val = TOP
+			if ( self.onesMinHash[key][0] != None ) and (self.onesMinHash[key][1] != None):
+				excl0 = self.onesMinHash[key][0][0]
+				excl1 = self.onesMinHash[key][1][0]
+				
+				val = self.onesMinHash[key][0][1] + self.onesMinHash[key][1][1]
+				
+				
+				for i in xrange( len(self.children) ):
+					if (i == excl0) or (i == excl1) :
+						continue
+					
+					if ( self.allMinHash[key][i][2] == TOP ):
+						val = TOP
+						break
+					val += self.allMinHash[key][i][2]
+					
+			self.data[0] = val  #000
+			self.data[1] = val  #001
+			
+			# key "01", need at least one ones
+			key = "01"
+			val = TOP
+			
+			if ( self.onesMinHash[key][0] != None ) :
+				excl0 = self.onesMinHash[key][0][0]
+				val = self.onesMinHash[key][0][1]
+				
+				for i in xrange( len(self.children) ):
+					if (i == excl0):
+						continue
+					if ( self.allMinHash[key][i][2] == TOP ):
+						val = TOP
+						break
+					val += self.allMinHash[key][i][2]
+			
+			self.data[2] = val #010
+			self.data[3] = val #011
+			
+			# key "10", need at least one ones  or zero ??
+			key = "10"
+			val = TOP
+			if ( self.onesMinHash[key][0] != None ) :
+				excl0 = self.onesMinHash[key][0][0]
+				val = self.onesMinHash[key][0][1]
+				
+				for i in xrange( len(self.children) ):
+					if (i == excl0):
+						continue
+					if ( self.allMinHash[key][i][2] == TOP ):
+						val = TOP
+						break
+					val += self.allMinHash[key][i][2]
+			
+			self.data[4] = 1+val #100
+			
+			
+			## at least one zeros in the second generation ???
+			val = TOP
+			if ( self.secondOnesMin != None ) :
+				excl0 = self.secondOnesMin[0]
+				val = self.secondOnesMin[1]
+				
+				for k in self.secondHash.keys():
+					if k == excl0:
+						continue
+					if ( self.secondHash[k][2] == TOP ):
+						val = TOP
+						break
+					val += self.secondHash[k][2]
+
+			self.data[4] = min (self.data[4], 1 +val )
+			
+			
+			#no constraints
+			val = 0
+			for i in xrange( len(self.children) ):
+				if ( self.allMinHash[key][i][2] == TOP ):
+					val = TOP
+					break
+				val += self.allMinHash[key][i][2]
+			
+			
+			self.data[5] = 1+val #101
+			
+
+			# key "11", need at least zero ones
+			key = "11"
+			val = 0
+			for i in xrange( len(self.children) ):
+				if ( self.allMinHash[key][i][2] == TOP ):
+					val = TOP
+					break
+				val += self.allMinHash[key][i][2]
+			
+			self.data[6] = 1+val #110
+			self.data[7] = 1+val #111
+			
+		else:
+			#push parent
+			self.updateParMin(self.id, self.data[1], self.data[5] )
+	
+		if (self.parent != None):
+			#push data to parent
+			self.parent.updateMin("00", index, self.data[0], self.data[4] ) # 000 / 100
+			self.parent.updateMin("01", index, self.data[1], self.data[5] ) # 001 / 101
+			self.parent.updateMin("10", index, self.data[2], self.data[6] ) # 010 / 110
+			self.parent.updateMin("11", index, self.data[3], self.data[7] ) # 011 / 111
+			
+			#self.parent.updateParMin(self.id, min(self.data[1], self.data[3] ), min(self.data[5],self.data[7]) ) #"01"
+			self.parent.updateParMin(self.id, self.data[1], self.data[5] ) #"01"
+	
+	def isValid(self,tuple):
+		
+		numActiveChildren = 0
+		numActiveGrandChildren = 0
+		for k in self.children:
+			if tuple[k.id] == 1:
+				numActiveChildren += 1
+				numActiveGrandChildren += 1
+			for l in k.children:
+				if tuple[l.id] == 1:
+					numActiveGrandChildren += 1
+				
+		if tuple[self.id] == 0:
+			if self.parent != None and tuple[self.parent.id] == 1:
+				return numActiveChildren >=1 
+			else:
+				return numActiveChildren >= 2
+		else:
+			if self.parent!=None:
+				if tuple[self.parent.id] == 1:
+					return True
+				else:
+					if self.parent.parent != None and tuple[self.parent.parent.id] == 1:
+						return True
+					else:
+						return numActiveGrandChildren >= 1
+			else:
+				#like if it was 00
+				return numActiveGrandChildren >= 1
+	
+	def remove(self, tuple):
+		new_tuple = list(tuple)
+		new_tuple[self.id] = 0
+		
+		if not self.isValid(new_tuple):
+			return None
+		
+		if self.parent != None:
+			if not self.parent.isValid(new_tuple):
+				return None
+			if self.parent.parent != None and not self.parent.parent.isValid(new_tuple):
+				return None
+	
+		
+		for k in self.children:
+			if not k.isValid(new_tuple):
+				return None
+			for l in k.children:
+				if not l.isValid(new_tuple):
+					return None
+					
+		return new_tuple
+	
+	def show(self):
+		
+		print "Node ", self.id
+		
+		print self.data
+		
+
  
-def recurs(vertices, ray):
+def recurs(vertices, root, nodes):
  
-	queue = deque([])
+	queue = []
 	for k in vertices[1].keys():
-		queue.append(1)
-		queue.append(k)
+		cur = Node(k)
+		nodes[k] = cur
+		cur.setParent(root)
+		root.addChild(cur)
+		
+		queue.append(cur)
 	
-	
+	root.initMinHash()
 	visited = set([1])
-	
-	ray.append(1)
 	
 	while len(queue) > 0 :
 		
 		cur = queue.pop() #dequeue ??
-		ray.append(cur)
-		if cur in visited:
-			#ray.append(parents[cur])
+	
+		if cur.id in visited:
 			continue
-		
-		for k in vertices[cur].keys():
+
+			
+		if len(vertices[cur.id]) == 1 :
+			continue
+			
+		for k in vertices[cur.id].keys():
 			if (k in visited):
 				#del vertices[cur][k]
 				continue
-			queue.append(cur)
-			queue.append(k)
+			new_cur = Node(k)
+			nodes[k] = new_cur
+			new_cur.setParent(cur)
+			cur.addChild(new_cur)
+			
+			queue.append(new_cur)
 		
-		
-		visited.add(cur)
-		
-	
+		cur.initMinHash()
+		visited.add(cur.id)
  
+def dfs(root):
 	
+	queue = [(root,-1)]
 	
+	for i in xrange(len(root.children)):
+		c = root.children[i]
+		queue.append((c , i))
+		queue.append((c , i))
+	
+	visited = set([1])
+	
+	while len(queue) > 0 :
+		
+		cur, index = queue.pop() #dequeue ??
+	
+		if cur.id in visited:
+			#finished treating its children, process !!
+			cur.process(index)
+			continue
+		
+
+		for i in xrange(len(cur.children)):
+			c = cur.children[i]
+			queue.append((c , i))
+			queue.append((c , i))
+	
+		visited.add(cur.id)
+
+
+def dfs_show(root):
+	
+	queue = [(root,-1)]
+	
+	for i in xrange(len(root.children)):
+		c = root.children[i]
+		queue.append((c , i))
+		queue.append((c , i))
+	
+	visited = set([1])
+	
+	while len(queue) > 0 :
+		
+		cur, index = queue.pop() #dequeue ??
+	
+		if cur.id in visited:
+			#finished treating its children, process !!
+			cur.show()
+			continue
+		
+
+		for i in xrange(len(cur.children)):
+			c = cur.children[i]
+			queue.append((c , i))
+			queue.append((c , i))
+	
+		visited.add(cur.id)
+		
+
+		
 def main():
 	
 	import sys
@@ -164,101 +364,84 @@ def main():
 		N = int(sys.stdin.readline().strip())
 		
 		vertices = [0]*(N+1)
-		magic = {}
-		
+		adj = [0]*(N)
 		for n in xrange(1,N+1):
 			vertices[n] = {}
+			adj[n-1] = [0]*N
 		
 		for n in xrange(N-1):
-			U, V, C =  map( int, sys.stdin.readline().strip().split() )
- 
-			magic[(U,V)] = C
-			magic[(V,U)] = C
+			U, V = map( int, sys.stdin.readline().strip().split() )
+
+			adj[U-1][V-1] = 1
+			adj[V-1][U-1] = 1
+			
 			vertices[U][V] = 1
 			vertices[V][U] = 1
 		
-		#print vertices
-		
-		ray = deque([])
-		recurs(vertices, ray)
-		ray = list(ray)
+		#for  n in range(N):
+		#	print ",".join([ str(c) for c in adj[n]])
 		
 		
-		vertices = None
-		pos = 0
-		magicA = deque([])
-		first = {}
+		nodes = [0]*(N+1)
+		root = Node(1)
+		nodes[1] = root
+		extra = recurs(vertices, root, nodes)
 		
-		for k in xrange(1,len(ray)):
-			if (not ray[k-1] in first):
-				first[ray[k-1]] = k-1
-				
-			if ray[k-1] == ray[k]:
-				continue
-			
-			magicA.append(int( magic[(ray[k-1], ray[k])] ) )
-			magic[(ray[k-1], ray[k])] = pos
-			
-			pos += 1
-		
-		magicA = list(magicA)
+		dfs(root)
+		#print root.data
 		
 		
 		
-		#print magicA
-		#print magic
-		#print first
+		sol = min ( root.data[0]  , root.data[4] )
+		if sol == TOP:
+			sol = -1
+		print sol
 		
-		#magicA = [3 , 1, 4,2,5, 1,123,123,34,554,433,1435,14,4345,24121,4541,11,11,545,55,1,4,5]
+		#dfs_show(root)
 		
-		NN = len(magicA)
-		exp = int( math.log(NN,2)) ; 
-		size = exp + 2
-		tree1 = [0]* (NN * size)
-		tree2 = [0]* (NN * size)
-			
-		build_tree_max( tree1, tree2, magicA, 0 , 0 , NN-1 , NN)
+		print "----"
 		
-		#print magicA
-		# print tree1
-		# print tree2
-		
-		#for k in range(1,size):
-		#	print tree1[(k-1)*NN : k*NN]
-		
-		#print "---"
-		
-		#for k in range(1,size):
-		#	print tree2[(k-1)*NN : k*NN]
-		
-		M = int(sys.stdin.readline().strip())
-		for m in xrange(M):
-			U, V, K = map( int, sys.stdin.readline().strip().split() )
-			
-			sol = 0
-			
-			if U == V:
-				print 0
-				continue
-			
-			fU = first[U]
-			fV = first[V]
-			
-			if fU < fV:
-				x = magic[ (ray[fU], ray[fU+1]) ]
-				y = magic[ (ray[fV-1], ray[fV]) ]
-				#print x, y
-				sol = query_max(tree1, tree2 , 0, 0, NN - 1, x, y, NN,  K )
-			else:
-				x = magic[ (ray[fV], ray[fV+1]) ]
-				y = magic[ (ray[fU-1], ray[fU]) ]
-				#print x, y
-				sol = query_max(tree1, tree2 , 0, 0, NN - 1, x, y, NN, K )
-			
-			print sol
+		brute(nodes,N)
 		
 		
+		
+
+def brute(nodes,N):
 	
+	tuple = [1]*(N+1)
+	sols = []
+	_min = TOP
+	
+	#tuple = [1, 1, 1, 0, 1, 1]
+	queue = [ tuple ]
+	
+	while len(queue) > 0:
+		cur = queue.pop()
+	
+		can_remove = False
+		for i in range(1,N+1):
+			if cur[i] == 0:
+				continue
+			val = nodes[i].remove(cur)
+			if val != None:
+				queue.append(val)
+				can_remove = True
+		
+		if not can_remove:
+			val = sum(cur) -1
+			if val < _min:
+				_min = val
+				sols = [cur]
+				print _min
+				print sols
+			#elif val == _min:
+			#	sols.append(cur)
+	
+
+	#print _min
+	#print sols
+		
+		
 def test():
 	d = 1
 			
@@ -285,3 +468,4 @@ if __name__ == "__main__":
 	#print time.time()-s   
 	
 	#test() 
+ 

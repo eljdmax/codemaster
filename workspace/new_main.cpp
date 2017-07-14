@@ -35,8 +35,7 @@ void build_tree_max(unsigned int* tree1, unsigned int* tree2, unsigned int* A, u
 			tree1[start] = tree1[ptL];
 			ptL += 1;
 		} else {
-			tree1[start] = tree1[ptR];
-			ptR += 1;
+e a			ptR += 1;
 		}
 		tree2[start] = pre^tree1[start];
 		pre = tree2[start];
