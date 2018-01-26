@@ -1,9 +1,7 @@
 require "selenium-webdriver"
 
 $folder = "/home/rlekane/selenium"
-$file = "#{$folder}/list"
-$processed = "#{$folder}/processed"
-$failed  = "#{$folder}/failed"
+$file = "#{$folder}/tokens"
 
 $line = `head -n 1 #{$file}`
 
@@ -83,30 +81,17 @@ def processTwitch(user, email)
     $signUpId = 'signup_tab'
     $signUpCss = '#signup_tab > a:nth-child(1)' 
     $usernameId = '#signupForm #username'
-    $passwordId = '#signupForm #password'
-    $dateMonthId = '#signupForm select[name="birthday.month"]'
-    $dateDayId = '#signupForm select[name="birthday.day"]'
-    $dateYearId = '#signupForm select[name="birthday.year"]'  
-    $emailId = '#signupForm input[name=email]'
-    $submitId = 'button[type=submit]'
-    $authorizeId = 'button.button.js-authorize'
 
     $frame  = '#g-recaptcha iframe'
     $recaptcha  = 'recaptcha-anchor';
+    $responsecap = "#g-recaptcha-response"
 
     wait_for('id' ,  $twitchId)
     #$wait.until{ $driver.find_element(id: $twitchId).displayed?  }
     $driver.find_element(id: $twitchId).click
- 
-    begin
-        wait_for('css', $frame, 60)
-        #$driver.switch_to.frame find_element(css: $frame)
-        #wait_for('id-check' ,  $recaptcha, 30)
-        sleep(10+8)
-    rescue Exception => e
-    end 
 
-    #$driver.switch_to.frame 0
+    wait_for('css', $frame)
+    sleep(20)
 
     wait_for('css', $signUpCss) 
     #$waitLong.until{ $driver.find_element(id: $signUpId).displayed?  }
@@ -138,12 +123,24 @@ def processTwitch(user, email)
     $driver.find_element(css: $emailId).send_keys(email)
 
     wait_for('css', $frame)
-    #$driver.switch_to.frame find_element(css: $frame)
-    #wait_for('id-check' , $recaptcha,60)
-
-    #$driver.switch_to.frame 0
-
     sleep(15)
+
+    element = $driver.find_element(css: $responsecap)
+    #puts "value = #{element.attribute('value')}\n"
+    #puts "innerHTML = #{element.attribute('innerHTML')}\n"
+    curUrl = $driver.current_url
+    proxy = "--proxy http://proxy.sdc.hp.com:8080"
+    token = "curl #{proxy} -F p=nocaptcha  -F googlekey=6Ld65QcTAAAAAMBbAE8dkJq4Wi4CsJy7flvKhYqX  -F 'pageurl=#{curUrl}' -F key=aede46c8aa5e56deb209676bc2d73089 -F secret=f872b0d3  http://api.captchasolutions.com/solve"
+    token.chomp
+ 
+    puts "token = #{token}"
+    $driver.execute_script(" arguments[0].value = arguments[1];", element, token)
+    $driver.execute_script(" arguments[0].innerHTML = arguments[1];", element, token)
+    
+    #puts "value = #{element.attribute('value')}\n"
+    #puts "innerHTML = #{element.attribute('innerHTML')}\n"
+
+    sleep(5)
     wait_for('css', $submitId)
     #$wait.until{ $driver.find_element(css: $submitId).displayed? }
     $driver.find_element(css: $submitId).send_keys(:enter)
@@ -159,63 +156,6 @@ def processTwitch(user, email)
 
 end
 
-def twitchExit()
-
-    $url = 'https://www.twitch.tv/directory/'
-    $dropId = 'button[data-a-target=user-menu-toggle]'
-    $logOutId = 'button[data-a-target=dropdown-logout]'
-
-    $driver.navigate.to $url
-    wait_for('css', $dropId)
-    $driver.find_element(css: $dropId).send_keys(:enter) 
-
-    wait_for('css', $logOutId)
-    $driver.find_element(css: $logOutId).send_keys(:enter)
-    sleep(5)
-
-end
-
-def extraPoints()
-
-    $shareLink = 'https://refereum.com/Share'
-    $accountLink = 'https://refereum.com/Account'
-    $redditId = 'a#RedditFollow'
-    $twitterId = 'a#TwitterFollow'
-    $facebookId = 'a#FacebookFollow'
-    $logoutId = 'div.account-user-profile-actions:nth-child(1)'
-    $mainWindow = $driver.window_handle
- 
-    $driver.navigate.to $shareLink
-    sleep(5)
-    wait_for('css', $redditId)
-    #$wait.until{ $driver.find_element(css: $redditId).displayed? }
-    $driver.find_element(css: $redditId).click
-    sleep(3)
-
-    $driver.switch_to.window($mainWindow)
-    $driver.navigate.to $shareLink
-    sleep(5)
-    wait_for('css', $twitterId)
-    #$wait.until{ $driver.find_element(css: $twitterId).displayed? }
-    $driver.find_element(css: $twitterId).click
-    sleep(3)
-
-    $driver.switch_to.window($mainWindow)
-    $driver.navigate.to $shareLink
-    sleep(5)
-    wait_for('css', $facebookId)
-    #$wait.until{ $driver.find_element(css: $facebookId).displayed? }
-    $driver.find_element(css: $facebookId).click
-    sleep(3)
-
-    $driver.switch_to.window($mainWindow)
-    $driver.navigate.to $accountLink   
-    sleep(5)
-    wait_for('css', $logoutId)
-    #$wait.until{ $driver.find_element(css: $logoutId).displayed? }
-    $driver.find_element(css: $logoutId).click
-
-end
 
 begin
 
@@ -229,31 +169,17 @@ wait_for( 'id' , $acceptId)
 #$wait.until{ $driver.find_element(id: $acceptId).displayed? }
 $driver.find_element(id: $acceptId).send_keys(:space)
 
-vals = $line.split(',')
-
-processTwitch(vals[0] , vals[1])
+processTwitch()
 
 sleep(10)
 
-extraPoints()
-
-sleep(5)
-
-twitchExit()
-
-sleep(10)
 puts "end"
 
-
-
-`echo '#{$line}' >> #{$processed}`
 rescue Exception => e
 #clean up
 puts "error ... #{e}"
-`echo '#{$line}' >> #{$failed}`
 end
 
-`sed -i '1d' #{$file}`
 $driver.manage.delete_all_cookies
 $driver.quit
 

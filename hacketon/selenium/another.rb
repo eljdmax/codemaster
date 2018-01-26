@@ -5,13 +5,22 @@ $file = "#{$folder}/list"
 $processed = "#{$folder}/processed"
 $failed  = "#{$folder}/failed"
 
+$tokens = "#{$folder}/tokens"
+
 $line = `head -n 1 #{$file}`
+$token = `head -n 1 #{$tokens}`
 
 if $line.to_s.empty?
    abort "nothing to process"
 end
 
+if $token.to_s.empty?
+   abort "no token left"
+end
+
+
 $line = $line.chomp
+$token = $token.chomp
 
 $wait = Selenium::WebDriver::Wait.new(:timeout => 60) #second
 $waitLong = Selenium::WebDriver::Wait.new(:timeout => 120) #second
@@ -78,6 +87,30 @@ def optionSelect(my_select, value)
 
 end
 
+def goToRef()
+
+    $authorizeId = 'button.button.js-authorize' 
+
+    $driver.navigate.to $url
+
+    wait_for('id' ,  $signUpId)
+    $driver.find_element(id: $signUpId).click
+
+    wait_for( 'id' , $acceptId)
+    $driver.find_element(id: $acceptId).send_keys(:space)
+
+    wait_for('id' ,  $twitchId)
+    $driver.find_element(id: $twitchId).click
+  
+    sleep(10)
+    wait_for('css', $authorizeId)
+    sleep(6)
+    wait_for('css', $authorizeId)
+
+    $driver.find_element(css: $authorizeId).send_keys(:enter)
+
+end
+
 def processTwitch(user, email)
 
     $signUpId = 'signup_tab'
@@ -89,73 +122,46 @@ def processTwitch(user, email)
     $dateYearId = '#signupForm select[name="birthday.year"]'  
     $emailId = '#signupForm input[name=email]'
     $submitId = 'button[type=submit]'
-    $authorizeId = 'button.button.js-authorize'
 
     $frame  = '#g-recaptcha iframe'
     $recaptcha  = 'recaptcha-anchor';
+    $responsecap = "#g-recaptcha-response"
 
-    wait_for('id' ,  $twitchId)
-    #$wait.until{ $driver.find_element(id: $twitchId).displayed?  }
-    $driver.find_element(id: $twitchId).click
- 
-    begin
-        wait_for('css', $frame, 60)
-        #$driver.switch_to.frame find_element(css: $frame)
-        #wait_for('id-check' ,  $recaptcha, 30)
-        sleep(10+8)
-    rescue Exception => e
-    end 
+    $signUpUrl ='https://passport.twitch.tv/signup/new?client_id=36926892495301a63b2e9350a38d3d6dbf72ad81e571a3ebba4687250ec8f352c70b3e91229602f73e1335528f3caa00a5cf513f484d7003784e722f2ce7a216&embed=0&error_code=&redirect_path=https%3A%2F%2Fwww.twitch.tv%2F&style=&sudo_reason=&username='
 
-    #$driver.switch_to.frame 0
-
-    wait_for('css', $signUpCss) 
-    #$waitLong.until{ $driver.find_element(id: $signUpId).displayed?  }
-    $driver.find_element(css: $signUpCss).click
+    $driver.navigate.to $signUpUrl 
 
     wait_for('css', $usernameId)
-    #$wait.until{ $driver.find_element(id: $usernameId) }
     $driver.find_element(css: $usernameId).send_keys(user)
 
     wait_for('css', $passwordId)
-    #$wait.until{ $driver.find_element(id: $passwordId).displayed? }
     $driver.find_element(css: $passwordId).send_keys("Master@123")
 
     
-    #$wait.until{ $driver.find_element(css: $dateMonthId).displayed? }  
     month = rand(1..12)
     optionSelect($driver.find_element(css: $dateMonthId), month.to_s)
 
-    #$wait.until{ $driver.find_element(css: $dateDayId).displayed? }  
     day = rand(1..28)
     optionSelect($driver.find_element(css: $dateDayId), day.to_s)
 
-    #$wait.until{ $driver.find_element(css: $dateYearId).displayed? }  
     year = rand(1977..1994)
     optionSelect($driver.find_element(css: $dateYearId), year.to_s)  
 
     wait_for('css', $emailId)
-    #$wait.until{ $driver.find_element(css: $emailId).displayed? }
     $driver.find_element(css: $emailId).send_keys(email)
 
     wait_for('css', $frame)
-    #$driver.switch_to.frame find_element(css: $frame)
-    #wait_for('id-check' , $recaptcha,60)
-
-    #$driver.switch_to.frame 0
-
     sleep(15)
+
+    element = $driver.find_element(css: $responsecap)
+ 
+    $driver.execute_script(" arguments[0].value = arguments[1];", element, $token)
+    $driver.execute_script(" arguments[0].innerHTML = arguments[1];", element, $token)
+    
+    sleep(5)
     wait_for('css', $submitId)
-    #$wait.until{ $driver.find_element(css: $submitId).displayed? }
     $driver.find_element(css: $submitId).send_keys(:enter)
-
-    sleep(10)
-    wait_for('css', $authorizeId)
-    #$wait.until{ $driver.find_element(css: $authorizeId).displayed? }
-    sleep(6)
-    wait_for('css', $authorizeId)
-    #$waitShort.until{ $driver.find_element(css: $authorizeId).displayed? }
-
-    $driver.find_element(css: $authorizeId).send_keys(:enter)
+    sleep(45)
 
 end
 
@@ -188,7 +194,6 @@ def extraPoints()
     $driver.navigate.to $shareLink
     sleep(5)
     wait_for('css', $redditId)
-    #$wait.until{ $driver.find_element(css: $redditId).displayed? }
     $driver.find_element(css: $redditId).click
     sleep(3)
 
@@ -196,7 +201,6 @@ def extraPoints()
     $driver.navigate.to $shareLink
     sleep(5)
     wait_for('css', $twitterId)
-    #$wait.until{ $driver.find_element(css: $twitterId).displayed? }
     $driver.find_element(css: $twitterId).click
     sleep(3)
 
@@ -204,7 +208,6 @@ def extraPoints()
     $driver.navigate.to $shareLink
     sleep(5)
     wait_for('css', $facebookId)
-    #$wait.until{ $driver.find_element(css: $facebookId).displayed? }
     $driver.find_element(css: $facebookId).click
     sleep(3)
 
@@ -212,26 +215,19 @@ def extraPoints()
     $driver.navigate.to $accountLink   
     sleep(5)
     wait_for('css', $logoutId)
-    #$wait.until{ $driver.find_element(css: $logoutId).displayed? }
     $driver.find_element(css: $logoutId).click
 
 end
 
 begin
 
-$driver.navigate.to $url
-
-wait_for('id' ,  $signUpId)
-#$wait.until{ $driver.find_element(id: $signUpId).displayed? }
-$driver.find_element(id: $signUpId).click
-
-wait_for( 'id' , $acceptId)
-#$wait.until{ $driver.find_element(id: $acceptId).displayed? }
-$driver.find_element(id: $acceptId).send_keys(:space)
-
 vals = $line.split(',')
 
 processTwitch(vals[0] , vals[1])
+
+sleep(10)
+
+goToRef()
 
 sleep(10)
 
@@ -241,19 +237,20 @@ sleep(5)
 
 twitchExit()
 
-sleep(10)
+sleep(5)
 puts "end"
 
 
 
-`echo '#{$line}' >> #{$processed}`
+#`echo '#{$line}' >> #{$processed}`
 rescue Exception => e
 #clean up
 puts "error ... #{e}"
-`echo '#{$line}' >> #{$failed}`
+#`echo '#{$line}' >> #{$failed}`
 end
 
-`sed -i '1d' #{$file}`
+#`sed -i '1d' #{$file}`
+#`sed -i '1d' #{$tokens}`
 $driver.manage.delete_all_cookies
 $driver.quit
 
