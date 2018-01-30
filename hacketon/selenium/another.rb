@@ -5,34 +5,20 @@ $file = "#{$folder}/list"
 $processed = "#{$folder}/processed"
 $failed  = "#{$folder}/failed"
 
-$tokens = "#{$folder}/tokens"
-
 $line = `head -n 1 #{$file}`
-$token = `head -n 1 #{$tokens}`
 
 if $line.to_s.empty?
    abort "nothing to process"
 end
 
-if $token.to_s.empty?
-   abort "no token left"
-end
-
 
 $line = $line.chomp
-$token = $token.chomp
 
 $wait = Selenium::WebDriver::Wait.new(:timeout => 60) #second
 $waitLong = Selenium::WebDriver::Wait.new(:timeout => 120) #second
 $waitShort = Selenium::WebDriver::Wait.new(:timeout => 10) #second
 
 
-
-$url = 'https://refereum.com/?refid=367blgezsk'
-$signUpId = 'landing-save-button'
-$acceptId = 'acceptTerms'
-$twitchId = 'twitchSignIn'
-$discordId = 'discordSignIn'
 
 Selenium::WebDriver::Firefox::Binary.path = "/home/rlekane/Downloads/firefox-sdk-51/bin/firefox"
 #Selenium::WebDriver::Firefox::Binary.path = "/root/Downloads/firefox-51.0.linux-i686.sdk/firefox-sdk/bin/firefox" 
@@ -89,6 +75,11 @@ end
 
 def goToRef()
 
+    $url = 'https://refereum.com/?refid=367blgezsk'
+    $signUpId = 'landing-save-button'
+    $acceptId = 'acceptTerms'
+    $twitchId = 'twitchSignIn'
+    $discordId = 'discordSignIn'
     $authorizeId = 'button.button.js-authorize' 
 
     $driver.navigate.to $url
@@ -113,8 +104,6 @@ end
 
 def processTwitch(user, email)
 
-    $signUpId = 'signup_tab'
-    $signUpCss = '#signup_tab > a:nth-child(1)' 
     $usernameId = '#signupForm #username'
     $passwordId = '#signupForm #password'
     $dateMonthId = '#signupForm select[name="birthday.month"]'
@@ -151,14 +140,9 @@ def processTwitch(user, email)
     $driver.find_element(css: $emailId).send_keys(email)
 
     wait_for('css', $frame)
-    sleep(15)
 
-    element = $driver.find_element(css: $responsecap)
- 
-    $driver.execute_script(" arguments[0].value = arguments[1];", element, $token)
-    $driver.execute_script(" arguments[0].innerHTML = arguments[1];", element, $token)
+    sleep(45)
     
-    sleep(5)
     wait_for('css', $submitId)
     $driver.find_element(css: $submitId).send_keys(:enter)
     sleep(45)
@@ -188,7 +172,7 @@ def extraPoints()
     $redditId = 'a#RedditFollow'
     $twitterId = 'a#TwitterFollow'
     $facebookId = 'a#FacebookFollow'
-    $logoutId = 'div.account-user-profile-actions:nth-child(1)'
+    $logoutId = 'a.btn-account-user-profile-action.white'
     $mainWindow = $driver.window_handle
  
     $driver.navigate.to $shareLink
@@ -242,18 +226,15 @@ puts "end"
 
 
 
-#`echo '#{$line}' >> #{$processed}`
+`echo '#{$line}' >> #{$processed}`
 rescue Exception => e
 #clean up
 puts "error ... #{e}"
-#`echo '#{$line}' >> #{$failed}`
+`echo '#{$line}' >> #{$failed}`
 end
 
-#`sed -i '1d' #{$file}`
-#`sed -i '1d' #{$tokens}`
+`sed -i '1d' #{$file}`
 $driver.manage.delete_all_cookies
 $driver.quit
 
 sleep(5)
-`killall -9 firefox 2>/dev/null`
-sleep(2)
