@@ -1,0 +1,38 @@
+begin
+
+  $driver.manage.timeouts.page_load = 5
+  puts "loading page .."
+  $driver.navigate.to  "https://www.twitch.tv/category/"
+rescue Timeout::Error => e
+  puts "timeout: #{e}"
+rescue Exception => e
+  puts "exception: #{e}"
+end
+
+$driver.manage.timeouts.page_load = 30
+$driver.navigate.to  "https://www.twitch.tv/category/"
+
+=begin
+#sleep(35)
+
+$cookies = $driver.manage.all_cookies()
+$driver.quit
+sleep(3)
+
+profile['network.proxy.type'] = 5
+cap  = Selenium::WebDriver::Remote::Capabilities.firefox(:firefox_profile => profile, :firefox_binary => path)
+$driver = Selenium::WebDriver.for :remote, :url => "http://localhost:4445/wd/hub/" , :desired_capabilities => cap
+
+$driver.navigate.to  "https://refereum.com/?refid=367blgezsk"
+
+$cookies.each do |v|
+  p v
+  begin
+    $driver.manage.add_cookie(v)
+  rescue Exception => e
+    puts "failed #{e}"
+  end
+end
+
+sleep(5)
+
