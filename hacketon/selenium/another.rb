@@ -5,7 +5,35 @@ $file = "#{$folder}/list"
 $processed = "#{$folder}/processed"
 $failed  = "#{$folder}/failed"
 
-$line = `head -n 1 #{$file}`
+$mutex = '/tmp/mutex.m'
+
+def acquire( delta = 60)
+   startTime = Time.now.to_i 
+   while (Time.now.to_i  < startTime + delta)
+      begin
+         present = `mkdir #{$mutex} 2>&1`
+         present = present.chomp
+         if ( present.to_s.empty?)
+             return
+         else
+             sleep(0.5)
+         end
+      rescue Exception => e
+         sleep(0.5)
+      end
+   end
+   raise "wait for timed out"
+end
+
+def release()
+    `rm -rf #{$mutex}`
+end
+
+acquire()
+$line = `head -n1 #{$file}`
+`sed -i '1d' #{$file}`
+release()
+
 
 if $line.to_s.empty?
    abort "nothing to process"
@@ -233,7 +261,6 @@ puts "error ... #{e}"
 `echo '#{$line}' >> #{$failed}`
 end
 
-`sed -i '1d' #{$file}`
 $driver.manage.delete_all_cookies
 $driver.quit
 
