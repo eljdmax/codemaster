@@ -1,6 +1,8 @@
 https://www.engineyard.com/blog/getting-started-with-ruby-and-websockets
 https://github.com/imanel/websocket-eventmachine-client
 	
+0x80d2c1050F5a3D84f4C8dC467c119F06B311F3d0
+	
 	
 	code/:$ wscat -c 'wss://irc-ws.chat.twitch.tv:443'
     connected (press CTRL+C to quit)
