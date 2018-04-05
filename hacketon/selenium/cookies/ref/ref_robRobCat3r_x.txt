@@ -1,0 +1,17 @@
+#robRobCat3r_x
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da5dc3be357e6848aff49a4fa8ddd26761521407747
+refereum.com	TRUE	/	FALSE	0	ai_user	b/WZ7|2018-03-18T21:15:48.391Z
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	VFUzNzVXcWNnTFc1Z0pzanFnUElsTVdJcE9WVi9KQlVsNVR0UEh5UXRkODU1Z2lCWDVPK1pNWmc5L2NESUQ4by0teW95Q2I0Y0FubWFEZnpyVDY5bnZRdz09--2c866ca40d79c5f2b2a7d41d9550c15c57e2adf9
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	pOUyP2_vv3FdACc-jFxDlP3DQaAAchBNoE38kSk65WI-j6xDDvY4b9-FVYvsHWFOsTMZpz4Ilo2eLNqDB-uXDMRqIx8BesDeV7McGibd90g1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ai_session	kgeEq|1522953774023.13|1522953774023.13
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	nyiz5jm3z5whwbw3axtjrn5s
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	11W3_HTILBENCD972Yes3yJHA5TEYIw1yiTBo1xISt4MYqHTHQfMSxVa12dkRWOK7lP3rZczdNRUG_hsXM-ZSzCN4nlRB6WXqOTeANXCLR138WlsZQBbpa_THeG1UUHEPTKQq5M2iD9dtm6R0Xephgn7SG7xtUc8I6O4di5W_5RM5UUwVpjHViNVWdG_mphCJgwb8p9eCRrJ9BaC7cafwt7EgrkwWkIpm0K9FsBeGLgQ2Cm6q-uff6AUucvQ5uEQPrs4lHuithxkUVJ74NgCyyDi91H3OCrhhe-wjYXDRu-kB7u8MusCWEb2MqSE7QGu_MS62W7tvUlDhUNYwqhL0QVQNvqvMhTH0yMBb4ie3kvhDL0QEChebPk1JWtfK_AV29ZnFP3M1PS8Uf6dO-1edQbdd8xFaO-63A0cvuvmwqzb5i4FjUTQy6EOe0Nvvc0FsGJ61p7nUZTE5Vmehna4LffeJQhV5WZ2zDp1gw-lJCs7AhZnCDKlE6oivJGt7pkg
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.1786420688.1521407748
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1589367124.1522953767
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522953770697%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%224875776418843003%22%2C%22pageviewId%22%3A%227806967590150889%22%2C%22sessionId%22%3A%221883528513623193%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
