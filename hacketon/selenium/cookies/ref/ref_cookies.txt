@@ -1,0 +1,16 @@
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	322OWvNIAmkMxBMhimUJGF1u9UoG03dyCmrSZaPq_Cam3eUbIHmEODLLw6ZQo9J1y_GWftEmvVe8Ws0b0AB2rzrbHSc4H-3oudnRRMO_mTA1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	f2612939bd3547316ad35adb8f2ec3ad09ad8a5e5109fd1a2af3fd2a09a00078
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ai_session	xtcHS|1522852120638.18|1522852120638.18
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	zfdtkhgtywoiuktf4hwucuuj
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	uFVx-ameau9DrCzHrNvtsD1rLqpdKxTw0KNBmNmrxWZhSpLyfwFouH_SjsMM2T5yrY60Ud8UqyNbKEz9LvuZElDENi6aA9uyLkBtU4QKaCfUWuAAotkBaQuW9aXwFtNnCYVWtqznld6PG9tZCCzBxA4-IFXjvfCV7Mv3lGu7aYY8ZTvAa1u9uD5HbcjGlpsxEP7UfAeVVrHJqztVRWWUR9NPvOsz8wxM9qmTPkTsTgHpkubCfZ4fkwP6xclacUSlIZr52eRr_wimUXZxhs7ZZL2ZAVK9qvKUy1WHjEEcQs66hDQhaO41dcDYdG61TiaMTPtBnXxdO4LFodSTuO0QHMBST5vHA4qQ_wfU0Qj7Mjn1GU_tL7u7gDGxUA-FDnSPS_Q8042eHs8EaAz43FivS1yh9rRZf5PfSciOFt97I1L9MoTPZdK1Km8ZQ6WeyMrQikqFstv09feaUSEjEE0aIZQLl8oFsCAyIsItuLJ5OkMfFb4FYbmvJ74qnN0BfCfR
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1795528660.1522852107
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522852109944%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%225877604187006030%22%2C%22sessionId%22%3A%227552125082059770%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D

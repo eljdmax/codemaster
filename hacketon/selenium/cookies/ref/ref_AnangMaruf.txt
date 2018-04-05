@@ -1,0 +1,17 @@
+#AnangMaruf
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	LR09uF0eNwXGCKT_dLC7xTZTVHaLmBZVxFfA2u2MxJ0Ukz-trkNvJKUkU7HFaG8Wv9Wx48DZZ1Vfnwep2exmp1BTJVxIsntuN-bvc05zXKQ1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	2n2wbt1xgjzdf4ik0kg1ei1w
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	unxn1oB2W15PHl5LsgnIZjnM5LiuJH494gObRMsWaKy6qIGJfModYVnfN-qy5iquqjYfpxLB32Sb_mXH75DyiLiQ70vCy2rXJkZZFYgiVsfDSIpayzjSYdD9Q6dFmQMbkxkHCi52VlVE49KmTLuD3qFbBrwCGj4qHXRfbjTEklKgiKJKztaMjMQK87SRfPgyxLAVXkB4kzrRWeorFEKGaiE89Gf-k3PZIDwO9XdkR5ZAjdfLPxmNFU5vLpzzcnwTDHa5aJTdAXHE9KRhQYqE_mK6b-gtsDz0MsBg9J2baEDrrAHwVTEqDKqZRzoIDJMYu8NwFYGLKIAkAZhiyD1djk3z64sycKZVhZqEkCl1DjDZDXdpNSFvcpOIfRt1PvOC06_eZo2B-PzHNwCeXt50mi8b5XDiMi8Me78KsKIgjvGF8fF2zG60luwKt4UMBUnLL_Pv_eFAZVfTduNdyQD-pcnFnqELzH9xQqQ6tk9UjCwmxF6cmfMcM7PF6IloM8Vi
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.102863031.1522935205
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522935206657%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%225853710519505882%22%2C%22sessionId%22%3A%223808836071002904%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	kCF9D|1522935241269.81|1522935241269.81
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	UlhiOUFSZVQ5WTZlbHhaTEQ2ODREd0FiQWh4S1l3NldDdFNCZFNhZmdGYVVONGNyWStaR1lpaXBpWjJRZGRDMi0taDRqTm9neDB0eGVSdDlFZ3EzbDdiUT09--29c9f13162e0cf6db4380db83c991f58b113d4e8
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1

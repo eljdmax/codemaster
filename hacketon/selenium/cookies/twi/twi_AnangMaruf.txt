@@ -1,0 +1,22 @@
+#AnangMaruf
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	buZgHfXiKsq9RD2VjpZlilu0CRZWr6Ue
+.twitch.tv	TRUE	/	FALSE	0	passport_requested	jzUwUV7e2uexD9aIsTx1FRBnQt740G
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMjkzNTI5M3xlMzBLfJ1WX9EMhhbgXm3tbCB4xVZqwn4BoCd12G-pmj91GWbi
+.twitch.tv	TRUE	/	FALSE	0	persistent	211749005%3A%3Aqlalwbyad0mp6oc7luwbb6doilfl1p
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NDkwMDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5Mzg5MjIsImlhdCI6MTUyMjkzNTMyMn0=.QmHCZFYJXVboCkENWHKqRaIaCwjYnK9yb5nhdSrsVvgI6SnIxgMOP8BjTdEBaw04ucSKNXI7mU2uJUYRSoXD5Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NDkwMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQwMTIyLCJpYXQiOjE1MjI5MzUzMjJ9.aSOyMDWINo13ww9eGVAfi7JlIPT-HiL0IIbNf2yZPV87s0AxGQFs_K1H1lwVG3dmYBv2DKdWNzqbhPgp8kuomA==
+.twitch.tv	TRUE	/	FALSE	0	login	anangmaruf
+.twitch.tv	TRUE	/	FALSE	0	name	anangmaruf
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T13:35:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b2af5e7924133b839019687fada0c95a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFuYW5nbWFydWYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDg3MzIyLCJpYXQiOjE1MjI5MzUzMjIsIm5vbmNlIjoieFdVbElRWjk1MmpUaEtjYzZVcXFFRGc2N1F3VDRBWmJPR3p6NmNBRWFrMD0ifQ%3D%3D.1zcanINiw17ZFGw_Cohe9DeqdqvKR_ybJ5i8ENnSmwQzbQ8onPbFx8pRT_9QwSWl1U0-7NslAuGICjoy6XnGQg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22td5c3jsodxpahd2tyjf2xaz1rg1tiy%22%2C%22displayName%22:%22anangmaruf%22%2C%22id%22:%22211749005%22%2C%22login%22:%22anangmaruf%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

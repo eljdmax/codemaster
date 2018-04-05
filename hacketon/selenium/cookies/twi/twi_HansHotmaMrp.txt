@@ -1,0 +1,22 @@
+#HansHotmaMrp
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	2hx3Xfq1ssM9eFF56AT8uvHt4fXHVrwWh%2F8cRYCeaXo%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	dedd36a5d79ee1aaef2855f7c885a406
+.twitch.tv	TRUE	/	FALSE	0	persistent	211753046%3A%3Asfpc3uc5xtemlb7tt017tsqqxdke6z
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NTMwNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5MzkzOTAsImlhdCI6MTUyMjkzNTc5MH0=.1Wg9nGv7iJJIRGuX47TeYGCWQ3YepiIUX4UIOEr9S_k3lpc9kAOB4tQyWRN1kkdSB7EyM-SI1FsGwdPEjnqt-Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NTMwNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQwNTkwLCJpYXQiOjE1MjI5MzU3OTB9.Q45m2TK2Fd1co3HSMl2Oie6FvqqP7bk4amxmUVyftd0_rlQNcrbAoXKs5zPfG4YfjEUX3ggkOm_BxoFYWMrORQ==
+.twitch.tv	TRUE	/	FALSE	0	login	hanshotmamrp
+.twitch.tv	TRUE	/	FALSE	0	name	hanshotmamrp
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T13:43:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ac5dd7679a6ca3ea7c102066d89030f8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhhbnNob3RtYW1ycCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg0ODc3OTAsImlhdCI6MTUyMjkzNTc5MCwibm9uY2UiOiJrQUJ2NTJPTXNCRDliTC1IYWZTTWU2QWFsR3dsaFNUNXBMNHpwZHI2SEtRPSJ9.dCwpJfCcs_-Q67pktlC2NVfNMoe8gAd7oYwwLqlE47s-UKHiGwrTzhq-Z1mNf99g_BciunfTQp1WPjOYWoDElQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220c2o9ivwm67z56hvxyycqyqap9fxsc%22%2C%22displayName%22:%22hanshotmamrp%22%2C%22id%22:%22211753046%22%2C%22login%22:%22hanshotmamrp%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
