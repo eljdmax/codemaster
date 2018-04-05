@@ -1,0 +1,22 @@
+#LuisAntonioMz
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eJqZuDit1uWOkk3jGXrByvy6hBaeVpZb3E24gS0qRks%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2b5937e241971d42bff4f989cd5a4ece
+.twitch.tv	TRUE	/	FALSE	0	persistent	211758963%3A%3Adv5f6tp7kb72fvc4nz82m6zujk7ksy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NTg5NjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDE1NzgsImlhdCI6MTUyMjkzNzk3OH0=.05jGFfnuSC4t5nTCpC-pUcnoMdEdomTttKxBJ8CEMDAopsLLLqN7PyuP7CSvhYBnEAhUJdnATAsWejIJJADbPQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NTg5NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQyNzc4LCJpYXQiOjE1MjI5Mzc5Nzh9.uJAygVOk5PffM-6yHLJxUn5lSp_hzVskgqA-s2ccaUA4sCpDfochEW32yk0QHTQ1Dba_hCLMohrzokJCb_5CyA==
+.twitch.tv	TRUE	/	FALSE	0	login	luisantoniomz
+.twitch.tv	TRUE	/	FALSE	0	name	luisantoniomz
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T14:19:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	01b705dc6edfae98f7171700f854364b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imx1aXNhbnRvbmlvbXoiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDg5OTc4LCJpYXQiOjE1MjI5Mzc5NzgsIm5vbmNlIjoiMW1uY2NUZmVod1JSSEp5MEdDT29NUnFaRDlUM3VMQkx4cERHS0VZY3BBQT0ifQ%3D%3D.FTAXwZ88sTLXbYNuiphjQFIKZOC8cZEu15BcIEPvuE1LuK0PXHJrYLjolUKRU9ndBbrBmolm5Tv4PMjOQIhwsA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222avz0kk5zfriwbfb8nm7e2wbjlvy8n%22%2C%22displayName%22:%22luisantoniomz%22%2C%22id%22:%22211758963%22%2C%22login%22:%22luisantoniomz%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

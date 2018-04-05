@@ -1,0 +1,17 @@
+#KNischa34l
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	NUKEOfsSvP8epFvuHBJEyF-sEQOy3eGkiW_LsLBzsy3l48Ib2zZQyOzbUk0kVVQSOddpzbwfJOa1vUknfsk2_ASJGnq6qLRg_fianbFsADA1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1782401754.1522940240
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%222675907939569325%22%2C%22sessionId%22%3A%228270405716375675%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522940243221%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	SHdbM|1522940244219.66|1522940244219.66
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	pml4o1bwcpskco5vqw0udrli
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	l0L0AQfwFDpygZ3XEa0fX5FShvstMwZy68SlgTZ_EWly6IHkZpJQVlqwf8oudF2d_6TFMOqo9Fns3zp-R7gNGMpgjJoeJDxz1R5Adn54YspRmaclLr-495oScm5khlb7FpX31e29rtE48TnhaANHbGfcb8ZT4lVIRDFEcjnCsmxl2OIRwcPkmGWRzFpN_agfOmQ1yW8ncf-P7Zg_9reaSA4bNWJoENvgQPZeK8C51qiOg0Kz44SkHiz2dHM8RI6OCiTTDSJiSXZC7YUr_bkP-8Sbk48EW3a5x2JnsoPtcUmTGoYqHT03vJvtiRztWhk0dH_bvPwMkdWsMUY_nZigr3J3jSgHdijfy1nP9y9D2kdp-kvivM6VexCZCtZWfBnN_DSdyNIU2y5PAFixhYhSKq8rNY7rW_cN6wNoXXcMOR2SdfbsI8ahpuMFWFHyTNuAmaLIpP-ldBqqUHa9npeibMcLtKDe334BfrJmyM08mhmZo-HpjFVST2k_5x4qEp7a

@@ -1,0 +1,22 @@
+#MilleMilasari
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RrRjRcMpy%2BJuc%2FqiYjbbTGsyEq0n7FGC%2FFSsefDqDA4%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8a8144ef39eeeae6742bb5b02e63fe7b
+.twitch.tv	TRUE	/	FALSE	0	persistent	211776956%3A%3Amosju3ws3tyiinb875fb9kk8sboc23
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzY5NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDc1MjksImlhdCI6MTUyMjk0MzkyOX0=.1Fzldc7LMNwQdN6Q5kGQm2aUg6VXBKvi7Pd3iufEolP-_iieRtHrd3p8Xg6v_67GULUBawHnOG9Y3EcNLu2KDw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzY5NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ4NzI5LCJpYXQiOjE1MjI5NDM5Mjl9.y5iJ5ocQFO3IhMNU2HlscQoVQM9HLiDkuM2IeTlGX-aJsVlDrFbuezDTtPLjdnFWt137YVyvgPAVKjyKt_ZRGA==
+.twitch.tv	TRUE	/	FALSE	0	login	millemilasari
+.twitch.tv	TRUE	/	FALSE	0	name	millemilasari
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T15:58:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2622fe57c86a7ebf7bd0756c93792b8e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1pbGxlbWlsYXNhcmkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDk1OTI5LCJpYXQiOjE1MjI5NDM5MjksIm5vbmNlIjoiQkpHdkFkcjFvdkRVQUExXzVUSGdaWFJVdlB4cGYwazROYjRRVDA4amgwQT0ifQ%3D%3D.PYs5t1wrvgN3Nn2IrJSOyaDV2RVsMptPV2D4jAwU_JrCmLxoPue34VZ9adPpmZAg4jgqbkmVADlVKUuvsl5GDw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22yia4hcjcu4yesovecthooqyins6xuw%22%2C%22displayName%22:%22millemilasari%22%2C%22id%22:%22211776956%22%2C%22login%22:%22millemilasari%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

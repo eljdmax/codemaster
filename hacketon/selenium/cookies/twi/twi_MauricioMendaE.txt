@@ -1,0 +1,21 @@
+#MauricioMendaE
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QpM4okFBFVBlkCs7usOAKhuGMgePzYfRQcyLkZ5CnsA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	211760269%3A%3Ad6lfqe15xe5anxgxq7qoeed1xes0d1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjAyNjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDIwMzgsImlhdCI6MTUyMjkzODQzOH0=.o6E6deKNk_3iIcxLC4p4GwpMq4k52G7Uf8xwNeCbWGSMQZP1bn7kCRD3BRz_bH0RzbABRv6mL_Ih4EJjeaa-kw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjAyNjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQzMjM4LCJpYXQiOjE1MjI5Mzg0Mzh9.XVb5nY-5Sch9CwprjFHaCss0_-SvRjDfdQH2ahWwxHWQ0ucqThK80SO2OvPMGNOlc0UsgX1loG82KfbrhZ3F2g==
+.twitch.tv	TRUE	/	FALSE	0	login	mauriciomendae
+.twitch.tv	TRUE	/	FALSE	0	name	mauriciomendae
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T14:27:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fd0a70e5c833ef906540d865acb6a6e9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1hdXJpY2lvbWVuZGFlIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODQ5MDQzOCwiaWF0IjoxNTIyOTM4NDM4LCJub25jZSI6Im1qeGlIbkpRUExNbnlOemJYWDZNcTVaMW03M2NnWVdzVms1SnplMlVSVGc9In0%3D.cKy3pB8ngolRTJevke86GfgzGQ4c-p10AdWYR51K5UZ409GqNYqVZpLFd4w8NIUw4tV9LU7xzngdkHWs9or0Iw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rhk8zcoavgc67pboj37a8i5bnmdjew%22%2C%22displayName%22:%22mauriciomendae%22%2C%22id%22:%22211760269%22%2C%22login%22:%22mauriciomendae%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

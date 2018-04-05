@@ -1,0 +1,17 @@
+#DanielMunozRda
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	9s4S3P2vjASaoG8nXK1mreTqA2LoCIwm0m5RV4wXHdKqEHsheWqGWeFkJH5deTbHspk_thOY4ZOnpJgkveq1yULTT8VuCHZoZT-VPTP6Dx81
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%224941955883167279%22%2C%22sessionId%22%3A%228458864144394665%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522938071994%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1324886550.1522938072
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ai_session	7jrml|1522938078805.97|1522938078805.97
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	nowjrqfi4onkt3a3mwwdkuyf
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	7l2gkhRPtDzHQEUTjd7MAwqm63PpVCIMegdul6HHCjVPgQcAylDWDRxB69AsNNCspwzTJJ3YSZIB-veEPwB9P7vPtrdBMHuxcJ1Wdu_f5xv77ToxYzgceH8ShJ32D9XuwUfbCQAOa5C_NfKg4DcItygatVEiE7OEvKzDhdLJgTKXIYMFFFlUbS-u9vBQ6Oi-fh3wdcUiJOOz5PI330vB0rc_TkoyvkHTbQLlif-vdY8AsO8-6_Bc-FJfha--pg1k5E8-n4_hBJJEXzrdo3TQyScwgJoLKqQ3f5CtTJwuqWZ5xHebW_CX8jG5jaI_R3ySkQL_WToqd6_xg91K_u3zHfBemq5y7yQQ8W6BYOaEAgBBaR2luPlh_rf5t-y2xGZNQe36o8fMBdwPsBtbNEcaTaX9OFBznvVALQkCR7OuE2WmAM2UZ-pPaN2lf2nDhJsIHXf_W0wT0VwxbIaBEGQZoEaXCTMPofFPAHCT4jVIoez60t-jmBkRY_hV2q7Hxzro

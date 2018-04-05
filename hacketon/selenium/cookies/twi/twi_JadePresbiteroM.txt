@@ -1,0 +1,22 @@
+#JadePresbiteroM
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ccjjeD740oO8cBSknd%2BeMnxSufyhCXH5K320BfiuUSI%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	9efab26f04c1a1380f493b6d9e4ce8bb
+.twitch.tv	TRUE	/	FALSE	0	persistent	211773037%3A%3Aqflgcckfhocafypq19pj2y7fn4w7f2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzMwMzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDYyNzksImlhdCI6MTUyMjk0MjY3OX0=.wcmX9U311sHpU5p_7IwTI07IEAgQTLBCrhqESg0W0HPARc6V6MMetzg49rr3sF48yTnRKAImBPkJHwD0-dp7oQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzMwMzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ3NDc5LCJpYXQiOjE1MjI5NDI2Nzl9.eP1CybH0qi56XrlFsHG7KposmaOtMMUaSQ8DCRQoMv9KfnVsvCpEDCF9Ac01O24uXJhMd0Bwu0Z-aT2mMdL6bA==
+.twitch.tv	TRUE	/	FALSE	0	login	jadepresbiterom
+.twitch.tv	TRUE	/	FALSE	0	name	jadepresbiterom
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T15:37:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	55630c6136e44901cc8a04e6ce596b08
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImphZGVwcmVzYml0ZXJvbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg0OTQ2NzksImlhdCI6MTUyMjk0MjY3OSwibm9uY2UiOiJDcnJkd2tfcjYtRGxpZXNkQnQwaUJPbHhEQmxNOUpHaEFEV2ZTS3BDUkFBPSJ9.oe_pCciVG0BG7SnsaSikw0WpoJL05goxwEV5BzUtb2oom_CZJobWYjIkxUYhHjOD6hFjYePsGaYh_w_mRXRbCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p0insuo772rn5w6v1nnzjpdoxd6jk0%22%2C%22displayName%22:%22jadepresbiterom%22%2C%22id%22:%22211773037%22%2C%22login%22:%22jadepresbiterom%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

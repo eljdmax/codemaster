@@ -1,0 +1,21 @@
+#KNischa34l
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sIS2YdE58UWX5ReExB8zqumTIr7non6i2LmWy3g4Fys%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	211765858%3A%3Ahp717vu5a1rnv0cpua2lfxsm2vyks3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjU4NTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDM5NTksImlhdCI6MTUyMjk0MDM1OX0=.cS9A4IaesIo29nDh9kwnDvi-sxV2o8v4rTZrY0vB-7ez58dIhHNTWItF4dXrhw0U-ixZaGmhyyakaLZRMyZQXg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjU4NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ1MTU5LCJpYXQiOjE1MjI5NDAzNTl9.d6OjRjIDiChCUWY2XHfmwzXEKntcv8N_1LAAESL-2IuWFvoaAm5H4k-ny97FhtGEZvo54CMt3yr80YD05poYnA==
+.twitch.tv	TRUE	/	FALSE	0	login	knischa34l
+.twitch.tv	TRUE	/	FALSE	0	name	knischa34l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T14:59:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6c1a41f20a0b6c41627a6ee6cc482a7d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtuaXNjaGEzNGwiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDkyMzU5LCJpYXQiOjE1MjI5NDAzNTksIm5vbmNlIjoicmJOV1EzSllWWnVIVGtfMDdoTkFibjNLTXJfNDRiMUEwT3ZnaEhYTGtROD0ifQ%3D%3D.d1987-JlTo28NcPijJPhtJNtZ16fc4mutaedFjoPm3KlH9lv_qOpN8UCf4TGG-Yebkdvc57VIq4-9NFwN8M-9Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f8pm96tkwyryrjawktsmac3vvka9bb%22%2C%22displayName%22:%22knischa34l%22%2C%22id%22:%22211765858%22%2C%22login%22:%22knischa34l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

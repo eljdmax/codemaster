@@ -1,0 +1,17 @@
+#TaufikSMoeis
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	GjP5lX0pLBTe5o9LKgrNnV5wgIkj8RRWnxT58_YfFPUCpns7DDT6TPMA-70-jGB7Pkqy420VeRVdLQWiYRQfKNxFGmH2h6VJ85delgLKcmU1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.550475629.1522937418
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%228344274095839361%22%2C%22sessionId%22%3A%223510103252012506%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522937419318%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	kx+dQ|1522937424516.505|1522937424516.505
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	2ingxqfgd5o5zoh4agaue1ly
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	CfllRZS5rh6goALxnIBzIaZ6P7c9ocJB-HBhRE30u0ivpciiDoQnzLLIz9v4CQmZWbf6JTRWbjuUeOZCfvTYZbL1Ad0dqEzygg4u8kC9UcW4SoBmT2EISVEqqpccDGp6YFoKBT4lKld1lziBZq8I0SP2ddgNNrP8mQ_XNxTVXSA79ZpM9zysjeWRkT1JqV157bziVGQVg2vaD156fQgy03-kbniCY6M8Nl592vURhii6y1RAtHYvvHS_6HVJXIR794tbQzhWT9FLSFlHvHIqexZqUN_vbacIEpRrYxoITPIeDN_Uh-pzZ1Uw1E0nmQXyHUpWb0hQv6N3YM1Pbi8_wk219Bolf3fzJpNJkT6G41tXezXG4xwrLLhJGGJgWMlULZgNMLrhiVH-GoWUG27M_Xi3wtoCrHlFY5L1wR0bzXfFrjIjKRnlDQ7NHZKfLWd-raTvXDTwgZCwhYyiH9Dw0o_TPFStW3O3L6aXt9o--IgBHWvnivtNgtlJbAurIG44

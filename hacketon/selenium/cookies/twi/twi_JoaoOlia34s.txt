@@ -1,0 +1,22 @@
+#JoaoOlia34s
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ooHFxUoJ2U36Js%2BO3oBU%2Fk6%2BejCFGUcF4P7TjDWJ8eM%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	fadba9638b21675d8514fc7ab6b94f21
+.twitch.tv	TRUE	/	FALSE	0	persistent	211767895%3A%3Ar7pfn9c5pdz2b0wi0hzhv712g0bp25
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3Njc4OTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDQ1OTcsImlhdCI6MTUyMjk0MDk5N30=.3Iqpt6xyE5hdMgkY_R5D9xSA0MTcLNbbyWEkEX7RxLb-ZgnJMxSc0_17Lsx-jiUBkV98Rh20MyhpIPs40N-_xg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3Njc4OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ1Nzk3LCJpYXQiOjE1MjI5NDA5OTd9.qtuwDaN-snNbKAiG_hyDKNynUqmKDNRwb4AwHAPw_tjB26ef352St6EB8GvJRzIKvh644UCRnZeMP4uDNa2oIg==
+.twitch.tv	TRUE	/	FALSE	0	login	joaoolia34s
+.twitch.tv	TRUE	/	FALSE	0	name	joaoolia34s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T15:09:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d704b178eb9a6060b5e21da2294e3d39
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpvYW9vbGlhMzRzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODQ5Mjk5NywiaWF0IjoxNTIyOTQwOTk3LCJub25jZSI6IjBES3VNMzdoQTNfQWFqWklLSXJQTGQ1VHhCUWlNQ3F0M1JwZ1dKRkxEQkU9In0%3D.HQpVRo52-FYl2ji8uXuSklKKd_jaTBoSOE5DeFQ4Xmm2AW6bGx8mApqUoUQt7g9jz6UwP9MuDR_W4_atic9GrA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ehlynfy16h5k7e8w5bcrdqgu1k26wz%22%2C%22displayName%22:%22joaoolia34s%22%2C%22id%22:%22211767895%22%2C%22login%22:%22joaoolia34s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

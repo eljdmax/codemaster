@@ -1,0 +1,21 @@
+#DevdattaSuNeogi
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	POsvutBk9kLjaLmoGLTiS9uSgLbcgpPSWyHZudFQ5YA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	211764480%3A%3Ahzmlcikwcu9nc8vv2e8ftmtyo2w0z3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjQ0ODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDM1MTMsImlhdCI6MTUyMjkzOTkxM30=.M1HbGB4Oik-avUychPSUgwFmZ7aB8RSkNpcv4fbf6boBdLhXxYoQMeDadUgBlcBBvkrB33z5sc8ygXaaAAXV3w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjQ0ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ0NzEzLCJpYXQiOjE1MjI5Mzk5MTN9.yPdTqNKzNLgzkMQWA6bOLt_H5tVDNuUOFGAzZoEBwhXwmSLa366BTzyM1hXa_r8M8CLeLkEpkICbuhXwASquLg==
+.twitch.tv	TRUE	/	FALSE	0	login	devdattasuneogi
+.twitch.tv	TRUE	/	FALSE	0	name	devdattasuneogi
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T14:51:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a9d26d85c78f2aca40cc528d744e0b5f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRldmRhdHRhc3VuZW9naSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg0OTE5MTMsImlhdCI6MTUyMjkzOTkxMywibm9uY2UiOiJpRDQ2V2MxWFZ3dDlYMDU0SVN3RDNQXzRSQjAwRGdjdVI3M2xBWHRRT01jPSJ9.b3OQlo2vBEDf51eW9Cl7eZf7EWygc778Zfo6t0Flcyb51_H_HjyDFdaO9ptNyC03pvUe4YAslTIALN7Q6TXRPQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22o62l5djm7h1yctvwldqy28u8ukmfad%22%2C%22displayName%22:%22devdattasuneogi%22%2C%22id%22:%22211764480%22%2C%22login%22:%22devdattasuneogi%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

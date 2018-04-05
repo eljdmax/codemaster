@@ -1,0 +1,17 @@
+#DwiraniPratiwi
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	kPEG4Cz_PDsqIogqKPujDzFnpof2ZkUwknvz5T1gnoPUg54MY3OOfYQ41Nc_maqNhNLiWNZ0sQbvFf-IMM3xjWqR__eIgqHqu8mBr_RNQPY1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1428312214.1522944014
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%226111905333577096%22%2C%22sessionId%22%3A%228302295055162860%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522944018289%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	J/xza|1522944019514.385|1522944019514.385
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	idcyifyd4l25avytn2kp3d2a
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	ulRRMEECaAYDVjwds3r3IizwAohWr3fAs7tN-KnuD2vHk37VIfQ8u98WPRMdQbudXSRD8EAN7fqJo9hmStz6a_2mC_HN2WB9svmPQq1m_BXpE4ajAFvfXwZj1ptqjvJnJarOfl-mSuhBZiiWePT7oEUqpb1KLQvu4nPVePZwr3ft1ZVn3TD3r3n-jNj27CAh2Up5V2tOxnD4UcK41dsS_DtktzqSkZUUNQD0UvWuqcIG8kg2EpfQ-Rnv3UZdtFtKFmt9Fz5M-kc-6cPkR9j5MghCyQGpl0Biqca2BaUUX-ZQej79L-sWiZRU55n9Z6V8ESUWJ9TjEgSBFKVH_iZ270WYFbtp-GNgkRYsO7xP4ay2xXsxJ-a7CIGMCjpIDoTkLXLAIfcgh20A1sL6do-tfCjN5c1Mr5zt-z1Gjhz4HOqWtlOuGNca5Ho29lpIlljtoiuwUR3-ecXszRLnqIPlfvqaNRfnhYZXOabfl6KPewLuBIL5wN5tUkKMKfl7nMYc

@@ -1,0 +1,22 @@
+#KamleshBPatel
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	64HfZe%2BwIUEzXz5yMlJk%2FtbmxXnG48Xgpn9L6TCkeaQ%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	81270143fa8a977e93af133fdd2ee5ca
+.twitch.tv	TRUE	/	FALSE	0	persistent	211775746%3A%3Akpcry9yw9yqj8ksczp6c465t2ieyzq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzU3NDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDcxNTYsImlhdCI6MTUyMjk0MzU1Nn0=.0QeXaLhyAv82Uj1SB1i7p0MaXMLgr1HxXPfM39hKqBTmVEmPHIWSN4gGoWpjMr5ysbBkJRW8dCjKPqYaEFhAjA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzU3NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ4MzU2LCJpYXQiOjE1MjI5NDM1NTZ9.SVReDZQ8QrdIg2XzCVQx1-65tT0A_qElNHuk-93rYtofg1W977O2Hf1SWLQqrO6PwpdxrOdgSLzwCpTza5-TZw==
+.twitch.tv	TRUE	/	FALSE	0	login	kamleshbpatel
+.twitch.tv	TRUE	/	FALSE	0	name	kamleshbpatel
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T15:52:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3dea56c9cfe12041093494cbf993b5e0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImthbWxlc2hicGF0ZWwiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDk1NTU2LCJpYXQiOjE1MjI5NDM1NTYsIm5vbmNlIjoiMTBhalRhYVM1OExNNUJjM19WY1NSX3BSbU5lRDQtV2s3RENCSGVSdnRCND0ifQ%3D%3D.ViJnNcABtaVcj0cEg8oMu2_rl-K8EKJ8HDl7WnKHt_Unp0fAba4ytQ1KQ1e64bopcATExRADmpVImyXZ7Ja-ng%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lfobq1f5lkwrwqwjsgjn0pc4j4roms%22%2C%22displayName%22:%22kamleshbpatel%22%2C%22id%22:%22211775746%22%2C%22login%22:%22kamleshbpatel%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

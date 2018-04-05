@@ -1,0 +1,21 @@
+#AmitSParasnis
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	SXtb3dGw9zt3iP7CDUonU5tzOA%2FffhPjxaAmQeqAXYA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	211776344%3A%3Ah0skxephvavl88ioupf9dzyqi6m013
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzYzNDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDczNDQsImlhdCI6MTUyMjk0Mzc0NH0=.FEIkLefg1stI9rXRCYA5W4xExgIYQEZWNko_cwSXcBpP2mh1XKD2Bt7wqd2vtxplyRWUb5C5RCCTZ-TYZbcAuw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzYzNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ4NTQ0LCJpYXQiOjE1MjI5NDM3NDR9.N8AlZ8rLxboYhUPW0RSTHBv8jR5cR083jkhAv96b728aoV_Sq6vKfmLpDOT_OJEaRYPxAN1uBkFAlkT-BaI2Mg==
+.twitch.tv	TRUE	/	FALSE	0	login	amitsparasnis
+.twitch.tv	TRUE	/	FALSE	0	name	amitsparasnis
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T15:55:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fef528b1a9f83c27daa3fbc99bf9093c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFtaXRzcGFyYXNuaXMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDk1NzQ0LCJpYXQiOjE1MjI5NDM3NDQsIm5vbmNlIjoidll0QWo4a0lGNlRqMjhhNks4dWRTRGVXdWRYb1oxa3dybmNQZ2V2Z29DVT0ifQ%3D%3D.C09k_AAx054rZktH_7Vg5gmQNZyRrRVx9v3HLu5hqI5tbAKERmFBve21OGnD5HUkZjOtTXEMPYdNSTwaqcq8XQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22o9p6qgds5a3oky9uo63s9kxlk37wkl%22%2C%22displayName%22:%22amitsparasnis%22%2C%22id%22:%22211776344%22%2C%22login%22:%22amitsparasnis%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

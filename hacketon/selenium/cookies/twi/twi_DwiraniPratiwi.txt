@@ -1,0 +1,22 @@
+#DwiraniPratiwi
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	y4E5NJbSVdaXuu3yYBtn%2FuyNVrL%2Bpzw6iNMmdHCDC0U%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	135cdad900480c362d23ce2718077b3a
+.twitch.tv	TRUE	/	FALSE	0	persistent	211777590%3A%3Agz89t251zolbv3wqmsi1ethplooyzj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3Nzc1OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDc3MzEsImlhdCI6MTUyMjk0NDEzMX0=.snbosNXKjKSjtEfQPApeVWdzrrPOun8bb6fp6JrRMi2YiE_fy0lbWmvy76rXimcM2yRdbS0vQeH4B47t7pI7oA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3Nzc1OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ4OTMxLCJpYXQiOjE1MjI5NDQxMzF9.iXzBcl41UKtQLfeojm-04mFPaCMnHE3efCXFOS_3OelpXLCm-8J93DGdFpohBTSeJfP1ab_6pvFwExtFdGzEug==
+.twitch.tv	TRUE	/	FALSE	0	login	dwiranipratiwi
+.twitch.tv	TRUE	/	FALSE	0	name	dwiranipratiwi
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T16:02:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	807b103e7ef89ef5ca7b27681f7475fb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImR3aXJhbmlwcmF0aXdpIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODQ5NjEzMSwiaWF0IjoxNTIyOTQ0MTMxLCJub25jZSI6Ikl6NnZDNlI1SGZOaE53dXdjNFRRLUZOdXJ0ajVNVFlDaHlJRFppZmwtcGc9In0%3D.CKojXXv3BMNR_usH6W5fKC0ytfkSrpmLe0uZGY-IOHhSzQCT_cVC3T4FIrPiC5SbiXfUc7I3H0fkVx5EL29MPQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mjik7ource55jiomu42fm7r9aji2y9%22%2C%22displayName%22:%22dwiranipratiwi%22%2C%22id%22:%22211777590%22%2C%22login%22:%22dwiranipratiwi%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

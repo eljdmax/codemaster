@@ -1,0 +1,17 @@
+#AAbrahamPremkum
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	lsVNj89yulldPh-_ZSz07g0NwRCPIbHecnknbwj85yC71bi-dUARroqEkO-EEbNfUirSBTPX62CzzB0cfrsjy3MYZmb1KWaxPSQ_WcOc4201
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%222662770546596443%22%2C%22sessionId%22%3A%228437281636617961%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522942771551%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	M+x6h|1522942772885.76|1522942772885.76
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	trwdircolrwdykpughxsdxmj
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	N2R9GS9aP0nlzRaO-IvWUdYpZ-TFtfNkWqSPa2fXRVWOzj5zScEIvpswSltAYQec2qJtVqhuv_YEfcIzsHjBnBSaDaODNsrCP0VoaqKaYwtCuaYrHY7IpBoAr5-Q7fxRUL_pbHXnWQg8_ak6b9yv808yoGpkD6_XEOij1IeTHuwqs5MDsxSovTNtai9YlUTO_yPeYmkqw7eC2vg5PcutvQsEIC35aIjGUhRUV6dHd91E9gRSuTEePuqt-DIn3zp4qXBosbNmYoL-A-1f24PJq_uL3gmgQ4ZGR2C-9CUCm9yDaoEY8tEkePtkgm_noj4TJQLF0bY5C_xQgyQxr_6xg-OX_phZOVRMqkAenhwvvpCpYC4vOnFIP3qmJZEENSwNQI3Nql0AHUIYLSfW49GjfRAvy2_41NLljRmYZPaNwb08V0xr6VrHjIPvhQS0c__5hITZ9m5lnXOWT6_vLixg4ADHJ7XvO1rNQRf4S2GIheo
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1762302145.1522942765

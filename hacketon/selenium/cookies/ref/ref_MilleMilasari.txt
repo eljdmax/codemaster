@@ -1,0 +1,17 @@
+#MilleMilasari
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	3NipSWKaER3xs6khczsk_1okSDiAtvQiBT54BdZidkiQzBWSBqJziUoJ52T8-WHZ3ybQWLlnFuwMJrQfnghcstcz9u1DhMaO_jDuzdwyvPI1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	9aac05d28ee4109b780abdbb66a88e792920aa5a2cf7a92b4a6bf4014faedf82
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%224788516097237886%22%2C%22sessionId%22%3A%226743043135009083%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1522943811259%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	1U6pw|1522943814379.02|1522943814379.02
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	2ulv3fhizedzsgjqs5j5pufa
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	ZjWBMAGxbJ9VKEf-ugyOuzP95-3eR8Kcb-2fQZrdAwJet9d7wk_lRF5qctzJuulYoCVX8MC8qNJrNXd8k8GgzVCboebON_s1j5ykquqjVk6XtD-Q1HAlbTItP_DLDfaEymEmjHrM5aS41wX8065EycVS4RoZh_g8z1r_pms5KPY7v1QGRypkWLCYUCacVuNhSNI9x_V3i2aAn0RAZ0aHE9Q7GjQ8n2c0c3GsyGWspNNZ_hDRBJoLggvRijZYsgfP64j9yM_CKvXNpwiivmBBBfI5mIKxMsnQwpUuzZaqP016W468tbfZUY6afy29WXA8e11boLwKNm_chsWaTD3_0opaG3b9KBTI1VLSvyXs0Zy4aLfh_BiL5nNzgvItPpIPhGrYXjxBXCWJyc-4Ve_zUgFTqln6A98QbDOq7Q-7vRES4c-DRnkV2YhhffTRgEe2QK8t4xBaByyVtfTYhkkQx6XEXNwWBbj5YAKMCRr9OYIQwKqO4-p7LeKVKDE-wp3P
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.718865071.1522943808

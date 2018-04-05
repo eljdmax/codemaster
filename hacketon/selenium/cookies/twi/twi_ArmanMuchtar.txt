@@ -1,0 +1,22 @@
+#ArmanMuchtar
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LC1rLxpx169aWOaa%2FPha6A1RE%2B9zyKgrorYaGaGtznY%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	132e6a7366d3e409ae4ec78d457784f4
+.twitch.tv	TRUE	/	FALSE	0	persistent	211756267%3A%3Agea5dk7j5ii831g57ofb72ipx9duyj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NTYyNjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDA2MjUsImlhdCI6MTUyMjkzNzAyNX0=.LdAEcKsE6rZun7UlaAXimjTuIWZ-kenCP28_NCtmhVFoO0TeWPIhAsq1BCOPvdYyFD9L0BsCjkjCP0gkIiQ12Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NTYyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQxODI1LCJpYXQiOjE1MjI5MzcwMjV9.dbgorRlv-SD3sWg3l-zZW6XlBVNXZZWg7-kGKYfXCkVBUL5YEPmGMG3Uyof1jDuDUHqOPUWVwFoVXgDj1NwDyg==
+.twitch.tv	TRUE	/	FALSE	0	login	armanmuchtar
+.twitch.tv	TRUE	/	FALSE	0	name	armanmuchtar
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T14:03:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f16ef8946f3d812460c7d7a04bd3b03b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFybWFubXVjaHRhciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg0ODkwMjUsImlhdCI6MTUyMjkzNzAyNSwibm9uY2UiOiJNOVBfRy1tM0N3VkhKV0t5cnNSamc0dlhmSmg5bDlzM19HX09iclFVNmw0PSJ9.yQkZ24OVW3tmZNi1ZZERhnHcxfKTjAvKCmGcFpbGgfhWmxhsDvgjf5_Fk-QqCP0v6PZrf86RhmQrLsrHqlI-aw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22y0wddrs5xrr5vtrqujxuwon6svx5k0%22%2C%22displayName%22:%22armanmuchtar%22%2C%22id%22:%22211756267%22%2C%22login%22:%22armanmuchtar%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

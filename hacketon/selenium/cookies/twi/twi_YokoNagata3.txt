@@ -1,0 +1,22 @@
+#YokoNagata3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	W2otiIhSbyCCzEKUuMDQAlZKtp%2FGKeiXx6z6tjn3b3Y%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	96b622c81e9de711d77a8327d49f6981
+.twitch.tv	TRUE	/	FALSE	0	persistent	211765250%3A%3Aaqxt61zfhqoaffldjpi3cxefndviep
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjUyNTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDM3NjYsImlhdCI6MTUyMjk0MDE2Nn0=.giNITj3qydu36yTIAMYWIop6tSlYJpiTluokRxX2PpCXNYBoclNf_DQtQjjR__Pbwbl8snlfdo-DS9tqsu633g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NjUyNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ0OTY2LCJpYXQiOjE1MjI5NDAxNjZ9.7p7swjhBIlv3sv8_5pA-Chn04ZEmrMQ6QOTLdbu5jcLEdQu3j2TKAGWZR9fda4uacDmzrpy8uthzSO6QmM_Atg==
+.twitch.tv	TRUE	/	FALSE	0	login	yokonagata3
+.twitch.tv	TRUE	/	FALSE	0	name	yokonagata3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T14:56:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5dc8fd14421b7e42962b3c2f5c4ecaff
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlva29uYWdhdGEzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODQ5MjE2NiwiaWF0IjoxNTIyOTQwMTY2LCJub25jZSI6IlFZdElEU2JkUllBM0RVd1RtMDFVMU0zc2FvMkh4azFjalFtSFhoWDJhQ289In0%3D.-Nrxd9KcO04gaDxemPoJVi-iVPyeGQVnMBAxL1qHl0BAqj0tL1Ta1Wz_XkapKpoQedc3OOnWeNnHRjAr0tgHoQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224umw1lnc4d423gb1ey1wnh10dm50r1%22%2C%22displayName%22:%22yokonagata3%22%2C%22id%22:%22211765250%22%2C%22login%22:%22yokonagata3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

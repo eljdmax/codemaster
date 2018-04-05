@@ -1,0 +1,22 @@
+#ANagendraPras
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WIWhNquQQ91Yb3m%2BrDT%2Bco1s6S2geBYl93hFvu3Xslc%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0e2ff31aca04e64876b95a52eefbb1a0
+.twitch.tv	TRUE	/	FALSE	0	persistent	211779286%3A%3Aj4hq9egjz757u5w56z6h4anwu4t4ah
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzkyODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NDgyMDcsImlhdCI6MTUyMjk0NDYwN30=.945OW6oWa6iZx02laj3rzHhSMPIcURSJ_3V7_eSoRsBlsO0GwfhSII8xvY4GvcgsM0cEj83HHFDfBPR5kiWYtw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE3NzkyODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTQ5NDA3LCJpYXQiOjE1MjI5NDQ2MDd9.hOSQbkVyG0W5QUCo-pqAtBCqUpwFZu110-38DRupzadqBHUT-EX4wz54tNckan-JFjTLKyIRwOLdlbH0U4oLJg==
+.twitch.tv	TRUE	/	FALSE	0	login	anagendrapras
+.twitch.tv	TRUE	/	FALSE	0	name	anagendrapras
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-05T16:10:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	abd69a8f6be70ef2bfcc29cc41627292
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFuYWdlbmRyYXByYXMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NDk2NjA3LCJpYXQiOjE1MjI5NDQ2MDcsIm5vbmNlIjoiME9PWWxGM3pCeDY1TWRHQ2VLMzVRTWowX2Nna1N3U3ZnRHFKaDZMLS1vWT0ifQ%3D%3D.mwxkx8k9ql_Q16LNjFWNsR1vwGrvpibTnlymIFhNoBqPf1GXlushVnepTp7608gVAxfKnfmo6FZoohvbMDt7MA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gs5tt2acxj7hedihuz85yjp5zyyscv%22%2C%22displayName%22:%22anagendrapras%22%2C%22id%22:%22211779286%22%2C%22login%22:%22anagendrapras%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
