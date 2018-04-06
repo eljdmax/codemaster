@@ -1,0 +1,13 @@
+#y_sierrad5_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tOLW4VsDA0gBO3dxYxdtVZlya9tflE8xn6%2BqQuvjsPU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:35:52+00:00	unique_id	5239b473759e3b4b
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:35:52+00:00	_twitch_session_id	746d885b5468e10b4b4c78a7cd364ecb
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:37:01+00:00	persistent	212036185%3A%3Ajz29qavpnx9ljv575bg0d2e99ci5u5
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:37:00+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzYxODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzk4MjEsImlhdCI6MTUyMzAzNjIyMX0=.mlBYa6wSVMCbjeyao6xqxQX9xjESUMsgqlSrnhdA8ev-V8ELCVXR-o_bAYSz8bFdy3Ul1ANosRHIbk0RZoBwRQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:37:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzYxODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMDIxLCJpYXQiOjE1MjMwMzYyMjF9.27PbPK3macroRVVTLVbjr6-TD6mEej1LBZaEVJZkRcb1Dx90tCbr7f_QtgLNGobivrkCtuQbs_Tf_vS_lnCa4g==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:37:01+00:00	login	y_sierrad5_2
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:37:01+00:00	name	y_sierrad5_2
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:37:01+00:00	last_login	2018-04-06T17:37:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:37:01+00:00	api_token	1f5f805f265d040b16034a909ed529db
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:37:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc2llcnJhZDVfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1ODgyMjEsImlhdCI6MTUyMzAzNjIyMSwibm9uY2UiOiJWV3pZelZ3U3dyaU5DMEp1WTVXb1FuckMzRHAxb3ZYY2pYREx1dkJUYmZvPSJ9.dJPxctGO14yI5AShRahlf26pE-YInaJHFfW3WU_CCI3vYnNkZNZyBFafoa2h60PivX4RfN3wgateIresYDtLvw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:36:45+00:00	twilight-user	{%22authToken%22:%22st81ybea3e778plpdhdqbv668dbawc%22%2C%22displayName%22:%22y_sierrad5_2%22%2C%22id%22:%22212036185%22%2C%22login%22:%22y_sierrad5_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

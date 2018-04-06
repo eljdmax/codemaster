@@ -1,0 +1,14 @@
+#p_emmanuelav_z
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-07T04:36:54+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-21T16:37:13+00:00	persistent	212022867%3A%3Al8qyqifzfjfm6f192lms9lvw4fhfa8
+.twitch.tv	TRUE	/	TRUE	2018-04-06T17:37:13+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMjI4NjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzYyMzMsImlhdCI6MTUyMzAzMjYzM30=.P_CfDEzLq7-let__M5pO9r7jDhKZWQvvGafH_6qS1NQnOIfMPVwSrK39G2zj9LAn0KyLXM_DRLy-BGJSfS-obA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T16:37:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMjI4NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjM3NDMzLCJpYXQiOjE1MjMwMzI2MzN9.suNguJhXYsmcPkVnkE-xua9zZhhea8Kk6ZjlG0CD74Aen0IjCSrBS2oJqi6B-c3X_bvBFGKvwVTpOr0gwxX1Zg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T16:37:13+00:00	login	p_emmanuelav_z
+.twitch.tv	TRUE	/	FALSE	2018-09-21T16:37:13+00:00	name	p_emmanuelav_z
+.twitch.tv	TRUE	/	FALSE	2018-09-21T16:37:13+00:00	last_login	2018-04-06T16:37:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T16:37:13+00:00	api_token	1a62157dbb0f32e8c9b3bfa1bba883e0
+.twitch.tv	TRUE	/	TRUE	2018-10-03T16:37:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZW1tYW51ZWxhdl96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4NDYzMywiaWF0IjoxNTIzMDMyNjMzLCJub25jZSI6Ilh5Tk1Ja1pfSHRDbC03WURtZklNdzdRTnVJY3dWcDA0cUdmYl9RTC00bEU9In0%3D.hck0JUmDGiqDtsAsSctMMUnb0H9OcsT5VoMibBDM49BoHwP9MCfXgQ3UHue0ZB2gf_DWsvTiqElPaCHj5w4x8w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T17:36:59+00:00	twilight-user	{%22authToken%22:%22e1mhx6mtyr2h1mdvumznm0wft14zl1%22%2C%22displayName%22:%22p_emmanuelav_z%22%2C%22id%22:%22212022867%22%2C%22login%22:%22p_emmanuelav_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#l_andresy6_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qHKrih45GLJDGcJKiripgyG92bBNYzuJ6OCoZlbXW6E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:07:53+00:00	unique_id	d3ab8a04c4ac378e
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:07:53+00:00	_twitch_session_id	2e209ef3bee16b8491c35f39ca16ee8f
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:08:24+00:00	persistent	211958530%3A%3Astcoy1iiqx1rpcmwst8qa16niccj6t
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:08:24+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTg1MzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTI5MDQsImlhdCI6MTUyMzAwOTMwNH0=.qq8YZhzrqx2MYaO5rlSy-_F4bpaWaXxjK9UTmP6N4MhIq5OQ3z8Hgc1nzLIGhJst-E8iExHiNGETbW2eSWmjBw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:08:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTg1MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE0MTA0LCJpYXQiOjE1MjMwMDkzMDR9.3DtuOKgzic0w8sz_O9B5lG3ItEcRae3clmmYPOknBHuRjFRdfT6q1YCbISmghdrDz6L9gv0pmOJB6j-D1y9qAQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:08:24+00:00	login	l_andresy6_k
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:08:24+00:00	name	l_andresy6_k
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:08:24+00:00	last_login	2018-04-06T10:08:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:08:24+00:00	api_token	0fd6c4d85ba69e436605ef5cc546148b
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:08:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYW5kcmVzeTZfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1NjEzMDQsImlhdCI6MTUyMzAwOTMwNCwibm9uY2UiOiJfSUh6RnRYMmhkZ0dUTXJLMDY5RjdSVXB3RldjOUhJY0N1Qk5OMTVpVDJBPSJ9.X9bBVf1gf5oVm15J3MicrnZMbeGIRxQaUaDRnLaBReOH767Fo2cE6wOiMuMPqoE_niOadQeqEOpuc51K7NZ1eg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:08:13+00:00	twilight-user	{%22authToken%22:%22so0mtcxlg6ufafmxpryyk9556hh4p5%22%2C%22displayName%22:%22l_andresy6_k%22%2C%22id%22:%22211958530%22%2C%22login%22:%22l_andresy6_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

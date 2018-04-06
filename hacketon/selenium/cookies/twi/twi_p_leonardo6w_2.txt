@@ -1,0 +1,14 @@
+#p_leonardo6w_2
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	J2NpgCyc16d5azDGhRLkOiGusO%2BJvuNvpLrbF1w3hwc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:30:26+00:00	_twitch_session_id	fabdaed8c016df83b1b35798dd0f08b9
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:31:15+00:00	persistent	211852207%3A%3As5dog69s002u9815ez9x034ybo37xk
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:31:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTIyMDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5Njc0NzUsImlhdCI6MTUyMjk2Mzg3NX0=.mP8TLdmWIaSNFjxpar2f8y-2fDdk6ael5SoY8P5n1XDWOeEkrxdEHzO7odNoBQl8HF3kQZ6iq_hw9VOB4vYBbw==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:31:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTIyMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTY4Njc1LCJpYXQiOjE1MjI5NjM4NzV9.9tDXTMLXCu26UrLdecTIuPXFYXgkpp-gOX63xV0sEcxUubh6uf9GounZP0P06K8VL8eG0eoje7yCkAfXzLh1OA==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:31:15+00:00	login	p_leonardo6w_2
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:31:15+00:00	name	p_leonardo6w_2
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:31:15+00:00	last_login	2018-04-05T21:31:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:31:15+00:00	api_token	2d62a9e4762a2faa0d0bb234cff4c3d4
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:31:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbGVvbmFyZG82d18yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODUxNTg3NSwiaWF0IjoxNTIyOTYzODc1LCJub25jZSI6Ikl6QUxlRnhlTDNGUnNIUjVRVHZsa3RJaHhEd2xIVUJrLXNDT0ppVWhJLXc9In0%3D.9dGpmscu8_r_sN4thJ29n3i2PRa7Uu8s8rVJ6GCR1Uxo6IQyihPPABql3ymCJsoaZBlgRyugT9s-vD21H5sf7g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:34:12+00:00	twilight-user	{%22authToken%22:%22cafa6zbrul5tm79dlmfbqnezvtvpja%22%2C%22displayName%22:%22p_leonardo6w_2%22%2C%22id%22:%22211852207%22%2C%22login%22:%22p_leonardo6w_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

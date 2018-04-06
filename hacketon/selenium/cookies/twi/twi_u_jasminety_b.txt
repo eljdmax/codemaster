@@ -1,0 +1,12 @@
+#u_jasminety_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	c5dsJwp%2BcFAJyIFQm2QWpQdhjE0Aj3WRjugt5b3Z2Wg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:43:36+00:00	unique_id	69d55a43164a3c72
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:43:52+00:00	persistent	212037795%3A%3Aqhdrfn96ga5tjs3okx7sl8ulluk87a
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:43:53+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzc3OTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDAyMzMsImlhdCI6MTUyMzAzNjYzM30=.1eyOc5izNYWkaSKHcxGXRRbN4Ifz5lZMhKBcUztiBMWmZLpw2EqSwe5N5xV10xe_oflKCtM9bwORMJHG6ke5aQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:43:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzc3OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxNDMzLCJpYXQiOjE1MjMwMzY2MzN9.hfehlniZq0SV2YbXlR_p_Zuv0onJv26PnJlCq7zzSXMG-VrasA2QgQI8luN0nrqcm4D0QR3qehS79H-gHP5trg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:43:52+00:00	login	u_jasminety_b
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:43:52+00:00	name	u_jasminety_b
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:43:52+00:00	last_login	2018-04-06T17:43:53Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:43:52+00:00	api_token	5a39528bddeea830005a4c631960efee
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:43:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamFzbWluZXR5X2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4NjMzLCJpYXQiOjE1MjMwMzY2MzMsIm5vbmNlIjoia0dLSHZCMDNQSGZhYTZfN2N4S2FXRHNLdkI5OERHZ0lxQXJtdFZaZkNqcz0ifQ%3D%3D.6A01FI6U2RrdVSqOe2q98TJRCvMLB1qfszpqp4C_w5U8V0BwDAnUU7nQk0XGMlWfe1V4w5vZFKBtpajXsUdBxQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:43:38+00:00	twilight-user	{%22authToken%22:%22ixh9ksaz039lz0sls20ezjm4zb3bha%22%2C%22displayName%22:%22u_jasminety_b%22%2C%22id%22:%22212037795%22%2C%22login%22:%22u_jasminety_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

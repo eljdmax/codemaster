@@ -1,0 +1,12 @@
+#o_leonardo3n_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NMClxvw88%2FJ77TdaLrGOSb0BuzQU7s4gcPFKi%2Bs6pR4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T12:12:25+00:00	unique_id	3d0f63c2fe35d45d
+.twitch.tv	TRUE	/	TRUE	2018-09-21T12:12:56+00:00	persistent	211972626%3A%3Artha4ivmwx74pb1891qgabch2lgbl6
+.twitch.tv	TRUE	/	TRUE	2018-04-06T13:12:57+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzI2MjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMjAzNzcsImlhdCI6MTUyMzAxNjc3N30=.UohXsm9Cw9tbw5JgeXsZDS4EF_iiwNAHdOxsy50bZwj2SJ7twcrB8cv-Ir1M7c98rCwR2YPPSkRv6IZfR8t1yQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T12:12:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzI2MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjIxNTc3LCJpYXQiOjE1MjMwMTY3Nzd9.gl1NTjF7SChTz53GDgPrRnHvAy6XU9QYCis-Toj3EXsZf4-y6kwpnqfKrlycEIG-HvfkAzILsl-Pa96uExE25A==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T12:12:56+00:00	login	o_leonardo3n_r
+.twitch.tv	TRUE	/	FALSE	2018-09-21T12:12:56+00:00	name	o_leonardo3n_r
+.twitch.tv	TRUE	/	FALSE	2018-09-21T12:12:56+00:00	last_login	2018-04-06T12:12:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T12:12:56+00:00	api_token	e09cb4a8fc8d2fe9bf29b7cc8213186d
+.twitch.tv	TRUE	/	TRUE	2018-10-03T12:12:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbGVvbmFyZG8zbl9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2ODc3NywiaWF0IjoxNTIzMDE2Nzc3LCJub25jZSI6IjQ4YmtmSVlhRUNkakNmOHI4eVAydUxfbkJYMnlHZmpiY0V6NkJRNnl2Ym89In0%3D.6OkaTvrudMxUuQox_Fu0AjngOzBRisJ58lAnnwJAlm8oruxLCAq9AOoBoPPGQD7Ig6X4WnJ97Q0dpRUuv21kTA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T13:12:46+00:00	twilight-user	{%22authToken%22:%22g6m8w1c6a4fzgbguwaqif0kp8r9iro%22%2C%22displayName%22:%22o_leonardo3n_r%22%2C%22id%22:%22211972626%22%2C%22login%22:%22o_leonardo3n_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

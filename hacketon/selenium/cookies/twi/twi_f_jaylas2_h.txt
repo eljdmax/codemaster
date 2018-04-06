@@ -1,0 +1,12 @@
+#f_jaylas2_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	49e8Xo4VaSKjXkgmoZSGSfiTUovSoVJdhmgAvJbhZRg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:28:02+00:00	unique_id	d262da469035c9f2
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:28:49+00:00	persistent	211960483%3A%3A54o085c6ousukc5s45nrt9i3923ctb
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:28:50+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjA0ODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTQxMzAsImlhdCI6MTUyMzAxMDUzMH0=.dzSSzBBBQrQstqvyv499RL6B79wBaEw9wdeKKPiA2s4DCiNaHIwQD8sYoBsDPEZiKjR9kdHmT980rgN-LTcsEg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:28:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjA0ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE1MzMwLCJpYXQiOjE1MjMwMTA1MzB9.NXjepbLAnyPzVF0e7JD5Yd8yz6eB4eulonjPljgWflk7bp50m7eZGidKJqCUShYyCiUuoEmDTnZUIqTdTLkuxg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:28:49+00:00	login	f_jaylas2_h
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:28:49+00:00	name	f_jaylas2_h
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:28:49+00:00	last_login	2018-04-06T10:28:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:28:49+00:00	api_token	9676bb24a6adacaba3b90d613376cf31
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:28:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfamF5bGFzMl9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2MjUzMCwiaWF0IjoxNTIzMDEwNTMwLCJub25jZSI6InFlYlAyRDl1eVBVWEk5bVB2TS1uWFFhVEJOVjctZ1Y5eE1PaHFRZkQycUE9In0%3D.b8hjs4jgJJiMBGgOpjbThbQk2f9mJuk8xvjax0Ca4N268IfMp4TXPciEDO5d3_b3u9iyFgbsH2qRiLC2KS5oXQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:28:35+00:00	twilight-user	{%22authToken%22:%22oawoqxo7hmmayr24a9le0nxo699tk7%22%2C%22displayName%22:%22f_jaylas2_h%22%2C%22id%22:%22211960483%22%2C%22login%22:%22f_jaylas2_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

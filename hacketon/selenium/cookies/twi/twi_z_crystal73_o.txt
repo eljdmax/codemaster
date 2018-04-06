@@ -1,0 +1,12 @@
+#z_crystal73_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qyl2dTw4fuP1SGZgKDrZ9du2kJolafLYq7IvI0YE4AY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:24:40+00:00	unique_id	dbbcbd7c93e9797a
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:24:40+00:00	_twitch_session_id	24b5cf56f8a557c98d391d7d8c07fbcd
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:25:20+00:00	persistent	211960122%3A%3Ad7q6qsm7r5vygqpcow3c7gmjgslcmh
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:25:20+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjAxMjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTM5MjEsImlhdCI6MTUyMzAxMDMyMX0=.CoanZXaUS12-5SXU7UnHymdB3Bpoz3QFTpM-SF_WNuagF0HfqF_DPxDso4ukEYc9TvkXBz5Jd1Xz7522UToAJw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:25:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjAxMjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE1MTIxLCJpYXQiOjE1MjMwMTAzMjF9.So4N6k6tvbaLwICMBWlibPrPvvgFH4LwyNTkS1bn7Py_7P8zEYsPlZOdjEb5nxucqsl1dY_pcDdfrB2CxkErTA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:25:20+00:00	login	z_crystal73_o
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:25:20+00:00	name	z_crystal73_o
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:25:20+00:00	last_login	2018-04-06T10:25:21Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:25:20+00:00	api_token	eca1a840e855168ae2ffce9d4b91f99d
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:25:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY3J5c3RhbDczX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTYyMzIxLCJpYXQiOjE1MjMwMTAzMjEsIm5vbmNlIjoibnBxZkRzMjIwYVFpTHZBMFI1T19tQ1dURVlMNTIzSDAyZkhhcVUzc1pUaz0ifQ%3D%3D.PZxgTZEmSNMO2QpTtLaqa8zbC1Shcq487Ib6m_WFUaL5HdDlV78nfmPdnSrRPgHQqCMR4lVKpjfJ9KwsUyAGeg%3D%3D

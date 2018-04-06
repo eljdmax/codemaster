@@ -1,0 +1,14 @@
+#k_carsonc5_c
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:47:40+00:00	unique_id	821180a582b49eea
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:47:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yNN21FTTh%2F1rJuWnN1e%2FfdBNEHf0sZuxDERoedrA6kI%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T19:11:16+00:00	_twitch_session_id	5d422c18aecae29e39674f85f28d7fd1
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:11:47+00:00	persistent	211942044%3A%3Am5uj8ncylgeyikzzw1k9wqpmagksxu
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:11:48+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDIwNDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDIzMDgsImlhdCI6MTUyMjk5ODcwOH0=.ADoO3JMwfMXgv4nr6o44_3IXivK6T_6sVE7DxKh5aYU_n5PwibYgqNarXNCI5RAPXoBo6cIEnOTl-SJBLoBwvQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:11:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDIwNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjAzNTA4LCJpYXQiOjE1MjI5OTg3MDh9.Wxbjvwg8Do8Q3CO0-Yj8uAk0GpajWnzVCp33lGnWInIwKiVxs2hV6pKmxNLVaBjqW2d7-EhAhIcyxKqiRisdQQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:11:47+00:00	login	k_carsonc5_c
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:11:47+00:00	name	k_carsonc5_c
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:11:47+00:00	last_login	2018-04-06T07:11:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:11:47+00:00	api_token	467f30d1e46b8dcc50ad91175cc2fcfa
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:11:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2Fyc29uYzVfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1NTA3MDgsImlhdCI6MTUyMjk5ODcwOCwibm9uY2UiOiJPaGdUcWdZTXc2c0xjNjlBVE45Y3RSc3V3Uk5jcHlKR1BoeldoYzhoOElrPSJ9.EU6ZTz4xlqUrFG1ZBJekdJUA6P_D51sWKM8rvsJD9eHAoN2fforljEsMJ5IVSA5mj5fnlBlgnrHX-RF7HHDXgg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:14:44+00:00	twilight-user	{%22authToken%22:%22d6j1sh3lr94s0e8hlt0ey1flfpfzem%22%2C%22displayName%22:%22k_carsonc5_c%22%2C%22id%22:%22211942044%22%2C%22login%22:%22k_carsonc5_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

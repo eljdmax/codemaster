@@ -1,0 +1,13 @@
+#g_makenziew7_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5iL1TcBQMuKpn9zfwgmF1Qw0mWLFsKsfFFzNCexsD4Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T09:17:09+00:00	unique_id	f1f929464a7458bf
+.twitch.tv	TRUE	/	TRUE	2018-04-06T21:17:09+00:00	_twitch_session_id	51a4433dbc9b8abb3df5e166c3b5c780
+.twitch.tv	TRUE	/	TRUE	2018-09-21T09:17:48+00:00	persistent	211953778%3A%3Ajtjg8qivmcjbl7j9cprc9i896zk2dy
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:17:47+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTM3NzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDk4NjgsImlhdCI6MTUyMzAwNjI2OH0=.0Zy8uCHppxYchyZS1ZdIqpoIVq2cYSBTLxwz-KGo_-c3qpsZxPdCT7pdrmStZ0z8DcNYDXldQ1TvwVSwTRiS9Q==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:17:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTM3NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjExMDY4LCJpYXQiOjE1MjMwMDYyNjh9.7lhVn7JVa6HsMOgA9Wstw1Gah5Qi4HQX1MGMuNVIm9817_9HA-TtU844oFjwJiG5O8M4kOMJe2j5Oe9lbXAOEQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:17:48+00:00	login	g_makenziew7_d
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:17:48+00:00	name	g_makenziew7_d
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:17:48+00:00	last_login	2018-04-06T09:17:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T09:17:48+00:00	api_token	959b274cbf34e4287f88d06525aae229
+.twitch.tv	TRUE	/	TRUE	2018-10-03T09:17:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbWFrZW56aWV3N19kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU1ODI2OCwiaWF0IjoxNTIzMDA2MjY4LCJub25jZSI6IkF4aWcxdFY5NmJvcndFcTk5UFVwRzhaekJjd1A5aXVZamVYUzBfMlR1YjA9In0%3D.23vTSOkW5TSqQE8qomtfhmmCe3otdkFTxXZR432V6QR6rtsr7AOiSzVVQK5fFez9z75_tNTYdn6mmUtcnJC5EA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T10:18:03+00:00	twilight-user	{%22authToken%22:%2281w2xu00v9mislndkcf43r17hdjyw2%22%2C%22displayName%22:%22g_makenziew7_d%22%2C%22id%22:%22211953778%22%2C%22login%22:%22g_makenziew7_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

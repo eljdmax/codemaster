@@ -1,0 +1,14 @@
+#v_garrettd5_i
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T19:07:18+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:07:45+00:00	persistent	211941686%3A%3Ajw3ky2q828nf8494knmuzewxqi2h2g
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:07:45+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDE2ODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDIwNjUsImlhdCI6MTUyMjk5ODQ2NX0=.-Tlsnyf27hV8OMisF8OAvjnQXITuOTdowzNhNYnxBz5wywpY9EK9oCuIS9aqgqH_4kxr584ohK0PE1nnYEOolQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:07:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDE2ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjAzMjY1LCJpYXQiOjE1MjI5OTg0NjV9.zFRBF4AbGRituCzHr0wFAdn-tK9wkNf7QyGUJIJuOlchQHjoI8cWS7Kna6YncT5wmsbrr32e_AjtPuFCmoxzow==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:07:45+00:00	login	v_garrettd5_i
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:07:45+00:00	name	v_garrettd5_i
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:07:45+00:00	last_login	2018-04-06T07:07:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:07:45+00:00	api_token	7871d16f45c5c84bf405587440dc510a
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:07:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZ2FycmV0dGQ1X2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTUwNDY1LCJpYXQiOjE1MjI5OTg0NjUsIm5vbmNlIjoiLXc2TmVpZlBwVnNVUFVfVlUyaVFNMko4MmtVT0RfLWFLSHh3dUt3dTRqZz0ifQ%3D%3D._es3YsUCojV4a5X813nZE7fp2vqgpIofSkWg9ZifhDZO1NTzTZCTyJH5MvDuNn5ubicllLDhy4TwScEGo3Ph1Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:10:44+00:00	twilight-user	{%22authToken%22:%22odx0ulubbfcxjidb8p9ldnxneoiynh%22%2C%22displayName%22:%22v_garrettd5_i%22%2C%22id%22:%22211941686%22%2C%22login%22:%22v_garrettd5_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

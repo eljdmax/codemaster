@@ -1,0 +1,12 @@
+#e_jeremyph_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LHE0ZaD9U9LSXli0sZx5E2LqziOFe0zISbi75tps4GQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:53:33+00:00	unique_id	ea1de9e32265c89a
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:54:04+00:00	persistent	211970175%3A%3Acf5vzye4wke5cix4lk4mc9r7b0fias
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:54:05+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzAxNzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTkyNDUsImlhdCI6MTUyMzAxNTY0NX0=.-s2Ms4Fk2r8XlojsjHlvCTVLMuqwvMQveOSZNZryJ8jc1iAGmcY6Gfe_pYJ21ynqvsHqhUGFW-3qWA-d7i1bAA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:54:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzAxNzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjIwNDQ1LCJpYXQiOjE1MjMwMTU2NDV9.abc_RB5RQcR70GDhsbqk9TBqtG5wnQN_IYOaN2XrFQVfh6iKXDUCrzXEb25XolDBVxv7QhWDeyw9eK5LarMHZQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:54:04+00:00	login	e_jeremyph_0
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:54:04+00:00	name	e_jeremyph_0
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:54:04+00:00	last_login	2018-04-06T11:54:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:54:04+00:00	api_token	13e17633892e0b37f4d0a555bfdbdc09
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:54:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfamVyZW15cGhfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1Njc2NDUsImlhdCI6MTUyMzAxNTY0NSwibm9uY2UiOiJVS3J6dnBjd3JMX2tQcmtwZER4UGZKSjVjSWc1QXRqYjlwNW45ODhhakU0PSJ9.inwoE5FhC6BrhtQltqBCRGbHKIerQKXhVFhkpKYg-rhOYcziiG60i0hc62mB5Css03QVKlq7ZWlLJwCiFI4aIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:53:58+00:00	twilight-user	{%22authToken%22:%22669rlxlao7tjo10m2z3askbj5i5nc6%22%2C%22displayName%22:%22e_jeremyph_0%22%2C%22id%22:%22211970175%22%2C%22login%22:%22e_jeremyph_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

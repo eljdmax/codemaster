@@ -1,0 +1,13 @@
+#p_serenityp8_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FIaWe6DoKIppkNGJ7mqFhvrVVaFXiMOciwPVD7kXDew%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:55:02+00:00	unique_id	625fe967c1eb1418
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:55:02+00:00	_twitch_session_id	5db892b989267bb45ead0e859bb81def
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:55:34+00:00	persistent	211963248%3A%3Aly2jp57q4gsxqr1dkih3otqmok0y54
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:55:34+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjMyNDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTU3MzUsImlhdCI6MTUyMzAxMjEzNX0=.qPyASCxvG_2dhHMXxqE9zUPQ7qZXJAx6aBgIsrxjenBeL8GGcHXWsbnHvlrSLEhdgii4Ipnktl4ypJHgySL8jA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:55:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjMyNDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE2OTM1LCJpYXQiOjE1MjMwMTIxMzV9.jgjbvBcTIkg9Gusbn-RH1H3-YFkg1PO1iBOOsjFVIlWA4JfcP73Z9ByK6x_2MoUCGTh_b0durbDVMMW3iWtrLg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:55:34+00:00	login	p_serenityp8_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:55:34+00:00	name	p_serenityp8_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:55:34+00:00	last_login	2018-04-06T10:55:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:55:34+00:00	api_token	5f6c60a474ecc1bb6233fefa71133164
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:55:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfc2VyZW5pdHlwOF9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2NDEzNSwiaWF0IjoxNTIzMDEyMTM1LCJub25jZSI6IkJoUVEySW5Ga2thdHI4N19CN1MxWTd2THJvYVZ3UEZjbHFRYjU3MWh3Smc9In0%3D.gQ8b9v7w5dUPQD8WDVM5L42Pgm7zfDpDjCFcr75kgkQUXWI3bDuFlTT6M5D3Mncf3uXm0M6-CxcbWiyg6oXUCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:55:19+00:00	twilight-user	{%22authToken%22:%22gc8pkfx8zp8rvumeb56qjpzky39yax%22%2C%22displayName%22:%22p_serenityp8_s%22%2C%22id%22:%22211963248%22%2C%22login%22:%22p_serenityp8_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

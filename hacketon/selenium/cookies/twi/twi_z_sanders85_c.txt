@@ -1,0 +1,15 @@
+#z_sanders85_c
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:46:27+00:00	unique_id	e3ed3f60aa6bd204
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:46:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2020-03-20T21:21:09+00:00	__gads	ID=a1c5dffe96e93e22:T=1521667270:S=ALNI_MY_XuuhFxStT33zNXsUbCsQ9woRqA
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kLGdzrb7%2BXrdcLwxu8q3aox7WhgR78Nx7242bFSr20s%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:54:53+00:00	_twitch_session_id	029a6c2bd30108cc168a0f38bf22369b
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:55:43+00:00	persistent	211857168%3A%3Abhx1rhpwu8zckr7tmqutijosoutzut
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:55:44+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTcxNjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5Njg5NDQsImlhdCI6MTUyMjk2NTM0NH0=.bjgu4VLPgvlWKGipphWpkTVuES4JK2dSp2-BLJE2jJeWXeYI42iv4r_LZYtoaD4_3Hp-k17y5pM8wsQ6WKNQAg==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:55:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTcxNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcwMTQ0LCJpYXQiOjE1MjI5NjUzNDR9.WskQY5WaOglErpIV2cJ9zWDDASVm8nhl_vZxL7RvkjjtNQ5LUwxbEdAPkSbU8SvOLVrbuHri9mDveLKXBqBTdQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:55:43+00:00	login	z_sanders85_c
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:55:43+00:00	name	z_sanders85_c
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:55:43+00:00	last_login	2018-04-05T21:55:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:55:43+00:00	api_token	48ab4b4813fb357d034320cff39144fc
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:55:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc2FuZGVyczg1X2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE3MzQ0LCJpYXQiOjE1MjI5NjUzNDQsIm5vbmNlIjoicmVUN1hINHZyYjYyd19CN0ctMkc4T2thN2pmcDk4MGdOV0ZDSTlBYU83VT0ifQ%3D%3D.fXGC90UML9fkmLJR5d_5f2X9_fn82O6UIN5ynhy_NR5KZR4z55gp7Ql3UjEWFAlDO2L9Qmfi7d7gh8kRN4RemA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:59:01+00:00	twilight-user	{%22authToken%22:%22g55ossl0te987tbek6mybyjifqiert%22%2C%22displayName%22:%22z_sanders85_c%22%2C%22id%22:%22211857168%22%2C%22login%22:%22z_sanders85_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#o_ariannaiv_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	phyGv3VudbRbrjhI%2FQiGDo%2FPBez5HJ9Nw19sTzMEHgk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:39:41+00:00	unique_id	ee1d56d057c277dd
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:39:42+00:00	_twitch_session_id	e7919c6c175400682b0220fa7364c7c3
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:40:06+00:00	persistent	212036890%3A%3Aw4zpe6339kki7wfrdke7i6vvqwxuep
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:40:06+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzY4OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDAwMDYsImlhdCI6MTUyMzAzNjQwNn0=.VkJpNGancsBWlWfpKt7DnNSuCsB2r1hMojXySL89T-kbrTp1veyY2gLWuhatciQ0Imc7pTgOyK_Ep-a0gDj0Zg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:40:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzY4OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMjA2LCJpYXQiOjE1MjMwMzY0MDZ9.DjKDxgUXdT7FBbNHtW1qoTlpl-wvV4IRgqO_nDeTIItuOXvlmS4NmlrBI348LU_JukipQOUzYVKQKB3JbkgpCA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:40:06+00:00	login	o_ariannaiv_x
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:40:06+00:00	name	o_ariannaiv_x
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:40:06+00:00	last_login	2018-04-06T17:40:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:40:06+00:00	api_token	72bf177d3f4b9b616a19cf2a596eeede
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:40:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYXJpYW5uYWl2X3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4NDA2LCJpYXQiOjE1MjMwMzY0MDYsIm5vbmNlIjoidWdScHFaV0pPYkJRbGphU1VWTC1nLW1RcGxXU1VpZ1M5cXRLd1BqZThZbz0ifQ%3D%3D.7v11opK3Cp7RjegRNEHXfEUCJNGFudFqO5u_RQRn-D3kfxCZMCoAXU57Edg-UP2rMMbBu5h8s7pYSpzPWL2MWQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:39:51+00:00	twilight-user	{%22authToken%22:%22mb4xnwmqc4xdnb3zqk2vbmv743i1op%22%2C%22displayName%22:%22o_ariannaiv_x%22%2C%22id%22:%22212036890%22%2C%22login%22:%22o_ariannaiv_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

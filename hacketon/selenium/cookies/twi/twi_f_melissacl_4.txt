@@ -1,0 +1,20 @@
+#f_melissacl_4
+.twitch.tv	TRUE	/	FALSE	2028-03-18T21:40:31+00:00	unique_id	09590ce4b83b5660
+.twitch.tv	TRUE	/	TRUE	2018-09-14T21:41:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2028-03-15T21:43:35+00:00	language	en
+.twitch.tv	TRUE	/	FALSE	2020-03-17T22:00:32+00:00	__gads	ID=16b685c9e3c52d3f:T=1521410433:S=ALNI_MZ7GEW2l95ULFPVv7KQ2FaQit_JsQ
+.twitch.tv	TRUE	/	TRUE	2019-03-18T22:14:07+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2018-03-18T23:27:35+00:00	passport	MTUyMTQxMjA1NXxlMzBLfGMGIL2HRXkJ89gCWNSFcsYoULo_gtowkngWChDDBCAD
+.twitch.tv	TRUE	/	FALSE	2019-03-18T22:30:00+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b115dd553-0f35a644827114-70212d57-fa000-1623b115dd679%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsessions%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253DtYo1SpgQ4uw4qn01ZDwOG5o9mii3dCsQNtnpGWdV0YrFj2XPR82695FEhjOF-CrS1qJ7ldzUjmNS9LK-G3t1PYJ1Sn3OtR5VaX7dSUWq8Ae52a5OyNupPWMEs_GDVGNstoeLTmqz4yaT2WKB4ytg_SBjWrp_tRUc3A3mSuYkuGxvjJSV6vgznFQo1vuN2xnwiNIxcy1WbVIn3K7iSbHbgl1-MjDePCap8ftR1zxvOWY%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3DtYo1SpgQ4uw4qn01ZDwOG5o9mii3dCsQNtnpGWdV0YrFj2XPR82695FEhjOF-CrS1qJ7ldzUjmNS9LK-G3t1PYJ1Sn3OtR5VaX7dSUWq8Ae52a5OyNupPWMEs_GDVGNstoeLTmqz4yaT2WKB4ytg_SBjWrp_tRUc3A3mSuYkuGxvjJSV6vgznFQo1vuN2xnwiNIxcy1WbVIn3K7iSbHbgl1-MjDePCap8ftR1zxvOWY%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-03-19T22:30:04+00:00	mp_mixpanel__c	14
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gscdlRs15WWo4ll0CNIyU4W64p2QZoh0TMU5Y2gTEuE%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T19:04:14+00:00	_twitch_session_id	7abc9c1b51f250f5983302a1dd3cab8a
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:04:33+00:00	persistent	211941398%3A%3Aykc3tooz9p2sc9ulo7zocs9h92rlgf
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:04:32+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDEzOTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDE4NzMsImlhdCI6MTUyMjk5ODI3M30=.e_2mhLpbe_bRYfS6_5_u49b7EHH7qceEgs8IV5JtMj9zR2iaxAEbQNTlcMs3trWZYoAp94HGn2bvBXYld_PCOQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:04:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDEzOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjAzMDczLCJpYXQiOjE1MjI5OTgyNzN9.xNFVA3c-TJ2-4_kguczh6MjAsZ7jQMn_EPuHqBU_G1eK3NlteQuHXeKkyy3_qf-Fcndf3lSsdV0fw4pp_R08Lw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:04:33+00:00	login	f_melissacl_4
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:04:33+00:00	name	f_melissacl_4
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:04:33+00:00	last_login	2018-04-06T07:04:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:04:33+00:00	api_token	79a63d7181955c9a0909c670b108044a
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:04:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWVsaXNzYWNsXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTUwMjczLCJpYXQiOjE1MjI5OTgyNzMsIm5vbmNlIjoiRl96OUFySG0zTWM5ZkMwQnBnbFhfcTlSTXJYZmFjS3doMHV0eWtSakpsQT0ifQ%3D%3D.TlbC1JmZgCy4TwLqrcM6VvEcez-D3F_NK9xCHK0DUVJpa-QNxXEaOteT86hb_eP2tyOtviPwDdLGdTqG8TmrXA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:07:30+00:00	twilight-user	{%22authToken%22:%22xhmltvn3zk0dm42mezs0hkzfz7izga%22%2C%22displayName%22:%22f_melissacl_4%22%2C%22id%22:%22211941398%22%2C%22login%22:%22f_melissacl_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

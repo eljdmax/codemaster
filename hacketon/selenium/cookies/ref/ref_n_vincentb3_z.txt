@@ -1,0 +1,20 @@
+#n_vincentb3_z
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:46:27+00:00	unique_id	e3ed3f60aa6bd204
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:46:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2020-03-20T21:21:08+00:00	__gads	ID=a1c5dffe96e93e22:T=1521667270:S=ALNI_MY_XuuhFxStT33zNXsUbCsQ9woRqA
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kLGdzrb7%2BXrdcLwxu8q3aox7WhgR78Nx7242bFSr20s%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:32:47+00:00	persistent	211943911%3A%3Akn2um73wxktdy6quveraxqmlp15h8t
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:32:45+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDM5MTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDM1NjcsImlhdCI6MTUyMjk5OTk2N30=.jS03J3RN-65qXrQ0Lz6DE6WlABAb_mVqpID1MpclMlFYIOi8uPY6A8XRDoeLlhVX7_xiTasi3uzbOiiaeP3jZQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:32:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDM5MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjA0NzY3LCJpYXQiOjE1MjI5OTk5Njd9.Q66TRo5CbjG5xd1gAmjC5oJ7RP6zqR6aGJcza708CjyP1SmooqvbhqI0EE7PT6vBO_UngQCaM4oPDsSGxF7UzQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:32:47+00:00	last_login	2018-04-06T07:32:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:32:47+00:00	api_token	801f976648426cf3143cf4a01dd45f50
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:32:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fdmluY2VudGIzX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTUxOTY3LCJpYXQiOjE1MjI5OTk5NjcsIm5vbmNlIjoid2FMZXRTb3Z0MlJSUUwybVd6ekF2eWROdTU5TEtOb0RoSzVQOHY4Zzk4UT0ifQ%3D%3D.Cs-m8cVvQev5SiOPH46xc3dmbejpQ2tVhKOdRyO8eJZr45xXP2XnecUsxXWiDx4WvoCi2WhmYeoXKcGoDJTH2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:35:51+00:00	twilight-user	{%22authToken%22:%22le8tj12e5uar6qwomql7g3dvd212ty%22%2C%22displayName%22:%22n_vincentb3_z%22%2C%22id%22:%22211943911%22%2C%22login%22:%22n_vincentb3_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	y99ZUsHra8i2N5a6kPc89tlGMFPqt1gW
+.twitch.tv	TRUE	/	FALSE	2028-04-03T07:36:56+00:00	language	en
+.twitch.tv	TRUE	/	FALSE	2018-04-20T07:36:56+00:00	login	n_vincentb3_z
+.twitch.tv	TRUE	/	FALSE	2018-04-20T07:36:56+00:00	name	n_vincentb3_z
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	kLGdzrb7%2BXrdcLwxu8q3aox7WhgR78Nx7242bFSr20s%3D
+.twitch.tv	TRUE	/	FALSE	2019-04-06T07:36:57+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216299e30e7166-05a960f79f3e118-70212d57-fa000-16299e30e74d7%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-04-07T07:37:01+00:00	mp_mixpanel__c	1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T19:34:09+00:00	_twitch_session_id	029a6c2bd30108cc168a0f38bf22369b

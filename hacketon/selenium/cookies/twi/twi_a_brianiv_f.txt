@@ -1,0 +1,13 @@
+#a_brianiv_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yRQp%2Bst11HXqCTcd7kzLd5SxVgZBRHplafzn%2B%2FuX71c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:04:27+00:00	unique_id	e311153cb047d57f
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:04:27+00:00	_twitch_session_id	5acbecbd3a3c32da1bc954f4523cf9ad
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:04:49+00:00	persistent	211958168%3A%3Awcw3s0nc9ejd7lt88cci3ec0piq2vh
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:04:48+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTgxNjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTI2ODksImlhdCI6MTUyMzAwOTA4OX0=.TG2I3klbfCwRwkTAYIyvtaTVH8YQocd2maGdR4c3eN1pbqunW4t9h3NVfrFEPFUCceShzz5VsxxmhZa-bXy1aQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:04:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTgxNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjEzODg5LCJpYXQiOjE1MjMwMDkwODl9.yMQiZl3k9xJrnqNN5JF_80tOOZZhvJrl6gPus20fZ7w64QOCZ_DkG2P5EEchNAQi-up4oZGmVRz89jaRK0ZabQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:04:49+00:00	login	a_brianiv_f
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:04:49+00:00	name	a_brianiv_f
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:04:49+00:00	last_login	2018-04-06T10:04:49Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:04:49+00:00	api_token	1bcb3766df4497526ecbffac136e31c4
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:04:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYnJpYW5pdl9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2MTA4OSwiaWF0IjoxNTIzMDA5MDg5LCJub25jZSI6Imt2MlZfSWxfLVRsd1BGRTdyN3RZWU44VHNzR3NtSGUyWnhYVE53T21Sanc9In0%3D.In_mNSvfYGwY3BSuvRQr-ldxSJ1xXxMLEZDTIrcxsjunzqfFTJj3UYJrd6RmhWQ4HD7KHr1putqNllnMf8H7bg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:04:34+00:00	twilight-user	{%22authToken%22:%22na55blzj9k9zzy5x5jsakjlh5pbulr%22%2C%22displayName%22:%22a_brianiv_f%22%2C%22id%22:%22211958168%22%2C%22login%22:%22a_brianiv_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

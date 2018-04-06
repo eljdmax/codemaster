@@ -1,0 +1,14 @@
+#n_giselleto_a
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NRA3QmzMg4xXEPTbYalNgZ1%2FJzN9f2Fj481QuxnwvyU%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:06:38+00:00	_twitch_session_id	884820c6a94a977748ad9e0e52178531
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:07:10+00:00	persistent	211859558%3A%3Aumtu4ribbbcccoxmixg4p8uj0l2dqi
+.twitch.tv	TRUE	/	TRUE	2018-04-05T23:07:11+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTk1NTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5Njk2MzEsImlhdCI6MTUyMjk2NjAzMX0=.EqXYShq375X8A3RQM0NePHyfyrU8kiC6i342GPqTm_1uxRww2CiNLQGtvjRyyoQ-uVKF3w7YLdWmG5Tt_v4JOg==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T22:07:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTk1NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcwODMxLCJpYXQiOjE1MjI5NjYwMzF9.oarCoKqcS6LaMH_arbhxo2l1M_O7mLz5t3DP4F1Wv2CVy9SXT-x9bqEMRitCbTd0Pppvui2CETYywmwzCDuwsg==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:07:10+00:00	login	n_giselleto_a
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:07:10+00:00	name	n_giselleto_a
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:07:10+00:00	last_login	2018-04-05T22:07:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:07:10+00:00	api_token	d54c54ea1c9b221d890acd77f5a7845f
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:07:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fZ2lzZWxsZXRvX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE4MDMxLCJpYXQiOjE1MjI5NjYwMzEsIm5vbmNlIjoiS2JWVnpWY3pkVm0tbTlScExBbGNwZGtKVXYxQUdPaE53Y2pzWU84Rk44RT0ifQ%3D%3D.0rWGp8VEBHIHsgEoRLTEJ31FdP1dJ5U70qLt5bOicKph-62c-S13-AI3xrrxfMwVqCc8a8DDo4jScqXovfOR3A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T22:10:09+00:00	twilight-user	{%22authToken%22:%22ye6yfbigzngc8op1ut2v00mx8omzkn%22%2C%22displayName%22:%22n_giselleto_a%22%2C%22id%22:%22211859558%22%2C%22login%22:%22n_giselleto_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#g_samantharu_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B%2FV8zBVyTzolo0pz98g4sFZZuHaghvKEV%2FClBm1S6M8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:34:26+00:00	unique_id	5792d567a1cb2a1b
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:34:26+00:00	_twitch_session_id	ee051832a17c64e684aaf2b7680c159e
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:34:46+00:00	persistent	212035670%3A%3Atcr06wx74984vmsv4jhkaej8yv14be
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:34:46+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzU2NzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzk2ODYsImlhdCI6MTUyMzAzNjA4Nn0=.Hyusi2GdMaJ-HtxNectXIkyWksqqNcb-welVUdDJCViXlKqsWe33IZO3ql1BCiMhqaA4AWxxAmVsV9c71P1uBQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:34:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzU2NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQwODg2LCJpYXQiOjE1MjMwMzYwODZ9.KJ3kqy_5swMvAxhC4Nkvx_rhQ3R-Ub1Lj2tiwM-LBPyZ4DGw70vbeY7BXgZlM00x4xn4LoIlBpaLgo3uz_o3Sw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:34:46+00:00	login	g_samantharu_a
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:34:46+00:00	name	g_samantharu_a
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:34:46+00:00	last_login	2018-04-06T17:34:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:34:46+00:00	api_token	87ac26eb4b529becd17dc6798c22df27
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:34:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfc2FtYW50aGFydV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4ODA4NiwiaWF0IjoxNTIzMDM2MDg2LCJub25jZSI6Im1XU3c4RFNMM3dkQW1SVTVsVTZGLXMtWFJlbUVPVGRlWlFlVzRMWHdfSHc9In0%3D.8Uc2OgbDKRtWLMqJzh5Hk14qz7h8Dhi2GSReTCjuIQRJy0BVyEI5Q5NXEwt7eiCZvAgKIiRti_H8P7pCb-eiEg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:34:31+00:00	twilight-user	{%22authToken%22:%226we0sg8mg68mif5i9tkzxm2gei25wz%22%2C%22displayName%22:%22g_samantharu_a%22%2C%22id%22:%22212035670%22%2C%22login%22:%22g_samantharu_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#u_jaylasp_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DjI4VJIBYzVgO1SqaJ7TzRzrbOSrsrh9k4U249VJjQg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:45:22+00:00	unique_id	7daf3ee203b68fab
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:45:22+00:00	_twitch_session_id	221b08c0cc559e56cac7889b1a933aff
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:45:45+00:00	persistent	212038217%3A%3Auv4t6mxlu8zg9dutc11zg2bmenedg6
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:45:46+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzgyMTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDAzNDYsImlhdCI6MTUyMzAzNjc0Nn0=.PMK8qXK2k8OPshxs7-qlnZfiMouc0wTeE96PgaLsJ0gpLPPwaKIMYxA0EeH09zn5Zj9U2-Z6dAP7LcKaixagFA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:45:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzgyMTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxNTQ2LCJpYXQiOjE1MjMwMzY3NDZ9.V69nP-XU-_IpZ69Hqh9yHqK_k2jZRkt_HwteQ3TQkSssKbYm5gPAFQkw2H74Zlr6Vb2R05CRGldQ1NTtiD6uwQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:45:45+00:00	login	u_jaylasp_l
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:45:45+00:00	name	u_jaylasp_l
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:45:45+00:00	last_login	2018-04-06T17:45:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:45:45+00:00	api_token	1f5ea7aee785f7bc2ea0625d28272042
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:45:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamF5bGFzcF9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4ODc0NiwiaWF0IjoxNTIzMDM2NzQ2LCJub25jZSI6IlowaTc4c2NQQ0poRWxoM2RoTmt2TTJmMG4tWVZ4UVhDdUROS2V5TFN5amM9In0%3D.50V0CnRBjEafCVQISjZnSoKFzrn0kkRK1aX2PQj5tUIOml7KzB2ONMWUGFMi5O7gyP_YKg4IXMHBjIr5mPCrOA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:45:30+00:00	twilight-user	{%22authToken%22:%22k4s6qp45nlyci78p8r9wzed6urjdma%22%2C%22displayName%22:%22u_jaylasp_l%22%2C%22id%22:%22212038217%22%2C%22login%22:%22u_jaylasp_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,18 @@
+#j_jasonb2_z
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:14:01+00:00	unique_id	ad3d7439b52993e5
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:14:01+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-03-18T23:20:12+00:00	passport	MTUyMTQxMTYxMnxlMzBLfDH-V2i6ZIx6a6SAxe4HujXf5HNAYxBVdNQIRM-WhUyP
+.twitch.tv	TRUE	/	FALSE	2028-03-15T22:22:39+00:00	language	en
+.twitch.tv	TRUE	/	FALSE	2019-03-18T22:22:39+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b351f179-0ad8b1ed49e02d8-70212d57-fa000-1623b351f1918f%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsessions%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253DhTbphlKX8jcqKtOLjQZ70L8wP0rUPGI-LI2uJcdLYtVT4TqeB0oNMTftghNQYmhU4nCfXL26GDWKteyskoV_zH9fox8JCjhc0nec6v5tt6lHrTmebnYnl1qgZiGqLRRFtI_bd3EksMzRsd83rh7g1ZDK-LwniacnqdV8c8XahAtIpMsOijXfJn7Bnf8bYfY-J2CUE4GGa7__yK3HzdQRxD0YjD3B67fUUVv3aoJgOeA%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3DhTbphlKX8jcqKtOLjQZ70L8wP0rUPGI-LI2uJcdLYtVT4TqeB0oNMTftghNQYmhU4nCfXL26GDWKteyskoV_zH9fox8JCjhc0nec6v5tt6lHrTmebnYnl1qgZiGqLRRFtI_bd3EksMzRsd83rh7g1ZDK-LwniacnqdV8c8XahAtIpMsOijXfJn7Bnf8bYfY-J2CUE4GGa7__yK3HzdQRxD0YjD3B67fUUVv3aoJgOeA%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-03-19T22:22:39+00:00	mp_mixpanel__c	2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ma4wMGdp7bglzAxQLmP%2BrVtLXYckTD4NRamEpRwVVns%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:34:01+00:00	_twitch_session_id	427c40a2beb1a355599f8ecf68ce5d7c
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:34:32+00:00	persistent	211961029%3A%3Abj44kk638ai5l2zita04paulxrs3ae
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:34:31+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjEwMjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTQ0NzIsImlhdCI6MTUyMzAxMDg3Mn0=.QmDNj9Afa_IdLEHLLjfP2Nv21ZgfZpZrPmr6jH2D2KrLafGc2y2hUv4P10zKUYwmYtlcYQgtTlTkNIjULE4LTQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:34:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjEwMjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE1NjcyLCJpYXQiOjE1MjMwMTA4NzJ9.r23_BPLCynU3xCdETLiyYk2ssYrzw4xf6ZV6wltgznSoHWdSrDAeG01ehdq1qsCU2TzvWybc1-tEFjM-P2Swng==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:34:32+00:00	login	j_jasonb2_z
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:34:32+00:00	name	j_jasonb2_z
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:34:32+00:00	last_login	2018-04-06T10:34:32Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:34:32+00:00	api_token	6cb139d32286843a4cfc6404c472323e
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:34:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfamFzb25iMl96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2Mjg3MiwiaWF0IjoxNTIzMDEwODcyLCJub25jZSI6Ilo5ME14ZTI0ZEhZOUpWaW1sQWp5bVc2REVjSEllWEg3b2E0UTkycDJjNDQ9In0%3D.mhYP4xN2bndI9A0M1lGyXSrADa20mfD-0kuGRJTmG5IJCjrXcUjAiHluc-Y9Fb3Oghek857okHC0MLWXbrA5ag%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:34:18+00:00	twilight-user	{%22authToken%22:%220hxvr46awskciahhp1th38o8puyn2u%22%2C%22displayName%22:%22j_jasonb2_z%22%2C%22id%22:%22211961029%22%2C%22login%22:%22j_jasonb2_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

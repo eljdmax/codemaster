@@ -1,0 +1,17 @@
+#w_mayadg_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GSGuaH3NfuWyCjSMgqj0%2FcKisS9D9Bb300dLoNYVM%2B8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:21:48+00:00	unique_id	b8dfe2ea6be8ec75
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:22:11+00:00	persistent	211959832%3A%3A9wcn3htca8okykkmmb6dl7cxvwiy55
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:22:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTk4MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE0OTMxLCJpYXQiOjE1MjMwMTAxMzF9.Uya2Lq-H0VaYntBiPpvhqAa1j3PYvBo_H8iXLWjxSIsva4_nAkww46jWMOh6kVH0slz6bLKQlIYvwlsN4poD9Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:22:11+00:00	last_login	2018-04-06T10:22:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:22:11+00:00	api_token	60a558c3d946e2e4627639a3e0f93654
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:22:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbWF5YWRnX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTYyMTMxLCJpYXQiOjE1MjMwMTAxMzEsIm5vbmNlIjoiVnJJVmFhTUplbVFnaTQ0X1RjTk50dFpHTW9oYUx3dDhBOHFaVUp4UXBEdz0ifQ%3D%3D.RnaNdOCEayIQEhqQHweOIi_RM1Ly1W50k8P5ZFs-Y-ZBj9ND8dyZkOYT2LGmtC6b3pywOdCQrzouw5UHtncEmg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:22:01+00:00	twilight-user	{%22authToken%22:%22qrw65mo1x0fr6ao26526cuvwm465qb%22%2C%22displayName%22:%22w_mayadg_l%22%2C%22id%22:%22211959832%22%2C%22login%22:%22w_mayadg_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:22:05+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	2028-04-03T11:23:07+00:00	language	en
+.twitch.tv	TRUE	/	FALSE	2018-04-20T11:23:07+00:00	login	w_mayadg_l
+.twitch.tv	TRUE	/	FALSE	2018-04-20T11:23:07+00:00	name	w_mayadg_l
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	GSGuaH3NfuWyCjSMgqj0%2FcKisS9D9Bb300dLoNYVM%2B8%3D
+.twitch.tv	TRUE	/	FALSE	2019-04-06T11:23:07+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221629ab221259-0ebd1236be2a14-70212d57-fa000-1629ab22126c4%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-04-07T11:23:12+00:00	mp_mixpanel__c	1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:23:32+00:00	_twitch_session_id	546b8bbe96dd78ddb8c64e8a3a339757

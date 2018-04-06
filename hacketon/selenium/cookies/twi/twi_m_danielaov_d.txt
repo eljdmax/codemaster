@@ -1,0 +1,11 @@
+#m_danielaov_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9K8JERipSYXToEE74LiRHs30wFxluGmWc99vRBO%2B%2FSI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:26:37+00:00	unique_id	b67fe745c2092011
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:27:09+00:00	persistent	211966855%3A%3Ahh7tvwh0uhxbirx8iyhmzzzysn3yh5
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:27:09+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjY4NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTc2MjksImlhdCI6MTUyMzAxNDAyOX0=.tGZQBfInBvwkuFinsRmQ3VPbxLTxKAk36tUG3k66_8yOjS0P4b9Ldq0-A9gpW-XQ1Et_7CjhubSeiaqCzqq_Yw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:27:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjY4NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE4ODI5LCJpYXQiOjE1MjMwMTQwMjl9.yl-3nK7Gu_EDmrTtbYABYmxjNcVyVpe4Oin0kRo2moi1pWbbxL1dbcYKcoutjxNnU_oFpbMcSN5KX__dgpfYwA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:27:09+00:00	login	m_danielaov_d
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:27:09+00:00	name	m_danielaov_d
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:27:09+00:00	last_login	2018-04-06T11:27:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:27:09+00:00	api_token	344a83fc90e95f34be9f8a19a0a2b6de
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:27:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGFuaWVsYW92X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTY2MDI5LCJpYXQiOjE1MjMwMTQwMjksIm5vbmNlIjoiakNaeVFtYmlLT0xYS3pPX210dUNuTmVCVElfN2pXLUJtYk83VmpyT25VZz0ifQ%3D%3D.hwhgmzyTVOFi4zJ3ca_AbxgX6q4ddqGLezBUjpt-r4pFywyY6mgMwDvn1frE8zuV4iRrN78OVewLc9gZaj76og%3D%3D

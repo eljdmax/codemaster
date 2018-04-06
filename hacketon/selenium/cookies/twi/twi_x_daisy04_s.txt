@@ -1,0 +1,14 @@
+#x_daisy04_s
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PkV2I29TKT2GaBqPkPsQzJ4Tr%2F0e5IdHHj3wWre7c%2BE%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-07T03:13:03+00:00	_twitch_session_id	a916493bdf7b7cf8bba8162dc55d0579
+.twitch.tv	TRUE	/	TRUE	2018-09-21T15:13:23+00:00	persistent	212005235%3A%3A4bucdfctv8bwcllb03kh5uk0z4nxvh
+.twitch.tv	TRUE	/	TRUE	2018-04-06T16:13:22+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMDUyMzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzEyMDMsImlhdCI6MTUyMzAyNzYwM30=.MVqcKCbjZKUox3fVxInOtLZwv4Z_JBA8O79L0FZ8twFuHo-Z_Ms1v5SN8Z9mXhGN4JjAqA4cZoqGCQ_GQYSZDw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T15:13:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMDUyMzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjMyNDAzLCJpYXQiOjE1MjMwMjc2MDN9.fo0f2pZMGBGoT6-OzBJ-atjzhd9y5sBSd1AsYET_2aqqEg1eq4AJyTCxXRwXmFAZUCS_7OlC86amLQjLNYG2zg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T15:13:23+00:00	login	x_daisy04_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T15:13:23+00:00	name	x_daisy04_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T15:13:23+00:00	last_login	2018-04-06T15:13:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T15:13:23+00:00	api_token	484ecbfceb34ab88bb1fdd8bd325a654
+.twitch.tv	TRUE	/	TRUE	2018-10-03T15:13:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZGFpc3kwNF9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU3OTYwMywiaWF0IjoxNTIzMDI3NjAzLCJub25jZSI6ImswSkcyUHdzb1ZxM0R0aUltekpnWUoyd1lpRXp1Rm53Z2ZhMEQ5UlQtOUk9In0%3D.LC-qeRouIn-fWqEfBEkAVQfAGXZVASI0H6pQz9pi_-Q9m8BozrlN6fdEzoY-N3Gd382rN1LaGXmgQaaw9Bdwxg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T16:13:14+00:00	twilight-user	{%22authToken%22:%22w55jvf9i9mf90jbrco5bd9fqvfojxz%22%2C%22displayName%22:%22x_daisy04_s%22%2C%22id%22:%22212005235%22%2C%22login%22:%22x_daisy04_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,8 @@
+#x_kaitlynh1_x
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:46:27+00:00	unique_id	e3ed3f60aa6bd204
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:46:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2020-03-20T21:21:09+00:00	__gads	ID=a1c5dffe96e93e22:T=1521667270:S=ALNI_MY_XuuhFxStT33zNXsUbCsQ9woRqA
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kLGdzrb7%2BXrdcLwxu8q3aox7WhgR78Nx7242bFSr20s%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T20:56:21+00:00	_twitch_session_id	029a6c2bd30108cc168a0f38bf22369b
+passport.twitch.tv	TRUE	/signup/	FALSE	2018-04-06T21:56:07+00:00	_goji_csrf	MTUyMzAwNDk4NnxJd29BSUxxZktDT0p6MjFqOFFnOXR4Q0pFV0lPaWtqTGVUc2FBeXNyYlRqYkJqaVV8jCuZ4SZJ2HQu7KP773WqVxFPax-flFeauECe1Vs5L3o=
+passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	

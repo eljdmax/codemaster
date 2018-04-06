@@ -1,0 +1,13 @@
+#t_nicolesy_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UayLtYBkL0eGGJdw8jfn6O%2B1AJs6IFS5xSPrT8Mkg14%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T12:06:13+00:00	unique_id	b2d0337d41f66b83
+.twitch.tv	TRUE	/	TRUE	2018-04-07T00:06:13+00:00	_twitch_session_id	bcb1d61ab4da1c7e8d66eb779fc9dc15
+.twitch.tv	TRUE	/	TRUE	2018-09-21T12:06:34+00:00	persistent	211971770%3A%3Avsfo131w6psucrwlh3m98us1lpho4b
+.twitch.tv	TRUE	/	TRUE	2018-04-06T13:06:34+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzE3NzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTk5OTQsImlhdCI6MTUyMzAxNjM5NH0=.XB6N239rmsAaBy5asYCW0qr5K7YAvq1rIGanU-Igg05Nx8AV32nve7r9_2TDxdOfNnV4j_ScrfHphipJXd7gKQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T12:06:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzE3NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjIxMTk0LCJpYXQiOjE1MjMwMTYzOTR9.xowoWlBwkQgk-rGpez0ONiepTfnOqo_vtSlIjqfbQK9CxhVeCr3uBXYTayG59j0iHGzN6rfhPKn-ax59GYMihg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T12:06:34+00:00	login	t_nicolesy_k
+.twitch.tv	TRUE	/	FALSE	2018-09-21T12:06:34+00:00	name	t_nicolesy_k
+.twitch.tv	TRUE	/	FALSE	2018-09-21T12:06:34+00:00	last_login	2018-04-06T12:06:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T12:06:34+00:00	api_token	c231faa65238b6cde05f7af230d7c76b
+.twitch.tv	TRUE	/	TRUE	2018-10-03T12:06:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbmljb2xlc3lfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1NjgzOTQsImlhdCI6MTUyMzAxNjM5NCwibm9uY2UiOiIzeGlSMUY0WDNSSVpUNmkyUEpBUjVyY2dRazlMc1Z6bjhPX0NrSjhJLXJVPSJ9.j0WXc6ORNW3ktOCt_gJTV1BSi-972BhH3mZgrXOIZ_RFRoIa55f8lOjot7BhkcNzXINWHvmG0AITSbgMITMDnQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T13:06:20+00:00	twilight-user	{%22authToken%22:%22u63hmc0segm9m7gznbmt4mt280wisf%22%2C%22displayName%22:%22t_nicolesy_k%22%2C%22id%22:%22211971770%22%2C%22login%22:%22t_nicolesy_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

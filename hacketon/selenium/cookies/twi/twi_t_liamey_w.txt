@@ -1,0 +1,14 @@
+#t_liamey_w
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:12:30+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:13:18+00:00	persistent	211860752%3A%3Ayzyyyx6iae58652zjwtvcvv4wpcg8l
+.twitch.tv	TRUE	/	TRUE	2018-04-05T23:13:18+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjA3NTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5Njk5OTksImlhdCI6MTUyMjk2NjM5OX0=.W63S1erGbhhHKwWVMy4CWSizRC_EioJYY4yYDqd3wy6nj_HYo4RFlT70VvGk1GiZmla8v_QMu2ZTq7lYyu9bzg==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T22:13:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjA3NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcxMTk5LCJpYXQiOjE1MjI5NjYzOTl9.b_ARpMFqyyg7Jq1UJmYsLv7XcxFcU6C-ijTiT52OQICtuq5RkoA3YhG8326_5cQSQbaGLp_BDvbpI4CUitvDlg==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:13:18+00:00	login	t_liamey_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:13:18+00:00	name	t_liamey_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:13:18+00:00	last_login	2018-04-05T22:13:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:13:18+00:00	api_token	9c031822e34f1353a0f5ab3ac5290d46
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:13:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbGlhbWV5X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE4Mzk5LCJpYXQiOjE1MjI5NjYzOTksIm5vbmNlIjoiV2U2blRFcU5XXzdLR05uSEx1WmFMYjEwS29fZTk1bUtEMktQN0ZmYnY3MD0ifQ%3D%3D.7B_OdrlHBseOvotYmnpDNMosi8YVGAuXtpHszEF_kbYGBjWDqFpLJngOWp7FDVZhfYTXjLSTBbDa52rePkgvhw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T22:16:15+00:00	twilight-user	{%22authToken%22:%22r5w5u9r2w9ggu9mz0lliik0yi2jpv2%22%2C%22displayName%22:%22t_liamey_w%22%2C%22id%22:%22211860752%22%2C%22login%22:%22t_liamey_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

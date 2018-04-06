@@ -1,0 +1,13 @@
+#p_carlos5v_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	u4V7o60c7wFDPL1C4SniLNkXLh3g7CHYoKJ15jrS%2BF4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:14:27+00:00	unique_id	d0f4a6bb73bcdaae
+.twitch.tv	TRUE	/	TRUE	2018-04-06T23:14:27+00:00	_twitch_session_id	9dfdc0dc91525b428461962c5c60e9d8
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:14:57+00:00	persistent	211965437%3A%3Air68ejlorwdzvsrm3ipam58xwhs5e3
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:14:57+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjU0MzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTY4OTgsImlhdCI6MTUyMzAxMzI5OH0=.KtvGli83pYw_FUfpRirDRrz48dwt07vIWpvxbBaz5RpV0btlhffnWnylG1LsZPQEMXuCWNCx_SPDT6RA7cgCag==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:14:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjU0MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE4MDk4LCJpYXQiOjE1MjMwMTMyOTh9.ejkPiuvriWvB_95W9XO3mXjVxt_XWJZTUD3XDR1OM9I4dO-igernyDS47F9MRwLabuyZjpa8r-YLBYtnMIRiWA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:14:57+00:00	login	p_carlos5v_w
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:14:57+00:00	name	p_carlos5v_w
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:14:57+00:00	last_login	2018-04-06T11:14:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:14:57+00:00	api_token	61b79a0b31588fb985bd0c75080f2ee1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:14:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfY2FybG9zNXZfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1NjUyOTgsImlhdCI6MTUyMzAxMzI5OCwibm9uY2UiOiJXQmVGNjdoNW5sT3AxNnNRNUtnal94WjZYbDZmTE5vLVFJZkJaZ2tfckJzPSJ9.aO9PbfFQOV07aakiLIe-Jo29-T5yiEknWJBiC7XxyyavWfv6IzAF2Sv3dCcY0rgBMuNhqUp7vvZJxf0-cLZcqw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:14:52+00:00	twilight-user	{%22authToken%22:%22m7ow0632mxdg6hnqhixr8gz5ilsc13%22%2C%22displayName%22:%22p_carlos5v_w%22%2C%22id%22:%22211965437%22%2C%22login%22:%22p_carlos5v_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,12 @@
+#l_jeffreyla_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PujJa2itSGgHrE8aGxtJN4jDK6jyEGjx8jC3WdGR8hk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T15:18:12+00:00	unique_id	e6238a43477dd5b1
+.twitch.tv	TRUE	/	TRUE	2018-04-07T03:18:12+00:00	_twitch_session_id	6e7ef77c4b9bd446d67ffddaa54dbec6
+.twitch.tv	TRUE	/	TRUE	2018-09-21T15:18:59+00:00	persistent	212006383%3A%3Arffvfjdxjek9r03g06kpjjzm3el8tw
+.twitch.tv	TRUE	/	TRUE	2018-04-06T16:19:00+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMDYzODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzE1NDAsImlhdCI6MTUyMzAyNzk0MH0=.B1vu8extTFyLj45n5Mklu8njSm-UMQGfWdHPuirDED45AVgDTPJ1s5fYKzskWrBZACTbEUyZuR3SVdz3-O8Isw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T15:18:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMDYzODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjMyNzQwLCJpYXQiOjE1MjMwMjc5NDB9.qlMsXs3AgGV-2iIb5pvVbanrrLoFkJoeRk9Iiz58Bqyo16ZI77LwZAI_AwFGAzF6eqwnK10OaiAEpkp7zpie2Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T15:18:59+00:00	login	l_jeffreyla_6
+.twitch.tv	TRUE	/	FALSE	2018-09-21T15:18:59+00:00	name	l_jeffreyla_6
+.twitch.tv	TRUE	/	FALSE	2018-09-21T15:18:59+00:00	last_login	2018-04-06T15:19:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T15:18:59+00:00	api_token	a5283e41c2e7272839a33bfccaa2ca76
+.twitch.tv	TRUE	/	TRUE	2018-10-03T15:18:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfamVmZnJleWxhXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTc5OTQwLCJpYXQiOjE1MjMwMjc5NDAsIm5vbmNlIjoiYU9JaFRVanBLSmZfd0tvWWVGRlpTTmVfYjUtTXRtaG5QUExUcG9zMDFDZz0ifQ%3D%3D.Lmd6CZrEi31iHgik-F-F2dsgGpMqNiAEdgKJGcL27KqYi-cVg5BD1HdlPiVNMZIaLBAgwCZWuHCNdi8A95AvNQ%3D%3D

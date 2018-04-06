@@ -1,0 +1,13 @@
+#s_caden48_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q0YhAUIqU1qDsrnBGch2ltXF89zTXU8H8cTdvPvKW1o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:39:26+00:00	unique_id	3e291301cacaa0f8
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:39:26+00:00	_twitch_session_id	cd28219e5211dc01d5d3589eee376421
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:39:46+00:00	persistent	212036820%3A%3Aozvfcuqq8rsox5p1tduc2ty0jv1f5k
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:39:46+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzY4MjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzk5ODYsImlhdCI6MTUyMzAzNjM4Nn0=.Bgx8OR3jHAFy1CX-CJtrIwpLppE59cFxnhsFxjQxN8c_1wMcVQ-UqZQRfWuZ-IESXFsLlyNaWbwx7F95t44wwg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:39:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzY4MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMTg2LCJpYXQiOjE1MjMwMzYzODZ9.yAwWku5Su1YGNhjyYyeooKEJ8WTubgbmvt2TfcKdaCX51gojH_Lg5mIbYt3HLhYold1h5QFN4dxVaR7pdBAGDA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:39:46+00:00	login	s_caden48_7
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:39:46+00:00	name	s_caden48_7
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:39:46+00:00	last_login	2018-04-06T17:39:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:39:46+00:00	api_token	5754dafe9aab9df9ca9b7c91089fe351
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:39:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfY2FkZW40OF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4ODM4NiwiaWF0IjoxNTIzMDM2Mzg2LCJub25jZSI6Ik5lLVhlOHV2VElUd0ZiWWNMTVN4eVhzOXJ3VEFZcmNSOUdsTUxZa0pBTXM9In0%3D.LQYqK5S7y-wZouj1YC9LrLJllBfRqBhK0u7Tmc7XNim0eYLnoiVCkCvIaoGGrIgPAY9FE73_ZMlSFoR7HaHngA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:39:31+00:00	twilight-user	{%22authToken%22:%22phiv7r24koajjm90r8l1bahmrdywcd%22%2C%22displayName%22:%22s_caden48_7%22%2C%22id%22:%22212036820%22%2C%22login%22:%22s_caden48_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

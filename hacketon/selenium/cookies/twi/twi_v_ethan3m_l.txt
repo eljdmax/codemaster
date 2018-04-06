@@ -1,0 +1,19 @@
+#v_ethan3m_l
+.twitch.tv	TRUE	/	FALSE	2028-03-18T23:31:51+00:00	unique_id	f0c3410c0c300f46
+.twitch.tv	TRUE	/	TRUE	2018-09-14T23:32:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2028-03-15T23:34:22+00:00	language	en
+.twitch.tv	TRUE	/	TRUE	2019-03-18T23:35:40+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	2019-03-22T19:47:22+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b7af0e47f-015288174d5ecf8-70212d57-fa000-1623b7af0e58e%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsignup%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-03-23T19:47:25+00:00	mp_mixpanel__c	2
+.twitch.tv	TRUE	/	FALSE	2020-03-21T19:47:29+00:00	__gads	ID=c9339732165ebedf:T=1521748050:S=ALNI_Mb5XvgeRR4EjCp05xoOXj4S7D8a3g
+.twitch.tv	TRUE	/	TRUE	2018-03-23T02:15:43+00:00	passport	MTUyMTc2Nzc0NHxlMzBLfJHb-UqtyvX8fTtyZm1w_KCQYDhUD6wVCjJxi5PX4eIo
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	T5eIOroQDvod2EMuI%2F2ZP6n3T62uzzpEfMGWYVSvzME%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:21:06+00:00	persistent	212032600%3A%3Acqbawtj64n8cpgrdxi6ip4q2nu2hhh
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:21:05+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzI2MDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzg4NjYsImlhdCI6MTUyMzAzNTI2Nn0=.35hkyXRUIC6f_lvJyUUiBDL7mLwuqHqV0Vgxs9LmJt8q8DMrNywBGgzzdUVNSHuqui7AqFSs_JbKljD5lUYTsw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:21:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzI2MDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQwMDY2LCJpYXQiOjE1MjMwMzUyNjZ9.ThiGLBiFtJ2iPE5dwPmc48h2hIsOG8k0HCrwdDT493mRwzRXvoMiLla671_HZukqy8ta090lOBzMS4FFAefGBw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:21:06+00:00	login	v_ethan3m_l
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:21:06+00:00	name	v_ethan3m_l
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:21:06+00:00	last_login	2018-04-06T17:21:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:21:06+00:00	api_token	372dca131d09915e2d8df8f1b36d8ffd
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:21:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZXRoYW4zbV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4NzI2NiwiaWF0IjoxNTIzMDM1MjY2LCJub25jZSI6ImpFRkh4UDNkaFlJUE45amVMVTdrXzVSZUdZQUNWMDFTVXJvUWJuWHF2OUE9In0%3D.4SH49w9btC1Sf3vmGKC5B8lNBBfQgzTunI4eRdf_vYVCHy7FtTmoGH7MZkTW4P-jXpq0RtmFuJS45FEyuoTlVA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:20:51+00:00	twilight-user	{%22authToken%22:%22kc05yaciat7vo2yrulzgpxo56g3u99%22%2C%22displayName%22:%22v_ethan3m_l%22%2C%22id%22:%22212032600%22%2C%22login%22:%22v_ethan3m_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

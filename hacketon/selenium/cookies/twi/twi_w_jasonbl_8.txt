@@ -1,0 +1,12 @@
+#w_jasonbl_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7C7TSKF853%2FwpdBQ9DgqFpKIsreEtDcels1HVleWt5E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:48:25+00:00	unique_id	72d19ccd030fcbb9
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:48:52+00:00	persistent	212038861%3A%3A8z0nls9jwfq7fyazwh0w496gzga11l
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:48:53+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzg4NjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDA1MzMsImlhdCI6MTUyMzAzNjkzM30=.cpFx1IfJ56cpF24U2rqDoTahcHjPXmHKojDq5QA79cja6kjeKXyrsA-1jFUJwfUeP0SbLvXu-S5ItW0_qfvWrg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:48:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzg4NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxNzMzLCJpYXQiOjE1MjMwMzY5MzN9.PHHqGRjh597GOWICWTt9Ik85khhmbQw97dQ_ozKMmeEYcpFlaa4jD6-uwW2jBgPf9iz3jzQrU_2e5PHhx5atZA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:48:52+00:00	login	w_jasonbl_8
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:48:52+00:00	name	w_jasonbl_8
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:48:52+00:00	last_login	2018-04-06T17:48:53Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:48:52+00:00	api_token	543469e89432bf9f79977b73766b77ee
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:48:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamFzb25ibF84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4ODkzMywiaWF0IjoxNTIzMDM2OTMzLCJub25jZSI6IjZMTmZhMGxpN2pZeWxJVE5LY1JjN0ZtNEFWTDlYUVMzOFhfaE5fcnRKdFE9In0%3D.3tSUMUX-jv1lFSWOo0tASDE20zBh96y6kMnb2kDYXWjJukW8lNaODwuZ_CT8u5IcRoh6toi9aJilNpJF5z9gTw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:48:37+00:00	twilight-user	{%22authToken%22:%222vk0mz72agjfsfgwtnhsrvgchvgsxx%22%2C%22displayName%22:%22w_jasonbl_8%22%2C%22id%22:%22212038861%22%2C%22login%22:%22w_jasonbl_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

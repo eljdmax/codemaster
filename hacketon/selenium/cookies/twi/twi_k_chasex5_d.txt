@@ -1,0 +1,13 @@
+#k_chasex5_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BTAYfmNxnrbcyJMulhyJQWA%2FovbYR0vZL%2BLeamoTn7s%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:23:35+00:00	unique_id	49c80b9f4daddf27
+.twitch.tv	TRUE	/	TRUE	2018-04-06T23:23:35+00:00	_twitch_session_id	a031246b78d41f0db1cd3ecdffb36616
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:24:17+00:00	persistent	211966532%3A%3Ak0n72gnpla4yft7fwxbyqlmkts9oix
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:24:16+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjY1MzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTc0NTcsImlhdCI6MTUyMzAxMzg1N30=.A8r80weqcKO2V8N4VQkweCN7muefaTXY28-y0xQ7fXWt-zTfsUcaCgM9cRnbJZ1GSzARXSA7RRSnKB1a5lGj8g==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:24:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjY1MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE4NjU3LCJpYXQiOjE1MjMwMTM4NTd9.iXqepHIyUfmDGwyufOvTJdgLRImWWPjq1NZsUMGQGvCHvMhbgz2CJuShI-tblcJi4MXJQWkigh0AT502g0j8XA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:24:17+00:00	login	k_chasx5_d
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:24:17+00:00	name	k_chasx5_d
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:24:17+00:00	last_login	2018-04-06T11:24:17Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:24:17+00:00	api_token	b26f1ba18c6c9ea9c0acf6e09e1ba850
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:24:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2hhc3g1X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTY1ODU3LCJpYXQiOjE1MjMwMTM4NTcsIm5vbmNlIjoibTBZSElNX1ZManBJallXSl8zUnNCTWxtdUhOdlF2b3NRdXJwTTV3ZTFNbz0ifQ%3D%3D.jycaqMiNxaPZHxWcAtLexXXtXz8q6gL-jZ5EwBXsLz9l0mA4yjLrQ3cKtJy6y2CuwYF5t84mb5ojUoqA4y3enA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:24:03+00:00	twilight-user	{%22authToken%22:%22h461di8dswfeu7v8nzbtyeni1ihdhx%22%2C%22displayName%22:%22k_chasx5_d%22%2C%22id%22:%22211966532%22%2C%22login%22:%22k_chasx5_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

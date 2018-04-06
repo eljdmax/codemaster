@@ -1,0 +1,13 @@
+#w_danielayv_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5cwCECZCPDfyE33Dbye0vFzTS9mOqT%2FAjfZEZ9MO4WU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:40:28+00:00	unique_id	c1e8e20e9741dd7a
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:40:28+00:00	_twitch_session_id	f8ed21d1cf3de6d565a018c2e4cb316e
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:40:55+00:00	persistent	212037103%3A%3Aljmqxsve1pbkf8lazm3ysffnfw0ld7
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:40:54+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzcxMDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDAwNTUsImlhdCI6MTUyMzAzNjQ1NX0=.VUzueyV_6P1GN35VmMRFMCbHU8NjhIg0nmDPaXIQ6U_H9gCXniXHC823oN-sP2WnOwOdWqGqQ3F4mqwSv9sHeA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:40:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzcxMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMjU1LCJpYXQiOjE1MjMwMzY0NTV9.G_seXLi0TCNhbl5pxTq_MmqqNj05_vzNXxs-DfsNvC1lllxt0J_75FH3AzRDYd-9z_IyltkpjeB16yIYZKBjfw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:40:55+00:00	login	w_danielayv_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:40:55+00:00	name	w_danielayv_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:40:55+00:00	last_login	2018-04-06T17:40:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:40:55+00:00	api_token	c6487c05b661af593533e7ab361b063c
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:40:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZGFuaWVsYXl2X3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4NDU1LCJpYXQiOjE1MjMwMzY0NTUsIm5vbmNlIjoicUo5anREMlBYWkxUeUVJVncwNDhoTENWcDBUVERBSnkzWkdERldIM1kyST0ifQ%3D%3D.XXIFWymw_i6mg31XQr3Q2DzrPop7K1UqbosiHrinyC6m16PbpWDm4agTL5i5aQRexEzyu2qQyt2PDTHfAc__Rw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:40:41+00:00	twilight-user	{%22authToken%22:%22ml078809zfdnwsynjmylrn1sdmxl6h%22%2C%22displayName%22:%22w_danielayv_s%22%2C%22id%22:%22212037103%22%2C%22login%22:%22w_danielayv_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

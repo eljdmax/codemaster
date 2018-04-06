@@ -1,0 +1,16 @@
+#k_claire9t_g
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMwMzg4NTksIm52IjowLCJ1cHQiOjE1MjMwMzg4NTAsImx0IjoxNTIzMDM4ODUwfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	n5a6RmbNO3a3XyjUWwoOBKioPZzNyn8YfcFGpSE828Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:23:15+00:00	unique_id	c9207ce938ad3869
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:23:15+00:00	_twitch_session_id	b8ad661b3ce5f134a51196daf0050592
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:23:35+00:00	persistent	212033158%3A%3A9b35ggt11h0aluudqougqdgdab4f61
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:23:36+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzMxNTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzkwMTYsImlhdCI6MTUyMzAzNTQxNn0=.yekwQI_yigG251R_A4hPzETNXYlq9TR2bw6Q7BS7FypaVQwi_L_MtZ_689Eka3_52Eeqj_LEteraWwyN1ERVAA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:23:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzMxNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQwMjE2LCJpYXQiOjE1MjMwMzU0MTZ9.sGIjUcAjHUNax5rhqoIb-oouMk4OaSfPpjXLjzCGbD5UXRCv7fUrK1bDzIfoMh33CUPh18NRplcMoc14h4XFFA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:23:35+00:00	login	k_claire9t_g
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:23:35+00:00	name	k_claire9t_g
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:23:35+00:00	last_login	2018-04-06T17:23:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:23:35+00:00	api_token	c3f63acf86a380104e73d46eae1f4bda
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:23:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2xhaXJlOXRfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1ODc0MTYsImlhdCI6MTUyMzAzNTQxNiwibm9uY2UiOiJGWlUySDZrS3kzNGNTdURpMUhlcF9NNXVNOWNSNHJCOGlrRUU5dXN3dm1nPSJ9.oM7QNHbTOlIJqZ1EhQ3zQR2S26OkFiNqmqY3YjTvRaOpQ9Hw9f3BP0tbS2EAZ4MOei2CrXcnrg7xUcPhNaWizg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:23:20+00:00	twilight-user	{%22authToken%22:%22p3hi8f2atk70zk192l6wiydpfknqsz%22%2C%22displayName%22:%22k_claire9t_g%22%2C%22id%22:%22212033158%22%2C%22login%22:%22k_claire9t_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:23:23+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	zx8xL9mzT8BcxQQaUgJl8TZPFL3PybNI

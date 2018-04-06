@@ -1,0 +1,14 @@
+#h_patrick8z_z
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:59:40+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:00:10+00:00	persistent	211845408%3A%3Aa900rqb843695nj233jwdnzlghmrvw
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:00:09+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NDU0MDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjU2MTAsImlhdCI6MTUyMjk2MjAxMH0=.tl5rmCqnPwkYfbNpXMG9aCa95-cPzYYD3LJflKnDkD14pRZtECu_Ex9SOUaEyCZHbHNS37Shv7MthkRL-_G_UA==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:00:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NDU0MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTY2ODEwLCJpYXQiOjE1MjI5NjIwMTB9.w-1loNYRoe60awZNKostr3Tb8TcTNj9PyvTJI4xF5EVItRQOc1lV8iYshBovy7EeRRSG0ujAFPKxsB-zit4_mQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:00:10+00:00	login	h_patrick8z_z
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:00:10+00:00	name	h_patrick8z_z
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:00:10+00:00	last_login	2018-04-05T21:00:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:00:10+00:00	api_token	730f6b3c4f9a565962d7d9c761bf6d4c
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:00:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfcGF0cmljazh6X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE0MDEwLCJpYXQiOjE1MjI5NjIwMTAsIm5vbmNlIjoiTFdCb2lXN295cXBLb19LU1hPazNFc0t2SEZicXZ1Sm5GU2NqRzIxSWswRT0ifQ%3D%3D.dQSpAmlDhny0FNzsqvs3pea9hFiUlsC9EbTASNOZ3bL30Qp3mnAtTeAKb_vfSngRngLjZLxZuIInMSaKUs_f7w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:03:10+00:00	twilight-user	{%22authToken%22:%22tqvf03rmmdlxa7y1e29yr4az26e7ea%22%2C%22displayName%22:%22h_patrick8z_z%22%2C%22id%22:%22211845408%22%2C%22login%22:%22h_patrick8z_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

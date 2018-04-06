@@ -1,0 +1,18 @@
+#f_jaylas2_h
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	mB8vWZPWAS3fsYW6jz4unaTTOiXmEW8g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	49e8Xo4VaSKjXkgmoZSGSfiTUovSoVJdhmgAvJbhZRg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:28:02+00:00	unique_id	d262da469035c9f2
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:28:49+00:00	persistent	211960483%3A%3A54o085c6ousukc5s45nrt9i3923ctb
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:28:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjA0ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE1MzMwLCJpYXQiOjE1MjMwMTA1MzB9.NXjepbLAnyPzVF0e7JD5Yd8yz6eB4eulonjPljgWflk7bp50m7eZGidKJqCUShYyCiUuoEmDTnZUIqTdTLkuxg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:28:49+00:00	last_login	2018-04-06T10:28:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:28:49+00:00	api_token	9676bb24a6adacaba3b90d613376cf31
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:28:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfamF5bGFzMl9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2MjUzMCwiaWF0IjoxNTIzMDEwNTMwLCJub25jZSI6InFlYlAyRDl1eVBVWEk5bVB2TS1uWFFhVEJOVjctZ1Y5eE1PaHFRZkQycUE9In0%3D.b8hjs4jgJJiMBGgOpjbThbQk2f9mJuk8xvjax0Ca4N268IfMp4TXPciEDO5d3_b3u9iyFgbsH2qRiLC2KS5oXQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:28:35+00:00	twilight-user	{%22authToken%22:%22oawoqxo7hmmayr24a9le0nxo699tk7%22%2C%22displayName%22:%22f_jaylas2_h%22%2C%22id%22:%22211960483%22%2C%22login%22:%22f_jaylas2_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:28:38+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	2028-04-03T11:29:37+00:00	language	en
+.twitch.tv	TRUE	/	FALSE	2018-04-20T11:29:37+00:00	login	f_jaylas2_h
+.twitch.tv	TRUE	/	FALSE	2018-04-20T11:29:37+00:00	name	f_jaylas2_h
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	AuHPxN8iHHYshvx0dwAUrpIdWAkGd%2BUEhbMcWBqrZqc%3D
+.twitch.tv	TRUE	/	FALSE	2019-04-06T11:29:37+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221629ab8165072-0240cbdad5ba2d8-70212d57-fa000-1629ab81651de%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-04-07T11:29:42+00:00	mp_mixpanel__c	1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:30:02+00:00	_twitch_session_id	b2259809b9c5d8887efd0b149f240154

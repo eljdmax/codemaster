@@ -1,0 +1,14 @@
+#y_lydia4r_p
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:02:30+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:02:59+00:00	persistent	211858674%3A%3Ardm4lsxciw8q342evo5rbpfvod1a0r
+.twitch.tv	TRUE	/	TRUE	2018-04-05T23:02:58+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTg2NzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjkzNzksImlhdCI6MTUyMjk2NTc3OX0=.allYGfVtFYdzy7TZ-yO_dx4P2R5EWGOlVjWsKwHD-l5KEY1atVhQTH0t9e1UIUtB1IB4z4csl_wmaCOct64M7g==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T22:02:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTg2NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcwNTc5LCJpYXQiOjE1MjI5NjU3Nzl9.aS4bfVAJof3a3qKscNAh-j-numy9KQMAv8AWFTG0I7h0DLQfBDfS-g_oZfaH6JUun2FLwjHD_ePcTY9WK-Q9yA==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:02:59+00:00	login	y_lydia4r_p
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:02:59+00:00	name	y_lydia4r_p
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:02:59+00:00	last_login	2018-04-05T22:02:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:02:59+00:00	api_token	8e2d483f97044aa12c0cfa38850b7521
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:02:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbHlkaWE0cl9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODUxNzc3OSwiaWF0IjoxNTIyOTY1Nzc5LCJub25jZSI6IkhaaEZtMlBZWk5GUkVWdzF0ZWhHNmZvTmx0Ujl3YU16MmZGbHFRZXM2NFE9In0%3D.Yp4lLqIk8PB_bTvR3XsMTpnqoU65MUZAMedUyzNpSvDY1l6TDe60gQLpVv53yROQejuQVmoEvcjQCNgGRqAGWg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T22:06:03+00:00	twilight-user	{%22authToken%22:%22pm5soop8bu9lae72ng27q5kpsnjxy7%22%2C%22displayName%22:%22y_lydia4r_p%22%2C%22id%22:%22211858674%22%2C%22login%22:%22y_lydia4r_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

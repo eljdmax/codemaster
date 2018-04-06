@@ -1,0 +1,13 @@
+#e_jasmine6p_u
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:47:40+00:00	unique_id	821180a582b49eea
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:47:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Tep8BV4wB%2BeRgj6qCW1XFaRghXLmrASwosHR%2BLpzn34%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-21T08:53:02+00:00	persistent	211951566%3A%3Ah8xp58ihtw8g3ep1qpk3jvn5m9mu5f
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:53:03+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTE1NjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDgzODMsImlhdCI6MTUyMzAwNDc4M30=.p7mZlEHzTnpeeeTc0o0l3NYnjASmC4nNmo81gGRFRmY_4KY761DpFT6iMvXkG8ILWWMtexFM5Bjdj31P3z-D4w==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:53:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTE1NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjA5NTgzLCJpYXQiOjE1MjMwMDQ3ODN9.XC9x90c8_PSCBzgykVEy4XK5Y2K5lNWD2xBHelIKv-vGw66W5cv9UJFyvoBr3Mvn1qtrhqeXdNUXqKFsjW7VTA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T08:53:02+00:00	login	e_jasmine6p_u
+.twitch.tv	TRUE	/	FALSE	2018-09-21T08:53:02+00:00	name	e_jasmine6p_u
+.twitch.tv	TRUE	/	FALSE	2018-09-21T08:53:02+00:00	last_login	2018-04-06T08:53:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T08:53:02+00:00	api_token	bb1eab0f04565d73d69e6c1acef25cab
+.twitch.tv	TRUE	/	TRUE	2018-10-03T08:53:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfamFzbWluZTZwX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTU2NzgzLCJpYXQiOjE1MjMwMDQ3ODMsIm5vbmNlIjoickplc0p4Sy1KcHcxNUFnbTc3YXA1NFVzVWFhSFRvWFJrLXJfU2k4UndEaz0ifQ%3D%3D.7oxWDj1SZ-eSbWgMXPM3fxChshfkNkeVJ_lezjsO258oWETGNhSUwmDjyb0cxkcJmaMxdcgPYCTnSha1IcZHgg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T09:52:48+00:00	twilight-user	{%22authToken%22:%22g1pgbs63i72j06655m62i7h7c8t27k%22%2C%22displayName%22:%22e_jasmine6p_u%22%2C%22id%22:%22211951566%22%2C%22login%22:%22e_jasmine6p_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

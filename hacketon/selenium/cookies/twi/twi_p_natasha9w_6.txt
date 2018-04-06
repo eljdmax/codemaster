@@ -1,0 +1,14 @@
+#p_natasha9w_6
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xgAitV5i6NC8K1qwxN18H1X1SPOA5iTEJiBna4RjfLY%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:10:42+00:00	_twitch_session_id	a4249bea7690423a0f1b1c8964befc0e
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:11:04+00:00	persistent	211847824%3A%3A9kf5g4oq22ntq0sn9t4klc3gvnbnda
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:11:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NDc4MjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjYyNjUsImlhdCI6MTUyMjk2MjY2NX0=.D7M2YTmUz47QNfdWGSHKRcov2GCTwlQdrfL970FckwB4GB9nkKF2rcU_Tf2H9VIuXKHyFf0CozpeQXzhaBI5Vg==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:11:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NDc4MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTY3NDY1LCJpYXQiOjE1MjI5NjI2NjV9.f9AyJ8mFnbBXoUfggzRowdBHX2NhNo1e17YCblAYhN51tNoejJzS-2mWfLQ0Qz7VU4jpvTq1ILXJmi3GaKnjOQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:11:04+00:00	login	p_natasha9w_6
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:11:04+00:00	name	p_natasha9w_6
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:11:04+00:00	last_login	2018-04-05T21:11:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:11:04+00:00	api_token	e5e028176c03a72f1e0793ef25a6ce0c
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:11:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbmF0YXNoYTl3XzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE0NjY1LCJpYXQiOjE1MjI5NjI2NjUsIm5vbmNlIjoiZ0x0RFZWZ05mWmxnekxmY1hqeE9tWUVYVVluN1JPLWNXNTZHQzVBWWY0WT0ifQ%3D%3D.Yg0VnVnUjh_aG3XljNucEL1A2_96ql5jJR9MOVmS7hJERF11ZZBnKAteAGz5SoNwEXgFlpX8zdiWabS-dkgsow%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:13:58+00:00	twilight-user	{%22authToken%22:%22ge7z08l7vnu4vr2pbj1hfd5jikkz1i%22%2C%22displayName%22:%22p_natasha9w_6%22%2C%22id%22:%22211847824%22%2C%22login%22:%22p_natasha9w_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

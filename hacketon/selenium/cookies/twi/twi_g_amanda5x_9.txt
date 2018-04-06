@@ -1,0 +1,14 @@
+#g_amanda5x_9
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:20:55+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:21:27+00:00	persistent	211850055%3A%3Apgdq76idezh88gnbum8cxuydpej2bt
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:21:28+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTAwNTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjY4ODgsImlhdCI6MTUyMjk2MzI4OH0=.Vl9ZOfdWuYi9DELfQuseBy6ayGvyLZA_vXOWaVPM9zVCsj7-2P42DSHTQfL_DnmwhnMpF6jQ7r58aJ4MTfMgXw==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:21:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTAwNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTY4MDg4LCJpYXQiOjE1MjI5NjMyODh9.ZcqUxdMK9BxKbZjV9cJ1F9YusCwUGkvXGDrFiGHkSK9W0koNfJ51rXS-1bbJASp0Em4wCJ-hZhTlaJMdiQoWKg==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:21:27+00:00	login	g_amanda5x_9
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:21:27+00:00	name	g_amanda5x_9
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:21:27+00:00	last_login	2018-04-05T21:21:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:21:27+00:00	api_token	9dc5a27e62702dd5fe4af33c40767eba
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:21:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYW1hbmRhNXhfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1MTUyODgsImlhdCI6MTUyMjk2MzI4OCwibm9uY2UiOiJlVlhCYVR3TFc4cTAyT1dDemZrMXJQdUtpQXVyVVlrcXFjTlhxQlJkMndNPSJ9.UK-cAsVwwA0O_agBYoy5fMJXSSKKplLwqL2Lyh4DmrDAcZpye3dHCDU95cD6k2gJqNWJqXtsbEyvG7lKXmTbEw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:24:30+00:00	twilight-user	{%22authToken%22:%224w5hkflgze6lppqakb2xzdhgadbczd%22%2C%22displayName%22:%22g_amanda5x_9%22%2C%22id%22:%22211850055%22%2C%22login%22:%22g_amanda5x_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

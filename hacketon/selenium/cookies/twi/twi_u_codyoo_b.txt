@@ -1,0 +1,12 @@
+#u_codyoo_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9XZntptWgzq51RUbOwLGcLbXL8ODh6RkZrVK4PO3v8Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:50:21+00:00	unique_id	ce9ec0989354c333
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:50:49+00:00	persistent	211969739%3A%3Ajbzie1qd6b0opw65vozint6tsr34bm
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:50:50+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5Njk3MzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTkwNTAsImlhdCI6MTUyMzAxNTQ1MH0=.xOIUTQDcETdXdRkTKmv-tiW4lb8Xcr4AFPvqo3VtR8WLqC6r4UW14vtr-gcgs7oLAeAISXwdO4waQGS17TIqKA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:50:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5Njk3MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjIwMjUwLCJpYXQiOjE1MjMwMTU0NTB9.aWMSEH_b5uihUaVVdAuZbrjbQn1RfO-y1auYqr9A7krZvYeUYiemzJUgB4h2XmsiHPo4fg_Ns1uHtX8BRn2v-g==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:50:49+00:00	login	u_codyoo_b
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:50:49+00:00	name	u_codyoo_b
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:50:49+00:00	last_login	2018-04-06T11:50:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:50:49+00:00	api_token	a16a3c875b6a445cc9aa3410ce3e8967
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:50:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfY29keW9vX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTY3NDUwLCJpYXQiOjE1MjMwMTU0NTAsIm5vbmNlIjoiZE90a0JoLW14MEdCWGc4SkRRWDBFTkkzb2RKV3ZjT25NcmMtRU1pNTREaz0ifQ%3D%3D.wZa3xmVvYadBPyyfyOTUYZ9qPkBA1TYBB0VOWDgjG9GjAOGktmsJoh7oZEAONfr13ww2L8UWWFb0Hocs00UoNg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:50:55+00:00	twilight-user	{%22authToken%22:%220pe835at2mpwreqrdj4kp2xxtbzprg%22%2C%22displayName%22:%22u_codyoo_b%22%2C%22id%22:%22211969739%22%2C%22login%22:%22u_codyoo_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

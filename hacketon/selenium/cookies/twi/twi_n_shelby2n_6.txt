@@ -1,0 +1,13 @@
+#n_shelby2n_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	f9zmEN4Ls26ukCA7UJVz%2Btrgs2YI6z3n3jdf%2BE2xG18%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T09:20:36+00:00	unique_id	dadd6058704e3cf3
+.twitch.tv	TRUE	/	TRUE	2018-04-06T21:20:36+00:00	_twitch_session_id	67637e5bf4ad969fad65e51fd23670a6
+.twitch.tv	TRUE	/	TRUE	2018-09-21T09:20:57+00:00	persistent	211954036%3A%3Aeyeblpb8st5tspquo1jo4fgldsjc9s
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:20:57+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTQwMzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTAwNTgsImlhdCI6MTUyMzAwNjQ1OH0=.2BQ1e59iZiZi7t7bUxi2v_3TO_XRHYi-HSfy5qG5amtm_KIKXXTM-pgMtBlwF1_camh2BKW7EUHDrRobSLPw6g==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:20:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTQwMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjExMjU4LCJpYXQiOjE1MjMwMDY0NTh9.pwLF4q-GDiyJoUB-SQehc7tk6P_CScl4t8XB10oidFQvU8XZKGm2x_wA0pw4w_r1WqcVFhngrH7uRFXfdc_tmw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:20:57+00:00	login	n_shelby2n_6
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:20:57+00:00	name	n_shelby2n_6
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:20:57+00:00	last_login	2018-04-06T09:20:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T09:20:57+00:00	api_token	787f7f728a97081ad8aff5de5a0a4604
+.twitch.tv	TRUE	/	TRUE	2018-10-03T09:20:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fc2hlbGJ5Mm5fNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1NTg0NTgsImlhdCI6MTUyMzAwNjQ1OCwibm9uY2UiOiJTMnlRMDh0ZGd0cl9FSFkzODNBU0pHMEtCSGszMHBjSDhvc2RUTjVnclNVPSJ9.bDB_8A6uoI6Tk1jFVchu8KLRv55_cynMYzrArbXS8cEzYWrtfwSO_f_tZwD6qWyf6jZAaR12htwaCJVSgvyMyA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T10:20:43+00:00	twilight-user	{%22authToken%22:%22ujmn8f1xqq9kusj5mwtxf2grxqyn35%22%2C%22displayName%22:%22n_shelby2n_6%22%2C%22id%22:%22211954036%22%2C%22login%22:%22n_shelby2n_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

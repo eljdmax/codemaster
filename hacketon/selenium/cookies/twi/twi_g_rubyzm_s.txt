@@ -1,0 +1,14 @@
+#g_rubyzm_s
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T20:20:52+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-21T08:21:14+00:00	persistent	211948572%3A%3Ar3ru1v2tw4kps81hza2oa4rxbm75x4
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:21:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDg1NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDY0NzQsImlhdCI6MTUyMzAwMjg3NH0=.-_ievitlf52VErIimww2CXLeuFWOmbGc3xBLbDoXB8sMlmeE_q_IpAGTd3aMid--Z8bhPSPFm73YCjm5Tnrelg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:21:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDg1NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjA3Njc0LCJpYXQiOjE1MjMwMDI4NzR9.1_GAJwBchM7tVE8YqXSiY5vo__SqO6kFKpmBXQaez4L2MrGZfw3tjmaoVpQveeh9KbKQy9gXXldj3-MFgtSnHQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T08:21:14+00:00	login	g_rubyzm_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T08:21:14+00:00	name	g_rubyzm_s
+.twitch.tv	TRUE	/	FALSE	2018-09-21T08:21:14+00:00	last_login	2018-04-06T08:21:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T08:21:14+00:00	api_token	565b1d088659aeacb6ad095918e6c47f
+.twitch.tv	TRUE	/	TRUE	2018-10-03T08:21:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcnVieXptX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTU0ODc0LCJpYXQiOjE1MjMwMDI4NzQsIm5vbmNlIjoiVnVIQkZQUWxuaDJsb2xnRnkyVXNCSXpUR2tBa0EzdGdpVTJySjBKUHBVUT0ifQ%3D%3D.QsosPwcIpvUOR9Al4J6hWZKk6MwrW7Th7Y04bLrZ5aJOhv76wexVBCVXzLxJN4EbNbhehoiNGTTyM1M5erwFPw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T08:24:13+00:00	twilight-user	{%22authToken%22:%22be7x1tlp8ydhwwac6w8mpcto7rc7mu%22%2C%22displayName%22:%22g_rubyzm_s%22%2C%22id%22:%22211948572%22%2C%22login%22:%22g_rubyzm_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#t_landonwx_y
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:47:40+00:00	unique_id	821180a582b49eea
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:47:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EkFv2pchnJYVyP2%2FZQD%2FpktuoPpOmDCpio6GNeIpEbA%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:29:08+00:00	persistent	211943609%3A%3Atc4vvrlyoo0honz8ftq7902t5pblhw
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:29:07+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDM2MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDMzNDgsImlhdCI6MTUyMjk5OTc0OH0=.S52cp0mjQOZ4SE1yinWRrnOk_qtuGGrOltd47jXXbM3dVCBmB_qRbQp7IiN6MiydGks7IsARODMAyGGQZZ0EWg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:29:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDM2MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjA0NTQ4LCJpYXQiOjE1MjI5OTk3NDh9.3BxS_SZniYodB7sqsv9R1otgBTNTUiXkaqXSrsU2oSw4JI8Fd-CWXaoXfrqzUetj_O91fUiacukb6oojTfxwYg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:29:08+00:00	login	t_landonwx_y
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:29:08+00:00	name	t_landonwx_y
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:29:08+00:00	last_login	2018-04-06T07:29:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:29:08+00:00	api_token	be7e540c036a46547f6c359e8e002591
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:29:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbGFuZG9ud3hfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1NTE3NDgsImlhdCI6MTUyMjk5OTc0OCwibm9uY2UiOiJ1THlZT2VlOHMxVVhnX01LckdtVENTeXIxSWxuTkZYOXJuYWd0Y1VyWXFjPSJ9.rKGm4B9q-9gtQdTcHX2XOdltqsjBpo8kniEBMKY0mq2UT9fVnT-ZpFdiFvgjEblWg0JmC9RPzmUPSDV7iSd-cg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:32:08+00:00	twilight-user	{%22authToken%22:%22han69ckdmqle7b40swea0sp104x332%22%2C%22displayName%22:%22t_landonwx_y%22%2C%22id%22:%22211943609%22%2C%22login%22:%22t_landonwx_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

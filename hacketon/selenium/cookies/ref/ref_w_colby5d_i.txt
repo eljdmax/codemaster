@@ -1,0 +1,20 @@
+#w_colby5d_i
+.twitch.tv	TRUE	/	TRUE	2018-03-18T23:20:12+00:00	passport	MTUyMTQxMTYxMnxlMzBLfDH-V2i6ZIx6a6SAxe4HujXf5HNAYxBVdNQIRM-WhUyP
+.twitch.tv	TRUE	/	FALSE	2028-03-15T22:22:39+00:00	language	en
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:14:00+00:00	unique_id	ad3d7439b52993e5
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:14:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ma4wMGdp7bglzAxQLmP%2BrVtLXYckTD4NRamEpRwVVns%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-21T09:20:40+00:00	persistent	211954017%3A%3Ar3whfrqmdomt7bd8d33r1ztja7xvmr
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:20:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTQwMTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjExMjQxLCJpYXQiOjE1MjMwMDY0NDF9.W1hWz03iQc5J4kc8DArg6FL1ZSgMam9eassKkHKcaP05_PlxKW6IgmKKI3tI0B0vMIhyqshpq2y4v4XaKQq1xw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T09:20:40+00:00	last_login	2018-04-06T09:20:41Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T09:20:40+00:00	api_token	ce23ff9dc91e6d90d9bcb8036b4ca34f
+.twitch.tv	TRUE	/	TRUE	2018-10-03T09:20:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfY29sYnk1ZF9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU1ODQ0MSwiaWF0IjoxNTIzMDA2NDQxLCJub25jZSI6Im5FVlhpS1BxX0xTbjZuR2VOM1lmTHJuVGd5X2E3eVhUWUNaSzhORnF2WUU9In0%3D.LpXj1UKXwwBDkqC4dCfymmapirH54mhkFLjHbXSbcGygbQufRYRbVKR6GKWpUv8XjoeygjshI1KzyNwfeqsCUQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T10:20:26+00:00	twilight-user	{%22authToken%22:%2200pwhbj6xwdrc47er0hxaqv944ziku%22%2C%22displayName%22:%22w_colby5d_i%22%2C%22id%22:%22211954017%22%2C%22login%22:%22w_colby5d_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-06T10:20:29+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	Mnlj0KRcYW5DVF3RNA0UFKFaSrwKv4pg
+.twitch.tv	TRUE	/	FALSE	2019-04-06T10:21:32+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b351f179-0ad8b1ed49e02d8-70212d57-fa000-1623b351f1918f%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsessions%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253DhTbphlKX8jcqKtOLjQZ70L8wP0rUPGI-LI2uJcdLYtVT4TqeB0oNMTftghNQYmhU4nCfXL26GDWKteyskoV_zH9fox8JCjhc0nec6v5tt6lHrTmebnYnl1qgZiGqLRRFtI_bd3EksMzRsd83rh7g1ZDK-LwniacnqdV8c8XahAtIpMsOijXfJn7Bnf8bYfY-J2CUE4GGa7__yK3HzdQRxD0YjD3B67fUUVv3aoJgOeA%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3DhTbphlKX8jcqKtOLjQZ70L8wP0rUPGI-LI2uJcdLYtVT4TqeB0oNMTftghNQYmhU4nCfXL26GDWKteyskoV_zH9fox8JCjhc0nec6v5tt6lHrTmebnYnl1qgZiGqLRRFtI_bd3EksMzRsd83rh7g1ZDK-LwniacnqdV8c8XahAtIpMsOijXfJn7Bnf8bYfY-J2CUE4GGa7__yK3HzdQRxD0YjD3B67fUUVv3aoJgOeA%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-04-20T10:21:32+00:00	login	w_colby5d_i
+.twitch.tv	TRUE	/	FALSE	2018-04-20T10:21:32+00:00	name	w_colby5d_i
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	ma4wMGdp7bglzAxQLmP%2BrVtLXYckTD4NRamEpRwVVns%3D
+.twitch.tv	TRUE	/	FALSE	2018-04-07T10:21:39+00:00	mp_mixpanel__c	1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T21:21:57+00:00	_twitch_session_id	427c40a2beb1a355599f8ecf68ce5d7c

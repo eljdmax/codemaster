@@ -1,0 +1,12 @@
+#s_jessewj_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AAp3PZqG%2FUp4VzgAbxxC%2FSOIx0%2Fz2OknptpATbhFUDM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:46:33+00:00	unique_id	0d679a0cfba6a86f
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:47:00+00:00	persistent	212038478%3A%3Acunr2up9qlsrhbom71442zae7cbvjd
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:47:00+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzg0NzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDA0MjEsImlhdCI6MTUyMzAzNjgyMX0=._x84COhZ7tdHuw5iZB44-j1F31aTz_hwJBWYgT4fG4_Id5rXFg4aGHX80mE4rcigyCYoGlp3ckcOQPEMEHx0GA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:47:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzg0NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxNjIxLCJpYXQiOjE1MjMwMzY4MjF9.hao2v1xi1Ll1jlbyCpOGccbykxHWcDraBOVE9seCq1eiN2-I1vr82Yt7BCkuhUgNmM5QX5XQVRa-izEMzUknyA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:47:00+00:00	login	s_jessewj_4
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:47:00+00:00	name	s_jessewj_4
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:47:00+00:00	last_login	2018-04-06T17:47:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:47:00+00:00	api_token	7f94e403cf4a8e5f2b4a65f1ec7aefe0
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:47:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamVzc2V3al80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU4ODgyMSwiaWF0IjoxNTIzMDM2ODIxLCJub25jZSI6IlBWUWZoU0FKY01ZWmc0TV93bnpFMVNFSFltUHNGWHZHQm4zN09EMWQ5OUE9In0%3D.iAbjb_x5u7MVKv3RsMAIds3V2bUPO_CFQgiPzQ88vVwaq2UOeAGe7Oo_eDaLmhfxjbGnI_Eqp5a1ymuvpdP15g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:46:45+00:00	twilight-user	{%22authToken%22:%22pf1vxnfoyjpujr5rsrwc4xeaa5b488%22%2C%22displayName%22:%22s_jessewj_4%22%2C%22id%22:%22212038478%22%2C%22login%22:%22s_jessewj_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

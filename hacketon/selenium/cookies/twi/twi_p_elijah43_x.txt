@@ -1,0 +1,15 @@
+#p_elijah43_x
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+passport.twitch.tv	TRUE	/signup/	FALSE	2018-04-06T08:53:11+00:00	_goji_csrf	MTUyMjk2MTQyMnxJd29BSUkzMVVLWEZ5WVlGVGZQVjN1b2RpNEJwOXFpNVZ3bmVmdV80cW5KOFo5Rm98FmivZNnncf8OBXkHXVnst-ahi0buCjSyqnkNPZIaTdY=
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:37:08+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:38:23+00:00	persistent	211866633%3A%3A8ynly7kili0jfc24al78qx9mwwnhlb
+.twitch.tv	TRUE	/	TRUE	2018-04-05T23:38:24+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjY2MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NzE1MDQsImlhdCI6MTUyMjk2NzkwNH0=.sDyyhEBtDidK3cRqBfA6jWHExb9goyi_QDrviWwJgTb3WqBvvWEq6f2COxUXSgx8dO10yEGu6j3FWLidr_GQaw==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T22:38:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjY2MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcyNzA0LCJpYXQiOjE1MjI5Njc5MDR9.uR-m3gLL2eYVSI7tYMODYmmQ_1-cBIQRrNugt5NKDKE-ovAt187EJNY0eB2J7r3W238Zp5thcIsqMfpJ2XUikg==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:38:23+00:00	login	p_elijah43y_x
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:38:23+00:00	name	p_elijah43y_x
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:38:23+00:00	last_login	2018-04-05T22:38:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:38:23+00:00	api_token	1913070bf72f4c457c9eb86af758bab1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:38:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZWxpamFoNDN5X3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE5OTA0LCJpYXQiOjE1MjI5Njc5MDQsIm5vbmNlIjoiMXkzOXljN2p2OFktdDFWRGJ3WjNyTkh1aHVmWVVna0xoUE9NM205YjhLST0ifQ%3D%3D.Iz12nMxjcvz8x6FQnnGEWsoPNVK2AR3JULpe3Vo30zYRyI26cvzrqSgVpLbFPUf8lH1RYCdt8hSbbh1sb9P_Uw%3D%3D

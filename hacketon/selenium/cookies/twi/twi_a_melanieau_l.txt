@@ -1,0 +1,13 @@
+#a_melanieau_l
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:18:37+00:00	unique_id	d1e8a50f156cdfa8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aU23QgPtjbl7mSK049JsNJId3gM%2FNgmfKgA1AFbNZ7o%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:18:45+00:00	_twitch_session_id	e2e1df5c2cf2f51cee2febb0f44eb8eb
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:19:15+00:00	persistent	211959543%3A%3Aqxwj6dv67zeet1t54t60fiurndz20b
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:19:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTk1NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTM1NTUsImlhdCI6MTUyMzAwOTk1NX0=.WhDBwr-zK53OaFwPr0LdZtyY0rhTmIfXAwcghXnZW_a8mQl-iitMfvKZdrYPBpa31TaB3QsRygnnBsWrHT66sw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:19:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NTk1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE0NzU1LCJpYXQiOjE1MjMwMDk5NTV9.yWxYNoFnFHtxSEb3vxE7rD4FVkZUO5CL7HJB4HPDvKbieUqE7I7DZ-VQguwZXlD6hBOXKjeRa4gSB_CHrkbeNw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:19:15+00:00	login	a_melanieau_l
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:19:15+00:00	name	a_melanieau_l
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:19:15+00:00	last_login	2018-04-06T10:19:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:19:15+00:00	api_token	c6406160d90cfa24a1d1733eb291c738
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:19:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWVsYW5pZWF1X2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTYxOTU1LCJpYXQiOjE1MjMwMDk5NTUsIm5vbmNlIjoiM3hoTllGRUR5eGYtVkdiWF81eTAxYzVrTzdrZGhYTGVueW9pdlhldE5uND0ifQ%3D%3D.VTVKL9vy41nmMBENxXW6Uocf47dqT-Yht0DsNRGYVZ1YbjT6wXwIwu_gb4mDP4B6s0qkAMvZ8VskFSeQcfANQQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:19:05+00:00	twilight-user	{%22authToken%22:%22zvas3hs4qp7rnwpy81n7b71pas4fit%22%2C%22displayName%22:%22a_melanieau_l%22%2C%22id%22:%22211959543%22%2C%22login%22:%22a_melanieau_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,15 @@
+#v_sarahy_c
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:46:27+00:00	unique_id	e3ed3f60aa6bd204
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:46:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2020-03-20T21:21:09+00:00	__gads	ID=a1c5dffe96e93e22:T=1521667270:S=ALNI_MY_XuuhFxStT33zNXsUbCsQ9woRqA
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kLGdzrb7%2BXrdcLwxu8q3aox7WhgR78Nx7242bFSr20s%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T19:15:10+00:00	_twitch_session_id	029a6c2bd30108cc168a0f38bf22369b
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:15:50+00:00	persistent	211942409%3A%3Anjvgy7895dcnpado6ql9131u10k3v1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:15:50+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDI0MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDI1NTEsImlhdCI6MTUyMjk5ODk1MX0=.oEKPTIZhepadmcpv_4Emi1LwDVK_vhFRVroNdNzvDc-uQkGCD5QV-CJluq0sivafe-aLczQ2psX5HkIOQbKcDA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:15:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDI0MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjAzNzUxLCJpYXQiOjE1MjI5OTg5NTF9.BF_4IttOidPYBDjSACYwV-aqXs3zUY0cJSRNt14JJ_bk8GzIN8IQ2NgEXV4L_-mmdrIKLXNErOSZ7JY20Dzi5w==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:15:50+00:00	login	v_sarahy_c
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:15:50+00:00	name	v_sarahy_c
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:15:50+00:00	last_login	2018-04-06T07:15:51Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:15:50+00:00	api_token	518a9b0d23457995a5823727c0f3c924
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:15:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfc2FyYWh5X2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTUwOTUxLCJpYXQiOjE1MjI5OTg5NTEsIm5vbmNlIjoiaHNjbVpsQmxyQjZiSXhCc3VwZm1Ud1FUVXVmTFNJS3ZzbnpzYjc0dV9DZz0ifQ%3D%3D.WkbVM5Bj5uxauZiUSpL692V2T9BNcNjoMhqwqqRWIz0Qm5fii8kWc7wfWkbd9OfBDmMJlaSTj77orEaOvdYBlg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:18:52+00:00	twilight-user	{%22authToken%22:%22vbsq2xzbf96t53kt59cek5k7t9n4wo%22%2C%22displayName%22:%22v_sarahy_c%22%2C%22id%22:%22211942409%22%2C%22login%22:%22v_sarahy_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

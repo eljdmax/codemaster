@@ -1,0 +1,14 @@
+#k_jackmx_e
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6nFBtcPpvMujvrd2FyujnVxzTl4T2AbpvFXM3zV7tWs%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T19:46:26+00:00	_twitch_session_id	f255167b6816dedf767bcc3500160a28
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:46:53+00:00	persistent	211945278%3A%3As11umryrqjktvl7dztrgpqspa1lx87
+.twitch.tv	TRUE	/	TRUE	2018-04-06T08:46:52+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDUyNzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMDQ0MTMsImlhdCI6MTUyMzAwMDgxM30=.xeLYFusjYPEl1wDmzMAXBGCUhLm2GSTlEbgGPpm9TXdhwCRsvJ0lu8NR7Lmoz_9RU3P0Qj22gIRAWhiDfCPuyw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T07:46:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NDUyNzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjA1NjEzLCJpYXQiOjE1MjMwMDA4MTN9.C9QamkLRwCTrBZX2ixGYb2EttAryKkCR0mgOeoc5BqZOEhvnLyU15-BN5k0y5E95lMmEXrNpYJd37a_X0Xm0rg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:46:53+00:00	login	k_jackmx_e
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:46:53+00:00	name	k_jackmx_e
+.twitch.tv	TRUE	/	FALSE	2018-09-21T07:46:53+00:00	last_login	2018-04-06T07:46:53Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T07:46:53+00:00	api_token	5b9fc119e381257ee00a8b3c57f536d1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T07:46:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamFja214X2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTUyODEzLCJpYXQiOjE1MjMwMDA4MTMsIm5vbmNlIjoiN3hVd3hMc2tqVmx0WDZ0U1dCSHJoLW0taC0tUnVCbDc2UVNSN0IwOTdkbz0ifQ%3D%3D.q2Di6mvY832uHNEF59SLU3R4zglN0pfYLL8-uV1lWjF4wKWQMPG3mZUqG3sB2j2F_xgg4PfRTKTSVPV1QH8yrw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T07:49:52+00:00	twilight-user	{%22authToken%22:%22ec255d5yixzc5uaosmxhtlvm0g1hz9%22%2C%22displayName%22:%22k_jackmx_e%22%2C%22id%22:%22211945278%22%2C%22login%22:%22k_jackmx_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

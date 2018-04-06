@@ -1,0 +1,13 @@
+#q_jackz3_w
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qd0pot5uVcIf0q05lKkcbIRcws9xmszvhzIVuQNlIwI%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:40:32+00:00	persistent	211867151%3A%3A32c5rtammsniqdea8tj854pgz8g8lo
+.twitch.tv	TRUE	/	TRUE	2018-04-05T23:40:33+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjcxNTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NzE2MzMsImlhdCI6MTUyMjk2ODAzM30=.hdYxGyjAfYAw8DfXSAF9vWUHm-brxdobcGnFTDkjgmhoIInCTRewznjPwK12awEzuitSLXd7ge11ovC1CJq0Aw==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T22:40:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjcxNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcyODMzLCJpYXQiOjE1MjI5NjgwMzN9.Y7vontzutGhsTBUDCOZAb6-VlekqdOc-eTSEPXLfB58btjpoEcmkgdnhVW7bYdWEwNbw_9Knna6CqXzKjSuR3A==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:40:32+00:00	login	q_jackz3_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:40:32+00:00	name	q_jackz3_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:40:32+00:00	last_login	2018-04-05T22:40:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:40:32+00:00	api_token	0a09bf0554efb67f9a1e63f3cd9a4d3d
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:40:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfamFja3ozX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTIwMDMzLCJpYXQiOjE1MjI5NjgwMzMsIm5vbmNlIjoiSXFXUUNERjF3RmlWNGxQSXkxaU9lYXQ0Y1VjTThmcEtJNW1wdmVBUGVQZz0ifQ%3D%3D.yOeNlri2RJy3B1co0FGT54Hvneuwchtm_vNiUQnP5Bn4BPXTFfAIF2F_vYpqyz5MeHU4rMs6sFB-RLtwSEyiIw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T22:43:31+00:00	twilight-user	{%22authToken%22:%22c5vh1834fz6fpjx3d9ubvz6hw4x1ow%22%2C%22displayName%22:%22q_jackz3_w%22%2C%22id%22:%22211867151%22%2C%22login%22:%22q_jackz3_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

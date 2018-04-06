@@ -1,0 +1,12 @@
+#s_jesusrh_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4C%2FIjkYWRP4ZJO%2BlDMtvM9Y%2BuMjvOvkodlNchbduGCk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:56:29+00:00	unique_id	70201c3bbe5aa6a5
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:57:15+00:00	persistent	211970555%3A%3A1nj2gixzbixmz4xyonp6ckcy97nrfr
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:57:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzA1NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTk0MzUsImlhdCI6MTUyMzAxNTgzNX0=._rfeHWDbKhCZDwxeiOvDe-_ur9Iv2OOo7QFJFQLL3OlJWDbog3eAhAuEMNKpmGe9l6Swi4WPLxd01Onkjpj-EQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:57:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NzA1NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjIwNjM1LCJpYXQiOjE1MjMwMTU4MzV9.NxI6lr0lRTwvSeRXwHYdlgUucimJzSKQSSFmXA9f_nPYoSNgnWN-9c6m0JEilkHSolo8438q5Hp8x971iDxJWA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:57:15+00:00	login	s_jesusrh_3
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:57:15+00:00	name	s_jesusrh_3
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:57:15+00:00	last_login	2018-04-06T11:57:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:57:15+00:00	api_token	29d89aab3c1b9aecefc636e5c9c9a930
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:57:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamVzdXNyaF8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2NzgzNSwiaWF0IjoxNTIzMDE1ODM1LCJub25jZSI6IjE0MC1nYWFUNUxTZEJmcG0zdTJFZ0RsT0ROWVpRcnBaUndXRm15MVJQaWc9In0%3D.Pdn0FtFgTfXiiAujlyfoGkH8dcbEXB5k-z_4oaYiGUGjmqk9tPJFBqpB6vUn_GQWsznnhBlGkD5nI5nTqnWr-w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:57:02+00:00	twilight-user	{%22authToken%22:%22i5k7lpky1m446dd7ma721g50oqntv0%22%2C%22displayName%22:%22s_jesusrh_3%22%2C%22id%22:%22211970555%22%2C%22login%22:%22s_jesusrh_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

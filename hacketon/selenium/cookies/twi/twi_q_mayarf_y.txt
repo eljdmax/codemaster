@@ -1,0 +1,13 @@
+#q_mayarf_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KH6sLCl20GP3nMdbK7eBoWYuyAzZOvJd78iWq89NVtQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:37:26+00:00	unique_id	2deaa63fc179d1e5
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:37:26+00:00	_twitch_session_id	9af783734133b9470958f69521545e0f
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:37:48+00:00	persistent	212036382%3A%3Ac3pqhzmhe5jcnh8n57h84rm9jljbnd
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:37:47+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzYzODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzk4NjgsImlhdCI6MTUyMzAzNjI2OH0=.p8DeCKmWMxrsJuyvMeJgfyTB8pjsW_7TUPhjrgN9tytpem2hk2gR2eCOTcOTwA2mGyZP7aZH1GibutVsE1kS-A==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:37:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzYzODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMDY4LCJpYXQiOjE1MjMwMzYyNjh9.WfRbOad78kIrPVZz0_zk4oh_bnxyGsKlW3H_VP1GFuDNWje4rcvGOzdFPxWSrffCUt5ifiGUpyADVwnzdF9TJw==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:37:48+00:00	login	q_mayarf_y
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:37:48+00:00	name	q_mayarf_y
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:37:48+00:00	last_login	2018-04-06T17:37:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:37:48+00:00	api_token	5dea7fbf614cd7474c5d97aac11534e4
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:37:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWF5YXJmX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4MjY4LCJpYXQiOjE1MjMwMzYyNjgsIm5vbmNlIjoiRVdGWXlER2c2SDFGR2syaHc3TTFfektQMDc1NDFuT3gxMnZUVlhpWHdSbz0ifQ%3D%3D.Z0jD0cdG6_JqHhpNMfCahDBwUXyrJs24rGKalmA6cAqLatTVqeVWKm44xWeTkadUeBMtjgeRedskkKG3iJ7veg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:37:32+00:00	twilight-user	{%22authToken%22:%22ehtq32ox40jiqmn0dxyq7sceisb0km%22%2C%22displayName%22:%22q_mayarf_y%22%2C%22id%22:%22212036382%22%2C%22login%22:%22q_mayarf_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

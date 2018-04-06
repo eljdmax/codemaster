@@ -1,0 +1,13 @@
+#s_jadeoh_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	eifohLJIzu90JFH07ei%2BbReyD51oe%2BySUypHK%2Bkjahs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:45:54+00:00	unique_id	ec3e9652ca66c276
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:45:54+00:00	_twitch_session_id	ef87bbd88d0861c466b6f3904aedcf54
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:46:13+00:00	persistent	212038307%3A%3A2frw32pma17gycelh6vj0fj6w334oj
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:46:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzgzMDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDAzNzQsImlhdCI6MTUyMzAzNjc3NH0=.r8G49vgXTkbjGuM4toGL0V94j_CIp9Pd7yF4XU0JlYK-3G3x5jmDR3OCJFib_r5jredF2kUT3jd0tZntfgCwzQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:46:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzgzMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxNTc0LCJpYXQiOjE1MjMwMzY3NzR9.WPQrBD3lQx1SGtP4TCmPGv07wdJFrhmLxi_SeYvQBm_3mKDfL1o1S9hz5pFsV0OuS4boau10ERaK3xusyxQXLA==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:46:13+00:00	login	s_jadeoh_2
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:46:13+00:00	name	s_jadeoh_2
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:46:13+00:00	last_login	2018-04-06T17:46:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:46:13+00:00	api_token	47c4e8e46155a0afd7086188f3895ee2
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:46:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamFkZW9oXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4Nzc0LCJpYXQiOjE1MjMwMzY3NzQsIm5vbmNlIjoia0hhOEF3TW9RbFF5dkltc3JMU25DY09ITFRPM0tQOURDam9Sdno4Vy1sdz0ifQ%3D%3D.gkJDKgn2a17LtCpiZFT9qYYDTZ5mHraKqsK1ehjelpy6LY3Jap5fYm55keCjKf8qQsvGyDrjA2nBsnGBidtCeQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:45:58+00:00	twilight-user	{%22authToken%22:%22nhf5gzjoawh86d21kduvyo83cf5vmd%22%2C%22displayName%22:%22s_jadeoh_2%22%2C%22id%22:%22212038307%22%2C%22login%22:%22s_jadeoh_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

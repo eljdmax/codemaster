@@ -1,0 +1,14 @@
+#q_addisonaf_n
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMwMzk0MzcsIm52IjowLCJ1cHQiOjE1MjMwMzk0MjcsImx0IjoxNTIzMDM5NDI3fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	45ZVLwBCuMDwF%2Fawc07RF0dAToGe6qf4Mx5pemIenW8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:33:24+00:00	unique_id	0d219ec42f01c90c
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:33:42+00:00	persistent	212035417%3A%3A0kr4zjcspdly9o7k1495yawoffitip
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:33:41+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzU0MTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzk2MjIsImlhdCI6MTUyMzAzNjAyMn0=.tzhD6PuRlsUll9gSbTY6Ut8WXd-47vmsTnFWlsZ-eGRNjn63XxPME1q5S-Thwh49GTGmG5tNeWxMNmuWTPy_dg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:33:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzU0MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQwODIyLCJpYXQiOjE1MjMwMzYwMjJ9.irRwDnVb6kLdm_kQVfruRoIQbYdHJUzSIZag6C9xBOLoFTiBuPlt2nj7e9bg1ZwS8mIPkoa8cGbZ6dULLqhSuQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:33:42+00:00	login	q_addisonaf_n
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:33:42+00:00	name	q_addisonaf_n
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:33:42+00:00	last_login	2018-04-06T17:33:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:33:42+00:00	api_token	2063cbce3a4675a6fb0793d1dee8d2aa
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:33:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYWRkaXNvbmFmX24iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4MDIyLCJpYXQiOjE1MjMwMzYwMjIsIm5vbmNlIjoiOUlsRTZkdU90V0JyQmZIN3I1LUZUWHN4VFN0T3RkMDV6cm52WV84NGt5MD0ifQ%3D%3D.MNRGLS-DjzgeMv5xp8Qo3uOKNUKdgbARVM_QGr-EiCTqNNJgkM_EAc7eCOFlpwGtv5EhEaEqvMRQdKSvHdSnqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:33:25+00:00	twilight-user	{%22authToken%22:%22shr36oqfcl4p15sqtdtwrd8tn5eghj%22%2C%22displayName%22:%22q_addisonaf_n%22%2C%22id%22:%22212035417%22%2C%22login%22:%22q_addisonaf_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:33:29+00:00	twilight_onboarding	true

@@ -1,0 +1,20 @@
+#w_josiahny_5
+.twitch.tv	TRUE	/	FALSE	2028-03-18T23:31:51+00:00	unique_id	f0c3410c0c300f46
+.twitch.tv	TRUE	/	TRUE	2018-09-14T23:32:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2028-03-15T23:34:22+00:00	language	en
+.twitch.tv	TRUE	/	TRUE	2019-03-18T23:35:40+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	2019-03-22T19:47:22+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b7af0e47f-015288174d5ecf8-70212d57-fa000-1623b7af0e58e%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsignup%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-03-23T19:47:25+00:00	mp_mixpanel__c	2
+.twitch.tv	TRUE	/	FALSE	2020-03-21T19:47:29+00:00	__gads	ID=c9339732165ebedf:T=1521748050:S=ALNI_Mb5XvgeRR4EjCp05xoOXj4S7D8a3g
+.twitch.tv	TRUE	/	TRUE	2018-03-23T02:15:43+00:00	passport	MTUyMTc2Nzc0NHxlMzBLfJHb-UqtyvX8fTtyZm1w_KCQYDhUD6wVCjJxi5PX4eIo
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0UFmmtX1fxCyf5psa4pfNQ9piZhlsKj32UI3XjjVzPw%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T10:09:38+00:00	_twitch_session_id	be59f6ac506d4bb95940f98c0417f5a4
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:10:09+00:00	persistent	211860142%3A%3A0eqsf20wfolvt14ucjp8c9xc0j5123
+.twitch.tv	TRUE	/	TRUE	2018-04-05T23:10:08+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjAxNDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5Njk4MDksImlhdCI6MTUyMjk2NjIwOX0=.jrBMHNpAuvX6xJ2yC7rQ-tTqlcAujCqVl-LZUfRGk7fxrRvayX6SqkrrPPiZ5RtI4cq3RUXk8LsEluO1ijRevQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T22:10:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NjAxNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcxMDA5LCJpYXQiOjE1MjI5NjYyMDl9.SZVdhX2oJqWVf60i9fZAfKC-SAtz9-FzTRfjbWWeriobzY-NCYu4QYitVLsgyqw47fMOMdiUlD9lQLHJ036isQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:10:09+00:00	login	w_josiahny_5
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:10:09+00:00	name	w_josiahny_5
+.twitch.tv	TRUE	/	FALSE	2018-09-20T22:10:09+00:00	last_login	2018-04-05T22:10:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T22:10:09+00:00	api_token	372e41c69e3090e261b06db6e459f696
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:10:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfam9zaWFobnlfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1MTgyMDksImlhdCI6MTUyMjk2NjIwOSwibm9uY2UiOiJvSkJxc3VyVUJ3OEo0NnBoNkk4Smt4OGlxNThDZXBlSlVjbE5UWDVUb1ljPSJ9.i2hWR9C3D5-cTI1h1R_IJec6bSokgittjuypOFP6XMZvye4-97cbDP99i1hrD8JaVguBSU8DnhZJ8bY-idTQ1A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T22:13:01+00:00	twilight-user	{%22authToken%22:%22y37lbeef9wyw4zal78kvgbnft7xrwp%22%2C%22displayName%22:%22w_josiahny_5%22%2C%22id%22:%22211860142%22%2C%22login%22:%22w_josiahny_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

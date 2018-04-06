@@ -1,0 +1,13 @@
+#d_lindseye2_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VBrf5E94mz8TZjolZd6UmnG4hd7%2Bs4p6D3EJq9XLsQk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T10:35:35+00:00	unique_id	af0d16734e704fde
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:35:35+00:00	_twitch_session_id	591f9c40681d1919ecc1f15beb45f0c0
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:36:03+00:00	persistent	211961177%3A%3A0l7q1vbtf1rzzw1pjjxy4jdpbr4hzk
+.twitch.tv	TRUE	/	TRUE	2018-04-06T11:36:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjExNzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTQ1NjQsImlhdCI6MTUyMzAxMDk2NH0=.8KnobW7KnS6bI-Zq6B9pTZlWfeokcLaals5LPds0CjIakp5TSKT2KedaqLPpbtpwksGSzm5nrW2QMueQ_iWBjg==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:36:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjExNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE1NzY0LCJpYXQiOjE1MjMwMTA5NjR9.O05ULpoes5XItD5kRkEiZSGKWVSlDeja_vwzzXIS8EipUPcT-LFQF72CbVn1_RLCIc8AsHl8AByvMrSczfxu6Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:36:03+00:00	login	d_lindseye2_a
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:36:03+00:00	name	d_lindseye2_a
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:36:03+00:00	last_login	2018-04-06T10:36:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:36:03+00:00	api_token	4539ce237057eadc0ca9758c6221a2c6
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:36:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbGluZHNleWUyX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTYyOTY0LCJpYXQiOjE1MjMwMTA5NjQsIm5vbmNlIjoiYzZXOW92ZHd6SlpIVWlubFRCdEt3R3dXVEhxYzZPUWNqNU5HenZnVXZ3ND0ifQ%3D%3D.wBvzH9YPd_rmMt_QGpeKI9CVSkgO1SD1i38Jrd3zJvy0lo12n8c-V-Ren8xMM1fghgOi36mKQNTE22h5Dqh39w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:36:00+00:00	twilight-user	{%22authToken%22:%22z1p0viv2e1d05ul6lcj9bej3v66d4j%22%2C%22displayName%22:%22d_lindseye2_a%22%2C%22id%22:%22211961177%22%2C%22login%22:%22d_lindseye2_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

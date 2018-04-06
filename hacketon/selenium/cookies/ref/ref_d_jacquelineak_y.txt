@@ -1,0 +1,19 @@
+#d_jacquelineak_y
+.twitch.tv	TRUE	/	TRUE	2018-03-18T23:20:12+00:00	passport	MTUyMTQxMTYxMnxlMzBLfDH-V2i6ZIx6a6SAxe4HujXf5HNAYxBVdNQIRM-WhUyP
+.twitch.tv	TRUE	/	FALSE	2028-03-15T22:22:39+00:00	language	en
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:14:00+00:00	unique_id	ad3d7439b52993e5
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:14:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ma4wMGdp7bglzAxQLmP%2BrVtLXYckTD4NRamEpRwVVns%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:28:38+00:00	persistent	211960469%3A%3Az84audswe0r66sbg2b6ssj4gnm44ur
+.twitch.tv	TRUE	/	TRUE	2018-04-13T10:28:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjA0NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE1MzE5LCJpYXQiOjE1MjMwMTA1MTl9.7J9Y8PG7RJ2nKvL_mFa2dP3sfVqUfeYIuDUmvHK5pueQSn9uvY7qMBn7TuEP-K9Q55VfRQafF2V7Aktv2N71ew==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T10:28:38+00:00	last_login	2018-04-06T10:28:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T10:28:38+00:00	api_token	3f887d60815723169376ce723e755794
+.twitch.tv	TRUE	/	TRUE	2018-10-03T10:28:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamFjcXVlbGluZWFrX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTYyNTE5LCJpYXQiOjE1MjMwMTA1MTksIm5vbmNlIjoieXlWcnhuVVZIYmlxYTFaY1QyRzVYbll6NGFIRDU2Zi1ldnhNdFloN3VLVT0ifQ%3D%3D.IdH4EklASGcghjo6-BgufegjkE_hT5CFN0n3GDOfSEoihru45DlLVCr6ULui9TTUcvPwH9wIXTxf4PxcEDmWJA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T11:28:23+00:00	twilight-user	{%22authToken%22:%22wofjhxg2mq64s1ao00w4tzmtjh0byx%22%2C%22displayName%22:%22d_jacquelineak_y%22%2C%22id%22:%22211960469%22%2C%22login%22:%22d_jacquelineak_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	dN9zu5cb1R0Ji6hm8Xq4owaHhu3IXBjg
+.twitch.tv	TRUE	/	FALSE	2019-04-06T11:29:37+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b351f179-0ad8b1ed49e02d8-70212d57-fa000-1623b351f1918f%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsessions%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253DhTbphlKX8jcqKtOLjQZ70L8wP0rUPGI-LI2uJcdLYtVT4TqeB0oNMTftghNQYmhU4nCfXL26GDWKteyskoV_zH9fox8JCjhc0nec6v5tt6lHrTmebnYnl1qgZiGqLRRFtI_bd3EksMzRsd83rh7g1ZDK-LwniacnqdV8c8XahAtIpMsOijXfJn7Bnf8bYfY-J2CUE4GGa7__yK3HzdQRxD0YjD3B67fUUVv3aoJgOeA%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3DhTbphlKX8jcqKtOLjQZ70L8wP0rUPGI-LI2uJcdLYtVT4TqeB0oNMTftghNQYmhU4nCfXL26GDWKteyskoV_zH9fox8JCjhc0nec6v5tt6lHrTmebnYnl1qgZiGqLRRFtI_bd3EksMzRsd83rh7g1ZDK-LwniacnqdV8c8XahAtIpMsOijXfJn7Bnf8bYfY-J2CUE4GGa7__yK3HzdQRxD0YjD3B67fUUVv3aoJgOeA%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-04-20T11:29:37+00:00	login	d_jacquelineak_y
+.twitch.tv	TRUE	/	FALSE	2018-04-20T11:29:37+00:00	name	d_jacquelineak_y
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	ma4wMGdp7bglzAxQLmP%2BrVtLXYckTD4NRamEpRwVVns%3D
+.twitch.tv	TRUE	/	FALSE	2018-04-07T11:29:42+00:00	mp_mixpanel__c	1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T22:30:02+00:00	_twitch_session_id	427c40a2beb1a355599f8ecf68ce5d7c

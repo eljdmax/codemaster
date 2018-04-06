@@ -1,0 +1,12 @@
+#i_marissaqe_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dCMEj%2B255x6EMLuHNwpsgcm9B7JPowZRiDfIy1uoMBY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:36:22+00:00	unique_id	c48a8b4ae2a2cffd
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:36:44+00:00	persistent	212036126%3A%3A5dzi815615k26l6o01pnghk7sfgkk2
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:36:44+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzYxMjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMzk4MDUsImlhdCI6MTUyMzAzNjIwNX0=.owdA4geDA_dpk5SWQG1nMb17ZuWalWrCChJ4HAWx7l85WmmHPD79103r1AvdiStsL8fNxB-IWeHXaqKrzGR8xw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:36:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzYxMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMDA1LCJpYXQiOjE1MjMwMzYyMDV9.vvj3IKKkHDtOp4O7Ym60bAr6tzl10JDFAjredU_Wpd2HrVvhrTYKFa9hT3nMgkM_AJpfo_00KN139IbNqFroDQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:36:44+00:00	login	i_marissaqe_y
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:36:44+00:00	name	i_marissaqe_y
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:36:44+00:00	last_login	2018-04-06T17:36:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:36:44+00:00	api_token	b6cb31e1c216205dfdd2b845c2f701fa
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:36:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFyaXNzYXFlX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4MjA1LCJpYXQiOjE1MjMwMzYyMDUsIm5vbmNlIjoiMDU0N25HWlpMeFhYWGczN3Ixdk9NT2xFYmc1by0tSl9uaGVYdkpaWllpbz0ifQ%3D%3D.zOICGP_o-UFq_262LHPP-hjP4qauIe4DaIjUZ9ynepgQQPi_J5ewMyfva1b69hNMY9PAZaeU2TfO1inM-TqFkg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:36:29+00:00	twilight-user	{%22authToken%22:%22jyhckw3abcjnetum8kh1kz6h2uua4o%22%2C%22displayName%22:%22i_marissaqe_y%22%2C%22id%22:%22212036126%22%2C%22login%22:%22i_marissaqe_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

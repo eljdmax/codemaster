@@ -1,0 +1,13 @@
+#q_margaretdl_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NCenGQFFyhLT9yuYbcUyGPd3hUgAehWhoRAFFW87czY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:39:15+00:00	unique_id	e0457861632ca31c
+.twitch.tv	TRUE	/	TRUE	2018-04-06T23:39:15+00:00	_twitch_session_id	32186d226ecf5e66f982196373def96d
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:39:39+00:00	persistent	211968362%3A%3Aslv7e4sacnfm8bbfmn48xhul6bjton
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:39:40+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjgzNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTgzODAsImlhdCI6MTUyMzAxNDc4MH0=.qwqhswWEH8oPsKvRApvqiyW78ukxC9hoRlF2iI9ycWsY3GXz6g9JH673yKMSn7wdv4AU4qj50yLQvRLQy9YNsw==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:39:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjgzNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjE5NTgwLCJpYXQiOjE1MjMwMTQ3ODB9.yerIq2ervH8vcbR_SlZZ1fjhZz7X3f1f5Fg9EdJDURb5OroOv3n8R3dVlz0yV1sXS3f6K3CspaOYhEFunMpW9Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:39:39+00:00	login	q_margaretdl_5
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:39:39+00:00	name	q_margaretdl_5
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:39:39+00:00	last_login	2018-04-06T11:39:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:39:39+00:00	api_token	12d1749a44f2812ddb27776d367eb690
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:39:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFyZ2FyZXRkbF81IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODU2Njc4MCwiaWF0IjoxNTIzMDE0NzgwLCJub25jZSI6IkxUSDVNSnpPcEg1LXYzY2VZclprODBFSURUbDl5MGJHbXJhVEZ5dmhoTEU9In0%3D.Zk-WPQAU5Go2HPiRcisAUAFBZaGBAIwsFzIo80otFqEkotzd5bkEk0HuZY7KluJaW1dJDzjXIWuPNwVsk3pM4Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:39:29+00:00	twilight-user	{%22authToken%22:%22brk9cc8zk7cyvcqjw9497qvnr0c1um%22%2C%22displayName%22:%22q_margaretdl_5%22%2C%22id%22:%22211968362%22%2C%22login%22:%22q_margaretdl_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

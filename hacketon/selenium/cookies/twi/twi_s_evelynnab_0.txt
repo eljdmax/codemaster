@@ -1,0 +1,13 @@
+#s_evelynnab_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rGtKZkirzOiCaMrHFaU9zu79v8G0k5EwRwlSqDANJ3Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T11:47:37+00:00	unique_id	aec1cd3299abed65
+.twitch.tv	TRUE	/	TRUE	2018-04-06T23:47:37+00:00	_twitch_session_id	85ab4c81725cc2719fb17262d539e87b
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:48:05+00:00	persistent	211969391%3A%3Ayslnhpo8gpusysqk7cmxw5fq89kox8
+.twitch.tv	TRUE	/	TRUE	2018-04-06T12:48:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjkzOTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwMTg4ODUsImlhdCI6MTUyMzAxNTI4NX0=.nxCcjk8W-Jh9y13UE1SrvSAV6wJ_L5Z6XsTT-kbZfxZ6haPFenMBDoiNVy8eHjpvzZxAEAWWE7EZpsMN6vmqKQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T11:48:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE5NjkzOTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjIwMDg1LCJpYXQiOjE1MjMwMTUyODV9.UvJJouEd8YyqlsTQU9witI9WFAQUeODLabi7g9lqAg8J3rX5Ppdp_m5VvNJhtyGxgNwbsELD-3fC7gc5iGkx0w==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:48:05+00:00	login	s_evelynnab_0
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:48:05+00:00	name	s_evelynnab_0
+.twitch.tv	TRUE	/	FALSE	2018-09-21T11:48:05+00:00	last_login	2018-04-06T11:48:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T11:48:05+00:00	api_token	a676ca72bf64ac314e061a265d46c704
+.twitch.tv	TRUE	/	TRUE	2018-10-03T11:48:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfZXZlbHlubmFiXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTY3Mjg1LCJpYXQiOjE1MjMwMTUyODUsIm5vbmNlIjoiQnQ1RlVQNlJHRWt0aU4tOHJnRW9KSGZpbmUxdzRoY0psYi1BRHpOTHkwYz0ifQ%3D%3D.8-SU--oY8u-hhJu4Zu1Kvl9X5-WKGrHPtnUU5m5ckFQXjGCVbaJ8HGkHo0SkCDtDfMk3Qssk7Qgt2MIlQcCQOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T12:47:51+00:00	twilight-user	{%22authToken%22:%22a0cep8icdzb577mgmcd9s77kpzelgq%22%2C%22displayName%22:%22s_evelynnab_0%22%2C%22id%22:%22211969391%22%2C%22login%22:%22s_evelynnab_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

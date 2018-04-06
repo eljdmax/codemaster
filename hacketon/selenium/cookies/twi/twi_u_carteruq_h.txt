@@ -1,0 +1,13 @@
+#u_carteruq_h
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	oqUX8lLPaWX5rIlWDu8obd9dDu%2Foj7NoEdDW%2BbS8mkk%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:23:11+00:00	persistent	211850408%3A%3A2sii4fd1nfl6x523poncp0hfjqsy05
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:23:10+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTA0MDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjY5OTEsImlhdCI6MTUyMjk2MzM5MX0=.fA08F1eq8KqN_JMN2G-s7-elAXNFAaRHQG8Iu9Bma0z6L0nIeXs9oLVtmWMaer1QADYX1xEsRq_GG7yT7QuFAA==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:23:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTA0MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTY4MTkxLCJpYXQiOjE1MjI5NjMzOTF9.Avoo7gemCLlbz8Qt5eV5YuDo5BKwsZ4FBTfmfyS8OzuBuVjZzRMS6bHE56f0Pkepi1FDEjJAr1_YQCx2M6rs6w==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:23:11+00:00	login	u_carteruq_h
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:23:11+00:00	name	u_carteruq_h
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:23:11+00:00	last_login	2018-04-05T21:23:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:23:11+00:00	api_token	5ee65b1b4d2ab1c74534427768f0899c
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:23:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfY2FydGVydXFfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg1MTUzOTEsImlhdCI6MTUyMjk2MzM5MSwibm9uY2UiOiJrbGdKeVVxMnVRcHpfV2tfVC0xemdnOUdyWnNnTjVxLXhOTnV4VUV1ZEIwPSJ9.ErCEC2aHZ_mbJKZe8Am4FX0SF7d0_EYYnQF30FTpKurkhNgnJVRbvmaO-E8_0iC8gJ_qy8aTwtWnIV_pXkLO8g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:26:17+00:00	twilight-user	{%22authToken%22:%224fl4p5p4f9o3orkdx8zt2epzrgyj27%22%2C%22displayName%22:%22u_carteruq_h%22%2C%22id%22:%22211850408%22%2C%22login%22:%22u_carteruq_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

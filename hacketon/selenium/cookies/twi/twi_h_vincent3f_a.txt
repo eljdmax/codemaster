@@ -1,0 +1,14 @@
+#h_vincent3f_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Fzxmg9Fp4uIa0SRK%2FkO8ByhTTkO8MZORW7Qg0TpFUbM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-06T17:42:26+00:00	unique_id	c925bcdacd474620
+.twitch.tv	TRUE	/	TRUE	2018-04-07T05:42:26+00:00	_twitch_session_id	fe2996f5fc7b845ac9e6cf3ff6257562
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:42:42+00:00	persistent	212037517%3A%3Aiqqiiyw6m7ni95gz4x146ltrsttnb3
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:42:42+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzc1MTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMwNDAxNjIsImlhdCI6MTUyMzAzNjU2Mn0=.M7T1sSw6LvSsVO1sK5li5tN11jgXBZBgQL3ft7bQqEhEGYBqQ6JMsvqwZsOUd92g4GzU3FIrvsP2ZtVo4ocThA==
+.twitch.tv	TRUE	/	TRUE	2018-04-13T17:42:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTIwMzc1MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNjQxMzYyLCJpYXQiOjE1MjMwMzY1NjJ9.2izOmxRIrl6cvM8Ubx96g8xNk9kLi2isvIOTIpwqvvYugPnZ0qU0_oTkWzvfPhMXEUpaAGtb0uGYH_f_El3uHg==
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:42:42+00:00	login	h_vincent3f_a
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:42:42+00:00	name	h_vincent3f_a
+.twitch.tv	TRUE	/	FALSE	2018-09-21T17:42:42+00:00	last_login	2018-04-06T17:42:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-21T17:42:42+00:00	api_token	0a1cd376e8d38099959547f3cbf7b7bf
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:42:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfdmluY2VudDNmX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTg4NTYyLCJpYXQiOjE1MjMwMzY1NjIsIm5vbmNlIjoiWENPSlZycU5XRUxnb01MeHhWVDdKNUdabWRtVnFMaTh4eGZ2ZDFoMkdWaz0ifQ%3D%3D.bDFw08EoMjoSlwhl0S5NHTm7T654abLmFko7JBJbWCfPLW8xMRiYBHilz-HyEfphZ3PAUd9q0SfKXisGetktiw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:42:27+00:00	twilight-user	{%22authToken%22:%22d2n96b4tznk3fiulajjl9tgy59gbof%22%2C%22displayName%22:%22h_vincent3f_a%22%2C%22id%22:%22212037517%22%2C%22login%22:%22h_vincent3f_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-06T18:42:28+00:00	twilight_onboarding	true

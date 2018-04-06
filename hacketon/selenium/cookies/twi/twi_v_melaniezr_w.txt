@@ -1,0 +1,14 @@
+#v_melaniezr_w
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F2mMGq1kbX6KSBwKHwXUcx7JAOrHzlf%2BR4E93Cv7lzM%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:58:34+00:00	_twitch_session_id	14aa7f4e6c7b100aef81b676ba917e0e
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:59:06+00:00	persistent	211857871%3A%3Aupw7ohjljqotu8qi3637r0llqoc8a1
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:59:05+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTc4NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjkxNDYsImlhdCI6MTUyMjk2NTU0Nn0=.d5zFmA1N19xBkocLqVlCcHfvVpLjF3Bxxp8c-mD23vqNFB52nKMi_IfChy5SoAPTSNi9xziV9QDXMiAyJCF1Mw==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:59:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NTc4NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTcwMzQ2LCJpYXQiOjE1MjI5NjU1NDZ9.yBjXgiVAbHy9rUHW1q_Z_y9eBUq92R-y4vTzdLU9JpaWH-jwzGSH19MF_dNOB67zms8tMWozOZ_Kt8RrRSLaOQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:59:06+00:00	login	v_melaniezr_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:59:06+00:00	name	v_melaniezr_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:59:06+00:00	last_login	2018-04-05T21:59:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:59:06+00:00	api_token	e28c2b69fc283479aa57a958ea9905ab
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:59:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWVsYW5pZXpyX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NTE3NTQ2LCJpYXQiOjE1MjI5NjU1NDYsIm5vbmNlIjoiZVZWeF83X2tFOTk1SF9LVjRKMmNWbk5KMk9zYkw3eGxCU0UtcFItREhkYz0ifQ%3D%3D.N_sstRlTSAeBjqKFs2yRL1Mf2fCxNccK5SbPJHMhijLvQgWzoSV95su7DqsafF9f7b-QMiatCcytUcnN5-rD0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T22:02:02+00:00	twilight-user	{%22authToken%22:%222k5kqsl6z05gwcecym08qiw0weafjg%22%2C%22displayName%22:%22v_melaniezr_w%22%2C%22id%22:%22211857871%22%2C%22login%22:%22v_melaniezr_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

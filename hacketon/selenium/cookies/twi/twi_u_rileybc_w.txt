@@ -1,0 +1,14 @@
+#u_rileybc_w
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aZWKavjvmlmOcpu24qL07xweoABpkNkS%2FO6fPcEWZhg%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-06T09:13:51+00:00	_twitch_session_id	2ab4d21028ad23431f564398447f5231
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:14:22+00:00	persistent	211848559%3A%3A3ud80h4sd8m4me2yrreywmoslo7gha
+.twitch.tv	TRUE	/	TRUE	2018-04-05T22:14:23+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NDg1NTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjI5NjY0NjMsImlhdCI6MTUyMjk2Mjg2M30=.wdMVRcSisGjt36Uh3uDwdJjjuLWo1b4oqfNTwn8j-fde7OcTla7CaLoQ5R7WBuLbXWX3qVo_hihFYq6M6zhM-Q==
+.twitch.tv	TRUE	/	TRUE	2018-04-12T21:14:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTE4NDg1NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNTY3NjYzLCJpYXQiOjE1MjI5NjI4NjN9.ss3inc1rna1wVCSk3f7Cgb7KgVgMCdU-ZgMr_IdRagRdXqz_6tX0LqHY-Iw8yZ-jp08EK5YZZReLRMvj6unQmw==
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:14:22+00:00	login	u_rileybc_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:14:22+00:00	name	u_rileybc_w
+.twitch.tv	TRUE	/	FALSE	2018-09-20T21:14:22+00:00	last_login	2018-04-05T21:14:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-20T21:14:22+00:00	api_token	7c4ba610f5662e8311381589267f0bc8
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:14:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfcmlsZXliY193IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODUxNDg2MywiaWF0IjoxNTIyOTYyODYzLCJub25jZSI6IjZRbzdpWGhueHExaDVaV2Z4dTJfZ3RnVWUwZGpac2hsNmZQSGVhb0M2VmM9In0%3D.xvc5lQEMHnDaShdulXEgd33N8GvtX3b_0DsXRn1ItZEHNvYW52JBl11dBqX_mPDszNZVbQ8yzJpUpIcBkgaO6g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-05T21:17:33+00:00	twilight-user	{%22authToken%22:%22yug3yr4e186179z15kmsa3d4ask6i3%22%2C%22displayName%22:%22u_rileybc_w%22%2C%22id%22:%22211848559%22%2C%22login%22:%22u_rileybc_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
