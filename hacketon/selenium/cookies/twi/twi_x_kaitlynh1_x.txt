@@ -1,8 +1,17 @@
 #x_kaitlynh1_x
-.twitch.tv	TRUE	/	TRUE	2028-03-18T22:46:27+00:00	unique_id	e3ed3f60aa6bd204
-.twitch.tv	TRUE	/	TRUE	2018-09-14T22:46:27+00:00	impact_excluded	1
-.twitch.tv	TRUE	/	FALSE	2020-03-20T21:21:09+00:00	__gads	ID=a1c5dffe96e93e22:T=1521667270:S=ALNI_MY_XuuhFxStT33zNXsUbCsQ9woRqA
-.twitch.tv	TRUE	/	TRUE	0	csrf_token	kLGdzrb7%2BXrdcLwxu8q3aox7WhgR78Nx7242bFSr20s%3D
-.twitch.tv	TRUE	/	TRUE	2018-04-06T20:56:21+00:00	_twitch_session_id	029a6c2bd30108cc168a0f38bf22369b
-passport.twitch.tv	TRUE	/signup/	FALSE	2018-04-06T21:56:07+00:00	_goji_csrf	MTUyMzAwNDk4NnxJd29BSUxxZktDT0p6MjFqOFFnOXR4Q0pFV0lPaWtqTGVUc2FBeXNyYlRqYkJqaVV8jCuZ4SZJ2HQu7KP773WqVxFPax-flFeauECe1Vs5L3o=
-passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CI6bm4HkiaHfNN0vZ8dzgSng0HxVdk7vWrhJC%2BDnul0%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212644532%3A%3Aga9b1eqmbnphsu53aq7vg4sk854a08
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2NDQ1MzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxOTU0ODgsImlhdCI6MTUyMzE5MTg4OH0=.FyAo11Vd7sY0FYXP9PKvqr9sk1C9UoAVkYSmDdsZnaSckNfLvjA7c8g4GLKr7BlKzCQHDfBRoGwhaa1-A1UVcQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2NDQ1MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzk2Njg4LCJpYXQiOjE1MjMxOTE4ODh9.eYdHKlAGpambo5wgj3d-qNcpAY39U-B0RaXgmo2qe7UcCUr0dnO51c9v62dJ2LTV8EhgaOL7cLy2a3y6mGEzcQ==
+.twitch.tv	TRUE	/	FALSE	0	login	x_kaitlynh1_x
+.twitch.tv	TRUE	/	FALSE	0	name	x_kaitlynh1_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T12:51:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0cb5bfe4810439144f84c54416a70db2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfa2FpdGx5bmgxX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzQzODg4LCJpYXQiOjE1MjMxOTE4ODgsIm5vbmNlIjoiUnU0NTlTSTV3c0dDcjByZzMxSlFORDROSGlTQVRZaXpXa0g2QzM5SElOUT0ifQ%3D%3D.dh40Wn7jAH11c2F9yaiOETC6BVt--U9S64hMudp4aZ5s8iBAB2HrjhJC59fH0EQBLLv4Ce6OwUEAQI3R-AgHug%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2259e4ngs2tcgc0jkx4gquuv06rp5tzu%22%2C%22displayName%22:%22x_kaitlynh1_x%22%2C%22id%22:%22212644532%22%2C%22login%22:%22x_kaitlynh1_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

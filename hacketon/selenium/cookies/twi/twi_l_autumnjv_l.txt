@@ -1,0 +1,17 @@
+#l_autumnjv_l
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Pv%2FHbfIhrCfgGjroq2cGgQ%2FsoXhibvl4uj27Cfm9pJA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212782207%3A%3Agczdypod6q6wu9z9uxdcbuos4k0150
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3ODIyMDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjIyODksImlhdCI6MTUyMzIxODY4OX0=.YLR8VbtEQtexJ3aGMhXGVKEvIIq6Y5W9X9VsF8Q1Xhhi4djfIlTZOOwcoz0x70mHrGpe-rXD4M-Lt3IZ5DpY6A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3ODIyMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODIzNDg5LCJpYXQiOjE1MjMyMTg2ODl9.LY_HdTmLhGg9bfPR8BdxzPUcWfwf4x5EUVIJYLrPkm6VCKU-JOdH7WSyAK4GFIj4DpAr2uVX19MK9J4TPkXKow==
+.twitch.tv	TRUE	/	FALSE	0	login	l_autumnjv_l
+.twitch.tv	TRUE	/	FALSE	0	name	l_autumnjv_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T20:18:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7e9fef285a702321a60d1b66a231e718
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYXV0dW1uanZfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzA2ODksImlhdCI6MTUyMzIxODY4OSwibm9uY2UiOiJmYTFlUEtBT2FROHpRS2NEckJ1b3ZvalpVang3ZG85U3gzS2Fkd1FrNFh3PSJ9.LFDhw3QeWrQPGcjFElH2kYLgLIrSTdmzKwu5n6QFx02jwKS5cbsTTxLaR2Z8YNO8apQ2dpDufZgUK-5SU77kCw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22k5ebdbs11prswy92xp948xr3u196zg%22%2C%22displayName%22:%22l_autumnjv_l%22%2C%22id%22:%22212782207%22%2C%22login%22:%22l_autumnjv_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

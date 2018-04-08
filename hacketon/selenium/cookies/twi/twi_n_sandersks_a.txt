@@ -1,0 +1,18 @@
+#n_sandersks_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0k95yBxIIroSUmqw4oeOfWoH4LCw8kAOfIurTasWIwI%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d254acb93805f648490b0f23695c0821
+.twitch.tv	TRUE	/	FALSE	0	persistent	212470532%3A%3Amavov8a7t5mtzzudee8vo4l5h85ay0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NzA1MzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxNDMxODMsImlhdCI6MTUyMzEzOTU4M30=.z4OPIyv8HBPPmx5hRlX6nVxFFiwG9vIILOJSz7zJESyyXn0DezsdphcEpQtxSPEpQb-k1WmiHN4Ythln7uglBA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NzA1MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzQ0MzgzLCJpYXQiOjE1MjMxMzk1ODN9.nSQWxyV4mQt0hN-iHCpzm8yk7T4MmkWtzI-ARDngyFCB1efq79oNz84BRryNtodlrKe0JKHsh3NPfNxSy1bgVQ==
+.twitch.tv	TRUE	/	FALSE	0	login	n_sandersks_a
+.twitch.tv	TRUE	/	FALSE	0	name	n_sandersks_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-07T22:19:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b3a50d243b58bf91e4d7aff585e2226e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fc2FuZGVyc2tzX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NjkxNTgzLCJpYXQiOjE1MjMxMzk1ODMsIm5vbmNlIjoiV0MzY0ZKbElhUzl2dXdVZnh2am9vdk45SDJ1bk5LalZucFVUcVh0QnRmZz0ifQ%3D%3D.IZ1_gytc72mL5Ab3jx_zyDsr1ud1EvrOUua9XiGL5Lb3NHYdxqXfNEje71wEeVdj9yUrXZy6Om1SyFnY8dP1wg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229ntk2jh3ookw6nzpn1h1nmnl2piayv%22%2C%22displayName%22:%22n_sandersks_a%22%2C%22id%22:%22212470532%22%2C%22login%22:%22n_sandersks_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

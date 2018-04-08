@@ -1,0 +1,17 @@
+#m_nathalied6_y
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	mGL5G1eTwJUL%2FLqMySY4AnGizWoH3hvL39RBwWha%2FwI%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212465118%3A%3Aedft5ng0xiyw8xom3xenpntwodigkd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NjUxMTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxNDIzODgsImlhdCI6MTUyMzEzODc4OH0=.SY743KM0Bb9u7u9OgNyluK6qnd9t3X5HcSq5Y7KNi_GCrzLJXT8fKT3572iPKCPhSrvhjojA30XJodwFs_Bl9A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NjUxMTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzQzNTg4LCJpYXQiOjE1MjMxMzg3ODh9.w3pKPvys-SxsFOfV7TTChTT-yu3-uCugokVH_mS3rj-iUxaUtGQKW5hAFIYCi1GJP7I3_xU5X9SziF2bFQpy6w==
+.twitch.tv	TRUE	/	FALSE	0	login	m_nathalied6_y
+.twitch.tv	TRUE	/	FALSE	0	name	m_nathalied6_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-07T22:06:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	564cf339d4c6b4bc3ccecf35471ab944
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbmF0aGFsaWVkNl95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODY5MDc4OCwiaWF0IjoxNTIzMTM4Nzg4LCJub25jZSI6ImREd3ZhSnplblNxbjFVNXA1c1NVOEFXcWJ3WUNTZ2xyUndXTE1LVFlETms9In0%3D.QdCZHAm1G1j8r8uUW5ucAq6Gja2i1jE2KlS-DrTZGo0UC7WZggMRPwbSjHLb1Vh7ZKC34uliewDCGEE5xPhywg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22o7skeww9f1tzl8urm4u5pvtditneih%22%2C%22displayName%22:%22m_nathalied6_y%22%2C%22id%22:%22212465118%22%2C%22login%22:%22m_nathalied6_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

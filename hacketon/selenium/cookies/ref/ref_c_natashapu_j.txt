@@ -1,0 +1,16 @@
+#c_natashapu_j
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	vmK98MOP9Dmkm8WcjXxzM8Jb1JsxwY9ail20AGtLP6BFIH3EbZvpO4Xm2EXSTQo_Ta3mHF3-e0kohaMntQOb5IjVyh0Wu-hKLdmcnmI6gis1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	vs50bx4pkki3edmbggmycz5l
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	s3ecW-KEc4uO-VtdvW16dAm8s90RiOXqv2xZMnPyJLF65j21al52Cnx2kn4xLoUTYpwG41XhMuKjLQvjTzMFcfjMrrdzAFXDAXcsHeX4bZcshhKOoeqXs-bCKakst3Gbo_2C_yUEC2Pmg0_lREN1Sh5roVSlhwE3I-302r-jhQ3qv7d6xdjgdWJa2w_YPvzsDBZEbY6RYAy_Fx0lUxTIvtfuY38KLTM1wTvhtkWHYsHE2jVAM4NF_Vk3UEzW-y02gAGfBWPU_ysbQdciK3sr1kqmnZxyyrZwzOorxG1bQw0g7L3jncWdp9ZP6kBJvvqh_iUyw20HN3zthn8pjrQ6Qdp1cgryla3NdQML4DXrKBn6bafUXeSpnM8RC6_1ytfiBqVL8Fccq8ePji1GG_IbYqVeHoqcdGUPmrG_DMozuyYUBXWNk5d7nYRJI0NOh5fRUWxCv7bObK9Is0h4rAwwgHpjsW14P99yihw9S5z65_BhMaCNJbKDaucn-xTldnO2
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	OVR3dDZKaEN6aDFKS3hxTk9vaU9CZVBxY21vRENOOEpPZDFrdWQvcTJHSHpzaTBNcWpjOFJiWlFKSVVLRGt4Ti0tcFFsOG9UeFRnQWsycHBYbnA1RXBLZz09--0523f8dd3624b44f8e3285b28c1511230c537b40
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1

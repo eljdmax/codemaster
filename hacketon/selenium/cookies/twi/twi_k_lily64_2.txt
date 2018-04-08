@@ -1,0 +1,18 @@
+#k_lily64_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kiXt3aVdVYw5qFpVKEpONKkJWOP5vqUXORGitIuNeJw%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8b689dd5abba9c620046ee3d40cac349
+.twitch.tv	TRUE	/	FALSE	0	persistent	212461810%3A%3Aypb4ftzvj2zpi9kuwsrp4xg8sq2tfa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NjE4MTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxNDE4NzksImlhdCI6MTUyMzEzODI3OX0=.IWHgDyHq2qkZdq646ZyhTLarDmZVPiMUlpxOTUUPzdgOT2_873O1W7bobnLCRnfgszTiJD-B9BeJUpEhnf5-sA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NjE4MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzQzMDc5LCJpYXQiOjE1MjMxMzgyNzl9.OehKrfKmDrI50YprWsVhdzeBafWdCVV2e7nY5c_88rfCtzipRpEkwWfT8zX-ZpvsxKl7QlrNm_4LxY6vyYTaog==
+.twitch.tv	TRUE	/	FALSE	0	login	k_lily64_2
+.twitch.tv	TRUE	/	FALSE	0	name	k_lily64_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-07T21:57:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a0a1338e03f96c495ccda2025384f2a3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbGlseTY0XzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NjkwMjc5LCJpYXQiOjE1MjMxMzgyNzksIm5vbmNlIjoiNDhuY1E1cGRfLUdDRE5ZbTlndEt2b1d0M2I5RDAwUVRCVUdBZ1BwMFNLbz0ifQ%3D%3D.SdQRFD6GIr1d496xj5CIdRVi_l169ALU9HaTMHrDSXDSLfurY8nHE6rGLn7iesKYaGf6vmq8ZoRHUMsymZ1ffg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22eshq92q5rtky1y5vtwypp9pm6bi0e6%22%2C%22displayName%22:%22k_lily64_2%22%2C%22id%22:%22212461810%22%2C%22login%22:%22k_lily64_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

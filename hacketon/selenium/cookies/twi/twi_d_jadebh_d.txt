@@ -1,0 +1,18 @@
+#d_jadebh_d
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Wfwp%2FBY0hEpPtiXLOSKYUI2QFLUpe6HojqhTEldM6Ew%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8dca0b867f11870af860620138e0d55a
+.twitch.tv	TRUE	/	FALSE	0	persistent	212792344%3A%3A6afa5h2j6163fxm5tz0brjoy8gmegp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3OTIzNDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjM4OTMsImlhdCI6MTUyMzIyMDI5M30=.A61H19PrrCuoMFF8-HSP4BNtHGtIyJIp9RQEc7_D9x42G8UN3MMYhFoGg6Q_7bQDomba7HkKp3e1g0LWGkLZ8w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3OTIzNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI1MDkzLCJpYXQiOjE1MjMyMjAyOTN9.swMpEzQ77CsUy6XtNDNyufxCtrgmmKX9CVVStx5H9Iie8LT3AFhlr2y8mVQxcbnHdlH8Ew_xjD1tB-gLJI9SoA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_jadebh_d
+.twitch.tv	TRUE	/	FALSE	0	name	d_jadebh_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T20:44:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9ebb543e7cd0da824bd64b6359a31c01
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamFkZWJoX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzcyMjkzLCJpYXQiOjE1MjMyMjAyOTMsIm5vbmNlIjoiWVNPM3NlRWplQlBUazU1Wjd0bUNfME9DcmdIVnJBMnJIdWZRbU50MUloMD0ifQ%3D%3D.73nq646QydOVdWMB2eWNetarVLm1EfLJjPljBsQ_oIBHeE7NBkBi0FFZgMC2cQBrGf45P4JfipYanvnxEMCYxA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22i4xvzoyx2fciw4rhzuk4yxv8ehzb9h%22%2C%22displayName%22:%22d_jadebh_d%22%2C%22id%22:%22212792344%22%2C%22login%22:%22d_jadebh_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

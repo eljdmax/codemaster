@@ -1,0 +1,17 @@
+#x_sandersbg_p
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yfq7per3C14LWD5Q2KrWR%2FQT3vYe05Qr6%2BTXeRRsltg%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212456768%3A%3A7hb8dtlvn9w0fnp2pcbkmel0oppuim
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NTY3NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxNDA5MTUsImlhdCI6MTUyMzEzNzMxNX0=.XGt5NXiym5zdzruK3TWgwTYjQuBo06FR29qI1REJW9bR2K14aLFzn7eMjBdMQOgEgiUyx-ES_e69hZ9TnjEbHQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NTY3NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzQyMTE1LCJpYXQiOjE1MjMxMzczMTV9.5wpDfKziVOaG65JJbWYxaly6JalR2_L87m2aCs0nSAy8cQszVv_EGhdzUSz8BKs8C7ySI2fzjRbZN3317IYC_A==
+.twitch.tv	TRUE	/	FALSE	0	login	x_sandersbg_p
+.twitch.tv	TRUE	/	FALSE	0	name	x_sandersbg_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-07T21:41:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1067ae3fc9a040dc576d141a897af689
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfc2FuZGVyc2JnX3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Njg5MzE1LCJpYXQiOjE1MjMxMzczMTUsIm5vbmNlIjoiQUVSTDZNdVRJZGVxMlRlQ2JlOUZBX2tzbldJZTZRdFFIbUl6b201MVlwdz0ifQ%3D%3D.2fJOJyMiGmtXp7t7Se-XguG4aA1nTcBOsWbY_NbbFyrqT_NFhqSmIoZe29WbaZsGQ6XMJkYyvPpDTxsyyO-pjA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lbatl447zq4nibhzenxcdjlyz4bijq%22%2C%22displayName%22:%22x_sandersbg_p%22%2C%22id%22:%22212456768%22%2C%22login%22:%22x_sandersbg_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

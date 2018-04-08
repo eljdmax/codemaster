@@ -1,0 +1,18 @@
+#o_natashaq4_p
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	uzA%2BdgIEIfteHp4nRKuLaViuPCT8reuKi4ULFHyaluw%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0303094235073bd4d3b4e63f6e2f09a2
+.twitch.tv	TRUE	/	FALSE	0	persistent	212633040%3A%3Amvv9y07ge13plm33hqdftmhyjl6blc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2MzMwNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxOTE2NjAsImlhdCI6MTUyMzE4ODA2MH0=.fAKi2xsNkx4vtEZHmwOcCmtjTzXLe83pR3rxzdqdr4L7DSBIqIZqDUKS7bMGy8O1b4b0hatIFtM_6o-qPhgk6Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2MzMwNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzkyODYwLCJpYXQiOjE1MjMxODgwNjB9.vQ5Z73Zp68iIt4SNi2r-Dwknf6lfdYwGkUUJScVa_Ssi_ZiAHxranryw0ghtunnidFHzj4N6PBp4tOJhv76DIg==
+.twitch.tv	TRUE	/	FALSE	0	login	o_natashaq4_p
+.twitch.tv	TRUE	/	FALSE	0	name	o_natashaq4_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T11:47:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	806be9869f0a672cc73c1c6b357bb7ff
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbmF0YXNoYXE0X3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzQwMDYwLCJpYXQiOjE1MjMxODgwNjAsIm5vbmNlIjoiNy1WcjQ2TlVjeFh5Mk16RXpvMTRKZXM2WFJPTm92NFA0WHVvWE1MRG1BMD0ifQ%3D%3D.G-ac3srYfNoicj1shkreJzZrCKUs4wJptdgugv1qhZF71699hrlTa6Jx3duXkYx5g0jDvwFHhQyDki6zYqzb4w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22b1sjs57bbgzrp4gennafizu4o7i53u%22%2C%22displayName%22:%22o_natashaq4_p%22%2C%22id%22:%22212633040%22%2C%22login%22:%22o_natashaq4_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

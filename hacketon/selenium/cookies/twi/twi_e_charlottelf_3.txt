@@ -1,5 +1,18 @@
 #e_charlottelf_3
-.twitch.tv	TRUE	/	TRUE	0	csrf_token	lhUXcVm%2Fewy8VEctEMLCoPWoxSHmm3ddBjRgneTYQKA%3D
-.twitch.tv	TRUE	/	FALSE	2028-04-06T11:44:49+00:00	unique_id	4a11043970274b2b
-passport.twitch.tv	TRUE	/signup/	FALSE	2018-04-07T00:44:32+00:00	_goji_csrf	MTUyMzAxNTA5MXxJd29BSUwycDJMbDlDak5tcklTaFphYnJidXpkeEVlNlNpR2ZucTJsMFBpZ21lM3Z8uH4JZTbOalatAlfy085hdOGEAT9Ych_2WsSexzgX4MI=
-passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6ypJvIV8cR%2BToQvKt6mJJ72MEoWjmgBLtRom3qfx4pY%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8de36b35d9c7a0fc5e89ad782e519132
+.twitch.tv	TRUE	/	FALSE	0	persistent	212797385%3A%3Awx54l0qjqkdu1u9bzg4qc5bd4h6d8f
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3OTczODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjQ2MzksImlhdCI6MTUyMzIyMTAzOX0=.vf0oxpWfSr2o-WvE4UJ-W7i15hwDRup43ailFQCqERlT5OYcVu5xNjW_ofqcrDpQvO63SBgQJhzWClYy-2ePUA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3OTczODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI1ODM5LCJpYXQiOjE1MjMyMjEwMzl9.QUSWubE1JypRuTAEUv-wq2vrqjexwgV8jIwB7XBI7WBoqrqcERGPCgFs8xLScdDO0Cp0i6FXP91RLaUxY9vvxg==
+.twitch.tv	TRUE	/	FALSE	0	login	e_charlottelf_3
+.twitch.tv	TRUE	/	FALSE	0	name	e_charlottelf_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T20:57:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ca4855e9b0bbcbf6a240164501f1f76f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfY2hhcmxvdHRlbGZfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzMwMzksImlhdCI6MTUyMzIyMTAzOSwibm9uY2UiOiJ5dklIeFFRV1RRUVZWSjlMdDlaTGpqYm01aVdjRUx4cTNxODY4Nk9wZWNFPSJ9.yzuMem6orbIdyWMdar8uLrvxtclsH8dTc9Wdr3W6RUJ6iTeeM6zBQtxmEnno4h73L_Diu0jjVmZ7kSw5dKfCQw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224h15lwu8a0kr3xrbi5d6vqrmnpasmb%22%2C%22displayName%22:%22e_charlottelf_3%22%2C%22id%22:%22212797385%22%2C%22login%22:%22e_charlottelf_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

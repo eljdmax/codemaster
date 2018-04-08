@@ -1,14 +1,18 @@
 #e_jessevu_7
-.twitch.tv	TRUE	/	FALSE	2028-03-18T23:31:51+00:00	unique_id	f0c3410c0c300f46
-.twitch.tv	TRUE	/	TRUE	2018-09-14T23:32:13+00:00	impact_excluded	1
-.twitch.tv	TRUE	/	FALSE	2028-03-15T23:34:22+00:00	language	en
-.twitch.tv	TRUE	/	TRUE	2019-03-18T23:35:40+00:00	twilight_onboarding	true
-.twitch.tv	TRUE	/	FALSE	2019-03-22T19:47:22+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b7af0e47f-015288174d5ecf8-70212d57-fa000-1623b7af0e58e%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsignup%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
-.twitch.tv	TRUE	/	FALSE	2018-03-23T19:47:25+00:00	mp_mixpanel__c	2
-.twitch.tv	TRUE	/	FALSE	2020-03-21T19:47:29+00:00	__gads	ID=c9339732165ebedf:T=1521748050:S=ALNI_Mb5XvgeRR4EjCp05xoOXj4S7D8a3g
-.twitch.tv	TRUE	/	TRUE	2018-03-23T02:15:43+00:00	passport	MTUyMTc2Nzc0NHxlMzBLfJHb-UqtyvX8fTtyZm1w_KCQYDhUD6wVCjJxi5PX4eIo
-.twitch.tv	TRUE	/	FALSE	2018-09-07T01:15:58+00:00	last_login	2018-03-23T01:15:59Z
-.twitch.tv	TRUE	/	TRUE	2018-09-19T01:15:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWFydGlhbDd0X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM3MzE5NzU5LCJpYXQiOjE1MjE3Njc3NTksIm5vbmNlIjoiTC1BUnF6YTAtR0xhRE1qeU1DZ25YWTh6M29rWmxOb09qWGRTZF95SExOYz0ifQ%3D%3D.TPALGPu2zfurj8yL0uHF4n5bjWJnpt8oZgT7AMmiZGH_TBgHCy1XCAR1mJJ8lRu69KKKl4UXvXc2uP3nSeJ7gQ%3D%3D
-.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F%2BMUC1ipjXxgDUezpsBijEZJej0bHUMU1l3JRsJMwyM%3D
-passport.twitch.tv	TRUE	/signup/	FALSE	2018-04-07T00:28:43+00:00	_goji_csrf	MTUyMzAxNDE0MXxJd29BSUdzV3lXQ3dDeklxUjlnUzlsYzk5QWlOS2NZQm52ak05VzQ3R0FLdWFQdmN8lrLrCGtjeZLjn-2W3qHgt3azgUU6dryYT4R7ewJ8L7s=
-passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Qcrr2bjOTzhhUBEmXasUO%2FOCEh%2FEjCu7RSEcICs1sPU%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d142a0d54092aa3c8b78c0f0791331e0
+.twitch.tv	TRUE	/	FALSE	0	persistent	212785014%3A%3A13pehej42sxnzdo5tbi7a74iaxj4g2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3ODUwMTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjI3MjUsImlhdCI6MTUyMzIxOTEyNX0=.iA8fyJfPYbS4fXKlpL3eBgNZkn9TGr3ky-p7I8j8StPVt7w8NL0nVdk7j-ES9R_aQ7cKVIRcITI_xQ6IxCoaVA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3ODUwMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODIzOTI1LCJpYXQiOjE1MjMyMTkxMjV9.Tl4N6Zh5ux4hC4dFe5OtI3gnoMj-EijOLnHBEDteSvt4DoQQNSa5_31_uDIDokcHtmZlRFb5tmxXeQgMBgztTQ==
+.twitch.tv	TRUE	/	FALSE	0	login	e_jessevu_7
+.twitch.tv	TRUE	/	FALSE	0	name	e_jessevu_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T20:25:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f7cbf33cabfe2a97774054b8e6a89ac0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfamVzc2V2dV83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3MTEyNSwiaWF0IjoxNTIzMjE5MTI1LCJub25jZSI6Ii01WnV4czNjNVNYeENvZ3Q0VG1kY01paVJrMkF3bWh2bWVNU1dlclZYZDQ9In0%3D.IvWvrtwc0eEC9eZNflN2ogOe_tarE3qdZGiz1sXN5TUrPxu07wcKKJ6MaNrrlFxgFEnHCM7r_uhIKZllzpHIKA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ohh5ju5hit5bx44z3su2ddf9044dgk%22%2C%22displayName%22:%22e_jessevu_7%22%2C%22id%22:%22212785014%22%2C%22login%22:%22e_jessevu_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

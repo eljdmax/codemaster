@@ -1,0 +1,17 @@
+#m_natashabp_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3U1l3dqJb3OwgZ1kn8UUZ0oR%2B85wVQwkIE4Cp2vuTAY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212457651%3A%3Ajc5ddq978fnv6ocgobov7r0lz7g4gt
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NTc2NTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxNDEwOTcsImlhdCI6MTUyMzEzNzQ5N30=.qSm326Wv-VqbbWAoMYGoo0rtKrF1URRjyqnUZ9pJWwo-33-aTzL-iHNS32v_QpOXiyq1iWOg2eOs80t989GN_g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI0NTc2NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzQyMjk3LCJpYXQiOjE1MjMxMzc0OTd9._RQcE_dkoJb1qf5uZNGATqIhJPiiy640k41vmWgZ-rZkp9Ua31DEutrLZaaipxHyEULGz4Ux4-LQ2bfO5i63HQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_natashabp_5
+.twitch.tv	TRUE	/	FALSE	0	name	m_natashabp_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-07T21:44:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3edc744e1b875aad4833cc51deb9db98
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbmF0YXNoYWJwXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Njg5NDk3LCJpYXQiOjE1MjMxMzc0OTcsIm5vbmNlIjoiRGpPVUk1WGE5WkM4ZlhOUUZ1TjliV1ZxSHNHaUdZSFlObHJ5encyTTFWOD0ifQ%3D%3D.8wTAR767QG3NCW-ioDWpJkE2yfmSPyXvpXa20wFaFA6ii-v3zA-oBP6Zv_porm-FxQWvA5nsStyaKYvUzjImFw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ef9ek56jlocb3la1pc9aj0chvb6hiy%22%2C%22displayName%22:%22m_natashabp_5%22%2C%22id%22:%22212457651%22%2C%22login%22:%22m_natashabp_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

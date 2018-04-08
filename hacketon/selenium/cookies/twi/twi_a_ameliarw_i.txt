@@ -1,0 +1,18 @@
+#a_ameliarw_i
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BtAdhCMKyY2vy7X4Eq%2B4dTDGWkpMIt0XlEC2%2ByYriFk%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	5e2eaadc366056bf7e5ac8805f083f2f
+.twitch.tv	TRUE	/	FALSE	0	persistent	212774193%3A%3Afagje7ng56ju23g778fer917t8waja
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3NzQxOTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjEwMjgsImlhdCI6MTUyMzIxNzQyOH0=.gXiz9N35iRe-lbHwpCyLNQTIsx6XDK57CGy3HLts-W7gUF7BgagwroAaT1QXxdjySRnWKZ5N5YRmwBf341JYcQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3NzQxOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODIyMjI4LCJpYXQiOjE1MjMyMTc0Mjh9.-Mf3-dqT-Q0Y3SsujtGmopoMmD95HmI4ZBpEu5LZwyauEvZO9gTjT_pTHBBwpKi48qY63VIeBeyDGE7YCfLwPA==
+.twitch.tv	TRUE	/	FALSE	0	login	a_ameliarw_i
+.twitch.tv	TRUE	/	FALSE	0	name	a_ameliarw_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T19:57:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3afe11eb72582dd2cb7361f12d1063f3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW1lbGlhcndfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Njk0MjgsImlhdCI6MTUyMzIxNzQyOCwibm9uY2UiOiJMc2JSak9PUTFXdzd4dlQtdnZZaFpsS1ZRUk1rVXR6b1ZidElfNlM2SWJVPSJ9.Z_KXcxY6xqffj9Zb3jgjLoFRPpFL5pDGIOF84ea0StrhDACTxJLTwNsm6rXelXhCxqt5RM8tZrMNvISBL2F_5g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hq44hke73bdgmn88duowy0jsj77rbp%22%2C%22displayName%22:%22a_ameliarw_i%22%2C%22id%22:%22212774193%22%2C%22login%22:%22a_ameliarw_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

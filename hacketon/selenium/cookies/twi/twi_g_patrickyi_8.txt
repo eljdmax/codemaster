@@ -1,0 +1,17 @@
+#g_patrickyi_8
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3WgKxL%2B4xgwgrCuZ%2Bs22FVOdwaIqnvR0t6KakogdVws%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212643066%3A%3A6wnik3phjkvnh32226xquaabn7g3sn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2NDMwNjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxOTUwMzQsImlhdCI6MTUyMzE5MTQzNH0=.KrZdsPyj__mR6nSYbNb1Or19XEy0CkEvbZJqKao-t8JGBOtPgFe6x7JzcAHRJF3MWLyhCzGV-4rgx3fdOYDMdQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2NDMwNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzk2MjM0LCJpYXQiOjE1MjMxOTE0MzR9.FVx8CK92LlEDG-IkorCZEMfEdi84XdWB2HPk4nRPGujdSgK5z79SOoVC4IfGV8Lh1RPbyYh1N3w28mJx7Z9ldA==
+.twitch.tv	TRUE	/	FALSE	0	login	g_patrickyi_8
+.twitch.tv	TRUE	/	FALSE	0	name	g_patrickyi_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T12:43:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	027020c43abf0f20f99f9e6da3b8db65
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcGF0cmlja3lpXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzQzNDM0LCJpYXQiOjE1MjMxOTE0MzQsIm5vbmNlIjoiT2c0XzZMRWVYeEhBOVVrcm5pSlAtYTdNcGxUN082cFFaZmQ2UU40Q1llND0ifQ%3D%3D.3kH_q6g2srOG3TUs37ktZO_Yb5y8WNEiuk8cpKE-uZUqdQI0A-lukijklKXIHHFl6MQzgqhZnA8jxlvLJyJcxg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22db2jjl27883s4tjrbu2d9cqwwedfvv%22%2C%22displayName%22:%22g_patrickyi_8%22%2C%22id%22:%22212643066%22%2C%22login%22:%22g_patrickyi_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

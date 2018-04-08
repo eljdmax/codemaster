@@ -1,0 +1,17 @@
+#g_emmanueldf_p
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	clZDaK99uAPCsCNwQtWoIN%2B70%2BvGTwvn5qTnQIhaylM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212770252%3A%3A2pdb1mp3x69yb3my3mx34wz3ax5lsd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3NzAyNTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjAzNTAsImlhdCI6MTUyMzIxNjc1MH0=.tinJN773I51ciROFA29987GlnmCPxtNusfjaC4Tkudk7OcrQkLb_beqcA3A-a2BnPHPsuVp25kU4XBHc7yxkJA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3NzAyNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODIxNTUwLCJpYXQiOjE1MjMyMTY3NTB9.zE2yxeMt2OIrftgHuTznpdXv8ga2LR4Av5x7hoZsDSfsgBB3DiyY4Z46YzL85ecCzZ03GHB4jYaa-va2_wiJ7w==
+.twitch.tv	TRUE	/	FALSE	0	login	g_emmanueldf_p
+.twitch.tv	TRUE	/	FALSE	0	name	g_emmanueldf_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T19:45:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f78fe43da825730fa6c7c7d610412cd5
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZW1tYW51ZWxkZl9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc2ODc1MCwiaWF0IjoxNTIzMjE2NzUwLCJub25jZSI6Imk1WnU0WmxOajlMb1RkWWI0ZndDWHp2eF96LURLVnpOMzZQYXlMUGRPb0k9In0%3D.dcmSZHVMDBOO1OSru9m4I0H7a_ihJ_LNZ0umDtyMUkRqCW5FEcUJ9l3i8Wy5xPc8bo-HLFtG9rW5WJOBP5-SZA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vkvdl19qeevlf0jp25afwt1kagjbml%22%2C%22displayName%22:%22g_emmanueldf_p%22%2C%22id%22:%22212770252%22%2C%22login%22:%22g_emmanueldf_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

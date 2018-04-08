@@ -1,6 +1,18 @@
 #h_jaylahf_c
-.twitch.tv	TRUE	/	TRUE	0	csrf_token	X7zc8h47Zs7XT%2FtH%2BfAVQh1QW6ne6LutpVxsMIjLS5Q%3D
-.twitch.tv	TRUE	/	FALSE	2028-04-06T11:29:42+00:00	unique_id	27491bc188de1af5
-.twitch.tv	TRUE	/	TRUE	2018-04-06T23:29:42+00:00	_twitch_session_id	301598ffbc49f8fa01f0a52c7c292b15
-passport.twitch.tv	TRUE	/signup/	FALSE	2018-04-07T00:29:26+00:00	_goji_csrf	MTUyMzAxNDE4NHxJd29BSUwzTHBnUEI5RW05bFBZSkNyWlRibF96bEROVE90a3dTbkVyTVZMWmgxbWV8349M7f-tGlpMz1j30P-r-12VhVmnXzgV0jY2KczNUlw=
-passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6c37K4TyHalkeRPaDuKfSyQcz1bPnrel5dt9sVVh%2FYo%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f975ef6e2155c4c6bbaca2dfcf2d2c29
+.twitch.tv	TRUE	/	FALSE	0	persistent	212787476%3A%3Aeuimbs8otjpg4sv9p03xb6gv82rass
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3ODc0NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjMxMjUsImlhdCI6MTUyMzIxOTUyNX0=.Lux8XTeAyyP3Cbg-KarUZAOGDfKAXNrlPff3zmrABgVrMjpvwTtF_r3uYI5a_SP4gbgIMF5-IYPWkZ7vEXttaA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3ODc0NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI0MzI1LCJpYXQiOjE1MjMyMTk1MjV9.qihahECIs7-Am6u0WhnD2FOpjSbo3jaRZJWQI9wUoCHLAlD_PVKGijCLgfxG-DXHLwXPHJg4i4cuqUqwWdc7ag==
+.twitch.tv	TRUE	/	FALSE	0	login	h_jaylahf_c
+.twitch.tv	TRUE	/	FALSE	0	name	h_jaylahf_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T20:32:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	28eb0a0d105cfb32a84d55389abab2b8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfamF5bGFoZl9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3MTUyNSwiaWF0IjoxNTIzMjE5NTI1LCJub25jZSI6Ikt1SWRFdjNuQ1ZrV0x5c0JrY2Q0d05LT0ViSGNYUVpwN0wtd2ItYmdFdU09In0%3D.tPBxLkPYtRBcwAkmKPt4uMeqazxyKwd93Q3sLtZlI9RygzsAwo3s5KgfiMHKFhAtm5EH1LKICWrICs0oXmrpRQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2285jjc0u45ap2n9gj9iumdgdvthvnij%22%2C%22displayName%22:%22h_jaylahf_c%22%2C%22id%22:%22212787476%22%2C%22login%22:%22h_jaylahf_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

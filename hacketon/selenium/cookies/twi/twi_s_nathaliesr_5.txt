@@ -1,0 +1,17 @@
+#s_nathaliesr_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vsSspgrKhY9Li9jy2FUI%2BAGu%2FfE0oOM8wyZbLNVwFAU%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212639851%3A%3A6sys1bza76m5xfodcbqy42vpldpf3h
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2Mzk4NTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxOTQwMTEsImlhdCI6MTUyMzE5MDQxMX0=.GxQsxB43p1eXTIjuKkr32dtShv5qzscTlIF4SrZ7nYhiB6tPSA4gEavHNyyUdIxa31vOSORtW2xtboWEieJqQA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2Mzk4NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzk1MjExLCJpYXQiOjE1MjMxOTA0MTF9.CdfD_eOJTWVO8UYUAzvMXzFNeOzU77OHfgdL3pl91XW8u9dusq043w6EeyMYdYPBsLeoiNwbY2Se_2cvyybd1A==
+.twitch.tv	TRUE	/	FALSE	0	login	s_nathaliesr_5
+.twitch.tv	TRUE	/	FALSE	0	name	s_nathaliesr_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T12:26:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	086974d08f67d6a778c357058fbb4a89
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbmF0aGFsaWVzcl81IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc0MjQxMSwiaWF0IjoxNTIzMTkwNDExLCJub25jZSI6IkNTSzMxeDNZdjBqVktHbEhVZ3ZSYzJQMU9ZN2VJWGctWWtWS2xZOXNZeFE9In0%3D.TMyyzbYQ8e4EeFdx5GjEmXWUTq3YqxQnrNUkEECqtGw0K3FTEYwooPL1ytwqQB4UNX4GlzN8scRLmwapqI4HCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ii4lebsi4xaigetjjmcpo04q4v0vgt%22%2C%22displayName%22:%22s_nathaliesr_5%22%2C%22id%22:%22212639851%22%2C%22login%22:%22s_nathaliesr_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

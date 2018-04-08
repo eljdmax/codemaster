@@ -1,0 +1,18 @@
+#w_sebastian5u_u
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	O4oUYgn%2B3vK8W3%2B2XLglkFrZwyxWCDpsIISlfwF1nb8%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	915c627d02c205a1b3b033da4b24e0e7
+.twitch.tv	TRUE	/	FALSE	0	persistent	212778672%3A%3Aaenkacpy1ktg8shni8sx5axgz8zpea
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3Nzg2NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjE3MjksImlhdCI6MTUyMzIxODEyOX0=.1odQCQBPWg4hEQzCZqN8wmHilxFSIRe5CuXO6LjigTFA02jb_v9NLIcQ2Agc3qwX8DC5kse5GBvHHpRzqXsoxA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI3Nzg2NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODIyOTI5LCJpYXQiOjE1MjMyMTgxMjl9.p-yTFCr_GJe2lXJpFV5F0KoDNth42SrQGm4Je4tEesWlGZm-zUwP2uhzr2-x-xCcjKzvab3z05hLxT3bIMptuw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_sebastian5u_u
+.twitch.tv	TRUE	/	FALSE	0	name	w_sebastian5u_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T20:08:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5c4dba881ae3561f8ac01f7d98637b32
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfc2ViYXN0aWFuNXVfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzAxMjksImlhdCI6MTUyMzIxODEyOSwibm9uY2UiOiJkUGdSRm5LRnlVVEFzbzdzU0lmdzhSRlFDWllSYjJIQVNhVXBYZnFYZjFRPSJ9.1qV2atV8PTDBx_cOEeX8TkGsr00hRphJ5d01TUg8oVqmN2LLsve1BT1xadsA3_mcLhir8rYKzmoU6UviVUKk6w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22o3jtfqeaggnedwzgrxkkdvvktq2kox%22%2C%22displayName%22:%22w_sebastian5u_u%22%2C%22id%22:%22212778672%22%2C%22login%22:%22w_sebastian5u_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

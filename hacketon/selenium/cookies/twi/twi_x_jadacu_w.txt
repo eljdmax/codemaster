@@ -1,0 +1,17 @@
+#x_jadacu_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	koluxiRXV%2BzsIiZawylf2FgLJI3oXIJ9VWv7GZjZI54%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	212641315%3A%3Amav3iar3ofvykm0s50og0leqqu5lua
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2NDEzMTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMxOTQ0OTQsImlhdCI6MTUyMzE5MDg5NH0=.BTXXVPqMYodzPPGGlc-SFbRGu6W-VyUip81x63ScEp4VR3qh1L9yVhUiSRdVabThJHgY-OxiNo40UltJTtBsUw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI2NDEzMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzNzk1Njk0LCJpYXQiOjE1MjMxOTA4OTR9.SHRvuC1ofe7qm2C7XZ_Su-kZMy96VcPK2HYrgu4nsoaDT89trv8LFI40VgW8lkjqMBinYKP5H7om1DryW18lXg==
+.twitch.tv	TRUE	/	FALSE	0	login	x_jadacu_w
+.twitch.tv	TRUE	/	FALSE	0	name	x_jadacu_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-08T12:34:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3ab33cd4beb09b4a62d8984e12d89aa7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfamFkYWN1X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzQyODk0LCJpYXQiOjE1MjMxOTA4OTQsIm5vbmNlIjoidXlUdEl4S3k3RWxTaVRaUEgzWXdGRmpMTmRDRTZrY2wzaG9kSmdkbHVWcz0ifQ%3D%3D.okfVjOx2DX-STj9r0NXeNStTJVDapPv84JDv68azuR3IwIxB4qcfsbF7mX9ET54yFxt3L3q2b7iCJLiU6VukGA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22saf6qlrcpe90op3fx68oqysd2q7wlv%22%2C%22displayName%22:%22x_jadacu_w%22%2C%22id%22:%22212641315%22%2C%22login%22:%22x_jadacu_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
