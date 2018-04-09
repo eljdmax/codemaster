@@ -1,0 +1,12 @@
+#i_sierradk_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	L%2BYPtHq82qKtIuk9awzZMdw4vvAJ9Ess%2FesRGmM5ESw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:57:07+00:00	unique_id	15ec49efd41d9e4b
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:57:26+00:00	persistent	212842246%3A%3Avm8amyksd8jdmnfcd2fhgv7g9meyk0
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:57:26+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDIyNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzE4NDYsImlhdCI6MTUyMzIyODI0Nn0=.wXKPiM6_6eSb95wr1o-38IsPRlue8HfvavFrCsxOZIL-09giETvhA3SGJNCagfIVguHGOnFA4NO3YDsWzRjECg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:57:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDIyNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzMDQ2LCJpYXQiOjE1MjMyMjgyNDZ9.lI8RHaIEmnMJgLoNVybe2NH8Xle8g1uzXLW_zvHz6vQib3JvT8AQ3qjVFhftBeE--g2kzJNsbE3InEQ2B1MpDQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:57:26+00:00	login	i_sierradk_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:57:26+00:00	name	i_sierradk_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:57:26+00:00	last_login	2018-04-08T22:57:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:57:26+00:00	api_token	c285295579e9c2485c99b5efc7fe667d
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:57:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfc2llcnJhZGtfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3ODAyNDYsImlhdCI6MTUyMzIyODI0Niwibm9uY2UiOiI1dUNIeWpCeFh4ZzdYc2dxdkRDQkozaUFNZUhDQ3gyYy1CVlk3WUJMVl9jPSJ9.Ohqsa6sZ4K22uPfgzFzuyVcQHaH_uBTigJTBstnXJfScAKWAMM9PuqsOPPotOSyF7qjJbOxuaW8f_nTLngCgfQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:57:23+00:00	twilight-user	{%22authToken%22:%22x7yuyr6ac4r5s6rsli50gexqjvo78t%22%2C%22displayName%22:%22i_sierradk_g%22%2C%22id%22:%22212842246%22%2C%22login%22:%22i_sierradk_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

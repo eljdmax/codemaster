@@ -1,0 +1,12 @@
+#j_danielaop_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wZGmpHfiZrZ4OnWXnptyB1P23pkCR3R6PCY3Uk%2F6x7Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:01:14+00:00	unique_id	6a8de4de09c6008c
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:01:31+00:00	persistent	212825218%3A%3A32ly7j8tz1xehx4mhjunf0mct7gmlx
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:01:31+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjUyMTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjg0OTEsImlhdCI6MTUyMzIyNDg5MX0=.a0sZGl657RZTWfRCc-5o5uzZjhXe5HTpawPBk_X5NSjJM9tEvWJFIxXXoBUcGEeptIu-taZp9pH7o3UEeLUAeg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:01:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjUyMTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5NjkxLCJpYXQiOjE1MjMyMjQ4OTF9.Evoo-BNLZIzOqelMZsSamoF4gsxJUQ3xL2cpJ000owxlNM-RKxSqEmJUNVN1ly8UMUmVA6isUoCj7_wff6ja9g==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:01:31+00:00	login	j_danielaop_o
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:01:31+00:00	name	j_danielaop_o
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:01:31+00:00	last_login	2018-04-08T22:01:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:01:31+00:00	api_token	a07f02acd2432cec5a165880aa92d2f6
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:01:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZGFuaWVsYW9wX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc2ODkxLCJpYXQiOjE1MjMyMjQ4OTEsIm5vbmNlIjoicDExTUFHRkxTdl9uQU1KSFVCQlBZYkQ5Zzg0MEF3UloxeWd0SXhrblBCRT0ifQ%3D%3D.i1GvZN1VFJrdvakx928RYCHlxGBGGX5PRJq4OtSbs-nFihnbACTHTeurl-syExx_7YELVW35DCwR4xNwsgPMmQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:01:27+00:00	twilight-user	{%22authToken%22:%22j6ihkybdtsnwmtjwgb7iijqf2v4jt2%22%2C%22displayName%22:%22j_danielaop_o%22%2C%22id%22:%22212825218%22%2C%22login%22:%22j_danielaop_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

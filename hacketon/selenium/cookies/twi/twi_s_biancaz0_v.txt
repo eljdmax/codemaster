@@ -1,0 +1,12 @@
+#s_biancaz0_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5exXdnaPttZm6FPLI7vfIlwF%2Bhv4AEv7tSQ6Q1YZdwI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:50:08+00:00	unique_id	c8125e7789c5f6a1
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:50:24+00:00	persistent	212821453%3A%3Aj8tnivp59bg7hypjs1dhs2nti40ai5
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:50:25+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjE0NTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjc4MjUsImlhdCI6MTUyMzIyNDIyNX0=.kbSpskifXLGHhZYGx45wGw9yqX2XVopnutvNCESRsPFUDnUUacaWCnudIR8MDaHWZcvLlQ2LlhSGJHYkIlMSZA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:50:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjE0NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5MDI1LCJpYXQiOjE1MjMyMjQyMjV9.Y1QCytRXptU5tpBgocpSYL70knw9_H-2hFXt_eMZy53sSCStsQIaQyUqTkkbdkNuVeN9ds54uXXXpnKsRKOcEQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:50:24+00:00	login	s_biancaz0_v
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:50:24+00:00	name	s_biancaz0_v
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:50:24+00:00	last_login	2018-04-08T21:50:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:50:24+00:00	api_token	d9b2ed3025036498c9d344c223760288
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:50:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYmlhbmNhejBfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzYyMjUsImlhdCI6MTUyMzIyNDIyNSwibm9uY2UiOiJZUzh6Sl9FbTdSeXBJdEpmY1pYdTJaODdqVWEtdFVtaDFiWDlEajUzM0d3PSJ9.C7h5VXew6jMY9vX9IEGAPi4n0Mm7SCeslDoAYsonk9Jye2yEBS_AaLlsh8QEuNUrl3kEdFVZxbGMR8V__zuu4A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:50:21+00:00	twilight-user	{%22authToken%22:%22ch6icy003bbihq0d7d6229v50ac31t%22%2C%22displayName%22:%22s_biancaz0_v%22%2C%22id%22:%22212821453%22%2C%22login%22:%22s_biancaz0_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

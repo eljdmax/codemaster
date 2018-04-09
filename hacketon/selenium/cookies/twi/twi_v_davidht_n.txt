@@ -1,0 +1,13 @@
+#v_davidht_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KwkNsPvvaZ%2FHnUD0b3ZR1tMPzwmAuRpiuFHEGxQ2EHw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:38:46+00:00	unique_id	ba70777076fe4a2a
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:39:07+00:00	persistent	212837012%3A%3Azkqrmgxbzx2wpn8km4jvqtliqaeais
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:39:07+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzcwMTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzA3NDgsImlhdCI6MTUyMzIyNzE0OH0=.AiCER_zpw_02fXw-VdPY86QxxIQv1qRbkPxeSWiV0iB84u1Ze7pNXXdJPgE6OaPcTvDJCm9k_3cKdR8WETJKOw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:39:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzcwMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxOTQ4LCJpYXQiOjE1MjMyMjcxNDh9.wxdKKLOWt5iJotMzRooPu9WqdrxYNsWVOdfkuG4Ahonu2KeFeQ3mujO5CjAkwwJO0W9uqG5PhbruGb7XpbnuXw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:39:07+00:00	login	v_davidht_n
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:39:07+00:00	name	v_davidht_n
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:39:07+00:00	last_login	2018-04-08T22:39:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:39:07+00:00	api_token	00ca89b7adbbc39e9ca557564752c519
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:39:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZGF2aWRodF9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTE0OCwiaWF0IjoxNTIzMjI3MTQ4LCJub25jZSI6IkktOTJQSl8zcUJCZHRVR1piRmFMeDRWMTY4Q0s4d2o3NzhJZEYycGk0YUk9In0%3D.9gWTXrQdmdSzFDTRubaTtwk-k41opVMfyMQzVuyXhPxLKV9TNAcI8rOyS8cfSly4XSsCtU-dmKiMkMtfOA_62w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:39:06+00:00	twilight-user	{%22authToken%22:%227wpqsgmqn1ttoyhdrhph43xelvm9sc%22%2C%22displayName%22:%22v_davidht_n%22%2C%22id%22:%22212837012%22%2C%22login%22:%22v_davidht_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:39:07+00:00	twilight_onboarding	true

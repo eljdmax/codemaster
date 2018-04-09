@@ -1,0 +1,12 @@
+#v_melissady_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7VckeSukIH%2Bc1k6AwSQBteWAqX%2FevpBUP1w5%2F139fSE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:48:36+00:00	unique_id	af521ccdbe569b5b
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:49:03+00:00	persistent	212839933%3A%3Atctx0g8aqrrc19j0roe30rldjitrnp
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:49:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzk5MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzEzNDQsImlhdCI6MTUyMzIyNzc0NH0=.Ruf3NtTKVVPWpUVXpmAdQoPl4XdoGccaf_99VtbyW2iBzas5_b_azXoKh02gUWnjfh0faVzS7e5P_DoQTKfBSQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:49:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzk5MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyNTQ0LCJpYXQiOjE1MjMyMjc3NDR9.lQYRoY-DTZXuF-k_-9GcK4mXhyMTISVbse5HKd4IhYI7DKE8i_cs_uhb9Ub-vJOzg24bJA9vYamkZL3k2che-g==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:49:03+00:00	login	v_melissady_0
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:49:03+00:00	name	v_melissady_0
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:49:03+00:00	last_login	2018-04-08T22:49:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:49:03+00:00	api_token	c041625925e46864b1e88842e1b295f1
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:49:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWVsaXNzYWR5XzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc5NzQ0LCJpYXQiOjE1MjMyMjc3NDQsIm5vbmNlIjoiZWVVeUpOb1JUcGprT0xwaWduS0s0cGdSb0FXOXpHbmxRdHoxM0lsWDAzVT0ifQ%3D%3D.Kqdg0Tdpd5JK8MMP2zj62qxZo4WRAu7TjI-6bGU-5yblKDcLHktlm8iMvkU2YU9TYzOtuuQ4MG0F4J3njPNdSw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:49:00+00:00	twilight-user	{%22authToken%22:%22b53scjh5h13ctgmj3w525rn143nfu4%22%2C%22displayName%22:%22v_melissady_0%22%2C%22id%22:%22212839933%22%2C%22login%22:%22v_melissady_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

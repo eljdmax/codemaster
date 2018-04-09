@@ -1,0 +1,13 @@
+#y_jakeza_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JKl9sQ6c5hRQ1FqWKLEu6fbAwai60ycGyWw6SkkDCYA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:06:44+00:00	unique_id	5252677ebca7b305
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:06:44+00:00	_twitch_session_id	21c1ee90c4d27e3a851c07edc6ea9c62
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:07:01+00:00	persistent	212827061%3A%3Anux487p2wsf78drvv1snu18wvl7hxk
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:07:00+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjcwNjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjg4MjEsImlhdCI6MTUyMzIyNTIyMX0=.xsPKinafpN3yycpid_SXBPgD4sHdTqIRi8ouPPj6cIBDMuDLk-blSNUJRqwuCioS3rG84qUaakvqWKbv3P8WkA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:07:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjcwNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwMDIxLCJpYXQiOjE1MjMyMjUyMjF9.seeMht0qbVIRvVw0F_MG2TrH0CSdF40-9IURS4TKLfuvXSSeYGXjmFZphkpdDZz_3utXbn1CqyVOBVxA9SANlw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:07:01+00:00	login	y_jakeza_1
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:07:01+00:00	name	y_jakeza_1
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:07:01+00:00	last_login	2018-04-08T22:07:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:07:01+00:00	api_token	e71f26488dc7b4a71b4698132588d02a
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:07:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfamFrZXphXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3MjIxLCJpYXQiOjE1MjMyMjUyMjEsIm5vbmNlIjoiZ21SNjF3Q0ZXaDZZbUctVU9fVTJPNmhWLWNva2lWcHFwWDk2SVdtNVFhZz0ifQ%3D%3D.wXbuh-PcS64lDvCrv7jlG2g-xzRkEXYol5pFNBFMVuM6HFW9QGDs7igKd_GDOAIqtJbZJgmBaYP8NE0eyQJq_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:06:56+00:00	twilight-user	{%22authToken%22:%22hkjvbgnikrrvgxqge74uv2s9lqg2eu%22%2C%22displayName%22:%22y_jakeza_1%22%2C%22id%22:%22212827061%22%2C%22login%22:%22y_jakeza_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

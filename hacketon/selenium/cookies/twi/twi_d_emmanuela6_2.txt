@@ -1,0 +1,12 @@
+#d_emmanuela6_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wXQ3oK9mrMNy8xB8JQZhSF5yHgjScX2uu7ucD1BxLs8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:48:17+00:00	unique_id	e6689204644b8a13
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:48:55+00:00	persistent	212839892%3A%3A7f7bao93r694b916mdgpk2wutute7e
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:48:55+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzk4OTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzEzMzUsImlhdCI6MTUyMzIyNzczNX0=.UQ6pvCFt6b4fFUL16llMTCNXodZyAKLJTaLgDM79Pdxaatji8KWm8cCWM_2uNM8AzBg8pTLt8hXy3q5f-zQx2A==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:48:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzk4OTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyNTM1LCJpYXQiOjE1MjMyMjc3MzV9.9hpbw3ADchAm-sXJ-uxpqBpNbWA2qzpUqhG3-ubhZmtZtnd2o7FjyH2Oe_MqQIH76G_wRXXsjFmLZQARJ6CNfA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:48:55+00:00	login	d_emmanuela6_2
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:48:55+00:00	name	d_emmanuela6_2
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:48:55+00:00	last_login	2018-04-08T22:48:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:48:55+00:00	api_token	dfa4a80eedac8f50c55f948afcd67f7d
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:48:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfZW1tYW51ZWxhNl8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTczNSwiaWF0IjoxNTIzMjI3NzM1LCJub25jZSI6IjRDUklCbnZ4T1huUVBpUGcyT2xFQTVlTm91dWhPWUJlZlJ3OG01YWcwdTQ9In0%3D.MPOFaDI6LSwa3VnuK2_RG49NRC0UpxD38KdY5yzaiyzF0EBXr2gWOLIaUWzpKwgq5CKxnLtrXZSHmC-Ggr_QDw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:48:49+00:00	twilight-user	{%22authToken%22:%22tuditmuqcnj1iemyi8dsca01xu9sqf%22%2C%22displayName%22:%22d_emmanuela6_2%22%2C%22id%22:%22212839892%22%2C%22login%22:%22d_emmanuela6_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

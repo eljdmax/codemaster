@@ -1,0 +1,12 @@
+#m_dianavu_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zFC6k%2BR6XLsGrKbYfSttA1iwaYYQ3zkzjDAKD5bxoyg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:06:03+00:00	unique_id	c1fbec302408496f
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:06:20+00:00	persistent	212826853%3A%3A3zfnrfzb9y2wrfx1tj4frxbyhm2kyb
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:06:21+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjY4NTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjg3ODEsImlhdCI6MTUyMzIyNTE4MX0=.Ns8TGqpSSBJEfgQNmDNi4kX7fXwYXbkGPeUNfaFdz8QTesTFycm3Q_sNo_5aFcjRsS6ah6MmsDcdJTUH8nahQw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:06:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjY4NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5OTgxLCJpYXQiOjE1MjMyMjUxODF9.bqdYNJDhH7ITvPqOonKIIpWhaS9CQu_0tdibt7xyaM1cL-9MgIxUUmHFThyI7V6bmtwOz6-m7xYC4MBHZG7Hew==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:06:20+00:00	login	m_dianavu_2
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:06:20+00:00	name	m_dianavu_2
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:06:20+00:00	last_login	2018-04-08T22:06:21Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:06:20+00:00	api_token	ef63526b0117a8f75fe4e8e14176d608
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:06:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGlhbmF2dV8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3NzE4MSwiaWF0IjoxNTIzMjI1MTgxLCJub25jZSI6IjlhZjFsZlpDdDNQXzdkWVZBRDgwTnNDbURIdk1BVUo5RjlLX21zR2JHZHM9In0%3D.lYo90JXJbiy_Op5Fd1Iyl8JDdKJDVegiPC4P5yh2nOr0VxYl-CMR4X4hVZLai-_uM0lSbbnMxJh14n89jB8wCg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:06:16+00:00	twilight-user	{%22authToken%22:%22lbe3vgw79dk1y96kgfm4db8nnqizza%22%2C%22displayName%22:%22m_dianavu_2%22%2C%22id%22:%22212826853%22%2C%22login%22:%22m_dianavu_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

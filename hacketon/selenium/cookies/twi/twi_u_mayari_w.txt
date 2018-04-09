@@ -1,0 +1,12 @@
+#u_mayari_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ImBIeW7w%2FbkhUscVZwA%2BgVLmR5oxKt%2BijTxA6CyQVtU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T23:00:49+00:00	unique_id	2de805c356cd49d9
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:01:20+00:00	persistent	212843338%3A%3Afnio3b8vdzzgea5dthz11elo3mmeed
+.twitch.tv	TRUE	/	TRUE	2018-04-09T00:01:20+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDMzMzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzIwODAsImlhdCI6MTUyMzIyODQ4MH0=.WY8ip9aTkmD3BK27idxEykO-tPYaz5shATRhuEOXg2GXbBUWJv3iN4yLAmOpVVA-GQpHtvnQS_pCN_uwTkJJrA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T23:01:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDMzMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzMjgwLCJpYXQiOjE1MjMyMjg0ODB9.VBSy14UFTGAexRccfWhVSOu9zd049qkudvW5Lq4kh8jF3Xxtxsm4SuX-vP3eKVtjabZkaXPxH02q9j9trKsfIQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:01:20+00:00	login	u_mayari_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:01:20+00:00	name	u_mayari_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:01:20+00:00	last_login	2018-04-08T23:01:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:01:20+00:00	api_token	9274e3bd55fb9af52a1717220e8e1ee6
+.twitch.tv	TRUE	/	TRUE	2018-10-05T23:01:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWF5YXJpX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzgwNDgwLCJpYXQiOjE1MjMyMjg0ODAsIm5vbmNlIjoiZl9tdUluTi13dnNiSGxReWwtdF9MZW5CRXR2aFRWQW40R25XWTNqX3JCRT0ifQ%3D%3D.iivu-Hu8IxTake6p4YGddwwk-rL0xkioyYC3SE1pkbW-p2PgO6kdaT1cYqtQUzqE2uG5xG7UfllxcEBIyQfWqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T00:01:38+00:00	twilight-user	{%22authToken%22:%22r987xe5bmga3e2wsw26urkzjuve4yk%22%2C%22displayName%22:%22u_mayari_w%22%2C%22id%22:%22212843338%22%2C%22login%22:%22u_mayari_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

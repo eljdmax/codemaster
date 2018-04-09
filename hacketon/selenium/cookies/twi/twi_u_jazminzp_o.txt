@@ -1,0 +1,13 @@
+#u_jazminzp_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FlBkDNQ60dCvKyXJpLtjpji4k%2Fa6O3KEVVRomOKTFVo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:23:29+00:00	unique_id	a8a14275ffda44c1
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:23:29+00:00	_twitch_session_id	a9f7f05f7b43f20cec03ea599c6b2748
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:23:48+00:00	persistent	212832315%3A%3Amrx7mdkggnsnfcevxxsep1ce0prg77
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:23:47+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzIzMTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk4MjgsImlhdCI6MTUyMzIyNjIyOH0=.AN7WGoBHi__sukegadVRvgAi3y0aGmw-xSGgWx3C-XuQEIBALW90yUvizsHHCZzlgzZRqbInKeA0iPD0-jqiqg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:23:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzIzMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxMDI4LCJpYXQiOjE1MjMyMjYyMjh9.MM_yvSNMTfxEN_UWV9EbTG_USBYhyETBMAw92kPbPrlCunGYe8IVHTA3zqmekZ_RzUtMAp2MXHy0lADOi0b1rA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:23:48+00:00	login	u_jazminzp_o
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:23:48+00:00	name	u_jazminzp_o
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:23:48+00:00	last_login	2018-04-08T22:23:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:23:48+00:00	api_token	48884090b891fafacb1806afe8fc16f6
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:23:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamF6bWluenBfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzgyMjgsImlhdCI6MTUyMzIyNjIyOCwibm9uY2UiOiJ6SEdEYVY3TEFPSFRlNm9YZDRPSFNKdXg1OTFpbkRmdTBfU091SlRrSGt3PSJ9.Q9AHF74Qij8rzio-woMEmerVQmVWZd9JX5gFeoSFpeoPNFpr6SRu50M1bs4IxNiFjjH-NosnXxkV5FP7S8kf_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:23:43+00:00	twilight-user	{%22authToken%22:%22w89yvxut5q32kce46wnrjt9vqzp3q8%22%2C%22displayName%22:%22u_jazminzp_o%22%2C%22id%22:%22212832315%22%2C%22login%22:%22u_jazminzp_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

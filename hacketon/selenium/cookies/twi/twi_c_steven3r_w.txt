@@ -1,0 +1,12 @@
+#c_steven3r_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tzSqmCQ%2F9pfuIVm0RqSVZJXqLUbFHtve8%2F03d5n9bDo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:27:39+00:00	unique_id	de5f5162e77eb539
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:27:56+00:00	persistent	212833567%3A%3A1nlnx1mto4yt8ydewo5hl29w1drr3q
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:27:56+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzM1NjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzAwNzcsImlhdCI6MTUyMzIyNjQ3N30=.bKeScisRgCcGOqKCK_qbKT2zhwTMtVk3w52_teN7M2-9nSbQx4b1ezz6MnA3y0mX17b2v0CUzi9aMktc9zWMPw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:27:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzM1NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxMjc3LCJpYXQiOjE1MjMyMjY0Nzd9.LewUxe6k-d5YxYzTYbhfbK6F3PuNHbyvuSRB5NdYTorUZv0bAJWj8xa0hYAVN-FwuvX48bmN0IJCM7FeQ84NOg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:27:56+00:00	login	c_steven3r_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:27:56+00:00	name	c_steven3r_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:27:56+00:00	last_login	2018-04-08T22:27:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:27:56+00:00	api_token	6c1fafe89ddb6da32db83abbc813ce6e
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:27:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfc3RldmVuM3JfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzg0NzcsImlhdCI6MTUyMzIyNjQ3Nywibm9uY2UiOiJLcUtybWxZT0pSYk5rRW9tSGVET1NGak1oSjUzWkxvZGpRZnBPSkZLdmhzPSJ9.4OVOhQ5cqsowGXkooYvIu0gpSo4XuWTIBPO3UOiB5Xff7IAmlPv09ab5T77AIANnahOxCxxLf0gnWVuHzjGIZw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:27:52+00:00	twilight-user	{%22authToken%22:%229kyrtus29es2ktdxi4kn158e0x667c%22%2C%22displayName%22:%22c_steven3r_w%22%2C%22id%22:%22212833567%22%2C%22login%22:%22c_steven3r_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

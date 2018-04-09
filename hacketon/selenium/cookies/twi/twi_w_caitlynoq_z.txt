@@ -1,0 +1,13 @@
+#w_caitlynoq_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yLw7mVKlKemF1%2FfQWD023IKyUoeSLBw2vPOnO8BNg9o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:19:16+00:00	unique_id	85674788270c4064
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:19:16+00:00	_twitch_session_id	701862a1c5900c38e8c06367f78eb5dd
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:19:36+00:00	persistent	212831003%3A%3Agnnfo3jwk8ejghadzbwwcgx80ygzf2
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:19:37+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzEwMDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk1NzcsImlhdCI6MTUyMzIyNTk3N30=.xw6N9JntWce6PBkzNMiYR1xDQsGSgng_HfHQwi-uQcWeJDfrrYqQGG2PpbD4Jh71Qg-0g23SHLEN_L7KtULGbQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:19:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzEwMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwNzc3LCJpYXQiOjE1MjMyMjU5Nzd9.HnQH6VjnO9UuA6pLf4IpBZN4fAcBcv9-gb_II_KH31t5xfsHefoSamnQHsZ-FPKKx5lczGW37ezdcOYXiQdF7w==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:19:36+00:00	login	w_caitlynoq_z
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:19:36+00:00	name	w_caitlynoq_z
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:19:36+00:00	last_login	2018-04-08T22:19:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:19:36+00:00	api_token	5d5500ecffaa071598865e28d014572c
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:19:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfY2FpdGx5bm9xX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3OTc3LCJpYXQiOjE1MjMyMjU5NzcsIm5vbmNlIjoiRW54OTVybmtxVEhodFNraEo3clhUdW9rSDA2cl9kVV94RW5tQXRveHpoND0ifQ%3D%3D.SO_cvYg_C_k_p5B5O6us2Ebn0ezKO-UliswR3PpWll6LL0v9gfBOe_KmFPyaod1zGXYUen8FhsrqoaKeXv6qNA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:19:33+00:00	twilight-user	{%22authToken%22:%22ppqbxfz9q28bx7ddr9d593msr508ie%22%2C%22displayName%22:%22w_caitlynoq_z%22%2C%22id%22:%22212831003%22%2C%22login%22:%22w_caitlynoq_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,12 @@
+#p_andreadp_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	z3ASYnAkHWSmNzNOQwFkyF8l%2BY8sWm2UbmK7jIy%2FAJ4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:22:07+00:00	unique_id	c769a3a638594bb1
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:22:23+00:00	persistent	212831888%3A%3Ajkjlfk9kb77sjhbyqkjuqbd05nwr0a
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:22:24+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzE4ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk3NDQsImlhdCI6MTUyMzIyNjE0NH0=.8CC16_67nlY5V-21E4q6M5iLjfoprnZJwPo_XPcxccWbg_bS8M1OyeARlLmJ1hNBBMVXqIneKBqZ48J2sqbM2g==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:22:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzE4ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwOTQ0LCJpYXQiOjE1MjMyMjYxNDR9.g05-4c9GKLiwdJtMVsOki8q45YuU_posIdd5m_TndxjhgYX4-D_jOmzQBDlugK2OGkDgy3dhCmr_-3v0irZlLQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:22:23+00:00	login	p_andreadp_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:22:23+00:00	name	p_andreadp_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:22:23+00:00	last_login	2018-04-08T22:22:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:22:23+00:00	api_token	62301eb9b907bf498b2b9be3b9320e37
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:22:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfYW5kcmVhZHBfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzgxNDQsImlhdCI6MTUyMzIyNjE0NCwibm9uY2UiOiI0aEtYRHR2eHlkTHNCZ3NFVEllTDlXUUV1ajNBVld3ZXRXNHNuT01vT09FPSJ9.Lh90ncvZ1KER1pXbXgkXHxnfeT-D-FLpQzBDDt99bOd15Y_bdd8W5EKh35o2az6Q-WElxjzctHnsFYvAqm9rNQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:22:20+00:00	twilight-user	{%22authToken%22:%22rymeyw4wp1i5te5nbc00kqdyr80efd%22%2C%22displayName%22:%22p_andreadp_w%22%2C%22id%22:%22212831888%22%2C%22login%22:%22p_andreadp_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

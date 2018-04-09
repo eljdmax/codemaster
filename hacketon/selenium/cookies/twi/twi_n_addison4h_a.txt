@@ -1,0 +1,12 @@
+#n_addison4h_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mBK%2Bo5JPItFFX7iKCeQWrEchZi%2BW9mc7VOPFDksW7es%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:15:01+00:00	unique_id	f7d5e183f4a21519
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:15:25+00:00	persistent	212829747%3A%3Axrcdpcbq6tj9wbj77a67bfjemillgu
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:15:24+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mjk3NDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjkzMjUsImlhdCI6MTUyMzIyNTcyNX0=.gcXwlSonxP4QwXVxFYyVKBaruZgkDZS5htbNW9eKzzCl4PwUsjYDgNhXS0citu1rDx1sCXM5UQRcp1TO9AyCBA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:15:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mjk3NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwNTI1LCJpYXQiOjE1MjMyMjU3MjV9.e1rk9DFruSBTA5Pt8vRv6FMmQ9sXtdlziNdfxrwHqKw7QBb1D5JlmHu5mOdewmng-1a3zicR6Mqcpb00DzHk9w==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:15:25+00:00	login	n_addison4h_a
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:15:25+00:00	name	n_addison4h_a
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:15:25+00:00	last_login	2018-04-08T22:15:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:15:25+00:00	api_token	576e231177150a73f39f2835a6334833
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:15:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYWRkaXNvbjRoX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3NzI1LCJpYXQiOjE1MjMyMjU3MjUsIm5vbmNlIjoiLU80WnZ1dTRJWlVWUlQ0LUJ2SHdUVVlaTW5mY1Btdk9XTXNkb3BsZjhuOD0ifQ%3D%3D.MbMgoNAIxdK3PHn1EWLKB5oDhNh7OcZ6kFpM1VCwxHsdjkPk-_6TZeFwdZL6wtIVSry1mr7A2tDhBWmVBUak2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:15:20+00:00	twilight-user	{%22authToken%22:%22wmza1w9k4zir8ecdzcdw8sjneg64av%22%2C%22displayName%22:%22n_addison4h_a%22%2C%22id%22:%22212829747%22%2C%22login%22:%22n_addison4h_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

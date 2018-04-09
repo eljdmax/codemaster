@@ -1,0 +1,15 @@
+#w_morganr9_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PyVBM6sYfKGPQuL8WblAOW8EfOZ0DQl6A8ZhcsX5y90%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:10:12+00:00	unique_id	65c31d08a6f27d69
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:10:26+00:00	persistent	212828142%3A%3Aorzzq7w0aehvs8m2ymzczx31jwevoi
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:10:26+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjgxNDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjkwMjcsImlhdCI6MTUyMzIyNTQyN30=.LTDk8NvcvHnkRxTKWAHfpvoS2IWQtS-EbqIf3d7Zix5AOeucTx06652gDTQfuSk_QNPYQUpi6NROU0dUXy2gOQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:10:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjgxNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwMjI3LCJpYXQiOjE1MjMyMjU0Mjd9.raIkBvnmfv-vYZQ9zmYfPRdjNuu_N258FdAw9Yn2ByAcHgOQzz5dI-59joLhL_BgWPGxKzSSzJcHvCKyfZymqg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:10:26+00:00	login	w_morganr9_t
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:10:26+00:00	name	w_morganr9_t
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:10:26+00:00	last_login	2018-04-08T22:10:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:10:26+00:00	api_token	0f2d6fc520a76271871adcdcf71f0984
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:10:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbW9yZ2FucjlfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzc0MjcsImlhdCI6MTUyMzIyNTQyNywibm9uY2UiOiJ0WjM4b1lsQklDVFBCTHBtVEVEQldTcXphY1RrWDB1U3lna0Y5Zl8yZG80PSJ9.1D4zqp3JturLryfq1tZpqxwafTZ3u1gihCQtwpJwDyXLY0aX2I8UcxdaD7-J61YyXshkTXmc8cy2vLdBNI6h6Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	1LZiTXsJQtIsMpFo1OgGgv8HuREsSCNf
+.twitch.tv	TRUE	/	FALSE	2020-04-07T22:10:33+00:00	__gads	ID=62a82fc21f7d3901:T=1523225433:S=ALNI_MbTwxob4QOkBZWuk5I8bmB6OVBDqw
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMyMjkwNDgsIm52IjoxLCJ1cHQiOjE1MjMyMjkwMjEsImx0IjoxNTIzMjI5MDQ3fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:10:49+00:00	twilight-user	{%22authToken%22:%22j2by3g26s81v64z5pfgtlb5figa3yb%22%2C%22displayName%22:%22w_morganr9_t%22%2C%22id%22:%22212828142%22%2C%22login%22:%22w_morganr9_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#x_vincent35_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	s21xWVqmXcLdsedHJWC3aihjelx8dWSPXhCSggKnWyQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T23:05:14+00:00	unique_id	d6dd55e9efc04947
+.twitch.tv	TRUE	/	TRUE	2018-04-09T11:05:14+00:00	_twitch_session_id	adc945771441fa42736c6c1c1b671984
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:05:33+00:00	persistent	212844457%3A%3Afkkrwf6opujicggph6d74jkqy7etlt
+.twitch.tv	TRUE	/	TRUE	2018-04-09T00:05:32+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDQ0NTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzIzMzMsImlhdCI6MTUyMzIyODczM30=.nYpS-uPLn1cQiifz7sKgVcOPpz4KxsAKMhGZZX6fb-Kf5AknO3A8bP0OKxznQ52ni26jQq5DCNfgtrWszqcK5Q==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T23:05:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDQ0NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzNTMzLCJpYXQiOjE1MjMyMjg3MzN9.gj5j_q_WjxkhuNoME-9VVfuMkvInMt-_D35LIDW3bcQHfLwb3Qb4Ne7wRtfcxrpkkoqaj_unKO31yZF6QYufkA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:05:33+00:00	login	x_vincent35_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:05:33+00:00	name	x_vincent35_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:05:33+00:00	last_login	2018-04-08T23:05:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:05:33+00:00	api_token	569f50fe16883c5620fa64b900d61209
+.twitch.tv	TRUE	/	TRUE	2018-10-05T23:05:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfdmluY2VudDM1X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzgwNzMzLCJpYXQiOjE1MjMyMjg3MzMsIm5vbmNlIjoiVVE5XzRib3Y3eG0ySHlQR2xVZjQzbVFoSXprS0YtLVgwQ0JKWlRDVFQ5MD0ifQ%3D%3D.HlWRitopWxW9Ou5oLRw3G3t34FMGJznd24sObUHt-Mb-mlojkesNShLMfBAgoprSshKFJG7dgAo0UXte1_jEfg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T00:05:28+00:00	twilight-user	{%22authToken%22:%226u606qhflzwv27m1mnyaa8fb30b4cv%22%2C%22displayName%22:%22x_vincent35_g%22%2C%22id%22:%22212844457%22%2C%22login%22:%22x_vincent35_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

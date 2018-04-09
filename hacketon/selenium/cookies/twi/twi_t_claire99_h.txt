@@ -1,0 +1,12 @@
+#t_claire99_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aj8GY2vaG0fmmqYSbL1Ydw0oK1K29Ez40b%2FaHB8i5gk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:52:45+00:00	unique_id	f1d6033ccd14e7c0
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:53:08+00:00	persistent	212841068%3A%3Am4skqemobcxhm995bza61r2no0q9m0
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:53:07+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDEwNjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzE1ODgsImlhdCI6MTUyMzIyNzk4OH0=.8kcSiNYEgqsxAn8ZI3oWrI7RX0d38didfXO-XJxg7_g8Aa38fa1znGbyv0CyKvYnipoPg7oRfsM66DMQzlqQwg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:53:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDEwNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyNzg4LCJpYXQiOjE1MjMyMjc5ODh9.axYQJry0MrWbD1aBH7Mtw8lWUv2EsniOc1P6XpFouITHTBNM0LWDirVUBpMY2PWFO9QIaDvwFN_RNOYnw6SgHA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:53:08+00:00	login	t_claire99_h
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:53:08+00:00	name	t_claire99_h
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:53:08+00:00	last_login	2018-04-08T22:53:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:53:08+00:00	api_token	300a67541522d58ce35cde2d7e2366fb
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:53:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfY2xhaXJlOTlfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzk5ODgsImlhdCI6MTUyMzIyNzk4OCwibm9uY2UiOiJTeGlpbUlLTGVQQmVTUzJJaFd4d2VLMU9NdVJmbFFxdExIWjhVTDQ3TDlnPSJ9.xp4o4hbUDlZY8maICCGYuonQI4F870iXM16RDiZMbq_Sk9WTpeg9g5fBM9osFYVshh16jNdgYt2gOgHquRrz0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:53:02+00:00	twilight-user	{%22authToken%22:%22d6t1na63on3xggkxhh68h7xd277xnp%22%2C%22displayName%22:%22t_claire99_h%22%2C%22id%22:%22212841068%22%2C%22login%22:%22t_claire99_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

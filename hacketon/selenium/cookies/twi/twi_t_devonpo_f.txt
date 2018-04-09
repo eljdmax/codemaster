@@ -1,0 +1,12 @@
+#t_devonpo_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	n7XjOZyAl35fHQpeSIa7Ecpoyar1o6n46LZ1Mc8smYI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:30:22+00:00	unique_id	74de8ead20f10089
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:30:39+00:00	persistent	212834374%3A%3Adtlhjw3gd86fzws4binp2ilm8dkyxt
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:30:39+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzQzNzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzAyMzksImlhdCI6MTUyMzIyNjYzOX0=.iRiLGwRJJonuaFr9mXbyowXJjQfPQfmw7xbGPpWk7rhyZ_KIHaAqVjiCZRux7rm2OY73nh-6ykEVdX-NKZ0i5g==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:30:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzQzNzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxNDM5LCJpYXQiOjE1MjMyMjY2Mzl9.mqMwg9kDpjDXnCOle5tuTajuxt-idWHiVndLpySjqj8JGFRzDb0WIz3ScATAW-yIPS9ejtJH88UbVs9Ku2kY2Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:30:39+00:00	login	t_devonpo_f
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:30:39+00:00	name	t_devonpo_f
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:30:39+00:00	last_login	2018-04-08T22:30:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:30:39+00:00	api_token	2cdbb47537ee755fac3a3b0638086103
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:30:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZGV2b25wb19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3ODYzOSwiaWF0IjoxNTIzMjI2NjM5LCJub25jZSI6InlqRlNmS1FJYUZEb0ZjM2ptQzluNnMyZmx2RDdhbnhGZmpDSG11UEt3bTg9In0%3D.fTcXSrmBLoMp_aGIZTXqOZqf9gLkcnlJKc2FBQPrmP-nQQ49bW7hTx-JP0Re0IJ0uDzoxVXxKcCWjgzLLRfrAg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:30:35+00:00	twilight-user	{%22authToken%22:%22r6wyw9mb70ck76mvbuc2ze6om4f5or%22%2C%22displayName%22:%22t_devonpo_f%22%2C%22id%22:%22212834374%22%2C%22login%22:%22t_devonpo_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

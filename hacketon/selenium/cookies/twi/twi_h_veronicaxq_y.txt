@@ -1,0 +1,12 @@
+#h_veronicaxq_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sQw2yH0EKt4ZpMQO0j0u29v6qeCpVjytRxSYw8Lz8zM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:52:56+00:00	unique_id	c6ac45566cc61f10
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:53:16+00:00	persistent	212841100%3A%3Avu7xe9hfmm8c7qmu6nzvvbmrhicq4c
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:53:15+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDExMDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzE1OTYsImlhdCI6MTUyMzIyNzk5Nn0=.rOT-mwD1w3Go_TxULYplNG1Hfdn7IZAjkKZ-HkWdvNKSgnr-jowMA-rDyBUDeoWYydIY_EPBEiv1_gFJaw-_lg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:53:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDExMDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyNzk2LCJpYXQiOjE1MjMyMjc5OTZ9.6PunXmbT6bUjC-lu1iOkp3r5DSeb5KmhYYpGq8vlNwHwLMKST-F5GX-ltsDNRCm4cDPtKqxt1AePAjQeg48v-w==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:53:16+00:00	login	h_veronicaxq_y
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:53:16+00:00	name	h_veronicaxq_y
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:53:16+00:00	last_login	2018-04-08T22:53:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:53:16+00:00	api_token	aa5bbbbe7184cd714646ee39867c7614
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:53:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfdmVyb25pY2F4cV95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTk5NiwiaWF0IjoxNTIzMjI3OTk2LCJub25jZSI6ImR0bDV5VlppU0FqRWRiczhqZGZZY29lRWZVbnZRMFdkT3plbDFxWmU2RE09In0%3D.HEMZWoulRsBwjVbBM04sx5--zrWcoJNkM4dRestw9GKMHWFYhiK8n7XNJRmWljmYNQokQmb3OTU6WEfNZ0Kekg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:53:10+00:00	twilight-user	{%22authToken%22:%22aeb0sl0qhf36g44if08im6g802jiuo%22%2C%22displayName%22:%22h_veronicaxq_y%22%2C%22id%22:%22212841100%22%2C%22login%22:%22h_veronicaxq_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

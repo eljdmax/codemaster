@@ -1,0 +1,12 @@
+#p_daltons7_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FdV7t7MnHzHWwWZaVmapLGeGMcb5FXb04GnZZsya60c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:54:17+00:00	unique_id	f188bf989357eced
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:54:36+00:00	persistent	212822905%3A%3Adqjjo9yb5sqotb9xyla0byx972h94j
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:54:35+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjI5MDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjgwNzYsImlhdCI6MTUyMzIyNDQ3Nn0=.Q0foThCpVJ8i_5lvJ38qngWNyA1KcPHZ3-3532SC3TR-QgBnXwdQS_q5BJWvAiz7zo98dXGWpWtdGgpjBi958g==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:54:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjI5MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5Mjc2LCJpYXQiOjE1MjMyMjQ0NzZ9.kGI9-6ZxuloEZgyGacWpvGe5psr_i8vwbEdAEXFjImFmcprOzRAkBiVKWK1T9LdzzMsbQI3LRwzSoQg0VG6eJA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:54:36+00:00	login	p_daltons7_a
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:54:36+00:00	name	p_daltons7_a
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:54:36+00:00	last_login	2018-04-08T21:54:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:54:36+00:00	api_token	d36a58c6d485ed1f1d0514109f92675d
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:54:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZGFsdG9uczdfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzY0NzYsImlhdCI6MTUyMzIyNDQ3Niwibm9uY2UiOiJUNzhMR2tmRDlxdy16b3VUU2Nkc0VDcWhmYnlyR2xmZUdLbGhZRTY3SFpNPSJ9.s4hOfYQkRchPnE3lfnUS9ROlwB3AnK1296C-E5Xyejexx4H2DDzfgufcRcH2ZPW1dqs5nd2TXEzUO-JeDURLvQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:54:31+00:00	twilight-user	{%22authToken%22:%22wk387q1andhob1l3wxvoxfx5a7sm3o%22%2C%22displayName%22:%22p_daltons7_a%22%2C%22id%22:%22212822905%22%2C%22login%22:%22p_daltons7_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

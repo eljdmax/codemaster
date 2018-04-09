@@ -1,0 +1,14 @@
+#b_serenityps_q
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GsAhX%2F1cQ18R%2BTlRD1nyeLBSgZTy11yjlJHNtyvweOE%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:41:38+00:00	_twitch_session_id	42bdaa5dd93e86cd3c3ddae40da71d55
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:42:00+00:00	persistent	212818450%3A%3Au75e7rzrzqq40it1oc6gnvpiy2p66z
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:42:01+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTg0NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjczMjEsImlhdCI6MTUyMzIyMzcyMX0=.MzIovoGpGbVPcKIIWT_YFgHtFtJF4hdMIiZp0l7hMQg4Y1J-ouHIM51hIUjS5HRBRfDD-G4amqkd_1fYGmGswA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:42:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTg0NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4NTIxLCJpYXQiOjE1MjMyMjM3MjF9.S-aw-hwpMYCn3CmZJfa8HYUKTTUTIZLFlAy6BB_P4Qt_rD2RZ262HCf6QL5gOyxJTR-_5sB1rnSIwd6UOxTXJQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:42:00+00:00	login	b_serenityps_q
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:42:00+00:00	name	b_serenityps_q
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:42:00+00:00	last_login	2018-04-08T21:42:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:42:00+00:00	api_token	75bcea46bea9e8985529f7819b2212a9
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:42:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc2VyZW5pdHlwc19xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3NTcyMSwiaWF0IjoxNTIzMjIzNzIxLCJub25jZSI6IkFqamVPeGx6TlpvOE4wcHJDOEJSVnhmY0psVWZhOTQtSjJwWXM3Q0lkNDg9In0%3D.NLvImr54aO3gXhVE3UwbdY3_XHoFWpgehSwOF0yyKu0p54YVte31A03c3II_nRrurYuzvc8SFmlF2utiRl9avA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:42:01+00:00	twilight-user	{%22authToken%22:%2201anbfz7i179dtb966qngdyyplbmat%22%2C%22displayName%22:%22b_serenityps_q%22%2C%22id%22:%22212818450%22%2C%22login%22:%22b_serenityps_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

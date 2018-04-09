@@ -1,0 +1,12 @@
+#a_paulgv_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jm29DQOWzxitx9YXq6alpFu3PjrggldWBZG7zKtdWqg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:13:40+00:00	unique_id	3407e6d1ab1c2963
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:13:55+00:00	persistent	212829243%3A%3Abm8sotl6vyifkuaf3565pgsuptzezy
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:13:54+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjkyNDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjkyMzUsImlhdCI6MTUyMzIyNTYzNX0=.hwWbk5doGIZ_4VE2BstbcVgb8XI9CheKn_HMx7KnnxrNTxTolVZAmq5dYHM0kBHWpRiQggLWWHXXU3JZjXQZQQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:13:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjkyNDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwNDM1LCJpYXQiOjE1MjMyMjU2MzV9.Ec128aVXi1BVNiRns8xOG6hsCZ9SpJlRjEeE3SNIwMqFgqZlbpNYI7EIObds4qgztqJl5f0fMPDJi635IKrTwQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:13:55+00:00	login	a_paulgv_6
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:13:55+00:00	name	a_paulgv_6
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:13:55+00:00	last_login	2018-04-08T22:13:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:13:55+00:00	api_token	1afe1722f34599b624cf86fb87cc0e17
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:13:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfcGF1bGd2XzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3NjM1LCJpYXQiOjE1MjMyMjU2MzUsIm5vbmNlIjoiNEdZWjJmdzBhdXhkd3NUWkgwQzBFWGpZYXB6UElCOHpTN2NtQnVDMkd1Yz0ifQ%3D%3D.o60MuUaGMjT2OvkhDF7cRmz_zR2djKY2eVjuSMXXgSn-86VvO2alfCFIVsKkqKQKRFN2fAfQ_Txb8zNqzu8qwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:13:49+00:00	twilight-user	{%22authToken%22:%22faneu4xb5qq9lep09p87pz8znlm8a5%22%2C%22displayName%22:%22a_paulgv_6%22%2C%22id%22:%22212829243%22%2C%22login%22:%22a_paulgv_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

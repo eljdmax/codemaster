@@ -1,0 +1,13 @@
+#n_marissaqe_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DRljHGJIKNDiPxtWNfoCZnLl3RoqxzgO%2F2NOQWZveNs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T23:00:15+00:00	unique_id	b6e2a4282e953b7a
+.twitch.tv	TRUE	/	TRUE	2018-04-09T11:00:15+00:00	_twitch_session_id	4da7b85d36e2178cafb86b8544fb4f21
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:00:37+00:00	persistent	212843162%3A%3Awb3dtnnck14b0u65srpav1zuo4rps0
+.twitch.tv	TRUE	/	TRUE	2018-04-09T00:00:38+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDMxNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzIwMzgsImlhdCI6MTUyMzIyODQzOH0=.ax4VZIVzmrtdVpqDg79o-WN4_pu40w_wYnssEw8I9TPbG9IUZ5lFTaYwen-p-u08kHjFNgLjKUucKLQM5m2FFw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T23:00:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDMxNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzMjM4LCJpYXQiOjE1MjMyMjg0Mzh9.4CVuz3iukkkH0b_eonndbDDmgri4FfURJrDCDGOhFaVzFSWTZffZX3N_3vDHKLTuMorVEf5TtXomJoFl4iXckQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:00:37+00:00	login	n_marissaqe_1
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:00:37+00:00	name	n_marissaqe_1
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:00:37+00:00	last_login	2018-04-08T23:00:38Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:00:37+00:00	api_token	128a7d376b3e3ef6a81120a42f1b805a
+.twitch.tv	TRUE	/	TRUE	2018-10-05T23:00:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbWFyaXNzYXFlXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzgwNDM4LCJpYXQiOjE1MjMyMjg0MzgsIm5vbmNlIjoiU2VjMldYR3AzdDk0WUZlMlhlX19KSEFBeEdoVldPeWo0dWVlQWtzd1U5ND0ifQ%3D%3D.jxZ0OEjOHYoSpo7me70c2vklb11vMC7DoMr846za1dmpjeI7zJXgeme0icTzZuE4Pto9nnbQEfwovMDb1Ef88w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T00:00:32+00:00	twilight-user	{%22authToken%22:%22qjk9jbvf4wfskfkk1z4yvdvq2zyq0x%22%2C%22displayName%22:%22n_marissaqe_1%22%2C%22id%22:%22212843162%22%2C%22login%22:%22n_marissaqe_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

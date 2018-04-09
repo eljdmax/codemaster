@@ -1,0 +1,12 @@
+#p_haileylt_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5DZjYUoXajK%2BphhGaoLRqPUuWD68T%2B6%2FWn8EDQfgayU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:22:59+00:00	unique_id	c8a7948791c73e9b
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:23:28+00:00	persistent	212832212%3A%3Ap5xittv0t5s2uwts6ndfec8v3oif0f
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:23:27+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzIyMTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk4MDgsImlhdCI6MTUyMzIyNjIwOH0=.l7oLh6QRS9NuUwuYi0ohsoL4KKicG-zCRdhkAS6L3-oavNPmpa0rdEnNvNx2QlaxcBgHB6Z4EdDOPhtQxBd2bQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:23:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzIyMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxMDA4LCJpYXQiOjE1MjMyMjYyMDh9._aQ9x1ETbIARXsjgxLBVCjy3XtnptlUqAA9RvbdIAtXbq0Zkyrca2Bccc-wtaBQNFknD0FcqNHXJQdnUjeUxoA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:23:28+00:00	login	p_haileylt_b
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:23:28+00:00	name	p_haileylt_b
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:23:28+00:00	last_login	2018-04-08T22:23:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:23:28+00:00	api_token	f8ab1823229ff6bc3557c6f544a9b62e
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:23:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfaGFpbGV5bHRfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzgyMDgsImlhdCI6MTUyMzIyNjIwOCwibm9uY2UiOiJNemRsNE9ITWJPVkw3S0hXSlB6X1IxQUhLcEFZNDNMbThkYU82dlhCZDRnPSJ9.Ynf1pwurn3yf_rmj4ZvorKN-IPELgZ2lnOXJwbTuWU7iuZYwksGD-1N-wrIkQvyGmtbUDjFLjDvbY9cw_K_eCw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:23:23+00:00	twilight-user	{%22authToken%22:%22fiv58twkt0gefb3glb0ychq9ej9pxg%22%2C%22displayName%22:%22p_haileylt_b%22%2C%22id%22:%22212832212%22%2C%22login%22:%22p_haileylt_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

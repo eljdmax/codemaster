@@ -1,0 +1,13 @@
+#c_taylorow_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	q5AKG6Zryl6kCzCF25TMJ%2FhaSKfW%2BD%2F3aFyncMC28CY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:35:42+00:00	unique_id	0d886d93df47ba1b
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:35:43+00:00	_twitch_session_id	63c2fb49ef6f155549c703aefbbb0749
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:36:05+00:00	persistent	212816209%3A%3A7cm1u4dh6xc64e7drnmyag7p0aqmms
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:36:06+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTYyMDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjY5NjYsImlhdCI6MTUyMzIyMzM2Nn0=.-1B5BEHorF_cHzfGnsM8rVwHIwm6-7ip3RuUeGT64-3EwQbgQ47phe7WnS3yqRdBueuYZLTUK0jtVueeEHOiyg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:36:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTYyMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4MTY2LCJpYXQiOjE1MjMyMjMzNjZ9.Ij9bL6KCET6yynf3pK88i3wAtCC9GAdFisBHvOLZWOsckzuovMA2_4dhYC3bbdTE7OB5dhTfe8nnZIjZPqO6CQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:36:05+00:00	login	c_taylorow_c
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:36:05+00:00	name	c_taylorow_c
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:36:05+00:00	last_login	2018-04-08T21:36:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:36:05+00:00	api_token	0f74b082bdb56a4bfa1371d5ba2caea9
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:36:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfdGF5bG9yb3dfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzUzNjYsImlhdCI6MTUyMzIyMzM2Niwibm9uY2UiOiJENF9KeFk2TXlNVmt0ajlrNFg1RVRCMkplcHJSNzdGaDVMdXE1ZnRkZ0FJPSJ9.vl8X89vyzzC2rwGbDXfQhTnFnA3FIkd-6ancPoq15hTOaMXUdMgdVXqWjjOYz9txZt738Itev_t5uF7xsXMPSg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:36:01+00:00	twilight-user	{%22authToken%22:%22rgdghgsqifdxjnqicm780tgiv3vxf2%22%2C%22displayName%22:%22c_taylorow_c%22%2C%22id%22:%22212816209%22%2C%22login%22:%22c_taylorow_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

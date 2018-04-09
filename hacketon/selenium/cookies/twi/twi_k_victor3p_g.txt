@@ -1,0 +1,13 @@
+#k_victor3p_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	44Lgu9k1SImMPzkG5kSyNjtWXQkedAcy0cvyfTmWvEY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:17:54+00:00	unique_id	b495a54c64eaa59a
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:17:54+00:00	_twitch_session_id	a0592b35ded3117b314103c1c2b5d04e
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:18:12+00:00	persistent	212830550%3A%3A2poh46l9iue4knvyr1r9qxrcnwy5vl
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:18:11+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzA1NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk0OTIsImlhdCI6MTUyMzIyNTg5Mn0=.EbZnjMhM7VIVyVzL2m9v9J1T5EenM-cTugO7WdqN9rtYyy3UGusilIggAJKsHt4kjbQpn-Or5VMqGdafrtIpzQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:18:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzA1NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwNjkyLCJpYXQiOjE1MjMyMjU4OTJ9.DiAWTPK6yBBzyTzyvQFDC8Pr43UezRTqlSoeB7RSnlt70NyeI4i9S5HqX5TxpsVBYiPfk517szcSmfTfE_5H9g==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:18:12+00:00	login	k_victor3p_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:18:12+00:00	name	k_victor3p_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:18:12+00:00	last_login	2018-04-08T22:18:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:18:12+00:00	api_token	eb741a56dddfb0bfdddda98aa898d22a
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:18:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfdmljdG9yM3BfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzc4OTIsImlhdCI6MTUyMzIyNTg5Miwibm9uY2UiOiJTaW5aSUpEUzNDM2tvbWVYTUtrVEVBT0sydWRaVy1MV2JtRVJJaWFlRDM4PSJ9.9E8eSnfM0qYiBMldGezbiwtd3yMll38yggako0jTAz6pwCb_C5n9TuFiLOWFEbdpx9j6JhxQxGA6Z0pzKHiZ0g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:18:07+00:00	twilight-user	{%22authToken%22:%22req63hyvh4zrfr3tw04g8p02cmk0as%22%2C%22displayName%22:%22k_victor3p_g%22%2C%22id%22:%22212830550%22%2C%22login%22:%22k_victor3p_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

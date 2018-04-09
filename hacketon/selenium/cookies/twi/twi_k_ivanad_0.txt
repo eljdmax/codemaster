@@ -1,0 +1,13 @@
+#k_ivanad_0
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMyMjgyMzAsIm52IjowLCJ1cHQiOjE1MjMyMjgyMTksImx0IjoxNTIzMjI4MjE5fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IKFiNZ8kBFgU3BagC7LsEfmLoucl1QRHC3%2BGn4ZVs3k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:01:07+00:00	unique_id	fe136d36dcef04f1
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:01:23+00:00	persistent	212825168%3A%3As7iof97tit4l8f1qvuhgif2e0k7ggt
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:01:24+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjUxNjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjg0ODQsImlhdCI6MTUyMzIyNDg4NH0=.GlEphKUJDNLAYN_0kmKLV0r5PjkiR-BoYLljtTh8poQdectJtnmQGxH7lztR-uKjlTFJQpj9KdwH5hXbDVqO7w==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:01:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjUxNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5Njg0LCJpYXQiOjE1MjMyMjQ4ODR9.-ohIBVelJ_f2XOvGUKBQxZpExBnr-0iq6hkO3Bl6miaGa9DZLiTnJm593rX_X1dJJPmll_097Z71uEkteipOdw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:01:23+00:00	login	k_ivanad_0
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:01:23+00:00	name	k_ivanad_0
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:01:23+00:00	last_login	2018-04-08T22:01:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:01:23+00:00	api_token	733a6cf1fd6b88cd84a135b84a480471
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:01:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfaXZhbmFkXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc2ODg0LCJpYXQiOjE1MjMyMjQ4ODQsIm5vbmNlIjoiYVNuWDFkeGtwN0dMX2xDWnJVcGpzSnAyb2hPMjdZNERYUG5OcHR0Nk5aMD0ifQ%3D%3D.LFc93OfhNoMcxTN0aGuqx7Kjik7rUm5ZSnjaWY7l7vqkf4u9lqKNcIHVMwrqj1jZQfIaBUIW9beeyXgUK01olA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:01:20+00:00	twilight-user	{%22authToken%22:%22jmhx91bqvcwv4j09x3a89w82xio6a1%22%2C%22displayName%22:%22k_ivanad_0%22%2C%22id%22:%22212825168%22%2C%22login%22:%22k_ivanad_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

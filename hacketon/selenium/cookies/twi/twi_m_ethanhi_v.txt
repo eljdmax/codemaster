@@ -1,0 +1,13 @@
+#m_ethanhi_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	51ieUF6ui4y9lxH3vFEE6uAWnzDuV3xurKQJ5ZeYH3o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:28:49+00:00	unique_id	500521ce1503ef7c
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:28:49+00:00	_twitch_session_id	f7f7e24c992d1192c89813744075d0e5
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:29:11+00:00	persistent	212813484%3A%3Anwa9dlelmb68opu6a3ehxi4px1qvkq
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:29:12+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTM0ODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjY1NTIsImlhdCI6MTUyMzIyMjk1Mn0=.dstClwR-JUCarBQKfhzYv_U3NzslBJZ3xCs3o92AQtIXTD9ctyqMm3uEOGS4aesITCRD-8tOLV-pb2NgSIfmKQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:29:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTM0ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI3NzUyLCJpYXQiOjE1MjMyMjI5NTJ9.4jZMkTxCKSALcvAa1xeTbTB-NP0U64mBDZJKYwsAvJgCG9MRib1txRY1R_E9W3N4-bcap_AGL2rO2jjzkWAhyw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:29:11+00:00	login	m_ethanhi_v
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:29:11+00:00	name	m_ethanhi_v
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:29:11+00:00	last_login	2018-04-08T21:29:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:29:11+00:00	api_token	1d17ab327f291e8a9d7371b3b8388d66
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:29:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZXRoYW5oaV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3NDk1MiwiaWF0IjoxNTIzMjIyOTUyLCJub25jZSI6InlGd1E5bG1SQnA2ZVMyOENwcXNzb0JmWmdubmpyUW9EZnhfRnVJcHZFSGc9In0%3D.7NHEQDVrUDeYSdLEkIjxJITn-AKtGbutXCwDsyZWsC-0FT8-2UoUQ_PvJ-fn6vde5rpt72vfOGHmK33_oEN5Ow%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:29:06+00:00	twilight-user	{%22authToken%22:%22kv28dcrkmnnpx443bnnsxwysso8n0q%22%2C%22displayName%22:%22m_ethanhi_v%22%2C%22id%22:%22212813484%22%2C%22login%22:%22m_ethanhi_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

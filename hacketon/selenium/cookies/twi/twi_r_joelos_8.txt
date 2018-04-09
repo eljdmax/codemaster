@@ -1,0 +1,13 @@
+#r_joelos_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cIMSojYZ7Ny%2BJQIbGvCHwyqyqyXjsPv14pYFK6Kn%2BOE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:09:24+00:00	unique_id	685606988bed7a46
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:09:24+00:00	_twitch_session_id	e882aacba3aacfac2d88f0c6d0e341c1
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:09:46+00:00	persistent	212827938%3A%3Ai9egpr8jg6di4m05y4pm5b3683gzyg
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:09:46+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mjc5MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjg5ODYsImlhdCI6MTUyMzIyNTM4Nn0=.qviaNFOd8C3aty4P-aJy-afl88kKv3p5h3zCJjclId_l09PW-_qN1lJqo0rGs9EJEExgz_Yud9BvSiV3BWczzg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:09:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mjc5MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwMTg2LCJpYXQiOjE1MjMyMjUzODZ9.B_6yxRL7XwPj_NFQlA2QF3BxxKWvwclS_ZMR3Cz_zNNy5opB8wC5C9c6yNiJaFRRc8Hy9AHknUBadqkKo26GCw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:09:46+00:00	login	r_joelos_8
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:09:46+00:00	name	r_joelos_8
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:09:46+00:00	last_login	2018-04-08T22:09:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:09:46+00:00	api_token	ca24e82fec3c575febf79d0ffd3d744c
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:09:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfam9lbG9zXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3Mzg2LCJpYXQiOjE1MjMyMjUzODYsIm5vbmNlIjoiQVVHWEdIZ1NSa3h4eldiYTJ4czZvMGthbUxNUmQ4d0Z6Mzl5T3NJaWE1ST0ifQ%3D%3D.gnHQVztgIXqfE7M05phnGSsgT5nRU3jBEvXbTW4M93NkfvaVrHNfwi6X4UAdIFdLZPWwuT9iDwn-4DQBrlmc8A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:09:43+00:00	twilight-user	{%22authToken%22:%22lzctbmvs9jxwuq5mitnlrt057m90xa%22%2C%22displayName%22:%22r_joelos_8%22%2C%22id%22:%22212827938%22%2C%22login%22:%22r_joelos_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,12 @@
+#j_isabel36_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lZocx5eZZWaNFxWqzX8hAT6jcmf44LupCaYjj2Bi3Sk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:45:58+00:00	unique_id	d2d3fb2610603476
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:46:17+00:00	persistent	212819979%3A%3Aot2uoggif7vxb6yiojgiqmaiiv0a9a
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:46:16+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTk5NzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjc1NzcsImlhdCI6MTUyMzIyMzk3N30=.PGU3lBOBO9ZhbW0-p_nLWedKZRy3o9irImQ1xrG-llPK-sNje8kuS4zBHBkseyKkX6ZIUw-3ZfG6T9IkW3776A==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:46:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTk5NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4Nzc3LCJpYXQiOjE1MjMyMjM5Nzd9.MK3uA_lnXCyv8nLKP-Dt33lX7dlywng9TX3iPlwYBrD_kw3VB4wXxPUEPppWXuqCoDW40j8thMGt7CTq1tm1TQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:46:17+00:00	login	j_isabel36_d
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:46:17+00:00	name	j_isabel36_d
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:46:17+00:00	last_login	2018-04-08T21:46:17Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:46:17+00:00	api_token	be2f2e4883e45c7fa1d4730ef811aa28
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:46:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfaXNhYmVsMzZfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzU5NzcsImlhdCI6MTUyMzIyMzk3Nywibm9uY2UiOiJGY0xqVldEOGFicHhjclJ1RzBuNG1ZX3cwQUYwcnNyeUFEUm1wa1czTUtnPSJ9.ucV0lC1YWh97Z1GFhoJKDeXA74_5Dtsb6nPmF3S8Sh3dW2qX_AqDbK3nxtBpAnfQ7eh0PxevbBuPRN64A2kUiA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:46:11+00:00	twilight-user	{%22authToken%22:%22fan6g6250m2sllnfh0ivfb1r2vwwwd%22%2C%22displayName%22:%22j_isabel36_d%22%2C%22id%22:%22212819979%22%2C%22login%22:%22j_isabel36_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

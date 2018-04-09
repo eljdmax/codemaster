@@ -1,0 +1,13 @@
+#d_edwiner_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9djUFnYk%2BLoap10YURBqGSwfGseIUi%2FeKS2I%2Fs8qnkQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:49:29+00:00	unique_id	22bdfe9f8ec8a593
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:49:29+00:00	_twitch_session_id	eadf1687491d1b1f3274af944ef69d82
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:49:47+00:00	persistent	212821227%3A%3A4ef2o013kehu3ni949dds5fmriddg9
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:49:46+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjEyMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjc3ODcsImlhdCI6MTUyMzIyNDE4N30=.33WTadx0uzDdMPfoQtO-ahpDxjX5L9X3HENAl8r-clO5H_sv7pJjtbUaZr_EUVnDhhvZXfu_eyu2EeKtinGGbQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:49:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjEyMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4OTg3LCJpYXQiOjE1MjMyMjQxODd9.FOa7PaAPfNyAt126R_dy_BCB8eGuib-A9aVxwwIrF7N93iN6MMdJYIoWm5fvW_Bwc2qpo-zKUmX66i_Uce3sGg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:49:47+00:00	login	d_edwiner_m
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:49:47+00:00	name	d_edwiner_m
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:49:47+00:00	last_login	2018-04-08T21:49:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:49:47+00:00	api_token	02849dd2c3ce6a87c6c62ba3459c8af7
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:49:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfZWR3aW5lcl9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3NjE4NywiaWF0IjoxNTIzMjI0MTg3LCJub25jZSI6ImRiOHhjUGhoang3Q1NlODhfbnlDM003TTJpV3NMLXZ2NzBDQlRLdGJVSTg9In0%3D.ZfvzWRuNP2gKbVrulR63NMWoIBhywiJeHeTgtS1yJFUk6584NW3Us-2nobWqC5YBY4j0I2wEe6HcZrgYHk1fUA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:49:42+00:00	twilight-user	{%22authToken%22:%22d59fwpjo208ye57aqa0g3aw3litkul%22%2C%22displayName%22:%22d_edwiner_m%22%2C%22id%22:%22212821227%22%2C%22login%22:%22d_edwiner_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

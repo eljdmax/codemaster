@@ -1,0 +1,13 @@
+#d_carlos54_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2MV2wJM3TbAOvbKYmwhUSetCpHLpwrpsBl%2B95KOKi4U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:56:47+00:00	unique_id	3c7888d11fcb9338
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:56:47+00:00	_twitch_session_id	6eee167aa6f9bbe5d1bc7d8bff9cc3c6
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:57:05+00:00	persistent	212823759%3A%3A2j35bmz64fo3sltil0rs6gz8v11lib
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:57:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjM3NTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjgyMjUsImlhdCI6MTUyMzIyNDYyNX0=.ux4HognY7VPl2rGBAkfM_8j3OddvuN-DtzZHR6Parcau8oLrlqnff1mI_rSYBfpyCqRgvpv2ixr1ia8PUDop3w==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:57:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjM3NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5NDI1LCJpYXQiOjE1MjMyMjQ2MjV9.CBBfn2CQZ77s0g75NVMOSe5MHVHLfSbS7C6Pd0aeNH0S2dWIDY4Q3dxgOeKw2dhKinV1zxvoXagA9z0e70BBOg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:57:05+00:00	login	d_carlos54_z
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:57:05+00:00	name	d_carlos54_z
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:57:05+00:00	last_login	2018-04-08T21:57:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:57:05+00:00	api_token	a5d614758dac30ef53dcb1230f905002
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:57:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfY2FybG9zNTRfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzY2MjUsImlhdCI6MTUyMzIyNDYyNSwibm9uY2UiOiJzZGtqM21WT0JoN1RFVmo2RmE1SE1BVTJlSkJlWGkyS3NVU094dHJSeUlNPSJ9.GzgOklcKS1BFvFGAcpmOyKty1tLqBdBg4BWCPJjRc4VqFGPrCqapXASq3nlFRycMlaSz8M-63QchqBYZuI7-uA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:57:02+00:00	twilight-user	{%22authToken%22:%22fe0stuxfjkavrf7iwv4ulpd3x1v7vv%22%2C%22displayName%22:%22d_carlos54_z%22%2C%22id%22:%22212823759%22%2C%22login%22:%22d_carlos54_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

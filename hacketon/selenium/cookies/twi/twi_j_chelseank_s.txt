@@ -1,0 +1,13 @@
+#j_chelseank_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	uZIwIcksz4U%2FyNZBSb%2FSRGi5AUJfx6Ia0JM2OxwZQOY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:34:34+00:00	unique_id	78ae88d26979b8c4
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:34:34+00:00	_twitch_session_id	9f2775614a9fa59ad111acad54623652
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:34:55+00:00	persistent	212835699%3A%3Ab2yd3zcmmwqveluuyikzd6gfoii677
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:34:54+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzU2OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzA0OTUsImlhdCI6MTUyMzIyNjg5NX0=.1L0eMtZ509XiFB3zn4nQJ23zHpP-QI1uhZt6YuufK-LFuy0pS12-g_7cDuyJSTE0P7__H0KTErVbONHab48vMQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:34:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzU2OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxNjk1LCJpYXQiOjE1MjMyMjY4OTV9.TkYcLjqgCMA7NL3DiKlvW0xSvOst07rOJ3HL5wOju9QNz9Yyk24UG0p-zdIvFKx0JDqHx9OYlTMK98jZiumO4w==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:34:55+00:00	login	j_chelseank_s
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:34:55+00:00	name	j_chelseank_s
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:34:55+00:00	last_login	2018-04-08T22:34:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:34:55+00:00	api_token	b387fda5c6bf2f1cc4bfb44771e6e581
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:34:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfY2hlbHNlYW5rX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc4ODk1LCJpYXQiOjE1MjMyMjY4OTUsIm5vbmNlIjoiWmEwT2NGQXdzZ0UtQS10eWcyclo4c1RLdVlPNUdOYmNCa2lQLUd0aWhvWT0ifQ%3D%3D.oegQjZ9AjmXbyLBpUiOFdq0hCQU33x09ibkx895EaOsMdJQhzk4LydtuOYVZ7BdS8NI3sgEeOvqdMszeKRbsqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:34:50+00:00	twilight-user	{%22authToken%22:%22qsl263fdjcjez3vtwk84ys4bnyb50k%22%2C%22displayName%22:%22j_chelseank_s%22%2C%22id%22:%22212835699%22%2C%22login%22:%22j_chelseank_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

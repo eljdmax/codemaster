@@ -1,0 +1,12 @@
+#a_samanthar9_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bkswM0V5tstMD2UjUNVBlISqPJV%2FCFTCV7iyBTB0lI8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:56:58+00:00	unique_id	1e138eb6df5ce479
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:57:18+00:00	persistent	212842200%3A%3Aqf15rxudh4f4mp8pacl5t277st87bz
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:57:17+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDIyMDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzE4MzgsImlhdCI6MTUyMzIyODIzOH0=.DtFTp3fjo-CbLUtihizdlbQk_L-mRsZm9-KqN0hs5IjEWtfD-t8_FTwJFJ0DwmFs-wzEu8RzDDM3W0veEfHxCw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:57:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDIyMDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzMDM4LCJpYXQiOjE1MjMyMjgyMzh9.ObSIQIJ7D153VgsuB9x0eNo0IWLOhfkY1S1Uz1CJwO4S3AQjxf5F6mR8Qo5RuDhunJeUcyWeRjNuM1ngGG4bbQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:57:18+00:00	login	a_samanthar9_8
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:57:18+00:00	name	a_samanthar9_8
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:57:18+00:00	last_login	2018-04-08T22:57:18Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:57:18+00:00	api_token	f71a0f80fa31e6d5f1b6a41df0ae8f9e
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:57:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfc2FtYW50aGFyOV84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc4MDIzOCwiaWF0IjoxNTIzMjI4MjM4LCJub25jZSI6IlptWnVOVUFWYjFnRHljV1BlZGR3THZqUjlnbVo2N1BtUFd4aW1Ed3J5OEk9In0%3D.QyqRNE76cjOXIfrK3F-TQ5Y836_rqKvpiWQTWqBSposN3DfiJXQ2aMOGHF5GbNOaBHLk0H4UZFkVkZcR4IXhkw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:57:12+00:00	twilight-user	{%22authToken%22:%228ut1jhs1fhtmb5p6yrxxsleux08f6b%22%2C%22displayName%22:%22a_samanthar9_8%22%2C%22id%22:%22212842200%22%2C%22login%22:%22a_samanthar9_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

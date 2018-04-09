@@ -1,0 +1,13 @@
+#n_jeremyp9_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9TO1YoG7Der7agAxB7YWli3EXdQ4zx9C6a0aEsRMDiU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:18:55+00:00	unique_id	fb21d9cd3a97b78e
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:19:09+00:00	persistent	212830872%3A%3Age19nzhp8qa1o3in487i496wa9zqvt
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:19:09+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzA4NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk1NTAsImlhdCI6MTUyMzIyNTk1MH0=.43GCEbDp-UMhIpZlEKtvuN8c_fkEzaSu0-DXK3NI6taUyLNlh1oTp7tsDjmLyhQvndzUoPqq_I4PTKg632hBew==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:19:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzA4NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwNzUwLCJpYXQiOjE1MjMyMjU5NTB9.Q9B0w8JsqWlvCNt3xE4rgN2jIDPE9V7utLSH1RczpKGe4VeHtBjpu1KFlpig2zWJRsiflBhp2bPrVwqgUXIJmg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:19:09+00:00	login	n_jeremyp9_z
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:19:09+00:00	name	n_jeremyp9_z
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:19:09+00:00	last_login	2018-04-08T22:19:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:19:09+00:00	api_token	c348471306427bd326eee4c6b299948d
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:19:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5famVyZW15cDlfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzc5NTAsImlhdCI6MTUyMzIyNTk1MCwibm9uY2UiOiJoSlFMc2hhLU45YldEUE9QeFdtQmVWSjdHLWdVdVJZWmFwVk1Vc1lsOUFVPSJ9.McLx6ep-Ur8Xo_VJOLNiMAMAkqPB_fhhqaxmy6AbHvd5NdKetFdl6YIinz1fTObTvWaA8qmTAwgoS4GybBjlbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:19:05+00:00	twilight-user	{%22authToken%22:%22c7ng79oc26e0yrnym8mx64zv3nchuz%22%2C%22displayName%22:%22n_jeremyp9_z%22%2C%22id%22:%22212830872%22%2C%22login%22:%22n_jeremyp9_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:19:06+00:00	twilight_onboarding	true

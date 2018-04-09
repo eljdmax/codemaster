@@ -1,0 +1,13 @@
+#j_vanessafv_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	l1CA8hKDPxYUGMHWEtgnG4Of%2B1JevwNVvR5xbLf7Zw8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:38:43+00:00	unique_id	e30e3d3229b064c6
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:38:43+00:00	_twitch_session_id	56ea3fe55ca017cb6d3a4b9fecf96d44
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:39:14+00:00	persistent	212837042%3A%3Axr5grfljr34fr44rb2upvn89swuxw5
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:39:15+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzcwNDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzA3NTUsImlhdCI6MTUyMzIyNzE1NX0=.FVA0k3pkJKv2GE1_iNPlXYPmAJw7qCeyc7LULCFBfumy-NjB14lJLrlzg7Ab_JqTuwjQoi5_UK2H5vp_OIupJA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:39:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzcwNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxOTU1LCJpYXQiOjE1MjMyMjcxNTV9.pjGwEvtB9NkBiBmra_DKkV37fJZkkcW20Iy927xDjSlO9UR2QB0OvtvoOFUjCHAhz55xZFb-uhFys8ZReG1HQA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:39:14+00:00	login	j_vanessafv_3
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:39:14+00:00	name	j_vanessafv_3
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:39:14+00:00	last_login	2018-04-08T22:39:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:39:14+00:00	api_token	fca59c229381cfc85a93faa273fc4c99
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:39:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfdmFuZXNzYWZ2XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc5MTU1LCJpYXQiOjE1MjMyMjcxNTUsIm5vbmNlIjoicnFERUlMXzFxdFZVQzQ5OWtjd1JQZGxXSjNhMzZhWU9renBWdVNCeFg0RT0ifQ%3D%3D.rjqKupTDO7p7q1msddDZRg6fUvj6LmwMnhikEOn0b7gR5hVic6xkEeTX04UrjdydCiibsZ29vOGMfsEZKDoadw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:39:10+00:00	twilight-user	{%22authToken%22:%2207zuxiccdjxwvx387e4hzbyhudkssp%22%2C%22displayName%22:%22j_vanessafv_3%22%2C%22id%22:%22212837042%22%2C%22login%22:%22j_vanessafv_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

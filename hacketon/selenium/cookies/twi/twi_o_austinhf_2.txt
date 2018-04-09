@@ -1,0 +1,13 @@
+#o_austinhf_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HrPe3XutpteEexrRb%2FlfWPzcCxApT7e5zThmMOji%2ByE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:39:45+00:00	unique_id	8e8eec73d8fbbf08
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:40:04+00:00	persistent	212837289%3A%3Ajvxy50x4slyqu1w8av4w87zerhuc23
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:40:03+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzcyODkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzA4MDQsImlhdCI6MTUyMzIyNzIwNH0=.QNF1OAq-fA6_lyCbfuxRGsVfXtSmrS6-W7IoTbihxI968SKDCT5uHD1MO4WqZJxK3FQen45tuhzFiHwtzxHHmg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:40:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzcyODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyMDA0LCJpYXQiOjE1MjMyMjcyMDR9.THQjygu6X8dtJi_VSBGI9tfRT1v35VeHfoPNP8maxHJ-F118PyqghBdZIEZwB6XetM3Ny5Vp375Ms1AQEe_oAQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:40:04+00:00	login	o_austinhf_2
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:40:04+00:00	name	o_austinhf_2
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:40:04+00:00	last_login	2018-04-08T22:40:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:40:04+00:00	api_token	a43b972e89154dd4b257e50bbd54fce3
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:40:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYXVzdGluaGZfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3NzkyMDQsImlhdCI6MTUyMzIyNzIwNCwibm9uY2UiOiJGaG5PQjkzVlZsRlNyQ0szaFNrbUxJRXJhRnN0MG14Qkk1SWhhV0xFMklNPSJ9.XuuGCPAucSXS9dPqjVWQXTYifpXAidbne_cgucMyruS_fxx8FLJm6sg-5iCHJF8AVXQU_WmNV4UmSqjhWx51ng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:39:58+00:00	twilight-user	{%22authToken%22:%22yw8iuj7lcz69kqa1jge8pkw9581lfu%22%2C%22displayName%22:%22o_austinhf_2%22%2C%22id%22:%22212837289%22%2C%22login%22:%22o_austinhf_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:39:59+00:00	twilight_onboarding	true

@@ -1,0 +1,12 @@
+#d_colin06_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GuKno%2FcJ5ZM%2FAnbMkL9hh3ZHpLMz5tmQ4LhxVmg2LJo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:43:01+00:00	unique_id	41893307848b09dc
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:43:31+00:00	persistent	212838330%3A%3A8c9pysl8arnpjz60wqwtnl9gbcjp8w
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:43:31+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzgzMzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzEwMTEsImlhdCI6MTUyMzIyNzQxMX0=.PvkOCrt40yFFrdlO8EVjATmkoZ2JGYEQpaKvhGylve47yOis7bL6PUvdWR9cK7ZGa9Gpd7KAjDegsMc_NkAZ8Q==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:43:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzgzMzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyMjExLCJpYXQiOjE1MjMyMjc0MTF9.5bKp_At0t9Kxj0JmBwYADK57JJOka5gohpdXomo8kHffX6RwuZhruG7SKq0hh48pJqezGnvo0mwnuulxXjRRIw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:43:31+00:00	login	d_colin06_c
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:43:31+00:00	name	d_colin06_c
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:43:31+00:00	last_login	2018-04-08T22:43:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:43:31+00:00	api_token	7d596a7bdb3ad9ba53db61de192bfeee
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:43:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfY29saW4wNl9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTQxMSwiaWF0IjoxNTIzMjI3NDExLCJub25jZSI6IjgyczEzeHhJTEoySUZ0V3FESUZPWkdqOXRuNVFjejhHbC11YUcxSkMwUXc9In0%3D.C5bh5rjXuv9FeljZVrcXrF6g4Kj6qdJx-Rfm-I0kXSOt5G0TOlqI4Tsnz1Dy1Qg0WV8AwNcSIm6ZSQqRKH4rvw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:43:25+00:00	twilight-user	{%22authToken%22:%2254ympbq3e9hkzznagqjtf2s2rceax3%22%2C%22displayName%22:%22d_colin06_c%22%2C%22id%22:%22212838330%22%2C%22login%22:%22d_colin06_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

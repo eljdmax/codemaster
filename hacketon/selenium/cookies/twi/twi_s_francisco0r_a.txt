@@ -1,0 +1,12 @@
+#s_francisco0r_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6GvxgtSJy4lnO4miS4xefGvSHgZGb9d6EJo6xJUBV8c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:56:03+00:00	unique_id	ce944dac028576d2
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:56:56+00:00	persistent	212842107%3A%3A6awec2twlr2ohi5a8y76setzb3bgjj
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:56:56+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDIxMDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzE4MTcsImlhdCI6MTUyMzIyODIxN30=.6O7zOi1Ih4JcixG-10Sha8z5dbn2meRiGPvZWeuTJ4yp7Sr3CC9sMGbhPoMQkWmd-4T0pumBoDSSMxz_k3nDaA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:56:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDIxMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzMDE3LCJpYXQiOjE1MjMyMjgyMTd9.DGxfrRPUiz5MkIp32CT84iNNXPA_95wHw5Q642tloAS1LskuN1gzQlg0ua4rp4To1IONRSeRlt-7Dj4itejeEw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:56:56+00:00	login	s_francisco0r_a
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:56:56+00:00	name	s_francisco0r_a
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:56:56+00:00	last_login	2018-04-08T22:56:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:56:56+00:00	api_token	4faa91065b3b505669123331af9aa293
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:56:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfZnJhbmNpc2NvMHJfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3ODAyMTcsImlhdCI6MTUyMzIyODIxNywibm9uY2UiOiJEb2tSMjV4M2NYYzl1MWl4T05nYzFpRzFLZkl4YXB4cE0xNG9EX3g2dVcwPSJ9.icr_8e4bw74Q16yVsvDHtVZpzq9Ciowz26NxULeXN3PS-LepoW1_ZDFS75ivmt80TYnSHCE_ukO9e2_IiAwzWA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:56:52+00:00	twilight-user	{%22authToken%22:%22owzyzk1ie6zhbfdkijv0rrk12rtajv%22%2C%22displayName%22:%22s_francisco0r_a%22%2C%22id%22:%22212842107%22%2C%22login%22:%22s_francisco0r_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

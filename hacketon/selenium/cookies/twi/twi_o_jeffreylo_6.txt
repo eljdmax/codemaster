@@ -1,0 +1,13 @@
+#o_jeffreylo_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	uNum8rHMPpiumWNg1WLzEKa1x6%2FgeEOWZGUQJ%2BPyNaM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:47:17+00:00	unique_id	e5a002e4aa619cdd
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:47:17+00:00	_twitch_session_id	7de6c6f5257e93f950804e259f927ea6
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:47:41+00:00	persistent	212839510%3A%3Ay7ic9lcnkyzhtls6horr3oyfd92ee5
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:47:41+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzk1MTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzEyNjEsImlhdCI6MTUyMzIyNzY2MX0=.-s86ocuRXLfcZUCMfLKs9whGsil4Zs9I_vtH_LpgSeHDW8I8tH8_Y9UOd0byjZD3DJCFnHKI9hGBU1OPLtd2Yw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:47:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzk1MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyNDYxLCJpYXQiOjE1MjMyMjc2NjF9.aW_z4Vn6rnrbZ1X20f6UsFjCnGe7DkMPkDg41i4G4xCwxwLEpq8EXvAlmDO7dY5-A-O9ynVZprhgg9FkgIkQAw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:47:41+00:00	login	o_jeffreylo_6
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:47:41+00:00	name	o_jeffreylo_6
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:47:41+00:00	last_login	2018-04-08T22:47:41Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:47:41+00:00	api_token	77754a779fa1d86913cf6a43091a6a3e
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:47:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famVmZnJleWxvXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc5NjYxLCJpYXQiOjE1MjMyMjc2NjEsIm5vbmNlIjoiaEdZdU5yMnFKVm5qZVhrdzdyQ1h5UHlaQmduZjBpOHpfQnhaS0wtOGIwcz0ifQ%3D%3D.BCIQNllUaKVGBdQmdqrKQ1KzMHUyCFa6FIQb8kN_q-0-U7fyLP9H8iZrypGKpJO42QA92i1zun4zNPl901E0FQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:47:38+00:00	twilight-user	{%22authToken%22:%22adzxhm2vs7udoqj3tzw6c2sbhaejwa%22%2C%22displayName%22:%22o_jeffreylo_6%22%2C%22id%22:%22212839510%22%2C%22login%22:%22o_jeffreylo_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

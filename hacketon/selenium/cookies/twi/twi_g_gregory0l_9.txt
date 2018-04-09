@@ -1,0 +1,13 @@
+#g_gregory0l_9
+.twitch.tv	TRUE	/	TRUE	2028-04-08T21:41:06+00:00	unique_id	d04bfd4482887a6a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8fX%2BPVF6k1DTNLZx9btV4VBPi4CZ%2BoR9Q%2Bd5I5MRwdk%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:44:48+00:00	_twitch_session_id	dca155e9ead6319ffa3b7f725309ebcc
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:45:39+00:00	persistent	212819755%3A%3Adsltu8fgcev298iflbxmbvrjs78rgi
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:45:39+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTk3NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjc1MzksImlhdCI6MTUyMzIyMzkzOX0=.Z1zS23gJFD3U0U5apA-mAIKUmB98mvfJwQdKVFyeMVhSoNvBTXgWe3d0HHbT4VlQz-pUN1_9CedIl0nuUkZAPw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:45:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTk3NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4NzM5LCJpYXQiOjE1MjMyMjM5Mzl9.GDJ1NYPMxUnDy72OB1fdu3-Z6nmzuCNoFNb6bKRvoHiGGIfFd2hYcms5WXq4y6tZ2q9hEc2m4dxJGHRrokuuZQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:45:39+00:00	login	g_gregory0l_9
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:45:39+00:00	name	g_gregory0l_9
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:45:39+00:00	last_login	2018-04-08T21:45:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:45:39+00:00	api_token	6566a151686d83b7997fc333bd2fbfb2
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:45:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZ3JlZ29yeTBsXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc1OTM5LCJpYXQiOjE1MjMyMjM5MzksIm5vbmNlIjoiTVhES0ZENlR6Q1VHVkpYVDd1WE1ZV2tTVmFncnFYTnBLb2cyNS0yUVBEYz0ifQ%3D%3D.H7xCM6ouOxlOk6eQkLFOPIG5vNklBGX5IDR70iSMUeVxv5wTUMlEc4y65czkAfBlRSsdBM_tMpA2q7juUybF0g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:45:33+00:00	twilight-user	{%22authToken%22:%22udmu70odktm92n6xc6k2o48bulrqr3%22%2C%22displayName%22:%22g_gregory0l_9%22%2C%22id%22:%22212819755%22%2C%22login%22:%22g_gregory0l_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

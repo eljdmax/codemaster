@@ -1,0 +1,12 @@
+#x_danielayu_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FwcHzN9i6UHJtMIJYFqqdoM8yXbYPos7LZN1mdB75GA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T23:04:27+00:00	unique_id	67f1ecc8fdf19734
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:04:51+00:00	persistent	212844247%3A%3A5a3tf9il4jjdmmdaepjg8odonzn6og
+.twitch.tv	TRUE	/	TRUE	2018-04-09T00:04:51+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDQyNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzIyOTEsImlhdCI6MTUyMzIyODY5MX0=.qCuoF1FAHS_BP0rLxflZGkknClR9wAUF7EbqPNBvD9R875CDCJVP-uIL_CAmgs9s3dPxcVPrKGoXyPRKRpz8hQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T23:04:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDQyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzNDkxLCJpYXQiOjE1MjMyMjg2OTF9.Eewr407s_VJJVi3H7U2XrcAg8ZCGMzdZSzj0bZVsfhhF7aIVpmzEs37aMBj5mDubyho3TysvAl_2BWxyG4Ij0Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:04:51+00:00	login	x_danielayu_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:04:51+00:00	name	x_danielayu_w
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:04:51+00:00	last_login	2018-04-08T23:04:51Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:04:51+00:00	api_token	f7b3218e4d326e13510f453c9bb503e6
+.twitch.tv	TRUE	/	TRUE	2018-10-05T23:04:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZGFuaWVsYXl1X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzgwNjkxLCJpYXQiOjE1MjMyMjg2OTEsIm5vbmNlIjoiU0x1YzZyMEVNakZ6M3l6TmRDSlRZZ181ZEh3VktUY2pNQXFyZWpqbjBMRT0ifQ%3D%3D.nJ8iEtrbND1-meSKrm5eSSUvntamcZXP6wfVpaQiRYJLaNKOqzwgy8ygGtWoGgLbj0DjBuV8NZ_CduYG4iexiw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T00:04:44+00:00	twilight-user	{%22authToken%22:%22gh4n8mpcst2t7000q9wy90vkc30o7z%22%2C%22displayName%22:%22x_danielayu_w%22%2C%22id%22:%22212844247%22%2C%22login%22:%22x_danielayu_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

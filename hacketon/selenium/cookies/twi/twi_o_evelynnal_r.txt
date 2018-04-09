@@ -1,0 +1,12 @@
+#o_evelynnal_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	thStEPvZTbYjh8M9%2BCwGCyYAbxZM5le2ec3CIO8UtIE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:14:44+00:00	unique_id	ddea0ea6a98258f3
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:15:05+00:00	persistent	212829627%3A%3Ascp1wn57gbjbv1ixol9xp37jgl7mpx
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:15:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mjk2MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjkzMDUsImlhdCI6MTUyMzIyNTcwNX0=.Sogfr7TZjKeKtE3PWliI2EmIitQmUSdVI26CTtkEGrJP8l4lHaLFnI1I_yclejVkrtdXMQmsdkYPGTCDMQC4Ug==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:15:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mjk2MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwNTA1LCJpYXQiOjE1MjMyMjU3MDV9.VQcfYuTe3fV6ISGOWvRZRK0UX4xzQrtDkvExI3v8Q54QeTPox2hOhnBD1LzRK4tqFr8ywIo7mzak9Qhfwfjhwg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:15:05+00:00	login	o_evelynnal_r
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:15:05+00:00	name	o_evelynnal_r
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:15:05+00:00	last_login	2018-04-08T22:15:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:15:05+00:00	api_token	325cf845569a2cc6f103fa773a678ea6
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:15:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZXZlbHlubmFsX3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3NzA1LCJpYXQiOjE1MjMyMjU3MDUsIm5vbmNlIjoiYV9HWEhDeHl1ZnVDZW1xU25VUzU0SGNXNnY4VnlOb0x6WHhfdEJpNXUwWT0ifQ%3D%3D.aJzxIzGpiezhUktwsJDwo2bw3-WPduW73oEQxWOXbS1Kb41c3LgZAx0VpDcBNxUWaP3Q3Fhc3otrC0deBzbC7g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:14:59+00:00	twilight-user	{%22authToken%22:%22zl8nrnfl6js2b0vwadcg6mr57psnzj%22%2C%22displayName%22:%22o_evelynnal_r%22%2C%22id%22:%22212829627%22%2C%22login%22:%22o_evelynnal_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

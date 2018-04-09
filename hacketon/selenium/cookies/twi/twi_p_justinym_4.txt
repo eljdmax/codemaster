@@ -1,0 +1,12 @@
+#p_justinym_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XoD1oNYM1LnGkm3tn1tmzjvhthrSSoOe%2FJW%2FZFe9PPM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:31:48+00:00	unique_id	2d179c0570dfad77
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:32:03+00:00	persistent	212834786%3A%3Amk7g5zh3dt45qi5tjso1vavggtsmmh
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:32:02+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzQ3ODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzAzMjMsImlhdCI6MTUyMzIyNjcyM30=.f-vBaB1BAw6fkWrIw_6kETWPtbrgKO4GeOjRkXdubEXdLKWauZL0TdAK4gaOGdqr5N71aXpAErw5kqVjpr8tnA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:32:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzQ3ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxNTIzLCJpYXQiOjE1MjMyMjY3MjN9.M4-EennvFn40JO7Kwc4hIEi6mOmJKfK7wm8dWTdFSg5fftwucrUJfog6zF_0nf3WylIzzh3dnovE8eNR0ZCuVA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:32:03+00:00	login	p_justinym_4
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:32:03+00:00	name	p_justinym_4
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:32:03+00:00	last_login	2018-04-08T22:32:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:32:03+00:00	api_token	cae2a052628deae54b495ef73c8e5560
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:32:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfanVzdGlueW1fNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzg3MjMsImlhdCI6MTUyMzIyNjcyMywibm9uY2UiOiJBclFCa0dtQjNSbGY4NVBaVThob3BVaFlJYVVpLWoxWmVneGFZQXE3M3g4PSJ9.cHo1JYZPG2rBW0xju91KtBTLB52xI_ToXLqESRaN156lMMPYEifeyyFeJr-SfmyH4Bm89uap4toWVDrVm2R1bg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:31:59+00:00	twilight-user	{%22authToken%22:%22r62d7r1sdycptlqgvc8ip6y3m4b8vl%22%2C%22displayName%22:%22p_justinym_4%22%2C%22id%22:%22212834786%22%2C%22login%22:%22p_justinym_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

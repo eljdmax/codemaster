@@ -1,0 +1,12 @@
+#w_kayla9p_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FBgk569sg96t1zBni7K1awduR%2BnEEtv%2FxhSxt7QPLFI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:33:28+00:00	unique_id	b7da7a524a1f9d19
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:33:48+00:00	persistent	212815319%3A%3A1oub0pme9wjmzd460kmh620f65omda
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:33:47+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTUzMTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjY4MjgsImlhdCI6MTUyMzIyMzIyOH0=.F4-5n6Y81R2tM2rbFEXr6ysVWojQwdkDXsg71ItrAyYzJSs_InYQ4WMn9r9YRKWSWKLBHZxXOEa1YtrwSwyuFA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:33:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTUzMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4MDI4LCJpYXQiOjE1MjMyMjMyMjh9.NOLtCmt61btQFS8_dzhiO2zNSs7k7pfXJAqqjbFhYwZA-OoifRR3v2xnlkOU4000WB8BlVGKTYb0z-slLP9nzg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:33:48+00:00	login	w_kayla9p_k
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:33:48+00:00	name	w_kayla9p_k
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:33:48+00:00	last_login	2018-04-08T21:33:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:33:48+00:00	api_token	db82e7887bac789e4aeebc8aa2896d04
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:33:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2F5bGE5cF9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3NTIyOCwiaWF0IjoxNTIzMjIzMjI4LCJub25jZSI6Im9FOWt2Z0JzQXQtZzlDN1ZRZlpBQ3FncXJJSWFoRVZqUVdWTGdlY01Na0E9In0%3D.smeVitUSAPGyS8gYZcU21CfSe3zBfJsMbkXpz52hywfaUeO-0MF7qmLrczOeKA2uq-VJMYW06cNMHlLtcPyCOQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:33:42+00:00	twilight-user	{%22authToken%22:%22psne1nr8n3nvfbkkc398mydrt37uuu%22%2C%22displayName%22:%22w_kayla9p_k%22%2C%22id%22:%22212815319%22%2C%22login%22:%22w_kayla9p_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

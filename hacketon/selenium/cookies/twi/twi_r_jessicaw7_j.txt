@@ -1,0 +1,13 @@
+#r_jessicaw7_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F3t1a4YVEZ%2BHrKdrWsCP%2F4ioRXxS1gDaTiB8Zr8jSqM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:05:21+00:00	unique_id	4dc33b63bfa50b35
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:05:21+00:00	_twitch_session_id	90e0b421ab9dfaf8e569ce0dbb2a8d81
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:05:45+00:00	persistent	212826690%3A%3A0jmkypwbt6h40kp28bvmdcznp8jyz0
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:05:45+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjY2OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjg3NDYsImlhdCI6MTUyMzIyNTE0Nn0=.zG1njeTYF0DCaH_wiAC5RXHjLXGxKdqse7f1lIM2ky9wnTOExIAzA2aybdkE22MJbdlQN0S4nYeA7trVJ1pZ-g==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:05:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjY2OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5OTQ2LCJpYXQiOjE1MjMyMjUxNDZ9.zVSAyeNbd5JLXuT8pcdjjOcaZUu0gYmeRl1m9r3hWH3BdzoBpPOWTGTpbCs3OxjuPJCljPlaznrX5YkFWX_zNA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:05:45+00:00	login	r_jessicaw7_j
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:05:45+00:00	name	r_jessicaw7_j
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:05:45+00:00	last_login	2018-04-08T22:05:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:05:45+00:00	api_token	c84dd4b94e381dd6d7a71d516cde95b7
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:05:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfamVzc2ljYXc3X2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc3MTQ2LCJpYXQiOjE1MjMyMjUxNDYsIm5vbmNlIjoiSEVUd1U1eTFRY0R5S29OeGtuUnhoamFRcGpIZFM5clNRVFRRUWQyY2t6RT0ifQ%3D%3D.srpBFA5RnKu85aNSM6W8WKDihwJsN5MNESfRNPfBwYfz9-8LtdSDccUCwJWPPBbdQ8JIreE3i4OAuyGL296SPg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:05:39+00:00	twilight-user	{%22authToken%22:%22hdmihyott3fpdc3czsb84mt1g06613%22%2C%22displayName%22:%22r_jessicaw7_j%22%2C%22id%22:%22212826690%22%2C%22login%22:%22r_jessicaw7_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

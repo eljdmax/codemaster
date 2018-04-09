@@ -1,0 +1,13 @@
+#s_madelyngk_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	juV8Q6el0fCeV9%2BVc1aFkylr0xBQrHA%2BDEtuJGUrJo0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:31:52+00:00	unique_id	73e3f47bd3c92406
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:31:52+00:00	_twitch_session_id	95719050c7aef3fa0c7e5a7f8fcb1c65
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:32:07+00:00	persistent	212814672%3A%3Auli3pq6o2y59bzwel6f8oxcitm0qkt
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:32:07+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTQ2NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjY3MjcsImlhdCI6MTUyMzIyMzEyN30=.uOANxyEblLeapyRE-jQTQcKrzcdph_9qvxCZ42tbeOeiVtelUTaAzZs6oG4L3k-WRtXT4najUQCdLJnm8OKjjA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:32:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MTQ2NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI3OTI3LCJpYXQiOjE1MjMyMjMxMjd9.qpJhPOQJpfuaD7dt0iw1izl9_zEP6XLxwhf-0n50RNPtdOVGOafgIx3doC1HNUGhjzclT37O2ZqS2ZWSgNPH_A==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:32:07+00:00	login	s_madelyngk_t
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:32:07+00:00	name	s_madelyngk_t
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:32:07+00:00	last_login	2018-04-08T21:32:07Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:32:07+00:00	api_token	5244f837b3a6986b60ee941c0462616f
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:32:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWFkZWx5bmdrX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc1MTI3LCJpYXQiOjE1MjMyMjMxMjcsIm5vbmNlIjoicGVyRElkODV6TVBFd3lJVVZzVVdIMDhOcC16ek9YLV8yUGVTeVFNNDNoOD0ifQ%3D%3D.d4_xbLFuhSEur3WvrzLyIVEHqCzxBh8YpyVWQp7fGEiFkrj83C2pLex_PqgcCRlbhNCejDSwi41If4PJNE5nNQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:32:01+00:00	twilight-user	{%22authToken%22:%22vbhjk9b35oea1970nojqtwy24j1gqb%22%2C%22displayName%22:%22s_madelyngk_t%22%2C%22id%22:%22212814672%22%2C%22login%22:%22s_madelyngk_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

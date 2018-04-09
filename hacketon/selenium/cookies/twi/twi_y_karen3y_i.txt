@@ -1,0 +1,13 @@
+#y_karen3y_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ONBcjwNFoqBveoig5mbeYEWHVETBrJpvjb0NDnDIUDU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:51:35+00:00	unique_id	077ad4983cd1b93f
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:51:35+00:00	_twitch_session_id	c7ecc2b8da0118ce58ff1af3c621ec44
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:52:10+00:00	persistent	212840806%3A%3Autppafrzchy2vk24nvyx1fmxdrqjwt
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:52:11+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDA4MDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzE1MzEsImlhdCI6MTUyMzIyNzkzMX0=.X9qvHXkN0YSo_vcK7uWHuCfg8iXgbTmNUn73YHA7GUxVK0IAWuO_f11kpG57voeWYCryb3q7BWf8RSZcSI0hhw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:52:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDA4MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyNzMxLCJpYXQiOjE1MjMyMjc5MzF9.vGejrIiH0iTXgohBZLLM6mHopZrgx2rY2q2l2JXBlMdPnCnMR4vz6_gKGCprKH44GXDxJd6Yj8qs3OE3uzAIWQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:52:10+00:00	login	y_karen3y_i
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:52:10+00:00	name	y_karen3y_i
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:52:10+00:00	last_login	2018-04-08T22:52:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:52:10+00:00	api_token	cfa00d6b4757ee2f0f98064d85673e39
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:52:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfa2FyZW4zeV9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTkzMSwiaWF0IjoxNTIzMjI3OTMxLCJub25jZSI6InlhRkU2ZXB5UEMxWnQyNnpmbTVYdEZuZjlBM2o1SlhzdTUzZ0ZoZld4dnc9In0%3D.mZWcAyZPacQmK3VPbNClIWMRjKn1xRkM8wJai2DSlBsR-9UDmhiWRLUYiVkUn-HvZUwGI_ToIUHoFssWuiaRIw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:52:07+00:00	twilight-user	{%22authToken%22:%22l0xo0octt6kzalyogfbxo5ocgwuu78%22%2C%22displayName%22:%22y_karen3y_i%22%2C%22id%22:%22212840806%22%2C%22login%22:%22y_karen3y_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

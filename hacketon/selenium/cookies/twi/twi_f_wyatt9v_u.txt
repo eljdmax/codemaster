@@ -1,0 +1,12 @@
+#f_wyatt9v_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wz9ro%2BTu1o9tw9gtzxpuGXFNq%2BsrxyCEfVGsxTSt0Ys%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:35:55+00:00	unique_id	fd23fe8d23dcfadf
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:36:23+00:00	persistent	212836171%3A%3Ayevlfpadgbjxnco7kvblqe7atpgows
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:36:23+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzYxNzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzA1ODQsImlhdCI6MTUyMzIyNjk4NH0=.u1WYmSR_veQFuTPAqfvpQpV5YNVx674NcGdlwcRC3w0fxMyV2-PfzKdlA65YrYDjtPsj4rIxq3yvc5N_ubIPVg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:36:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzYxNzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxNzg0LCJpYXQiOjE1MjMyMjY5ODR9.Uq3Hsi7UKu-M4zy7td0fbNGrxIUjZwdx7mfKdTq-XPLPirfB4rL__IQ0VvS41oWfRqhtqgeNe1KR5wINgJ7ohg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:36:23+00:00	login	f_wyatt9v_u
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:36:23+00:00	name	f_wyatt9v_u
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:36:23+00:00	last_login	2018-04-08T22:36:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:36:23+00:00	api_token	c13a0b5cdb8cdd9ffbbc7b580c8bdfbe
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:36:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfd3lhdHQ5dl91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3ODk4NCwiaWF0IjoxNTIzMjI2OTg0LCJub25jZSI6IkJHX3l5bThtcHZUT3hHZVg3dWNNUUREMGFtWVFwQkR5SVhhTE5BSV9STWM9In0%3D._yhkwRaly1nAQHoNpj_MGCexQENY40BJL4Qh4PHUADBJ4fW5eCSw7Os0xibhFdd_zyuiJdSJOBVWnVWFzB1b3g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:36:19+00:00	twilight-user	{%22authToken%22:%229o1c178v4q9nhuufxg0erqizl0qc66%22%2C%22displayName%22:%22f_wyatt9v_u%22%2C%22id%22:%22212836171%22%2C%22login%22:%22f_wyatt9v_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

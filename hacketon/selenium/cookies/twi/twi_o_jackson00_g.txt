@@ -1,0 +1,14 @@
+#o_jackson00_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Hocml30UCv%2F2MF%2Fy%2B1Y5EXmR8EBLbWrOLQFex2bIDF4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:53:37+00:00	unique_id	9720ac0578804540
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:53:37+00:00	_twitch_session_id	67a8b79d70ddabcc2fb661e95a459e61
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:53:55+00:00	persistent	212822657%3A%3Ameyt34ao1u1vwp3edo4zel88eskdaf
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:53:55+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjI2NTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjgwMzYsImlhdCI6MTUyMzIyNDQzNn0=.5d3JcOYGoARGIsyObIdZz1YS-8QGXepD9xWJsXUYprqatqtJtWHynHmw4tfGbbX4HpXmaZUfMVo03GRc2yofQg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:53:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjI2NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI5MjM2LCJpYXQiOjE1MjMyMjQ0MzZ9.7gckVURUbzpHZIk1OfUrOnW4dBhza3IWtFen_tIp8Pgr2nAm9TgbrMI_aGEB-Nm8fcUvBO5f0PqSXZ0TwpFE3w==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:53:55+00:00	login	o_jackson00_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:53:55+00:00	name	o_jackson00_g
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:53:55+00:00	last_login	2018-04-08T21:53:56Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:53:55+00:00	api_token	9f4b8741686b33213dd991e699eeb140
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:53:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famFja3NvbjAwX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc2NDM2LCJpYXQiOjE1MjMyMjQ0MzYsIm5vbmNlIjoiN21wM0d1MS1HdmtrTmNUa1A4YTFOLXdjSE1wbjhwaEpSTzZuUDVBTzM0VT0ifQ%3D%3D.KGykhyfoBuslTDcmnUnx4v0Ssd-E3W8N0Umu3ovMH_Cnx0ZUHEU8Z01W_PfnDdwue3c3F0tHiVHbwEjkcnaVXA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:53:51+00:00	twilight-user	{%22authToken%22:%2217ew6zd9i1w2iw3u4sd4tnx95nuopi%22%2C%22displayName%22:%22o_jackson00_g%22%2C%22id%22:%22212822657%22%2C%22login%22:%22o_jackson00_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:53:52+00:00	twilight_onboarding	true

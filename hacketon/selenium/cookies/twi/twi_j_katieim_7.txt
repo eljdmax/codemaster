@@ -1,0 +1,12 @@
+#j_katieim_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Mz%2Fiqsn%2BWpCgFJeqYHWKbAidBgYL3S7qPROxRG45Z0A%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:26:16+00:00	unique_id	d0742738f20589e6
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:26:33+00:00	persistent	212833141%3A%3Ap7iscibtsgyr5frx2ampsua62l81an
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:26:34+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzMxNDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk5OTQsImlhdCI6MTUyMzIyNjM5NH0=.8cDLPgHmLpMBNAu7bYcKvfpWTA_sDd5NsJ2C6VCeH5iej-1PD5aHnb_12ybBkND-ubIgVCh6Nc4_VnwzGoiUTg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:26:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzMxNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxMTk0LCJpYXQiOjE1MjMyMjYzOTR9.KlYyS9jzJOYrkPcIjCNyWit733IN-TYpibl6Kq7igsgi7UJhRAlMz6y-G3fRRN5kSogRwAuMP7G2hMevPgZeRA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:26:33+00:00	login	j_katieim_7
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:26:33+00:00	name	j_katieim_7
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:26:33+00:00	last_login	2018-04-08T22:26:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:26:33+00:00	api_token	36e81f28db43eacfaab2152c66711ef4
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:26:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfa2F0aWVpbV83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3ODM5NCwiaWF0IjoxNTIzMjI2Mzk0LCJub25jZSI6Ik9HbkM1WW1FZ1BOVVZkSThxMnBwZDNsNm5yMF9Rb3BUakhnejFfeEFESlk9In0%3D.NoUvS-5yxzFpK18rdRkuG_17pAkZoSDlSjHD2rjlSyaGs8VXLb-33BwdGFR9G-VDyjmDYNx-bv8zMl8BaX63Ng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:26:29+00:00	twilight-user	{%22authToken%22:%220gfpuuvgaeg8irhokgr8btuylpt3rg%22%2C%22displayName%22:%22j_katieim_7%22%2C%22id%22:%22212833141%22%2C%22login%22:%22j_katieim_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

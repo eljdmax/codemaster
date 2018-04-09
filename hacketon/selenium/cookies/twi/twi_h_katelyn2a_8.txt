@@ -1,0 +1,13 @@
+#h_katelyn2a_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ID90Ak0X%2Bzy0LvCGX%2Fe7at8QbEj1aUyyx%2FDYVTS7Nzg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:26:08+00:00	unique_id	63b7472893b5e2fc
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:26:08+00:00	_twitch_session_id	3e622c2112b5279c950890eb658b2dd4
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:26:28+00:00	persistent	212833105%3A%3A18xc3n1tqqb5mqh26uol296zh3x7kq
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:26:27+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzMxMDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk5ODgsImlhdCI6MTUyMzIyNjM4OH0=.x6AxhaFMVoblgvT0c8SJdnuWnysr4N02ulY_BqFH8BdkS7mZx4yDv9VI_g-q9UvlgYFzbBXaokVV5JKfeLspmQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:26:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzMxMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxMTg4LCJpYXQiOjE1MjMyMjYzODh9.vw7YERTh0suswV9IGqzJ7-GFPJ2Bn6G5sKcYghOoYbzLsqbhPVUf1RJlnWek_M_2lkg_TNnPOibY8VpDH7DWiQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:26:28+00:00	login	h_katelyn2a_8
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:26:28+00:00	name	h_katelyn2a_8
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:26:28+00:00	last_login	2018-04-08T22:26:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:26:28+00:00	api_token	30a519f771854abce6c6ebb4cca32050
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:26:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfa2F0ZWx5bjJhXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc4Mzg4LCJpYXQiOjE1MjMyMjYzODgsIm5vbmNlIjoic0xYanF3VHF5ZHpJeEQydEdzajdydG8wY1hBWlZsUXoweFhXRjFEUWxxbz0ifQ%3D%3D._t13gk62ylfA5tPZkMkqnTftxGFKiq60UQY0_--HBp9VIPk1uZbMVIicbHhetkhzeqFWw0mloL5yqHQ75ftERQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:26:25+00:00	twilight-user	{%22authToken%22:%221g85qkzc69jn6hbu164w4ronk1dr7j%22%2C%22displayName%22:%22h_katelyn2a_8%22%2C%22id%22:%22212833105%22%2C%22login%22:%22h_katelyn2a_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

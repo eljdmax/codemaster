@@ -1,0 +1,12 @@
+#g_meganpa_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	y6SF1LUGKKbVHz162%2B7yRwPANmekx0OZy7I%2B6IpDK4c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:40:15+00:00	unique_id	0380e5472e2cd37c
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:40:32+00:00	persistent	212837423%3A%3A7yev891l9a3c7q10b4rxnsir4kme6e
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:40:33+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzc0MjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzA4MzMsImlhdCI6MTUyMzIyNzIzM30=.8zacYhSeI6ZlhRXb4SzYkEi7lg3VYEIqpbZTAHPcIc_AV6LfuWSHB6U9tsMi77iM0_mvKQYwTp-cSYUsr05nmg==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:40:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzc0MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyMDMzLCJpYXQiOjE1MjMyMjcyMzN9.yHaADBFgFfuncnAvq3UFBtVnnrFRBO0w9_CWFTEZ2RMjOFKpsIwC2bEgWhbBivy2d6s1XP3vsgwKPxCOzIPlhA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:40:32+00:00	login	g_meganpa_3
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:40:32+00:00	name	g_meganpa_3
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:40:32+00:00	last_login	2018-04-08T22:40:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:40:32+00:00	api_token	81193eb0973193bda68730b9b6753d76
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:40:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbWVnYW5wYV8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTIzMywiaWF0IjoxNTIzMjI3MjMzLCJub25jZSI6IkY0ZmJQVk1tNWt4TjFDejlhMjNLNXM5QnhaS3REbWJMLXgweE9Hd2s0cUU9In0%3D.k_f3MAVSh7FlRnjxEWqzNjqQv0ZsAJhdP-oqlACovMk4BPQCGIFv5sWYcIAcf-h4fcuPz1_7tFJM3AfvAxsEiQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:40:29+00:00	twilight-user	{%22authToken%22:%22ume33bljruyuyavk1hszkjwewq5a6p%22%2C%22displayName%22:%22g_meganpa_3%22%2C%22id%22:%22212837423%22%2C%22login%22:%22g_meganpa_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

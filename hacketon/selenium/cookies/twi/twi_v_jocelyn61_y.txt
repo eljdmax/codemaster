@@ -1,0 +1,13 @@
+#v_jocelyn61_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	k4c5ZERlkcsuG9mld6ZsO%2BlKsJPLNc0r8VfPsJVnnko%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:43:07+00:00	unique_id	9190d5def7b51b87
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:43:07+00:00	_twitch_session_id	067c8f694dd625fb907a8eaeb8527b1c
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:43:24+00:00	persistent	212838286%3A%3A9l2gshk6iukd119obtzf21l4ewzivk
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:43:25+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzgyODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzEwMDUsImlhdCI6MTUyMzIyNzQwNX0=.1zbMDRjEzDanaHlgGtOT4yUlYz2ENNy_khgRynaIIpRtkKAFDc8H2nXmcJDVIl98YntooEAjK_9gsnQshgNPOA==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:43:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzgyODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyMjA1LCJpYXQiOjE1MjMyMjc0MDV9.cD-bJBd-EFreH1UZHVPCsaMuRixzSN7XbSayZONyInFR32qPM7tGXDzSBTChMA-cWevBN6OBuCJpfhIo04k1xw==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:43:24+00:00	login	v_jocelyn61_y
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:43:24+00:00	name	v_jocelyn61_y
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:43:24+00:00	last_login	2018-04-08T22:43:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:43:24+00:00	api_token	e775c9d7c1337a9d646e5bb13b9b96ba
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:43:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfam9jZWx5bjYxX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4Nzc5NDA1LCJpYXQiOjE1MjMyMjc0MDUsIm5vbmNlIjoiSFNfZHlrRDVPcHo2TVk4dVk0WWJMNjRqemFONldHV2FwaTh0bTMwU01rWT0ifQ%3D%3D.1-4Xkuf0ys6TAcBz9lvnKwk9ZooM8_i1Uv2aP-MsYC7Ep9kke2LjXl3bfc_HH-6qPDkWoffuiNHr-0FTIKfesA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:43:20+00:00	twilight-user	{%22authToken%22:%22jyswgq9douwo022iw1ogx0a2356gv5%22%2C%22displayName%22:%22v_jocelyn61_y%22%2C%22id%22:%22212838286%22%2C%22login%22:%22v_jocelyn61_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

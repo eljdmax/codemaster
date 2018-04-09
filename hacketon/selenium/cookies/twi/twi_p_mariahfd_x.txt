@@ -1,0 +1,12 @@
+#p_mariahfd_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BWjR4nbT6ehhBmYsywSn0GOBzM19yoHhnaPzOx8TpRw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:30:26+00:00	unique_id	8fc0b376a242c429
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:30:43+00:00	persistent	212834401%3A%3Aiv7uiz86lqvbnbq3j4c608d8dlygz1
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:30:44+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzQ0MDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzAyNDQsImlhdCI6MTUyMzIyNjY0NH0=.jCUGSMG3VFKBPqJ_d_ZD8O_35Imsi05lqCuV4GZu2KO7WwQrmzwXT_c5rGmiMC_DDdIhdpR1H6qdi6RS0CwFEw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:30:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzQ0MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxNDQ0LCJpYXQiOjE1MjMyMjY2NDR9.wrfGAvvsqZf6Pj2XzbZ7ZQM_5SH55gzdVRMsMeILSbJCS4cGkFqAi6Zq7R_8QDAxAK_9nid1HjB2FExu--_jMA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:30:43+00:00	login	p_mariahfd_x
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:30:43+00:00	name	p_mariahfd_x
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:30:43+00:00	last_login	2018-04-08T22:30:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:30:43+00:00	api_token	d27efb90859f3c60d20bb85da55721e2
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:30:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbWFyaWFoZmRfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzg2NDQsImlhdCI6MTUyMzIyNjY0NCwibm9uY2UiOiJNeEFWY1YtcTkwbVQ1OWo2ZUhUdS0wbWJ0THk1TjFCS3l4eEcza2lJbElrPSJ9.CIZEZlbfOXwcFqB6EVbZdo6FNDliqJidoHeK00QDWY9LvJsnRzZjTH6-pIwD7jLKm-GsVZaSX9kt37m59a2OMA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:30:39+00:00	twilight-user	{%22authToken%22:%22blov29lpk3mk062rtgtbkiulz6cqjv%22%2C%22displayName%22:%22p_mariahfd_x%22%2C%22id%22:%22212834401%22%2C%22login%22:%22p_mariahfd_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

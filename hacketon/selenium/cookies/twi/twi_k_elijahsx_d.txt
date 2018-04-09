@@ -1,0 +1,12 @@
+#k_elijahsx_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	84J1PRCMKg6lCJFmgSWK3rFBLX6EqCK6y2vbrmOGQW4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:10:52+00:00	unique_id	4972a2b3d6cc541f
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:11:09+00:00	persistent	212828377%3A%3Agzp7lcoah5rnsvpwspycm7houu3k1g
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:11:09+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjgzNzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjkwNzAsImlhdCI6MTUyMzIyNTQ3MH0=.kowx4TzyALzuuAYldu7H6-ckxehKPsCyGrxKSZc6CSrwiBZX6VyOgEq6_pcoJmMCiHl18sqGJEpBbNHX0eFaDw==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:11:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjgzNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwMjcwLCJpYXQiOjE1MjMyMjU0NzB9._Sneix03MDnFcvunzM9wYx_MABMHIZebYYoz20rNiHD2KAFXz3SRW0OSxIXT_MTnCpaf8Uy_IJgnLvLZokyQRA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:11:09+00:00	login	k_elijahsx_d
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:11:09+00:00	name	k_elijahsx_d
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:11:09+00:00	last_login	2018-04-08T22:11:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:11:09+00:00	api_token	8cee05230c4ac0df6279872872f82f9c
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:11:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZWxpamFoc3hfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzc0NzAsImlhdCI6MTUyMzIyNTQ3MCwibm9uY2UiOiJfWlhxd3pHR3dMa3BjWnVZWkQwVWd4QThMajZvR2xtLU5YRHplSW5lU3BNPSJ9.flhqxG8mJXNdxTozs4myJA7Q76jwFHzLRaO4z0ky9llg3NDLJtDsEHitXf_dJxz33-rvPjYHVfFmT5uq44_nrA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:11:05+00:00	twilight-user	{%22authToken%22:%22c73tgic9jl6i93aq938ikwder4pwl0%22%2C%22displayName%22:%22k_elijahsx_d%22%2C%22id%22:%22212828377%22%2C%22login%22:%22k_elijahsx_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

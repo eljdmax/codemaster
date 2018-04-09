@@ -1,0 +1,13 @@
+#f_isaactp_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	m0sKCby87%2BFWMDZof8NXEb0d1d%2BSGQH9zdmpWLpNd04%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T21:48:51+00:00	unique_id	401aee6f635381da
+.twitch.tv	TRUE	/	TRUE	2018-04-09T09:48:51+00:00	_twitch_session_id	5a905ada87975dbe8f7afbe5f9290f91
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:49:05+00:00	persistent	212820977%3A%3Azapdh316kmbr13zbuai8roy7hwaolp
+.twitch.tv	TRUE	/	TRUE	2018-04-08T22:49:04+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjA5NzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjc3NDUsImlhdCI6MTUyMzIyNDE0NX0=.cX7RDBlBP2pqgCMOQbLpMzNpQ2qAn5fePnRRTt8BfDxW2CoedRbLcgzlBEluYWaGaI0OSRYER2tstWkeYXYlBQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T21:49:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MjA5NzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODI4OTQ1LCJpYXQiOjE1MjMyMjQxNDV9.5kORinFWq2eUbKcMefGEk2vhJNF_VUIt1PxtdlxJX9XSXlkSJBj8Lfws21tpe9lcgaxECyRv2fTNX0tLoYH4FA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:49:05+00:00	login	f_isaactp_4
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:49:05+00:00	name	f_isaactp_4
+.twitch.tv	TRUE	/	FALSE	2018-09-23T21:49:05+00:00	last_login	2018-04-08T21:49:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T21:49:05+00:00	api_token	dfba1e409ffaf0a4008f8adef936c519
+.twitch.tv	TRUE	/	TRUE	2018-10-05T21:49:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfaXNhYWN0cF80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3NjE0NSwiaWF0IjoxNTIzMjI0MTQ1LCJub25jZSI6IkMwek9uUURBNlREVG01YTZ5UGtiaExhRl9ZcGttOUVOQTduZmxrMmlDem89In0%3D.vW9HdFJ6yHzpCQ1EpO1W2O7ruXBM0TLA0EdjjOcOlGPHSFRX-t7UkdyQiGS5ZMGxHEt7dakOQIv2-_zNMA3XYw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T22:48:59+00:00	twilight-user	{%22authToken%22:%227dmp1943itzhgajlg9qrthnagsmasc%22%2C%22displayName%22:%22f_isaactp_4%22%2C%22id%22:%22212820977%22%2C%22login%22:%22f_isaactp_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

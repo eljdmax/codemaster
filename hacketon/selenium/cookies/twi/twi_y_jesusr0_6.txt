@@ -1,0 +1,12 @@
+#y_jesusr0_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SzO93ZpRaFHdkn1nkBLA2BHtfcACfSo%2FWMzKfcn232Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:21:53+00:00	unique_id	bd3a8adaa31fb402
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:22:14+00:00	persistent	212831828%3A%3Aascbyshspqrndwke01zdc5mw7jyn8m
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:22:13+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzE4MjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMjk3MzQsImlhdCI6MTUyMzIyNjEzNH0=.HOea4wLW-d2H-TT2zv3lTbecHG7JrOd6fkf-V2nnHy8Gamx78XMCtdOrn04KrQ7y28t7oObL03jUUvsrVhxm8A==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:22:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzE4MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMwOTM0LCJpYXQiOjE1MjMyMjYxMzR9.u-wNW3djlnPfCYc1zQ0Z0JmVU_TzQyxYYqcqBa2c9DzH_RVlndyGt31-zNlcNXg9S4O4wn6Pckyog6awn4j5DQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:22:14+00:00	login	y_jesusr0_6
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:22:14+00:00	name	y_jesusr0_6
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:22:14+00:00	last_login	2018-04-08T22:22:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:22:14+00:00	api_token	2635bceb564f4325fdc7201a07565ee1
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:22:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfamVzdXNyMF82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3ODEzNCwiaWF0IjoxNTIzMjI2MTM0LCJub25jZSI6IlZMOWNOclN0X29BMkxwdDEtYkhBZGZDVDF6MkZGT05acXRJdG9FajNORDg9In0%3D.BbRnCNJxME_iowXtR2MPXelXLinad1WycFwo-i2of0FX3fJAx53uLEqCpm9p2hwHmhAsB8XdRx_VDwqdNZJAwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:22:09+00:00	twilight-user	{%22authToken%22:%2261l0l2o0wz96o77jhhc3brpaakfnno%22%2C%22displayName%22:%22y_jesusr0_6%22%2C%22id%22:%22212831828%22%2C%22login%22:%22y_jesusr0_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

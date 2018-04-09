@@ -1,0 +1,13 @@
+#b_jasminet7_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ScKhXIUCyCEfu01kqAwUaFJjNKsyqmM7lwYGN3CGc4g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T23:05:34+00:00	unique_id	4b8603f3eea08722
+.twitch.tv	TRUE	/	TRUE	2018-04-09T11:05:34+00:00	_twitch_session_id	a3e6d093d4cd9c5b140492bcb3c48fa2
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:06:01+00:00	persistent	212844595%3A%3Ataxj6gzhzl6wjq253wz0idne9zjvkz
+.twitch.tv	TRUE	/	TRUE	2018-04-09T00:06:02+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDQ1OTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzIzNjIsImlhdCI6MTUyMzIyODc2Mn0=.X8PZ4GVIUF6x_dAQowtSNYBqIFYWoD53KV6npijXSwPx6vyGHlGC8c0b_BOcvdIjVjiol3l-ticJLJqPERfeZQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T23:06:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4NDQ1OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMzNTYyLCJpYXQiOjE1MjMyMjg3NjJ9.b4043TQHjxOewEXY3UrUgt5I_7e9RSPEio3b7F9PFNK0131gkzN56QrwUj-8PCQDBAAJPgdy3nwgqllTm38o4A==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:06:01+00:00	login	b_jasminet7_i
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:06:01+00:00	name	b_jasminet7_i
+.twitch.tv	TRUE	/	FALSE	2018-09-23T23:06:01+00:00	last_login	2018-04-08T23:06:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T23:06:01+00:00	api_token	72bda7558a5c24a0ba791500a4cf4eb5
+.twitch.tv	TRUE	/	TRUE	2018-10-05T23:06:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfamFzbWluZXQ3X2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4NzgwNzYyLCJpYXQiOjE1MjMyMjg3NjIsIm5vbmNlIjoidWFiVGMtVzZpTFVUeU1RaXRjRWUwTjZQUXh5aWhUV0l0UDN1WmxQX2ltcz0ifQ%3D%3D.mOhBzRyB_w61pqu5cvOJ3043NI94CtMxYTJlgC29vK8CrSikr2ovFcGRrPCoAqmnsweZCpJeur_lxMBdfYfKVw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T00:05:58+00:00	twilight-user	{%22authToken%22:%22wg07jkuw1eucvlyswn4y76rvfwqxrf%22%2C%22displayName%22:%22b_jasminet7_i%22%2C%22id%22:%22212844595%22%2C%22login%22:%22b_jasminet7_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

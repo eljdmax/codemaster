@@ -1,0 +1,12 @@
+#p_nicolesg_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yBVdrGoFys0q9iv8dMElB1UiBj%2Bro5VDs1qBu1IZTS0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:27:17+00:00	unique_id	b72bc48397062c36
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:27:31+00:00	persistent	212833433%3A%3Ag9aiz5soy3vahky42vutrmwzmo7i1c
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:27:30+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzM0MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzAwNTEsImlhdCI6MTUyMzIyNjQ1MX0=.1_f0saJPIMhe1e4ciCkJ0RG2YpQq3c2rvZvysPYQoct6pAYs0pr3wxKSMrTsak04j2WcCXMz3j-ioJfQmXH8IQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:27:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4MzM0MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMxMjUxLCJpYXQiOjE1MjMyMjY0NTF9.hUmpCbZayovyVfwlHh9BPswQaPZ5SNPJI3uL7A-dMI2JpwHFjwzhfXbxal6VW6O114HBsGXYSAtv2YQ5OHMwWA==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:27:31+00:00	login	p_nicolesg_q
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:27:31+00:00	name	p_nicolesg_q
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:27:31+00:00	last_login	2018-04-08T22:27:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:27:31+00:00	api_token	17eb60ed610796b798b9939ff9505480
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:27:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbmljb2xlc2dfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg3Nzg0NTEsImlhdCI6MTUyMzIyNjQ1MSwibm9uY2UiOiIzdkE1clhMRlhWS3FQWkNUdmNVcmRLYXFIMFJISGJVQVBuOE0zTTV5LXl3PSJ9.qqLszrO6OlMZQUmuv4BGo8QBrZrVA3PFmLvrtLPXmrIxKufDU4cenuwmOBiPxpCEt9g9q3ZHWdb47sMRXuq3GA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:27:25+00:00	twilight-user	{%22authToken%22:%22yth3tcjign6factxxdxnmyuk1gqq5s%22%2C%22displayName%22:%22p_nicolesg_q%22%2C%22id%22:%22212833433%22%2C%22login%22:%22p_nicolesg_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}

@@ -1,0 +1,13 @@
+#r_daisy0u_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ST4gdocvDXM7QgGvwbmlMKakE%2BY2v1SIWLe1%2BbPJs4I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-08T22:44:26+00:00	unique_id	8f390d7f96f67535
+.twitch.tv	TRUE	/	TRUE	2018-04-09T10:44:26+00:00	_twitch_session_id	6464f97872d96b1fcdb34709837f4950
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:44:44+00:00	persistent	212838674%3A%3Aeus570torfvs8fxphbrysd6j7n4o1c
+.twitch.tv	TRUE	/	TRUE	2018-04-08T23:44:43+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzg2NzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMyMzEwODQsImlhdCI6MTUyMzIyNzQ4NH0=.QXy6iOe8hDEHh9usekQMN3Kj8GmmioQwl9SqGnVvKccyyfggOI1T6w4sZ0vskBOMe_TDclf0yySS7K09Ejos6g==
+.twitch.tv	TRUE	/	TRUE	2018-04-15T22:44:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTI4Mzg2NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzODMyMjg0LCJpYXQiOjE1MjMyMjc0ODR9.qqemzEha6TOzsJwDYMgfuyqrLdYlWBC2ERgWVNgdemzJyH2ntcGoOrJvFmLQ-eYeC5-S-wdSq0e3_n11eijtPg==
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:44:44+00:00	login	r_daisy0u_v
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:44:44+00:00	name	r_daisy0u_v
+.twitch.tv	TRUE	/	FALSE	2018-09-23T22:44:44+00:00	last_login	2018-04-08T22:44:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-23T22:44:44+00:00	api_token	47634a24b121f12b6db5f6d782e5a30d
+.twitch.tv	TRUE	/	TRUE	2018-10-05T22:44:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZGFpc3kwdV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzODc3OTQ4NCwiaWF0IjoxNTIzMjI3NDg0LCJub25jZSI6Ii1ob3lpLUhJblZIMEdJMF9fVzJGdXZpR0NaT0NXa2pCRUlKN3RUU2I3YUU9In0%3D.AmBT_F46v60DL37Vq4qOzwBXBQsSSA1xKCGuWMBLSJxoAwxmlPD23k3ZMvoT1Go3X8IeN4EF63G8P9gOwfX5rg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-08T23:44:40+00:00	twilight-user	{%22authToken%22:%22eudopmwj71jejumbag1joivlgp4mr0%22%2C%22displayName%22:%22r_daisy0u_v%22%2C%22id%22:%22212838674%22%2C%22login%22:%22r_daisy0u_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
