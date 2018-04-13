@@ -1,0 +1,13 @@
+#JitkaVokurkova
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bG%2B9a1K9xiibS1UcmVqTUaeOROrAYeqJnwi4ulDvNBU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:35:41+00:00	unique_id	93a3f5104baa4bee
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:35:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:36:12+00:00	persistent	213831029%3A%3Awj98pmvhebm9ae61q1krvbawz9pvav
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:36:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzEwMjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNzcyLCJpYXQiOjE1MjM1Njg5NzJ9.VXOG_HUs0NTNgSsU8geuTClkN4gqit9Wu3pIgIe4iG7ECMwNgPLyAxIcWU7VZlV34AKSzP3MkYDy6lecQiNI0A==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:36:12+00:00	login	jitkavokurkova
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:36:12+00:00	name	jitkavokurkova
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:36:12+00:00	last_login	2018-04-12T21:36:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:36:12+00:00	api_token	35f9a498d64a70e2dc1750ad47a47c7b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:36:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImppdGthdm9rdXJrb3ZhIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDk3MiwiaWF0IjoxNTIzNTY4OTcyLCJub25jZSI6IkhpX0lyemRxZmk0VGhmdFRzQTIzT21naUg4MTgyVl9hT2ZtMDJpNWoweFU9In0%3D.UfyjeYE3EPjBfjzi2ikK8s3CsFGjjWbujplUpvR5JtQFq6BOXd03Ma8Q6nN4MAVYFR_I1vCok1pTvb6EcgS1nA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:36:26+00:00	twilight-user	{%22authToken%22:%22u88996kdq1keqcun6ypt3xy78eabwz%22%2C%22displayName%22:%22jitkavokurkova%22%2C%22id%22:%22213831029%22%2C%22login%22:%22jitkavokurkova%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:36:26+00:00	auth-token	u88996kdq1keqcun6ypt3xy78eabwz

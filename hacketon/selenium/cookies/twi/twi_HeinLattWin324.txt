@@ -1,0 +1,14 @@
+#HeinLattWin324
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	v1K23DMb7jtNAG9D%2Bt3VgiUu7aBd4FLN3aeWhsJd9Rw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:42:23+00:00	unique_id	6e110610d439c31a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:42:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:42:48+00:00	persistent	213832517%3A%3Avuhsturrnnwjptw7jza398l2z1dsx0
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:42:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzI1MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MTY5LCJpYXQiOjE1MjM1NjkzNjl9.u1iaJOzc7BY5ZlD_-_jvgzpB3_ePLYwyrd9Uz-PehBUvaFw1I1RVxdCo0GAIC3e3Q-x7iFgp5ukn4Nd6D6_55w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:42:48+00:00	login	heinlattwin324
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:42:48+00:00	name	heinlattwin324
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:42:48+00:00	last_login	2018-04-12T21:42:49Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:42:48+00:00	api_token	620b7b796ad7300bb0322a0709b37fcb
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:42:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhlaW5sYXR0d2luMzI0IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMTM2OSwiaWF0IjoxNTIzNTY5MzY5LCJub25jZSI6Ilhhb2UwaW1rM0JLVUFIWW90b3hJYks0TUdZWlNfTTAxSDRyOG9lb2U5UWM9In0%3D.iDxJ5ys70rPKcWyzn6cdcpBX-dL_dLCkmNnglwjlzHrmyhbuIU1OqfZCy2LmZ6lPeHkD1NVU6bFT65xV_OuExA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:43:04+00:00	twilight-user	{%22authToken%22:%220jm5joo82ilmivwo8gvi9socfceuft%22%2C%22displayName%22:%22heinlattwin324%22%2C%22id%22:%22213832517%22%2C%22login%22:%22heinlattwin324%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:43:04+00:00	auth-token	0jm5joo82ilmivwo8gvi9socfceuft
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:43:05+00:00	twilight_onboarding	true

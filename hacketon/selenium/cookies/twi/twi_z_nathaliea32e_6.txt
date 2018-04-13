@@ -1,0 +1,15 @@
+#z_nathaliea32e_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7gP%2Fg2Hu4jJbvlHqICx4%2FtopF%2FvsuSQzSHm0LMrV6zk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:37:23+00:00	unique_id	4fb5716e5a8c4c09
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:37:23+00:00	_twitch_session_id	bdc04cc3fd004030148300715b222048
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:37:41+00:00	persistent	213092098%3A%3Azggmzblzr4elp1x1i449u6ls7me0po
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:37:41+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTIwOTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTcwNjIsImlhdCI6MTUyMzMxMzQ2Mn0=.Zi6TNSDorwhlWfl4zBQQkDbyyzUHoVpXb1nmCWM5zH_tDdFXlqYd7pQ6e7QnlHux_K5sE-pREw2Zz4sFCtxN9g==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:37:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTIwOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4MjYyLCJpYXQiOjE1MjMzMTM0NjJ9.fppTqdcfPy6vlOrakWaymLpIZbg78gfo7CQ5VGIHmq1J0nvqLG8rVnBpL99iGorIzRocgndrMG43D0P7bgu64Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:37:41+00:00	login	z_nathaliea32e_6
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:37:41+00:00	name	z_nathaliea32e_6
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:37:41+00:00	last_login	2018-04-09T22:37:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:37:41+00:00	api_token	1da6102c038ba81d6768eb7826112526
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:37:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbmF0aGFsaWVhMzJlXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4ODY1NDYyLCJpYXQiOjE1MjMzMTM0NjIsIm5vbmNlIjoiNkl2ZDdKVGlMTUdoV1U2LTNaRkpWekRUbEZqQ2RrR2ZDMFRYZTZGWllDcz0ifQ%3D%3D.78czcdtYOb49TvtW4cMr_g3u6aqiHEfcZdHmqohk6NQkyfPLCvmc6vurI1HYlmqjnvXN1An2qchIJhFlM3KcmA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:37:41+00:00	twilight-user	{%22authToken%22:%22awiz9odgqv23xc35oqm68wfnj6mkm1%22%2C%22displayName%22:%22z_nathaliea32e_6%22%2C%22id%22:%22213092098%22%2C%22login%22:%22z_nathaliea32e_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:37:41+00:00	auth-token	awiz9odgqv23xc35oqm68wfnj6mkm1
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:37:45+00:00	twilight_onboarding	true

@@ -1,0 +1,14 @@
+#x_martiala392_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bMFvEcD6wf2MV7uPyYVkwcgGlzMRrh0PJO61VonLiOg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:22:30+00:00	unique_id	dfae104b51afabd3
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:22:30+00:00	_twitch_session_id	0bca15b50d031d198ad5a26dbf7d77d8
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:22:46+00:00	persistent	213088764%3A%3Aupp6n4ftd27p6ez11ql7jfi5gs7f1a
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:22:45+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODg3NjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTYxNjYsImlhdCI6MTUyMzMxMjU2Nn0=.g2xrMoh-5SOboqFcEoGBMfG-6cJGXiXApFN_UToTcoXBLIbiyN4i785wtb_MIQXh9dzAKps9V7K1Yzzv5HDpTA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:22:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODg3NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE3MzY2LCJpYXQiOjE1MjMzMTI1NjZ9.khkjX99CsS0i7QiBjnzQ4OMKvMKTmldGrd75iRdJXVkbY5SvBPciGpIU1BJSjr7TIgx6qyObSIo7hVT8PW4BYw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:22:46+00:00	login	x_martiala392_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:22:46+00:00	name	x_martiala392_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:22:46+00:00	last_login	2018-04-09T22:22:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:22:46+00:00	api_token	04e385e0b443bd90f84fa82b633e528f
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:22:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbWFydGlhbGEzOTJfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQ1NjYsImlhdCI6MTUyMzMxMjU2Niwibm9uY2UiOiJXNnRaUVlZQ3pndnZBVFlaQ3JYdG9ycVo2V3dTazVkbk1ZdTQwYjZnSDF3PSJ9.yEdo6DeBD5iE3HtoYjwAmtvffy6x8dOlTU7TNHa_wiziBGkiAYDy-ePye5x_NSyYPsDOZKTG_Nqz1_1l9PvXfQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:22:45+00:00	twilight-user	{%22authToken%22:%22mcbmacfbfilpjql1i039qc8p6fh5yk%22%2C%22displayName%22:%22x_martiala392_9%22%2C%22id%22:%22213088764%22%2C%22login%22:%22x_martiala392_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:22:45+00:00	auth-token	mcbmacfbfilpjql1i039qc8p6fh5yk

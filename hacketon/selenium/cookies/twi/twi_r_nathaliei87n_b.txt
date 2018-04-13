@@ -1,0 +1,13 @@
+#r_nathaliei87n_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fZ2wkPYBs%2FHqrE7MgvHVLyidCeiFrAJMPdFwEgGGp%2B8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:15:59+00:00	unique_id	72e8b07be4e4bb3c
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:15:59+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:16:16+00:00	persistent	213500880%3A%3Atwwp0sk7ranh3bit28ttpbk90j3wjv
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:16:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDA4ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzNzc3LCJpYXQiOjE1MjM0NDg5Nzd9.o64wvawWpsDD8O2IhFqY9gPQYr5wStpLwwxOcBbOFaXlL32HdO7gwjE-AGn-UK2jK8qjNfLsB7i_d7mBCmqhng==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:16:16+00:00	login	r_nathaliei87n_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:16:16+00:00	name	r_nathaliei87n_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:16:16+00:00	last_login	2018-04-11T12:16:17Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:16:16+00:00	api_token	edb57234fc0f623d34f0259abe5397c3
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:16:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbmF0aGFsaWVpODduX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDAwOTc3LCJpYXQiOjE1MjM0NDg5NzcsIm5vbmNlIjoiam9KMzZFdkVCUjJFLWlCR3NseUlHSjBhSGY5WkJadnBqM3NYcVJqZGttaz0ifQ%3D%3D.mUvjDe38FlUjQ-vtf7AF6uZMea0s3qFnI8pkt5n0Ez_6lUx9xaUISaXuj_QQbLs6Yx-KPuOA7Xt8RGshsfe8cw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:16:23+00:00	twilight-user	{%22authToken%22:%22od10k735evbcn3eujhdctcal12fsg5%22%2C%22displayName%22:%22r_nathaliei87n_b%22%2C%22id%22:%22213500880%22%2C%22login%22:%22r_nathaliei87n_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:16:23+00:00	auth-token	od10k735evbcn3eujhdctcal12fsg5

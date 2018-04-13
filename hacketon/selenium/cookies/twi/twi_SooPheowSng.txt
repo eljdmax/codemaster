@@ -1,0 +1,14 @@
+#SooPheowSng
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bsd%2FD3ZAN6aYX3E7y990yAHQCCqJVK6dfn4v%2BZ%2FD7%2BI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:18:36+00:00	unique_id	e6c2ea06a9062c39
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:18:36+00:00	_twitch_session_id	abdfda15c2e33bad2277a66152f0b839
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:18:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:18:58+00:00	persistent	213827154%3A%3Az5ybrqzeshfnlhoyz3c5esyp5n5jyh
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:18:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjcxNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyNzM4LCJpYXQiOjE1MjM1Njc5Mzh9.e5gwvs9_uze73POwHF3uaFnSkumw7BdhrMmJ8HJY2NoPDbXnSwb3cbeBqDT7tSSM-o9S5U-MMjmVtO-8gVNNdg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:18:58+00:00	login	soopheowsng
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:18:58+00:00	name	soopheowsng
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:18:58+00:00	last_login	2018-04-12T21:18:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:18:58+00:00	api_token	672d9ae5bf3738494f26ec69c98e596a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:18:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNvb3BoZW93c25nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExOTkzOCwiaWF0IjoxNTIzNTY3OTM4LCJub25jZSI6IkJfSlBmc0tpelNIdGlnOWxUdHNCV0FKM3hjQmZ0TUFZYUZfSk1uY0RfanM9In0%3D.yfY3-jISwOeA1K5OPnAP3C2HZutmhnBzCpLitMyvic0LEG3fmvWBFmLPY_82NHAirVWO8OWe1jv2yKITZOFtkg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:19:12+00:00	twilight-user	{%22authToken%22:%22lrd5uqeq8tnhl52wcj5n2fsi43441w%22%2C%22displayName%22:%22soopheowsng%22%2C%22id%22:%22213827154%22%2C%22login%22:%22soopheowsng%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:19:12+00:00	auth-token	lrd5uqeq8tnhl52wcj5n2fsi43441w

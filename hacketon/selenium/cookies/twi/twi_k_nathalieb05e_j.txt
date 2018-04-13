@@ -1,0 +1,12 @@
+#k_nathalieb05e_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q6xcN%2BdHvdeS9cJWM59WGicTIaf50xrfx6f%2FOVYcILE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T16:09:23+00:00	unique_id	62bb9194db35a3bb
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:09:39+00:00	persistent	213288843%3A%3A1ki87rht8zwkui1zc84onzyuklwf2x
+.twitch.tv	TRUE	/	TRUE	2018-04-17T16:09:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODg4NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgxMzgwLCJpYXQiOjE1MjMzNzY1ODB9.QHmxRYRBeVKk60aozP1Q0d6mKHDJCRm3C_lP_DV44z4dYL7bJtD81jBAqcEz6uNPgtfFvqvSAR44QCzDH_HoBA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:09:39+00:00	login	k_nathalieb05e_j
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:09:39+00:00	name	k_nathalieb05e_j
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:09:39+00:00	last_login	2018-04-10T16:09:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:09:39+00:00	api_token	7950e22ef9d4872edd6d28c0c4285ab2
+.twitch.tv	TRUE	/	TRUE	2018-10-07T16:09:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0aGFsaWViMDVlX2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI4NTgwLCJpYXQiOjE1MjMzNzY1ODAsIm5vbmNlIjoiU2Z2cW5YWk1YODRCbXNzQnNnTmRYVGYzM09IWk91MDBrTnhyQ0pMY3l1cz0ifQ%3D%3D.gtMylJfug-GkI85dxcg46-oCRuoQE271jSpE99wNAbZe7tdCrXEvcdfxqpWOYVJ1Y4RL5kuHN4WBl76cB5a6yw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:09:43+00:00	twilight-user	{%22authToken%22:%22nifde5wht4arrcdzk4twqfh44ml0p3%22%2C%22displayName%22:%22k_nathalieb05e_j%22%2C%22id%22:%22213288843%22%2C%22login%22:%22k_nathalieb05e_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:09:43+00:00	auth-token	nifde5wht4arrcdzk4twqfh44ml0p3

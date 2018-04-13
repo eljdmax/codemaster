@@ -1,0 +1,14 @@
+#SaiKrishnaVittal
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GGqpq%2F%2BTmhFy24z1Nlwaqe0FRJpO1v20JdWKeW%2FMGc8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:34:13+00:00	unique_id	72f91572ab515b22
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:34:13+00:00	_twitch_session_id	b3c0cb565d35ff97267a0524f18b63f7
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:34:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:34:50+00:00	persistent	213830744%3A%3Agqo9t5ayqwdcay5calm3vuury46crh
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:34:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzA3NDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNjkwLCJpYXQiOjE1MjM1Njg4OTB9.VfG01DG1WK5zDMKJgifWftzlca0FD4inD1oyrD9y20wbR058dgXl2F_K0aEeSTMbgRVfQnmwYfmLyqJN-E0WTQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:34:50+00:00	login	saikrishnavittal
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:34:50+00:00	name	saikrishnavittal
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:34:50+00:00	last_login	2018-04-12T21:34:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:34:50+00:00	api_token	f27e7bf78dfe76e0782ad23780871d37
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:34:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNhaWtyaXNobmF2aXR0YWwiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIwODkwLCJpYXQiOjE1MjM1Njg4OTAsIm5vbmNlIjoibjB4RDlyS01mWnhuQ185bTYyTXo5N3ZSWTdYbGVGT2pwMXFHYk83Skh4WT0ifQ%3D%3D.IqX8iOpMyVUst8FRtI8aPXtAz74vBO3tmSbVfgl3meispvBFU1VGPH0kg2GPRgl75f2U2DiQg27m3U1xWx1Dig%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:35:03+00:00	twilight-user	{%22authToken%22:%22f1ktoos27zgtmgs4njcqahkky8ao8t%22%2C%22displayName%22:%22saikrishnavittal%22%2C%22id%22:%22213830744%22%2C%22login%22:%22saikrishnavittal%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:35:03+00:00	auth-token	f1ktoos27zgtmgs4njcqahkky8ao8t

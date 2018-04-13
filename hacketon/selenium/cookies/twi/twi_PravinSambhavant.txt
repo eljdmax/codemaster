@@ -1,0 +1,13 @@
+#PravinSambhavant
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gLycF3hSWaWYjn7ZjFzf5WHgmC8is3SuH9VsqgrB5qw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:22:41+00:00	unique_id	224a7688093b9318
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:22:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:23:12+00:00	persistent	213828078%3A%3Aksh2qzlpiplknbnfrz98lmxqa2fubx
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:23:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjgwNzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyOTkyLCJpYXQiOjE1MjM1NjgxOTJ9.PGZw8u-B9tLLEqXVHj2-fd9bMZlRZfD15I5HUDMlQ10uLa18G_giwo_TV14D7Q12xDosAj1Y901inOaoYad1bA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:23:12+00:00	login	pravinsambhavant
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:23:12+00:00	name	pravinsambhavant
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:23:12+00:00	last_login	2018-04-12T21:23:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:23:12+00:00	api_token	504869b928480692405511d1f53ad3ed
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:23:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InByYXZpbnNhbWJoYXZhbnQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIwMTkyLCJpYXQiOjE1MjM1NjgxOTIsIm5vbmNlIjoiSG5obEduUHBsMHJ0dEpNV1A5bVl4c1FlN2U4OW1ESmRqQWhqaF9lMjNkQT0ifQ%3D%3D.SV_zpS5asSRmNfEQ8uwTTWl-OzgrPhXGqLwSH95boNcDMvpa3tZhFRRXLujz_cmFzRo9H8c_aHvmcXl_E9InjA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:23:25+00:00	twilight-user	{%22authToken%22:%22a96xzr8lsgajulp8av333whopy1ckg%22%2C%22displayName%22:%22pravinsambhavant%22%2C%22id%22:%22213828078%22%2C%22login%22:%22pravinsambhavant%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:23:25+00:00	auth-token	a96xzr8lsgajulp8av333whopy1ckg

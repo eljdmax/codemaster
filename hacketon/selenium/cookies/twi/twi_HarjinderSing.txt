@@ -1,0 +1,15 @@
+#HarjinderSing
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PwD9KWZAeN8qzPsPxFypFeV9ChjCiLHpJZfvO2Ok7Us%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:03:42+00:00	unique_id	5fc262c56ac8a857
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:03:42+00:00	_twitch_session_id	8fa4922a379de48f439344b4dedca414
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:03:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:04:13+00:00	persistent	213824262%3A%3Ajjhmdwz2ua8zsd6uuwvfw0s4ejfv7m
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:04:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjQyNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxODUzLCJpYXQiOjE1MjM1NjcwNTN9.ORtTCcM1P66y6VnHSgqLx5GQsVLgqT6A6UKIm6YPX_jq69rK5AGU9x2M9CEecSBSH70nKEJapPKAEZgQ-6J6hA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:04:13+00:00	login	harjindersing
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:04:13+00:00	name	harjindersing
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:04:13+00:00	last_login	2018-04-12T21:04:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:04:13+00:00	api_token	99171e2ba9bf6ecad3dedfbe2cd6a33c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:04:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhhcmppbmRlcnNpbmciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE5MDUzLCJpYXQiOjE1MjM1NjcwNTMsIm5vbmNlIjoic1FzcjlSZWNmZkg2RURYWU5rYlo0V3JUZHdPbmpEWGtjeUJpWWFTUkc4dz0ifQ%3D%3D.16dbiALQVYLVVjdsmm5cX_5mjwJ1GQldjVPfarzNN2rHZwtPJX3kFez8UR7poKerCXioVPHTOHafYIHuBuMM5A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:04:26+00:00	twilight-user	{%22authToken%22:%22czkqoquloi9vin1211fb4ur1mqiqwi%22%2C%22displayName%22:%22harjindersing%22%2C%22id%22:%22213824262%22%2C%22login%22:%22harjindersing%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:04:26+00:00	auth-token	czkqoquloi9vin1211fb4ur1mqiqwi
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:04:27+00:00	twilight_onboarding	true

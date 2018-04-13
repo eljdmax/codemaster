@@ -1,0 +1,13 @@
+#k_patricko750_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	N6UkS6OfNnUSOVbMpDGu9qbhjZgZJBXoCtPl3LfDe08%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:31:40+00:00	unique_id	3fbf385a9ec6dead
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:31:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:32:07+00:00	persistent	213502963%3A%3Aj0p2umauf5bf7ky2lcj6sz7qb5imxi
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:32:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDI5NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0NzI4LCJpYXQiOjE1MjM0NDk5Mjh9.a5myZz4UDRMM6tg6cZXTITE1jBAso2qF4-RecQs80-lMD4o3zL1KDY6mMAKOerW8R5afUQUHUth9MzDzb-Zhzw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:32:07+00:00	login	k_patricko750_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:32:07+00:00	name	k_patricko750_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:32:07+00:00	last_login	2018-04-11T12:32:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:32:07+00:00	api_token	bc58adef1615a51b37e4d365c3ee1f57
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:32:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcGF0cmlja283NTBfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDE5MjgsImlhdCI6MTUyMzQ0OTkyOCwibm9uY2UiOiIzS0hmb2RHNjNyR2UyTHMyMGFvazczV2NFdnY0cnFRSGtoMWhFdHZaLVc4PSJ9.3Fd2u2EnHL1Tae0oiW4Mv0M0kVw0GLBTboUkguP-ncZWZzKeJ7y_-fFRRyFDXY7finWGI7DudapOQmrS-y3DhA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:32:16+00:00	twilight-user	{%22authToken%22:%228mttsif3p8dc2gd44jo0odbmgw0ty6%22%2C%22displayName%22:%22k_patricko750_5%22%2C%22id%22:%22213502963%22%2C%22login%22:%22k_patricko750_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:32:16+00:00	auth-token	8mttsif3p8dc2gd44jo0odbmgw0ty6

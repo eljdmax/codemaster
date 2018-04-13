@@ -1,0 +1,12 @@
+#w_natashad304_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Y2ZCA590EcDtzfcb3F%2BapEfDBPteaZuTTb%2FsZVhyU1U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:12:52+00:00	unique_id	0a3fd9aa40e267c1
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:13:11+00:00	persistent	213262684%3A%3Akwd12uhrq2qxqeephfwunrd802zxjg
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:13:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjI2ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc0MzkyLCJpYXQiOjE1MjMzNjk1OTJ9.OEmG-Q1dANY4kpb5ptsvv8PFhehXpBIrjLCtkpk2ottePeQoEoroqqxjkv642Cynjrld-wJnA9AtXRK5WHosFA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:13:11+00:00	login	w_natashad304_b
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:13:11+00:00	name	w_natashad304_b
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:13:11+00:00	last_login	2018-04-10T14:13:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:13:11+00:00	api_token	3c38d3fa895d790d337c268e85316d32
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:13:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbmF0YXNoYWQzMDRfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjE1OTIsImlhdCI6MTUyMzM2OTU5Miwibm9uY2UiOiJvNGVkbThvTVNFMl9SV3ZsUDFBZkJsOEVDbmExQXZSRmZrMTVJRkx1QTVzPSJ9.nomPUAEC-peB5dB6bzjXRgwqfnkafkOFcClhMNhB-29ODu0BlCdZKXktFli154l3dRR7MxeF0DrGhNydWnZFtw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:13:15+00:00	twilight-user	{%22authToken%22:%22sa74wfown5oyyzqy6z80spkdihm6ge%22%2C%22displayName%22:%22w_natashad304_b%22%2C%22id%22:%22213262684%22%2C%22login%22:%22w_natashad304_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:13:15+00:00	auth-token	sa74wfown5oyyzqy6z80spkdihm6ge

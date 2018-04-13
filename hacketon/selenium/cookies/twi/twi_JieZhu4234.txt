@@ -1,0 +1,14 @@
+#JieZhu4234
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yQ1SW0CzRlhhWpQ2OYplWbg2JHjEf1VrK13ZO4m%2B%2BIs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:56:11+00:00	unique_id	0a1256b35e50af01
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:56:11+00:00	_twitch_session_id	be5885b90a04232aa8f75ba99ebc7806
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:56:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:56:34+00:00	persistent	213835540%3A%3Aanyx1qdam8muvs45mtnus1t4q1j6v8
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:56:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzU1NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0OTk1LCJpYXQiOjE1MjM1NzAxOTV9.FavgCkOYyrvgbe1DeGz5WjaMK-2RYNJCH-zS7wtkt5myLxjTkEtnypTShvlHfMEy84aEVhv_ibBrHElzALsCXQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:56:34+00:00	login	jiezhu4234
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:56:34+00:00	name	jiezhu4234
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:56:34+00:00	last_login	2018-04-12T21:56:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:56:34+00:00	api_token	df6c89adc1dc4be2970391914ac0362a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:56:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImppZXpodTQyMzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIyMTk1LCJpYXQiOjE1MjM1NzAxOTUsIm5vbmNlIjoiejBBeFBzVkphaVZpMlNSck1fTU1BN1ZHOGpXT2JwTmd4VmlEZHN6SFBfZz0ifQ%3D%3D._l8cs92sAdLn-gL3ffZmx3NQQDXVAY53rxXL3QyL5eYiVJO7LUN5V6-Lk4svzaNvJBNTNywNKebQOz7Z3y4BeQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:56:51+00:00	twilight-user	{%22authToken%22:%2297mllu9xsqire8ylt21ei1u0lsv4et%22%2C%22displayName%22:%22jiezhu4234%22%2C%22id%22:%22213835540%22%2C%22login%22:%22jiezhu4234%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:56:51+00:00	auth-token	97mllu9xsqire8ylt21ei1u0lsv4et

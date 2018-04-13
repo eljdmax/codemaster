@@ -1,0 +1,13 @@
+#d_nathalied808_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hpiF6EAhuZ7LmY2ro3SGg6HyQGXbGDre%2FAUsXdkFdjo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:06:39+00:00	unique_id	2864447d7064f5fa
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:06:39+00:00	_twitch_session_id	f38a621e3ae4ad95008b44b3117e24f9
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:06:53+00:00	persistent	213261367%3A%3Agkfastz12kyz8obte58qjzoq20hgjp
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:06:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjEzNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc0MDE0LCJpYXQiOjE1MjMzNjkyMTR9.qkzTk82QzD6GDT26SQw0KXJHfplYFdXxU_-GvT0ABFheqqkAzpAc4GGt8A-7k4inFOA3Yg0RvfgXG9EtUn2fbQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:06:53+00:00	login	d_nathalied808_7
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:06:53+00:00	name	d_nathalied808_7
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:06:53+00:00	last_login	2018-04-10T14:06:54Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:06:53+00:00	api_token	3366a2eefa62ac5075bb3e859d383e8d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:06:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbmF0aGFsaWVkODA4XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIxMjE0LCJpYXQiOjE1MjMzNjkyMTQsIm5vbmNlIjoiVkZyS09mMU1LUGgxX1hFekdodElnLWV0UlhjVjU2TTcyd1Vra0JYSkVfOD0ifQ%3D%3D.18M_OAN8LbVhk9B6OMtMOb0s8eq6SiNP6hTIyId7Q-_7zAz8aN817dDvuGb7OojJb0AL08un_nmcRlO6t29Y_w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:06:56+00:00	twilight-user	{%22authToken%22:%22g66w0mhdpayack31v8x0gksr17fznk%22%2C%22displayName%22:%22d_nathalied808_7%22%2C%22id%22:%22213261367%22%2C%22login%22:%22d_nathalied808_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:06:56+00:00	auth-token	g66w0mhdpayack31v8x0gksr17fznk

@@ -1,0 +1,14 @@
+#AgustinEriler
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RYV1KZIa4LcDjJoayJzWlTEqLE6ZaqloahdroyjZv%2FY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:44:57+00:00	unique_id	3f4c8d29e3501c1f
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:44:57+00:00	_twitch_session_id	59acbc627609efa05436021ffb9e359d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:44:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:45:19+00:00	persistent	213833061%3A%3A5mmjrlmg3gjd9e8sjxl6r2zo48esk5
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:45:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzMwNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MzIwLCJpYXQiOjE1MjM1Njk1MjB9.9j1plEU8yNf-n8hrhPf0Z-yymkuYqSsAO6m1Uty3ubSAiKuDe3Fme5EUJd8iM-Xpk3CmlV-2bDQJixbIF2S5kg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:45:19+00:00	login	agustineriler
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:45:19+00:00	name	agustineriler
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:45:19+00:00	last_login	2018-04-12T21:45:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:45:19+00:00	api_token	66e387ad825c609915a1329691654ad0
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:45:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFndXN0aW5lcmlsZXIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIxNTIwLCJpYXQiOjE1MjM1Njk1MjAsIm5vbmNlIjoiZy1VcElKcWpvTnY2WVFDY2gxc3BTZkVRTTVSMF9jcmlMTFB0bllnMHZtcz0ifQ%3D%3D.9tvQrSv4Y-tEmC7bGmNRfZNw-K8NE-Q1uU7f-XyZowkcEUoqFF5oX15YowrT_Noe_AHc_hL4dn006JtGBJ_s9A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:45:32+00:00	twilight-user	{%22authToken%22:%2285hgo1vs7etwu9ttdqbif59an3w6vj%22%2C%22displayName%22:%22agustineriler%22%2C%22id%22:%22213833061%22%2C%22login%22:%22agustineriler%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:45:32+00:00	auth-token	85hgo1vs7etwu9ttdqbif59an3w6vj

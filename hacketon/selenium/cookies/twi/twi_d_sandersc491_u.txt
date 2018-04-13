@@ -1,0 +1,13 @@
+#d_sandersc491_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qjwicEqRaLIiFeF940YWHDf1io3JGM%2BBqE9gjDEw8tY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T10:19:08+00:00	unique_id	56a8a496ef4cfa0b
+.twitch.tv	TRUE	/	TRUE	2018-04-10T22:19:08+00:00	_twitch_session_id	94d6dd46f806c033aba0e0d3563b1311
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:19:43+00:00	persistent	213224128%3A%3A6k4nykdd6cy1nti4i7zykrz3jukcah
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:19:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjQxMjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTYwMzg0LCJpYXQiOjE1MjMzNTU1ODR9.9Afp2lHnFpnTnNNB799FpYbfyZ2M9c982V_QLKkZtn5esBeYyD77g5EZDlo0R1odzkaBOtMc6j5xPNqTK2ZhXw==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:19:43+00:00	login	d_sandersc491_u
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:19:43+00:00	name	d_sandersc491_u
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:19:43+00:00	last_login	2018-04-10T10:19:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:19:43+00:00	api_token	76542a21607efb64f2a6a886e122611b
+.twitch.tv	TRUE	/	TRUE	2018-10-07T10:19:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfc2FuZGVyc2M0OTFfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDc1ODQsImlhdCI6MTUyMzM1NTU4NCwibm9uY2UiOiJiV05pbUdHZGp5NXVra3ZRNUVMS2l3cDJNRlZMYmxNTDIyNURtU2hiT2tjPSJ9.Hcaj4Mw80UYyBdQRW-SX6zXRnTxoYc6BAahMlQ2ytiUMMjwmrpHkWpAOjcRRtsphLLRPl09-fyFVyhVCOB3Nng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:19:47+00:00	twilight-user	{%22authToken%22:%2295wj5358mfrspbp40e7qqbdluoftsv%22%2C%22displayName%22:%22d_sandersc491_u%22%2C%22id%22:%22213224128%22%2C%22login%22:%22d_sandersc491_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:19:47+00:00	auth-token	95wj5358mfrspbp40e7qqbdluoftsv

@@ -1,0 +1,13 @@
+#p_natasham67q_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gUJXbh7HGivkQUELr%2B2%2BZ%2BKYaEopYocPiCd%2F%2Bzd%2F7yU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:38:36+00:00	unique_id	b2aa95c4cb1fe1e6
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:38:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:38:55+00:00	persistent	213523838%3A%3Abmepvmlsw87ujmsyxccungdh1x8cdy
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:38:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjM4MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyMzM1LCJpYXQiOjE1MjM0NTc1MzV9.oaFPmTtIRgQHF-zT9RgjOB1SpkzMcRr3_BwiobXiabLxZxfMHM6A6SQqTLfdMgcCHytTwxKIpD5Gd0WxTDewVg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:38:55+00:00	login	p_natasham67q_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:38:55+00:00	name	p_natasham67q_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:38:55+00:00	last_login	2018-04-11T14:38:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:38:55+00:00	api_token	1966ee781560b086a8a309f3af6012d5
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:38:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbmF0YXNoYW02N3FfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDk1MzUsImlhdCI6MTUyMzQ1NzUzNSwibm9uY2UiOiJaaWs2dzNKd29sTmhsVUJIa2gtS0RSMC1SXzhRR1gxNWg1VmM1cWIzdkc0PSJ9.oRlXaCNLaA7Y5b_sXEjVJk87P8pkBkWUi6InYGyrP6cGoWEiROEUSwcH9V9rZ4Ef9s4j44P2JpbG92uV0u2DdQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:39:03+00:00	twilight-user	{%22authToken%22:%22mwmi1f3ww0xi1ps6ga4jucaatmctyi%22%2C%22displayName%22:%22p_natasham67q_w%22%2C%22id%22:%22213523838%22%2C%22login%22:%22p_natasham67q_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:39:03+00:00	auth-token	mwmi1f3ww0xi1ps6ga4jucaatmctyi

@@ -1,0 +1,15 @@
+#BrotosariRahau
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mTI%2FC7jkiFbKemYMYyaaWC43eWp%2BR77a5OjXzjiSOrE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:38:24+00:00	unique_id	ad49d63a00bcff63
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:38:24+00:00	_twitch_session_id	198f63e0aa2f60273381780227759736
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:38:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:38:59+00:00	persistent	213819408%3A%3A6yclbco7azza62fzfmnvcj663sfn8o
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:38:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTk0MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwMzQwLCJpYXQiOjE1MjM1NjU1NDB9.KazXphLNCuyVGFs8d36GLJFZ1J0oXQOVmtiGLd1soL7yfk-nFdBiwUy5djphgFlVT99yyZcpTS3uvz3koZnLhw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:38:59+00:00	login	brotosarirahau
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:38:59+00:00	name	brotosarirahau
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:38:59+00:00	last_login	2018-04-12T20:39:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:38:59+00:00	api_token	8cec387d573562e51e000308bca29541
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:38:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJyb3Rvc2FyaXJhaGF1IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExNzU0MCwiaWF0IjoxNTIzNTY1NTQwLCJub25jZSI6Ijl4Yk00c2YzQmswR0NSVEk1TXhVbkZlRFhHc3gweDNPcmJzVlJKa3BONjA9In0%3D.okEXLNHFY9emIcjiI3ZHCLA6FJf4CVbBU-BbzKa8A_hHzE5WWQwgwDxFTJX8KqIaf1yfxKf9PACsmnbsPhdMNQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:39:12+00:00	twilight-user	{%22authToken%22:%22ysc9n4386ejpnh42s0w1xd1bnhei77%22%2C%22displayName%22:%22brotosarirahau%22%2C%22id%22:%22213819408%22%2C%22login%22:%22brotosarirahau%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:39:12+00:00	auth-token	ysc9n4386ejpnh42s0w1xd1bnhei77
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:39:15+00:00	twilight_onboarding	true

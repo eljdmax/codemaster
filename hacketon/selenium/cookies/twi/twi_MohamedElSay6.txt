@@ -1,0 +1,13 @@
+#MohamedElSay6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	295fhBPnWNCQi46qn3MLZFdHaTmxgcBs%2FJIusL%2FGqfw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:50:52+00:00	unique_id	b2aebfcd7d5b5253
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:50:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:51:25+00:00	persistent	213821774%3A%3A5km40nvh5lbdb3ef1o9yrcrm34ijda
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:51:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjE3NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMDg2LCJpYXQiOjE1MjM1NjYyODZ9.gnLFGrODdMX4ozCVKjN82geOqs11w-svknHdekmSmVoqY9pz5vOfheObIkGzY2p70PiuR45hfV0ZFBFVOPSviA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:51:25+00:00	login	mohamedelsay6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:51:25+00:00	name	mohamedelsay6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:51:25+00:00	last_login	2018-04-12T20:51:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:51:25+00:00	api_token	46ead5b238651e2981a9fa68c34338a8
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:51:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1vaGFtZWRlbHNheTYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE4Mjg2LCJpYXQiOjE1MjM1NjYyODYsIm5vbmNlIjoiaGF0eGx2MXAyVnUtWjZybXo1U05ycENOVmNuUVNFb2oxbnZrRjBMQlZEST0ifQ%3D%3D.X4TydKrKp-qFtS4RMDloTYwN_WbxtbpYgpJ3VoOAMpjh82JzUC1EaE4qmhu-KOOKyDEdjqzBssdeH9pTUS6tBQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:51:38+00:00	twilight-user	{%22authToken%22:%225fn9cvmk6s5q9sdt8xk99rxi05bg8i%22%2C%22displayName%22:%22mohamedelsay6%22%2C%22id%22:%22213821774%22%2C%22login%22:%22mohamedelsay6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:51:38+00:00	auth-token	5fn9cvmk6s5q9sdt8xk99rxi05bg8i

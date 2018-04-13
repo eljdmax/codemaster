@@ -1,0 +1,12 @@
+#m_nathalied53w_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	taDoLUC%2BuQv51YkbRSxzRNNPBGURnhcSovhH0xVnoeg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:11:52+00:00	unique_id	bc6459b63232e7a6
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:12:20+00:00	persistent	213262513%3A%3Axpchho0igdy19jotyyl5ajogej2tvg
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:12:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjI1MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc0MzQwLCJpYXQiOjE1MjMzNjk1NDB9.y-PDWVEZWz1hyv20S5f1xCXwAkuXUIcU7YaPxea0yeU92Ly1BQ8tFP4NvokmT3J2AWoRbk8icmqZUf_G0Q5n8A==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:12:20+00:00	login	m_nathalied53w_2
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:12:20+00:00	name	m_nathalied53w_2
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:12:20+00:00	last_login	2018-04-10T14:12:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:12:20+00:00	api_token	c30458f93eee330cc40dd281ede23cc9
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:12:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbmF0aGFsaWVkNTN3XzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIxNTQwLCJpYXQiOjE1MjMzNjk1NDAsIm5vbmNlIjoib0Vhd2kxalVxR2puUXVXNE1SV0VMNVBwZ1phbWwwT3NSX0xrMkNzQlh2TT0ifQ%3D%3D.U0v_ryQs0_xGSh-pvMsuILBiwXuNgHhd5X3XOpQrumI1FzCaB04xhXQbcVxM2kqCXZZ0jp6PbniXbRPHZkO_7Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:12:22+00:00	twilight-user	{%22authToken%22:%222agh8ulpyxglh2tugqyphsmnca8i3k%22%2C%22displayName%22:%22m_nathalied53w_2%22%2C%22id%22:%22213262513%22%2C%22login%22:%22m_nathalied53w_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:12:22+00:00	auth-token	2agh8ulpyxglh2tugqyphsmnca8i3k

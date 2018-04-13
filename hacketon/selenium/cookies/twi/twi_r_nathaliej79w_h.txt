@@ -1,0 +1,13 @@
+#r_nathaliej79w_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	P1jyePIALezeY75jw79uznfMun10TXGpXMaoBMdSrXc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:19:43+00:00	unique_id	ebad7377e3578151
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:19:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:20:05+00:00	persistent	213510238%3A%3Aj0ke9qw8759nmdf88hcw3aoi6rkg2m
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:20:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTAyMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU3NjA1LCJpYXQiOjE1MjM0NTI4MDV9.cCHv1E53GHiTNLWsbeVgDJdVKYrZQIKr7mKbObJa1vwRO1D5qKH_cfyePlC8orGNjaBgH3VE0CHsZUgYJUfQbw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:20:05+00:00	login	r_nathaliej79w_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:20:05+00:00	name	r_nathaliej79w_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:20:05+00:00	last_login	2018-04-11T13:20:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:20:05+00:00	api_token	51755ca3b46f37c39bf4a9af342ec3b7
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:20:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbmF0aGFsaWVqNzl3X2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDA0ODA1LCJpYXQiOjE1MjM0NTI4MDUsIm5vbmNlIjoiSzVHcVRGUGZBbkF6alpTcHp1ZGRIVDZWOFlNYXhWNV9IWjZ6REwwLVR0RT0ifQ%3D%3D.XgRF-eMzHs6IDMxuVL_aglM0Sh5j8tgdd4P_YH626vH4x9EMa7mxKE0DGhbhAjnxBIPywer1ukdDzRAq7VkEyA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:20:13+00:00	twilight-user	{%22authToken%22:%22u7twi9oe1xb53aufc3b312913ragvl%22%2C%22displayName%22:%22r_nathaliej79w_h%22%2C%22id%22:%22213510238%22%2C%22login%22:%22r_nathaliej79w_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:20:13+00:00	auth-token	u7twi9oe1xb53aufc3b312913ragvl

@@ -1,0 +1,13 @@
+#k_nathaliea44k_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rom4rmJHfsuFty%2BCvUI7GoyrpPaUZ%2BVz4oCmfGcQN7Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:56:56+00:00	unique_id	3882febf73ab1b5f
+.twitch.tv	TRUE	/	TRUE	2018-04-10T21:56:56+00:00	_twitch_session_id	9a6becbf9f78f798d9f158b7bf45efc8
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:57:32+00:00	persistent	213221677%3A%3Apy4r3s524g9ob1p8vzj3ndfdutv6by
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:57:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjE2NzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU5MDUyLCJpYXQiOjE1MjMzNTQyNTJ9.yOLcsiCsYk7Y-AmPuPoVhffBMeHBe_Hf9Ghud6dK-Ji-vZZB9SvxXqhDy_JyFRyDYYC3cVSagbRVs9Euym3zrg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:57:32+00:00	login	k_nathaliea44k_c
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:57:32+00:00	name	k_nathaliea44k_c
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:57:32+00:00	last_login	2018-04-10T09:57:32Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:57:32+00:00	api_token	a78410ed315e636b07419847e8c678b8
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:57:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0aGFsaWVhNDRrX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTA2MjUyLCJpYXQiOjE1MjMzNTQyNTIsIm5vbmNlIjoiSWt1cnhSbmtkNXVRNWZrQXZOY215NXFJOFhSbC0yS3pvS3d1a1R1OFR4TT0ifQ%3D%3D.EqhIN4e5E_tJHGFfRK1yM_IOrsf3EYeUANayK-v1YmB1bAOLWKkvG99AG5B_YhDnd_Oyl-7ueAXQlQ5xWsB6JA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:57:39+00:00	twilight-user	{%22authToken%22:%22n20dq5vcw8emd2y7kgcw3brtn8oak3%22%2C%22displayName%22:%22k_nathaliea44k_c%22%2C%22id%22:%22213221677%22%2C%22login%22:%22k_nathaliea44k_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:57:39+00:00	auth-token	n20dq5vcw8emd2y7kgcw3brtn8oak3

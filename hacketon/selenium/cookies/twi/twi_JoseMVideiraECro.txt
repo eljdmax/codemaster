@@ -1,0 +1,13 @@
+#JoseMVideiraECro
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dboB4Q7QPk2ox338jB%2ByeqpIT%2BZ%2B2v%2FGDfsTNtWfZME%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:32:19+00:00	unique_id	e787729adbf84b1e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:32:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:33:09+00:00	persistent	213830375%3A%3Ap9x57m0scso446973q8g0zdbx5tt0p
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:33:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzAzNzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNTkwLCJpYXQiOjE1MjM1Njg3OTB9.jmL21sUdOC8drJzmfahAHUAGepzzRb6uVXF6WWXzwzp0MowAJI0RhPXLhvCy1UpaNNan3z_YKss_3ee4xk60sg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:33:09+00:00	login	josemvideiraecro
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:33:09+00:00	name	josemvideiraecro
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:33:09+00:00	last_login	2018-04-12T21:33:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:33:09+00:00	api_token	c56a087de0b140c9248d2a319e5c6372
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:33:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impvc2VtdmlkZWlyYWVjcm8iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIwNzkwLCJpYXQiOjE1MjM1Njg3OTAsIm5vbmNlIjoiY2c4UUpoQVlMVFhpLUEyZndoZW9IWHEwamR0anVKQ3d6RThpODlGelBraz0ifQ%3D%3D.hngnQ04RsYJCF_0eRvbSYNDLK-lqkSUeRJ7dmUbs7Bi3JVKnqcsVb3AhYGOvcODGLmPkhaZZ0eqcpDOdsXiSeA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:33:25+00:00	twilight-user	{%22authToken%22:%22yt3xvzskkug2eh1jlzngcb7b7re6y9%22%2C%22displayName%22:%22josemvideiraecro%22%2C%22id%22:%22213830375%22%2C%22login%22:%22josemvideiraecro%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:33:25+00:00	auth-token	yt3xvzskkug2eh1jlzngcb7b7re6y9

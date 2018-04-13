@@ -1,0 +1,14 @@
+#TatsuoShimura
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EvyInxM163k8p5%2FHVVSzNkSMT5u20eKaFchmkVUMOeQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:57:16+00:00	unique_id	aed458f37de08bd3
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:57:16+00:00	_twitch_session_id	906074066d2c2afd01ee666923aacbeb
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:57:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:57:35+00:00	persistent	213822983%3A%3Aiz1u7t560ij2w7ad8hzvkz6euralcu
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:57:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjI5ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNDU2LCJpYXQiOjE1MjM1NjY2NTZ9.hVuMVrecV4jUxdG8mKodgg2pYW3Qg7VVHyu67ovg5QdaFa_yFI4BDVz4Ncu0kgv267GWVvkKrGZjBKLSQNlifw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:57:35+00:00	login	tatsuoshimura
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:57:35+00:00	name	tatsuoshimura
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:57:35+00:00	last_login	2018-04-12T20:57:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:57:35+00:00	api_token	2cffbbc1ee8a3e5fa22d84921e628aa4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:57:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRhdHN1b3NoaW11cmEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE4NjU2LCJpYXQiOjE1MjM1NjY2NTYsIm5vbmNlIjoiQXdsNlNHN19UTVVuUzJXY21rNnh3Y0ZBeHpIVjNIUk1JV1JDRG95TENQMD0ifQ%3D%3D.RiNPuSl-646M8t98VdJ7gOHtqeRb-OjL0IoFjeSaFYD2X8YDUYjizK-ZaB891j5TfM9jPamr6oN0v1GQRnrICA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:57:48+00:00	twilight-user	{%22authToken%22:%22yb2gh1do2cszsi1x4qrbhjkqjstror%22%2C%22displayName%22:%22tatsuoshimura%22%2C%22id%22:%22213822983%22%2C%22login%22:%22tatsuoshimura%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:57:48+00:00	auth-token	yb2gh1do2cszsi1x4qrbhjkqjstror

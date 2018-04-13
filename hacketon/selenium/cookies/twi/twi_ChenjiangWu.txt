@@ -1,0 +1,13 @@
+#ChenjiangWu
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rezc0mnPfbQRmwJhlKPfmnwLX5fR%2BpEcx2Hfbg1EvDc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:47:55+00:00	unique_id	0805aad02f86f3c9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:47:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:48:12+00:00	persistent	213833736%3A%3Abn8z27tb3kupwdgbhbsal6rdvpfw96
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:48:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzM3MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0NDkzLCJpYXQiOjE1MjM1Njk2OTN9.BjzxrZe1TD_BeAydqpkkEhAWRYLGfL_avNe8hlT0C4cKr_dR8jFVKoNa6yrx7Rp1oDw6y4psxAn60qPFS2r6HQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:48:12+00:00	login	chenjiangwu
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:48:12+00:00	name	chenjiangwu
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:48:12+00:00	last_login	2018-04-12T21:48:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:48:12+00:00	api_token	d17a359f2c26986a2a5daf2bcd19d0dd
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:48:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNoZW5qaWFuZ3d1IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMTY5MywiaWF0IjoxNTIzNTY5NjkzLCJub25jZSI6InhCWFVmNmVNR3pzT2tCQjJqLUlETnZMNVp2encyUDBjbmtFMHB1WmFiaDg9In0%3D.Iv8jPAk6lNtbDu1t9-ROfDQdSiqawVIFi8JtcfFMiYjQ-9Fzortwp3xMP24kMeaoC2P2tbCiFNRhhaGPd35KTg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:48:28+00:00	twilight-user	{%22authToken%22:%22e0j2nj9nck78zt1fpqmhyco27foh1m%22%2C%22displayName%22:%22chenjiangwu%22%2C%22id%22:%22213833736%22%2C%22login%22:%22chenjiangwu%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:48:28+00:00	auth-token	e0j2nj9nck78zt1fpqmhyco27foh1m

@@ -1,0 +1,14 @@
+#w_martiale85q_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nXyY3VJgkUrzRwwv4S2Gol7P1VpbewetCIqkU7Ybugg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:15:36+00:00	unique_id	0067cdcacd7ca3ef
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:15:36+00:00	_twitch_session_id	53f1a0aaf261b08327c982c908c8695e
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:15:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:16:03+00:00	persistent	213493504%3A%3Aobg1nrfh9tk6mooohp3htg4xpti9fu
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:16:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTM1MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUwMTY0LCJpYXQiOjE1MjM0NDUzNjR9.GE35ECWEmVgnIq3dBq8Tu_Zzk8HhkTFZgwn00Y3Bz6wsriPOkE-8OKExhCOeo_I9FtKjBawAgFUCDpsd1gQJ9A==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:16:03+00:00	login	w_martiale85q_v
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:16:03+00:00	name	w_martiale85q_v
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:16:03+00:00	last_login	2018-04-11T11:16:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:16:03+00:00	api_token	f0890cfc23015511678186094debf4cb
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:16:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbWFydGlhbGU4NXFfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTczNjQsImlhdCI6MTUyMzQ0NTM2NCwibm9uY2UiOiJXd1lpQW5CbjNEN0pzVmx2STMxZTdLVlplbWMtc0xBMzVOdHBjMUlOVEJrPSJ9.4f-yFbq8F-ZtfmKWIASQttSlO-bDJYmUfvxziDmotmuCFO1Pcg21c-sBbHHP12LhyOkEEIJsTtWUE-juzrjekg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:16:11+00:00	twilight-user	{%22authToken%22:%222p27qt1gpx67mcb8lcibtmqy3crkfg%22%2C%22displayName%22:%22w_martiale85q_v%22%2C%22id%22:%22213493504%22%2C%22login%22:%22w_martiale85q_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:16:11+00:00	auth-token	2p27qt1gpx67mcb8lcibtmqy3crkfg

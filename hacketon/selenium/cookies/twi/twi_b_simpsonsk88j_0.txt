@@ -1,0 +1,13 @@
+#b_simpsonsk88j_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tj1tG0rFtBzw%2FKzWGtfjHuOT5UGRQjjwJmfXzDIFTzs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:22:36+00:00	unique_id	f44a334713e73e32
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:22:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:23:02+00:00	persistent	213510779%3A%3A641jkx1hjrgtx8dom2k67qastcre39
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:23:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTA3NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU3NzgyLCJpYXQiOjE1MjM0NTI5ODJ9.p1b2i4qzilICRKm9Ihdx-L5djuBYqqHfH2Jf19ZKD9ClPqDm8QFtrqbrCqp75c7ryWPdNibi_OoqMz-KNrPaew==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:23:02+00:00	login	b_simpsonsk88j_0
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:23:02+00:00	name	b_simpsonsk88j_0
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:23:02+00:00	last_login	2018-04-11T13:23:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:23:02+00:00	api_token	215baa947fad5556f106363670afbca4
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:23:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc2ltcHNvbnNrODhqXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDA0OTgyLCJpYXQiOjE1MjM0NTI5ODIsIm5vbmNlIjoibEQ1bDAyNTd4eVBQUFpDS2VLRVdhNUZ4cDNvR2FNQzdTMzRORjF0RlREQT0ifQ%3D%3D.MpMZ3TIUyum1AO35h_93tzvhwhBfpVk0JLdrTwRgIWgKarsXhuvMY9oN6ZqBq99aOEhDYrXHqNWl0hmRg0B8LA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:23:08+00:00	twilight-user	{%22authToken%22:%22qb37v8fsnvrwgiwoq6lw1usqjuu0ia%22%2C%22displayName%22:%22b_simpsonsk88j_0%22%2C%22id%22:%22213510779%22%2C%22login%22:%22b_simpsonsk88j_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:23:08+00:00	auth-token	qb37v8fsnvrwgiwoq6lw1usqjuu0ia

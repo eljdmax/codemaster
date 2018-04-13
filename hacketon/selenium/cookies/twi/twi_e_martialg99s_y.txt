@@ -1,0 +1,14 @@
+#e_martialg99s_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WFPPGm5O74e9OmT5OxksZRhLlhCWCc6g4ILHz7lX4nA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:44:03+00:00	unique_id	4676fcdb32130900
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:44:03+00:00	_twitch_session_id	23081b1e7625a932734f32199e4f52e4
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:44:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:44:30+00:00	persistent	213496808%3A%3Ah81haeou1e1lebaw3c46zjcmst8eez
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:44:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTY4MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUxODcwLCJpYXQiOjE1MjM0NDcwNzB9.lEkuSrppXXc9Lr-E5XCvrPtkviSXrhAKumKfEBnCWEhn9it4C55EyaKVOsbZ7sds2J18M-qRHkNLuJw6DroZzQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:44:30+00:00	login	e_martialg99s_y
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:44:30+00:00	name	e_martialg99s_y
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:44:30+00:00	last_login	2018-04-11T11:44:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:44:30+00:00	api_token	54245610f2cb962829a3c3d6a4093f02
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:44:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWFydGlhbGc5OXNfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTkwNzAsImlhdCI6MTUyMzQ0NzA3MCwibm9uY2UiOiI0WHI5NW1Md2l4Q1AyYjdBSUpBTUEtTmlMcjRyNmFPMDFaZHRzQWpYakZjPSJ9.gc7qAysRWIibyvgzO8oymjemb97IJYc42lRwR_0hFtaEbxyjtpcD2NH4UjWJXINhwSYuf3rQFy6mj-ucSOFvmQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:44:37+00:00	twilight-user	{%22authToken%22:%22em75dnjzz8m12mll5r9hutx9gr2f5y%22%2C%22displayName%22:%22e_martialg99s_y%22%2C%22id%22:%22213496808%22%2C%22login%22:%22e_martialg99s_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:44:37+00:00	auth-token	em75dnjzz8m12mll5r9hutx9gr2f5y

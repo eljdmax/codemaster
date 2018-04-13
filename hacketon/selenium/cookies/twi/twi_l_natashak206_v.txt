@@ -1,0 +1,14 @@
+#l_natashak206_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	61Nptlua8bu6QxWnz23IxKf%2BQ9026nE0p%2FEcIRl3KPE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:46:55+00:00	unique_id	031597480b873c32
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:46:55+00:00	_twitch_session_id	124f36698949bcfa814a533d59634b23
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:46:55+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:47:14+00:00	persistent	213525372%3A%3Aefax3ti5tto52ueyf5eyponziwh2mt
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:47:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjUzNzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyODM0LCJpYXQiOjE1MjM0NTgwMzR9.aQcbzvg8ej6ho067xzXItlmKTngTGVgr9J_iy7HCErPvH9k-9YeQUo49ZUf2Vnu8N_xa5yWaadpzLfZNXXNUeA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:14+00:00	login	l_natashak206_v
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:14+00:00	name	l_natashak206_v
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:14+00:00	last_login	2018-04-11T14:47:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:47:14+00:00	api_token	015d1e077bde01786628699920dfbb44
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:47:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbmF0YXNoYWsyMDZfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMTAwMzQsImlhdCI6MTUyMzQ1ODAzNCwibm9uY2UiOiJrV0NNYnRHSmxYUWpvZnRhd2w2VkJIX281NVloazZJWkZTQzVFX0RRdU93PSJ9.H95nxxQDoEi_Q62qdcDENrpR-GDUmsqOsTTy-0uFD99EhQY6yu9tXQcBcc-13Y6S2Iz6lL_MN3iOblnMayb-Ug%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:47:28+00:00	twilight-user	{%22authToken%22:%22ato39nnkoqnrlbhicguyqe6q4h18nb%22%2C%22displayName%22:%22l_natashak206_v%22%2C%22id%22:%22213525372%22%2C%22login%22:%22l_natashak206_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:47:28+00:00	auth-token	ato39nnkoqnrlbhicguyqe6q4h18nb

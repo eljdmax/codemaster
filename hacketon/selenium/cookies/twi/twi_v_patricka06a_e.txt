@@ -1,0 +1,14 @@
+#v_patricka06a_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Gi%2FH8bVPzndatNuEpfc8oZQf5UVd73rgGZbzgnOYr4Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:58:16+00:00	unique_id	9d244d244a995f54
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:58:16+00:00	_twitch_session_id	7eb386b6208960e5616862cc6277d5e9
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:58:31+00:00	persistent	213096837%3A%3Anbixaa0fgffgc8bl3smbygm8wrb7hy
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:58:30+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTY4MzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTgzMTEsImlhdCI6MTUyMzMxNDcxMX0=.RYqlvE_SAj1yEPhDnHTZduR3z1g2s7uG7udvrrDAWzEqHLHYss03p7syFJo3wDL5ptIjo1sqggPKlUFfd7bG6w==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:58:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTY4MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5NTExLCJpYXQiOjE1MjMzMTQ3MTF9.0HydM5pdhyBEoniXa2WPvZ_uk5PM5-iZ527DVLPserNaH4_HIezuZx_pLAXNpY-rObXH0K0QwILwj-zBh_uWGw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:58:31+00:00	login	v_patricka06a_e
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:58:31+00:00	name	v_patricka06a_e
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:58:31+00:00	last_login	2018-04-09T22:58:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:58:31+00:00	api_token	9b67721a2b4ba9143e2d9ef71c350826
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:58:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfcGF0cmlja2EwNmFfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjY3MTEsImlhdCI6MTUyMzMxNDcxMSwibm9uY2UiOiJqRkI0WUlhX2NmeW9vRzA5cUV2bGpZQlF4Zk1TVHhHNFBrYnNFMThscDhVPSJ9.278ausx4W-OlzRYhTNkhmeQR4wASBAUYD0bKnbFWB3IsVEf5Z1vRkh0NhhZss0taKZ-b-TIAGHif6a2bRilkYQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:58:30+00:00	twilight-user	{%22authToken%22:%22m5kwz36kifuc0f3dnu3cxgqofe0mra%22%2C%22displayName%22:%22v_patricka06a_e%22%2C%22id%22:%22213096837%22%2C%22login%22:%22v_patricka06a_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:58:30+00:00	auth-token	m5kwz36kifuc0f3dnu3cxgqofe0mra

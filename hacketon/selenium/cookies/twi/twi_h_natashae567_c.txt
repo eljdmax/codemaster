@@ -1,0 +1,13 @@
+#h_natashae567_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HTZbAbxRn0yEo8xKSLLKzNxguxIktFwnoFZ4Qwf6xkw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:16:17+00:00	unique_id	3c86f35b73fcdd53
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:16:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:16:46+00:00	persistent	213493571%3A%3Ayz0ihnsjgp79lsv2ay2xz191570tdi
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:16:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTM1NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUwMjA3LCJpYXQiOjE1MjM0NDU0MDd9.pxbzo-zdlOYMBHwQTtFT8DwFD_m42NpzMTHcqVSRFxEXG_t_T3G9W9rPr4O424Eig479Ibbr_WWwKJ7SYW7iZQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:16:46+00:00	login	h_natashae567_c
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:16:46+00:00	name	h_natashae567_c
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:16:46+00:00	last_login	2018-04-11T11:16:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:16:46+00:00	api_token	56e30d7aa06083ffbe0f583ab1882f03
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:16:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbmF0YXNoYWU1NjdfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTc0MDcsImlhdCI6MTUyMzQ0NTQwNywibm9uY2UiOiJBdWdLSTNzLTloMEhsXzVhaXlYa1FveEliNk9jQTdsRDZLaUU0eDJnaFk4PSJ9.7NMDhxdvj3S3YzUxexl7wjbA3bQORbSa8Pr1lPVAklwEziVC5Jr5O5_qx5ku21eFGhyEBLAZ0AJQ8xOmEu0_mw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:16:54+00:00	twilight-user	{%22authToken%22:%22dzbt28gf7w4bb79pm9dda5rj2fl2nu%22%2C%22displayName%22:%22h_natashae567_c%22%2C%22id%22:%22213493571%22%2C%22login%22:%22h_natashae567_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:16:54+00:00	auth-token	dzbt28gf7w4bb79pm9dda5rj2fl2nu

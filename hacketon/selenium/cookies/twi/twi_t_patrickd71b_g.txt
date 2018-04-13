@@ -1,0 +1,13 @@
+#t_patrickd71b_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Jfsw7B2y%2B4%2Buqmyuj6uCZJGbJ0KRq6cUKTlCQiByojU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:50:16+00:00	unique_id	3aae33621524e52e
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:50:16+00:00	_twitch_session_id	38b7228f24a9baebd3380f8b57af6c57
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:50:43+00:00	persistent	213284444%3A%3A9i8dw30moyw9flxbmrb8scgijygqo9
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:50:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODQ0NDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgwMjQ0LCJpYXQiOjE1MjMzNzU0NDR9.qyF57q6OmsLmpTPKA4_skjboRFh-JuhkgVQTyMQuB7BYacaAxt6o5_Yy7i0Fy3yWsvPA37lXAMjpt_ejLU-86g==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:50:43+00:00	login	t_patrickd71b_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:50:43+00:00	name	t_patrickd71b_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:50:43+00:00	last_login	2018-04-10T15:50:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:50:43+00:00	api_token	109469a0373b510837a6ad169980a80f
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:50:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfcGF0cmlja2Q3MWJfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5Mjc0NDQsImlhdCI6MTUyMzM3NTQ0NCwibm9uY2UiOiJMMC1VRVBqdVZXWDNlY2VkakM4VDdnekpBbVg3dllQRFpOMlBDSXU4U213PSJ9.MAfGeGbF5onXxmCcivu9gXuBakdUeJCLj-Zdpa1koq5haAeNGIpl-4aZBLnlbomH8tV3TiHN359QgCabLtbDuw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:50:48+00:00	twilight-user	{%22authToken%22:%22ovatd7qsb4c4np6t8az0n24g28sgts%22%2C%22displayName%22:%22t_patrickd71b_g%22%2C%22id%22:%22213284444%22%2C%22login%22:%22t_patrickd71b_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:50:48+00:00	auth-token	ovatd7qsb4c4np6t8az0n24g28sgts

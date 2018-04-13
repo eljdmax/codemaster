@@ -1,0 +1,14 @@
+#ArieWidiyas43
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PoUXhuNdJWx4y8DRNC8%2F9hVL4EHGRQrR9japyr4F0t8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:43:54+00:00	unique_id	1584f3302e317786
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:43:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:44:25+00:00	persistent	213832874%3A%3Aoepjx8yyiz5m8m8kge9qrne6llqk0w
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:44:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzI4NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MjY2LCJpYXQiOjE1MjM1Njk0NjZ9.nyIFAVnVQwNeIiNNDYe8VuRBgEDTy4T_JOKGQ1HvErTWGquGzFfapP0mOUTJnPrG3bhk6fpRTQ1noAX3_ukRbw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:44:25+00:00	login	ariewidiyas43
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:44:25+00:00	name	ariewidiyas43
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:44:25+00:00	last_login	2018-04-12T21:44:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:44:25+00:00	api_token	e8e8dc00706a95bb1acbae5d0b566de7
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:44:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFyaWV3aWRpeWFzNDMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIxNDY2LCJpYXQiOjE1MjM1Njk0NjYsIm5vbmNlIjoiSkFZR3FqYVFtRDEzUDkwaGM0RnhfSXd5X2JXbEo1N2RmUHQ1WHJpU1Vjbz0ifQ%3D%3D.0B9hxQIg-AUnzmrwg57mFM8lAH06DdaJpDjqywb9SoK7LvzwpgGdDzenZqM3lZsbkNYB54lxgjDu8xhAeaYYIg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:44:40+00:00	twilight-user	{%22authToken%22:%22cko676fnwfbp8b84vofjffag27glg5%22%2C%22displayName%22:%22ariewidiyas43%22%2C%22id%22:%22213832874%22%2C%22login%22:%22ariewidiyas43%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:44:40+00:00	auth-token	cko676fnwfbp8b84vofjffag27glg5
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:44:41+00:00	twilight_onboarding	true

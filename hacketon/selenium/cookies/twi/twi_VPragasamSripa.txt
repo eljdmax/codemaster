@@ -1,0 +1,14 @@
+#VPragasamSripa
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	u54Ii0QLhg%2F3RE8UNTbKOp%2Bfg2kG5TlaNzazVfOIec8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:02:16+00:00	unique_id	caee19f1ce4af3cb
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:02:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:02:40+00:00	persistent	213823957%3A%3A5m7tl5llo0mj03cd4eg8kp5maht1yx
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:02:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjM5NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNzYxLCJpYXQiOjE1MjM1NjY5NjF9.76qgTq__iHHeaT3itHzJKLOm71k8JLd2DrMnDbmJWdg_wwARbS90j27lqnOYBjFl1m7t1xGbUo0XAUU9_wCOUw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:40+00:00	login	vpragasamsripa
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:40+00:00	name	vpragasamsripa
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:40+00:00	last_login	2018-04-12T21:02:41Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:02:40+00:00	api_token	3411df63baa935ea684991e01dc2a2c6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:02:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZwcmFnYXNhbXNyaXBhIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExODk2MSwiaWF0IjoxNTIzNTY2OTYxLCJub25jZSI6Im1RMUZKLUZOWHRGbURGazd5cVk5Skloc2FqbmdSbGt0SzRzNmFNcFRZOEk9In0%3D.vKUkgjnEASqpotIcuYr4F5T7bjVKX5cNohE98IwwZQ64LLb7_2TMs7MmVSJo0ZU7dJAEkewTF3-2o1pJol8Hfg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:53+00:00	twilight-user	{%22authToken%22:%22a7v801ah6swaifxxcyn77ibvxmtnst%22%2C%22displayName%22:%22vpragasamsripa%22%2C%22id%22:%22213823957%22%2C%22login%22:%22vpragasamsripa%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:53+00:00	auth-token	a7v801ah6swaifxxcyn77ibvxmtnst
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:56+00:00	twilight_onboarding	true

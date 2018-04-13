@@ -1,0 +1,13 @@
+#r_natashak76m_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mitj96zMOlT4S9uYaXTbmQ9gPW9GTlZjN23pXCuV%2Bx0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:18:07+00:00	unique_id	62275f3d20e8d635
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:18:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:18:30+00:00	persistent	213520143%3A%3Aujlvaldp3labp4jypfmcinlzb2vpqc
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:18:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjAxNDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYxMTExLCJpYXQiOjE1MjM0NTYzMTF9.S1OCpJZqF7yj-Cb4akRLUT72QjKkDT_hNY7VzbYNFid4x97dZfLSZccO-EO5jTpXm07zVGnMNURb8YxBQZUimg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:18:30+00:00	login	r_natashak76m_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:18:30+00:00	name	r_natashak76m_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:18:30+00:00	last_login	2018-04-11T14:18:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:18:30+00:00	api_token	718af40a098cf66e21bfb2e9ff193cb7
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:18:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbmF0YXNoYWs3Nm1fYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDgzMTEsImlhdCI6MTUyMzQ1NjMxMSwibm9uY2UiOiJiTmtVbFN4dm1jTDAxNGlzLUJqUDZPLWpCenVQbllsTHVtSDQxZ055R1RNPSJ9.hL69t8uL7OzKQbVm20hpqG49a8xLm3k9VXnsraZ-Qc0DUnZqxVMioCqvKcmtfFRXLArq0axlMp7a0naZr9kRWQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:18:39+00:00	twilight-user	{%22authToken%22:%22quecrqdabsu6on26up4fktmn3oustk%22%2C%22displayName%22:%22r_natashak76m_b%22%2C%22id%22:%22213520143%22%2C%22login%22:%22r_natashak76m_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:18:39+00:00	auth-token	quecrqdabsu6on26up4fktmn3oustk

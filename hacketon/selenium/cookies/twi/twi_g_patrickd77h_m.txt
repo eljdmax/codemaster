@@ -1,0 +1,14 @@
+#g_patrickd77h_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	91Ks8aYzd0ZzgAl1DfRe0Bkr5Anc2us4%2FfpFXdotpyw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T16:14:16+00:00	unique_id	fa157260f6d55f10
+.twitch.tv	TRUE	/	TRUE	2018-04-11T04:14:16+00:00	_twitch_session_id	1024463277fcb0a987e9ef89c968d463
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:14:39+00:00	persistent	213290011%3A%3Ai94i7a9be08cnewjvjwpx8duk0vrgv
+.twitch.tv	TRUE	/	TRUE	2018-04-17T16:14:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyOTAwMTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgxNjgwLCJpYXQiOjE1MjMzNzY4ODB9.cTdi9uIWoQ3HQMuJ54HJ0CmR1g-xJoQIXhrIwDDUmqLf6XIT6HM-UgP7TsSDC2BSCFhkc0mKfCjjAk_0lCwwEA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:14:39+00:00	login	g_patrickd77h_m
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:14:39+00:00	name	g_patrickd77h_m
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:14:39+00:00	last_login	2018-04-10T16:14:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:14:39+00:00	api_token	716a1a610218d190147ce7688bf04c59
+.twitch.tv	TRUE	/	TRUE	2018-10-07T16:14:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcGF0cmlja2Q3N2hfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5Mjg4ODAsImlhdCI6MTUyMzM3Njg4MCwibm9uY2UiOiJ6NzZta24wRnJBR0RXaHVITmxtNDhUX1QtM09CWEM3Z0JDWGJYM0FNblkwPSJ9.TspP884qd5tT2bgNMhYPjAj2J8Cc_imIfpQQVMYTJMa8F2_ElXhmrT80Wt_3BCVmQ_TEN1MoTFDXTlwJcXYX0w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:14:43+00:00	twilight-user	{%22authToken%22:%22s0hx0zdpyj69i3l3qy7obdnk019d21%22%2C%22displayName%22:%22g_patrickd77h_m%22%2C%22id%22:%22213290011%22%2C%22login%22:%22g_patrickd77h_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:14:43+00:00	auth-token	s0hx0zdpyj69i3l3qy7obdnk019d21
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:14:44+00:00	twilight_onboarding	true

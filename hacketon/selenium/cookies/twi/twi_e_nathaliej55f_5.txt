@@ -1,0 +1,13 @@
+#e_nathaliej55f_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NJC%2F%2BtjJn0jif3q60r4IvRu6PIEqi5Hyf7UAOxabcug%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:53:06+00:00	unique_id	6dfa2bdfb18c8423
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:53:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:53:29+00:00	persistent	213515661%3A%3Ap41wynm94ju7i40nh96t8goo5ys8kx
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:53:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTU2NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU5NjEwLCJpYXQiOjE1MjM0NTQ4MTB9.KksrwOp_aST6pL5onredE0R5-qcpda67QS6u7km948F1rZmX5HsZxdMcLPAu9wlbgpY1d11ikhi065xVMzf3RQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:53:29+00:00	login	e_nathaliej55f_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:53:29+00:00	name	e_nathaliej55f_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:53:29+00:00	last_login	2018-04-11T13:53:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:53:29+00:00	api_token	bb08695e1c6c8fc600110feecbe90b44
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:53:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbmF0aGFsaWVqNTVmXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDA2ODEwLCJpYXQiOjE1MjM0NTQ4MTAsIm5vbmNlIjoiQVp1MTR5TzVUNS1kUjctUno5WHdwLXlNZ3YzOWU5bUVRSi1sUmk1MnNobz0ifQ%3D%3D.q0aa_8OrILhOdUhcELzZMEZU6dj3gbxXRTYH_Cx-0BeadFvvCuUHxudnemoxF_DtB06mmItVyuf01Ljd8Ck3nQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:53:37+00:00	twilight-user	{%22authToken%22:%22iu2b692igymsm01xq4spbwxqjz34k4%22%2C%22displayName%22:%22e_nathaliej55f_5%22%2C%22id%22:%22213515661%22%2C%22login%22:%22e_nathaliej55f_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:53:37+00:00	auth-token	iu2b692igymsm01xq4spbwxqjz34k4

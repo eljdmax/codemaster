@@ -1,0 +1,13 @@
+#AtifRafique
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nHZLDqHcmB%2FSvyXDLEwIUsCWeSIV1gq3Vs98JQq1500%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:40:21+00:00	unique_id	267764dcc359b669
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:40:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:40:45+00:00	persistent	213819770%3A%3Aq2tqgll2y5e7qte4i8jg6ggk3ki9y7
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:40:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTk3NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNDQ2LCJpYXQiOjE1MjM1NjU2NDZ9.En7ogocUqX7cyBSG2DPGv7iljBrv8wI_--QjSKUQvFWN_hQbGnSQJxxAQzEWAz45Zxk1qA5nj99Dth5fbWsbqg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:40:45+00:00	login	atifrafique5
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:40:45+00:00	name	atifrafique5
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:40:45+00:00	last_login	2018-04-12T20:40:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:40:45+00:00	api_token	d06897f59ac5bfbe3452c0a2867d25a6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:40:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImF0aWZyYWZpcXVlNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTc2NDYsImlhdCI6MTUyMzU2NTY0Niwibm9uY2UiOiJzNUZWVGV3Wmt6RzMyeXBubm9XUlg5eVdEMGs3YmRHY1pSbnplVDdrbUlnPSJ9.sEByUpR92Flaz9tKWPPM6vHHStXnuBqGGn_tI6_8kTqS7ipWEybX9jl1jg8PGpiD0b6zVJuqdViJUXFFIR13CA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:41:02+00:00	twilight-user	{%22authToken%22:%22qme7075n0sgxwyy5z3glx43l16tpyu%22%2C%22displayName%22:%22atifrafique5%22%2C%22id%22:%22213819770%22%2C%22login%22:%22atifrafique5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:41:02+00:00	auth-token	qme7075n0sgxwyy5z3glx43l16tpyu

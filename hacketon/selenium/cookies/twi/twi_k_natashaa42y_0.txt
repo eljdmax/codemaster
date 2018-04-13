@@ -1,0 +1,14 @@
+#k_natashaa42y_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zQ%2FLPF3J8NppE5jR80vVyfeNpOtcnb8C%2BnYRGnfr7xI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:43:30+00:00	unique_id	e0e2a9a6b58d8d46
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:43:43+00:00	persistent	213093427%3A%3A6crwj4bmactmox8hi02xku9fls4r3d
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:43:44+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTM0MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTc0MjQsImlhdCI6MTUyMzMxMzgyNH0=.5Wgh368TrJeSJyLAiCyI4aRAJZv23EuNGUR1gpqhwTdSTPZYZDH8IRxgzsaKWpv0KD-cSGuG9EWmJJ4gLMGKCA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:43:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTM0MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4NjI0LCJpYXQiOjE1MjMzMTM4MjR9.QwHnIIw-95n9plXXdudbfrMZBn9RxU4uIbtIIkI-CMgebeqrPSmwg_sAWq1zSAdpJfsdrLqM6q23Mr9AKpgD-w==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:43:43+00:00	login	k_natashaa42y_0
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:43:43+00:00	name	k_natashaa42y_0
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:43:43+00:00	last_login	2018-04-09T22:43:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:43:43+00:00	api_token	9eb873b6449673fde46c5636a3be6dca
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:43:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0YXNoYWE0MnlfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjU4MjQsImlhdCI6MTUyMzMxMzgyNCwibm9uY2UiOiJ0VXpXNDZZYUFZemZTOHBGa09XTnlzUHNIZUkwZjR0Sm95d2drRzJkQVEwPSJ9.16SY30pPp9WHdaywWfmfx3k45c7P3dLTQXBlGrK6-f1p5IeFtv0Kj-tM2dzVbROLczDVkuyxEHw6YBMnoOE4qQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:43:43+00:00	twilight-user	{%22authToken%22:%22zoy7nw4ro6oas2yulo3fw7njn6t6lm%22%2C%22displayName%22:%22k_natashaa42y_0%22%2C%22id%22:%22213093427%22%2C%22login%22:%22k_natashaa42y_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:43:43+00:00	auth-token	zoy7nw4ro6oas2yulo3fw7njn6t6lm
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:43:45+00:00	twilight_onboarding	true

@@ -1,0 +1,14 @@
+#IGustiNgurahVihy
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	eNtLV2pP0FaOb5H7v3VA9wP4fNdljUwuF3L17cvRFrk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:37:54+00:00	unique_id	d07c563f1321fc8e
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:37:54+00:00	_twitch_session_id	975e24834eddcced3ba8a68e03ab4f76
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:37:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:38:13+00:00	persistent	213831498%3A%3A6pwrz5yf6cwtyihoh8mmdxo6b7s8ks
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:38:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzE0OTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczODkzLCJpYXQiOjE1MjM1NjkwOTN9.Dodzb5ZiWnZv6xTLkzgpDOhym3CqIBqGCpVupCHq7ztzbtzJzoAIrjWfBidmTa435TMKeUkAVjNUZVBkv0a18Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:38:13+00:00	login	igustingurahvihy
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:38:13+00:00	name	igustingurahvihy
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:38:13+00:00	last_login	2018-04-12T21:38:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:38:13+00:00	api_token	0dcb5bcc65f618566adbf61fe7b3e4e5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:38:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlndXN0aW5ndXJhaHZpaHkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIxMDkzLCJpYXQiOjE1MjM1NjkwOTMsIm5vbmNlIjoiNTRfY05jWmFxM2dMcV9qWHlnNms0enpQTU5BazVnbnpyWWZtN2g2WVlXMD0ifQ%3D%3D.sgDHBqQVya0488DuaRNY2r1wt99BKy7HYrOJ6qGILjmV7cv3DdTyVFCxjQyw21Opm6fbNmQZlu-9wb1wBF1ezw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:38:27+00:00	twilight-user	{%22authToken%22:%22n5160lo7f740j5784r8hf50bidsa3i%22%2C%22displayName%22:%22igustingurahvihy%22%2C%22id%22:%22213831498%22%2C%22login%22:%22igustingurahvihy%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:38:27+00:00	auth-token	n5160lo7f740j5784r8hf50bidsa3i

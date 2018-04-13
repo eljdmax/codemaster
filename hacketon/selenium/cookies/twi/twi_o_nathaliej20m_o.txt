@@ -1,0 +1,13 @@
+#o_nathaliej20m_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i7TmY4%2B5IDobQJtnvS7xVzaAeC%2BRXYbSMxw6GkE86bk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:47:00+00:00	unique_id	c219e1b11a2fc9d1
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:47:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:47:30+00:00	persistent	213525428%3A%3Au1k90p93854wgusw3umt11o3vf8gzf
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:47:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjU0MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyODUxLCJpYXQiOjE1MjM0NTgwNTF9.YcC7xZrtFsUt89WQRCvcmLSDqeEltPceiBqExwxvS2DFd8OBBvM7H3J3K4F4NAqh6Bd8ADj1EyAfRUB7a5quiw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:30+00:00	login	o_nathaliej20m_o
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:30+00:00	name	o_nathaliej20m_o
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:30+00:00	last_login	2018-04-11T14:47:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:47:30+00:00	api_token	f2c952165ec216097aafd3097da1140d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:47:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbmF0aGFsaWVqMjBtX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDEwMDUxLCJpYXQiOjE1MjM0NTgwNTEsIm5vbmNlIjoiOGZWcjZ5bnh2LTVmM255NnBGZ2N6aXl5d2FZQXNkUUVOOW00amJ4ZHpXYz0ifQ%3D%3D.7H74BH1pvtyrvbc3uc7GRuGy0jAuSRD4YSy8y6dTNSJv4dcnpKXKQ02zheS8dTmzp1a_2s0H6NQkI8zMRplphw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:47:39+00:00	twilight-user	{%22authToken%22:%2298e0cu3rwig3s880rbfwkvouijx8ed%22%2C%22displayName%22:%22o_nathaliej20m_o%22%2C%22id%22:%22213525428%22%2C%22login%22:%22o_nathaliej20m_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:47:39+00:00	auth-token	98e0cu3rwig3s880rbfwkvouijx8ed

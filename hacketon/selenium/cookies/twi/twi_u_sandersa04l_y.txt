@@ -1,0 +1,14 @@
+#u_sandersa04l_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kuT5Cc5opuQtj4zfCXtV6vQDcp6RV0uMtMUPr670gbs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:39:07+00:00	unique_id	22a97139a4818e4c
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:39:07+00:00	_twitch_session_id	cd0bf18a530c4885fc5aff3d2f08bf58
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:39:28+00:00	persistent	213092497%3A%3Afehvt8ivshxg8cth7fj1sdrkwimcu7
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:39:27+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTI0OTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTcxNjgsImlhdCI6MTUyMzMxMzU2OH0=.0AZrCWuH4fNf-Dz2hmJrkG6g3ne9pc1h3JJzxnAx5JNhGAFa9wTGMY7TsdgcSJD5M1tS4UUZssjzeV0gTiEgPA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:39:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTI0OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4MzY4LCJpYXQiOjE1MjMzMTM1Njh9.cGbhxESzySzIrp9tSUn8-7pxsywUhpwHBWuKRATCW8KRAvyBeYy9bd6D_ZZyflQ8hF30G81KGnghBikTho5qvg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:39:28+00:00	login	u_sandersa04l_y
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:39:28+00:00	name	u_sandersa04l_y
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:39:28+00:00	last_login	2018-04-09T22:39:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:39:28+00:00	api_token	d95bbfa44ebeaf6c34da75c3cdc1170f
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:39:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2FuZGVyc2EwNGxfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjU1NjgsImlhdCI6MTUyMzMxMzU2OCwibm9uY2UiOiJVRVVxcGFkWWh3OUR3SWRGU2JvbzRXM1RVUG1wblB5eTlBdG5fTGY0bnhvPSJ9.0qOkz65q1Cx2_SP8TeDDv3rtjlucTdO_ZXoIiB2_R_sum8DqAx6NcDDWWyEM1dHv4C2YtudhLPskw6SMgB522A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:39:27+00:00	twilight-user	{%22authToken%22:%22mlugpzk53vv394gugaox1vpzp1ptlf%22%2C%22displayName%22:%22u_sandersa04l_y%22%2C%22id%22:%22213092497%22%2C%22login%22:%22u_sandersa04l_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:39:27+00:00	auth-token	mlugpzk53vv394gugaox1vpzp1ptlf

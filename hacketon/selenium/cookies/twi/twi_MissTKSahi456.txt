@@ -1,0 +1,13 @@
+#MissTKSahi456
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	q6Uhydyz%2FAiQN6qW6BvruUnuuIaXAoychhCkZ8A%2Fc%2Fk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:21:30+00:00	unique_id	b4bb927aea36bf31
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:21:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:21:47+00:00	persistent	213827779%3A%3A4soy9twdp7vi9oygsn0cyo5gaj5k62
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:21:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4Mjc3NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyOTA4LCJpYXQiOjE1MjM1NjgxMDh9.Zet1S3BYK7xjm_HPwSOYE5VEDrAvdn3v2dgzUoKjcRtLXTabR7ZBqiw9LtsNWgifvEJQ7vQMJiYBC0UIrQ_GoQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:21:47+00:00	login	misstksahi456
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:21:47+00:00	name	misstksahi456
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:21:47+00:00	last_login	2018-04-12T21:21:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:21:47+00:00	api_token	b58ca78b339e925ece98d10481dd8afb
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:21:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1pc3N0a3NhaGk0NTYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIwMTA4LCJpYXQiOjE1MjM1NjgxMDgsIm5vbmNlIjoiSVYxSDRSS25GekhKMUFia0JJazBseVNvRzBtQjlSNm50NlNvNGZ2bXlOOD0ifQ%3D%3D.wR06oS01_wKMEeOy-HXvuHwakSBGKC6AyyxVtBVNkZQzVoKFznypV_b2Lg-zMMsxJ9aOFIeIKMh-_FdAjbMkuQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:22:03+00:00	twilight-user	{%22authToken%22:%22p0v2jntphi6ie2nr8ymiira8j2jh6n%22%2C%22displayName%22:%22misstksahi456%22%2C%22id%22:%22213827779%22%2C%22login%22:%22misstksahi456%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:22:03+00:00	auth-token	p0v2jntphi6ie2nr8ymiira8j2jh6n

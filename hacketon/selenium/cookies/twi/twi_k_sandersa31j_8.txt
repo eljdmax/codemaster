@@ -1,0 +1,13 @@
+#k_sandersa31j_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aG1HaEbeV0CiBk%2BLzuyE%2F%2BcvYtDrFM3NK57XQCwPTTQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:24:07+00:00	unique_id	43e8946ba4da52b8
+.twitch.tv	TRUE	/	TRUE	2018-04-10T21:24:07+00:00	_twitch_session_id	af7ac06b833c63616e7bd9fd845ec4bd
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:24:38+00:00	persistent	213218168%3A%3Afd31hpqcr9yqti40e5puzozyerjuye
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:24:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMTgxNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU3MDc4LCJpYXQiOjE1MjMzNTIyNzh9.hWO5O_WZrmu3DosW_Fbddw8m3d82rMg4orWZdS1vESfrSZR4GyzVdfmJyS7o5tezW-nRvb_88oK-lyDe1IkQXg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:24:38+00:00	login	k_sandersa31j_8
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:24:38+00:00	name	k_sandersa31j_8
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:24:38+00:00	last_login	2018-04-10T09:24:38Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:24:38+00:00	api_token	53af7f251694cd254530eeae0907062f
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:24:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfc2FuZGVyc2EzMWpfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDQyNzgsImlhdCI6MTUyMzM1MjI3OCwibm9uY2UiOiJkWjR5NkJ1YXZRckJnWjRSZWlJVm5Dck9hb3dKVWVoWFNhMnBXVU1zNnh3PSJ9._c71RBtTbZ2Er3ZthJOuGnj6qXns1-cLvq1kUxMAeHjzZX07Jm1RiQiLcFRitHkEjob5v9Sb1-Bvmv5lPQ6o0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:24:40+00:00	twilight-user	{%22authToken%22:%22mcw52bb3yc52bo3458h351inwrhw9x%22%2C%22displayName%22:%22k_sandersa31j_8%22%2C%22id%22:%22213218168%22%2C%22login%22:%22k_sandersa31j_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:24:40+00:00	auth-token	mcw52bb3yc52bo3458h351inwrhw9x

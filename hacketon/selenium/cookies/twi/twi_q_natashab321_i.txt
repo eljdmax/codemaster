@@ -1,0 +1,13 @@
+#q_natashab321_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dHTGpFqN0epVRWg%2FLP5nDMi9Rbv9aknw%2BtclpLAOjDM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:42:34+00:00	unique_id	5a0452552eb4eaa5
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:53:34+00:00	_twitch_session_id	802390570974c69ac251a7b0223889b6
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:53:57+00:00	persistent	213271535%3A%3Amn1u3kndv24c6zbskxyud6gu18zp32
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:53:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzE1MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc2ODM3LCJpYXQiOjE1MjMzNzIwMzd9.dmsARCrt4qtFQR7EIA04xLrQEsy92LfL7BS3ohuwmmcs5WZUMXY3W3DE_OYlrJva49MQU2nXh9Et4GF5X-LucA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:53:57+00:00	login	q_natashab321_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:53:57+00:00	name	q_natashab321_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:53:57+00:00	last_login	2018-04-10T14:53:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:53:57+00:00	api_token	8183b99da0acdb0e94a41f7761a9e6ba
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:53:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbmF0YXNoYWIzMjFfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjQwMzcsImlhdCI6MTUyMzM3MjAzNywibm9uY2UiOiJtcHVodkJFNXhwVTl3MWpWbUFza1QxdVp5TldIaUJRTE9MVjdNVEFNYTFRPSJ9.Fb7m6a-siTN74XJpD_UZW0uALNHYsBJyzTzYO7LCMj0yjUC1IlnuvPD3VQrUkNum2lXMNUlQ6FOgVJcBHWnktA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:54:02+00:00	twilight-user	{%22authToken%22:%2262stio1jl26te967m8x6ihpcs48nu6%22%2C%22displayName%22:%22q_natashab321_i%22%2C%22id%22:%22213271535%22%2C%22login%22:%22q_natashab321_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:54:02+00:00	auth-token	62stio1jl26te967m8x6ihpcs48nu6

@@ -1,0 +1,13 @@
+#n_nathalieb64n_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	91AAhzm23xO3aGIBh%2FweO06Yj1QgfGSV4ggAHVNvqy8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:48:19+00:00	unique_id	2ee1ed36a873f3ed
+.twitch.tv	TRUE	/	TRUE	2018-04-11T01:48:19+00:00	_twitch_session_id	743df5c37b626f655c42dc6844b27905
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:48:40+00:00	persistent	213257706%3A%3Ai3bmu53vqqythntzbw0yl9spdknqgb
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:48:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTc3MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTcyOTIxLCJpYXQiOjE1MjMzNjgxMjF9.wT-mEF2XmDVpbcX4Wv8BfgIgbJJSxnRtkSPs8tQJOee9oSAnWlBLKC8XZpuLogm2NpnHzGLgDNRkJ5ike5qeUA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:48:40+00:00	login	n_nathalieb64n_k
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:48:40+00:00	name	n_nathalieb64n_k
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:48:40+00:00	last_login	2018-04-10T13:48:41Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:48:40+00:00	api_token	167555c72570c1ab161acd7cef99d570
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:48:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbmF0aGFsaWViNjRuX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIwMTIxLCJpYXQiOjE1MjMzNjgxMjEsIm5vbmNlIjoiWS1lLWNpV0xwVG5vcXlSTWQ3ZTlrdk1YVlBOSFd5U3RCcW82U1czODRDTT0ifQ%3D%3D.yL0g7-7utyXQcapZRgA9Z-r007hBrPBS046bCu3FijErebN5_xDthKoimkWhrGtyPFQi-GntInHRbs8WNyDfrg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:48:45+00:00	twilight-user	{%22authToken%22:%22eq393972dtc4vkktss8ze4767vs7fc%22%2C%22displayName%22:%22n_nathalieb64n_k%22%2C%22id%22:%22213257706%22%2C%22login%22:%22n_nathalieb64n_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:48:45+00:00	auth-token	eq393972dtc4vkktss8ze4767vs7fc

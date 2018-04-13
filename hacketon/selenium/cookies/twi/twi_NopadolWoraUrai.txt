@@ -1,0 +1,13 @@
+#NopadolWoraUrai
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aWoFc4lZON7kUAXKQUslYbRlwO7ks7UqksksoeMk%2FGk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:48:06+00:00	unique_id	620b54fbe3771dd9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:48:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:48:27+00:00	persistent	213833813%3A%3Avilrdp986bksv9swjqwmtjncbwid3w
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:48:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzM4MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0NTA4LCJpYXQiOjE1MjM1Njk3MDh9.Dk5sqw9LP42WMxCbWEnqs1262tZ5FAP5KAIoNPjP_8_Gi6oSBiFo3ZtNn0huNA-CDKLK4vX8Fl3KbzJDI19yrw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:48:27+00:00	login	nopadolworaurai
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:48:27+00:00	name	nopadolworaurai
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:48:27+00:00	last_login	2018-04-12T21:48:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:48:27+00:00	api_token	a1cd8bc73c062b16ed8ab7f3ebfa0586
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:48:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5vcGFkb2x3b3JhdXJhaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjE3MDgsImlhdCI6MTUyMzU2OTcwOCwibm9uY2UiOiJOQUllY3R3em9pUlF0aEJUc0dYRUdnanZvR0NqU2NHa2I4Y080X3paM3BvPSJ9.3g0bRFSitRIUPha-1GTp1CATmQRy0paFdjdCqsCNTRC64qjgYfbfQxa-bHZacmYrdSsjJbsjfndReQ1wWhCtSg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:48:40+00:00	twilight-user	{%22authToken%22:%22mmy7izcao11cqnrhblm59sifevlnpt%22%2C%22displayName%22:%22nopadolworaurai%22%2C%22id%22:%22213833813%22%2C%22login%22:%22nopadolworaurai%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:48:40+00:00	auth-token	mmy7izcao11cqnrhblm59sifevlnpt

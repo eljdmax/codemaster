@@ -1,0 +1,15 @@
+#RichardDavidRn
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bitxKNZG%2FPWhprUVgTBr3ucOfGuHL%2FADlSl5AT%2Fi%2FZU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:41:28+00:00	unique_id	4535869dc28a0bdb
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:41:28+00:00	_twitch_session_id	7003cba3c3f9537824151713bdc9c6f9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:41:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:41:55+00:00	persistent	213820015%3A%3Acl4720nim6wjzflx2tbxyh1bhvwppc
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:41:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjAwMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNTE1LCJpYXQiOjE1MjM1NjU3MTV9.PYTArWV6B5VLugQpuoOKATCdtNgutDtGi5UCYtnO2w6xeKJcYIcOgFzaFUE0zIKnS652DiDSG5mLJNgPyjfgYw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:41:55+00:00	login	richarddavidrn
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:41:55+00:00	name	richarddavidrn
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:41:55+00:00	last_login	2018-04-12T20:41:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:41:55+00:00	api_token	2f699c66578be119b6a2b85f00190a6a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:41:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJpY2hhcmRkYXZpZHJuIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExNzcxNSwiaWF0IjoxNTIzNTY1NzE1LCJub25jZSI6Im5aenZlWS1wWDNja2VfMDBJWXI1VjVmcnpTaTllV051QnJraGgyR2ZlMG89In0%3D.2JcrdyjsoYU1cVOb-w1gG4TDCb5JqXoLba6_l6Dc5rVSQjgsi-hPniP8n8TymLbBlIK4u2Lpep87TmZf4Xumwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:42:08+00:00	twilight-user	{%22authToken%22:%22vv6x6b907l8u3ddydv8r4m0hrdhkgz%22%2C%22displayName%22:%22richarddavidrn%22%2C%22id%22:%22213820015%22%2C%22login%22:%22richarddavidrn%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:42:08+00:00	auth-token	vv6x6b907l8u3ddydv8r4m0hrdhkgz
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:42:11+00:00	twilight_onboarding	true

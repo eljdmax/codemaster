@@ -1,0 +1,14 @@
+#j_patricka141_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4yA7YE%2FJrRUxTC9sgYcJzkrFxxTau6JaNwe6bNaLsoQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:24:17+00:00	unique_id	de1f542e35addcd9
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:24:33+00:00	persistent	213089140%3A%3Afwz4r817xf3doi02jr1f8hr21gcjb7
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:24:33+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODkxNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTYyNzQsImlhdCI6MTUyMzMxMjY3NH0=.HjdDu019YWPAM6iFudrn2-fM_ugQZYVb0dOkeNqUP7Z0JTgGsyWBmJRjdoVjkJFcpMKLOPj9fbLfQLoi-X2Kog==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:24:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODkxNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE3NDc0LCJpYXQiOjE1MjMzMTI2NzR9.GiIlylw6LWqYE4Rk4LDavecs_9LGNj4SbZgJcvFAQc_ys8gU-CZ7HGvFg7MfMrf1Up3d78hJDoZZhpfslId5Aw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:24:33+00:00	login	j_patricka141_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:24:33+00:00	name	j_patricka141_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:24:33+00:00	last_login	2018-04-09T22:24:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:24:33+00:00	api_token	25993b6c55b1adfac113e7fbae8de9ad
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:24:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfcGF0cmlja2ExNDFfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQ2NzQsImlhdCI6MTUyMzMxMjY3NCwibm9uY2UiOiJNQUhHWGhzRW9TNXY5LVdqVnVnVmdfTTVlLU90UHlPcDd3eGlkbWhBdUJFPSJ9.HIrbgjClUVoSdBBhbpFcRR7tgz736QV_pgKyK-Y8PdHuqSuv9VZuKWijQPhSkdrEa_iSfEiLgO06hIDgImOxaw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:24:33+00:00	twilight-user	{%22authToken%22:%22shzcqs78yjarlxo2h4tz6u2dpeiwaz%22%2C%22displayName%22:%22j_patricka141_9%22%2C%22id%22:%22213089140%22%2C%22login%22:%22j_patricka141_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:24:33+00:00	auth-token	shzcqs78yjarlxo2h4tz6u2dpeiwaz
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:24:36+00:00	twilight_onboarding	true

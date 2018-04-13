@@ -1,0 +1,13 @@
+#a_martiald92g_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AgiMGXkWFHXLBBfycJB9nc3%2BtyBqDumMPDQhvjlTScg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:07:22+00:00	unique_id	915f652c05adccdf
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:07:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:07:49+00:00	persistent	213492625%3A%3Ahpygce2ytbvnodscjd5il18aeih6yn
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:07:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTI2MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ5NjY5LCJpYXQiOjE1MjM0NDQ4Njl9.XM_j2FpH4fC0LVCDnJW9imL6a6NvTCGt4SdLubK6c0VP4ZVjrr1_v1Fd5w6jWt-1uppVBouHOgHDb_dEUbMBFw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:07:49+00:00	login	a_martiald92g_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:07:49+00:00	name	a_martiald92g_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:07:49+00:00	last_login	2018-04-11T11:07:49Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:07:49+00:00	api_token	34154271192a540560e9b31a610ec33a
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:07:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWFydGlhbGQ5MmdfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTY4NjksImlhdCI6MTUyMzQ0NDg2OSwibm9uY2UiOiJ0cjc0YlBaTFBnbk9SSEhqbm93ajFEWFNGckJUWDZ5SWNtRHZObE9fdm9rPSJ9.1qcbRrELWetfVBBRgbJfVE_NL3XbFsAfFHsNW1j20mJxg-akqzcRa9OpHAQZbGigKXbA48c41T1xPDGI6QkzkA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:07:56+00:00	twilight-user	{%22authToken%22:%221sb2vu2xt7uw3v0fcxatecaqs50vds%22%2C%22displayName%22:%22a_martiald92g_h%22%2C%22id%22:%22213492625%22%2C%22login%22:%22a_martiald92g_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:07:56+00:00	auth-token	1sb2vu2xt7uw3v0fcxatecaqs50vds

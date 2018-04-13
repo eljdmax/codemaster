@@ -1,0 +1,13 @@
+#SudhaRamakrisn
+.twitch.tv	TRUE	/	FALSE	2028-04-09T20:30:51+00:00	unique_id	ByD6qEd8vJu5u4RX5ULu84DxnZSQzUr2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0Vp41GLgPJqRENNx5XWEh%2F36COevoZYoPV7ry%2FROCZk%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:34:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:34:45+00:00	persistent	213818584%3A%3A22e8szep1lamg6yo4v4egchfmfwdwx
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:34:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTg1ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwMDg1LCJpYXQiOjE1MjM1NjUyODV9.AnCBoWwecMkmZYR8fkVAffUrzbxCDOaECIUpArZZzFIyMerfbQBLHgRmELZ-T6ehcIlr1AXEqE7ipn_hdggNlw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:34:45+00:00	login	sudharamakrisn
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:34:45+00:00	name	sudharamakrisn
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:34:45+00:00	last_login	2018-04-12T20:34:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:34:45+00:00	api_token	272b628f02f24978a0b3223db9050930
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:34:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InN1ZGhhcmFtYWtyaXNuIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExNzI4NSwiaWF0IjoxNTIzNTY1Mjg1LCJub25jZSI6Ikp6bURUTW9fdUNjUXpkU0hNRnp6YzZrbWRxY1hJZHZTY1FNd2pIc251czA9In0%3D.ilI-oytanAAcKqkDYTnpyi0w-I_d69yeoOTYUdwKtp7JU9c7ROJX5B8-4VcDsard6y1OmqeIqfn-RBbrL44wiA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:34:58+00:00	twilight-user	{%22authToken%22:%22d0iufy03nqxx9e2w20r3tgfmvybh4x%22%2C%22displayName%22:%22sudharamakrisn%22%2C%22id%22:%22213818584%22%2C%22login%22:%22sudharamakrisn%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:34:58+00:00	auth-token	d0iufy03nqxx9e2w20r3tgfmvybh4x

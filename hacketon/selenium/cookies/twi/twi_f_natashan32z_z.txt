@@ -1,0 +1,13 @@
+#f_natashan32z_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KzbktF8Da6dtTcs2Pm5HmgOTopoOK7UH%2B%2FMpEn%2BqYwQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:42:27+00:00	unique_id	50280ebf08a32bd2
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:42:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:42:59+00:00	persistent	213504523%3A%3A8lbmqsbg335sz33alb44gsyiobuaq2
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:42:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDQ1MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU1MzgwLCJpYXQiOjE1MjM0NTA1ODB9.ZItraHSFYTQPRpk3k-AaeNdBDI8c0Me1DYjhg8zHKSyeTel4ZsxzRH2A6psLuyLQtIIzu0Uh9AUrWAuWzKAAXw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:42:59+00:00	login	f_natashan32z_z
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:42:59+00:00	name	f_natashan32z_z
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:42:59+00:00	last_login	2018-04-11T12:43:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:42:59+00:00	api_token	9731817897df5fe1c5790a61acc62d98
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:42:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbmF0YXNoYW4zMnpfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDI1ODAsImlhdCI6MTUyMzQ1MDU4MCwibm9uY2UiOiJEckMxclVVTTR6bFVlWG9RbEJ5bEZxT3hxeWFYQWlFRnFuVmxmRFlDY21NPSJ9.UYfJ7C4t-kfjptEtLrZp8h7MwTvEbEzwWI_N87lz_hdYwsVOXuej7pGngA-Nvhu-KUSodbOwOO6t1LRGpc7PaA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:43:08+00:00	twilight-user	{%22authToken%22:%227vn9kju741jxgfz3nabbpkt6epzy7z%22%2C%22displayName%22:%22f_natashan32z_z%22%2C%22id%22:%22213504523%22%2C%22login%22:%22f_natashan32z_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:43:08+00:00	auth-token	7vn9kju741jxgfz3nabbpkt6epzy7z

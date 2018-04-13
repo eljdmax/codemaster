@@ -1,0 +1,13 @@
+#i_nathaliec50a_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lD67t5%2FOdqI9pRE8QWxeQ4iOLsXGoHD9TuuB5VMltbI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:56:59+00:00	unique_id	69e87a04dcceae64
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:56:59+00:00	_twitch_session_id	bf81f52485670cffc8ea8eafd729be2f
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:57:24+00:00	persistent	213272299%3A%3Ap3ttzcuwlydyo8jgapgttx0zw5r1um
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:57:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzIyOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc3MDQ1LCJpYXQiOjE1MjMzNzIyNDV9.xEDUmc5C2jy0mCcJBNfQhqdvX6vKqx0PzGZcbt06NFo8mWJNZXWEv1Pz8XMQjQn0LZsl5nJ60h1_xs_cIHU8VA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:57:24+00:00	login	i_nathaliec50a_a
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:57:24+00:00	name	i_nathaliec50a_a
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:57:24+00:00	last_login	2018-04-10T14:57:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:57:24+00:00	api_token	871309f26c192c1b5abb34ad00a67dba
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:57:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbmF0aGFsaWVjNTBhX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI0MjQ1LCJpYXQiOjE1MjMzNzIyNDUsIm5vbmNlIjoiZUFub2g2eWdvZ2lrQjV6dmF3TUVQYnpVN2F3dVg0d0o3eFpKUUo2R25BZz0ifQ%3D%3D.jZHOLdMkGcLNWk9k9U1xY8ZrxoD6Oayz7iTQFzn6xLFMLunUWH_YHk0JB_N5Y95yU1cyaVDxyzUTKGAu_UQh4g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:57:29+00:00	twilight-user	{%22authToken%22:%22cmhrnpzu0spo93sgilxrmwfnsv1s3e%22%2C%22displayName%22:%22i_nathaliec50a_a%22%2C%22id%22:%22213272299%22%2C%22login%22:%22i_nathaliec50a_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:57:29+00:00	auth-token	cmhrnpzu0spo93sgilxrmwfnsv1s3e

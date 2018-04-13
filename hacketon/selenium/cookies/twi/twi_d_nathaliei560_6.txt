@@ -1,0 +1,13 @@
+#d_nathaliei560_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hpEnPIIR8QVy6fDZF3BX4VKkjx6Z0akB2%2BBR8352kqQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:20:59+00:00	unique_id	7fa141667d66b3e1
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:20:59+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:21:33+00:00	persistent	213520733%3A%3Ai4dtdz496lo9s4cj29av7w4bia9tcx
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:21:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjA3MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYxMjkzLCJpYXQiOjE1MjM0NTY0OTN9.S-vSwGocFDwv02RrUqJ-ahS37psOcrWd3Pk4sh7YEtcyA1fGYST5NrpWfSK99oP4BzDM4DczCsPYj9QclHU9Zw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:21:33+00:00	login	d_nathaliei560_6
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:21:33+00:00	name	d_nathaliei560_6
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:21:33+00:00	last_login	2018-04-11T14:21:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:21:33+00:00	api_token	b99c03759b1adf88a4418f7da6f7be7d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:21:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbmF0aGFsaWVpNTYwXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDA4NDkzLCJpYXQiOjE1MjM0NTY0OTMsIm5vbmNlIjoiaDBXRmc5WEYwOHJwU1VCWXVRSE9Bem5zbmVLYUNuazVKanp3MHk5SHcxQT0ifQ%3D%3D.yqStPffOGanInsuKtms16NO8_D0u3Gn32k5fO1ZpXw6uzfvfJEn6x9mwHA5Zo5R6g7akQCphkam5NxJ87kt_BA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:21:42+00:00	twilight-user	{%22authToken%22:%22w60pmy7ucpszhsndz229xn76ohuwvq%22%2C%22displayName%22:%22d_nathaliei560_6%22%2C%22id%22:%22213520733%22%2C%22login%22:%22d_nathaliei560_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:21:42+00:00	auth-token	w60pmy7ucpszhsndz229xn76ohuwvq

@@ -1,0 +1,14 @@
+#AshutoshSharan
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ZUDZLqJTGg%2FeW5cFgF0kZj5dx48EoAmjOrAeIqDlICY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:48:36+00:00	unique_id	f2552ea5362a9075
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:48:36+00:00	_twitch_session_id	3b3516a3e4c0b071de98749ab22945cf
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:48:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:49:11+00:00	persistent	213821356%3A%3Az06mhbj9dw1iskpokiilfi9kx1bnkv
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:49:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjEzNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwOTUxLCJpYXQiOjE1MjM1NjYxNTF9.rA05irD6nGDeT-tRNLsd7_jBPmfsoiNKvFJ19Pr3DE131fqqso0ZBb6Yz6HMK_1nHshAXMZTnMBfe3_YH_E4Rw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:49:11+00:00	login	ashutoshsharan
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:49:11+00:00	name	ashutoshsharan
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:49:11+00:00	last_login	2018-04-12T20:49:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:49:11+00:00	api_token	5753ebffba0053f46f8936be59d3eee1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:49:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFzaHV0b3Noc2hhcmFuIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExODE1MSwiaWF0IjoxNTIzNTY2MTUxLCJub25jZSI6InJWV1N0N2xaSHlqMTZuWExFblpWbWo2aFpLTThXb3U2VGlDdUd2Ul9ySVk9In0%3D.Hh5CgOeE12JmGZI5Imhh4njnV5Zdai0dWYKJ93gmLeF1JcObOrJZzfT8UBX6IA21i_HgWt_PQPCEwYbKhSRY_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:49:25+00:00	twilight-user	{%22authToken%22:%22r8ens4gwgs2vlvg3tmvsiu9v8z0uu5%22%2C%22displayName%22:%22ashutoshsharan%22%2C%22id%22:%22213821356%22%2C%22login%22:%22ashutoshsharan%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:49:25+00:00	auth-token	r8ens4gwgs2vlvg3tmvsiu9v8z0uu5

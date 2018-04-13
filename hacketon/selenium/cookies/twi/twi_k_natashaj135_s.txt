@@ -1,0 +1,14 @@
+#k_natashaj135_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GflLR%2FIXrOilb3ugRLAU0byBOiZRJ2iMsV3zbQk0G20%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:03:56+00:00	unique_id	c6bcdeefbb7f95d9
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:03:56+00:00	_twitch_session_id	9014f18e99e8bb3fb6bb119b71bb89f6
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:03:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:04:32+00:00	persistent	213517612%3A%3Alp4zkr4k3kv30ivm8f7spihb2ukwjp
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:04:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTc2MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYwMjczLCJpYXQiOjE1MjM0NTU0NzN9.vPQ5MbMvFV9Wi_rW1Fpcu5FvAjqqNY8HDuSMfuLEGuraM1MtL6E0Y3Ru0OoLbppHx3_b4Ywfo8Gh7XNLSKxlTg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:04:32+00:00	login	k_natashaj135_s
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:04:32+00:00	name	k_natashaj135_s
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:04:32+00:00	last_login	2018-04-11T14:04:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:04:32+00:00	api_token	af5f9d9481cce0c3497ed164bec280b1
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:04:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0YXNoYWoxMzVfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDc0NzMsImlhdCI6MTUyMzQ1NTQ3Mywibm9uY2UiOiJiam05QUhSWHFBR3ZPdmZCdlBpRk8yQXRlYkJIZXhxTVVQaWMtWG9QeHZrPSJ9.W9d8LBpkuTk_6uR-9dcryd0XEUQAaMl2nMO3dKgDHzOuxL4C6qunv2yRhjk29SsBHnSnfMb-ykwFYTp_MFonRQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:04:40+00:00	twilight-user	{%22authToken%22:%22b0hzju26jourgki3cw3p31kylwnkiy%22%2C%22displayName%22:%22k_natashaj135_s%22%2C%22id%22:%22213517612%22%2C%22login%22:%22k_natashaj135_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:04:40+00:00	auth-token	b0hzju26jourgki3cw3p31kylwnkiy

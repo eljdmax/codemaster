@@ -1,0 +1,14 @@
+#AdiRastono
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:36:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8emHzpaSaWts%2FM4aZc4yUX5uxDU4d%2Fp6gzWgpbDQsk0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:40:02+00:00	unique_id	d3a4152fb832d685
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:40:02+00:00	_twitch_session_id	809effb23bf7e09273991c540d5f5f28
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:40:22+00:00	persistent	213819689%3A%3Ayii5583889y792l79hzx43w0a2qa5u
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:40:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTk2ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNDIzLCJpYXQiOjE1MjM1NjU2MjN9.TIzyOa5J9XfCJNndtu-4NTiwu4xKQ2M2jsTYigHCyBEjQvQpYjEJm_-QanUAjF8JudhlXHFak8_WP2aEU-Zm4g==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:40:22+00:00	login	adirastono
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:40:22+00:00	name	adirastono
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:40:22+00:00	last_login	2018-04-12T20:40:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:40:22+00:00	api_token	a2822ccb460273355af23ac69b9c21d7
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:40:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFkaXJhc3Rvbm8iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE3NjIzLCJpYXQiOjE1MjM1NjU2MjMsIm5vbmNlIjoibnFjRTl0cEZMVUpLNm9mcnNtU1BmQTNNUnhvd1FMREpOTlRPVG1qUzZkVT0ifQ%3D%3D.MwgLnmYXE8_TdsNGs6nvNb3OvqgaZycRgSTgMaeMTIVUKNvguy7ueyqyGcC9Vx3IrDaBx_aoKFoDbE5KHXxs3w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:40:42+00:00	twilight-user	{%22authToken%22:%22a3kx34il85pws8z8v4uzyoyfuc14e0%22%2C%22displayName%22:%22adirastono%22%2C%22id%22:%22213819689%22%2C%22login%22:%22adirastono%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:40:42+00:00	auth-token	a3kx34il85pws8z8v4uzyoyfuc14e0

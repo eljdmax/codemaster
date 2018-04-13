@@ -1,0 +1,13 @@
+#KRajasekaran
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lDoqzz0s8llKwF1y7aSMULkL2C9WatAN777jbmwd0eA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:32:29+00:00	unique_id	51aab4c9490c82a1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:32:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:32:52+00:00	persistent	213818219%3A%3Aq83d5rh3ya9l92w785m5wctbln39he
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:32:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTgyMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTY5OTczLCJpYXQiOjE1MjM1NjUxNzN9.R0YAghhw0hOIC__3F8EwqrY1VMJf5U0rg9YNANTI9nbrXoNEVNffVJC6nhy6zHrvPK0oNGTVQ3dFy6Uaw6u7fg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:32:52+00:00	login	krajasekaran
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:32:52+00:00	name	krajasekaran
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:32:52+00:00	last_login	2018-04-12T20:32:53Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:32:52+00:00	api_token	926582b76980af383a1bff349947683d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:32:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtyYWphc2VrYXJhbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTcxNzMsImlhdCI6MTUyMzU2NTE3Mywibm9uY2UiOiJNb3o4SVZqYzhEWE1vTS1TajJVbTJGalFvdDNXeXAzVVRMOUJmLURuMHo4PSJ9.E2pqbQJqAmdJ-SHjJzvyY3uMhm7JI1EMq6kjFiJP6LXFVQafE8t786b-nhawZVJUgn68Z1rfRnzJ1J-ppG1TGg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:33:05+00:00	twilight-user	{%22authToken%22:%22fsnzh0bfs0cx42r1jlpvnphff3e742%22%2C%22displayName%22:%22krajasekaran%22%2C%22id%22:%22213818219%22%2C%22login%22:%22krajasekaran%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:33:05+00:00	auth-token	fsnzh0bfs0cx42r1jlpvnphff3e742

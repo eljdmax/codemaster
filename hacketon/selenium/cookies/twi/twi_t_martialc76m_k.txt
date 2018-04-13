@@ -1,0 +1,13 @@
+#t_martialc76m_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	I9KKnr3ug6UjR2msIVsPmuCOluQFz7%2B8sGRj5%2BFoRU0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:58:19+00:00	unique_id	6469b95ca09a9d18
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:58:19+00:00	_twitch_session_id	c340c367526dc8f408a517fb40506544
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:59:33+00:00	persistent	213286425%3A%3Au3csvobbgvf6uwh2mlblihd17d2yzt
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:59:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODY0MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgwNzczLCJpYXQiOjE1MjMzNzU5NzN9.59NtHFjMPFc_bgnl8KEd60us5MdR4KxGvPmgc-5UlHpFBDpLruGV9V8sxi73w_T1Akp-puR-IHqzpeVQiQwRkw==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:59:33+00:00	login	t_martialc76m_k3
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:59:33+00:00	name	t_martialc76m_k3
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:59:33+00:00	last_login	2018-04-10T15:59:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:59:33+00:00	api_token	bc3f86d8e348902b6b09cdb4abc4d5dc
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:59:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbWFydGlhbGM3Nm1fazMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI3OTczLCJpYXQiOjE1MjMzNzU5NzMsIm5vbmNlIjoia2QyTF9tWjdkZWdOb21faXFVUmc3UEpabWNYOXIxN1hoUDlCa0Vtd0VwTT0ifQ%3D%3D.JhAVKVZtwYnuHVP825Ltvi18fQMYwHQdF3GFAxvRV6Uv8a5UEItxAwbr-oe_Tl9IQkEK_vEYjjnG3RYTD_cBCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:59:40+00:00	twilight-user	{%22authToken%22:%22p16zfaayfhcsrphhzmcgtb840h8we3%22%2C%22displayName%22:%22t_martialc76m_k3%22%2C%22id%22:%22213286425%22%2C%22login%22:%22t_martialc76m_k3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:59:40+00:00	auth-token	p16zfaayfhcsrphhzmcgtb840h8we3

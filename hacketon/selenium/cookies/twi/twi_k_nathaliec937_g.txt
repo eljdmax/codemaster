@@ -1,0 +1,13 @@
+#k_nathaliec937_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bO4abJRPwQwKUQf2jSAaDIZHGSsncuIwpsRhTjK1aVo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:38:25+00:00	unique_id	c6ca01840e426c48
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:38:25+00:00	_twitch_session_id	c371b83f57ca0c9a5b04a37715635b3f
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:38:48+00:00	persistent	213281721%3A%3Ahnt0wyp3mmr1on3stt1wfygjp5epkr
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:38:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODE3MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc5NTI4LCJpYXQiOjE1MjMzNzQ3Mjh9.tCvaaD08Oyy4gCbvVKWzB_5J1_Ql6OWZW2QrJ1OqVM1bkOpsPVtkJI_3f9Nqr0uHpdhKQOy3I6vdUyXAtpvgMA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:38:48+00:00	login	k_nathaliec937_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:38:48+00:00	name	k_nathaliec937_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:38:48+00:00	last_login	2018-04-10T15:38:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:38:48+00:00	api_token	9b64b5d22e00648ca4965c69f88eac85
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:38:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0aGFsaWVjOTM3X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI2NzI4LCJpYXQiOjE1MjMzNzQ3MjgsIm5vbmNlIjoiMy0xbURWc193bEVLVDBYR3JCWG0yWVBIZkVpaWZab25lbDdDMTAwREp5RT0ifQ%3D%3D.Tt3xs8PXogyu4xoqRCwDsEY5r5vYGhtB2VzlcMlVVIHO7JMV0et3_Ms392znO8vjkyka7A3kWWxHLYizTp2kRg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:38:51+00:00	twilight-user	{%22authToken%22:%22udmnq2b96agkyuxumr25ncyp7ko1hy%22%2C%22displayName%22:%22k_nathaliec937_g%22%2C%22id%22:%22213281721%22%2C%22login%22:%22k_nathaliec937_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:38:51+00:00	auth-token	udmnq2b96agkyuxumr25ncyp7ko1hy

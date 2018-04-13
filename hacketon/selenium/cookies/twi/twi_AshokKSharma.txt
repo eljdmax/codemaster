@@ -1,0 +1,13 @@
+#AshokKSharma
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HUvr%2FPU%2BZmRmQUJgsZVDT%2F9ylfPDa0sberZYj61pJYE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:19:42+00:00	unique_id	b33ff970fc07daab
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:19:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:20:05+00:00	persistent	213827394%3A%3A46egv2s5hw6vzw04evzw4abmrcmwz9
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:20:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjczOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyODA2LCJpYXQiOjE1MjM1NjgwMDZ9.7fdgm21dldXcgtH4MemZIl4swPneFIsMHf11dGOUyfu4bd3snic1J6V3-MhF-urZmHoTe3mWL2YHpPAcsK_ppw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:20:05+00:00	login	ashokksharma
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:20:05+00:00	name	ashokksharma
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:20:05+00:00	last_login	2018-04-12T21:20:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:20:05+00:00	api_token	0e3294f51b004657ecc33424437297b9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:20:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFzaG9ra3NoYXJtYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjAwMDYsImlhdCI6MTUyMzU2ODAwNiwibm9uY2UiOiJIRENSaWxKbW9MNHAzZnVyWEhlUTFvdW81RC12X2ZqSE9BRXBzbW5jaThzPSJ9.3rXeAU6xbFEGMYyfL03tvfoMd1eRXctu_pPms29mPRcfo306ewnnmCox-mIdVUy6CrHb-sC6JSLtrNFaybovKw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:20:22+00:00	twilight-user	{%22authToken%22:%22tv9kwghzw17hqk0q0lzodagqk8z68t%22%2C%22displayName%22:%22ashokksharma%22%2C%22id%22:%22213827394%22%2C%22login%22:%22ashokksharma%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:20:22+00:00	auth-token	tv9kwghzw17hqk0q0lzodagqk8z68t

@@ -1,0 +1,14 @@
+#g_nathalieg023_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hC7Zg9M8RhzRuK6TR%2Fa0x46XzVdK5%2BKU%2F0Q9Lifo0hk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:50:06+00:00	unique_id	6a7497c931b2bc80
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:50:06+00:00	_twitch_session_id	04ff2526ff0a1b37563506346c18ab41
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:50:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:50:38+00:00	persistent	213497550%3A%3A174de1ksvc0dsecnwtrzidvshkucdx
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:50:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTc1NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUyMjM4LCJpYXQiOjE1MjM0NDc0Mzh9.gZ8rOoVCWJqw2gw-iFNeIwIk2C0ZZZSusEQGrRfFy99nnBCWX869vW9msQyLKhm3oSj7oToLri_oHKZfSBK9TA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:50:38+00:00	login	g_nathalieg023_t
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:50:38+00:00	name	g_nathalieg023_t
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:50:38+00:00	last_login	2018-04-11T11:50:38Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:50:38+00:00	api_token	2bb95b207d2c0d0f8cb097689469a9fe
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:50:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbmF0aGFsaWVnMDIzX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk5NDM4LCJpYXQiOjE1MjM0NDc0MzgsIm5vbmNlIjoiMlo3UkJfbjBhaG1nRUk3TjEza29HZHhkTDFQVEp1Q19tUnZ3aHp0RWVhbz0ifQ%3D%3D.yQbhQHirgYjARBb5U2Bc7cYcwN67p6jbXxqBEUTb-tiYyC1UM-yXXOIl08eI2b1PEA48IshUv6RfpAtvdmHKRg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:50:46+00:00	twilight-user	{%22authToken%22:%22ixgvqloqrh5mlnuro12bq6uecggrmu%22%2C%22displayName%22:%22g_nathalieg023_t%22%2C%22id%22:%22213497550%22%2C%22login%22:%22g_nathalieg023_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:50:46+00:00	auth-token	ixgvqloqrh5mlnuro12bq6uecggrmu

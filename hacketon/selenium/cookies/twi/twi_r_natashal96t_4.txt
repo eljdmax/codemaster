@@ -1,0 +1,14 @@
+#r_natashal96t_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	OZfpuPPHUY2hAgNCJBaWUharPznvv7ug1zBPrdeiKdU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:55:30+00:00	unique_id	0ac4b8633a052deb
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:55:30+00:00	_twitch_session_id	3bee8b5f9e3b777e945de65a7148a06f
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:55:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:55:58+00:00	persistent	213526991%3A%3Av8ysduz7oczzmx5vybhjn9myqxxc7z
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:55:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjY5OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYzMzU5LCJpYXQiOjE1MjM0NTg1NTl9.rb-f1py6-ERxYaFCQnlIIX2I8u0ClkUnC1T3Z865wQYFQE6xDvtxvk1O4nR5dt7xx81GBuZMCwdZqvJLuBcHpg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:55:58+00:00	login	r_natashal96t_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:55:58+00:00	name	r_natashal96t_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:55:58+00:00	last_login	2018-04-11T14:55:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:55:58+00:00	api_token	852a8ad14d9c815578479cc870888aa0
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:55:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbmF0YXNoYWw5NnRfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMTA1NTksImlhdCI6MTUyMzQ1ODU1OSwibm9uY2UiOiJCdWRnQTBjNk9XLWJoTlpsZXh3ODhiWHJQV0tMNE5uVmRNSHFtcnRmaU8wPSJ9.iKnOwAoMBnHmSsNWcm1yolEbYTqeH_dkcsDg4bm3AqrPvuqy3AhEprBz_x8SYpsHOMtnHKOiPrI_I57Ju_7jdg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:56:07+00:00	twilight-user	{%22authToken%22:%22h9q8vts97k7by40v2ix2ebgdh49z85%22%2C%22displayName%22:%22r_natashal96t_4%22%2C%22id%22:%22213526991%22%2C%22login%22:%22r_natashal96t_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:56:07+00:00	auth-token	h9q8vts97k7by40v2ix2ebgdh49z85

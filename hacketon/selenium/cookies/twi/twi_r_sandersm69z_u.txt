@@ -1,0 +1,15 @@
+#r_sandersm69z_u
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM0NTQ4MDksIm52IjowLCJ1cHQiOjE1MjM0NTQ4MDEsImx0IjoxNTIzNDU0ODAxfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VU6lBT%2F722QJNE0y%2BwqnTd0abCTRRL%2FG6SJyCn%2FWrEA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:56:54+00:00	unique_id	85ade4152fa7f248
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:56:54+00:00	_twitch_session_id	d2cc19f6e34c89808ea6a5aded9005eb
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:56:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:57:08+00:00	persistent	213506623%3A%3Aqthwzy28wg9p5vyvcg6h7ey9nsc0x9
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:57:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDY2MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU2MjI4LCJpYXQiOjE1MjM0NTE0Mjh9.r7IstOghZMb7oH1eUom1IKTTfu75Y5WMxYCfaED73IUNkKgRcEzKwr-2ScXEH7bBIh4BBmDW7T-az6V3bhjMIQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:57:08+00:00	login	r_sandersm69z_u
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:57:08+00:00	name	r_sandersm69z_u
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:57:08+00:00	last_login	2018-04-11T12:57:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:57:08+00:00	api_token	8b0e29549828cc6de711652e2b01f733
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:57:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc2FuZGVyc202OXpfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDM0MjgsImlhdCI6MTUyMzQ1MTQyOCwibm9uY2UiOiJRXzdCemZkczU5OWQwWDdOdjU2c181ZDluYU5DcU53OWs1OUd6OEQzWjYwPSJ9.fmQKxGt258KRQLJKqAyKJhMiFkylKAKYt93CwIMzDdPci_skYQwmgmJglMMwm5VjISDjEbcsCXlfFGikuQuohA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:57:14+00:00	twilight-user	{%22authToken%22:%22v1dr2m6iq15iv1tk46i8dxijfso6ws%22%2C%22displayName%22:%22r_sandersm69z_u%22%2C%22id%22:%22213506623%22%2C%22login%22:%22r_sandersm69z_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:57:14+00:00	auth-token	v1dr2m6iq15iv1tk46i8dxijfso6ws

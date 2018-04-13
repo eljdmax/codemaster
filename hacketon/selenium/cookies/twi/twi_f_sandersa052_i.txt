@@ -1,0 +1,13 @@
+#f_sandersa052_i
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:40:16+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-10T09:40:15+00:00	unique_id	ff992035a6b5e648
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	e%2BkL10i4kNi9dMbKZTf9UtqT7OTSIcKViOYixt9LukY%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:44:12+00:00	persistent	213220271%3A%3A5njrxpndivdqq0wgat55qby5jthn1i
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:44:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjAyNzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU4MjUyLCJpYXQiOjE1MjMzNTM0NTJ9.X4gyXfgME46j5Y4GGHo1LB5IvTS-mvAGb3e6FatXhZgitKbhTmFMI46c_jEcUucqNHnMpDZ5qholfIvyTjMSZA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:44:12+00:00	login	f_sandersa052_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:44:12+00:00	name	f_sandersa052_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:44:12+00:00	last_login	2018-04-10T09:44:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:44:12+00:00	api_token	296fdb090fe9bafbc0662e7eeb0cec76
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:44:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfc2FuZGVyc2EwNTJfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDU0NTIsImlhdCI6MTUyMzM1MzQ1Miwibm9uY2UiOiJiVEhoY0MwWFQ0bDVRcG1ZMHROVW83eGkxTXVNS1ZXR0Rfb2RWTEJSeGVJPSJ9.YmSBKGNkpXabnjtLYEpIv1rr3jctJyi6rwHOHm_vlS4rGDTM33gpzS02itHMcwWAhGpeuPsEhbgLYpf4gMUtOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:44:17+00:00	twilight-user	{%22authToken%22:%22u3qxg23egv734p8rr7a6r7ndcl0m55%22%2C%22displayName%22:%22f_sandersa052_i%22%2C%22id%22:%22213220271%22%2C%22login%22:%22f_sandersa052_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:44:17+00:00	auth-token	u3qxg23egv734p8rr7a6r7ndcl0m55

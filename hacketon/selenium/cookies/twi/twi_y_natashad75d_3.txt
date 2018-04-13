@@ -1,0 +1,13 @@
+#y_natashad75d_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lmlYnJ%2Fl%2BJDZmpdFo%2F1kAzPWDHc6Vi%2BMzJorZ22gbRo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T10:18:21+00:00	unique_id	42df63e1273b5da1
+.twitch.tv	TRUE	/	TRUE	2018-04-10T22:18:21+00:00	_twitch_session_id	5cecf85208446a5404c3c1ba0b6916d1
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:18:52+00:00	persistent	213224030%3A%3Ayn4ehsb34sk51r6vnwm7mzfxf7ln32
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:18:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjQwMzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTYwMzMyLCJpYXQiOjE1MjMzNTU1MzJ9.z0CsZk-PvobGTTxT9iW57gurmQdz56v-kE9HME-ZxoIYeyzBEWg90JV38fDGS4OKKaLXbCFF0OhnjO2q3ScYoA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:18:52+00:00	login	y_natashad75d_3
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:18:52+00:00	name	y_natashad75d_3
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:18:52+00:00	last_login	2018-04-10T10:18:52Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:18:52+00:00	api_token	8fc9a33472c90b546c91f2ec8f13ff0d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T10:18:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbmF0YXNoYWQ3NWRfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDc1MzIsImlhdCI6MTUyMzM1NTUzMiwibm9uY2UiOiIxaTZBejMxNXlVOURXcEtVQk9WeW1vbVpXNUxUdFBiM0JBRnk5Z2tTQkJJPSJ9.aLkIjxT-9tb76yt9yVajZLpN_8r6sV9RWj1-eJEOJCpDaN4ArBZps7_Hr6SdntKl2tFXjwY6jGE3fh9Y30idCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:18:54+00:00	twilight-user	{%22authToken%22:%22ngk5k2wh9uaujbmc8prfz1zzepcqvo%22%2C%22displayName%22:%22y_natashad75d_3%22%2C%22id%22:%22213224030%22%2C%22login%22:%22y_natashad75d_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:18:54+00:00	auth-token	ngk5k2wh9uaujbmc8prfz1zzepcqvo

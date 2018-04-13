@@ -1,0 +1,14 @@
+#p_martiald864_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	T3zcovFn1qMBZHsY%2FiuWgK8h1kkuT2JxcfWUA7ZJasQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:23:03+00:00	unique_id	ff508cb50d7c2fed
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:23:03+00:00	_twitch_session_id	7d89af7deb835452d91cbabb605fe582
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:23:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:23:38+00:00	persistent	213494347%3A%3A99b4gwfpslv1mieos8u3e94l0k12h9
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:23:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTQzNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUwNjE5LCJpYXQiOjE1MjM0NDU4MTl9.OiG8rT434io5ASUAouYbW57Fj9SISNo6MCzfsVTgkK1sA3ZYBj5S6DMVqFBQ21kj5Y61mPHG4uZSo_wvxdiw5Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:23:38+00:00	login	p_martiald864_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:23:38+00:00	name	p_martiald864_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:23:38+00:00	last_login	2018-04-11T11:23:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:23:38+00:00	api_token	684127b5492285673b369ab42edc75d1
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:23:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbWFydGlhbGQ4NjRfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTc4MTksImlhdCI6MTUyMzQ0NTgxOSwibm9uY2UiOiJRN2VZaTBFUUttWGpyR1o4NTEzYmtsT2ltQzNPeV9DYlN1UVBZcHNIWi1jPSJ9.Rz5T6o_gLZ9-Mft1SvT1tcpX34rLaTSYVKWMildiHVOF0duDWe4jCWcZS1eCoD3MwC2RXrOzSPNsGUTZL-TkSQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:23:47+00:00	twilight-user	{%22authToken%22:%22nnw19u77nc81ztwzih97owpe800bak%22%2C%22displayName%22:%22p_martiald864_w%22%2C%22id%22:%22213494347%22%2C%22login%22:%22p_martiald864_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:23:47+00:00	auth-token	nnw19u77nc81ztwzih97owpe800bak

@@ -1,0 +1,15 @@
+#a_natashaa439_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JqdHY3l2tbOHeXqc8EooB4qxJcEfX5WhOJIB9s2D6H0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:53:20+00:00	unique_id	817db514b4c678fb
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:53:20+00:00	_twitch_session_id	82aa101cdfc41847da1becc706cc229e
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:53:35+00:00	persistent	213095668%3A%3A6pacfkk5sgr36f0561ne742j1c0xmi
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:53:34+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTU2NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTgwMTUsImlhdCI6MTUyMzMxNDQxNX0=.emzlp2MwuIeKpM2xN1miz6C7GeEMQjLtmFFhSebZF-S9DN5uVMpxiDZvmCqgzArbL7BFUsj_OpqRUmOII0yNCQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:53:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTU2NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5MjE1LCJpYXQiOjE1MjMzMTQ0MTV9.x9k3PaRBMt9yKhmEF-0I7nPn1h3Di6Cy48POrye_sRsbaegft7z7ICTdhxe_N2PIMpMO219Rtizx5IEDRnzrlg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:53:35+00:00	login	a_natashaa439_7
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:53:35+00:00	name	a_natashaa439_7
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:53:35+00:00	last_login	2018-04-09T22:53:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:53:35+00:00	api_token	4da9786e949cde32a0a1ff88aa978b15
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:53:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0YXNoYWE0MzlfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjY0MTUsImlhdCI6MTUyMzMxNDQxNSwibm9uY2UiOiJWM0pFYzN0TDU4REI5aFRUU0pBdmFoUm44cmlpNlRGRFdzZzZhYVBlSGswPSJ9.mRjSgQXiWpGUWPd7I1MigDN5bHyk6taEd29UPYg8t4T6ouSHbP8lTsPcdjv07MIIogTzgv8fTxdlQfulyGyCSQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:53:34+00:00	twilight-user	{%22authToken%22:%22i08o4sjzy0y3u2isyb2jtvx53h4eqo%22%2C%22displayName%22:%22a_natashaa439_7%22%2C%22id%22:%22213095668%22%2C%22login%22:%22a_natashaa439_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:53:34+00:00	auth-token	i08o4sjzy0y3u2isyb2jtvx53h4eqo
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:53:37+00:00	twilight_onboarding	true

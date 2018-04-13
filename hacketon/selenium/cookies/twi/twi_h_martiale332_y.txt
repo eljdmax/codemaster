@@ -1,0 +1,13 @@
+#h_martiale332_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SVQjsheY1%2FYly4aq5ZOXe1dQ%2BU4ivnkYHD60gsaBuqo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:37:29+00:00	unique_id	97a1d1f72cc47fcc
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:37:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:37:56+00:00	persistent	213489537%3A%3Aahmbfkguml9dr55el8ykqyhwa46j85
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:37:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODk1MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ3ODc2LCJpYXQiOjE1MjM0NDMwNzZ9.wIKrymvFJdCb6DUE5G4EE3HujiUumg5fFeLZpmVEFt0LeJBRiS6laF0qDnawxnUm9UNvJfO-bJG_gmbC2hwKmg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:37:56+00:00	login	h_martiale332_y
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:37:56+00:00	name	h_martiale332_y
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:37:56+00:00	last_login	2018-04-11T10:37:56Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:37:56+00:00	api_token	329788951df5c98bc2a744b4e08b3ab5
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:37:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFydGlhbGUzMzJfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTUwNzYsImlhdCI6MTUyMzQ0MzA3Niwibm9uY2UiOiJuc3kxZ3R0dGtnLXpMUEdwNEJhaFYzbDR4LVVidG9lcWxHSC1lZXhtOUd3PSJ9.AoGX9dA0hjBJ0-DEB6PP25RuUCdfOKgY1eYqtfkhPwtAtUeKWHBZzegcXSwhzi8bTmkLiK-Vec1fMBj7XQtylw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:38:02+00:00	twilight-user	{%22authToken%22:%22luzagry9ba53ff5pmuxsp88h94l3gj%22%2C%22displayName%22:%22h_martiale332_y%22%2C%22id%22:%22213489537%22%2C%22login%22:%22h_martiale332_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:38:02+00:00	auth-token	luzagry9ba53ff5pmuxsp88h94l3gj

@@ -1,0 +1,13 @@
+#ClementSRajan
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3U1CuzpqN23gawDbaOrCiDV9NuBj1Ih9qp5icUodmSY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:31:54+00:00	unique_id	d941e43705cb3869
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:31:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:32:20+00:00	persistent	213818125%3A%3A3bqw2ymzt8omo2m6kgdmec4cu90806
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:32:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTgxMjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTY5OTQwLCJpYXQiOjE1MjM1NjUxNDB9.ULDkxBstNmCNldIKLlVNJYBru3GiXhrCZUzlUNN7xUeoTK_g3vVbU7vbOeia-cRdPNKFNpx8SPvEO6_KcrQeOw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:32:20+00:00	login	clementsrajan
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:32:20+00:00	name	clementsrajan
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:32:20+00:00	last_login	2018-04-12T20:32:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:32:20+00:00	api_token	36343dadcf4a60ef334eb57372221499
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:32:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNsZW1lbnRzcmFqYW4iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE3MTQwLCJpYXQiOjE1MjM1NjUxNDAsIm5vbmNlIjoiT1FpVXB5eFBaSFBvZlNJVHV3aE5zMkhaMGxTR2hBYWZRVEhFN2NUZ1V6Yz0ifQ%3D%3D.Vdg7qiKBamGS-dcawFi6EVJW4EpgQZk6yZSF91sbrQbjsbspcZ2Hba-sHLjmOitqIjUd1SuQ3AZ7BYLh_npRpg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:32:34+00:00	twilight-user	{%22authToken%22:%22kqv5ux4ue5legj106tr73d8fo0we95%22%2C%22displayName%22:%22clementsrajan%22%2C%22id%22:%22213818125%22%2C%22login%22:%22clementsrajan%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:32:34+00:00	auth-token	kqv5ux4ue5legj106tr73d8fo0we95

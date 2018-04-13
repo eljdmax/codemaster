@@ -1,0 +1,13 @@
+#j_natashaa29s_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	d4CMqe7DgbQAWzYP5FoNnN%2B1lNcyhL4cwAO857CRAfQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:47:22+00:00	unique_id	1177ada8ff1070e0
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:47:45+00:00	persistent	213094303%3A%3A0zazam4qvqdw7kxb4zbcs9k8poso4m
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:47:46+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTQzMDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTc2NjYsImlhdCI6MTUyMzMxNDA2Nn0=.iWONFfcxG0ePiIImM9I0HcdEelcgvqY7ltOHU3LmaQALdh3rH0HkuQIh_hpuzwdp9qgkHQCf8hQcPKG-OEIuhQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:47:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTQzMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4ODY2LCJpYXQiOjE1MjMzMTQwNjZ9.kZsVcu8u_1O9f_23_X4AFiAAHAweVD_4Q2GL8_6owFAgcXuic0nsiKSZoFvb6mRCqusfJkbh5Npl18E-wJ9e5g==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:47:45+00:00	login	j_natashaa29s_f
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:47:45+00:00	name	j_natashaa29s_f
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:47:45+00:00	last_login	2018-04-09T22:47:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:47:45+00:00	api_token	4742c3dc32c623475d6384033598f475
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:47:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbmF0YXNoYWEyOXNfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjYwNjYsImlhdCI6MTUyMzMxNDA2Niwibm9uY2UiOiJIQVRONUV1cDNYSzFlSVl4aTZ3UWdYV240S1A3SU1GeUxISm5yaFItMlhRPSJ9.KZ6qwWs5mhvJ5Mfv_qP7l0fWpu3UaUfM8dazm-YKIpkpj7JR_uMUX0RH17LP2F5IfQSnEKrmtrCfm9kmIX6Mwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:47:46+00:00	twilight-user	{%22authToken%22:%22n51q7urgqbr66u6yf7c6tilt08decs%22%2C%22displayName%22:%22j_natashaa29s_f%22%2C%22id%22:%22213094303%22%2C%22login%22:%22j_natashaa29s_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:47:46+00:00	auth-token	n51q7urgqbr66u6yf7c6tilt08decs

@@ -1,0 +1,13 @@
+#h_martiall52w_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6I7R8oz7N%2FS7V4lCYFfVUlBcJxpWWU612U8t6XBoOhU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:30:10+00:00	unique_id	2296996ac8c9c381
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:30:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:30:47+00:00	persistent	213522387%3A%3A3i2mc91zrpk41ntedalllhxhurg9cb
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:30:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjIzODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYxODQ3LCJpYXQiOjE1MjM0NTcwNDd9.TvD_6U6MBkXNvzivZYZhvWHR17LJIAubniwUD2oDGNsalxCMPE0nthAT3MFJsK9Ka6QIBcd-V4RTR_A8RJnsxw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:30:47+00:00	login	h_martiall52w_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:30:47+00:00	name	h_martiall52w_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:30:47+00:00	last_login	2018-04-11T14:30:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:30:47+00:00	api_token	096d3ea2546727722e88690057e1eb84
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:30:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFydGlhbGw1MndfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDkwNDcsImlhdCI6MTUyMzQ1NzA0Nywibm9uY2UiOiJNOHpkS09SM1JwZVFsZjlzSjZSckQ5RFJwUklueEY0NnJVaTYwQVFyWHI4PSJ9.uFHwZKPaSCWGifi98hlRy0H-pdRBtnHlgrYj35ISdjCS1KVexfCmlMuIxIM6ve7Hovjv6ixcA9ddCDC5YDW79g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:30:54+00:00	twilight-user	{%22authToken%22:%22kedu5vi11audq25u4nzc6gov2s3dh7%22%2C%22displayName%22:%22h_martiall52w_3%22%2C%22id%22:%22213522387%22%2C%22login%22:%22h_martiall52w_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:30:54+00:00	auth-token	kedu5vi11audq25u4nzc6gov2s3dh7

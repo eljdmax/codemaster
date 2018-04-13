@@ -1,0 +1,12 @@
+#y_nathalied564_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vfEHz%2B1jeCGei2grRhEdC%2Fx8f5VgZibRDoYvNT1CDOg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T16:05:56+00:00	unique_id	5393677fea90c1fe
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:06:31+00:00	persistent	213288126%3A%3A6ewmok4ab3cy421h3951y7io3xcm3j
+.twitch.tv	TRUE	/	TRUE	2018-04-17T16:06:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODgxMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgxMTkyLCJpYXQiOjE1MjMzNzYzOTJ9.gZON_VlARqaIrZJloOIjm8yQ8cvyC6k_gp0rWmM7S_49ynhrmNYOp0IFBrlk4Lb_5RnQcSnybVFW1JrBsHgiwg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:06:31+00:00	login	y_nathalied564_0
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:06:31+00:00	name	y_nathalied564_0
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:06:31+00:00	last_login	2018-04-10T16:06:32Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:06:31+00:00	api_token	a548a43f9d9b0da7401acfae99f647a6
+.twitch.tv	TRUE	/	TRUE	2018-10-07T16:06:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbmF0aGFsaWVkNTY0XzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI4MzkyLCJpYXQiOjE1MjMzNzYzOTIsIm5vbmNlIjoiQWJiWEZFaEV4aldFTGhBMUg3Vkg3WDMxMzFyYU5CYTJZT3MxYnlOdXJHQT0ifQ%3D%3D.-YfKQrcC9O5UftVOBJffmLJ7FpgxOs9V31WrtTMuPVxgw0YX7FseGsbbxG0WUpwMDucaw4M3d0rPIswCi8eFmA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:06:35+00:00	twilight-user	{%22authToken%22:%222dlbwkn8l3d1262d8796n26p890lqe%22%2C%22displayName%22:%22y_nathalied564_0%22%2C%22id%22:%22213288126%22%2C%22login%22:%22y_nathalied564_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:06:35+00:00	auth-token	2dlbwkn8l3d1262d8796n26p890lqe

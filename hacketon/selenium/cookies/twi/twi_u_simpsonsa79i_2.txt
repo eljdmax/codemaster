@@ -1,0 +1,12 @@
+#u_simpsonsa79i_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AHu82FT8YgQPeoqS93P%2BCepBc7v8O6hEHkVBuPXk%2F2k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:55:59+00:00	unique_id	f631aaa2df419b52
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:56:25+00:00	persistent	213272089%3A%3A594emryz9t0x3gixn1r37cpm0z5pin
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:56:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzIwODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc2OTg2LCJpYXQiOjE1MjMzNzIxODZ9.PJ8J3NRMI3xxFdH61pFt_zOxeWMs7xF_fYVzEchEqA18YdzUwQPXE72IcFNvwQ9jLGPIgaCMl8C0LxLVZr0kTQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:56:25+00:00	login	u_simpsonsa79i_2
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:56:25+00:00	name	u_simpsonsa79i_2
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:56:25+00:00	last_login	2018-04-10T14:56:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:56:25+00:00	api_token	036509684ac7d2161560297aa51ecc5d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:56:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2ltcHNvbnNhNzlpXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI0MTg2LCJpYXQiOjE1MjMzNzIxODYsIm5vbmNlIjoiNXhnZmNTd0RoclZnOXYtU3paa3NqdjY5cUY0Sy00UHB0VkJEeU13Tm1Zdz0ifQ%3D%3D.32I1Frg4i3DyaCGz0oLaUdaPRfhc7i22Ddn1wBmFL2qPGRRwD_HraYsSN-mdqAk-a9MqNNwEYJHdMP6aIIsvQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:56:29+00:00	twilight-user	{%22authToken%22:%220ointopv1o2qwrbb9gto0hrzugxtu9%22%2C%22displayName%22:%22u_simpsonsa79i_2%22%2C%22id%22:%22213272089%22%2C%22login%22:%22u_simpsonsa79i_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:56:29+00:00	auth-token	0ointopv1o2qwrbb9gto0hrzugxtu9

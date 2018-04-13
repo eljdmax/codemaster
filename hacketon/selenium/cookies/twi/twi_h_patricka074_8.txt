@@ -1,0 +1,14 @@
+#h_patricka074_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yZWEfZxrVT5fxFRzdB8j0LOLsNjPnSM5m0mpQiqSq6U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:06:00+00:00	unique_id	bde522955b45902d
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:06:00+00:00	_twitch_session_id	818ef16d7ca299cf20cad18ec619f31a
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:06:15+00:00	persistent	213084824%3A%3A7ruybfz27rzqgqr0hsrtwahjmv4ais
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:06:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODQ4MjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTUxNzUsImlhdCI6MTUyMzMxMTU3NX0=.GFxkbQv32Uu1N31PboWbz-F97xpMSrWZBi4mEWxU7A-0jVHfgq8f1g_DR6xTV3XKB8NiZeNo7RNQnVRIzmZzEA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:06:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODQ4MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2Mzc1LCJpYXQiOjE1MjMzMTE1NzV9.Y0gwTArqhYPG_OJJWT-0JLsxHuamBeMC4TZ0tAUwkwijCYxEDIKy_5hIh-X0FKVCoGhAW7iaHw19xeGcAfZuQg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:06:15+00:00	login	h_patricka074_8
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:06:15+00:00	name	h_patricka074_8
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:06:15+00:00	last_login	2018-04-09T22:06:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:06:15+00:00	api_token	bfd42a2d48c284e0f814c71b8f088f72
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:06:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfcGF0cmlja2EwNzRfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjM1NzUsImlhdCI6MTUyMzMxMTU3NSwibm9uY2UiOiJFZnhWUkpYdnBLZVE1NXJsZ0pWdGduWVMtdlNFTDdCUmRCMUhWSS03QjZNPSJ9.CTswnFL2nqs8_QxadDXhzsqv8cX4-F_oJev7RS5cY5I6r0TujCCZ_tCaUB_2_AKvIU7ukHqEWdi4zK1jKPEBmQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:06:16+00:00	twilight-user	{%22authToken%22:%22zqgw91x0ayz0x2jxkiyo0owbt04q90%22%2C%22displayName%22:%22h_patricka074_8%22%2C%22id%22:%22213084824%22%2C%22login%22:%22h_patricka074_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:06:16+00:00	auth-token	zqgw91x0ayz0x2jxkiyo0owbt04q90

@@ -1,0 +1,13 @@
+#JavierRuizBarea
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YQGDTPObwQ7WZafVTywqtmD3F74OQOOsbrQwVi16CPU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:40:41+00:00	unique_id	172cabf7bafe4036
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:40:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:41:19+00:00	persistent	213819888%3A%3Az30j0xxl5s3ijp3ir92fgstbd2ap2d
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:41:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTk4ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNDc5LCJpYXQiOjE1MjM1NjU2Nzl9.25kuywKvq9rlB2Qgy3ZYgvfadrpN7N3i57fIT0bRYNccJQGO72gWx0KghN-OQZQaXPUiCGSznJilnpvXcWkgyQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:41:19+00:00	login	javierruizbarea
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:41:19+00:00	name	javierruizbarea
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:41:19+00:00	last_login	2018-04-12T20:41:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:41:19+00:00	api_token	85592f0eba9cb0c427aaae4071a2cdc9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:41:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImphdmllcnJ1aXpiYXJlYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTc2NzksImlhdCI6MTUyMzU2NTY3OSwibm9uY2UiOiI5dGlwYXVEU2hiQVFia3M4NVNiWU4yOHpsOHVJeFNGMFZXV1dCSWJITzhZPSJ9.41bvNsKuHgzTYlNomxZaBdRCHoXOyP9j6qaYfleSKMG2Y9-GunhjEeqe1xfirfKSXsqEDv_mu3fKygDsTDCeAg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:41:33+00:00	twilight-user	{%22authToken%22:%226hupm6v08xtapanovjosigscsa3kk8%22%2C%22displayName%22:%22javierruizbarea%22%2C%22id%22:%22213819888%22%2C%22login%22:%22javierruizbarea%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:41:33+00:00	auth-token	6hupm6v08xtapanovjosigscsa3kk8

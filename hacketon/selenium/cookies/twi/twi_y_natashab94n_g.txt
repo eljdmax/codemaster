@@ -1,0 +1,13 @@
+#y_natashab94n_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5abHM5hdNWwEBRtdlbfXEvm38k9fz70cFvlERsuay0Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:00:38+00:00	unique_id	fe1a5b06a80e54f8
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:00:38+00:00	_twitch_session_id	25982dec225566c2aa2e8bc9430eb681
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:01:07+00:00	persistent	213260151%3A%3Aqmx66edh0t3a6ll9x25z1qczlurxwo
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:01:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjAxNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTczNjY3LCJpYXQiOjE1MjMzNjg4Njd9.Evqbwc86i8XoJfCAv0YaP8KodNYGC7CSumMUYSsCh_idpeiLyhBtKQKlX0bhxX0y1WVvd8QfNJb26pf13q2NdA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:01:07+00:00	login	y_natashab94n_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:01:07+00:00	name	y_natashab94n_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:01:07+00:00	last_login	2018-04-10T14:01:07Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:01:07+00:00	api_token	fb0f166fc46c576787dd23db1a29ba76
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:01:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbmF0YXNoYWI5NG5fZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjA4NjcsImlhdCI6MTUyMzM2ODg2Nywibm9uY2UiOiJ5dXRWZWN2c0RCazVBRXFXTExOcEszS3pnUVdUTW8xUHlRY09id1M3R20wPSJ9._0xfFq1zt5BS5ape4EXJ5nUFFlTVVYpeayiJxbKGhBv9FbkzBniDCq-mBgHzaou9LxhObwIK0M85rV5hNImEyw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:01:10+00:00	twilight-user	{%22authToken%22:%2262chei75ws1r0bsa4wz104iq6dv6ej%22%2C%22displayName%22:%22y_natashab94n_g%22%2C%22id%22:%22213260151%22%2C%22login%22:%22y_natashab94n_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:01:10+00:00	auth-token	62chei75ws1r0bsa4wz104iq6dv6ej

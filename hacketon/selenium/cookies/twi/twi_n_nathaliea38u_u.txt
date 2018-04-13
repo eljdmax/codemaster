@@ -1,0 +1,13 @@
+#n_nathaliea38u_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	f%2F%2FFxo7G%2FyFITqWbx6cKqwA2GLQlq3dC1v4AhKPSGYw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T23:08:53+00:00	unique_id	a3da904e44e12fca
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:09:15+00:00	persistent	213099472%3A%3A7kk4rw2j9h86jaweh744xjwnzksini
+.twitch.tv	TRUE	/	TRUE	2018-04-10T00:09:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTk0NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTg5NTUsImlhdCI6MTUyMzMxNTM1NX0=.thT-NJPXFhwhgQKSdkmbhzjCkSXvjQBZfmWOnjg_49nAXyzPf1fjdcyqMPvcsZ8qiF1Gr7T41yvIkhLCxZxaow==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T23:09:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTk0NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTIwMTU1LCJpYXQiOjE1MjMzMTUzNTV9.1wnRk6lkc9DPu3tEHGubm9C0i1TJRV4VV8KOzHiVK8l5OXVz2GKbj9YFCq0lqtFAkGIQon0nyorqs7n4Em6ixA==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:09:15+00:00	login	n_nathaliea38u_u
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:09:15+00:00	name	n_nathaliea38u_u
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:09:15+00:00	last_login	2018-04-09T23:09:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:09:15+00:00	api_token	8853052a07e744287662dfb79cb172ab
+.twitch.tv	TRUE	/	TRUE	2018-10-06T23:09:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbmF0aGFsaWVhMzh1X3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4ODY3MzU1LCJpYXQiOjE1MjMzMTUzNTUsIm5vbmNlIjoiaUlyYXZFZGNqczlmUGZaQXBOdXNPNUVPOUo1bGw4c2tHNVRrY2ZkcWNjMD0ifQ%3D%3D.HplpDz7Ib3DnEdEyFXMRqCrAe8M5L9GajJsLA51U5xzgxzFTK2LlkU4Um9qKsteJtcHaTBOrsJa9sjwwmYG4wA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:09:17+00:00	twilight-user	{%22authToken%22:%22e3jh8wg92b7w41kzojq0lr32knhor3%22%2C%22displayName%22:%22n_nathaliea38u_u%22%2C%22id%22:%22213099472%22%2C%22login%22:%22n_nathaliea38u_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:09:17+00:00	auth-token	e3jh8wg92b7w41kzojq0lr32knhor3

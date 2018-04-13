@@ -1,0 +1,14 @@
+#q_patrickm69p_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kiI8SGGyuNUEXTBEFu%2FRDacdLKH1FBjUVOK%2FoliM6WU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:10:08+00:00	unique_id	4b86121a7f62fa5e
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:10:08+00:00	_twitch_session_id	ba4336d8bb9d6acaefa53f4bfa92ef34
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:10:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:10:36+00:00	persistent	213500070%3A%3Ahxo75n3ga4xehwhl7mxgoszoflucv9
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:10:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDAwNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzNDM3LCJpYXQiOjE1MjM0NDg2Mzd9.y9CHR9tKNaZPMUBs5NouVYmfDtPL-g4KXapKdk7lVmL_nmDs3HAQFqsPisXSQUX7TKkMaZxK317lKNf_hrzkUQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:10:36+00:00	login	q_patrickm69p_i
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:10:36+00:00	name	q_patrickm69p_i
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:10:36+00:00	last_login	2018-04-11T12:10:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:10:36+00:00	api_token	3075fe6f8dd827a06da4f2df70630d38
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:10:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfcGF0cmlja202OXBfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDA2MzcsImlhdCI6MTUyMzQ0ODYzNywibm9uY2UiOiJSdTRRS0ozUGhobFdCaXh0Nk9Eak83N1ZQQ3ZXVUFGdzN3bWdHSmRnRUxjPSJ9.eQKfAOD15wZfXHmHcpiPVyXuUtYhDPD1Qjszsn-M_eDPEtiPgM2JQwMiPVtzMZugMocJD9y4brVpnW1LYKJDJg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:10:45+00:00	twilight-user	{%22authToken%22:%223slunb2qlei2pzmhdjehgf3vfyqguv%22%2C%22displayName%22:%22q_patrickm69p_i%22%2C%22id%22:%22213500070%22%2C%22login%22:%22q_patrickm69p_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:10:45+00:00	auth-token	3slunb2qlei2pzmhdjehgf3vfyqguv

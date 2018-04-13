@@ -1,0 +1,14 @@
+#NorbertoRaulVas
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tbHo3WZ7ksbb6d9H2k29pn9xMqohuVjcwYXNLdRG1Gg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:33:55+00:00	unique_id	5b6c1325bd48aece
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:33:55+00:00	_twitch_session_id	600bb4f686a34c732c8c74a42c513b8d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:33:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:34:12+00:00	persistent	213830592%3A%3A5kzgurporg9wdypk8t7qrb74rvlbyy
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:34:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzA1OTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNjUyLCJpYXQiOjE1MjM1Njg4NTJ9.FCC0Quxy5EWPXYY3-RKufwkViNcUPi2DvqJAkNvFMEasgHIKx_iW5QBxU-PECfSTyT3f6_RxbELkgXU2xZTNEg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:34:12+00:00	login	norbertoraulvas
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:34:12+00:00	name	norbertoraulvas
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:34:12+00:00	last_login	2018-04-12T21:34:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:34:12+00:00	api_token	cf3ba70a0783098d41daec84867e5125
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:34:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5vcmJlcnRvcmF1bHZhcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjA4NTIsImlhdCI6MTUyMzU2ODg1Miwibm9uY2UiOiJtUmpwNlZnOEJubUZRU3JtMDduMjF4OTdGYVdySXZmTFZHRGlQcmNmVmFJPSJ9.Qs0CVr4BcA5-uuI2TSXZNHrn1mJZa6ZwnHG-blY6b8xTlXM4n6Ub5AojjT1NVisay_QirSPooNm5roqa_8zAVQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:34:26+00:00	twilight-user	{%22authToken%22:%22b57031ey7vzsrpp1t7digevw4mjar3%22%2C%22displayName%22:%22norbertoraulvas%22%2C%22id%22:%22213830592%22%2C%22login%22:%22norbertoraulvas%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:34:26+00:00	auth-token	b57031ey7vzsrpp1t7digevw4mjar3

@@ -1,0 +1,14 @@
+#GeorgeTsoulfas
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	N4IBEBQltYOrkbeEKFZLmX0pQHAyg3bPbBBAlgaZ730%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:28:14+00:00	unique_id	77f30048d9324fbc
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:28:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:28:39+00:00	persistent	213829320%3A%3Apah7ih6azmjfanzsge4jm7jqyhc4vt
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:28:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjkzMjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMzE5LCJpYXQiOjE1MjM1Njg1MTl9.SRNYA37X2r_YAIEx2IIGBnqqWrp615vWOsAF9VbPg7Angc8xFtHoVV1rH4h_-HFETt9hPx_dbayhreIYqCklAA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:28:39+00:00	login	georgetsoulfas
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:28:39+00:00	name	georgetsoulfas
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:28:39+00:00	last_login	2018-04-12T21:28:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:28:39+00:00	api_token	65cc247cc25468a846838021a7dfb7bc
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:28:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdlb3JnZXRzb3VsZmFzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDUxOSwiaWF0IjoxNTIzNTY4NTE5LCJub25jZSI6IkVEYlJvZDlWSU5tTkhvQlNZUkZldGlMZkZKZkhza3NTVVIxZnFyNXJ0T3M9In0%3D._9Aw7-lPhSbkxGqjVRJ86n0u5_SaJ5RoUcw4QVuVBx-JPR2PyEu4vbwSgi19noA_q6CRq937BpAPJVyi2WQnXw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:53+00:00	twilight-user	{%22authToken%22:%22wotorv1d4z665xfg75q0rofkjguqqm%22%2C%22displayName%22:%22georgetsoulfas%22%2C%22id%22:%22213829320%22%2C%22login%22:%22georgetsoulfas%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:53+00:00	auth-token	wotorv1d4z665xfg75q0rofkjguqqm
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:56+00:00	twilight_onboarding	true

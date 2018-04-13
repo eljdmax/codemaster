@@ -1,0 +1,13 @@
+#SwapanKumarSigh
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1crUkHmqHIhRumDcnzOWe56JCuj%2BTLJYH%2BvmVhMt3O8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:44:10+00:00	unique_id	7b2e3348f28098db
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:44:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:44:51+00:00	persistent	213820529%3A%3Aqfvxzo5o1sf7e0w78k98sg8rydi8ma
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:44:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjA1MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNjkyLCJpYXQiOjE1MjM1NjU4OTJ9.mCZ0CuII-HaiTf-s8Pbw2EYCoiRBxyiZcpab7lBDsB1w_vJzhaqMR8Q-3zWvfeWP7rGlz0W7uxAuUYgLJAs55g==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:44:51+00:00	login	swapankumarsigh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:44:51+00:00	name	swapankumarsigh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:44:51+00:00	last_login	2018-04-12T20:44:52Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:44:51+00:00	api_token	3958783e79a96ba8c116d3197bbca3c3
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:44:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InN3YXBhbmt1bWFyc2lnaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTc4OTIsImlhdCI6MTUyMzU2NTg5Miwibm9uY2UiOiIzSDlsaUo1SGp5Y2paa3BycWNjeDN3UHFMUmNsUlFRVWtaRVRkSENhZHhZPSJ9.TeJeKaQBTuiStQIW0WMH_iOi-whd8PRgTeHpv3RCymOMuk9WKF8NbMWIVkSUO-D4cVeW2fy654ZOq5ouCXKQag%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:45:07+00:00	twilight-user	{%22authToken%22:%22yvbqi28rs3j0w80etesqtanz6sgftc%22%2C%22displayName%22:%22swapankumarsigh%22%2C%22id%22:%22213820529%22%2C%22login%22:%22swapankumarsigh%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:45:07+00:00	auth-token	yvbqi28rs3j0w80etesqtanz6sgftc

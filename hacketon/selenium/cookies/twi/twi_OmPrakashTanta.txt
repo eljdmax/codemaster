@@ -1,0 +1,14 @@
+#OmPrakashTanta
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cNm53GjrN8rqS%2FjF5%2FeF9U%2Fb2wrH3ll69S5KMC0iJYE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:26:54+00:00	unique_id	687bdfbce232432b
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:26:54+00:00	_twitch_session_id	a3bf061da37d15b7438e1c4d754e7221
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:26:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:27:23+00:00	persistent	213829044%3A%3Aya34h9zxpve6awvrto4cga7josu7ol
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:27:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjkwNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMjQ0LCJpYXQiOjE1MjM1Njg0NDR9.0eFrc3IfuTTGJkPxyfj1bnosc9d6zgiqGUhrXJ35tU8LVkrqN9IgCnCyKezWFWCf5PpMih3KZ0GJ3RwxYEP9zA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:27:23+00:00	login	omprakashtanta
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:27:23+00:00	name	omprakashtanta
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:27:23+00:00	last_login	2018-04-12T21:27:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:27:23+00:00	api_token	596034dc2fcbd63677a5d0d5adfb10de
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:27:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9tcHJha2FzaHRhbnRhIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDQ0NCwiaWF0IjoxNTIzNTY4NDQ0LCJub25jZSI6Im41OW9xUkI3NFNhQ3p2VU12YmJKLXREN3JNWVo1LVgtOC1DRUdwY1ZHYjg9In0%3D.CqT2SntxmWLPkUlZdZNkcigeZ9bX6sDZNOdGTkieEV2WlKith79SCqpH5qvwsqxRQX14Pzt7Ay8SVmtv5Ynn-w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:27:39+00:00	twilight-user	{%22authToken%22:%22m2e9102wlwtlfv6g0k0qdrlpcczhzw%22%2C%22displayName%22:%22omprakashtanta%22%2C%22id%22:%22213829044%22%2C%22login%22:%22omprakashtanta%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:27:39+00:00	auth-token	m2e9102wlwtlfv6g0k0qdrlpcczhzw

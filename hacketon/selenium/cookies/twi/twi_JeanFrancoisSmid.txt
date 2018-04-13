@@ -1,0 +1,16 @@
+#JeanFrancoisSmid
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WH2PMUlFnRjXuJp7bLJ2WslmjWm2o9pvzmkD5HCx05k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:23:06+00:00	unique_id	6584a23d74a88aa7
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:23:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:23:28+00:00	persistent	213828152%3A%3Ad2mew7wa67tgby123u24hprlxjnu3g
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:23:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjgxNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMDA5LCJpYXQiOjE1MjM1NjgyMDl9.czF6idnaMH_dWobzzExjAnp0MpLxjZCqOAsbN8WRx0K5ftkdNekQn-IXcjyZUenvqPKz41R2zO-V1VuutpM99w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:23:28+00:00	login	jeanfrancoissmid
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:23:28+00:00	name	jeanfrancoissmid
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:23:28+00:00	last_login	2018-04-12T21:23:29Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:23:28+00:00	api_token	030cfd51aea5e1644b8c082b0a6395f4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:23:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImplYW5mcmFuY29pc3NtaWQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIwMjA5LCJpYXQiOjE1MjM1NjgyMDksIm5vbmNlIjoia2dsbXNaeDYySTBnakF1V19ZZkFxenBmQkVVcG52Y2steDU0elcxOHN5UT0ifQ%3D%3D.TfOMEUgqHUuhBfzJ2P32dNH90h1kumOYoKd4WC8mQN1T9TKVck7A3fYln-IRyNw-hNlIsqYdSHftsSjp47RpOw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	PNUpPpUofIZx6ynibyyvBJ7PKEE8YvuP
+.twitch.tv	TRUE	/	FALSE	2020-04-11T21:23:36+00:00	__gads	ID=70adcfcabcd91cf7:T=1523568216:S=ALNI_MaQqO5LKIozzpWnRVV660I2GVywjA
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM1NzE4MzcsIm52IjoxLCJ1cHQiOjE1MjM1NzE4MjIsImx0IjoxNTIzNTcxODM2fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:23:57+00:00	twilight-user	{%22authToken%22:%22mc4lwzlhxvrld1qhunn6883e0u47a4%22%2C%22displayName%22:%22jeanfrancoissmid%22%2C%22id%22:%22213828152%22%2C%22login%22:%22jeanfrancoissmid%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:23:57+00:00	auth-token	mc4lwzlhxvrld1qhunn6883e0u47a4

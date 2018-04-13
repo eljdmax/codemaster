@@ -1,0 +1,16 @@
+#u_natashaj685_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WhPiR6x2LUcBq%2FejjSaCKau%2BojaFrEarBRVJyI2ApUg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:24:02+00:00	unique_id	d7ae3f6529df8383
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:24:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:24:30+00:00	persistent	213501940%3A%3Aq1gq1g88irvubxtw3b8cjz8nv3vh5w
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:24:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDE5NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0MjcxLCJpYXQiOjE1MjM0NDk0NzF9.nUTRt1VyUyAxdK07VSOqfdXb0_5OWnk4487Xz1hfPgofTp1uwXAuhlCytOva72opobYydHqBoyFIidz9MVI7Uw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:24:30+00:00	login	u_natashaj685_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:24:30+00:00	name	u_natashaj685_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:24:30+00:00	last_login	2018-04-11T12:24:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:24:30+00:00	api_token	b9d34197856d9555f06ed3e26474145b
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:24:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmF0YXNoYWo2ODVfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDE0NzEsImlhdCI6MTUyMzQ0OTQ3MSwibm9uY2UiOiJKOW95bWxIWF9zeVUxWVJjOERkYjhaTFFIRm1IRlI2enprWlVkaHVTV0ZvPSJ9.6kI4785sJtqKwB5P5SosHQFreFOBzcf_vPaim2ni9HlKMjOwbeF-yQmlqzlSVSCU0_PqvEc5SwGTRwD9Yl0YMA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	WRyvSZOHazJF8eu8204PK0yrlLzNYbLD
+.twitch.tv	TRUE	/	FALSE	2020-04-10T12:24:38+00:00	__gads	ID=49486701092a08f2:T=1523449478:S=ALNI_MYkghbhmwtBu5wilwke2OzadUvafQ
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM0NTMwODYsIm52IjowLCJ1cHQiOjE1MjM0NTMwNzcsImx0IjoxNTIzNDUzMDc3fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:24:46+00:00	twilight-user	{%22authToken%22:%22lkw8jmwomramlbisuqnt1ta3ctl3ue%22%2C%22displayName%22:%22u_natashaj685_4%22%2C%22id%22:%22213501940%22%2C%22login%22:%22u_natashaj685_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:24:46+00:00	auth-token	lkw8jmwomramlbisuqnt1ta3ctl3ue

@@ -1,0 +1,14 @@
+#JagadishChanda
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JAvhzRxBMYezBfQGp%2BEehrNrkvJ%2B38NlKfRMsTO8ujE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:25:29+00:00	unique_id	3b2e3a325b5e3544
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:25:29+00:00	_twitch_session_id	558251d1e4abece940e484ce2d1789b6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:25:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:25:56+00:00	persistent	213828710%3A%3Af0qbkmlaj9udnjvgqwu6yfckmogy39
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:25:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4Mjg3MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMTU3LCJpYXQiOjE1MjM1NjgzNTd9.3G-GcgXTDgRZ5yvLD3Cso_y--8d7gQufjeHUOAoNxL-6OG8PyIHTvhFTEBK-ulG7saAk7SuHE4N6c8KG1DdITg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:25:56+00:00	login	jagadishchanda
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:25:56+00:00	name	jagadishchanda
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:25:56+00:00	last_login	2018-04-12T21:25:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:25:56+00:00	api_token	d5a18fbf142fe5b29d58d990c3ed02e0
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:25:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImphZ2FkaXNoY2hhbmRhIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDM1NywiaWF0IjoxNTIzNTY4MzU3LCJub25jZSI6IlEyRGEtVlJfOFZhRlpyRDBKTEQyVnowdUJSNV9NRTNZWDJVOEozQUszbEE9In0%3D.6Ck5D9fdpHxz46LYedZOT-_h9wV2qenMsrT8b8JJ23MqN4CbEiD_uhatw2xGIPjcSonv3zsYcHrCGBzbfoUY3A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:26:10+00:00	twilight-user	{%22authToken%22:%22f3grg3hau303stbhunfumh2ay6qs5u%22%2C%22displayName%22:%22jagadishchanda%22%2C%22id%22:%22213828710%22%2C%22login%22:%22jagadishchanda%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:26:10+00:00	auth-token	f3grg3hau303stbhunfumh2ay6qs5u

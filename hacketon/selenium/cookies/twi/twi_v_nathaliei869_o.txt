@@ -1,0 +1,13 @@
+#v_nathaliei869_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	89NbcD2HIQWdDBpalxXdsS8%2FS%2B42oSM7NWbfTtv5WSk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:23:12+00:00	unique_id	a9aece48f5030661
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:23:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:23:41+00:00	persistent	213501838%3A%3A900dlyvns3bkj1o5f399l4uc432o0u
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:23:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDE4MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0MjIyLCJpYXQiOjE1MjM0NDk0MjJ9.9WUllg6LaMizkkSNyltx6YznAYRP1lfZeG_RGTQTDcWo9IGGV1cpIc1zXPTuSdEVQ3-lTfV5SieOF8SAEYlhOQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:23:41+00:00	login	v_nathaliei869_o
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:23:41+00:00	name	v_nathaliei869_o
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:23:41+00:00	last_login	2018-04-11T12:23:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:23:41+00:00	api_token	db9e0a1806ccef9e5b61f815efa681f7
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:23:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbmF0aGFsaWVpODY5X28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDAxNDIyLCJpYXQiOjE1MjM0NDk0MjIsIm5vbmNlIjoiOVdxTEp4THhLeG14OHdTR3pOVTRneXRmZWpweURyMHBPTnRnUjBHUVRWaz0ifQ%3D%3D.5BRP1Vzq4mRu8Qz27uN4jYrKWLeVB13dK8l04as85gjJn8kIIKdK9tOJ78P6DQ0zRxF9H0P2yZ_4fmFu863ioA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:23:50+00:00	twilight-user	{%22authToken%22:%22mow87pthedvy8wrlni49v0q11mlmp6%22%2C%22displayName%22:%22v_nathaliei869_o%22%2C%22id%22:%22213501838%22%2C%22login%22:%22v_nathaliei869_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:23:50+00:00	auth-token	mow87pthedvy8wrlni49v0q11mlmp6

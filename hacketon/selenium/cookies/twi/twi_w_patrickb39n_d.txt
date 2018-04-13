@@ -1,0 +1,13 @@
+#w_patrickb39n_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q24gJDntp8Axf5C5eblNdTPkhFJ7pk8IDuaDVyx7I9o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:43:39+00:00	unique_id	013d7748efbdc868
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:43:39+00:00	_twitch_session_id	cefb2a20e783ef7ebcfba4d274f14c07
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:43:54+00:00	persistent	213282964%3A%3Asqywynyqjaqe49rgw8sjvqjpxj0lv6
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:43:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODI5NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc5ODM1LCJpYXQiOjE1MjMzNzUwMzV9.Xm6vYvgVTVdZd7oKzwSY_Zsitaw1y482CcjGT_jfe0ta-ufFZths2AEDkZLmbeiwF8LJ5J2wW7uSf6Riyw-OBQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:43:54+00:00	login	w_patrickb39n_d
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:43:54+00:00	name	w_patrickb39n_d
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:43:54+00:00	last_login	2018-04-10T15:43:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:43:54+00:00	api_token	9ed66c24f1645ff99609d9cc8fdbcaf4
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:43:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfcGF0cmlja2IzOW5fZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjcwMzUsImlhdCI6MTUyMzM3NTAzNSwibm9uY2UiOiIwcGpQeEs5cmJkelVDdkJFeExxdWhCOWZ2Z0J1eHppd0dTMm5GYU1HN09BPSJ9.rZTyJ9EIL0TAXdkrYxl5JAF679fHeur8lGilGXaUxD1dFyZ0hQUVZh19rb5N3D8fu3Fsh2eM_huo4ll3VuAwjQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:43:59+00:00	twilight-user	{%22authToken%22:%22bckq851a0lsu0iog8wzfz6w0mycjxf%22%2C%22displayName%22:%22w_patrickb39n_d%22%2C%22id%22:%22213282964%22%2C%22login%22:%22w_patrickb39n_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:43:59+00:00	auth-token	bckq851a0lsu0iog8wzfz6w0mycjxf

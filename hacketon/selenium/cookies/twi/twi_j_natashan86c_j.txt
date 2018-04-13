@@ -1,0 +1,13 @@
+#j_natashan86c_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	24yhtoUQwbVFrwDQNPvKJZUkC6eJXuwYMlzWtaw45W0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:14:19+00:00	unique_id	aec5e9a5d2ff9c58
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:14:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:14:45+00:00	persistent	213500656%3A%3A0laabmsu42lkoz878ph80tzfgwk7cn
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:14:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDA2NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzNjg1LCJpYXQiOjE1MjM0NDg4ODV9.Ls50t08Y2bcVEWdCFzEnzP3xyZre115tI9nvqM57Np8BDexCvk0ivOE_Jhx56GVPIoEcJVXIjKUCvEBho4k2yQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:14:45+00:00	login	j_natashan86c_j
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:14:45+00:00	name	j_natashan86c_j
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:14:45+00:00	last_login	2018-04-11T12:14:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:14:45+00:00	api_token	6506b6d527ae5175d07491997504e974
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:14:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbmF0YXNoYW44NmNfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDA4ODUsImlhdCI6MTUyMzQ0ODg4NSwibm9uY2UiOiIxRVJham01QklPLUwwMEtrLUpWUUdwRWJHQkxDMmJVejJqcXp0T3lJMDRnPSJ9.YuPM1IUeVdDWr3bESuGTiWrGq_2gehZQysByWeIfcBfcrfkhIXUIphPD2aj6MTi03XUPrLxXUhz2ne9J9hDy0w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:14:51+00:00	twilight-user	{%22authToken%22:%22o6anafcjgpx7u1lkh9ux1odrfomq5b%22%2C%22displayName%22:%22j_natashan86c_j%22%2C%22id%22:%22213500656%22%2C%22login%22:%22j_natashan86c_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:14:51+00:00	auth-token	o6anafcjgpx7u1lkh9ux1odrfomq5b

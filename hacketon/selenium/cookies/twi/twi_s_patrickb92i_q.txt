@@ -1,0 +1,13 @@
+#s_patrickb92i_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	le7gDbT%2BJDwPC84DRbO1%2BP8dRb7cesU%2BQhV9RFa1zck%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T16:08:20+00:00	unique_id	0f00342847668c09
+.twitch.tv	TRUE	/	TRUE	2018-04-11T04:08:20+00:00	_twitch_session_id	39bc8f82292aedcfab3a4e51c6ed00a8
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:08:48+00:00	persistent	213288665%3A%3A8o0q58hajm628cf5k0m2fogbrhaplb
+.twitch.tv	TRUE	/	TRUE	2018-04-17T16:08:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODg2NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgxMzI4LCJpYXQiOjE1MjMzNzY1Mjh9.Eh_V0FwzfaS9CgczqJ483_mKiR4FZEM8JqYRdpz292XSKfmdlr1tvVg-kAV89x6bf2XUTxMTBhhvtD2obEATlg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:08:48+00:00	login	s_patrickb92i_q
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:08:48+00:00	name	s_patrickb92i_q
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:08:48+00:00	last_login	2018-04-10T16:08:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:08:48+00:00	api_token	92e0da03f63e03a1d533ddfca38d5d6f
+.twitch.tv	TRUE	/	TRUE	2018-10-07T16:08:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfcGF0cmlja2I5MmlfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5Mjg1MjgsImlhdCI6MTUyMzM3NjUyOCwibm9uY2UiOiJtR3R1dmh5ZXc1TXZ2WS15UmltNERwNmtDcmZnal9SbW51bEtNZmhpcTVrPSJ9.KEFcL7IS5Ow2-9hTfV7T0y12i_d-uFxEQpGjOsnMKPy1Yr1YcvM1MA3RogoqzX0t7WYZ97q2-L4mOfLDE0X7Ww%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:08:53+00:00	twilight-user	{%22authToken%22:%222bajd1cltj9vkkbftyjzp1weh4koxk%22%2C%22displayName%22:%22s_patrickb92i_q%22%2C%22id%22:%22213288665%22%2C%22login%22:%22s_patrickb92i_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:08:53+00:00	auth-token	2bajd1cltj9vkkbftyjzp1weh4koxk

@@ -1,0 +1,13 @@
+#PrafullaKumarh
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LLhaZQaTimfSJn9gTwk9wUR0bLmYeBbQ23vs3tLAFQk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:54:55+00:00	unique_id	67f98392e7c0a433
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:54:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:55:14+00:00	persistent	213822548%3A%3Anhj1rohu3x61inriwojpn9zqjxbnai
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:55:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjI1NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMzE0LCJpYXQiOjE1MjM1NjY1MTR9.ebPw4mQzwrOnX7CMIJFeCK8AZZ32i_Fg8LU5m9xYqSfzxvPVNz9aMhIZz1QiUEyT5Z16jTMiNQwBHqLDh_I4aQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:55:14+00:00	login	prafullakumarh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:55:14+00:00	name	prafullakumarh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:55:14+00:00	last_login	2018-04-12T20:55:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:55:14+00:00	api_token	e5e27f1ea3f1fd8622dbbbcb53faa81a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:55:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InByYWZ1bGxha3VtYXJoIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExODUxNCwiaWF0IjoxNTIzNTY2NTE0LCJub25jZSI6IkRqTW5UWk9hNTNHUUFLOER2a295dWtDWU92SmtyUzZIOVh6dGFmY2VER3c9In0%3D.J9pBq73AyxUp9GZ6VqycLRewp_vR5B2qTE3LGW80sqXmR5UxrlGbA8o2WLkoaWJQLxm6T6ZQMamf94bxnTdIPA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:55:31+00:00	twilight-user	{%22authToken%22:%22r804frojudfcc9vlsj6rw93cejeoff%22%2C%22displayName%22:%22prafullakumarh%22%2C%22id%22:%22213822548%22%2C%22login%22:%22prafullakumarh%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:55:31+00:00	auth-token	r804frojudfcc9vlsj6rw93cejeoff

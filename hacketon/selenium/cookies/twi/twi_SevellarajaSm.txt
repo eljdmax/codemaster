@@ -1,0 +1,13 @@
+#SevellarajaSm
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ovwWuTHcpm%2Fcy83RSFj3WZZHG%2F7TVTimjG11EkusCLo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:49:44+00:00	unique_id	b82969c2c47f0241
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:49:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:50:22+00:00	persistent	213821584%3A%3Apbmzevmqzhaz97lbj0qzs6a1l9aj8j
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:50:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjE1ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMDIyLCJpYXQiOjE1MjM1NjYyMjJ9.1FPRCbe5kjo6aET13dC4F1ke37MGKb8N9dHfOsBIVbetxNrTAnzLdoRhnRQkny22dh2cKxXvRWph5Ad1Io9aPQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:50:22+00:00	login	sevellarajasm
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:50:22+00:00	name	sevellarajasm
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:50:22+00:00	last_login	2018-04-12T20:50:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:50:22+00:00	api_token	142b522d4e28fdf08a544164bdb0efba
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:50:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNldmVsbGFyYWphc20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE4MjIyLCJpYXQiOjE1MjM1NjYyMjIsIm5vbmNlIjoiYUVBUFdkcEdCTWEyS1lJV1NKMlNPVlA3SGczOXJFY1dJMkpXclNvUEtFTT0ifQ%3D%3D.7T_rqJrkqHq98XA9ZR5XAgQA83Rt3PQQVthRZXutr8SwXcyDrhHZwVeL7b2-6PdmJh4YQ9RfxZPiZx9rOnK0SQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:50:35+00:00	twilight-user	{%22authToken%22:%220y7sq7knfqdc8nhaovp6o4umvkh5rq%22%2C%22displayName%22:%22sevellarajasm%22%2C%22id%22:%22213821584%22%2C%22login%22:%22sevellarajasm%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:50:35+00:00	auth-token	0y7sq7knfqdc8nhaovp6o4umvkh5rq

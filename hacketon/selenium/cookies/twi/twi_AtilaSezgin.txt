@@ -1,0 +1,14 @@
+#AtilaSezgin
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wnxEzNQElF55Sy1D8ZVnhNHO0lw8p7HZayqZocgQ9Os%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:54:03+00:00	unique_id	dcf700257ef9ba61
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:54:03+00:00	_twitch_session_id	f9f7d9c3185c94012e8256de71803819
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:54:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:54:35+00:00	persistent	213822404%3A%3Azor1fbowxa00seqjtyojfw633p92qk
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:54:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjI0MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMjc1LCJpYXQiOjE1MjM1NjY0NzV9.lL2SF31EtlrXVbYU9fyeyNkYXjIRx0oP8X_XvCKF4_j_eyLMCKep9ajFN6-IZ28mPkKbpHjGX4t8Ea34HlxayA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:54:35+00:00	login	atilasezgin7
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:54:35+00:00	name	atilasezgin7
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:54:35+00:00	last_login	2018-04-12T20:54:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:54:35+00:00	api_token	fc93f5ef3990ba77785811e458547fc4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:54:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImF0aWxhc2V6Z2luNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTg0NzUsImlhdCI6MTUyMzU2NjQ3NSwibm9uY2UiOiJid0xoVlh2RGJFVjlKVTNkUDk1eTFTR0lxQTE5bkIyZHdaMEROYUNXWGZrPSJ9.9NrQdgDjhx5esOv4wJd2GW3BpdJyobPO8krdCI-xre6nyoTzEUzibBEXqSvqVrWW3Dv4Z0GJ-1HT1zSq9D31wQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:54:50+00:00	twilight-user	{%22authToken%22:%224ecljc43fjxz8xesj2d297094ow3nt%22%2C%22displayName%22:%22atilasezgin7%22%2C%22id%22:%22213822404%22%2C%22login%22:%22atilasezgin7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:54:50+00:00	auth-token	4ecljc43fjxz8xesj2d297094ow3nt

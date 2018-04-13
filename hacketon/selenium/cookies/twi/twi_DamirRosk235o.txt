@@ -1,0 +1,13 @@
+#DamirRosk235o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	udiaNU8n78DMSAQEyMq1WxnLirF4gF13wBP8E4NL07o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:36:04+00:00	unique_id	542875110f0173ab
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:36:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:36:32+00:00	persistent	213818926%3A%3Atbv6w51dfik3iahn6rhw4pgfagcc5d
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:36:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTg5MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwMTkzLCJpYXQiOjE1MjM1NjUzOTN9.vFT-kmQ8Ykd9wIfRPGnUzqsHU04ekTIEhzBygHCvMldFogAMqF0ZvVqOxTQcj8KdZqXB2HPNMtu4HRmuqlDxDQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:36:32+00:00	login	damirrosk235o
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:36:32+00:00	name	damirrosk235o
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:36:32+00:00	last_login	2018-04-12T20:36:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:36:32+00:00	api_token	866aed1a3444d5a0bf141a2df3a8c1ff
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:36:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRhbWlycm9zazIzNW8iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE3MzkzLCJpYXQiOjE1MjM1NjUzOTMsIm5vbmNlIjoiOUpvZVYyZjRQWHpwRlV1YlpXeVFpSmFqQ3FTOXJURExCNUowdDdxM0F2ND0ifQ%3D%3D.sFsEFG-vy6bJxshVVsq7vH3dLgv2ulML1xhxppgPrI6GzKn4u20OelHnyGgUCRqXX5uk9Wr4KOQTClK9MfNtwA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:36:48+00:00	twilight-user	{%22authToken%22:%22k07k6uyecy2vt8w164u3br69rjx8c7%22%2C%22displayName%22:%22damirrosk235o%22%2C%22id%22:%22213818926%22%2C%22login%22:%22damirrosk235o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:36:48+00:00	auth-token	k07k6uyecy2vt8w164u3br69rjx8c7

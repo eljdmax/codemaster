@@ -1,0 +1,14 @@
+#a_martiala03k_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VLaYcNDyTHynU7my8%2F1S71Vn%2Fk%2FPl6ug%2BUDudWZBkWw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:36:13+00:00	unique_id	0ad84808636113b9
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:36:13+00:00	_twitch_session_id	60fea3b8e00ae821b0242463e013fdde
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:36:27+00:00	persistent	213091813%3A%3Atduzmm5c4dug9mynzpavzf8bs0q4ip
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:36:27+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTE4MTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTY5ODgsImlhdCI6MTUyMzMxMzM4OH0=.q4esgi3lIzDQBpOWf0HWci8vFbNELABGcbAbXHRlOgfNTuqR4FJWv6QUZelwgPArpktjISharWH2lBWXV-o0SA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:36:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTE4MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4MTg4LCJpYXQiOjE1MjMzMTMzODh9.eJeC_H97CCWBhckfabC-AA7yJG__SPqLTGhacKyfyvoK59-qHe0c5eA2IntQh84BhjYmoa40kzX45JgCfELHig==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:36:27+00:00	login	a_martiala03k_l
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:36:27+00:00	name	a_martiala03k_l
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:36:27+00:00	last_login	2018-04-09T22:36:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:36:27+00:00	api_token	88b8c69aef2ee3dc39c0514855d669c1
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:36:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWFydGlhbGEwM2tfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjUzODgsImlhdCI6MTUyMzMxMzM4OCwibm9uY2UiOiI3U3NBekc5Zm03WXVIX0RpRkg4cDJmOE1XZ05fYk9VcnR5NG1YeG01dm5FPSJ9.ypZY2S1JbW2r13N1kSMwE0tt5UrUtyDSiqLzxqbBaxeZdeZtBoHMb5qEHWw6lryCv0GGoZlqyVf6brSfL6u-Gw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:36:28+00:00	twilight-user	{%22authToken%22:%22a4lls2dh36ibp2th56ford4gez7lhg%22%2C%22displayName%22:%22a_martiala03k_l%22%2C%22id%22:%22213091813%22%2C%22login%22:%22a_martiala03k_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:36:28+00:00	auth-token	a4lls2dh36ibp2th56ford4gez7lhg

@@ -1,0 +1,13 @@
+#SimSengKeat6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	P272ojwR7SptcYVCAIfC5fueR1Jp29o3FW7qI1q7egQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:01:17+00:00	unique_id	16f23a6dcc5e2a61
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:01:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:02:00+00:00	persistent	213823828%3A%3A4ka760z9pzctkpgj6ws6kfyf1gt2pc
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:02:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjM4MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNzIxLCJpYXQiOjE1MjM1NjY5MjF9.8dG9hWRaRCxSaqouNOsAyJ7uKU9JEugXJxwXG6-xwPRSFjtK99YLxmj43Ssg6fSxbEqonsjEAAgIDqHFYE7zIw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:00+00:00	login	simsengkeat6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:00+00:00	name	simsengkeat6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:00+00:00	last_login	2018-04-12T21:02:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:02:00+00:00	api_token	3d6103f54cf7c25e94144ef9be05d5ff
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:02:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNpbXNlbmdrZWF0NiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTg5MjEsImlhdCI6MTUyMzU2NjkyMSwibm9uY2UiOiIwOWotUzNiRnRIdFdfQm1ZOE13X3Fwc0lUbjhnNV9mdkdiVUkwY2dUNkUwPSJ9.9TEiQ0vKSwFN7KMe3-Y8mMZ6FFAWW3KxH9XGYN8hkOWq3tJJ6B27888U2EQkpk6tceZXXaqGJSHhhJ1sM4U-vQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:13+00:00	twilight-user	{%22authToken%22:%22o48kwp7syf5fgj0uej7z30e90jyktf%22%2C%22displayName%22:%22simsengkeat6%22%2C%22id%22:%22213823828%22%2C%22login%22:%22simsengkeat6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:13+00:00	auth-token	o48kwp7syf5fgj0uej7z30e90jyktf

@@ -1,0 +1,14 @@
+#l_patricke105_5
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tqWUZkGYUQkfrZVmtHAOPGtB3R1QXZuOC2nfxG129V4%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-11T22:06:20+00:00	_twitch_session_id	b50c1ca7b3e3f974e4b4c39c78e3d5f0
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:06:42+00:00	persistent	213486779%3A%3Azsid2onx7q8xxhrac481rhrbtruywa
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:06:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODY3NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ2MDAyLCJpYXQiOjE1MjM0NDEyMDJ9.W6LOK5t2mZGWGyI0dv9LgLzeJQ9_sx46rdcAYFzpL-IlHMZ6a_qA-vqUoQlRed1hjMvRPl8YoWD3QKeqgxLYKA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:06:42+00:00	login	l_patricke105_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:06:42+00:00	name	l_patricke105_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:06:42+00:00	last_login	2018-04-11T10:06:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:06:42+00:00	api_token	e8ab94c1de08e7b4879f8ac232c87943
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:06:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfcGF0cmlja2UxMDVfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTMyMDIsImlhdCI6MTUyMzQ0MTIwMiwibm9uY2UiOiJGdVJRSEh5cHdaMTdOQlA4aHZ3UjZBb0poRHVoNjRnWk5UT2NaWGttajA4PSJ9.L3i8KrQwt_b40nx7xzHhjw8zHMeKyz4KY9IGdugcYzTcdHK_GUahgFjxQ0AL926Xvsv7yV5RxE-5u4V0z0_yDQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:06:52+00:00	twilight-user	{%22authToken%22:%22i1v828gx5yjg4ceczq6ld7cd8bwc0d%22%2C%22displayName%22:%22l_patricke105_5%22%2C%22id%22:%22213486779%22%2C%22login%22:%22l_patricke105_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:06:52+00:00	auth-token	i1v828gx5yjg4ceczq6ld7cd8bwc0d

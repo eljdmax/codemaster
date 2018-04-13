@@ -1,0 +1,14 @@
+#ErnestoRSanchh
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wq4qaqWUuxpfDgdkWSITClPc%2FV8yKpPzVq3t472InFY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:23:51+00:00	unique_id	4a7612d8cf3d73ca
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:23:51+00:00	_twitch_session_id	9fe4a3e3f587c1630abbe156f18ee32a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:23:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:24:14+00:00	persistent	213828314%3A%3Aaseidi3y8xqm0tzxsyou3ijox127cw
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:24:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjgzMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMDU0LCJpYXQiOjE1MjM1NjgyNTR9.gHikdHp5rjZaTaR0JRs2RFKzqCckGyyV0BlocJYZSIcVJNLWIj3Vdby_5Yzh52EYyhu2FyqzNFxBjrTtlLzT1g==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:24:14+00:00	login	ernestorsanchh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:24:14+00:00	name	ernestorsanchh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:24:14+00:00	last_login	2018-04-12T21:24:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:24:14+00:00	api_token	176a48f73b08f0034ca996f84f97bd56
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:24:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVybmVzdG9yc2FuY2hoIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDI1NCwiaWF0IjoxNTIzNTY4MjU0LCJub25jZSI6Im1ibXotNHFUTUhDRllCYmdWVjFYclhrb3QxNUNaTjNlb1Nhbnc1ZUQzaGs9In0%3D.LuGYDZLsN5piRGu9X0TVIfRKppUP5CCr23yqyLlK3exJP8dTR7wJpP61bBur-rnSPQrpnRYxBaLc9n0DIpnQQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:24:28+00:00	twilight-user	{%22authToken%22:%22lqjegtx7el70fal9umvpz9cuq9ortw%22%2C%22displayName%22:%22ernestorsanchh%22%2C%22id%22:%22213828314%22%2C%22login%22:%22ernestorsanchh%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:24:28+00:00	auth-token	lqjegtx7el70fal9umvpz9cuq9ortw

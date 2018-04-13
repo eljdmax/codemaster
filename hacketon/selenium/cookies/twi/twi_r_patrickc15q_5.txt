@@ -1,0 +1,12 @@
+#r_patrickc15q_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	R1B6yAqemJBcenvR7RuXbF3oGLM89BS8ebNY5oYVZhw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:36:47+00:00	unique_id	2672edb4632332bf
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:37:19+00:00	persistent	213267928%3A%3Ahqrxpdqrppr7j7vc4amx3oolv91f78
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:37:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjc5MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc1ODQwLCJpYXQiOjE1MjMzNzEwNDB9.n3JMY3BkbFfINg4VnkaWjNX8o9d4AHzfRCnqrOPh4ZPiE5kLCYxXKQPB7uwDlru_JT-hxVH0PyJLOix3egsRUA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:37:19+00:00	login	r_patrickc15q_5
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:37:19+00:00	name	r_patrickc15q_5
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:37:19+00:00	last_login	2018-04-10T14:37:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:37:19+00:00	api_token	8376f8d5a68ffe44ae596821629196e8
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:37:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfcGF0cmlja2MxNXFfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjMwNDAsImlhdCI6MTUyMzM3MTA0MCwibm9uY2UiOiJqaDBYS25nUXE4VC1obV9RckNmSGJMVDJIeThTQkNvc3VOaGNoWW91cExnPSJ9.ZnwWid1Sz9d9mPwYoZYRMUJMAaTR5xz4noYEjqKXz1D7dr3lhuKHlFnnnrMvLKRhMd_--CSlYXAq4Un36X1IRQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:37:23+00:00	twilight-user	{%22authToken%22:%22ihbn43eob9zzyzw30y3u0d2w845bbk%22%2C%22displayName%22:%22r_patrickc15q_5%22%2C%22id%22:%22213267928%22%2C%22login%22:%22r_patrickc15q_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:37:23+00:00	auth-token	ihbn43eob9zzyzw30y3u0d2w845bbk

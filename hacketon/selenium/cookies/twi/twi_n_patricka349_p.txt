@@ -1,0 +1,13 @@
+#n_patricka349_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DpbBJ33YkYmvwKh8KFDHxCU3B5arUWTkW939%2BKdtkqo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:03:54+00:00	unique_id	b49d65be9a6678ad
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:04:10+00:00	persistent	213084259%3A%3A55irwnsee5v1rapb8uelr47cjkzt51
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:04:09+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODQyNTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTUwNTAsImlhdCI6MTUyMzMxMTQ1MH0=.q1x_TgYsKHXX5msWrwSM7vPQ7YGujo8ahGz63VDi7kLBPYSg3Vzmvgvl4wXYFHA0Hu3pqj1lUy9JhEtpFhy0jw==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:04:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODQyNTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2MjUwLCJpYXQiOjE1MjMzMTE0NTB9.oYl9hXiLxcFXotY21i-DiBsyoS7exaOE8guUmDc1K0h5kMRScRTGVXrgNkRhZEwTpsfE5rfk7_ZfVBgtJX4YkQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:04:10+00:00	login	n_patricka349_p
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:04:10+00:00	name	n_patricka349_p
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:04:10+00:00	last_login	2018-04-09T22:04:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:04:10+00:00	api_token	ead94059d7ecea3d63466153e38de4e2
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:04:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcGF0cmlja2EzNDlfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjM0NTAsImlhdCI6MTUyMzMxMTQ1MCwibm9uY2UiOiJNbFhiNFN0bnR3cVZwNmkwUlc2TU56N2dTSXVJd1gwREFmTWdxRDFEZEl3PSJ9.aaLwV65WYbcG25u_tMF3vw4T4JIqQkryPkXr_eJ05F_Nd6SyuEc0_uUQ8VtLAOD8gyrazU6UEi9c4Z7KJKCpHg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:04:09+00:00	twilight-user	{%22authToken%22:%229b5b8uk9tfm10k3torfls2kdmqbf7r%22%2C%22displayName%22:%22n_patricka349_p%22%2C%22id%22:%22213084259%22%2C%22login%22:%22n_patricka349_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:04:09+00:00	auth-token	9b5b8uk9tfm10k3torfls2kdmqbf7r

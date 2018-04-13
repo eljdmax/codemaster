@@ -1,0 +1,12 @@
+#y_sandersc34y_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Fwllk4QQP60mppKzI3VfWDiFBGzrJw3XuKARUsqogW8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:05:54+00:00	unique_id	66f814709f864704
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:06:22+00:00	persistent	213274404%3A%3A3gqiqbly7u59qp5dlz2wo3yta7x843
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:06:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzQ0MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc3NTgyLCJpYXQiOjE1MjMzNzI3ODJ9.W0CAqtrzF0awnjH1tOxnvBjD79roFPrJnNWYYxD3H4YXvpzWhYIGV83O0qWBW2G36Zf333JNlFz934px1zby0g==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:06:22+00:00	login	y_sandersc34y_d
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:06:22+00:00	name	y_sandersc34y_d
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:06:22+00:00	last_login	2018-04-10T15:06:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:06:22+00:00	api_token	da600ab5dd14d843cf69c0f7d75082f4
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:06:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc2FuZGVyc2MzNHlfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjQ3ODIsImlhdCI6MTUyMzM3Mjc4Miwibm9uY2UiOiJCZjQyRXZtWmlXdS0xMU5ieDBZQmp3V01MYXplam5LVDFHMklSaFNadk9RPSJ9.e9Y8kVl6vN28wXZjg1tGAYzGPSArNbiEw5Oou0-kMUhMXwbJEP6vz73EQ_1YTMHWT3udqhr_QJZMCmYHvFADQw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:06:26+00:00	twilight-user	{%22authToken%22:%22di13j67c8wge4ggqfid76mcrh5tsth%22%2C%22displayName%22:%22y_sandersc34y_d%22%2C%22id%22:%22213274404%22%2C%22login%22:%22y_sandersc34y_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:06:26+00:00	auth-token	di13j67c8wge4ggqfid76mcrh5tsth

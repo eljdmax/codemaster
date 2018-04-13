@@ -1,0 +1,13 @@
+#SulaimanShaour
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	a5K0rdbJHuxxBeJRm763i8AjaqZAm9aMOa%2BQGs3l67s%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:01:02+00:00	unique_id	afa72bdab5c5538c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:01:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:01:26+00:00	persistent	213823730%3A%3Amz6d76p6vfwm7wr5h8xnxua2atyads
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:01:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjM3MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNjg3LCJpYXQiOjE1MjM1NjY4ODd9.SqtLw6CorDn6S6Jl1b5AycTiExzFPE2cK6IFsfmhwJzLHubHesdDFWCGwAmi4Z7zsn--l6cg96ES8k3gX18DkA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:01:26+00:00	login	sulaimanshaour
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:01:26+00:00	name	sulaimanshaour
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:01:26+00:00	last_login	2018-04-12T21:01:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:01:26+00:00	api_token	454a85f87ad9ff7b876052a114b705b1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:01:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InN1bGFpbWFuc2hhb3VyIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExODg4NywiaWF0IjoxNTIzNTY2ODg3LCJub25jZSI6InJqYjNQX09FZ3UzVGNhNFJubkp3YlRpaG9nRmVCS0l2eF96Vnl4dWFtOEk9In0%3D.ptdITvWEsMx0-G8-AfCoGYFYEsrisA9P192fKGYNWMksFyB7ee89irP5dnZ3bsiWCcrE1FnuTDC84trLDCiXlw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:01:42+00:00	twilight-user	{%22authToken%22:%22weffk4k5uyxza0cg9md94v17an4uic%22%2C%22displayName%22:%22sulaimanshaour%22%2C%22id%22:%22213823730%22%2C%22login%22:%22sulaimanshaour%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:01:42+00:00	auth-token	weffk4k5uyxza0cg9md94v17an4uic

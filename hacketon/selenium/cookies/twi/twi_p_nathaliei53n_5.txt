@@ -1,0 +1,14 @@
+#p_nathaliei53n_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Mr6IZrLhNhNCCX3lqvN2EH%2FIXWvIbrJ9%2BmHF3SDPVyc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:47:12+00:00	unique_id	fd23f9ce1f762a12
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:47:12+00:00	_twitch_session_id	8fca7ee3fe54e1b56513675be9ee32ad
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:47:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:47:39+00:00	persistent	213525464%3A%3Apm7o8yxzmgh6lzdmlgozm1rlb8q1g5
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:47:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjU0NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyODYwLCJpYXQiOjE1MjM0NTgwNjB9.wmbt2fPjpfD3tWVAssYYQfS9WX6jCV4i9OzzWjTO8ZPrYEwYV-YGq-mGn7vMvTY1HLwBPujwY7ItcTgXDdXCPA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:39+00:00	login	p_nathaliei53n_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:39+00:00	name	p_nathaliei53n_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:47:39+00:00	last_login	2018-04-11T14:47:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:47:39+00:00	api_token	dcff4e9c22663257ecc68b6cf0e97147
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:47:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbmF0aGFsaWVpNTNuXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDEwMDYwLCJpYXQiOjE1MjM0NTgwNjAsIm5vbmNlIjoiRFJlajlHUnROWVJrZFZBU2NrTkh1X253Y1RiTG8zSlRrQnVvYV91WEllST0ifQ%3D%3D.gUue8sgg2NVUKsiRSoR6kF_636L7TUwe1uRljVNx3IBdoyBFPwXMzw_GDAvhVgf_uL2PAQrEKFRy8mOnJ60QvQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:47:48+00:00	twilight-user	{%22authToken%22:%22ftbbwle98sulzirvrg3b5mzkj0pgn9%22%2C%22displayName%22:%22p_nathaliei53n_5%22%2C%22id%22:%22213525464%22%2C%22login%22:%22p_nathaliei53n_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:47:48+00:00	auth-token	ftbbwle98sulzirvrg3b5mzkj0pgn9

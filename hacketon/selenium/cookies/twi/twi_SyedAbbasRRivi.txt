@@ -1,0 +1,14 @@
+#SyedAbbasRRivi
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CL4Fq%2BfWY8auOCFHe7GWDYArfdcHrrRw9Q%2B7n%2Fa804U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:36:04+00:00	unique_id	3433a4692411e982
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:36:04+00:00	_twitch_session_id	42d422704abb03867e1ab3b1ce6e4f35
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:36:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:36:19+00:00	persistent	213818878%3A%3A0wq01gbzfphbx7r25onilsx57dmgsc
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:36:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTg4NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwMTgwLCJpYXQiOjE1MjM1NjUzODB9.ANdcKFzMBSyCE1DZcV8MCiqvhBCs5jP7C38Pjmo7NiEVgz8xsCyaJrrmse1zEngQsaA1KxJCZkapzVabB2c4ww==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:36:19+00:00	login	syedabbasrrivi
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:36:19+00:00	name	syedabbasrrivi
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:36:19+00:00	last_login	2018-04-12T20:36:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:36:19+00:00	api_token	a6a304cea81732b369bb86c6e4e0a2fd
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:36:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InN5ZWRhYmJhc3JyaXZpIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExNzM4MCwiaWF0IjoxNTIzNTY1MzgwLCJub25jZSI6IkVkSXJRa0pVc1BkRWQ3X2NOemx6MFFWeVI4RnU4d1BMNlJWOWxSMU80cGc9In0%3D.JgXvu_ClBgj9JHcucKF7Jyq85IDQNA9KRiPGu0SjmkUC6b8Ef72SPYCpA2RF5mrc4X_hVzZd8cf_OZMAzMemNg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:36:33+00:00	twilight-user	{%22authToken%22:%22s9v09mjsjs0kwwkfbu4mdyvufdclx6%22%2C%22displayName%22:%22syedabbasrrivi%22%2C%22id%22:%22213818878%22%2C%22login%22:%22syedabbasrrivi%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:36:33+00:00	auth-token	s9v09mjsjs0kwwkfbu4mdyvufdclx6

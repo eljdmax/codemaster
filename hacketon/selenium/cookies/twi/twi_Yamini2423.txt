@@ -1,0 +1,14 @@
+#Yamini2423
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	elj1ZCBclMk6emu7mzJgWkinaxM1qEG8QZ4oJh6%2FdGA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:48:46+00:00	unique_id	650ccb1f6357e77f
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:48:46+00:00	_twitch_session_id	e382c1312c66f9d405902c333a0f5387
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:48:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:49:21+00:00	persistent	213834030%3A%3A3ypfs6n7l2n5ewotabae7rtoc3fj8l
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:49:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzQwMzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0NTYyLCJpYXQiOjE1MjM1Njk3NjJ9.GI48B__Ca6WtDQUvp5jKVLjmr5uHwfsOLX3DGql3bH_jA5z3OeXDTm8rzVHI6mVaebQsLrmW5LsH6nUW6sALwQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:49:21+00:00	login	yamini2423
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:49:21+00:00	name	yamini2423
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:49:21+00:00	last_login	2018-04-12T21:49:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:49:21+00:00	api_token	ca9fdd380e5292441124cfdc57a228c2
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:49:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlhbWluaTI0MjMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIxNzYyLCJpYXQiOjE1MjM1Njk3NjIsIm5vbmNlIjoiRDN2SnNVZG5mM3FXWUpOUVJKTW9qWUYyQ2NOY0xPZ1ZBcjlRa1QyN3J0OD0ifQ%3D%3D.OGYyBRaUiohTrsP8OyUjPn8_IeU9xq-QNQWPve6WBv57YENtW_1yAvw6aPkNstMuMhBY18bWNv38Q5FUA4NmUw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:49:37+00:00	twilight-user	{%22authToken%22:%228k707164y49qttesxwncy2gnwcx8rt%22%2C%22displayName%22:%22yamini2423%22%2C%22id%22:%22213834030%22%2C%22login%22:%22yamini2423%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:49:37+00:00	auth-token	8k707164y49qttesxwncy2gnwcx8rt

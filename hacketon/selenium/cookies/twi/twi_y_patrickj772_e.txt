@@ -1,0 +1,14 @@
+#y_patrickj772_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WwqdHAlhKP95jyiLA82qFKxSAZhQZpKKPYVYyi4PPE8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:06:41+00:00	unique_id	0cc0a9d2794a96a0
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:06:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:07:09+00:00	persistent	213499631%3A%3Acqf6ncc8xs6lds40a8ycndej8v89y5
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:07:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTk2MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzMjI5LCJpYXQiOjE1MjM0NDg0Mjl9.d1xRXbV3gBUq_w-GBxFoxUDmSlYbcyWwo000Ap8ie5Fi3QlcKoBn3JAoefd9_1BE1BQD66VHeBRh_b3Q_0vJJw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:07:09+00:00	login	y_patrickj772_e
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:07:09+00:00	name	y_patrickj772_e
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:07:09+00:00	last_login	2018-04-11T12:07:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:07:09+00:00	api_token	5e7e2a99bc6dcc08041e52e608eba6fa
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:07:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfcGF0cmlja2o3NzJfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDA0MjksImlhdCI6MTUyMzQ0ODQyOSwibm9uY2UiOiJuRmlyNHF0dFZGR3ZxUkg5YU1ZeGVEdy1XYmJrM09JendQTUFIb21SSDJrPSJ9.Dt0uBMJCSTIxahxcYw3qSBvIHld8ZywUkEVhDqW-BSYWko1_mqyI65paCUlhZQLx1ZfFLiKoqau6ytcYqUAWEA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:07:15+00:00	twilight-user	{%22authToken%22:%225hgqarsg86fkkayv3cp70o0n9ay53e%22%2C%22displayName%22:%22y_patrickj772_e%22%2C%22id%22:%22213499631%22%2C%22login%22:%22y_patrickj772_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:07:15+00:00	auth-token	5hgqarsg86fkkayv3cp70o0n9ay53e
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:07:18+00:00	twilight_onboarding	true

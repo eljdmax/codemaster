@@ -1,0 +1,13 @@
+#w_natashan634_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QsZtiufxY7e1qRpzbJ3qDEyNbRRHwQF%2BrNWK%2BSgRgHc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:32:18+00:00	unique_id	c78a0986d7fd38eb
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:32:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:32:46+00:00	persistent	213503058%3A%3A3dqnorru7ma6cig2p87nv2mfbvhxvq
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:32:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDMwNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0NzY3LCJpYXQiOjE1MjM0NDk5Njd9.6rI6r0YHdqTlCPQZxRcd5zAnyS6mGceaG2K4ALiwKUDj1NNS1Pblso2Zy3oJsUQ52O7ZXTPYDK6CC_xMbks39g==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:32:46+00:00	login	w_natashan634_d
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:32:46+00:00	name	w_natashan634_d
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:32:46+00:00	last_login	2018-04-11T12:32:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:32:46+00:00	api_token	16fdeed483e2f01824107fbe3ea19e67
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:32:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbmF0YXNoYW42MzRfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDE5NjcsImlhdCI6MTUyMzQ0OTk2Nywibm9uY2UiOiJBaFZ5dEx2cmtqalNLbVI5QnRZdFRkOVVwVkM1eVVnM2dLZDFNY094aUhRPSJ9.Af-U8H0dTsZZU_7eD_3vFwxXsFhazmhW5olc2Pi_RH0S8W-UYwGeIOtU-UG4lDsdORO_PI6E1ckCvQDV2QFr_w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:32:54+00:00	twilight-user	{%22authToken%22:%22tueatl0vqf1kzit36pa3jn9fb87odx%22%2C%22displayName%22:%22w_natashan634_d%22%2C%22id%22:%22213503058%22%2C%22login%22:%22w_natashan634_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:32:54+00:00	auth-token	tueatl0vqf1kzit36pa3jn9fb87odx

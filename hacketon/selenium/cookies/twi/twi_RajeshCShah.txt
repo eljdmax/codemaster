@@ -1,0 +1,13 @@
+#RajeshCShah
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	v63Ppx3nF8IYm9u%2F7pxaArB2tG9M1TmSYiAzifc5i2g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:44:59+00:00	unique_id	111fd185b307efa3
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:44:59+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:45:26+00:00	persistent	213820630%3A%3Ag0kjp8oy7zk18to9iod50ixlg7gxfr
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:45:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjA2MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNzI3LCJpYXQiOjE1MjM1NjU5Mjd9.N5knnTbL6LziI3vEkbZCV8PEqNwd0qolRCcF0VPk28t_u5jjrG2RZGSeCGG2tI4HymJKv2boeKTiFBfTpISQKw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:45:26+00:00	login	rajeshcshah
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:45:26+00:00	name	rajeshcshah
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:45:26+00:00	last_login	2018-04-12T20:45:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:45:26+00:00	api_token	6bf85c633a4699969cc1cc62e82644b4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:45:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJhamVzaGNzaGFoIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExNzkyNywiaWF0IjoxNTIzNTY1OTI3LCJub25jZSI6ImJEN2pOc2ZYMVVULXlqMVp1UzlTSWluYi1NV2ItUUxtTExBdjRNRjNkclk9In0%3D.hOnsq5Doqx0FwY4BTeiMyMLCheRG-t8m1T3m_1q6ExeMTk6-jDt4v3K4NJrE9Pd57NnxY6SsEBL376s636Cgcw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:45:41+00:00	twilight-user	{%22authToken%22:%225n759e79m180pend59s94e2z8iqy7e%22%2C%22displayName%22:%22rajeshcshah%22%2C%22id%22:%22213820630%22%2C%22login%22:%22rajeshcshah%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:45:41+00:00	auth-token	5n759e79m180pend59s94e2z8iqy7e

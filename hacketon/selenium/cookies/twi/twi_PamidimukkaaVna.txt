@@ -1,0 +1,13 @@
+#PamidimukkaaVna
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q2Q2wd2vjqeqOqc5QQzj10apr1RW61GgS4W7mJYrrno%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:39:35+00:00	unique_id	1e5bae9ff89e1bec
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:39:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:39:59+00:00	persistent	213831886%3A%3Auku3daqxfoxnj51j0zn4maotgz7584
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:39:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzE4ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczOTk5LCJpYXQiOjE1MjM1NjkxOTl9.RskfP1ScYzDskK77sO_CHtJAnW_NLpzt4yQmzh1DczYW9W7UZ_zvcyXlVVb69kemO_ZgCPDqQKy8GmkKFXy6dw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:39:59+00:00	login	pamidimukkaavna
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:39:59+00:00	name	pamidimukkaavna
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:39:59+00:00	last_login	2018-04-12T21:39:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:39:59+00:00	api_token	e623e1a382f72ab12a8a1207eed11429
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:39:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBhbWlkaW11a2thYXZuYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjExOTksImlhdCI6MTUyMzU2OTE5OSwibm9uY2UiOiJJcDJsekZSWUJ2VkQtLWhLX2Zwb2Qzc05JV3pHTjVkVEtFaFJMcUh5MWpFPSJ9.lwGbk2E5-1Ps8agdxFFfJrublHhVDz31xcB1_pGXob-GqgwSdNY4PVKN9Ja_JNyu2YAplW7yjLMRCwuGgnOk5g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:40:12+00:00	twilight-user	{%22authToken%22:%224lnd4prkby96hkxzsbjlul2vbehq5d%22%2C%22displayName%22:%22pamidimukkaavna%22%2C%22id%22:%22213831886%22%2C%22login%22:%22pamidimukkaavna%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:40:12+00:00	auth-token	4lnd4prkby96hkxzsbjlul2vbehq5d

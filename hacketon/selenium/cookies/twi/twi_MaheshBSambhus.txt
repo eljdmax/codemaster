@@ -1,0 +1,14 @@
+#MaheshBSambhus
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7fcBRhicbBXgN4osFRD243sLGyk%2FmM7gVHKNiu4FwE8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:07:13+00:00	unique_id	90d3b243a5418d33
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:07:13+00:00	_twitch_session_id	95504705fbdda51b25e0072bea98f819
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:07:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:07:33+00:00	persistent	213824921%3A%3Ali71675jeygfahmdcggama9ouz7v49
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:07:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjQ5MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyMDU0LCJpYXQiOjE1MjM1NjcyNTR9.1tP1mLlded0ivmo0ssZLLx9sRKmPS8ODOpBGN-Hy-v0jLhebSc4dAuzPeT_LlvPolcAS0gu9BT6XhFRsmYq1HQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:07:33+00:00	login	maheshbsambhus
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:07:33+00:00	name	maheshbsambhus
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:07:33+00:00	last_login	2018-04-12T21:07:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:07:33+00:00	api_token	49754ec145de20afeb7fe3f6cee20094
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:07:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1haGVzaGJzYW1iaHVzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExOTI1NCwiaWF0IjoxNTIzNTY3MjU0LCJub25jZSI6ImJOSnlGMVZySm5WM1EzWEkza3pIczNzTFc1LTU5VkJpZDJMYkNLd0JGdTg9In0%3D.O4N5zESinIMgJHFWu5FCehI9JcoKxmMQQii73a3xhQWOIqMYzCrsRw2c5bL9PJb9cfEozTC2ThyGri1qLkREYQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:07:50+00:00	twilight-user	{%22authToken%22:%22eu6cdaksxsb8rkvzss1x389i1m02lt%22%2C%22displayName%22:%22maheshbsambhus%22%2C%22id%22:%22213824921%22%2C%22login%22:%22maheshbsambhus%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:07:50+00:00	auth-token	eu6cdaksxsb8rkvzss1x389i1m02lt

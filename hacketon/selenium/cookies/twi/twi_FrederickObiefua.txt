@@ -1,0 +1,14 @@
+#FrederickObiefua
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i3hQDnV2tKx1L5ypkzftwlE%2BNRwgQzgwwJcbhmkE1Cs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:31:28+00:00	unique_id	b2ca6e5085b67383
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:31:28+00:00	_twitch_session_id	3591e1fb775ec9dd3dc2fe6897351d8f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:31:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:32:00+00:00	persistent	213830129%3A%3Aput80pdkn20lss9i0k2ge7syd71pbj
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:32:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzAxMjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNTIxLCJpYXQiOjE1MjM1Njg3MjF9.f-DD3ybLfngrHfr157mdxCGLhm1H7QXH-c6AHcJ6Sy8BGR2b_aCx3-KywDquCVsGjJzl56gBGsp0P_MI7i3BiQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:32:00+00:00	login	frederickobiefua
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:32:00+00:00	name	frederickobiefua
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:32:00+00:00	last_login	2018-04-12T21:32:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:32:00+00:00	api_token	23bd85c06893de7204014d2229610e75
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:32:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZyZWRlcmlja29iaWVmdWEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIwNzIxLCJpYXQiOjE1MjM1Njg3MjEsIm5vbmNlIjoiMzVPTTFDdV9UdGxfN05GTUdaWXdNVmIycFdHeG5IekM5Zm5iOW1WU0cwdz0ifQ%3D%3D.jr7LospARpoCMm4KHd5GA0rE_0s5Fh_Dl3pJq6SXdEgOIy0CTt-JVnieiBXmmM-tMfVUNNCPRLH13lIT7Ngb0g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:32:15+00:00	twilight-user	{%22authToken%22:%22340ctr8toqh7iqwilwhemjk07tqizi%22%2C%22displayName%22:%22frederickobiefua%22%2C%22id%22:%22213830129%22%2C%22login%22:%22frederickobiefua%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:32:15+00:00	auth-token	340ctr8toqh7iqwilwhemjk07tqizi

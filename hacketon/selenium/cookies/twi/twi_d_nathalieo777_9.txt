@@ -1,0 +1,14 @@
+#d_nathalieo777_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Qxr%2FFe22i1V543mHd8d9OTE4%2BFWxCaoevgAlSib23sA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:50:46+00:00	unique_id	c49eaa3954e3048b
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:50:46+00:00	_twitch_session_id	24f1380980f136308825cb8cfb424074
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:50:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:51:06+00:00	persistent	213505760%3A%3Ak8z4mritdv2dv74tzb7ueanjp5zq0d
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:51:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDU3NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU1ODY2LCJpYXQiOjE1MjM0NTEwNjZ9.v9V8zp6OykTXUudO9SMLAmVjbPvXNQkDrVZdMBK204xxy7OQBMrclwHclBiQo4EdgwLHRHXUyXRzOYHjrRWCPw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:51:06+00:00	login	d_nathalieo777_9
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:51:06+00:00	name	d_nathalieo777_9
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:51:06+00:00	last_login	2018-04-11T12:51:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:51:06+00:00	api_token	dff6d145820d5f1e45a09c161e08f5e6
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:51:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbmF0aGFsaWVvNzc3XzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDAzMDY2LCJpYXQiOjE1MjM0NTEwNjYsIm5vbmNlIjoiSEVQWWhsdGdPXzZkOHRhNjFmOGVTajdyY2NadnlZY242REptUFJiNEVBbz0ifQ%3D%3D.r45CzaEq-ce3Lem4AFnJgJzr3Q6uuHD0BbD3RLsrak6kACozqk5RP0XccGm2hnCQJpTgBeXFf7yvalB_8XGnuQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:51:14+00:00	twilight-user	{%22authToken%22:%220zw2z6tgyejo7nqjj9pf39opkm9fzw%22%2C%22displayName%22:%22d_nathalieo777_9%22%2C%22id%22:%22213505760%22%2C%22login%22:%22d_nathalieo777_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:51:14+00:00	auth-token	0zw2z6tgyejo7nqjj9pf39opkm9fzw

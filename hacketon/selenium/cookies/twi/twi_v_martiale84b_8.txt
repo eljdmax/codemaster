@@ -1,0 +1,17 @@
+#v_martiale84b_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kGN98hClfWYLt1fQUGC7ZlFkpKzRG5XDA%2BoyKSoTA38%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:11:08+00:00	unique_id	6c094136f5986dd6
+.twitch.tv	TRUE	/	TRUE	2018-04-11T22:11:08+00:00	_twitch_session_id	734019aa551962007c8a43b37fa29c66
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:11:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:11:21+00:00	persistent	213487166%3A%3Aysdfn0lv2f3b4bvwjjjuyf9fak1ou2
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:11:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODcxNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ2MjgyLCJpYXQiOjE1MjM0NDE0ODJ9.DQCf-Lt_S_aeEQQW9JOgyQ7Or_QVVlyBXP4O4cQ1wtx089NR7Gj0ua33KzJljJPbwMlSdR0cGc4YshjQ3WVCHg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:11:21+00:00	login	v_martiale84b_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:11:21+00:00	name	v_martiale84b_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:11:21+00:00	last_login	2018-04-11T10:11:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:11:21+00:00	api_token	261ce313765914fabe6dfcd54c5cae02
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:11:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFydGlhbGU4NGJfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTM0ODIsImlhdCI6MTUyMzQ0MTQ4Miwibm9uY2UiOiJNQUJlUk5uaHZsOXR2REFocDJmZ0xSQmM2RWIwd20ta3NsS3VNeExEeEI4PSJ9.4CyirnQCIYNWNuhePqbs9bP0RAvhBJlKGhayzWyt6jveXGcfUmHl07BB44Dd-8pDouRuKWo3JVDyWTG6_pvDhA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	pRQkucnjg5mttTOpYStC8ZelikUmsWoH
+.twitch.tv	TRUE	/	FALSE	2020-04-10T10:11:28+00:00	__gads	ID=6624b82884d4a8e1:T=1523441489:S=ALNI_Mbmwvl_1Hlc27RjOS3Lcba7CpTgMQ
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM0NDUxMDAsIm52IjowLCJ1cHQiOjE1MjM0NDUwODgsImx0IjoxNTIzNDQ1MDg4fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:11:41+00:00	twilight-user	{%22authToken%22:%22usc75cf388195lrkbr8j3wnpsf4vt4%22%2C%22displayName%22:%22v_martiale84b_8%22%2C%22id%22:%22213487166%22%2C%22login%22:%22v_martiale84b_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:11:41+00:00	auth-token	usc75cf388195lrkbr8j3wnpsf4vt4

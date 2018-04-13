@@ -1,0 +1,14 @@
+#MDSalehUddin786
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XJjCA48O9hRj84svKtSfhyPDR9d0BbJlwS7gQSGQWu0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:31:07+00:00	unique_id	a943c97ece0c1f72
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:31:07+00:00	_twitch_session_id	8482b1d74d6d41d950f480eba292397c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:31:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:31:37+00:00	persistent	213830041%3A%3A1ru5o922t33adqzo1hk7jbnbsoo8d4
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:31:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzAwNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNDk4LCJpYXQiOjE1MjM1Njg2OTh9.oBFeZGq8HJu2fvtgm5wANO2MCv6W_JeY7IFPtLTozSpXDhxYbsPOb5XGKHo7ERtGCBwKryk5L5wQzonlDLtu4w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:31:37+00:00	login	mdsalehuddin786
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:31:37+00:00	name	mdsalehuddin786
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:31:37+00:00	last_login	2018-04-12T21:31:38Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:31:37+00:00	api_token	d02231f08f81c63696127fbbf1d83f7c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:31:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1kc2FsZWh1ZGRpbjc4NiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjA2OTgsImlhdCI6MTUyMzU2ODY5OCwibm9uY2UiOiJaLXg2SHB4V0FVY1NTd2t5ZlhvU0cycks3cW5OeS1FNnJuTHAtTzNqRGRvPSJ9.qp-n-tqtIUuFt4uIr3OH63NOORDAaxl-0HS6AibRgwR7Q0Gv7Dz4VKo_5w1WeP-0DOHE39XlV9aDGlk6hO7Ggw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:31:57+00:00	twilight-user	{%22authToken%22:%22wfeaeiszs3up3s4ylwz3b704e0wa8g%22%2C%22displayName%22:%22mdsalehuddin786%22%2C%22id%22:%22213830041%22%2C%22login%22:%22mdsalehuddin786%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:31:57+00:00	auth-token	wfeaeiszs3up3s4ylwz3b704e0wa8g

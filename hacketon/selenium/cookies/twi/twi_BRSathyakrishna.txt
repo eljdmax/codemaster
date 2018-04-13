@@ -1,0 +1,14 @@
+#BRSathyakrishna
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	t7FrJreZCIA0ZLj8GvzkfLPvE8OHUDDvjcppLZk86Ow%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:52:54+00:00	unique_id	6ff1df80bd792a2f
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:52:54+00:00	_twitch_session_id	b865605f0ec25ccb6bbf3a7d649b10b9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:52:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:53:18+00:00	persistent	213822166%3A%3Aetiewiq9zw4oe4gt897ib402rj9l92
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:53:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjIxNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMTk4LCJpYXQiOjE1MjM1NjYzOTh9.emDQKdyBjT12kmEE0y68Tz6EOytlguViPrwMWglTF2CU0EbvbH2NyAnafQamq6ODxdlgMZtzezdmpgiMcFo5Hw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:53:18+00:00	login	brsathyakrishna
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:53:18+00:00	name	brsathyakrishna
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:53:18+00:00	last_login	2018-04-12T20:53:18Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:53:18+00:00	api_token	df4f460fcba5bbc111267311c48d468f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:53:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJyc2F0aHlha3Jpc2huYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTgzOTgsImlhdCI6MTUyMzU2NjM5OCwibm9uY2UiOiJRSjNJUE1TaDdfdFdDM3VMeVhPcTJBbUdkTHlTcUt3QWp3dWlQaDdkOXJBPSJ9.9BtwIg2pmBSWLGY_JxDHxszxLWukI7rs82hsJkO6XCUPqltnkRpGThM0OPgpwKZkhALHXZCtlFYMQkdpiD4mlg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:53:35+00:00	twilight-user	{%22authToken%22:%221cvs36d9mfy50ppg4lrrxk3jb7bxzm%22%2C%22displayName%22:%22brsathyakrishna%22%2C%22id%22:%22213822166%22%2C%22login%22:%22brsathyakrishna%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:53:35+00:00	auth-token	1cvs36d9mfy50ppg4lrrxk3jb7bxzm

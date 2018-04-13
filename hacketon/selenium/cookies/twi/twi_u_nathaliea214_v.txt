@@ -1,0 +1,12 @@
+#u_nathaliea214_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RxpUxR04I2pIED7E1CaD%2BxH7%2B77OCWAaVFZQWDNwZQY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:44:52+00:00	unique_id	07afa52af69b132f
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:45:24+00:00	persistent	213220418%3A%3Ahuy5jzrilcpird1xedudtfgk12r3ei
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:45:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjA0MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU4MzI1LCJpYXQiOjE1MjMzNTM1MjV9.42QalC-NXS-dQhiuABk-x8zNnrSgeTH6nU82sIOiMesz66jcT2C_faKqJYqiS8QDMLTdXPzkBHIQuWmq-vGi1w==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:45:24+00:00	login	u_nathaliea214_v
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:45:24+00:00	name	u_nathaliea214_v
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:45:24+00:00	last_login	2018-04-10T09:45:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:45:24+00:00	api_token	69a4ddd109109fec4fab06ad7c725e99
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:45:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmF0aGFsaWVhMjE0X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTA1NTI1LCJpYXQiOjE1MjMzNTM1MjUsIm5vbmNlIjoidHdyWjVLMlZYMFhfT1UzelA4LWhBbEczZUU5Wkx4MHR5X0xnYnRmdk02WT0ifQ%3D%3D.ZpRyrPAu2N7hDSHp-rWrS4EY1WmSCKZo277frVb1fuTuvChuMuH_6bZFkDlxOmJIQsXTtaJ5s2XbtqJU-ocw9w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:45:28+00:00	twilight-user	{%22authToken%22:%22e1ashzte8kupds8zvr78kbhc80dbgr%22%2C%22displayName%22:%22u_nathaliea214_v%22%2C%22id%22:%22213220418%22%2C%22login%22:%22u_nathaliea214_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:45:28+00:00	auth-token	e1ashzte8kupds8zvr78kbhc80dbgr

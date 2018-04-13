@@ -1,0 +1,13 @@
+#SwapnilAmitSingh
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	N65DnL25aN0zgLyLwa2NgFNdTGJu8RMWfsXD8%2FCukuk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:14:37+00:00	unique_id	106fb722ccfe1932
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:14:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:14:54+00:00	persistent	213826345%3A%3A2i4ctiwjo79i4itxwi1673o0hdeh8f
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:14:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjYzNDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyNDk1LCJpYXQiOjE1MjM1Njc2OTV9.4980O1MIP81tresNyxqxxw3oqNRMl0H5A1vvtPNlMjqOO0TTdl72Hv8iH5ulpb36oZEl1CWu32qs2MC69x5qXw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:14:54+00:00	login	swapnilamitsingh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:14:54+00:00	name	swapnilamitsingh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:14:54+00:00	last_login	2018-04-12T21:14:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:14:54+00:00	api_token	065ee115d6ca4457ee8d5c52227189a5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:14:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InN3YXBuaWxhbWl0c2luZ2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE5Njk1LCJpYXQiOjE1MjM1Njc2OTUsIm5vbmNlIjoiR3ZZcFRJOGF6M054d1hJRFRzVFozdmdRQ3IxYlNFQWRpaVFFeFJPTHlCQT0ifQ%3D%3D.MwoE2j3Vwb_iyxpEA2pQtT5sbMJ7yc55QmvPHnweihPLH3EvBGfLlrKfw80Prj6GcNNrRlSCPIG0zsLUa1OG2g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:15:10+00:00	twilight-user	{%22authToken%22:%22b0l7bffnohp8e6jpeyy1zbe9lrq5of%22%2C%22displayName%22:%22swapnilamitsingh%22%2C%22id%22:%22213826345%22%2C%22login%22:%22swapnilamitsingh%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:15:10+00:00	auth-token	b0l7bffnohp8e6jpeyy1zbe9lrq5of

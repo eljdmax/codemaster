@@ -1,0 +1,14 @@
+#s_patrickl37r_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	f0K753bqRR0e5O7h5R4PAmrkc28ecYl0CdacFgGPwWw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:08:29+00:00	unique_id	2a6a7faa56cb8418
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:08:29+00:00	_twitch_session_id	f9c7505c390663fa7ff5c81e1daff2bc
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:08:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:08:57+00:00	persistent	213518371%3A%3A0rqg5vjw9n3x0fw9r52yrob44pifpz
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:08:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTgzNzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYwNTM4LCJpYXQiOjE1MjM0NTU3Mzh9.EG_VQSh5Yo5m3TJpjsnfoSd0b4YnSOrmV0dqmmfshLpojHz379vz8-EZxc57vECMtarMWxfxpjZxq8DagW5DRA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:08:57+00:00	login	s_patrickl37r_p
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:08:57+00:00	name	s_patrickl37r_p
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:08:57+00:00	last_login	2018-04-11T14:08:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:08:57+00:00	api_token	e18c311c68e92e32ccac31ba28b4c34d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:08:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfcGF0cmlja2wzN3JfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDc3MzgsImlhdCI6MTUyMzQ1NTczOCwibm9uY2UiOiJfQ045emFIQ2VZaHFpTzh2ZlkzUWVjR0NzTkxtYkhuNHB5NkVRc1RjSS1vPSJ9.9s9MuRhdma8Zc9cmv4B3QDYxNYxkeHYlsqUQXnOCpd0FPnTDQklP1_pJ59FQzQHaqk6szCUzTRzyH6IF7zynbw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:09:06+00:00	twilight-user	{%22authToken%22:%22sqxpd06tfp3yk4v8k7ab31kp812ity%22%2C%22displayName%22:%22s_patrickl37r_p%22%2C%22id%22:%22213518371%22%2C%22login%22:%22s_patrickl37r_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:09:06+00:00	auth-token	sqxpd06tfp3yk4v8k7ab31kp812ity

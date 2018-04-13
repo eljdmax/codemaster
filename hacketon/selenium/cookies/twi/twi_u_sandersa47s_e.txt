@@ -1,0 +1,14 @@
+#u_sandersa47s_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GD7TK3PFUmh9tUscDASYIOab2rHIKkGYUlPUTe4XS10%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T23:04:03+00:00	unique_id	f2609c02bde9e366
+.twitch.tv	TRUE	/	TRUE	2018-04-10T11:04:03+00:00	_twitch_session_id	373fa9b3b998080f56533f2c621a79ec
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:04:27+00:00	persistent	213098327%3A%3A6dmf4q3r0oe2kht5i4f0z1aq73r1sh
+.twitch.tv	TRUE	/	TRUE	2018-04-10T00:04:28+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTgzMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTg2NjgsImlhdCI6MTUyMzMxNTA2OH0=.bcR_T1XjdMv3yddIiU1d0_XRk_lwcyj3zEeDA80VSqKUvfxXg3H_7S0Tz8lwv4geVFghC_RXcyCj82NdnEaFhQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T23:04:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTgzMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5ODY4LCJpYXQiOjE1MjMzMTUwNjh9.p3NC-LoQ-3zGcSpA7tbvU57e9hts5Gp_eY2VuT_PFKIjTq3fY9_u9Xh_yf9xd7BkOiamsbLsIlAzgUo1p03Tkg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:27+00:00	login	u_sandersa47s_e
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:27+00:00	name	u_sandersa47s_e
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:27+00:00	last_login	2018-04-09T23:04:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:04:27+00:00	api_token	46d30474a205db88e2e75923fd2d52af
+.twitch.tv	TRUE	/	TRUE	2018-10-06T23:04:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2FuZGVyc2E0N3NfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjcwNjgsImlhdCI6MTUyMzMxNTA2OCwibm9uY2UiOiJuVHppYTVNbTVmNkd3bFc3eFR5enZ3Nnk3Zzh4WGJTcS12ak9Dczc4MmVjPSJ9.6AobJlSa4YzQLAvNZCUDkcoqhR_jztYaHH381gkshQnsKzAG2UhaTha8l6zubVPZmgC5VEgCxgqp10mhBp-1rQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:04:28+00:00	twilight-user	{%22authToken%22:%22pw1efiem4db0n82h8b8zkdejlnq3zg%22%2C%22displayName%22:%22u_sandersa47s_e%22%2C%22id%22:%22213098327%22%2C%22login%22:%22u_sandersa47s_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:04:28+00:00	auth-token	pw1efiem4db0n82h8b8zkdejlnq3zg

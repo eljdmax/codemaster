@@ -1,0 +1,13 @@
+#e_martialh33a_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	isNu5S7%2Fa%2Bi81mrgE613RXZiW38LGrf9k8PPv3YgIxM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:55:45+00:00	unique_id	2ad320340c2d4d97
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:55:45+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:56:08+00:00	persistent	213498259%3A%3Au57rwly3k3mqkevqn6bc2uctd3j3jg
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:56:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTgyNTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUyNTY4LCJpYXQiOjE1MjM0NDc3Njh9.lP5jHbqxd4WhBnGCWQlT8RAqXEu8gtmWy3F2hHEvgYUcp-sc3Cnw0X3nHD2RpjWbNqQtSqvhsOgdX-XE1Dq5Ug==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:56:08+00:00	login	e_martialh33a_7
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:56:08+00:00	name	e_martialh33a_7
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:56:08+00:00	last_login	2018-04-11T11:56:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:56:08+00:00	api_token	509aa399b52a1aa7344e40ed94662281
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:56:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWFydGlhbGgzM2FfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTk3NjgsImlhdCI6MTUyMzQ0Nzc2OCwibm9uY2UiOiJOWnQxUzkwdWpHVVRvZEREbEFiVUotLUZjSUlUNm1ja1R0MWZWZS1hcXU0PSJ9.tLtg-JsnAzsFTmBxMV7GtOzg1mZgOxhyrKRrG9De4JeQViZvCmGV-Lh3-FJCNK-XO1rbhpp32_F2tJwe9HWovQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:56:15+00:00	twilight-user	{%22authToken%22:%22rupsi4wthzbtxd50o8rn6o9131rdjf%22%2C%22displayName%22:%22e_martialh33a_7%22%2C%22id%22:%22213498259%22%2C%22login%22:%22e_martialh33a_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:56:15+00:00	auth-token	rupsi4wthzbtxd50o8rn6o9131rdjf

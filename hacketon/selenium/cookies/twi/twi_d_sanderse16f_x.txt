@@ -1,0 +1,14 @@
+#d_sanderse16f_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mjlayvLK03SNjjN%2BoFUHKQ%2FCPTypUzVTRY5oSGYUeFw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:50:48+00:00	unique_id	ffc709ee57f98f3e
+.twitch.tv	TRUE	/	TRUE	2018-04-11T22:50:48+00:00	_twitch_session_id	abf8f12f559a8ac2d63a305644a9e94d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:50:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:51:28+00:00	persistent	213490860%3A%3A4wk9r1ezs203kj472hi4ykth6b053s
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:51:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTA4NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ4Njg5LCJpYXQiOjE1MjM0NDM4ODl9.vjQ5O_9X59_Be10izFz5OWEJyFWy2589PFCSyijWNKKAA7eENg_FzTl2TrU75Gx5jKtsHCJyil0yTxcLv96LVQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:51:28+00:00	login	d_sanderse16f_x
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:51:28+00:00	name	d_sanderse16f_x
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:51:28+00:00	last_login	2018-04-11T10:51:29Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:51:28+00:00	api_token	b8d7be91c18e36385c05b2f8ad2edb38
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:51:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfc2FuZGVyc2UxNmZfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTU4ODksImlhdCI6MTUyMzQ0Mzg4OSwibm9uY2UiOiJ3MW5aUHZYUnRfQTE2S3JUal9yMkExTkhOWDRrOUptd2VsN2k2UlpYQzRjPSJ9.kFR2ujc0G1It8WmQM8ajT0L_Kld2bWJwTi7rvXQlJtmvj-cIdFG3SJw_uSr48g7-UykdZ5YeVzaZsfwnL9xpMQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:51:36+00:00	twilight-user	{%22authToken%22:%223ty19mhbl1klyxrzlls20ogdnhgayc%22%2C%22displayName%22:%22d_sanderse16f_x%22%2C%22id%22:%22213490860%22%2C%22login%22:%22d_sanderse16f_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:51:36+00:00	auth-token	3ty19mhbl1klyxrzlls20ogdnhgayc

@@ -1,0 +1,13 @@
+#f_nathaliec092_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wg7j8nPJTisjWAabjqofyAg0TezAiGYRwg%2Bqx0ael2Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:20:32+00:00	unique_id	a145fd4f904070d4
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:20:32+00:00	_twitch_session_id	2a3d3383dc2d23e6cfef1ae6e0a085a2
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:20:51+00:00	persistent	213277597%3A%3Agftbqqu9rttxknswubbrqliiw378ct
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:20:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzc1OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc4NDUxLCJpYXQiOjE1MjMzNzM2NTF9.kmuZj-yjkcfvL90XrSs0NKAunLgWTG-8ANP3Kb18SPZZoRb1mU-30P60yXA3TceGoeZY4OWtevCTQ6xWourGHg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:20:51+00:00	login	f_nathaliec092_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:20:51+00:00	name	f_nathaliec092_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:20:51+00:00	last_login	2018-04-10T15:20:51Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:20:51+00:00	api_token	cafadadfd32e35a237417541cec7ad1d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:20:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbmF0aGFsaWVjMDkyX2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI1NjUxLCJpYXQiOjE1MjMzNzM2NTEsIm5vbmNlIjoicjF5VS1TbjZpQ0VWLV9jbnRhclUzdk1YT0tiTEhrbFV2VEUwZG41aWFNOD0ifQ%3D%3D.cgM-bnR08aK2gsLd8cBHZ9yEohtFKCIeOhkBJQaZ3myrckJJXUjWgdDDcSkotkP2Ns_2111mCWx0M7h8a9kSFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:20:53+00:00	twilight-user	{%22authToken%22:%225e79zhq5x33qev5nt8eyiprm34bovl%22%2C%22displayName%22:%22f_nathaliec092_i%22%2C%22id%22:%22213277597%22%2C%22login%22:%22f_nathaliec092_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:20:53+00:00	auth-token	5e79zhq5x33qev5nt8eyiprm34bovl

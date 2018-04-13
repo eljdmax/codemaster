@@ -1,0 +1,14 @@
+#z_nathalieh166_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Cg3%2B%2FrRcIXrBFaVJ6bLNH9gtvP3pGUTqdOVtOMKx2xo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:52:15+00:00	unique_id	fa947b17fe504781
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:52:15+00:00	_twitch_session_id	90f2b661e5828af9dc2ee334865d887c
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:52:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:52:39+00:00	persistent	213497812%3A%3Aro9jqtouh1vw48lj5pp5toz63itcuz
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:52:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTc4MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUyMzU5LCJpYXQiOjE1MjM0NDc1NTl9._rQXq79K_GsDzG4BS0gzqRw2kTg_8U0djHUBO7eVdiSBik8i7pdHfyf7Z0lRV1AhhXio47ccyhJoIv1gJr5xdQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:52:39+00:00	login	z_nathalieh166_x
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:52:39+00:00	name	z_nathalieh166_x
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:52:39+00:00	last_login	2018-04-11T11:52:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:52:39+00:00	api_token	5d8c5eec6aa8f834277744a4d494c7c8
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:52:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbmF0aGFsaWVoMTY2X3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk5NTU5LCJpYXQiOjE1MjM0NDc1NTksIm5vbmNlIjoiWjJtYXNQZDN4Q3F6RWZ2TFNEMmQ1X2Fwc2FmcjYxT1hHWE5zcXNFaHMyST0ifQ%3D%3D.yiU12NDLT22SLjpEisxQCRdGGeelcbQorpXVAtBlcMqnGjz2_K8WZ0V9TTi3De9B3nYCepiiqG_WVdzq2GJNrQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:52:48+00:00	twilight-user	{%22authToken%22:%22q8e3tedc72qjkzgnh95regd4l724vt%22%2C%22displayName%22:%22z_nathalieh166_x%22%2C%22id%22:%22213497812%22%2C%22login%22:%22z_nathalieh166_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:52:48+00:00	auth-token	q8e3tedc72qjkzgnh95regd4l724vt

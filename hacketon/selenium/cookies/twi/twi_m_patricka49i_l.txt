@@ -1,0 +1,14 @@
+#m_patricka49i_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	e%2FrY5uldf0XerCsvZeTaU7ILOjSFzUo72h9QruK0WsA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:15:45+00:00	unique_id	b77f4bd80cc79ff3
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:15:45+00:00	_twitch_session_id	f9695dfb260ef1c3d544449cbbbe03b8
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:16:01+00:00	persistent	213087212%3A%3Am0ujdn68lo6ns9m18lm58zidbw241l
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:16:02+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODcyMTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTU3NjIsImlhdCI6MTUyMzMxMjE2Mn0=.mHZNjBchpyq-y_yxtgqG3BFim2gsNop7FKijGPn4cTwDWoCPo9pbaXl5Cz7D1VOVFBMhYmnvxl8YSG379m_bnQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:16:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODcyMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2OTYyLCJpYXQiOjE1MjMzMTIxNjJ9.A2jdFjwnVgIRVpHDC1rODDgesbTKWN9Pk2LOrp145vsbI-K-lX5PaUmi6tuCDSaSdKxu-9TOEjV4hP4KEoKxjg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:16:01+00:00	login	m_patricka49i_l
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:16:01+00:00	name	m_patricka49i_l
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:16:01+00:00	last_login	2018-04-09T22:16:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:16:01+00:00	api_token	af9571695556a4d8c1cd9892913fbfe0
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:16:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fcGF0cmlja2E0OWlfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQxNjIsImlhdCI6MTUyMzMxMjE2Miwibm9uY2UiOiJkVW1YdzhYNEpfWGtGX3ktSjNucEVXMlNPODU3S2xJYUxtSDg2eU9Mc0RRPSJ9.7YwlSwpXWUrlQV8bSv3o0OCrXjf100EFhNbvzJXW4VgxtDQXhQRVMhea6Oqs5k9O-il_6mvw7up4RmXQZis0ZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:16:02+00:00	twilight-user	{%22authToken%22:%22j6vwz4mmiltzn2v99bjl3bqbnokmz1%22%2C%22displayName%22:%22m_patricka49i_l%22%2C%22id%22:%22213087212%22%2C%22login%22:%22m_patricka49i_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:16:02+00:00	auth-token	j6vwz4mmiltzn2v99bjl3bqbnokmz1

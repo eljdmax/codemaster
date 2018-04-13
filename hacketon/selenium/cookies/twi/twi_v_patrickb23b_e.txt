@@ -1,0 +1,12 @@
+#v_patrickb23b_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GUkXDLreiSiV67XrLu5t69JnlCLu4KaWfychThh843M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:55:13+00:00	unique_id	30ee780d497292cf
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:55:36+00:00	persistent	213259036%3A%3Awu0w9xd8cwaqt5o6pwvz6o74cg3axy
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:55:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTkwMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTczMzM2LCJpYXQiOjE1MjMzNjg1MzZ9.AxjskwbgVlC5TIhcFG9_9fOd4_yny7kCcpv8k3a-ETnSFNyUn8imWRnnXBx0SOpPwexZCbEvBbGVcmhOj3ny3g==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:55:36+00:00	login	v_patrickb23b_e
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:55:36+00:00	name	v_patrickb23b_e
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:55:36+00:00	last_login	2018-04-10T13:55:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:55:36+00:00	api_token	ea74ebde52c7fd9f4c534287fdec4280
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:55:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfcGF0cmlja2IyM2JfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjA1MzYsImlhdCI6MTUyMzM2ODUzNiwibm9uY2UiOiI1aEcwNGtYcmVmLU1RM3N3MDJobDBQOUVJTy14SXY4MjBkeElHRDBFeTRzPSJ9.gandUMceKZvGpshAhl17bv5bb5ENtwn7PAHsUscIjn8TU3jzNawucSowJelC-vWpf8NavHB1QzFiuN-Ya0kz7Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:55:38+00:00	twilight-user	{%22authToken%22:%22a6kd5kh06s3vg1tp4er16p7ll2abal%22%2C%22displayName%22:%22v_patrickb23b_e%22%2C%22id%22:%22213259036%22%2C%22login%22:%22v_patrickb23b_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:55:38+00:00	auth-token	a6kd5kh06s3vg1tp4er16p7ll2abal

@@ -1,0 +1,15 @@
+#u_patricka115_n
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	g6MDHbloYCN9WS0KxTUf%2BXobJvxI14PGmBdzfaRvmUc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:01:37+00:00	_twitch_session_id	114b087f85c6bc45577922563d8821b3
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:02:14+00:00	persistent	213083807%3A%3A4i0c0goi8dz3c4l1p04utmsnxtiif6
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:02:15+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODM4MDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTQ5MzUsImlhdCI6MTUyMzMxMTMzNX0=.qd1e87gusIw5-G1tCwYkTRRHeu8kjqYX2djZ3RyusXlpnG0aamQXt7coxjoOzeOOpNa5KFHUwJLdwOdihaNM5g==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:02:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODM4MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2MTM1LCJpYXQiOjE1MjMzMTEzMzV9.Wqr0LxQ_gPMSjfl574Q4IKeO1mMWlqteceXQJXfyRY7MIl-ZrpHEOlmJO5p3B5rxxRkVCvq-iMQsD2Ax3JWBkw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:02:14+00:00	login	u_patricka115_n
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:02:14+00:00	name	u_patricka115_n
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:02:14+00:00	last_login	2018-04-09T22:02:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:02:14+00:00	api_token	2e14e9236d5b0bcfe5a6a4a917def3a5
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:02:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfcGF0cmlja2ExMTVfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjMzMzUsImlhdCI6MTUyMzMxMTMzNSwibm9uY2UiOiJ4ZnVVeEpoRmIybEVTV1Y5V2I3NkstLXpRS1FTdVhPYmlweXpoX0djbndJPSJ9.YBD6ZDSxxM0aPHS41Jj0glA2wwIGrVFPjgL0e1QG16cX_XSFUDwGypwi3lZimNC8DXRPgXfW-bEdzJqhGrn7FQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:02:20+00:00	twilight-user	{%22authToken%22:%22y3sim5zdca1soh3ggxo53rdi6rbru4%22%2C%22displayName%22:%22u_patricka115_n%22%2C%22id%22:%22213083807%22%2C%22login%22:%22u_patricka115_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:02:20+00:00	auth-token	y3sim5zdca1soh3ggxo53rdi6rbru4

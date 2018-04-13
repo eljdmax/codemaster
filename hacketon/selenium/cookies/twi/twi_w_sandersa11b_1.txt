@@ -1,0 +1,17 @@
+#w_sandersa11b_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nowHqv4OkRPGe79567Yqb%2BfP%2FO1TqHCwX3k3WeOqdt8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:20:42+00:00	unique_id	fcf7b5c15e082c70
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:20:42+00:00	_twitch_session_id	29054f7c36952798d40545e869a296f0
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:20:57+00:00	persistent	213088349%3A%3Awyokltycqrypih60mqtassl12wr80s
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:20:56+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODgzNDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTYwNTcsImlhdCI6MTUyMzMxMjQ1N30=.IcZ81QkPDgsa_LX7q2m6xVAGtsGtmuQawg00zniTNGQLz40fNlSNSO1QebFiadtVJNrz_YwotGOYtdiCjkJTZA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:20:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODgzNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE3MjU3LCJpYXQiOjE1MjMzMTI0NTd9.EW6USziGoEMRfSTiCjHTcw6p20834thjLj6sHRXZI8DuaZz65Ek_rlJz62x7d_1dGcYYZzLlo8-aC0slmfYBMg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:20:57+00:00	login	w_sandersa11b_1
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:20:57+00:00	name	w_sandersa11b_1
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:20:57+00:00	last_login	2018-04-09T22:20:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:20:57+00:00	api_token	53e66edaad5198b61da44555d216699a
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:20:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfc2FuZGVyc2ExMWJfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQ0NTcsImlhdCI6MTUyMzMxMjQ1Nywibm9uY2UiOiI5SWJiZUV0NDlUTUs3eTJuSU9LaDJ3b0dVWUJDZS1jMDh0TXlIbGFVRFZ3PSJ9.i--kCvgQF_HACEXa_v3-wrLJcw4rYyiO3TNCLI8_PzyVC-ghQLOoKMHluF0frC-uy9XFN-6ubETQngKzs65--A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	g7pkBU0iutnZq2l9xZuk1oq4dp0mNDAN
+.twitch.tv	TRUE	/	FALSE	2020-04-08T22:21:05+00:00	__gads	ID=4f38e1ddf9824abe:T=1523312465:S=ALNI_Mbt3K9b-xzh9wYviH6dtsZ2AHZSmg
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMzMTYwODMsIm52IjoxLCJ1cHQiOjE1MjMzMTYwNTYsImx0IjoxNTIzMzE2MDgyfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:21:26+00:00	twilight-user	{%22authToken%22:%22k5j71znrslsdnc1tj0qnccgjcvjttj%22%2C%22displayName%22:%22w_sandersa11b_1%22%2C%22id%22:%22213088349%22%2C%22login%22:%22w_sandersa11b_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:21:26+00:00	auth-token	k5j71znrslsdnc1tj0qnccgjcvjttj

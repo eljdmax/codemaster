@@ -1,0 +1,13 @@
+#v_patrickb67s_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	oi5KET2RH3PWaVWEGw22K9oW%2FYoSTYwZJdtAhRr3cgk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T16:05:09+00:00	unique_id	17748cf0374c892c
+.twitch.tv	TRUE	/	TRUE	2018-04-11T04:05:09+00:00	_twitch_session_id	f77121ca1594876d14fed14fe5050115
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:05:43+00:00	persistent	213287939%3A%3Ark42w4ob8kapw1hzfytyksglao10vo
+.twitch.tv	TRUE	/	TRUE	2018-04-17T16:05:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODc5MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgxMTQzLCJpYXQiOjE1MjMzNzYzNDN9.O3P0pms7oG67QaFeGPGBFyXFFlT393LguF4aWu8FJIUMkpgy2NFYVXrIat1RRDrLvJ77DurijON5KnKgWrd3JQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:05:43+00:00	login	v_patrickb67s_k
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:05:43+00:00	name	v_patrickb67s_k
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:05:43+00:00	last_login	2018-04-10T16:05:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:05:43+00:00	api_token	93dbe19f5b565526ddb5197e3fceac71
+.twitch.tv	TRUE	/	TRUE	2018-10-07T16:05:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfcGF0cmlja2I2N3NfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjgzNDMsImlhdCI6MTUyMzM3NjM0Mywibm9uY2UiOiJERGxIbWpEMXRBQThGRWYxQzdEQXNkTS13Q2tMb2tmdjRaSmlReWphcF9nPSJ9.NnhuKKkgGtVLw741Mm8K5T_y5OmWXs2BKAnEpFOJmQS-zICd_fCtp6d1Uy_mTR2hlFCoYTFbzr_cM_FikvnV7w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:05:46+00:00	twilight-user	{%22authToken%22:%22bgud6qzianzsghc1iwx88ofyezngqb%22%2C%22displayName%22:%22v_patrickb67s_k%22%2C%22id%22:%22213287939%22%2C%22login%22:%22v_patrickb67s_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:05:46+00:00	auth-token	bgud6qzianzsghc1iwx88ofyezngqb

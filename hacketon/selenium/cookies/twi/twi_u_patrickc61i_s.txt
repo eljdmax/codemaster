@@ -1,0 +1,13 @@
+#u_patrickc61i_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KZyfH1OcCpCEaNzjgEPhLT7VC7ZTVq5JXhP8KszsUdw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:54:53+00:00	unique_id	18e92d8806b9b8f3
+.twitch.tv	TRUE	/	TRUE	2018-04-11T01:54:53+00:00	_twitch_session_id	9d37a2a17e5b5d1f33cca502b3484421
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:55:10+00:00	persistent	213258958%3A%3Aivk1zebpfg14fbqisacj1yy8rguvvt
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:55:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTg5NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTczMzExLCJpYXQiOjE1MjMzNjg1MTF9.Fqya-mwDxjPzcZVEUAxwZccw-18TZdO0VBDtuXdMZSfz4Vj86Y4LyAzUgU2WHofHaD-4IfO0skIAGXpiL6N51g==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:55:10+00:00	login	u_patrickc61i_s
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:55:10+00:00	name	u_patrickc61i_s
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:55:10+00:00	last_login	2018-04-10T13:55:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:55:10+00:00	api_token	eccb924acb6e2954c7c69447a83d7c98
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:55:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfcGF0cmlja2M2MWlfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjA1MTEsImlhdCI6MTUyMzM2ODUxMSwibm9uY2UiOiJEYkFPTEZjZzZxOEFhSlZyM0lvYmdqNGF5ZS10MEczVmY1U2JGWWxXaU1VPSJ9.lsRDKUKysGPZiJVR7ivqKPtJLUcMft66TO8kRCR5GgHd3UcouNqwVfncEBtJTzVKzVz7ur8I66lgEaYFwd_a9g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:55:16+00:00	twilight-user	{%22authToken%22:%22k4funncz4srg5ouaewxciydn5ux3v6%22%2C%22displayName%22:%22u_patrickc61i_s%22%2C%22id%22:%22213258958%22%2C%22login%22:%22u_patrickc61i_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:55:16+00:00	auth-token	k4funncz4srg5ouaewxciydn5ux3v6

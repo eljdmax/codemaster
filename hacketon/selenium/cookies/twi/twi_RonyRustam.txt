@@ -1,0 +1,15 @@
+#RonyRustam
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM1Njg4NTAsIm52IjowLCJ1cHQiOjE1MjM1Njg4NDEsImx0IjoxNTIzNTY4ODQxfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SG4I9zUvckVov3k4%2Fe2WHk1lX2N%2FPXzbPZJLag6xfZY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:37:29+00:00	unique_id	4a986a034dfea77f
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:37:29+00:00	_twitch_session_id	67feea4e7e185c930ca2bede4a9497bb
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:37:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:37:48+00:00	persistent	213819184%3A%3Awlceyw8skkmoytnih2eg4lcjxbwuvs
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:37:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTkxODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwMjY4LCJpYXQiOjE1MjM1NjU0Njh9.YmmL8u3krqFEexLG8y-MfmWwxyNGOaPJWIEAcdFxlKNuQnafB3MiF0wh6nA2IXGDFcKSqHBr-YJ65mMRv8MyDg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:37:48+00:00	login	ronyrustam
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:37:48+00:00	name	ronyrustam
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:37:48+00:00	last_login	2018-04-12T20:37:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:37:48+00:00	api_token	f977e18e755ede77afd022596ae918a1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:37:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJvbnlydXN0YW0iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE3NDY4LCJpYXQiOjE1MjM1NjU0NjgsIm5vbmNlIjoiNzJ6LTBrdVNkRmVkTFVyV0U4VTBFb3FyVTlNbnpUckJxZE82eHpXaFptbz0ifQ%3D%3D.rA2TTC68guTwtzcIkFwdkrmVpceiWW6ZyPm1JM27RVmqkTYvxulfCVVLrs38hZ9n634g7NN0Ty_2kQeaTWMYtw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:38:02+00:00	twilight-user	{%22authToken%22:%22g20o88emymtf6jeyk0dbwsg4ynd80t%22%2C%22displayName%22:%22ronyrustam%22%2C%22id%22:%22213819184%22%2C%22login%22:%22ronyrustam%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:38:02+00:00	auth-token	g20o88emymtf6jeyk0dbwsg4ynd80t

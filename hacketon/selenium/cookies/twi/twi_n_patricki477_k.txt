@@ -1,0 +1,13 @@
+#n_patricki477_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JS8fol9tmTpWix889SCdsnLXtQJjQVsVXicY0GqnSH0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:19:56+00:00	unique_id	a19085cda007b281
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:19:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:20:21+00:00	persistent	213501387%3A%3Ahve180v11o21k911xfyxd0pk1ikt72
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:20:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDEzODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0MDIyLCJpYXQiOjE1MjM0NDkyMjJ9.ZvY9CxWgov2LZOM-pqKX0OpThjSlMdq73CGF7fPJs14E7wd_9jTdZpROhu0KuX1EiJ6T1B_zMmbQJ8gG11uK1w==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:20:21+00:00	login	n_patricki477_k
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:20:21+00:00	name	n_patricki477_k
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:20:21+00:00	last_login	2018-04-11T12:20:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:20:21+00:00	api_token	355b4018a9fc9bf9748f28baf5c02535
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:20:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcGF0cmlja2k0NzdfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDEyMjIsImlhdCI6MTUyMzQ0OTIyMiwibm9uY2UiOiJPaElqWWJxYl92RlNheGIyNFJ2Nks5YUpTQXRDcHVBNXdYMER3LUktQTFRPSJ9.6p4lgB6mpk8xvrQ3XfoXIT8eC0G_tU2HCx2WgeAmQVfgr_sS2vFVrJjIQnMZfJXmGG7cmVGfW5YAxoSxZfmvqw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:20:29+00:00	twilight-user	{%22authToken%22:%22reulbdfv5oj1scfnxgy27068m43xe5%22%2C%22displayName%22:%22n_patricki477_k%22%2C%22id%22:%22213501387%22%2C%22login%22:%22n_patricki477_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:20:29+00:00	auth-token	reulbdfv5oj1scfnxgy27068m43xe5

@@ -1,0 +1,13 @@
+#f_natashan47b_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pbvEEF6wk%2FpREAtUU04LbIuOg1EhSn6OcvolDl4xUeM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:27:47+00:00	unique_id	01c51c4b3a421202
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:27:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:28:14+00:00	persistent	213511597%3A%3Ayxhtum1sn7u3as3b6h7uzyekl172ks
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:28:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTE1OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU4MDk1LCJpYXQiOjE1MjM0NTMyOTV9.RWzA1r7HiHyAYc0qDV_fJlhgzjcFmzopM5YvRgZbqk_nIMOyqI4BJ0Ge8zygzSjBuEY3vJPNgUa75Gl67evXdA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:28:14+00:00	login	f_natashan47b_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:28:14+00:00	name	f_natashan47b_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:28:14+00:00	last_login	2018-04-11T13:28:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:28:14+00:00	api_token	18e7eda4f6dba1244a5b53b5263ba984
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:28:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbmF0YXNoYW40N2JfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDUyOTUsImlhdCI6MTUyMzQ1MzI5NSwibm9uY2UiOiI2bXBlc1BSN3NEWHFnNTlUTXIwS1FjOHBZc3g4OFF5WmdMbEJQNnNBQUFzPSJ9.K3mrKe1JOog6ws9YJ3vhEOwJ9YlVpnEGIcSetBXbrl8VoR4NvLLmzJhjYk7CeqozljGSCDm_K-U8G_dxJFo6ig%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:28:23+00:00	twilight-user	{%22authToken%22:%22769yp80qv9e40hp5fn5518x99jajum%22%2C%22displayName%22:%22f_natashan47b_h%22%2C%22id%22:%22213511597%22%2C%22login%22:%22f_natashan47b_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:28:23+00:00	auth-token	769yp80qv9e40hp5fn5518x99jajum

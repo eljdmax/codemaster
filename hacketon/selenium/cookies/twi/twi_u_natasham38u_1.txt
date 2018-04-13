@@ -1,0 +1,14 @@
+#u_natasham38u_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	TO4WtxC%2F7XM%2BAaj3O8YAbGsJ0OiEnvgH7sqcxngDKFA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:12:40+00:00	unique_id	2221d592e0893ae7
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:12:40+00:00	_twitch_session_id	2df10a824642d4100af83323c1872854
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:12:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:13:02+00:00	persistent	213519093%3A%3Amrby2x7ry9ve0igcdc2oxlqoo1igi5
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:13:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTkwOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYwNzgzLCJpYXQiOjE1MjM0NTU5ODN9.GpGMO-D7BvXxqEQZ1ZDMfqYBJz1-K8z4sMyLwV6nbHZ200k_sTmu_GYWgFHeQI9dF2yyog6MFE4LAWchnfdLvw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:13:02+00:00	login	u_natasham38u_1
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:13:02+00:00	name	u_natasham38u_1
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:13:02+00:00	last_login	2018-04-11T14:13:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:13:02+00:00	api_token	f7fd33f0a2f594724e83c12600f48f73
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:13:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmF0YXNoYW0zOHVfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDc5ODMsImlhdCI6MTUyMzQ1NTk4Mywibm9uY2UiOiJYemtVSTRxN1ozdDZTdDZqRlZ3ci1TcEN3YzZPeFZNbGsyZGFBYTJzWEM0PSJ9.OUNfe4dnmZkB8bmLpxR-E3KYNj3ba3mKVAwEnn-YmTxkDO48ST3TUlGknasEeL5euEJ0lB-TKY28A9tbNzt1lQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:13:12+00:00	twilight-user	{%22authToken%22:%22v8hbplvyht0ajfvas3tyclnn97ydoa%22%2C%22displayName%22:%22u_natasham38u_1%22%2C%22id%22:%22213519093%22%2C%22login%22:%22u_natasham38u_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:13:12+00:00	auth-token	v8hbplvyht0ajfvas3tyclnn97ydoa

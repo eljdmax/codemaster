@@ -1,0 +1,14 @@
+#NoorTopno767
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1J45hw0VXw01tJZmW3JoZJdo%2FlvEKkF1vRJamaqRDJE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:29:39+00:00	unique_id	437fb0b33d979985
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:29:39+00:00	_twitch_session_id	9cca912ba9764443f8d96a7572126184
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:29:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:30:10+00:00	persistent	213829704%3A%3A6tn0jyqux10w5v4swu5iq7bl5u525b
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:30:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4Mjk3MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNDExLCJpYXQiOjE1MjM1Njg2MTF9.tN5BKAKg7TX8V0CJpJuHkI3o93MmLPCEcPjaHwRp2ZJqs4idQ4P0H4TiJCdIhHwsXYY-sl2mb1n0e1gBFA7a8w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:30:10+00:00	login	noortopno767
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:30:10+00:00	name	noortopno767
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:30:10+00:00	last_login	2018-04-12T21:30:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:30:10+00:00	api_token	104ab35db22de3e460fc529cf3745161
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:30:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5vb3J0b3Bubzc2NyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjA2MTEsImlhdCI6MTUyMzU2ODYxMSwibm9uY2UiOiJZeXU5dTFuUnNQR2JKckthTGc0Q0dXOW4yQVMxWERQUndLZUQtN2hjOGpvPSJ9.jK6NIrzgGb-vR0PGvm08JZrOsjttZbFGnCZkaheWZHUw1cvoawSLW2D5yY-xBJhmriZeaCzDSX4ZALW7w94VGQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:30:27+00:00	twilight-user	{%22authToken%22:%2288hynrspifakrlsw0ft4cn9ep70y55%22%2C%22displayName%22:%22noortopno767%22%2C%22id%22:%22213829704%22%2C%22login%22:%22noortopno767%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:30:27+00:00	auth-token	88hynrspifakrlsw0ft4cn9ep70y55

@@ -1,0 +1,14 @@
+#AlexanderDSunad
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EAZo7ibBFQKPXqv2f6X8Yuh91RtNjfIxi2s9SUeY9JU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:57:04+00:00	unique_id	71b6a324ae64025b
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:57:04+00:00	_twitch_session_id	bbdbfb884e0af788623981239a08e99a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:57:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:57:19+00:00	persistent	213822938%3A%3Auw79k59jd191ho93pidon1qebfho14
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:57:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjI5MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNDM5LCJpYXQiOjE1MjM1NjY2Mzl9.wfWg5i4s3CqnPF9pbmGmOpIy2aOSKtlIdeAS3qKIXR2EGTS8Rv-khF_tQLAJyz-cRC6VXgW860eZsECzJsirHg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:57:19+00:00	login	alexanderdsunad
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:57:19+00:00	name	alexanderdsunad
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:57:19+00:00	last_login	2018-04-12T20:57:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:57:19+00:00	api_token	4b0f42335c959112ad790339203dcdd9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:57:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFsZXhhbmRlcmRzdW5hZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTg2MzksImlhdCI6MTUyMzU2NjYzOSwibm9uY2UiOiJWUlFobEVsRnV1b2lDRlBHV090RkJSOEsxdXRja0gyUkt1Vnoxd3BYdEE0PSJ9.AJ93ATJivqkyODAvS0WOwBYR0b27JBx0_IwFKtUeg-TjB5sRTs1TrEKkGusCPXKfAPW9KhHndJqduTKe6sdt3A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:57:33+00:00	twilight-user	{%22authToken%22:%225k2sah5pykq2hi7qwqc3dybf44ansl%22%2C%22displayName%22:%22alexanderdsunad%22%2C%22id%22:%22213822938%22%2C%22login%22:%22alexanderdsunad%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:57:33+00:00	auth-token	5k2sah5pykq2hi7qwqc3dybf44ansl

@@ -1,0 +1,14 @@
+#w_patrickm94q_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VoPnZOXNVR3nHJTuds2htjXVKa6XrKVjIKLfYkyRfJc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:00:48+00:00	unique_id	fd296bb34a327edf
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:00:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:01:06+00:00	persistent	213507213%3A%3Alumj7ludw1od2dy1c4581m34odwpnh
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:01:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDcyMTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU2NDY2LCJpYXQiOjE1MjM0NTE2NjZ9.BGgU03NveSThQ1URp3M9BNdVBdDoplqv52kPGe3AQiFPbhMHiG2K9cQA7jTO0O--4WxDmuJgqMeXFCtMfDMToA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:01:06+00:00	login	w_patrickm94q_y
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:01:06+00:00	name	w_patrickm94q_y
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:01:06+00:00	last_login	2018-04-11T13:01:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:01:06+00:00	api_token	99c9fbacd17017d5b2b15545ec3011a6
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:01:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfcGF0cmlja205NHFfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDM2NjYsImlhdCI6MTUyMzQ1MTY2Niwibm9uY2UiOiI1QmVubTBCS0h0dkM3a21KbVEtU1N3dTVObUkxN2k1ZE5zRC15dHBBdzFNPSJ9.IbDeD7tjpkVwfDeXtuRzuMFi20pVpkhxIdfj86ClNuSp3fMboar20jXPG1sACHkG4lvNkrRfWFmnQDabbLtjLA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:01:13+00:00	twilight-user	{%22authToken%22:%22iuq9t7eu7nytmp4e9dqo8ajzp7h6cr%22%2C%22displayName%22:%22w_patrickm94q_y%22%2C%22id%22:%22213507213%22%2C%22login%22:%22w_patrickm94q_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:01:13+00:00	auth-token	iuq9t7eu7nytmp4e9dqo8ajzp7h6cr
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:01:16+00:00	twilight_onboarding	true

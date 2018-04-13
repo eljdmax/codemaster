@@ -1,0 +1,13 @@
+#u_natashak70r_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	V0V9ROVetaYbPNARpm8BkCVw7bNoNm%2BJgRZKqL1oDXU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:29:43+00:00	unique_id	48b99ba46358c255
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:29:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:30:07+00:00	persistent	213511923%3A%3A84crz02vcsjxq95iadkchl5jwzm740
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:30:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTE5MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU4MjA4LCJpYXQiOjE1MjM0NTM0MDh9.k3vV2E6PfFKwqVzaqT7dPAOX_RhtkMoRYLzNGOidW71VQb5dBCMCFJV2xUTj1qCUzh8NoBxcBkgddDBzhyYiGg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:30:07+00:00	login	u_natashak70r_k
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:30:07+00:00	name	u_natashak70r_k
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:30:07+00:00	last_login	2018-04-11T13:30:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:30:07+00:00	api_token	dc16079f15ee08ff647965e38a24006d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:30:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmF0YXNoYWs3MHJfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDU0MDgsImlhdCI6MTUyMzQ1MzQwOCwibm9uY2UiOiJQejlJNEdxR18xejVLZkNiaE1faUtjVVEyYjk2RDR6eGFtTUVlTDR4djlzPSJ9.TBWboJSa9bvpnc39cLLpWPcEp2zi4UAXq5DwNZUQKgTQNuBx1SzGF1tIB-hHKZ6qxyQn4XtH-pMSAJh8DFrYCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:30:17+00:00	twilight-user	{%22authToken%22:%22f7n5aqpvyakrki8rre2bp7g8r57pk8%22%2C%22displayName%22:%22u_natashak70r_k%22%2C%22id%22:%22213511923%22%2C%22login%22:%22u_natashak70r_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:30:17+00:00	auth-token	f7n5aqpvyakrki8rre2bp7g8r57pk8

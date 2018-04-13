@@ -1,0 +1,14 @@
+#t_natashac822_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ffq6i0uF2t%2FGyAcWrj9gmEj%2BrsDx5w5ysmdijjHJBrA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T16:06:43+00:00	unique_id	9c917b88bb9615a2
+.twitch.tv	TRUE	/	TRUE	2018-04-11T04:06:43+00:00	_twitch_session_id	91a74f7aa7de58f0b5538b4ba0686810
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:07:15+00:00	persistent	213288296%3A%3Aa0q339qoh4ljoaxddxy8qlytvi4xu9
+.twitch.tv	TRUE	/	TRUE	2018-04-17T16:07:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODgyOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgxMjM2LCJpYXQiOjE1MjMzNzY0MzZ9.ebrv_3nSb3hdBWm1_KpG8MnNL2w7CwnW6QK3USzi4K5BOyAYY6KstwZtVxUismZHlR1j9mbgwENIBv6W9Xj08A==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:07:15+00:00	login	t_natashac822_w
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:07:15+00:00	name	t_natashac822_w
+.twitch.tv	TRUE	/	FALSE	2018-09-25T16:07:15+00:00	last_login	2018-04-10T16:07:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T16:07:15+00:00	api_token	d6259df33cf83efb1f883806f901cbfd
+.twitch.tv	TRUE	/	TRUE	2018-10-07T16:07:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbmF0YXNoYWM4MjJfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5Mjg0MzYsImlhdCI6MTUyMzM3NjQzNiwibm9uY2UiOiJlcy1JdUpXM2Fsbk5Dem5wNDBOaE04d0o1bnlSdXBmUjM1bzh2M0h6SGp3PSJ9.xQTXEr0PeR5FHbGvGy_SkyoZaPDpSzQAjVoVVyBauRckxu38hF_R_144WYbdHdzMoYYUnP9WwBslomOw0wrMyA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:07:19+00:00	twilight-user	{%22authToken%22:%22ig58rxy5w9abzjqiau01y48uv93v8o%22%2C%22displayName%22:%22t_natashac822_w%22%2C%22id%22:%22213288296%22%2C%22login%22:%22t_natashac822_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:07:19+00:00	auth-token	ig58rxy5w9abzjqiau01y48uv93v8o
+.twitch.tv	TRUE	/	TRUE	2019-04-10T17:07:23+00:00	twilight_onboarding	true

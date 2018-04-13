@@ -1,0 +1,13 @@
+#t_nathaliel624_3
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:42:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FNtDu9M1e3v%2BXkmTAGslD6ir22JFDxUrgUfO5ZRWL6E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:46:27+00:00	unique_id	362418b816bc0c4d
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:46:43+00:00	persistent	213525269%3A%3A0dykbqddbzceb0qf3p0dnk6otcp6qr
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:46:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjUyNjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyODAzLCJpYXQiOjE1MjM0NTgwMDN9.BTpL859R4uXG8cvCNjv_FmsB3ERgrPGJLEddI0wO3jxbJ7AphOWEXL6SM5ibcduJird8WGs2kH-esQfhNRmJ8w==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:46:43+00:00	login	t_nathaliel624_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:46:43+00:00	name	t_nathaliel624_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:46:43+00:00	last_login	2018-04-11T14:46:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:46:43+00:00	api_token	4a28f5aaf25bb2313761908a222f10c7
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:46:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbmF0aGFsaWVsNjI0XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDEwMDAzLCJpYXQiOjE1MjM0NTgwMDMsIm5vbmNlIjoiYnUyM2VtTk1tNmpsSlhobzIxeHg5VUdKQWZoQzE2ek9jeVBRRXJkZnFCMD0ifQ%3D%3D.qpEv76RgA9Xa_dvi4OSos5otu4_g4l9uRUA98edm3aw2LE4pNjcrwuqz5XOEqFRPfkOACf08JRfBqIwHhOz-sg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:46:50+00:00	twilight-user	{%22authToken%22:%22f04ryhsita0qlk182a7fikj4fh7zar%22%2C%22displayName%22:%22t_nathaliel624_3%22%2C%22id%22:%22213525269%22%2C%22login%22:%22t_nathaliel624_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:46:50+00:00	auth-token	f04ryhsita0qlk182a7fikj4fh7zar

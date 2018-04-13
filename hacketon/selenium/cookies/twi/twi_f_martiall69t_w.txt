@@ -1,0 +1,14 @@
+#f_martiall69t_w
+.twitch.tv	TRUE	/	TRUE	2028-04-08T14:39:50+00:00	unique_id	de1c295f2e765add
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PXZUcjxF7DOtKLtdapmrxgsm05dtHnyZTd17I5YH7dM%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-12T01:43:15+00:00	_twitch_session_id	d2e369837e334d24a2785011645cebff
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:43:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:43:36+00:00	persistent	213514036%3A%3Av7awcj3xmm9fu894dhemynbnsjh5ff
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:43:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTQwMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU5MDE3LCJpYXQiOjE1MjM0NTQyMTd9._MATgOVdgWJOj3eKKqy0XYK2wMofIPWltLWoKzAT8XuzzmkuctaSDOXOn1aTon-D9sb--fCeU5pJ63StdOGxgg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:43:36+00:00	login	f_martiall69t_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:43:36+00:00	name	f_martiall69t_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:43:36+00:00	last_login	2018-04-11T13:43:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:43:36+00:00	api_token	28a24171e0432dfb861ffb234181cbd6
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:43:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWFydGlhbGw2OXRfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDYyMTcsImlhdCI6MTUyMzQ1NDIxNywibm9uY2UiOiIwdFkwSDZaa3hVUDY3WWJDUC1DOVNxWldXaXBtZnp2MV9QaEpvNzZSNUpVPSJ9.cKLazROM5dwMM_2Lab-LdmYtfeEg75gT3WvGdmiDP-bs_kiPSF6EZ7w3oA2h9o8TVjn_VuF2sX9vdvHI4U9VTw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:43:45+00:00	twilight-user	{%22authToken%22:%22rk2qghwcedgvlgilfpgizv7chcrwog%22%2C%22displayName%22:%22f_martiall69t_w%22%2C%22id%22:%22213514036%22%2C%22login%22:%22f_martiall69t_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:43:45+00:00	auth-token	rk2qghwcedgvlgilfpgizv7chcrwog

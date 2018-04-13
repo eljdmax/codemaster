@@ -1,0 +1,14 @@
+#q_nathalief80j_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	MgtvTd%2FKv7onFQHjSYbaVyF%2FSQbhj9nRIqWw70ZDt48%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:56:21+00:00	unique_id	4eaa7c2ffd984195
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:56:21+00:00	_twitch_session_id	78fb539bcf974af6298d1c8793a67dc9
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:56:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:56:43+00:00	persistent	213498326%3A%3A1pqg6grvhteultxap8b0o0nnn4no7u
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:56:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTgzMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUyNjAzLCJpYXQiOjE1MjM0NDc4MDN9.13B-qMbpjOpx-zkIvWjuIobWhzAEps7Ff0k6o7jLzS6zautPN1orVZJx0EVXL5e0rTRhsMHejKuQGX63boL-zA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:56:43+00:00	login	q_nathalief80j_2
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:56:43+00:00	name	q_nathalief80j_2
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:56:43+00:00	last_login	2018-04-11T11:56:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:56:43+00:00	api_token	71c5b1abc5a7614eea82ed40648904f8
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:56:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbmF0aGFsaWVmODBqXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk5ODAzLCJpYXQiOjE1MjM0NDc4MDMsIm5vbmNlIjoiM3JZa3pYOGMtSERjaTVVRGgyQWFqTHd5LTY0Qmg3QnFCbW1BckphdDh1QT0ifQ%3D%3D.mWjGULT54yX_KEXfXs_K4PcuuQmCHe10DR3KS7pQx1gHTRfURgk98iy-fDxbK0LIrNjaE7FM85CgUVT_bdXhFQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:56:51+00:00	twilight-user	{%22authToken%22:%22kxv5dtxjqr9vwkovaiozn01zoztgfq%22%2C%22displayName%22:%22q_nathalief80j_2%22%2C%22id%22:%22213498326%22%2C%22login%22:%22q_nathalief80j_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:56:51+00:00	auth-token	kxv5dtxjqr9vwkovaiozn01zoztgfq

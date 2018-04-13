@@ -1,0 +1,14 @@
+#d_patricka43d_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VLpYWrtkJ0VwUvRqpZadRy2lLdbg4TVCVviugpdyyOo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T23:07:54+00:00	unique_id	0dfdb85e796d2ffd
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:08:14+00:00	persistent	213099223%3A%3Aof6afceulmqxgeabab8sziisf344fp
+.twitch.tv	TRUE	/	TRUE	2018-04-10T00:08:14+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTkyMjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTg4OTQsImlhdCI6MTUyMzMxNTI5NH0=.yHRJVCnavvlE1sChZW_fWZ-FGiX_TF4GMYVNHiuL2P_PPHTcduRykm__bzFYHm3bFi5zFsY0gkb-20LX74zeUg==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T23:08:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTkyMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTIwMDk0LCJpYXQiOjE1MjMzMTUyOTR9.LXEp11yfl_5yljYg5vkc_F1XbsZHkanQcXaTo3czLa2igcQoon1D54VO_KDRmjg4mXge9vccHkFbq7p-lEbw0g==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:08:14+00:00	login	d_patricka43d_d
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:08:14+00:00	name	d_patricka43d_d
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:08:14+00:00	last_login	2018-04-09T23:08:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:08:14+00:00	api_token	eeb2a75c5b60fc1c1bff15f06dea0868
+.twitch.tv	TRUE	/	TRUE	2018-10-06T23:08:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfcGF0cmlja2E0M2RfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjcyOTQsImlhdCI6MTUyMzMxNTI5NCwibm9uY2UiOiJMa0pEaVlNQ1lOZVYwZE1wMy01YXN3ejY5cWxZYUkyNHJCZjJNREQ2aEx3PSJ9.gdm3UWVn03fjPBRn2jNlzNKGH4_HU0NMxuLHbXtReNf318JL-ko9x_KOcMt8yhuEDCDpFX7LQkN-_A1O2Z2CCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	AR4JKMofqR9yfFoL0fmORh5A6c2qll7g
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:08:23+00:00	twilight-user	{%22authToken%22:%22tzpr89663dyyimgk45udaspczj64t6%22%2C%22displayName%22:%22d_patricka43d_d%22%2C%22id%22:%22213099223%22%2C%22login%22:%22d_patricka43d_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:08:23+00:00	auth-token	tzpr89663dyyimgk45udaspczj64t6

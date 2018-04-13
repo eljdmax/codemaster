@@ -1,0 +1,13 @@
+#g_patricko325_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	TwrSLkZ%2BxAdGDb%2FdH3sKqJ88w1vox7buNpZsQrLi8eA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:59:58+00:00	unique_id	b5c412fb4c715343
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:59:58+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:00:30+00:00	persistent	213516897%3A%3A4b9lq1l1r2um99w80r3n9egnhjj1ra
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:00:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTY4OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYwMDMxLCJpYXQiOjE1MjM0NTUyMzF9.SdAG2x6k1dytCgOVTrwqI0XkDVck3gMUR4Xuv788ss2BIeJyCNDCF0-GTFV-skVmoVxexEoUikikwGU_ilP1ZQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:00:30+00:00	login	g_patricko325_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:00:30+00:00	name	g_patricko325_h
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:00:30+00:00	last_login	2018-04-11T14:00:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:00:30+00:00	api_token	672eb9d8384fbac322bea30e0a8c2a77
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:00:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcGF0cmlja28zMjVfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDcyMzEsImlhdCI6MTUyMzQ1NTIzMSwibm9uY2UiOiIyZmlXVlZqYlhIRU9LdVpRdlRvRldzcGE2SG10NmFnaEZvNktNVlRfSkE4PSJ9.WMO390SDgmm-EFCilEnBkZ9w1b7sMEJVkSTwL9NsJ4N_KL2vVls8RYrkZTOl35FEy9jZrZUhe2E-JKmY6wK7TQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:00:39+00:00	twilight-user	{%22authToken%22:%2295krxdso9orlpob4p29undtx8sx2j0%22%2C%22displayName%22:%22g_patricko325_h%22%2C%22id%22:%22213516897%22%2C%22login%22:%22g_patricko325_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:00:39+00:00	auth-token	95krxdso9orlpob4p29undtx8sx2j0

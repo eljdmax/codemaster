@@ -1,0 +1,14 @@
+#NakulSShah456
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9qkdR0RNNYkFmF5GSCg%2FQLIHI9hYfghMbC6OG9j3C74%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:09:16+00:00	unique_id	f2db92bba786d250
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:09:16+00:00	_twitch_session_id	17f90c4faeecdf3beafe885e72d60b4c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:09:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:09:41+00:00	persistent	213825307%3A%3Aghn25c01m2ayugilrr8ql6aujlop87
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:09:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjUzMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyMTgyLCJpYXQiOjE1MjM1NjczODJ9.0ix-5QGzighs7ethPJzRYeMkQR-UoChtiRN1aFUJ2aX9COVYX42MX7ssf-z_hHVIYkLB_R5UbqnrMHS6zUop4g==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:09:41+00:00	login	nakulsshah456
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:09:41+00:00	name	nakulsshah456
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:09:41+00:00	last_login	2018-04-12T21:09:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:09:41+00:00	api_token	012fce35fcf632ca8aceac5d5e8f0a8d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:09:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5ha3Vsc3NoYWg0NTYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE5MzgyLCJpYXQiOjE1MjM1NjczODIsIm5vbmNlIjoid0FRNTV5UmZiS3JxZzl6cDRZUTdaNjhOM1hqS19CLWdkaVlZOXBDSnQtVT0ifQ%3D%3D.kW4SGgnZ1vfNwTVdMoXMma2t_5KNPb6ZRhdF4S0DG3MBbKXIiyawvpzPSsx3nI0hjkxVgT4EBn47g-VnZopgGw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:09:57+00:00	twilight-user	{%22authToken%22:%22yisxejstq17u1qpd14koaji2s55u14%22%2C%22displayName%22:%22nakulsshah456%22%2C%22id%22:%22213825307%22%2C%22login%22:%22nakulsshah456%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:09:57+00:00	auth-token	yisxejstq17u1qpd14koaji2s55u14

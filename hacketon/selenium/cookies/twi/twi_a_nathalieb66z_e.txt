@@ -1,0 +1,13 @@
+#a_nathalieb66z_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iJtGpd%2B%2F0oVBaNGyaDI905dzTXaLH1zHOZTQcTBUr0I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:54:34+00:00	unique_id	5fad7360732fcc41
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:54:34+00:00	_twitch_session_id	90003dca7e0a9156be9b808cfa6e065d
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:55:09+00:00	persistent	213285418%3A%3Azj2ysy1xt3vmqe6n03t0posonm9sdk
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:55:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODU0MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgwNTEwLCJpYXQiOjE1MjMzNzU3MTB9.kcg1abqqQxeJBbdtNZ6zI6f_qSAdV30yO2QFNGNqwStu-r3dZ37FWZS-vX-w4ETBHz-H3ZV7u7of5udwJM7WSQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:55:09+00:00	login	a_nathalieb66z_e
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:55:09+00:00	name	a_nathalieb66z_e
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:55:09+00:00	last_login	2018-04-10T15:55:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:55:09+00:00	api_token	8f896723d96fd78df84d8006eb2f74b5
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:55:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0aGFsaWViNjZ6X2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTI3NzEwLCJpYXQiOjE1MjMzNzU3MTAsIm5vbmNlIjoiVlNrdWE3RGI4SldNdndTNlkzYm5pRThrZk43TkhWcnVtS0dwaS1scnpfWT0ifQ%3D%3D.G1qLs7QCgZhW3yq-s0YSWC3IKTiAQqHK_2OCCBnqoakWAasDiswisv6FPYrCfj5UXUegYnv-MITyt6FqM-eWsw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:55:14+00:00	twilight-user	{%22authToken%22:%22mieuar0c5xrjs2kaztw8a6j5gztep3%22%2C%22displayName%22:%22a_nathalieb66z_e%22%2C%22id%22:%22213285418%22%2C%22login%22:%22a_nathalieb66z_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:55:14+00:00	auth-token	mieuar0c5xrjs2kaztw8a6j5gztep3

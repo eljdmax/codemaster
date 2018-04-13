@@ -1,0 +1,14 @@
+#u_sandersi04l_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	40PyK%2FNQeZUF%2Fl4E8crrcUKqWMzi1xxa0SAwxh6wI3k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:53:19+00:00	unique_id	504a49cf7118a48e
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:53:19+00:00	_twitch_session_id	187fae63b49d5f43b102cefe0169ab14
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:53:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:53:48+00:00	persistent	213497967%3A%3A5skq6y9vorvquruc3d60mm5tnm7vra
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:53:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTc5NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUyNDI4LCJpYXQiOjE1MjM0NDc2Mjh9.SCoGn4Y37PD2S1sejlwb4zuyFt6lEWfNwuZTGfxiR4xQur7OOW1DR0hI_2yfANf2UGzcHoyyUkydvlbcPezt5w==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:53:48+00:00	login	u_sandersi04l_q
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:53:48+00:00	name	u_sandersi04l_q
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:53:48+00:00	last_login	2018-04-11T11:53:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:53:48+00:00	api_token	a6f61b45695a48da2aa03e6dfebf7ac7
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:53:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2FuZGVyc2kwNGxfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTk2MjgsImlhdCI6MTUyMzQ0NzYyOCwibm9uY2UiOiJ5TS0ydWVIZ056dnEzY3Awa19Tc1d3TllsN0pHeDZJQXB6UXJzNE1Oc2FvPSJ9.vMD2uBqXJMMhhRfPb0oxwebFbiIOpTZjTxD_Fy7nXyq-Fbx0099KtwtRHUOimJh8366SBZ7vx8cnKxEqQ12yxQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:53:54+00:00	twilight-user	{%22authToken%22:%22ppu1l8onug6h8x4m58jorukikvb3sl%22%2C%22displayName%22:%22u_sandersi04l_q%22%2C%22id%22:%22213497967%22%2C%22login%22:%22u_sandersi04l_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:53:54+00:00	auth-token	ppu1l8onug6h8x4m58jorukikvb3sl

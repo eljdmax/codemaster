@@ -1,0 +1,14 @@
+#y_natashaf59k_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wvQJX3N0yBYwVQkY6M7wryMKwt5gjypl4lrdwraMbKM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T11:57:30+00:00	unique_id	e90aff6bd1cc8a80
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:57:30+00:00	_twitch_session_id	500fd2b713adbe97692cbb58a6f429c6
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:57:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:57:55+00:00	persistent	213498456%3A%3Ajoap2a8gyku2sf5ygd7h0elcm3txgl
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:57:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTg0NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUyNjc2LCJpYXQiOjE1MjM0NDc4NzZ9.Vejtb8eowIlS6Z08gpD8yaGXzo1SjDABQIVHWElUwwciffjhziHriBaNgBvuvx46Oii33NI5S-0pPfNIuZjZjw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:57:55+00:00	login	y_natashaf59k_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:57:55+00:00	name	y_natashaf59k_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:57:55+00:00	last_login	2018-04-11T11:57:56Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:57:55+00:00	api_token	b7540e7bfca2ba4f0066bd5670364559
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:57:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbmF0YXNoYWY1OWtfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTk4NzYsImlhdCI6MTUyMzQ0Nzg3Niwibm9uY2UiOiI1d3gyNk9iVTNwQ3d0MWNtV2JXczA1YXlfM2lIeHRONXhHWndiTzVTb2JvPSJ9.u6H-tVFDOSym0tBSpmB7OYb57nKvEl64YLqJjKQg3ohzbo1OVg1TcVaQxcplGXPwiFezdCa77K5EYuu8MS9Psw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:58:03+00:00	twilight-user	{%22authToken%22:%225nycuffe1j0zsdjvscw7vzr86dn35v%22%2C%22displayName%22:%22y_natashaf59k_5%22%2C%22id%22:%22213498456%22%2C%22login%22:%22y_natashaf59k_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:58:03+00:00	auth-token	5nycuffe1j0zsdjvscw7vzr86dn35v

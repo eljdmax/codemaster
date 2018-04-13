@@ -1,0 +1,13 @@
+#z_patrickj866_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iu2TkhKMiil2HWs5f7jKLtYhMGSvz2Fp1JNJ8WQ97FY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:25:18+00:00	unique_id	ce0b2ca28664f133
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:25:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:25:38+00:00	persistent	213502079%3A%3Am686iv099qx0swtqtst657t1owdk93
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:25:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDIwNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0MzM5LCJpYXQiOjE1MjM0NDk1Mzl9.AqWIVR0C8sv1xzliUdg5xF28dBIKLaCBl8NgkbfQzQshp32x-WKoL_yiis5X_GNrks5zBJWvWF6ZyD_6h1svMA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:25:38+00:00	login	z_patrickj866_2
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:25:38+00:00	name	z_patrickj866_2
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:25:38+00:00	last_login	2018-04-11T12:25:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:25:38+00:00	api_token	fe030c047cffcde8a8b34ac740c58c41
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:25:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfcGF0cmlja2o4NjZfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDE1MzksImlhdCI6MTUyMzQ0OTUzOSwibm9uY2UiOiJUQWFNZWlOdTBZWmI1cEszTjVqNXEtQzEyS18yN09ITm9zZTIwSG1BMU5RPSJ9.xHMLcOrqHZYG8nPdx5lg4I4XsOnqk3YPK6lkDIJ4hZzg9KGG9Y-MNUseUvQbq0byvVkpw89GU7h4JsjNp5-ymQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:25:46+00:00	twilight-user	{%22authToken%22:%22mjod487g51awga178mblca4bjukh6o%22%2C%22displayName%22:%22z_patrickj866_2%22%2C%22id%22:%22213502079%22%2C%22login%22:%22z_patrickj866_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:25:46+00:00	auth-token	mjod487g51awga178mblca4bjukh6o

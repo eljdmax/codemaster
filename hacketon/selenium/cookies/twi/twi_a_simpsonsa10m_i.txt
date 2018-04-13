@@ -1,0 +1,13 @@
+#a_simpsonsa10m_i
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMzNTc0NjMsIm52IjowLCJ1cHQiOjE1MjMzNTc0NTQsImx0IjoxNTIzMzU3NDU0fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DvvjcYecQ7m3HHh3tSrWTgRH5lw14B0AdX%2F3%2BmzrYOc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:54:33+00:00	unique_id	c08d807b40aba3c7
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:55:03+00:00	persistent	213221394%3A%3Anubao8zc7i5dtlhq7izludkgux9qro
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:55:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjEzOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU4OTAzLCJpYXQiOjE1MjMzNTQxMDN9.ofYz7_wpLaGzfa8uUnfaS7kID5uDlxPxRniVVn_2of3ohEcwJsq7xrgjw4ALCUF6gpxz2_OXwZ8LUxsijAbDTw==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:55:03+00:00	login	a_simpsonsa10m_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:55:03+00:00	name	a_simpsonsa10m_i
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:55:03+00:00	last_login	2018-04-10T09:55:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:55:03+00:00	api_token	2f9b320625ad9a198c6d38f30c33eac1
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:55:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfc2ltcHNvbnNhMTBtX2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTA2MTAzLCJpYXQiOjE1MjMzNTQxMDMsIm5vbmNlIjoiMEw0YlpvZDZFenVpeUtBTU04bHlFYmdDTW8zV3ByUE1TMEpRNzdqbW90QT0ifQ%3D%3D.O54VMxZwMepJutOJObZETnHY-7O4kBLK-12D-ul3-jHlp9-tAUKrOJEH86JJGcwx8TUWwu1vY-MSPRFtueL3Yw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:55:03+00:00	twilight-user	{%22authToken%22:%222is73zxlkcr2u7ihl88i3ai7i6pot5%22%2C%22displayName%22:%22a_simpsonsa10m_i%22%2C%22id%22:%22213221394%22%2C%22login%22:%22a_simpsonsa10m_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:55:03+00:00	auth-token	2is73zxlkcr2u7ihl88i3ai7i6pot5

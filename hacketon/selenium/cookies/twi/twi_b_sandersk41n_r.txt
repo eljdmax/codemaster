@@ -1,0 +1,14 @@
+#b_sandersk41n_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2UXC6nnPVcASLpUMrrJCTMsoJ%2FG5rueiJTIgV0hLW%2Bc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:53:46+00:00	unique_id	4cc8bbfd5abf1fd1
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:53:46+00:00	_twitch_session_id	6026009175bca222655c1e0612c45eee
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:53:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:54:33+00:00	persistent	213506249%3A%3Abg7sqr8zia19qcg99ld6yxudredlyg
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:54:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDYyNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU2MDczLCJpYXQiOjE1MjM0NTEyNzN9.JHVVpoviPhFs82HOh6LCajbpKx9PUIEu0U_NH2_irojZdxZHJa1VHjp4yGC6iuSMM5yPhhrGSkUcyQYbMeddiA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:54:33+00:00	login	b_sandersk41n_r
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:54:33+00:00	name	b_sandersk41n_r
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:54:33+00:00	last_login	2018-04-11T12:54:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:54:33+00:00	api_token	ff859a5387549c90844a7568fb39d715
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:54:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc2FuZGVyc2s0MW5fciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDMyNzMsImlhdCI6MTUyMzQ1MTI3Mywibm9uY2UiOiIwMm5nX05SUDZPNXdnSzB5QzNuSWRBMnQyWllIVlN6Q1hodzFIV3BwQWljPSJ9.9u-aVhPKOYKKULBaHZqDFbCzBM2qLrbufB_TMHg4_nrblIJHDjNgA7eXX3Yn-NAUiYs1KrRIPpp6vEctudoe5g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:54:41+00:00	twilight-user	{%22authToken%22:%22r84bfte92sqoi7lpzp0zaa1zyarzwv%22%2C%22displayName%22:%22b_sandersk41n_r%22%2C%22id%22:%22213506249%22%2C%22login%22:%22b_sandersk41n_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:54:41+00:00	auth-token	r84bfte92sqoi7lpzp0zaa1zyarzwv

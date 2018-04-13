@@ -1,0 +1,13 @@
+#DhairyasheelNt
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8BQ95CxkuPbV0eX0Yf2SwVgHNlpkPao3o%2F10Y5Rpsqc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:49:00+00:00	unique_id	c2d5ce7152bc725c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:49:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:49:30+00:00	persistent	213821425%3A%3A1qps6s5iup9mn6x6pe7paek4ttuorc
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:49:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjE0MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwOTcwLCJpYXQiOjE1MjM1NjYxNzB9.pB_O2ene_tk1KAB7mYoACyHq-sKIE0H_9LJPwtIiR7YiUnnNgBOJjdj8XgOWqMnfX2qZAc9sIP0CFylMUcpAhg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:49:30+00:00	login	dhairyasheelnt
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:49:30+00:00	name	dhairyasheelnt
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:49:30+00:00	last_login	2018-04-12T20:49:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:49:30+00:00	api_token	2c79cbf18e083bef512e4c9a5eecd63a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:49:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRoYWlyeWFzaGVlbG50IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExODE3MCwiaWF0IjoxNTIzNTY2MTcwLCJub25jZSI6Im5xUS02am5CajlvX2JzWW5ydlUyRnJwd0RwQUo1VDdSYXdxNmtjZlViSjA9In0%3D.9J0ktbMRCRy95eMB7XC5JY9am2btXQAC7iJmZv3rp1b6Hl7cRUcH4rS8PCYdzqguVrticDvr3MVYKhkSIA16SA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:49:44+00:00	twilight-user	{%22authToken%22:%22actgjmw93x790jahnidtw93vr1hjfj%22%2C%22displayName%22:%22dhairyasheelnt%22%2C%22id%22:%22213821425%22%2C%22login%22:%22dhairyasheelnt%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:49:44+00:00	auth-token	actgjmw93x790jahnidtw93vr1hjfj

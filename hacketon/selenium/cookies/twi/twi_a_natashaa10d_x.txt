@@ -1,0 +1,15 @@
+#a_natashaa10d_x
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LGmVIqldexkBdyC7NWpd%2BZ02ul1RJ%2BqmKJTGQJEiewY%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:00:52+00:00	_twitch_session_id	8d117b0c9d4885ac6f486906ce01fc0d
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:01:11+00:00	persistent	213083534%3A%3Azlcdd60c8w3j5yvnx6qm1kf4b76b0v
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:01:12+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODM1MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTQ4NzIsImlhdCI6MTUyMzMxMTI3Mn0=.sZmKEuA1CqkLpXnPlfnjm2wyhaD3yWsAAbnd3lWu2XoYZGspJAq4NE1lHmMDqXoc-kG4zxhfCiSmAjyKfkmMXA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:01:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODM1MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2MDcyLCJpYXQiOjE1MjMzMTEyNzJ9.wOzVtGwh6Xp4qzmJGEBG1o_PK8AvccCcSNN0WeMEE0ywRo5-OtbH-FwiQmTDSGzKcNtlhBth3oky9a0cP0qBUw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:01:11+00:00	login	a_natashaa10d_x
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:01:11+00:00	name	a_natashaa10d_x
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:01:11+00:00	last_login	2018-04-09T22:01:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:01:11+00:00	api_token	483364d16f65041207419cc84893b7c7
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:01:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0YXNoYWExMGRfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjMyNzIsImlhdCI6MTUyMzMxMTI3Miwibm9uY2UiOiJWNUpSZTFKckQzbGhpQ24zTVVJSTRBN3VzdVBSRElpZWs4dEVnejVIbmlZPSJ9.qXB66VSj12JPAZGK1AwrYjRO7TLmu7n4TFfl8UWQ1dmmL6Sg8YhBTg5hqP9HDPeKs8ep5wNkDp5WdFqA8-n56g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:01:17+00:00	twilight-user	{%22authToken%22:%22fj41g88qcwsrcdmajyd4ke2c2410n4%22%2C%22displayName%22:%22a_natashaa10d_x%22%2C%22id%22:%22213083534%22%2C%22login%22:%22a_natashaa10d_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:01:17+00:00	auth-token	fj41g88qcwsrcdmajyd4ke2c2410n4

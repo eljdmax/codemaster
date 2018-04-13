@@ -1,0 +1,14 @@
+#d_natashaa49c_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NEmvvOsO%2FHqfs2Xw1augoTrZipo7C5EZH%2FIps65jKtc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:48:24+00:00	unique_id	827e453b70fc271a
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:48:24+00:00	_twitch_session_id	01eb9966c14bbe668205c2f307189174
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:48:39+00:00	persistent	213094523%3A%3Anx31amp8os8l9m3c02yq2y6nshvtrj
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:48:40+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTQ1MjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTc3MjAsImlhdCI6MTUyMzMxNDEyMH0=.TCmOOFTM6z6ytyWVdMmG74qYMjgA3-NotQ6RtZYhW9Qai5fPY719Ta17BwLj5g23BHV3aoXta6IEAFm_k7-RuQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:48:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTQ1MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4OTIwLCJpYXQiOjE1MjMzMTQxMjB9.LeG6g8RS7HBkJaBRPCYCRazinrOkmVmRjea4nqt_f8Est2iq6IIMvt9nLkCUFlgt8vWWfm-Ip1omJK3pfBW26w==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:48:39+00:00	login	d_natashaa49c_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:48:39+00:00	name	d_natashaa49c_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:48:39+00:00	last_login	2018-04-09T22:48:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:48:39+00:00	api_token	c5f3f774ed079b1145a3eb72dd273db4
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:48:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbmF0YXNoYWE0OWNfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjYxMjAsImlhdCI6MTUyMzMxNDEyMCwibm9uY2UiOiJpcTE5UWsyb1JlVUV6aGtScXluVjlOeUI4OEhLSU1OTFgyc1ZDZnZEX3RnPSJ9.l9-qhGp9I8ex_v0BXCAqpwpifi_bNefGmLQ0Y0AV1jYTDNy4emKrAYISbP5pczXbLSRzS7Hv4iB4nDcKPcz7Tg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:48:40+00:00	twilight-user	{%22authToken%22:%22tz9apsnqbn91ec0s9fiwfx8sov8tue%22%2C%22displayName%22:%22d_natashaa49c_9%22%2C%22id%22:%22213094523%22%2C%22login%22:%22d_natashaa49c_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:48:40+00:00	auth-token	tz9apsnqbn91ec0s9fiwfx8sov8tue

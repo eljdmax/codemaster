@@ -1,0 +1,13 @@
+#MammenTVaydhyan
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7h4M2sPl4FgQSB%2BHp%2Botl7lk70loDntGGSsgVMVA5yk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:36:24+00:00	unique_id	b8f1190362bfbea6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:36:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:36:52+00:00	persistent	213831190%3A%3Aj22d61ok90sn07ofcx7tcg3w5wzqm8
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:36:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzExOTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczODEzLCJpYXQiOjE1MjM1NjkwMTN9.sFEczwlFnZAau5npkpedX84-XnYlqcDY4p_Y3yMT9ZAMOhm0VcGEC689rWm8MnABMOvFd3_po4RgoREW7eVGuw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:36:52+00:00	login	mammentvaydhyan
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:36:52+00:00	name	mammentvaydhyan
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:36:52+00:00	last_login	2018-04-12T21:36:53Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:36:52+00:00	api_token	36dad804dd6502020baffa8fc53bd889
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:36:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1hbW1lbnR2YXlkaHlhbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjEwMTMsImlhdCI6MTUyMzU2OTAxMywibm9uY2UiOiJfa0lYdEhNNUJMUkt6LXo4dXdlU0FRLVdPSmxHVHVYZ21SWXo4TXJPYm5BPSJ9.-hBceCk78U-ySDKkhyaj1lR0F6Jjy1dWKKZuqavN95UVM8v547AgTN4xO6zfe2rc6p2GAtw38kOY3G1da6CO1w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:37:08+00:00	twilight-user	{%22authToken%22:%22mnwofeqdv3j0mi5i9qyahf53nhy2ow%22%2C%22displayName%22:%22mammentvaydhyan%22%2C%22id%22:%22213831190%22%2C%22login%22:%22mammentvaydhyan%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:37:08+00:00	auth-token	mnwofeqdv3j0mi5i9qyahf53nhy2ow

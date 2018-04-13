@@ -1,0 +1,12 @@
+#k_nathalieb979_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i6dfEXQohGaunsppHxM8SBeCTU1dynyEJV08jjllnog%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:59:16+00:00	unique_id	07566c3b7cb246e0
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:59:46+00:00	persistent	213259856%3A%3Amnf9nwx5q4c2xtrzk75tee6j34vjmu
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:59:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTk4NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTczNTg2LCJpYXQiOjE1MjMzNjg3ODZ9.Uw0uzS650QmykoX6pwU_0kT1MTNZ6ZYhvqRFtNk0s-N_2Q9T4dNzC4FcQANgyNyMHj1F4F3w6pHEwvQjW1_ZeQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:59:46+00:00	login	k_nathalieb979_w
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:59:46+00:00	name	k_nathalieb979_w
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:59:46+00:00	last_login	2018-04-10T13:59:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:59:46+00:00	api_token	ee32ddc933e25d33b08d1f110b5acc2d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:59:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0aGFsaWViOTc5X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIwNzg2LCJpYXQiOjE1MjMzNjg3ODYsIm5vbmNlIjoiZzdRNU10VTh0YjRMazh6YzF0V3h4VnlxUXRmRXY1SWlqVzYzZ0NzTGl6ST0ifQ%3D%3D.hcxhy6AMdW0EXTMvotfjXD3hrWA2D1qGm_PBoePaM2oCNmCOpSwVS6DKuBWW_rBka8bjj3cyXNIiPYBOXShKFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:59:48+00:00	twilight-user	{%22authToken%22:%227129o6mg5jy33o9qs02pd7uqx4o58k%22%2C%22displayName%22:%22k_nathalieb979_w%22%2C%22id%22:%22213259856%22%2C%22login%22:%22k_nathalieb979_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:59:48+00:00	auth-token	7129o6mg5jy33o9qs02pd7uqx4o58k

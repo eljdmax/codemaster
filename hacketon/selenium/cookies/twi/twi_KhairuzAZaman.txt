@@ -1,0 +1,13 @@
+#KhairuzAZaman
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DwvJC2gK%2Bg77gF0yxE%2FJK8SppIDkvC%2BIuUvTdOEBvpM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:56:22+00:00	unique_id	780f80213b5d8feb
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:56:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:57:00+00:00	persistent	213835638%3A%3Aszdmwft7robfceini2gyyn2dlu7evt
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:57:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzU2MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc1MDIwLCJpYXQiOjE1MjM1NzAyMjB9.SN6yvDe_IXe_LpHUvWtXuCcgIqx0n2dXhMdAFHTgBDtVMf7yrWCgG65r8vRbkR9UtBBLc5pwXqoLpmAy2g5_JQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:57:00+00:00	login	khairuzazaman
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:57:00+00:00	name	khairuzazaman
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:57:00+00:00	last_login	2018-04-12T21:57:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:57:00+00:00	api_token	2afc9f93881a51e0f932d6513a94831e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:57:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtoYWlydXphemFtYW4iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIyMjIwLCJpYXQiOjE1MjM1NzAyMjAsIm5vbmNlIjoiajNXSlVGdTYyeTZZbXUwVm1HRFRvbENhSHFRR29iTXJNcWQtWTdQSlhzcz0ifQ%3D%3D.SZl8o_QBKKQHf78rFWMiBzrZEqJAWRCwei6OH66W363BoxBurcMPI25etTrhhxZilm6r4v32eSDrJUhQpSIAQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:57:14+00:00	twilight-user	{%22authToken%22:%22lbaiy0fart9bxx1thakmujc8glno0c%22%2C%22displayName%22:%22khairuzazaman%22%2C%22id%22:%22213835638%22%2C%22login%22:%22khairuzazaman%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:57:14+00:00	auth-token	lbaiy0fart9bxx1thakmujc8glno0c

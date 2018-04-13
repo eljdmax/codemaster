@@ -1,0 +1,14 @@
+#v_patricka42z_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ql6GLT9ST37VPbNJ3BAnvZjKfPIT4gnPaKYFNA03LH4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:19:23+00:00	unique_id	b30721078fc6e79b
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:19:23+00:00	_twitch_session_id	e5dccff522f04c1b5aff77c1d6e5f533
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:19:38+00:00	persistent	213088037%3A%3Aippg7mhiavomwdcihpbvy9mxmq7c1u
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:19:37+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODgwMzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTU5NzgsImlhdCI6MTUyMzMxMjM3OH0=.DZWUYaxd2X-Jg0W7HsEyZZE5ybPhldoDvLteR0C-kSbnjBB6U772Lpg1yQqD0pbxxa91tZwZ1ynvOz64x52RHQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:19:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODgwMzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE3MTc4LCJpYXQiOjE1MjMzMTIzNzh9.nfUD_EBjKyd9o5ceVzHs-bQcsbEMh1rPlOghZn4AVYeqY461Zq26vmJUamPljFGU9wc-htlrdGnCyGde3qgznw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:19:38+00:00	login	v_patricka42z_w
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:19:38+00:00	name	v_patricka42z_w
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:19:38+00:00	last_login	2018-04-09T22:19:38Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:19:38+00:00	api_token	6393d21e004373035672291862024233
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:19:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfcGF0cmlja2E0MnpfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQzNzgsImlhdCI6MTUyMzMxMjM3OCwibm9uY2UiOiJJNHZjNnNoZER0ckctRTBlbTVTVzZkaFVRTWN0WGF3Mm50aTZDZjR6Ml8wPSJ9.FS8xVtlcwYL7vlJm652scUaHyISOzCUJF-z3niRsRDHlf7A0CahxskidvnbB__H3WRUNfbhJJRlEiLuT25-eZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:19:37+00:00	twilight-user	{%22authToken%22:%228gh0m8wmckbr6xxijfu4455dw0ukne%22%2C%22displayName%22:%22v_patricka42z_w%22%2C%22id%22:%22213088037%22%2C%22login%22:%22v_patricka42z_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:19:37+00:00	auth-token	8gh0m8wmckbr6xxijfu4455dw0ukne

@@ -1,0 +1,14 @@
+#x_nathaliea29o_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2uR4XJr16k3irCfOQ9SWbImJWr5RedD5XJ6iC%2B27KBo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T23:03:49+00:00	unique_id	6042421db9ae7b95
+.twitch.tv	TRUE	/	TRUE	2018-04-10T11:03:49+00:00	_twitch_session_id	a66583c3d7bf06508265d11e48c8329a
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:04:12+00:00	persistent	213098254%3A%3Axpz6uljtqo8tn4fiuf6s6a7lgdypgs
+.twitch.tv	TRUE	/	TRUE	2018-04-10T00:04:12+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTgyNTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTg2NTIsImlhdCI6MTUyMzMxNTA1Mn0=.f9VFQQztFek721Z3KIgaJz-g94iieojnHOqDDFcSuu8cKIb6PeG9BXcxY3Z-lSHmB3hTb4kih6uOEdAEJ9anuA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T23:04:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTgyNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5ODUyLCJpYXQiOjE1MjMzMTUwNTJ9.zRbpOH8p7kWUV7hJUrZ8ODYTRnipCp6NcCjcJ5i8xmRTj537ygsnCydsgLegF3dpdoAbaQgOIBUQYCopVWco4w==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:12+00:00	login	x_nathaliea29o_b
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:12+00:00	name	x_nathaliea29o_b
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:12+00:00	last_login	2018-04-09T23:04:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:04:12+00:00	api_token	e8066bc54ac1ba11cf1477866d33d9f2
+.twitch.tv	TRUE	/	TRUE	2018-10-06T23:04:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbmF0aGFsaWVhMjlvX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4ODY3MDUyLCJpYXQiOjE1MjMzMTUwNTIsIm5vbmNlIjoid3RuQlZoZ0I3ekpiV1lpTzZ2ODdfWDNlTlZJZFNjdlJKdzMtbHJsNlo4Yz0ifQ%3D%3D.WqRTnIfjgokWJV8esA1PIRnyJctWof7zj4Jm5oZBktfmRlbMlJmwmnzwG1ocKy1yBYFdr3nFa0Mer58Hchhscw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:04:13+00:00	twilight-user	{%22authToken%22:%22rhqv2gbshieixs1hhng5z9fvx4pk65%22%2C%22displayName%22:%22x_nathaliea29o_b%22%2C%22id%22:%22213098254%22%2C%22login%22:%22x_nathaliea29o_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:04:13+00:00	auth-token	rhqv2gbshieixs1hhng5z9fvx4pk65

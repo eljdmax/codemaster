@@ -1,0 +1,13 @@
+#PaulTakHoYuen
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FZYRWYrQlOCfmq48rpZIyDNmF8C%2BTbbA0XiXQqNka3U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:49:00+00:00	unique_id	e33e6cf78c6b497d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:49:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:49:30+00:00	persistent	213834062%3A%3Aae8l0b1kq7e8zsp43e9kc9z6yzzuz0
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:49:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzQwNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0NTcxLCJpYXQiOjE1MjM1Njk3NzF9.b24TsHQ0d2qCaeIAfNteT1ZmNcAv0DVbkGtzXw8IHmXc5dFBF1RiAfKPaL4j19n8vfTUXyap0adcl3QwiruLng==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:49:30+00:00	login	paultakhoyuen
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:49:30+00:00	name	paultakhoyuen
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:49:30+00:00	last_login	2018-04-12T21:49:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:49:30+00:00	api_token	8ab7d928f3067d3ccaf3ccd8d392a077
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:49:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBhdWx0YWtob3l1ZW4iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIxNzcxLCJpYXQiOjE1MjM1Njk3NzEsIm5vbmNlIjoiUExwVmVHcmZQUDFUV2JYVmxlMS0xdDgtX29iRnJaeTdMVktsNVVLV3pMND0ifQ%3D%3D.4dRQ4XwNJgoTGAazjpuvRf1nYwfzAwmrqkPvMVBrhULKlhFpZg2sxQFs9Ry-hBD5xYbvrZCNNpcf6EFvZAEpKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:49:43+00:00	twilight-user	{%22authToken%22:%22ukx4ezwhq3s4ft693o19f5kefmrlcw%22%2C%22displayName%22:%22paultakhoyuen%22%2C%22id%22:%22213834062%22%2C%22login%22:%22paultakhoyuen%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:49:43+00:00	auth-token	ukx4ezwhq3s4ft693o19f5kefmrlcw

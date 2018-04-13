@@ -1,0 +1,14 @@
+#g_sanderso477_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GNUQekIhKU9pe0ogwsTqVoLsnCb3QRsID05zreoXN4w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:18:25+00:00	unique_id	da46d683e3ab9ec8
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:18:25+00:00	_twitch_session_id	33ce0e828809d645ae3b044a18c1e1a5
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:18:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:19:03+00:00	persistent	213501216%3A%3All1r2r3k1vnq74hdhm3ei3b5mta47y
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:19:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDEyMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzOTQzLCJpYXQiOjE1MjM0NDkxNDN9.zS1b0Vl0lo6O2bDPUuWwTMGDnyBfokc-80Pn7384XBxCNb1Xy5XutePksl8vNKvFI9i-IJ3IvZ3LMohD3-BR_A==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:03+00:00	login	g_sanderso477_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:03+00:00	name	g_sanderso477_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:03+00:00	last_login	2018-04-11T12:19:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:19:03+00:00	api_token	aa8612a4331f10853001057eaed94036
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:19:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfc2FuZGVyc280NzdfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDExNDMsImlhdCI6MTUyMzQ0OTE0Mywibm9uY2UiOiJtSlp4c01XQ3phRm5ZT201a2xDVXkycVJEelpUSW5OVzBQYmxINDNUU3hzPSJ9.FdS4fiW9ABhnpsxm1JwttqpENFBFC97Y9Jgya_aXFzEKYp3iWOSaM1T0b57lrT9iMddzBlG07LW823C7GmdebQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:19:09+00:00	twilight-user	{%22authToken%22:%222k1tchvytw8bm4g9no3700l0rugovh%22%2C%22displayName%22:%22g_sanderso477_w%22%2C%22id%22:%22213501216%22%2C%22login%22:%22g_sanderso477_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:19:09+00:00	auth-token	2k1tchvytw8bm4g9no3700l0rugovh

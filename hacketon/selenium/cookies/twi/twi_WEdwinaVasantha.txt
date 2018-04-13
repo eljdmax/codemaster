@@ -1,0 +1,13 @@
+#WEdwinaVasantha
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	40R%2BbYBA7MRUSQuGgb4cyO9BV8mySg9fNUr1UlHEzmM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:36:51+00:00	unique_id	4f87f1117356d397
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:36:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:37:10+00:00	persistent	213831256%3A%3Aco64ju4fah4r5wroxb6puji3w0qr9t
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:37:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzEyNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczODMwLCJpYXQiOjE1MjM1NjkwMzB9.UhSMOIo5DdwuphDUuQY9i77W2l1KtDGRBmF2XtIlLhnhTc1zBIFgiZpcmSlgftcmYI0PhbapqPxTjpDMJngmhg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:37:10+00:00	login	wedwinavasantha
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:37:10+00:00	name	wedwinavasantha
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:37:10+00:00	last_login	2018-04-12T21:37:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:37:10+00:00	api_token	70204ad283667b346fad8690c4d5baf6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:37:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndlZHdpbmF2YXNhbnRoYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjEwMzAsImlhdCI6MTUyMzU2OTAzMCwibm9uY2UiOiJoQ0t6UFRUUmFCdUx2eERPSW5LNWZuMjVBRlEyOUFaWlB6amxadlVOYno0PSJ9.XkKEUi4EWNRimNKZsmV7ng-zpDsG4Dc2qbG_hK_BLuhucP8IkUuLCGfusVw5ucCZ4UBLQazoRqs4wHsJQGEypA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:37:23+00:00	twilight-user	{%22authToken%22:%22k0bzgh00hw6h8k7qqv8pn0tvemhjp5%22%2C%22displayName%22:%22wedwinavasantha%22%2C%22id%22:%22213831256%22%2C%22login%22:%22wedwinavasantha%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:37:23+00:00	auth-token	k0bzgh00hw6h8k7qqv8pn0tvemhjp5

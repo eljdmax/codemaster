@@ -1,0 +1,14 @@
+#e_sandersa30h_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KijEgAvUPaCmZa0yeTup2ZG34YO3mrjQ6njkQp9cpXo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:54:00+00:00	unique_id	13c563dd4693282c
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:54:23+00:00	persistent	213095854%3A%3Auylr8q16kqkgr98zskuq3vdxeo7gk8
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:54:24+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTU4NTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTgwNjQsImlhdCI6MTUyMzMxNDQ2NH0=.96Tln0WTX1wsUv0m3PJJVC3XwB0CA7C-oKo5npXQaDA2eos-KbVAmtlCuyO9Zsi2bGjyvGS41bv0pz256jkWIA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:54:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTU4NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5MjY0LCJpYXQiOjE1MjMzMTQ0NjR9.9NwdHdL1lQq6xHZcfEFrnBermcPi1wsm5Mvz-jqAxZWWHCeONX5OxyqEDdjsIqGTguXoJ6G9zckSiag0-ZjGzA==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:54:23+00:00	login	e_sandersa30h_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:54:23+00:00	name	e_sandersa30h_9
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:54:23+00:00	last_login	2018-04-09T22:54:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:54:23+00:00	api_token	eff395ecfd5f2547b9478e8af1110771
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:54:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfc2FuZGVyc2EzMGhfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjY0NjQsImlhdCI6MTUyMzMxNDQ2NCwibm9uY2UiOiJNWF9id1MxU1gyNy1CVjVKSmYxSGZEci1FUmhCQUc0OEJ2eUJ0N29ReEpRPSJ9.Fg4FmhQHEj1LXZ1uiop49tmsWrprayHl9ErLPDZZyPRRH6MVvPE-cjDK9Ucm2OsTbX1r7xXLrAdcx-1rz-KWqw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:54:24+00:00	twilight-user	{%22authToken%22:%22o2lfj4n3ll8mnx8z5j2ok3407a7wl8%22%2C%22displayName%22:%22e_sandersa30h_9%22%2C%22id%22:%22213095854%22%2C%22login%22:%22e_sandersa30h_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:54:24+00:00	auth-token	o2lfj4n3ll8mnx8z5j2ok3407a7wl8
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:54:27+00:00	twilight_onboarding	true

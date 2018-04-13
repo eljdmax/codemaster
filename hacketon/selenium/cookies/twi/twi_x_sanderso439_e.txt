@@ -1,0 +1,13 @@
+#x_sanderso439_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EfhnfKnRXYePPIMOk18tF0TN6J2QLW1rH9B8IbvCg6Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:43:48+00:00	unique_id	3344047bf9418ecf
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:43:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:44:11+00:00	persistent	213514135%3A%3Aoz3u8g3zrwz61fik420hxhuwf0mz3j
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:44:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTQxMzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU5MDUyLCJpYXQiOjE1MjM0NTQyNTJ9.Qpez_uxSIlD-F--sguohM30quEtN0AHn90ttKyy2joqCXzDcgFyhcd5xCHKdw5bf6C67HVWhHOcWQ1pf9pqZ_Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:44:11+00:00	login	x_sanderso439_e
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:44:11+00:00	name	x_sanderso439_e
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:44:11+00:00	last_login	2018-04-11T13:44:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:44:11+00:00	api_token	57b4baba7426f7c09aaeb449fad41e10
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:44:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfc2FuZGVyc280MzlfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDYyNTIsImlhdCI6MTUyMzQ1NDI1Miwibm9uY2UiOiIydFRMT1BDVTVIT1ZibmpKNHlNcmM5MDNlVkdzYlRza3JNMWZ1NG1LRFJVPSJ9.pTt-BXxqmfMMhd3jhe18kEITyZdPjArDio5wJ7e6mPjW-s6-6NMAwwgsIDWGAJdmknhb_kChyM69lvUc4_-yzw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:44:19+00:00	twilight-user	{%22authToken%22:%22iuyno3l45j62jizbk8h889xun1xsge%22%2C%22displayName%22:%22x_sanderso439_e%22%2C%22id%22:%22213514135%22%2C%22login%22:%22x_sanderso439_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:44:19+00:00	auth-token	iuyno3l45j62jizbk8h889xun1xsge

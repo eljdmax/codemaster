@@ -1,0 +1,13 @@
+#y_sandersc260_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	B%2BbHPhRMOsb8N6MgmttwTzZdcLGn9BlbRcZrkE5Ro8M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:35:15+00:00	unique_id	281209b2d603c8e8
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:35:15+00:00	_twitch_session_id	c0824f15e6411689e21514d4c6820fdb
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:35:45+00:00	persistent	213281012%3A%3A33fqqweqjnuoq687da4a80fwhqn5o5
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:35:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODEwMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc5MzQ2LCJpYXQiOjE1MjMzNzQ1NDZ9.HbxKPscRdKTmtVh_Wx8BCqw_u76UUw7LmYxOPXVPAKPuaEFUer2r84VBhV1x5ALrK4SSfRjEaOJm6xHJFGQgWg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:35:45+00:00	login	y_sandersc260_n
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:35:45+00:00	name	y_sandersc260_n
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:35:45+00:00	last_login	2018-04-10T15:35:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:35:45+00:00	api_token	ed3791c0c3994f913ea2f02d6d542161
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:35:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc2FuZGVyc2MyNjBfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjY1NDYsImlhdCI6MTUyMzM3NDU0Niwibm9uY2UiOiJvVnp3QWgxLTFha0k2YTZKbjdIenpBRVF0OXYxdVp3V0p6MUJOWDdlRjNjPSJ9.hDSXgKrb8DRKbk5LNFDT9Yr-qnJQCsOEaxx8vjPcorOVpkFheXAFK7MYkcBJfg0L3zlQk53R3dYUpjQnMdxC4g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:35:51+00:00	twilight-user	{%22authToken%22:%22p3kuz9ku0bur12atyxh5umj2tof961%22%2C%22displayName%22:%22y_sandersc260_n%22%2C%22id%22:%22213281012%22%2C%22login%22:%22y_sandersc260_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:35:51+00:00	auth-token	p3kuz9ku0bur12atyxh5umj2tof961

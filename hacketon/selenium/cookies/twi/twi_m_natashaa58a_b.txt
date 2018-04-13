@@ -1,0 +1,12 @@
+#m_natashaa58a_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EOFxclnJVh2UP4GKKj830Xi2bvgdm1t5xZ9%2BLtmOfGg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:31:15+00:00	unique_id	2d7341c5b4ab7552
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:31:35+00:00	persistent	213266678%3A%3Ana6ej3h4c1vlrqb6s0li20953g6zd9
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:31:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjY2NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc1NDk2LCJpYXQiOjE1MjMzNzA2OTZ9.wKNwmr1eK73ycLG2n92VpMvSTNbLFOGcRlPbv-VJNXdnm4tv0CqIqNW_lRqKMr2pIKA1k2oj28tXsbqKwGhYVQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:31:35+00:00	login	m_natashaa58a_b
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:31:35+00:00	name	m_natashaa58a_b
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:31:35+00:00	last_login	2018-04-10T14:31:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:31:35+00:00	api_token	376b73369347f9a9824ccc6207a92afc
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:31:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbmF0YXNoYWE1OGFfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjI2OTYsImlhdCI6MTUyMzM3MDY5Niwibm9uY2UiOiJsX0NyRDNlalF4TkZmcExzQl8tTWEyUUVmNVFMVVpON0FlbG56UmxyTG1RPSJ9.Fpba9FOoucve-ROB23tpqmGOuhrR4H4nMjOfaw8lubQ26GJuILznhMw094sQm1UO89GT8P3brN7qswrIWYROvA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:31:40+00:00	twilight-user	{%22authToken%22:%22c7kxk0qwcx3na5j8gntg8kuyg80bv7%22%2C%22displayName%22:%22m_natashaa58a_b%22%2C%22id%22:%22213266678%22%2C%22login%22:%22m_natashaa58a_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:31:40+00:00	auth-token	c7kxk0qwcx3na5j8gntg8kuyg80bv7

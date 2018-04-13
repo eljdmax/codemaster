@@ -1,0 +1,14 @@
+#j_nathaliea17o_9
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-10T09:38:49+00:00	_twitch_session_id	8d117b0c9d4885ac6f486906ce01fc0d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	h4YSFE2u2Z%2B%2B4W1blPs1UnSWogdbZKliSIumtM9XLHc%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:03:30+00:00	persistent	213215934%3A%3Ax73fu9b20c1ynb6ypuujgjflii97q7
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:03:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMTU5MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU1ODEwLCJpYXQiOjE1MjMzNTEwMTB9.LRLQozHR80fMpwKiMjEijyRT7LkDI9nT-G9tG_hnJDFMZdEkdvxXRPwlGYBbP4alYsT2vRrsoucTm4onE7O9TQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:03:30+00:00	login	j_nathaliea17o_9
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:03:30+00:00	name	j_nathaliea17o_9
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:03:30+00:00	last_login	2018-04-10T09:03:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:03:30+00:00	api_token	f436bd533f962f4c0e9581ae4b27f418
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:03:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbmF0aGFsaWVhMTdvXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTAzMDEwLCJpYXQiOjE1MjMzNTEwMTAsIm5vbmNlIjoiNXR3RkVqeUJ4MFFXcVZ2cG8ya1l5RFg5b0dLVklMZW9JZ0VEcnBqalYwTT0ifQ%3D%3D.WdiYg17DnsOgDocva2t8Ve7b27AQoiq8We48czebQNWmW_efQ0A7fmHekM4ob6EP-RwuD3AoNI7MgFlPwh1pJQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:03:35+00:00	twilight-user	{%22authToken%22:%22pe49idc18qp9e68dizzayeir427fw3%22%2C%22displayName%22:%22j_nathaliea17o_9%22%2C%22id%22:%22213215934%22%2C%22login%22:%22j_nathaliea17o_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:03:35+00:00	auth-token	pe49idc18qp9e68dizzayeir427fw3

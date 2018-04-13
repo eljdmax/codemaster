@@ -1,0 +1,15 @@
+#m_patricka19c_p
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wd8Ev0%2BYGJhozvrFv%2BZW4cvSnBaoA7pRdYFCuSvLErM%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-10T09:46:02+00:00	_twitch_session_id	7cb31bc14840588f25173719d3f569f8
+.twitch.tv	TRUE	/	TRUE	2018-09-24T21:46:26+00:00	persistent	213080040%3A%3Apsxeim25isljtgb5s73x6j9pd39i8v
+.twitch.tv	TRUE	/	TRUE	2018-04-09T22:46:27+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODAwNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTM5ODcsImlhdCI6MTUyMzMxMDM4N30=.1AJPDwXrZdu7iWhACKwg7xfSTUIYbiY8M_CHTL52nVbnHweZp4u7Wj4UQg3sNSsuSBtruKfXLDlsCzpXcIt_mA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T21:46:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODAwNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE1MTg3LCJpYXQiOjE1MjMzMTAzODd9.C9glllnF7AcLQAOOU8d-X7S0baCdErG1VEtmi04GiUFExzq0U0n5WB4gLOdvssk9MktiBOLNjGH4TzDkGixBKQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T21:46:26+00:00	login	m_patricka19c_p
+.twitch.tv	TRUE	/	FALSE	2018-09-24T21:46:26+00:00	name	m_patricka19c_p
+.twitch.tv	TRUE	/	FALSE	2018-09-24T21:46:26+00:00	last_login	2018-04-09T21:46:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T21:46:26+00:00	api_token	c12c6c4d3bce2f6244afd49d8c741dc0
+.twitch.tv	TRUE	/	TRUE	2018-10-06T21:46:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fcGF0cmlja2ExOWNfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjIzODcsImlhdCI6MTUyMzMxMDM4Nywibm9uY2UiOiJQLXFyRkhqWW04bmxUMm5rYlV3VTVqUE1IZ1NTaExHWTAzektnZzJTMTRNPSJ9.Eg7YgoOOBwzJw-E18YXttIXJ2skm9_i6z5KAue3hPPwTpRgJJpjMNMisLcZ0xqSxp6rm1YsfrnxG4c8twsCq4w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T22:46:31+00:00	twilight-user	{%22authToken%22:%225wsmp7xjwlw4jq9ygodzedw3wmrmkm%22%2C%22displayName%22:%22m_patricka19c_p%22%2C%22id%22:%22213080040%22%2C%22login%22:%22m_patricka19c_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T22:46:31+00:00	auth-token	5wsmp7xjwlw4jq9ygodzedw3wmrmkm

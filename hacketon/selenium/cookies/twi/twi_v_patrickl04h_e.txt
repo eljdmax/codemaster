@@ -1,0 +1,13 @@
+#v_patrickl04h_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EIDGC0BCTRABFjMIumw%2FKg7IbG8VfAaCyQVbdPwR54M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:22:42+00:00	unique_id	b54a085b667d8344
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:22:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:23:01+00:00	persistent	213501736%3A%3A5pugsdz4rb8sv4ttd97c9kftowywl3
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:23:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDE3MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0MTgyLCJpYXQiOjE1MjM0NDkzODJ9.EburCrZSbWq1m0UbfTjItcR8qWCThocylJ6mtf-j9mo_4aEFzwvWPIDIQlp0Do9ykvCarBN-KccEYfwqsGxoKg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:23:01+00:00	login	v_patrickl04h_e
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:23:01+00:00	name	v_patrickl04h_e
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:23:01+00:00	last_login	2018-04-11T12:23:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:23:01+00:00	api_token	55c82b1c65f9078f8d20b4e031af29f2
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:23:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfcGF0cmlja2wwNGhfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDEzODIsImlhdCI6MTUyMzQ0OTM4Miwibm9uY2UiOiJiRm9qQjNUX1I3M2xfbng0MkxrRF9FM1R4QTlzSmM0SHNwaUF0ejdXVmNRPSJ9.k1tqs294iGxi5CFkRBvS3m0q3kBr-D7tFC6T19n6v9_HuyDMLCBOtMEUV5xljura5mElXiO-LoPy_sbuN-fplQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:23:10+00:00	twilight-user	{%22authToken%22:%22y74q9g1r7p566ctlaiwebdj1k3wx70%22%2C%22displayName%22:%22v_patrickl04h_e%22%2C%22id%22:%22213501736%22%2C%22login%22:%22v_patrickl04h_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:23:10+00:00	auth-token	y74q9g1r7p566ctlaiwebdj1k3wx70

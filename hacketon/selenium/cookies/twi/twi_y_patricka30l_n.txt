@@ -1,0 +1,16 @@
+#y_patricka30l_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	axKS5NdRjYzuy2ihMMFOsuVy623g%2FYTb1pSXTuOiFSE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:46:34+00:00	unique_id	ba6aa0e9a10588e6
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:47:09+00:00	persistent	213220595%3A%3Aagceu0lm82srt3wskvpxbsqm44wk8v
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:47:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjA1OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU4NDMwLCJpYXQiOjE1MjMzNTM2MzB9.gCeWSrtwz5z5uC-0D4BJjaJbwunpgaE2Tn0__gouT15b-QaJXOMUBmhZXEMu12A49HQ7cFLzEG44_L0V8j9Kwg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:47:09+00:00	login	y_patricka30l_n
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:47:09+00:00	name	y_patricka30l_n
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:47:09+00:00	last_login	2018-04-10T09:47:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:47:09+00:00	api_token	fd945fcb9ae857364d1cd0b50d96d2b2
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:47:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfcGF0cmlja2EzMGxfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDU2MzAsImlhdCI6MTUyMzM1MzYzMCwibm9uY2UiOiJWcVBOenBrRTl5N2hCTGhVOEhLY1NoRXdFcElVRXZ2MThINTJSQUpxanFRPSJ9.XXy5bEevrbLPZXdBABy6rnmh_523CGj4bCvsPwKpdFAZcB15VKJyJBymIXa7TxCuUNnEO6M4zCyxi0fGeLjOcw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	ssOtww9HHTGo8PHsqK8A1yRihe8oYhlY
+.twitch.tv	TRUE	/	FALSE	2020-04-09T09:47:16+00:00	__gads	ID=25c35b45ed07905c:T=1523353637:S=ALNI_MY1GF_Skk_3EyvVoLiOTASk7r-VZw
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMzNTcyNjEsIm52IjoxLCJ1cHQiOjE1MjMzNTcyMzIsImx0IjoxNTIzMzU3MjYxfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:47:41+00:00	twilight-user	{%22authToken%22:%22sztgkmbm561y1wp9ya3htar880do3q%22%2C%22displayName%22:%22y_patricka30l_n%22%2C%22id%22:%22213220595%22%2C%22login%22:%22y_patricka30l_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:47:41+00:00	auth-token	sztgkmbm561y1wp9ya3htar880do3q
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:47:44+00:00	twilight_onboarding	true

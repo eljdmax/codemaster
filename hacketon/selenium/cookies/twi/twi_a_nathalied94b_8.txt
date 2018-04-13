@@ -1,0 +1,13 @@
+#a_nathalied94b_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XNj4JGhnfqnULxEv8lr0PWCEedmf8nPzARfA89pxPFE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:58:10+00:00	unique_id	27cb4538eb059bd4
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:58:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:58:49+00:00	persistent	213491649%3A%3Ag2zbfkyqgfmty9k8k28f92u60rvr2y
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:58:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTE2NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ5MTMwLCJpYXQiOjE1MjM0NDQzMzB9._QUPzoMN9jvAS3perclscl2nyyVdMhwaNbtJ2kIisbJNAKG7jb-SEJLY__TYQTJCMwbhlVc5zqZ5m7JY48qzNQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:58:49+00:00	login	a_nathalied94b_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:58:49+00:00	name	a_nathalied94b_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:58:49+00:00	last_login	2018-04-11T10:58:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:58:49+00:00	api_token	1a08c7f979dae232aca32ab609d23c76
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:58:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0aGFsaWVkOTRiXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk2MzMwLCJpYXQiOjE1MjM0NDQzMzAsIm5vbmNlIjoiN0pwVTV3VjFTeFBmdGZ3azBEV2wya05oazhsLXllNXNwWm10UjlnOUw5WT0ifQ%3D%3D.VPhwU62nL8umzglpfMzWG3eQ7Ii3bbroCRJGs_J1lA32EzCsYDvhoxGwLfS3CM-DY3M8XLLSlfZTRBGnujLvVQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:58:58+00:00	twilight-user	{%22authToken%22:%22sqa1gze18ft0em42dgv6e9n9fgex21%22%2C%22displayName%22:%22a_nathalied94b_8%22%2C%22id%22:%22213491649%22%2C%22login%22:%22a_nathalied94b_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:58:58+00:00	auth-token	sqa1gze18ft0em42dgv6e9n9fgex21

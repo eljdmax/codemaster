@@ -1,0 +1,13 @@
+#UNayWin3243
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	G9UQMUVmVPGITs2ybHS9%2B5guUPDsk4HweQqjx89438Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:41:56+00:00	unique_id	3489367859d26616
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:41:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:42:24+00:00	persistent	213832424%3A%3Abup41thp3b7ptkjlx2q4my1v5322vj
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:42:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzI0MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MTQ1LCJpYXQiOjE1MjM1NjkzNDV9.yoT4YLrzOwb42tJfMCPCa-_nufm9uz9MCVDvPngccTis0dEkgyL9clVGSzfwI14kM3SOR1xiQbTYuzvlTEk0RA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:42:24+00:00	login	unaywin3243
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:42:24+00:00	name	unaywin3243
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:42:24+00:00	last_login	2018-04-12T21:42:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:42:24+00:00	api_token	12a74be3653e458ccbb38f5eac4e3cbe
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:42:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVuYXl3aW4zMjQzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMTM0NSwiaWF0IjoxNTIzNTY5MzQ1LCJub25jZSI6ImxmY1J2Ulg4YnNtczFzVXlKeHloYVc2ek5FcEQ2TEZfYkRvcnRpVmdPVk09In0%3D.svHr-3B6uByp-hYOeYUbig5bnFR-qChCtyjKELWVMqoz25Dtmt8cK2reIfA6blGgCJj3oHu4u0igxHjrY6VZ2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:42:40+00:00	twilight-user	{%22authToken%22:%222z2s07qtzbf79uguuobow7uod0qei9%22%2C%22displayName%22:%22unaywin3243%22%2C%22id%22:%22213832424%22%2C%22login%22:%22unaywin3243%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:42:40+00:00	auth-token	2z2s07qtzbf79uguuobow7uod0qei9

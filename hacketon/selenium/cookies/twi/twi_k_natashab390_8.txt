@@ -1,0 +1,13 @@
+#k_natashab390_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Xz5d7LKF2VbMD%2Fge%2FXS5yXnDyBb%2BrSAsLmX7WPRyyyU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:52:22+00:00	unique_id	8a08c79c1b60944a
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:52:52+00:00	persistent	213258507%3A%3A0kz50aujsqc6fav0vsjfjb5rj78auf
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:52:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTg1MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTczMTcyLCJpYXQiOjE1MjMzNjgzNzJ9.xCTwOWDPeqvusHJtbo1TXBDXx7W5Dp5WMjwfFF2Phazf9qxOT8L5pUtWZiRnTNBdCiHcMNWKDHv5x_KL_RRCAg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:52:52+00:00	login	k_natashab390_8
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:52:52+00:00	name	k_natashab390_8
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:52:52+00:00	last_login	2018-04-10T13:52:52Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:52:52+00:00	api_token	cae9c51290132d7e2147a2341bf80398
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:52:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0YXNoYWIzOTBfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjAzNzIsImlhdCI6MTUyMzM2ODM3Miwibm9uY2UiOiJUU0lOQmprTklZcTM3S2ZoMHhkbFYySHd4MnpHX21nUzJFUWxlS1dORVRRPSJ9.nynffuxGi0ZqOKF7PtzZNEoD-uacwQIA48VWM5xuxU6l0NlzNntV2goaXalwGaiERQVe3AoD4MX33WEo05oOig%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:52:54+00:00	twilight-user	{%22authToken%22:%22l0gs14lju3y4j27h0x36nde1jlw8g6%22%2C%22displayName%22:%22k_natashab390_8%22%2C%22id%22:%22213258507%22%2C%22login%22:%22k_natashab390_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:52:54+00:00	auth-token	l0gs14lju3y4j27h0x36nde1jlw8g6
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:52:57+00:00	twilight_onboarding	true

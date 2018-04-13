@@ -1,0 +1,13 @@
+#h_natashad92o_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kDmUEBXi2KEwUW%2BZeumMahRMrwaca7YKWavC03ZYRSA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:27:31+00:00	unique_id	360d7755504130e4
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:27:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:27:59+00:00	persistent	213488646%3A%3A7ke95yopze0tx740trvxabcbvrxm1r
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:27:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODg2NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ3Mjc5LCJpYXQiOjE1MjM0NDI0Nzl9.5OsYVzlGuhL_XKq9jaSju3B3uGK5coZs3Mb9Y2YuX4IkSGfX6ngwzOEkTLXVomWSKsYrwF8K1LxKLcteyeqKdA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:27:59+00:00	login	h_natashad92o_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:27:59+00:00	name	h_natashad92o_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:27:59+00:00	last_login	2018-04-11T10:27:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:27:59+00:00	api_token	a8a15bed9ecff45f4293cb07f3bb2ba5
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:27:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbmF0YXNoYWQ5Mm9fNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTQ0NzksImlhdCI6MTUyMzQ0MjQ3OSwibm9uY2UiOiJHR20wSmhNOGFnVE8tMVB0MkVpeDFKRDY0VkI0VTRxd0loczV6eGZBQ3NvPSJ9.ZH9emAbxH5lJx29X0aM58DfSS3yk2nT46t-X-Zh-_nPC50iEv1ur0Cidad1o5WZqq20PoGWJ2kgXdLX7kFNpnw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:28:05+00:00	twilight-user	{%22authToken%22:%22k9nxrfp8z4ldyofowt0iwkljupjfbv%22%2C%22displayName%22:%22h_natashad92o_5%22%2C%22id%22:%22213488646%22%2C%22login%22:%22h_natashad92o_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:28:05+00:00	auth-token	k9nxrfp8z4ldyofowt0iwkljupjfbv

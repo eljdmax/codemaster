@@ -1,0 +1,14 @@
+#TinMaungWin
+.twitch.tv	TRUE	/	TRUE	2028-04-12T21:41:13+00:00	unique_id	ff1f8ccee254536b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:41:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	l87mF7oI%2BZWnV0aTVlqq8lqsdAPKRIuyf0B1ZFS6Ock%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:44:44+00:00	_twitch_session_id	7854a7f320a91d17a313abc42839c423
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:45:03+00:00	persistent	213833007%3A%3Acbcdluqh39kp6pscoh8byfsa2dkeya
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:45:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzMwMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MzAzLCJpYXQiOjE1MjM1Njk1MDN9.bc4X3GUbk4OahHUG3x_nGxmdoZXy6-7Hj4LZJVzHF7iF_u3n1akjfYV7okVthJJGnlora4so8hSfu6vgNgfu4w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:45:03+00:00	login	tinmaungwin
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:45:03+00:00	name	tinmaungwin
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:45:03+00:00	last_login	2018-04-12T21:45:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:45:03+00:00	api_token	938c13e3e4dd66524717a680c8390941
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:45:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRpbm1hdW5nd2luIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMTUwMywiaWF0IjoxNTIzNTY5NTAzLCJub25jZSI6ImJodzl3d3Z5SG9DMXBEUkl3NGFsbTJ4U194VjZCRDRwYTQwaEFERHVVZ2M9In0%3D.IgQcrnkAaxdKXFyB3edLUNK_x71uaahTJnurwGBZEFm0Sd2ODfo_T4O7Sfv4o6fV4eX4gu7YXoIuk2-BGgjJGA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:45:19+00:00	twilight-user	{%22authToken%22:%22eh9w3td4ssnat26unkzz1qsxqmrqvm%22%2C%22displayName%22:%22tinmaungwin%22%2C%22id%22:%22213833007%22%2C%22login%22:%22tinmaungwin%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:45:19+00:00	auth-token	eh9w3td4ssnat26unkzz1qsxqmrqvm

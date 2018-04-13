@@ -1,0 +1,15 @@
+#EdySupriyanto
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM1NzA4MTEsIm52IjowLCJ1cHQiOjE1MjM1NzA4MDAsImx0IjoxNTIzNTcwODAwfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wanhho%2FtbemzZmeMi4kiKcRdhj9C4ZiuXVGWdvEfqkg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:10:09+00:00	unique_id	7ca7461e7aaed6ba
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:10:09+00:00	_twitch_session_id	2e50a4a213685a5afc620747abb076ec
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:10:09+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:10:55+00:00	persistent	213825543%3A%3Atzkuqcaz7b1wos3sz0b78sivlfyh0q
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:10:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjU1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyMjU2LCJpYXQiOjE1MjM1Njc0NTZ9.qW0kmHX2B5xN2bYovBRK0x2tQfKREBKUvyeTG3beeFcDYgosZOJHW2KXAWUzM6BiEden5n0KBXIJUtlMMcXAsA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:10:55+00:00	login	edysupriyanto
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:10:55+00:00	name	edysupriyanto
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:10:55+00:00	last_login	2018-04-12T21:10:56Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:10:55+00:00	api_token	10a4d549c8d715bd1dab5b8cfecfd099
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:10:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVkeXN1cHJpeWFudG8iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE5NDU2LCJpYXQiOjE1MjM1Njc0NTYsIm5vbmNlIjoicHhuMFFiUmZKUy1nZm1BckJOZHZkVHFmaDk3N3M2WDR6SWxZNFctRGdubz0ifQ%3D%3D.GB1UF7y5kP11qcIM63gzCjY2iDQ-8auhHSeQ7MrnfYaStaOAHXuadm6psb3NPMgrC38aW3egPUKK7AvQgLta7w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:11:08+00:00	twilight-user	{%22authToken%22:%225ziv1oa7goc8g4ebmndx0y9lc030o7%22%2C%22displayName%22:%22edysupriyanto%22%2C%22id%22:%22213825543%22%2C%22login%22:%22edysupriyanto%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:11:08+00:00	auth-token	5ziv1oa7goc8g4ebmndx0y9lc030o7

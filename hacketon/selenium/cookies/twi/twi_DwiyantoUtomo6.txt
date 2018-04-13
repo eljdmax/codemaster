@@ -1,0 +1,14 @@
+#DwiyantoUtomo6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	32mFm7D7AnGbByvZHOGHq9gBO%2FgBedkyneJxCZpNtQg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:32:08+00:00	unique_id	573a3a8f40730f0a
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:32:08+00:00	_twitch_session_id	ef7e14feda82e4ec567e67fd1b1ed173
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:32:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:32:41+00:00	persistent	213830265%3A%3Acx4i9htl7omb9p7nlxa7qon7h8f70x
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:32:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzAyNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNTYxLCJpYXQiOjE1MjM1Njg3NjF9.OcOQXuH3vW6syQhDOpaDG06ojoD8tM-oz4zDITH2ZiAgvUJy8QL-YN8-tilK1zIGBhApGoSedOlgHsst77szuA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:32:41+00:00	login	dwiyantoutomo6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:32:41+00:00	name	dwiyantoutomo6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:32:41+00:00	last_login	2018-04-12T21:32:41Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:32:41+00:00	api_token	95632d2b5751c2cccf5c7c3bf164225f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:32:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImR3aXlhbnRvdXRvbW82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDc2MSwiaWF0IjoxNTIzNTY4NzYxLCJub25jZSI6IlY4Rm84MVZhb2VJMXI3SUh2Z05xbGdCZ0EzaVJ0U1lwMHYwM3lzNnByWkk9In0%3D.NULad16s7kI4d6D1mUvOnC1N0frl3SByKj15RrYJVrx7fxdslWSjxUlpW4RFxQ88MXP5hT9YNoGoiiRv_teOAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:32:56+00:00	twilight-user	{%22authToken%22:%22plwdsifv9fuiily1g4oy207j3ct7mr%22%2C%22displayName%22:%22dwiyantoutomo6%22%2C%22id%22:%22213830265%22%2C%22login%22:%22dwiyantoutomo6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:32:56+00:00	auth-token	plwdsifv9fuiily1g4oy207j3ct7mr

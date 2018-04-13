@@ -1,0 +1,14 @@
+#k_nathalieo06p_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ClbWf8lZTCsUAmGF8uruHTopGWhETZEZTZ%2Flet%2FLEao%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:12:02+00:00	unique_id	22f0efce28ee787d
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:12:02+00:00	_twitch_session_id	43249faf2e78c4f24c8deaa7e4a400ca
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:12:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:12:20+00:00	persistent	213500316%3A%3A88blpe8hm7tor4w2036zpfre9s6xs8
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:12:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDAzMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzNTQwLCJpYXQiOjE1MjM0NDg3NDB9.4rwtHWyMIunmMHF_-p60E7ypXAVRtULNdxGvZRu6rKXSSgas6AsDf2rCP7jD-xNqTbyjXw-XK8bPkrnitu0hUQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:12:20+00:00	login	k_nathalieo06p_m
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:12:20+00:00	name	k_nathalieo06p_m
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:12:20+00:00	last_login	2018-04-11T12:12:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:12:20+00:00	api_token	782f6e0ae2bf4c2fa35e9cdd7b2235b2
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:12:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0aGFsaWVvMDZwX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDAwNzQwLCJpYXQiOjE1MjM0NDg3NDAsIm5vbmNlIjoicEV4aHFCVU00RHRKeXVzNWxiUm9pRXJmSl82T25ZMHRJMkdaaGJfeUdkWT0ifQ%3D%3D.G3ka0DoDnK02bWQmpGc1HEKVdJoCakNXMCIAps9WqUe_G4qZ5TRCYP7I7xpIcR9FsrRclJ5msLm11TsSmsqTIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:12:26+00:00	twilight-user	{%22authToken%22:%222nhmp0n0wn51rzw8l3tnz1rys1if8t%22%2C%22displayName%22:%22k_nathalieo06p_m%22%2C%22id%22:%22213500316%22%2C%22login%22:%22k_nathalieo06p_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:12:26+00:00	auth-token	2nhmp0n0wn51rzw8l3tnz1rys1if8t

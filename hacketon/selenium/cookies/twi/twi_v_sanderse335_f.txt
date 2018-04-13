@@ -1,0 +1,14 @@
+#v_sanderse335_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IgyLnUeWYgYR1iqGTZtAIOUgQAabFwwwyOA%2B0s9s3qU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:47:50+00:00	unique_id	9925da3a48647615
+.twitch.tv	TRUE	/	TRUE	2018-04-11T22:47:50+00:00	_twitch_session_id	eef1d4495541f4d0b15eff3358776e88
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:47:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:48:20+00:00	persistent	213490554%3A%3A73cgz0igzkhasqr4hfu4uy2ytiket4
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:48:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTA1NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ4NTAwLCJpYXQiOjE1MjM0NDM3MDB9.D3A2Y7bIIXAQWITdfkfm1fqzkZaypPJIxRC81fZ_SIPoJ-fDWGLe0bXm5rIzsbNCAZtwRrnxwKUeEjPVzyQngA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:48:20+00:00	login	v_sanderse335_f
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:48:20+00:00	name	v_sanderse335_f
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:48:20+00:00	last_login	2018-04-11T10:48:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:48:20+00:00	api_token	5323204fdcafa3b74d3d222a40565f3f
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:48:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfc2FuZGVyc2UzMzVfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTU3MDAsImlhdCI6MTUyMzQ0MzcwMCwibm9uY2UiOiJhWlFlNFhBSFFIcWZCTWNLSDk1Q3ZlYmZsUE5ZX3VhRmtnQlQ1NFdKZVRjPSJ9.ePTVqk7PBqlr2hOERlCGLtfhaGKMqGOdYNr-H44HJUSsOK1zxwGwRGW6orQEh3jEhExsOczyhu-h9wRFkvZM2A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:48:29+00:00	twilight-user	{%22authToken%22:%228s7s2lsb3q9iceq77utdhs71lr6j8j%22%2C%22displayName%22:%22v_sanderse335_f%22%2C%22id%22:%22213490554%22%2C%22login%22:%22v_sanderse335_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:48:29+00:00	auth-token	8s7s2lsb3q9iceq77utdhs71lr6j8j

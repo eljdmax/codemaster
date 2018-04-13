@@ -1,0 +1,12 @@
+#n_patrickc44a_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	O77enUyJB%2B4oRTBwNECwv8Fo1hoIwO%2FXJCRmbqqrNNg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:37:10+00:00	unique_id	2fe42eef2b468f72
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:37:32+00:00	persistent	213267959%3A%3Ao5nn7qnk5492wzbiboy95ntk05arkf
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:37:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjc5NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc1ODUyLCJpYXQiOjE1MjMzNzEwNTJ9.L1x3SEol32y_-glbt185Zj1btr0RITRu-iYPmNlkgvtIZqtodDACw0asCDz9QHoL6Qt5YVt5yKKMnCMQ6a6Dvg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:37:32+00:00	login	n_patrickc44a_n
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:37:32+00:00	name	n_patrickc44a_n
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:37:32+00:00	last_login	2018-04-10T14:37:32Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:37:32+00:00	api_token	943aacae72b922a43656ba33678cfed0
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:37:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcGF0cmlja2M0NGFfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjMwNTIsImlhdCI6MTUyMzM3MTA1Miwibm9uY2UiOiJzZUNGVHpmQm0yNDJtR3ZTX243akktSmxyVXd6RHdlSHFuQ29seFAweldBPSJ9.TwzIephap_u2MQk6JKQqZcX-HjwAK0kS0PJAm1MwFyfhHGO8vvBLtx9CoEuugFE4JqBIsQ-ldKMnzqkeRoGV0A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:37:35+00:00	twilight-user	{%22authToken%22:%22tkwamkyt9034zt6tefrwwn0fnpib4c%22%2C%22displayName%22:%22n_patrickc44a_n%22%2C%22id%22:%22213267959%22%2C%22login%22:%22n_patrickc44a_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:37:35+00:00	auth-token	tkwamkyt9034zt6tefrwwn0fnpib4c

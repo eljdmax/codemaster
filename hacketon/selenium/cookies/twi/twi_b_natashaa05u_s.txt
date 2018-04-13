@@ -1,0 +1,14 @@
+#b_natashaa05u_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zy7LaG3iFKgwoi8eOtQyyfigdx3k0RmGFK3Xl1%2FtXnE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:10:56+00:00	unique_id	9a6620106c89e7c6
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:10:56+00:00	_twitch_session_id	0c46b6398ca9c99492acabdc0d2a62ae
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:11:12+00:00	persistent	213086047%3A%3Axz4a8mpxdhnoz9a10rcqdwlqvoy95l
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:11:13+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODYwNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTU0NzMsImlhdCI6MTUyMzMxMTg3M30=.xhAykERmVYWWAwbmHdHE7lypvQRpMGZUfNCicyyMwL5GwB33ZYbtz_5-rCMZoy2SWSaUKjrDw82zQTWwxJBFUA==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:11:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODYwNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2NjczLCJpYXQiOjE1MjMzMTE4NzN9.cJrsv9wIfB89HhtMmLjPiqpVcize5L35wWyDFxQ524-f440q6t4YATq5WVv5gyrTZNvgcIchpwWQxDsav4f9BQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:11:12+00:00	login	b_natashaa05u_s
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:11:12+00:00	name	b_natashaa05u_s
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:11:12+00:00	last_login	2018-04-09T22:11:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:11:12+00:00	api_token	9807994d9ccefb959be7396cca25758d
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:11:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbmF0YXNoYWEwNXVfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjM4NzMsImlhdCI6MTUyMzMxMTg3Mywibm9uY2UiOiJxbTZHTjN2N1VDeWVjLVEwcEJDb3lIWE9tb3ZVd3VIRm5mVHBRTmswYld3PSJ9.SLeI1mYuRGWYSpsSy0VFNsPGnKtNyCRlqp-BtCDG3lwMFTkeAXB5Wdno2lFdYxGGdtUMGHL5lSaYryora6OZ_w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:11:13+00:00	twilight-user	{%22authToken%22:%22gp6qdx0cvw1o0b5gvvs2uad7po4lz8%22%2C%22displayName%22:%22b_natashaa05u_s%22%2C%22id%22:%22213086047%22%2C%22login%22:%22b_natashaa05u_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:11:13+00:00	auth-token	gp6qdx0cvw1o0b5gvvs2uad7po4lz8

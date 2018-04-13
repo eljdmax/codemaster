@@ -1,0 +1,13 @@
+#l_nathalieo82p_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	unmfkBi%2Fuu0Vgd2S70O9P1qbQmnZaeWobOdDIRhXN60%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:19:07+00:00	unique_id	d6372e0c3969c299
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:19:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:19:29+00:00	persistent	213501273%3A%3Aoakne0yrr9k8m5a71i16vpb6vnv8m4
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:19:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDEyNzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzOTY5LCJpYXQiOjE1MjM0NDkxNjl9.nJ4XHcreoYXXnXejkVWCgaUrnzFkd4Gb3iWRdlQUU413Z9TitdM5zqaaHv-cgPUn8OWibq7ihDVmGlPV6gBlwg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:29+00:00	login	l_nathalieo82p_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:29+00:00	name	l_nathalieo82p_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:29+00:00	last_login	2018-04-11T12:19:29Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:19:29+00:00	api_token	37a267d69b9fbde5f0c7cb1b6877dc35
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:19:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbmF0aGFsaWVvODJwXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDAxMTY5LCJpYXQiOjE1MjM0NDkxNjksIm5vbmNlIjoiRXNMQW1hanNaNHlpMmw0dXItOFpkUnV2RFFlSE1RaDVXLUpDbE95SzBGST0ifQ%3D%3D.2eIdGfY7769tkuojV2a4MYFTaPylsm7lej966imwFFXwoV6pbZRt_xarxAbwSStxNtep0ceT84i01qF4Irvmmw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:19:36+00:00	twilight-user	{%22authToken%22:%223rrynupqh1qjhiqwaceivihmjp9atx%22%2C%22displayName%22:%22l_nathalieo82p_8%22%2C%22id%22:%22213501273%22%2C%22login%22:%22l_nathalieo82p_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:19:36+00:00	auth-token	3rrynupqh1qjhiqwaceivihmjp9atx

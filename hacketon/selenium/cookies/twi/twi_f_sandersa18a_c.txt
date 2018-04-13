@@ -1,0 +1,14 @@
+#f_sandersa18a_c
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMzMTY5OTcsIm52IjowLCJ1cHQiOjE1MjMzMTY5ODcsImx0IjoxNTIzMzE2OTg3fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DHuMxYUtyZIta%2Fh80rmtjtVGGEtY3k%2FaXIk50SQxhcA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:41:10+00:00	unique_id	7f49938065e13e7c
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:41:27+00:00	persistent	213092938%3A%3Ac0p0w51tui391azuajqhwxxl2botwk
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:41:28+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTI5MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTcyODgsImlhdCI6MTUyMzMxMzY4OH0=.CQudN4dGCgn1sT6bagTIPQiIrROzHdsSdKz6kWTt_MfNVnAWr0_2VAB_OP2PcYwAQawBavaDoqW-WdzWSuNBAQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:41:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTI5MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4NDg4LCJpYXQiOjE1MjMzMTM2ODh9.9g-4Bhp9fSN2bPnhW8-Akdzx6CtQyDVKqVPVoIV53r5cvHqDbPeWUmCTIjPe3eTh7yhJhGLmVsIH4N8A6W0Qkg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:41:27+00:00	login	f_sandersa18a_c
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:41:27+00:00	name	f_sandersa18a_c
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:41:27+00:00	last_login	2018-04-09T22:41:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:41:27+00:00	api_token	d0ba669a2deb8154981bd14c285a794f
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:41:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfc2FuZGVyc2ExOGFfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjU2ODgsImlhdCI6MTUyMzMxMzY4OCwibm9uY2UiOiJaWXhiREFFZVdZSUJ6VVcyUV9uLUpQNm55bnF5d2xWbDBGc3hkaXZ5SzZrPSJ9.y1eDnzRYE8pnkOf3SyqXdE8MQVuV5v2shhYYwfYqTVLhZzdsEECYMwsHhENouqOC9sS6l1OFFlXU0y6gK5uygg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:41:28+00:00	twilight-user	{%22authToken%22:%22v7ld7sb153orws8loblc27vpvf2b8i%22%2C%22displayName%22:%22f_sandersa18a_c%22%2C%22id%22:%22213092938%22%2C%22login%22:%22f_sandersa18a_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:41:28+00:00	auth-token	v7ld7sb153orws8loblc27vpvf2b8i

@@ -1,0 +1,14 @@
+#s_martialo850_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CpML5v1yyd85gtS6MIDT2kkfsQLDewZz8JECZ5bJwIU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:53:47+00:00	unique_id	be8066163e7f97f0
+.twitch.tv	TRUE	/	TRUE	2018-04-12T01:53:47+00:00	_twitch_session_id	db1e54ed06a3ec530e44481013b805ec
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:53:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:54:07+00:00	persistent	213515756%3A%3Amui6rk4vqnwu6mhu4vci1zpr7i8jp9
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:54:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTU3NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU5NjQ3LCJpYXQiOjE1MjM0NTQ4NDd9.UhtbUVTp0Lavw4_umGS8s1q_7adu25EG7BrV3UTNZJzM6bFZHH8hEuWAmZeAeUxiu5gJbXWTYZowyEtc-fhWGQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:54:07+00:00	login	s_martialo850_6
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:54:07+00:00	name	s_martialo850_6
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:54:07+00:00	last_login	2018-04-11T13:54:07Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:54:07+00:00	api_token	524046af80742a1ff2b0f9ca58f04a43
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:54:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWFydGlhbG84NTBfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDY4NDcsImlhdCI6MTUyMzQ1NDg0Nywibm9uY2UiOiI3cGVUYk5PYzBNSFhBMmtKWGdHcHhZRFIwYnRrUS1PWU5zbWhSLUdxZVFjPSJ9.ZUUIIiZd-T1VL2azKxIZm6O8Mp-FVhacyjTTeCQbkwdW7pJ630zacWP1HbdOhf1U8gONcEwQQ0dm81fEYyc7Gw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:54:16+00:00	twilight-user	{%22authToken%22:%22xdv3k205z8pj84dw5sn1bllco3n6mf%22%2C%22displayName%22:%22s_martialo850_6%22%2C%22id%22:%22213515756%22%2C%22login%22:%22s_martialo850_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:54:16+00:00	auth-token	xdv3k205z8pj84dw5sn1bllco3n6mf

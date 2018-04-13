@@ -1,0 +1,14 @@
+#VSaravanan464
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	b3ITiJ%2F1eBeTnwQ74%2BUa9e5bOeRrz39%2Bh98howIU%2FHg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:02:04+00:00	unique_id	111dcdb0264ca5ba
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:02:04+00:00	_twitch_session_id	362607abfbe7448b1a83ff53c290f9c3
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:02:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:02:24+00:00	persistent	213823911%3A%3Ahp64wzq2g8jdp4p2ou5p7j0p0k9fzv
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:02:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjM5MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNzQ1LCJpYXQiOjE1MjM1NjY5NDV9.WxDJreydT2bnjbJVKxcjGVwRNq_ineqP4vl4hg2JBPvClY-NL-LbWYm00VxQsefEJL7BNtvNb00to0h66j84eg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:24+00:00	login	vsaravanan464
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:24+00:00	name	vsaravanan464
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:02:24+00:00	last_login	2018-04-12T21:02:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:02:24+00:00	api_token	658978c77c0d3b3b4d66574f3252fd6d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:02:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZzYXJhdmFuYW40NjQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE4OTQ1LCJpYXQiOjE1MjM1NjY5NDUsIm5vbmNlIjoidjBPb0VhUE11SEN0a3gzcVdJX0Iyc3l2VVo3SnFXTkY0RUp4X2RRWFh5ND0ifQ%3D%3D.gI22Pa4j8Gp6DhtA_zDB5O5yGWYGgWaDyfUP5bf8W9fC_u-LlR-NzBUNvbpR3E2C1sXItt2ATVJUuxKVhGxCUA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:40+00:00	twilight-user	{%22authToken%22:%22stotrchotqidy07sdq6vjtabdpeanb%22%2C%22displayName%22:%22vsaravanan464%22%2C%22id%22:%22213823911%22%2C%22login%22:%22vsaravanan464%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:02:40+00:00	auth-token	stotrchotqidy07sdq6vjtabdpeanb

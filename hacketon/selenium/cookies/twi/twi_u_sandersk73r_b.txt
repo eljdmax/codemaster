@@ -1,0 +1,14 @@
+#u_sandersk73r_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2JFi7LP%2BgjQNHs3M7jPeZGSTHnyStA2PiCfsG%2BJBeA4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:54:48+00:00	unique_id	4934708a6c619444
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:54:48+00:00	_twitch_session_id	829d05f4087457f9c41ad1e31596ae95
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:54:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:55:12+00:00	persistent	213506347%3A%3A106v9sl1sm3g5e30mif5etrmad8q64
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:55:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDYzNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU2MTEzLCJpYXQiOjE1MjM0NTEzMTN9.ngX7nnW3nZYj99idA1wieOwDbMyLh-8BXfs1IGqHKpl_lsuWSZI9foWSk6h8DvBoIJegeai2CX1Flz9HedyLKg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:55:12+00:00	login	u_sandersk73r_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:55:12+00:00	name	u_sandersk73r_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:55:12+00:00	last_login	2018-04-11T12:55:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:55:12+00:00	api_token	bb9d148af6b5943ae13bcb98c8748d4c
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:55:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2FuZGVyc2s3M3JfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDMzMTMsImlhdCI6MTUyMzQ1MTMxMywibm9uY2UiOiJKRTk4LWp1QkE1MFo2bHEyM0lSY3ZrVzhhbXktek12cWlMaVFCVEtYaDNvPSJ9.ZzW9boTQ3qgwZshARug2AXI5wxW8WCxmAekbIMafYB1ciH-aN-m7usIAAC0l2gUpFY7yWLcjBb091Osd313EOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:55:21+00:00	twilight-user	{%22authToken%22:%22h4iupcvr7r29p1aak9szg07tqn8gt9%22%2C%22displayName%22:%22u_sandersk73r_b%22%2C%22id%22:%22213506347%22%2C%22login%22:%22u_sandersk73r_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:55:21+00:00	auth-token	h4iupcvr7r29p1aak9szg07tqn8gt9

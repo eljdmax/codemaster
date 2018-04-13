@@ -1,0 +1,12 @@
+#t_patricka368_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zzZ%2Bd637crf5kGZRuPbPLYeIjCb6Ja11I6dhguuglIc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T10:02:52+00:00	unique_id	4676714a5654b654
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:03:15+00:00	persistent	213222283%3A%3A9q6ywjo310rlsngvgnnodz8ftclq3o
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:03:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjIyODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU5Mzk1LCJpYXQiOjE1MjMzNTQ1OTV9.vC_DC5ZsBnIztMP7WbBbilTbeKGbgfAJMY9tVmv9LE0aH6ltTjR3YmYNwTv-WOcjC16AqP2xwyvv6F_QS65NbA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:03:15+00:00	login	t_patricka368_1
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:03:15+00:00	name	t_patricka368_1
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:03:15+00:00	last_login	2018-04-10T10:03:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:03:15+00:00	api_token	a43ffd9c6f0a455853c4d64d4a947968
+.twitch.tv	TRUE	/	TRUE	2018-10-07T10:03:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfcGF0cmlja2EzNjhfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDY1OTUsImlhdCI6MTUyMzM1NDU5NSwibm9uY2UiOiJFRlIzTWxoSk5JNU41V3g4UHZTTjZhbUpWS2pZMi1mN2VScGRzZ25jN1pJPSJ9.kZbwCfZsUzAzdf_2r0sJTxGY7QhPJos3xdu_Ptn9whpn1839NZ9Tepxo3lX7tSvDYKFP8OLMR6UgzjOKKUjXxQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:03:17+00:00	twilight-user	{%22authToken%22:%22c3emu9yass4p9b1hbtot9xpyoz25x9%22%2C%22displayName%22:%22t_patricka368_1%22%2C%22id%22:%22213222283%22%2C%22login%22:%22t_patricka368_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:03:17+00:00	auth-token	c3emu9yass4p9b1hbtot9xpyoz25x9

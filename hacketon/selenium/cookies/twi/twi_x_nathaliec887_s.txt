@@ -1,0 +1,13 @@
+#x_nathaliec887_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YkNyUfdFv1KhP9hiTfJdhY8u01WswrEPYwmiSqbPA%2FY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:28:46+00:00	unique_id	e6221a0d96329bfc
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:28:46+00:00	_twitch_session_id	c7a78f21ce3684bd3f243f2234253e00
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:29:18+00:00	persistent	213266198%3A%3A2aviejtwlufg4vx57j30pozmkvq1la
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:29:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjYxOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc1MzU5LCJpYXQiOjE1MjMzNzA1NTl9.SlqS6iIr8WJgOiGxGOwBHmcTslzMSaknGiAY7Pj3Oowu5_WQvisBci2EY_jgK4IHJ9Re3HwGjSA91zgkZ1YKFg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:29:18+00:00	login	x_nathaliec887_s
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:29:18+00:00	name	x_nathaliec887_s
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:29:18+00:00	last_login	2018-04-10T14:29:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:29:18+00:00	api_token	acad066de81206aaee51ca727bac1230
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:29:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbmF0aGFsaWVjODg3X3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIyNTU5LCJpYXQiOjE1MjMzNzA1NTksIm5vbmNlIjoiZjR2WEdjcjdvejdweTNfMlc4VV9OdkprRUVYNjkzV0JVWVl0QU1DdlBsbz0ifQ%3D%3D.2MjeNifaUyRF_eFRvPM5dgFO_Z-W9LIr9R_3EmmN26LksWDtAjGMmr26q13XYvyy-T0pZgrW3cbqzg9c88v2AA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:29:23+00:00	twilight-user	{%22authToken%22:%22iqcktzjxhzjcqcgv20oughtvkibs9s%22%2C%22displayName%22:%22x_nathaliec887_s%22%2C%22id%22:%22213266198%22%2C%22login%22:%22x_nathaliec887_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:29:23+00:00	auth-token	iqcktzjxhzjcqcgv20oughtvkibs9s

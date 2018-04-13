@@ -1,0 +1,14 @@
+#RanaRanjitSinl
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sL4HwdrIhz%2F742Pj%2FyHzicaDl1mYrhSl5qC4zVN6bW0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:05:42+00:00	unique_id	9d57b05e30595c59
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:05:42+00:00	_twitch_session_id	8ec443f30f5537707a57abe26965bb56
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:05:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:05:55+00:00	persistent	213824610%3A%3A0w1khw5wjjrni2640rvrco89fh1v1e
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:05:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjQ2MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxOTU1LCJpYXQiOjE1MjM1NjcxNTV9.tN99drfTmUuy4EwfBn_2SYfngCsGRt0K0cCtVw8FImw8EBPghJPCW3uUT-XZXMabnYVwTE9Gg5i_60d9ENChgQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:05:55+00:00	login	ranaranjitsinl
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:05:55+00:00	name	ranaranjitsinl
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:05:55+00:00	last_login	2018-04-12T21:05:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:05:55+00:00	api_token	0535e2ba69793224a0f224e2d8a667ce
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:05:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJhbmFyYW5qaXRzaW5sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExOTE1NSwiaWF0IjoxNTIzNTY3MTU1LCJub25jZSI6IkFhbjhLRGI1bGRjSFE4ZTczWXRJT0RENS1yZEJ0a1hDenA3VkJrM1NYTHc9In0%3D.07qUuGS6J0hyyrTuVDnyR3xNSwhFbbPK2zmOtHl2wWd6u62RXBeVYkijKuph0Tjwsw1sADG8eibjCgu87bI-MQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:06:08+00:00	twilight-user	{%22authToken%22:%22mtbcdbszdijxg7yjyom9pvr17ydzcr%22%2C%22displayName%22:%22ranaranjitsinl%22%2C%22id%22:%22213824610%22%2C%22login%22:%22ranaranjitsinl%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:06:08+00:00	auth-token	mtbcdbszdijxg7yjyom9pvr17ydzcr

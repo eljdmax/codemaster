@@ -1,0 +1,14 @@
+#b_sandersd94r_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	L%2Frr5Rl%2FbOCwwIkcLWbhCo%2FhFTvx75AwfYdOPPGWL24%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:31:40+00:00	unique_id	3ba0a04fed043f65
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:31:40+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:32:04+00:00	persistent	213489020%3A%3Aq57ppwkxxooavne3btuvqrau0t2z9a
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:32:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODkwMjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ3NTI1LCJpYXQiOjE1MjM0NDI3MjV9.ALuzA1TZ5nwvp_eVfuTluRxz3gtYvB0ftatGsZfGgztWBQ7XW5fbtT_YcnSNKlkIkRDG7dMYaur50HcZH6ezzQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:32:04+00:00	login	b_sandersd94r_g
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:32:04+00:00	name	b_sandersd94r_g
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:32:04+00:00	last_login	2018-04-11T10:32:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:32:04+00:00	api_token	f1cbfa5e16a5a6ef1dbd70fe413657ae
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:32:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc2FuZGVyc2Q5NHJfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTQ3MjUsImlhdCI6MTUyMzQ0MjcyNSwibm9uY2UiOiJldGVITHJmWUszRkJOMFdKb2RKeEl5QWFQRzVYTXdfMThXYUF1QUpkcVVnPSJ9.3WNfNjJ9k1tP3vcNXAxyQ24ziWYdGI6HOgy2zCh-rrLqCm19piivW9X3FX_hn4Klmzq4cSiyaGPydee5ku_VNw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	R7OJbkW23pCVYV7uHOABLq5emuckcYOn
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:32:20+00:00	twilight-user	{%22authToken%22:%227rx94czu85udqqm9l9umqkpdd2wwsj%22%2C%22displayName%22:%22b_sandersd94r_g%22%2C%22id%22:%22213489020%22%2C%22login%22:%22b_sandersd94r_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:32:20+00:00	auth-token	7rx94czu85udqqm9l9umqkpdd2wwsj

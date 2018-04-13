@@ -1,0 +1,14 @@
+#DawSawThein
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gK%2BHGSXHjjIq8SlWZJMuWS7Ak10D0EDSz2A9v%2BGD890%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:27:25+00:00	unique_id	173b453c42e0d13c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:27:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:27:46+00:00	persistent	213829120%3A%3Aocenxhy1wjh72hawyw6v3ktym3iqt9
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:27:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjkxMjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMjY3LCJpYXQiOjE1MjM1Njg0Njd9.ukeA0PiwzCzHZUv3gMlolhOY6yFbyvA8o4attLxQ4jrKcb6ZgsHaHo5k7Q-hL25ozj5Io3o8X6XJsQzVtoHgBw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:27:46+00:00	login	dawsawthein
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:27:46+00:00	name	dawsawthein
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:27:46+00:00	last_login	2018-04-12T21:27:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:27:46+00:00	api_token	b89daef90e9a52d518845dea084a5e52
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:27:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRhd3Nhd3RoZWluIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDQ2NywiaWF0IjoxNTIzNTY4NDY3LCJub25jZSI6IktoOGRkdWFtT3BtOWdqSXdBcE4yVURPUEVCYndaQWZLaWJNbDdUMXdIemM9In0%3D.mhF_GWn2uL93w2xVczl_WzXLj-mcXqpvgpZXGAC0p2DIkYufOzWb1s0HLKPUywakVnfnbKYaCgnDJMIqJw32nw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:01+00:00	twilight-user	{%22authToken%22:%22ugv5kno2x6ie8uf6smk960hot8tf0f%22%2C%22displayName%22:%22dawsawthein%22%2C%22id%22:%22213829120%22%2C%22login%22:%22dawsawthein%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:01+00:00	auth-token	ugv5kno2x6ie8uf6smk960hot8tf0f
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:03+00:00	twilight_onboarding	true

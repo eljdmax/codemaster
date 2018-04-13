@@ -1,0 +1,14 @@
+#e_sandersa09b_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xWq7ixXePENr%2BErGLda5Oh05wVUwA8yw3miLfjZ9j6E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:14:30+00:00	unique_id	e8b4b357924f92fd
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:14:30+00:00	_twitch_session_id	c5cbbf1477600293fd8a3cb6af87dfbe
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:14:42+00:00	persistent	213086899%3A%3Adq582cdgfvmz0kjy6twqtdhpabw34l
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:14:41+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODY4OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTU2ODIsImlhdCI6MTUyMzMxMjA4Mn0=.dHqO7EqCGAT9IuNNnKBoa81uzBpSbXRPnMH_HAFHWGS4MW9oKu6CaWu3H-DUQxu_SnlfxYan6hfC1tzRttzHvg==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:14:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODY4OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2ODgyLCJpYXQiOjE1MjMzMTIwODJ9.HK80Bs4BsZPow5bv5XL442GMhEfSMYtrTWPbQ2FyptNhn-iC8eadexdbSsmYwaX4F76PTv7KP7pTkXGkcuWfxg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:14:42+00:00	login	e_sandersa09b_x
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:14:42+00:00	name	e_sandersa09b_x
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:14:42+00:00	last_login	2018-04-09T22:14:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:14:42+00:00	api_token	a843f0fa212175c7ff021c468af39f0e
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:14:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfc2FuZGVyc2EwOWJfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQwODIsImlhdCI6MTUyMzMxMjA4Miwibm9uY2UiOiJlckd4aDRtSlppanh1bVJkU0ZKSDFYd2w2RW5TQ2tFNnFLdVhULVlXT2JvPSJ9.tzsz3pBoy8NrJHSN2j8SntuMHMSH4kSwmOu7OcVxU7CQyCBuYdF67cpewam8XSSYpfR8KyHgVzCIYHCJf3Jg1A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:14:41+00:00	twilight-user	{%22authToken%22:%22aomokiz92nnumztj4uoquq9uxa32yb%22%2C%22displayName%22:%22e_sandersa09b_x%22%2C%22id%22:%22213086899%22%2C%22login%22:%22e_sandersa09b_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:14:41+00:00	auth-token	aomokiz92nnumztj4uoquq9uxa32yb

@@ -1,0 +1,12 @@
+#a_natashab877_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	J5lg86K2%2BZERDZrFNSjKvcEkkUk8SHCtWeVnqcAPHSI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:24:30+00:00	unique_id	564525ffb38cce90
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:24:45+00:00	persistent	213278468%3A%3Avknryu91t7ylzly8695kqc9gvo2efl
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:24:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzg0NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc4Njg1LCJpYXQiOjE1MjMzNzM4ODV9._3bRgNtYFzJIHryZ9gQwtnmdxoWh4alT_bYhOVGWyePff0Vv5R-xrG5X4VVzbHvAAk4uDfLB-F8psGN6mrjuvg==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:24:45+00:00	login	a_natashab877_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:24:45+00:00	name	a_natashab877_g
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:24:45+00:00	last_login	2018-04-10T15:24:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:24:45+00:00	api_token	572c8d147bc91646e6c3267e94a83720
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:24:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0YXNoYWI4NzdfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjU4ODUsImlhdCI6MTUyMzM3Mzg4NSwibm9uY2UiOiJHM0FpcVdJZG5La2o1dTctcTl6a29KZ1lFUTdqLUtmOFVSN25YampfSFZjPSJ9.R3DiSXXOaBCN4YvUicGcMofMNFDqOURkQCFipRfmWSe6-NEheNqkBzjxix54iV8EgKk-5ZZ_NhXX9LdoEwDXdg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:24:47+00:00	twilight-user	{%22authToken%22:%22h06m0wmuxq8of0oc5bq6p0txpcb4n6%22%2C%22displayName%22:%22a_natashab877_g%22%2C%22id%22:%22213278468%22%2C%22login%22:%22a_natashab877_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:24:47+00:00	auth-token	h06m0wmuxq8of0oc5bq6p0txpcb4n6

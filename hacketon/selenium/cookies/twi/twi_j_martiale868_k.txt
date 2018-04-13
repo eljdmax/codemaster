@@ -1,0 +1,15 @@
+#j_martiale868_k
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:05:26+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-11T11:05:21+00:00	unique_id	90a13c38ef80b344
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:05:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QJLGUnctZG%2ByKwIZSCUuDL8xIWXwJuS%2F9FeUDTwIzXc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-11T23:08:53+00:00	_twitch_session_id	80c7d305dee506d43b9ee5a7a338c4a3
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:09:28+00:00	persistent	213492795%3A%3Al410k6h2c71kgmo4nv9qqg6bjagevl
+.twitch.tv	TRUE	/	TRUE	2018-04-18T11:09:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTI3OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ5NzY4LCJpYXQiOjE1MjM0NDQ5Njh9.n7r9h2H-9idiDKuIvvhB6JtA43-hw2gOi8k35dnnNt1LluVqqGRwdBS1jD4Cf5skcCDfX7s-kJFy2Laux7CGQw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:09:28+00:00	login	j_martiale868_k
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:09:28+00:00	name	j_martiale868_k
+.twitch.tv	TRUE	/	FALSE	2018-09-26T11:09:28+00:00	last_login	2018-04-11T11:09:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T11:09:28+00:00	api_token	0d70ed42c6467d338e940f6357766846
+.twitch.tv	TRUE	/	TRUE	2018-10-08T11:09:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFydGlhbGU4NjhfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5OTY5NjgsImlhdCI6MTUyMzQ0NDk2OCwibm9uY2UiOiJuT1Bxam52LTlnSVNGeEhCel9zRF9YZlhaVU10NHRyNjkxeTF3cFhCZTc4PSJ9.u5-jRTMSk-irKMlTPyNdYcJ0bomigXUxYG4A3w1SHRP4zYfZrrYOVATZIc1hyPssEBEDYpokVe-mslG6Un_5Dw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:09:36+00:00	twilight-user	{%22authToken%22:%22knlehkgy4xj0zs7q6zhenvx09f9gds%22%2C%22displayName%22:%22j_martiale868_k%22%2C%22id%22:%22213492795%22%2C%22login%22:%22j_martiale868_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T12:09:36+00:00	auth-token	knlehkgy4xj0zs7q6zhenvx09f9gds

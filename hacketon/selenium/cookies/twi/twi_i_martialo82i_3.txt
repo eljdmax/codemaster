@@ -1,0 +1,13 @@
+#i_martialo82i_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HpFYOgy7QNJkeyj7eYiZUpZ3AoG1FS6UJ%2FRe1z9jdwc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:19:22+00:00	unique_id	9969fbe7308e0598
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:19:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:19:43+00:00	persistent	213501313%3A%3Aav9hg1ooey39ojjt12jt1uqnr2lst9
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:19:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDEzMTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzOTg0LCJpYXQiOjE1MjM0NDkxODR9.5IYDcpS_pgXQ7uW_vXTmohhOnaCDYFd7oZu_LFDw6f_LWGzcc_7lBWG32zjquda6X2cSJAtqMFeIP2ufsIrgCg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:43+00:00	login	i_martialo82i_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:43+00:00	name	i_martialo82i_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:19:43+00:00	last_login	2018-04-11T12:19:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:19:43+00:00	api_token	512f0d6cd4cc79ef6aff70cc5126c612
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:19:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFydGlhbG84MmlfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDExODQsImlhdCI6MTUyMzQ0OTE4NCwibm9uY2UiOiJBSzdqZ3gwb3hrZ2JhdGpDRFJGcmU2YVo5WmUtU2dZR0R3Z2Ffc2RyRnpvPSJ9.9e14GUCu9jRsgAzk-ie6S33cpzr5mhmM2YPhof-xw7I_-tyWjnpsq0WcsuusaCN4H_n18okY3Vw-3A4ixf9fKA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:19:51+00:00	twilight-user	{%22authToken%22:%22xx6k1io2890lnugs4p40htcvstnxa4%22%2C%22displayName%22:%22i_martialo82i_3%22%2C%22id%22:%22213501313%22%2C%22login%22:%22i_martialo82i_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:19:51+00:00	auth-token	xx6k1io2890lnugs4p40htcvstnxa4

@@ -1,0 +1,13 @@
+#TjahyonoASigit6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zpZM1aqeHo5JJDWRbDoJnRtsyPPcedwxUavGji6C690%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:13:35+00:00	unique_id	79b6cd06b9409b8f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:13:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:14:09+00:00	persistent	213826201%3A%3A8gau0nxyy6hth0081gsee5z3uvz4g4
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:14:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjYyMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyNDQ5LCJpYXQiOjE1MjM1Njc2NDl9.CSHKJo3BmcHZNfJGtEpuqEaeCxyoW_mAkIOThK8s-6pTqgC5sA3eUEWSKc3DkHMtDOpa9p2x-ZsObQOr2oHY1w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:14:09+00:00	login	tjahyonoasigit6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:14:09+00:00	name	tjahyonoasigit6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:14:09+00:00	last_login	2018-04-12T21:14:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:14:09+00:00	api_token	3cb6197843ce325d8a800f89eed24294
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:14:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRqYWh5b25vYXNpZ2l0NiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTk2NDksImlhdCI6MTUyMzU2NzY0OSwibm9uY2UiOiJoUDNOeHdZeGt0bGxvSjdPQlFaMWNOZU15cUx5TUR6WnB5T2pqYmxtMWl3PSJ9.Uklqx_YC8ZRFiAhhdu5W-kmVjW45Yuxqvx1RWxYnezP3UHYRaFsWH4b2_bg5TYR33ZVcjD4BpJ0GAmhEccTdTg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:14:23+00:00	twilight-user	{%22authToken%22:%22wy1bc3mteunfs94injd0bjk7erw663%22%2C%22displayName%22:%22tjahyonoasigit6%22%2C%22id%22:%22213826201%22%2C%22login%22:%22tjahyonoasigit6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:14:23+00:00	auth-token	wy1bc3mteunfs94injd0bjk7erw663

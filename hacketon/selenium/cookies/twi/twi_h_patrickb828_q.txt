@@ -1,0 +1,12 @@
+#h_patrickb828_q
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:40:12+00:00	unique_id	83b346397eaa0625
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Pf33mhoGKCASxRNUKcdOpcNDEASzcRDiL%2BVsUB00HNA%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:42:44+00:00	persistent	213256496%3A%3Abzcetv8lryl3nsgwkvplkc5zq82olp
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:42:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTY0OTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTcyNTY0LCJpYXQiOjE1MjMzNjc3NjR9.O7bQ3vhi7ovTnArCfAN6I1g-gIMU_J4aAF8_NA7ExaAordCfTefyujJ4SzBd3Zk4-oQXV55TjklMzXAwT-L40g==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:42:44+00:00	login	h_patrickb828_q
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:42:44+00:00	name	h_patrickb828_q
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:42:44+00:00	last_login	2018-04-10T13:42:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:42:44+00:00	api_token	27eda49c542d72b7e0b3773685d8afa3
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:42:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfcGF0cmlja2I4MjhfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MTk3NjQsImlhdCI6MTUyMzM2Nzc2NCwibm9uY2UiOiIzdUlCQ3RGLTRwcjZYR1RlTV9Od0pockR5MzdDOVhYMTl2Z2ZDZm4zOUZzPSJ9.aGV9-r0-0H1cjD3ksgLwjtwIIVdkFnoTVK_s-yESa3mEUt0JB73amlTek43kijFvUD_4fNrE2bIVBs4flH3SSQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:42:49+00:00	twilight-user	{%22authToken%22:%22d87p3mdifmvhj0teu083bcwyt6ubas%22%2C%22displayName%22:%22h_patrickb828_q%22%2C%22id%22:%22213256496%22%2C%22login%22:%22h_patrickb828_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:42:49+00:00	auth-token	d87p3mdifmvhj0teu083bcwyt6ubas

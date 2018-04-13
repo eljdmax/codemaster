@@ -1,0 +1,13 @@
+#n_natashaa987_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jWGBNOFgxebEGk2JaAgzJa3jtJmJlZo43c327wbt%2FUc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:56:58+00:00	unique_id	4294bf423239224d
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:57:25+00:00	persistent	213285954%3A%3Aq2ni5ocby4nc3us3f8osuystq525hj
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:57:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyODU5NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTgwNjQ1LCJpYXQiOjE1MjMzNzU4NDV9.-KhhHvuGem3QorU70TVqrsCqhp5FkU5D-KIJ5iqKBBNrVnJ_9jVsFTl4U0v-Hrsm_l1u4lThOyXCSXKFRJ-VMw==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:57:25+00:00	login	n_natashaa987_9
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:57:25+00:00	name	n_natashaa987_9
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:57:25+00:00	last_login	2018-04-10T15:57:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:57:25+00:00	api_token	66b3a92ce93a0d3be65c3109fd8e949a
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:57:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbmF0YXNoYWE5ODdfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5Mjc4NDUsImlhdCI6MTUyMzM3NTg0NSwibm9uY2UiOiJMRGgxa1htQm5QVjItNmthTFdRdDlPTFpaeHFVdnR6NDM4UGdMWGVHY3BjPSJ9.UuulbdrJAv1O2QgmsvjWkZRiAMjbVjQOO1C5P43E4xd8P8bYmlDZKQ_pWFR8hqYtmxVMAdyvD69IE1VdDgy2FQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:57:30+00:00	twilight-user	{%22authToken%22:%225jbyuln469oywyrrpuo1018q1hl0f5%22%2C%22displayName%22:%22n_natashaa987_9%22%2C%22id%22:%22213285954%22%2C%22login%22:%22n_natashaa987_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:57:30+00:00	auth-token	5jbyuln469oywyrrpuo1018q1hl0f5
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:57:31+00:00	twilight_onboarding	true

@@ -1,0 +1,13 @@
+#s_nathaliee43x_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	owrw524IWkURJqpOvBoCmH3MG9AAl5w7fdCak0FvdA0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:56:31+00:00	unique_id	dedc233fbcd58c6d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:56:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:57:10+00:00	persistent	213491489%3A%3Abjwvokvlme0i271y8szr2lp82p1e89
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:57:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0OTE0ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ5MDMwLCJpYXQiOjE1MjM0NDQyMzB9.ESrqEkvwJskZYKSEOaxNX-aaWVHhoszwAGrV7UZxhArJLBn3FWWlBroEULy-CyF_GUrPya0LgnrRiOAh2aohfQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:57:10+00:00	login	s_nathaliee43x_j
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:57:10+00:00	name	s_nathaliee43x_j
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:57:10+00:00	last_login	2018-04-11T10:57:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:57:10+00:00	api_token	945715233c5806df99f663bff60db771
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:57:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbmF0aGFsaWVlNDN4X2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk2MjMwLCJpYXQiOjE1MjM0NDQyMzAsIm5vbmNlIjoiVlU5ZU9VeDBoWnZ3Sl9xMXlvMmZUOUNBSTlQbjExWXZFV3N1RXpVVFVrND0ifQ%3D%3D.wWYGsevKK5FRtS-T3jQM2EjQvbZcrYCQ-KAVg4Z3B81sv0kcsPtw5pYt-1ekXBUAO_m8Ke7abSOEJfteRaVHaQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:57:17+00:00	twilight-user	{%22authToken%22:%220c9ljhxgpydcb4d0kbai0vmgcor619%22%2C%22displayName%22:%22s_nathaliee43x_j%22%2C%22id%22:%22213491489%22%2C%22login%22:%22s_nathaliee43x_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:57:17+00:00	auth-token	0c9ljhxgpydcb4d0kbai0vmgcor619

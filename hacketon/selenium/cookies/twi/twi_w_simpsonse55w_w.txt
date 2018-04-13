@@ -1,0 +1,13 @@
+#w_simpsonse55w_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6bVVHQqIVEzLEQikJG2oBH0kTq1fHIxFIjv%2BVOyBsEg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:26:13+00:00	unique_id	c5db16208b1b44b1
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:26:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:26:43+00:00	persistent	213488537%3A%3Auo1vddqdzoztforskgr777zjybisou
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:26:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODg1MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ3MjAzLCJpYXQiOjE1MjM0NDI0MDN9.vP0xE_oxlGnFbMJKYp5Atan2IU3cVVkCEMiZLeS6znLZUigIT0g01xvQo_MzLAHfssCqqF7sh_lkJh6zmiVaAg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:26:43+00:00	login	w_simpsonse55w_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:26:43+00:00	name	w_simpsonse55w_w
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:26:43+00:00	last_login	2018-04-11T10:26:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:26:43+00:00	api_token	021eb8527d09282115b73073ba5aa74d
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:26:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfc2ltcHNvbnNlNTV3X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk0NDAzLCJpYXQiOjE1MjM0NDI0MDMsIm5vbmNlIjoid0VVdzFXYW5fME1SZThwaFlWbERxYkhKcE1sYUVuaHpjY2wzUXIxcVpWMD0ifQ%3D%3D.laT2VQQ2tyYTV0r4kv1jwZx45sN57NYwUwnmW6sCeyZlZMysPgCRRZx0T-40t1lsduBfWWsCCF449B5YJiC4lA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:26:50+00:00	twilight-user	{%22authToken%22:%223spflhfah354e1vly4212mdmmiipkq%22%2C%22displayName%22:%22w_simpsonse55w_w%22%2C%22id%22:%22213488537%22%2C%22login%22:%22w_simpsonse55w_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:26:50+00:00	auth-token	3spflhfah354e1vly4212mdmmiipkq

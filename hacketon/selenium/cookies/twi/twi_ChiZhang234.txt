@@ -1,0 +1,13 @@
+#ChiZhang234
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RjvJWESFFeZO1BYvqco3fJJMSe2s2FTX2NklokDgzq8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:54:40+00:00	unique_id	8b8be66692d7cfb5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:54:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:55:04+00:00	persistent	213835221%3A%3Ai6bxh1yayk942dayr7zc46ivz043jx
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:55:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzUyMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0OTA1LCJpYXQiOjE1MjM1NzAxMDV9.zZajuHher2cPfsC_iHRaAIkuzSRuQPlUZjbRibegyy2tMQF82a5mPPBDeLBSMh5Nx3K1IPxImEVkms74VNZl8g==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:55:04+00:00	login	chizhang234
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:55:04+00:00	name	chizhang234
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:55:04+00:00	last_login	2018-04-12T21:55:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:55:04+00:00	api_token	ca68a9c35e1151b8809be7d0e3023e87
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:55:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNoaXpoYW5nMjM0IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMjEwNSwiaWF0IjoxNTIzNTcwMTA1LCJub25jZSI6InZRaVExQTRndDhhMkwyT1ZkTDA1SkJ6SnA4dHE0Z1pzWjFrdlRCdkhSM2M9In0%3D.nvB9LHSwPPzl-X4LuF4QytjbdvdFrdZDM8OMPNNxfNSsZzJyIHTbT02ddPmwLL8CWkC8iRsqOKy8WA0x9ZTpTQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:55:18+00:00	twilight-user	{%22authToken%22:%22r2vbmzvr5r1q72kv70hlgzfcdw876o%22%2C%22displayName%22:%22chizhang234%22%2C%22id%22:%22213835221%22%2C%22login%22:%22chizhang234%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:55:18+00:00	auth-token	r2vbmzvr5r1q72kv70hlgzfcdw876o

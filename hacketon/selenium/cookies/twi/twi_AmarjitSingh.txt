@@ -1,0 +1,13 @@
+#AmarjitSingh
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PO5NOrFYrbt5ZMD2yjs%2FLctfbOOYjRx8VJRh5w8Xbto%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:05:09+00:00	unique_id	5c2dfa1d5b952581
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:05:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:05:31+00:00	persistent	213824530%3A%3Aixyq4t1q6nvy4mdwwgmnia0l3jve68
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:05:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjQ1MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxOTMyLCJpYXQiOjE1MjM1NjcxMzJ9.W1LsOrW3td6DLi30vc8qXZk-2SRIzaS1R8nfeH8UaXLJecjApWDDH9cRGmVL-Uu6RFip7wE9Kr00k4jXdfHzoA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:05:31+00:00	login	amarjitsingh4
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:05:31+00:00	name	amarjitsingh4
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:05:31+00:00	last_login	2018-04-12T21:05:32Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:05:31+00:00	api_token	18ca7d1f7397d8e9d62ff7f74a1c35f2
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:05:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFtYXJqaXRzaW5naDQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE5MTMyLCJpYXQiOjE1MjM1NjcxMzIsIm5vbmNlIjoiR21MOXBiX1htYWRJYVpPcnZ3TUhGNV9wTkluQUszMkRBcE1yNU9yby1jND0ifQ%3D%3D.IrMHJHf161BliJKDfMY8w2WOLkqkkJijTR8mv4jEJ1Rx1iF5ZaHzupEsYXgN906AmVIqk7OtnDPCjGe46rneBg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:05:47+00:00	twilight-user	{%22authToken%22:%22mcreemcqz8losgjhj3zg0zngtdme2d%22%2C%22displayName%22:%22amarjitsingh4%22%2C%22id%22:%22213824530%22%2C%22login%22:%22amarjitsingh4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:05:47+00:00	auth-token	mcreemcqz8losgjhj3zg0zngtdme2d

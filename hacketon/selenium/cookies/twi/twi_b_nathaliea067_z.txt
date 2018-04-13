@@ -1,0 +1,13 @@
+#b_nathaliea067_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1rS%2F5sTwmqjwqbe0ngQktXEHh1rG9t7Z%2B8C%2BnUZtp5Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:32:45+00:00	unique_id	536436d5fbfdff6c
+.twitch.tv	TRUE	/	TRUE	2018-04-10T21:32:45+00:00	_twitch_session_id	a321a20081bc2377627b362e13f84070
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:33:13+00:00	persistent	213219075%3A%3A0bcifdegwb180dbgqh9pyz8fzu46wp
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:33:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMTkwNzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU3NTk0LCJpYXQiOjE1MjMzNTI3OTR9.bElesxum1ytPflLctyTYgUCA9nZ4WDlvxyYH1nCB3RciHnrEXiYEiXeHX3deg8bngBSCS6folGoDza7ITGQ1Ag==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:33:13+00:00	login	b_nathaliea067_z
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:33:13+00:00	name	b_nathaliea067_z
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:33:13+00:00	last_login	2018-04-10T09:33:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:33:13+00:00	api_token	d946f63704e9b5bfbe9863d37c2f1516
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:33:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbmF0aGFsaWVhMDY3X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTA0Nzk0LCJpYXQiOjE1MjMzNTI3OTQsIm5vbmNlIjoiYXh6LVFVSnpsUDA5RTdYUWtDT2dtdG5YZlJLc3pmLWtjWFk1RHV1dXV0ST0ifQ%3D%3D.qWaBQB8eJu5DrpGriM2USAGxsqZqLY2GV-QMr2YFOOYVuAHNd0qqgb3q_6UQ1ea3ekpB1iq6uOrTlTuvTHPevQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:33:16+00:00	twilight-user	{%22authToken%22:%22680x3p8m1udcojw2zcgahbna1hj5c6%22%2C%22displayName%22:%22b_nathaliea067_z%22%2C%22id%22:%22213219075%22%2C%22login%22:%22b_nathaliea067_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:33:16+00:00	auth-token	680x3p8m1udcojw2zcgahbna1hj5c6

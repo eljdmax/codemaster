@@ -1,0 +1,15 @@
+#VinayakNageshSh
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UuoZ%2F9bYH85FQcWuLdYxCEHLdJZ8kh%2FjnkGTjiFY%2FW4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:19:56+00:00	unique_id	e2fd08632156b3be
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:19:56+00:00	_twitch_session_id	2162a5e5c67ad54eb1c7fc43587b4a19
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:19:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:20:21+00:00	persistent	213827441%3A%3A743ve3fl1o1wpbs19arr40topqnyr6
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:20:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4Mjc0NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyODIyLCJpYXQiOjE1MjM1NjgwMjJ9.Qg4vyqoq6eeumpR2MIBZvmBorZUjzNZTM3WTHIa9xAYmeBkqM74XRun93VLvwTKhbX-c0LpaUVj10knD-qFbCQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:20:21+00:00	login	vinayaknageshsh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:20:21+00:00	name	vinayaknageshsh
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:20:21+00:00	last_login	2018-04-12T21:20:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:20:21+00:00	api_token	b0560436b12ad6acc804f0194db5b460
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:20:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZpbmF5YWtuYWdlc2hzaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjAwMjIsImlhdCI6MTUyMzU2ODAyMiwibm9uY2UiOiJpcHN0WC1HT3cwZDdpdHpZaFNiVGVWcXBKdzdxT2dnNHJmekNJcjR4Qm1NPSJ9.nArWNoDddHhskVh0Y_re2EfZse_NUgbqK2jkL4olELHVDb3ymzEm_pBkXPafwe2JGx9uM8ktCYJtmFsPf71pXg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:20:34+00:00	twilight-user	{%22authToken%22:%22tfzol158dxctk49niejv5i2b59frv1%22%2C%22displayName%22:%22vinayaknageshsh%22%2C%22id%22:%22213827441%22%2C%22login%22:%22vinayaknageshsh%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:20:34+00:00	auth-token	tfzol158dxctk49niejv5i2b59frv1
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:20:37+00:00	twilight_onboarding	true

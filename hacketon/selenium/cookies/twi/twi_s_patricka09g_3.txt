@@ -1,0 +1,13 @@
+#s_patricka09g_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zbEm70ax0j2OB%2BLe4kDPJdO5OoxPHmrqkaiYmX46nhQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:49:06+00:00	unique_id	3b7769fa4f61581c
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:49:19+00:00	persistent	213094671%3A%3Aeur2nausoh3ypci3imgys8sg29y927
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:49:20+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTQ2NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTc3NjAsImlhdCI6MTUyMzMxNDE2MH0=.I30ke84bfxNK1Bf7cffHfDdvysoWNlKOqrZZfy7zgvKP6wkRovp5vmj_7dlWHftPhjEOsiKsUAqdJqXJO_t5AQ==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:49:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTQ2NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4OTYwLCJpYXQiOjE1MjMzMTQxNjB9.6ZUBbmqRRV4ekfzRRw0pgGl2Eg2uZrTqtvZaE0IoQnCAT29FFfuX91EYXeRl9AwR4TP18A4tpLwO4FOdPb8TWw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:49:19+00:00	login	s_patricka09g_3
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:49:19+00:00	name	s_patricka09g_3
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:49:19+00:00	last_login	2018-04-09T22:49:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:49:19+00:00	api_token	217209047c9aec981c9332df79b714f6
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:49:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfcGF0cmlja2EwOWdfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjYxNjAsImlhdCI6MTUyMzMxNDE2MCwibm9uY2UiOiJScmg0cDhTQnZaT3pOMEI2VmZESExlcXZOU0U5RldzOGY1QUFLbkZfVXp3PSJ9.btSOe0YTqQ7qYB9-UXb4ztXuVr6e2uj9w3bHlvoauC_g5DwJZm2H2TkZWl3VOC98knGZA2e9ctupvcGJ3eCRow%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:49:20+00:00	twilight-user	{%22authToken%22:%22p6cobbcochdzq0js1r1nkkip84qme0%22%2C%22displayName%22:%22s_patricka09g_3%22%2C%22id%22:%22213094671%22%2C%22login%22:%22s_patricka09g_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:49:20+00:00	auth-token	p6cobbcochdzq0js1r1nkkip84qme0

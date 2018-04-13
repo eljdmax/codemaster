@@ -1,0 +1,14 @@
+#e_martialj12v_4
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM0NTIzOTgsIm52IjowLCJ1cHQiOjE1MjM0NTIzODksImx0IjoxNTIzNDUyMzg5fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3k1W%2Bfk%2FZODWPbhY%2FWyP6rnew%2FeoeI%2FlNn70FiIa%2BkE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:16:42+00:00	unique_id	00f13947856d3be7
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:16:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:17:13+00:00	persistent	213500995%3A%3A3uomum2woww7cgjz91nc85edsucdl8
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:17:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDA5OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDUzODM0LCJpYXQiOjE1MjM0NDkwMzR9.3kDkVYrSqJYlgd2Ehepw7dPee1woQ8yjZf3V5FcK06CJOjEfrgyrTPHVa_X7Ur0AIeCevync6oC27RxJOrE_4Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:17:13+00:00	login	e_martialj12v_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:17:13+00:00	name	e_martialj12v_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:17:13+00:00	last_login	2018-04-11T12:17:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:17:13+00:00	api_token	e3e9015d0bd6ea72b3ae9a56d834fc06
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:17:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWFydGlhbGoxMnZfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDEwMzQsImlhdCI6MTUyMzQ0OTAzNCwibm9uY2UiOiJteXI2ZDYtOVJvOVBRbUlidkhJaVVPanBpLWN6TW40WlRDWUtnU3JJaFpzPSJ9.eiQDngFIL88ql5lIDDnkbwDT2hYXYbtHEBv-3840MTj4l0iE1gfL-tnTiLcanxNz-UyUb97HWnXgSsaIM4Xxhg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:17:22+00:00	twilight-user	{%22authToken%22:%22adakqhv1xqjd9idhfp7eikb024pn4j%22%2C%22displayName%22:%22e_martialj12v_4%22%2C%22id%22:%22213500995%22%2C%22login%22:%22e_martialj12v_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:17:22+00:00	auth-token	adakqhv1xqjd9idhfp7eikb024pn4j

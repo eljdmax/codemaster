@@ -1,0 +1,13 @@
+#XiaohuiWang
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9jTlMNBikbMH825GuIwNJvpT9VlmaI%2BkWyXL%2BkJL1c8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:46:30+00:00	unique_id	6dd548fab2cea84a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:46:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:46:57+00:00	persistent	213833433%3A%3Abru2sagvpqb1jc16pi6uteei28p79i
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:46:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzM0MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0NDE3LCJpYXQiOjE1MjM1Njk2MTd9.ooUBeWQVgoLHRpbQL_wnmqTpJCWrCG-TjW9ckPGNgIyYOOXr5ZxlZH6vNot4KBHDKmWE7OuJ3H3Kf3SuvsO7tw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:46:57+00:00	login	xiaohuiwang
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:46:57+00:00	name	xiaohuiwang
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:46:57+00:00	last_login	2018-04-12T21:46:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:46:57+00:00	api_token	bea23986ce23c8e87883f92505b42157
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:46:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhpYW9odWl3YW5nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMTYxNywiaWF0IjoxNTIzNTY5NjE3LCJub25jZSI6Im1KTW1MZVBzSXkyVHJlaF9aSGtsSjZWQldqZmZ5ZnNFYzlXRUFjaEdHbFk9In0%3D._dElkeDK3KuX83hCcxt_6X5VNX0aAF1BsjG6VQz3nP2_d-dUAurV8paLPsEFvwbhkOxhWpg_OsmPxoqkDOg-bA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:47:10+00:00	twilight-user	{%22authToken%22:%22nxkmcmlr9xg8vjmwo46nwfepejydgp%22%2C%22displayName%22:%22xiaohuiwang%22%2C%22id%22:%22213833433%22%2C%22login%22:%22xiaohuiwang%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:47:10+00:00	auth-token	nxkmcmlr9xg8vjmwo46nwfepejydgp

@@ -1,0 +1,13 @@
+#t_nathalieb16f_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sBg016KymrG2LLQZsoDgdzvrZtOSABvzACjD8txS7%2Fk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:25:16+00:00	unique_id	b86684c223d6d820
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:25:16+00:00	_twitch_session_id	3a0ecbaa1060ff58729cf7ff4aaae31d
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:25:40+00:00	persistent	213265381%3A%3A659ze2s5q4qr3ngpdbl4qnol8q80r0
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:25:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjUzODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc1MTQxLCJpYXQiOjE1MjMzNzAzNDF9.KRVK-4DZbnwzFuT4dzti-V5CSAByLU4o3PJ3uOsF8210fwgWgrk02wBjSijDcGIImdcDiHrQA4NiZ80_vaZP9w==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:25:40+00:00	login	t_nathalieb16f_p
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:25:40+00:00	name	t_nathalieb16f_p
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:25:40+00:00	last_login	2018-04-10T14:25:41Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:25:40+00:00	api_token	211706f78701565b56b27681bb01a8fb
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:25:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbmF0aGFsaWViMTZmX3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIyMzQxLCJpYXQiOjE1MjMzNzAzNDEsIm5vbmNlIjoiU2ZIclZJckRlSnFRU285Q2JHSF9vWEhKV3ZjUkFQaDVlMFNmSDUyd1otVT0ifQ%3D%3D.GGyq14B5U_ztKWLbR3ImbNDCdneZ0Li1CEIhg_iE_G9FSAlwJNluqn5jbC-52ceOEArIFjpwrzsuobwBTZJGAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:25:44+00:00	twilight-user	{%22authToken%22:%22uub4sdperee6gssu4icxhmfc8acfi7%22%2C%22displayName%22:%22t_nathalieb16f_p%22%2C%22id%22:%22213265381%22%2C%22login%22:%22t_nathalieb16f_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:25:44+00:00	auth-token	uub4sdperee6gssu4icxhmfc8acfi7

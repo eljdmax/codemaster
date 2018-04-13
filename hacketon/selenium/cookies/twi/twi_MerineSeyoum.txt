@@ -1,0 +1,14 @@
+#MerineSeyoum
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	V%2BDxi0VEs4ZNZ0smWwQQ5sntfr%2BXvAhlt9ryK1gSLLY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:58:57+00:00	unique_id	2a4469780e9e929a
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:58:57+00:00	_twitch_session_id	980e16a1c072e5106d7daa89a488d1de
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:58:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:59:20+00:00	persistent	213823293%3A%3A5a5mrmqbgum4rkdl33g4r9l5nqmxjr
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:59:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjMyOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxNTYwLCJpYXQiOjE1MjM1NjY3NjB9.Ch4Yg5FU5PcBkoAuPrMRYxtkubNc6DzRLMrVDrChu4yQ550-6jNAGz2CrqxiscE78lqMnlG8JKYTbtn8w5sZEQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:59:20+00:00	login	merineseyoum
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:59:20+00:00	name	merineseyoum
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:59:20+00:00	last_login	2018-04-12T20:59:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:59:20+00:00	api_token	838037eea6913e1ed5a000dd43edaf6d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:59:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1lcmluZXNleW91bSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTg3NjAsImlhdCI6MTUyMzU2Njc2MCwibm9uY2UiOiJZMW8zT1FvQzJUTjlrNWhWcXZvX0pJQjhGb1RDZHBod3BnZENwWThadllZPSJ9.2NUc8JL9P_MIHfifFilJOHzYSzof28t1Q-FqoFd4JSqO0Fty5Zx5YwIJ0FvZfgJfMdTvaH5wYXrK37e0UdK9FQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:59:36+00:00	twilight-user	{%22authToken%22:%22zs68hbtmgvy4508cf4iwcla5b0u26x%22%2C%22displayName%22:%22merineseyoum%22%2C%22id%22:%22213823293%22%2C%22login%22:%22merineseyoum%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:59:36+00:00	auth-token	zs68hbtmgvy4508cf4iwcla5b0u26x

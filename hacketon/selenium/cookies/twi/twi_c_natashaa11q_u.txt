@@ -1,0 +1,14 @@
+#c_natashaa11q_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HIQmETdyj3LV07GLswNHnKLsGsRVLYiJNRfoAMNrZpw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:37:08+00:00	unique_id	2d4b19c30e77ad0b
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:37:08+00:00	_twitch_session_id	71cc932d9729333f0d153002abc21bbc
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:37:29+00:00	persistent	213092046%3A%3Aumpzhxyl0kbqh16ljs6ozqsvwxfxl3
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:37:30+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTIwNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTcwNTAsImlhdCI6MTUyMzMxMzQ1MH0=.q1Camclhqw7zXBHzH7sRIbOviKds4ZNEvn3vyVOeOA8VYHHSjqh9GU-jgNscibmCUP8bg556l8oGNT0ZkDdw0A==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:37:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTIwNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE4MjUwLCJpYXQiOjE1MjMzMTM0NTB9.qdwVJQ8dOsn9d-8E-fjk_MfwQyztOcnufSod2OGyiXktPO0VeTfiz6To9seNMPLDhilo1ywHkj9YiVKKTYd89Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:37:29+00:00	login	c_natashaa11q_u
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:37:29+00:00	name	c_natashaa11q_u
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:37:29+00:00	last_login	2018-04-09T22:37:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:37:29+00:00	api_token	e2404e837f31616764879b973ddab803
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:37:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbmF0YXNoYWExMXFfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjU0NTAsImlhdCI6MTUyMzMxMzQ1MCwibm9uY2UiOiJEemgtUnVHclBKTTVvY1dHendjOU1jNEFDYW9VVU1DbTJibjIwTVhGLU5nPSJ9.iYuTL87gzbkGcOe8McVQsKxihg58yzZ2GMhyE63tgyv92izBH1BAiTA-nm2xZeXU7GSCO6Bc0-W10DI0PkEf8Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:37:32+00:00	twilight-user	{%22authToken%22:%22ejo5akyn445r3dbu1p5gfkvl7d3ii1%22%2C%22displayName%22:%22c_natashaa11q_u%22%2C%22id%22:%22213092046%22%2C%22login%22:%22c_natashaa11q_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:37:32+00:00	auth-token	ejo5akyn445r3dbu1p5gfkvl7d3ii1

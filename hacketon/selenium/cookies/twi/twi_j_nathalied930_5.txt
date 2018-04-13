@@ -1,0 +1,14 @@
+#j_nathalied930_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xyO3fBr7%2FkBnE67ZU5dDUtO%2BNfzrnPg0vw5DeNcVzBE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T10:20:56+00:00	unique_id	3dc90c807444b67e
+.twitch.tv	TRUE	/	TRUE	2018-04-11T22:20:56+00:00	_twitch_session_id	f01bf9cd192f83139c79fb4f1d5a40d0
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:20:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:21:17+00:00	persistent	213488067%3A%3Av7ak28p9g2mcxy1tynjlx09lt4bf9l
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:21:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM0ODgwNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDQ2ODc3LCJpYXQiOjE1MjM0NDIwNzd9.OdrVP2odzOkPK7YurgQS4vcs1XotmKW2e-OMqMp_FYVDHXJAdNTq9M6RwWM1PJP7rUCm-uvHPNrEjujEDr8GmQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:21:17+00:00	login	j_nathalied930_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:21:17+00:00	name	j_nathalied930_5
+.twitch.tv	TRUE	/	FALSE	2018-09-26T10:21:17+00:00	last_login	2018-04-11T10:21:17Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T10:21:17+00:00	api_token	9c00a7a012070a6fbf8c5b04b20f65c9
+.twitch.tv	TRUE	/	TRUE	2018-10-08T10:21:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbmF0aGFsaWVkOTMwXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTk0MDc3LCJpYXQiOjE1MjM0NDIwNzcsIm5vbmNlIjoiMTBac1NNYk1Dd1ZzX0RINzZWOEpqVjhsVThJTFpxeHZ4cFE5MUxFaXF1cz0ifQ%3D%3D.r_rBhvs0xCu4aUyyr1rMYhRjnvhtfikyrU33-GBoLVpxcleoQWj08GFel0HeKtJYwKL5oFrcit_6LP1jtACjFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:21:25+00:00	twilight-user	{%22authToken%22:%22fl2bj1b2wxyo19nfoup2ufr81dld0d%22%2C%22displayName%22:%22j_nathalied930_5%22%2C%22id%22:%22213488067%22%2C%22login%22:%22j_nathalied930_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T11:21:25+00:00	auth-token	fl2bj1b2wxyo19nfoup2ufr81dld0d

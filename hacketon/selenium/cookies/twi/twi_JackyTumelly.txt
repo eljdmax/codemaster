@@ -1,0 +1,14 @@
+#JackyTumelly
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cidMWW1s7CkEq6AviEiNoPdh23HyhKWE8bua42OF%2Bng%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:26:07+00:00	unique_id	9116010c73850533
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:26:07+00:00	_twitch_session_id	dd62e02df972e92c774431fdf18d9ea6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:26:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:26:25+00:00	persistent	213828814%3A%3Avt7o97w7oz4ww8rgzd4pwku67azrxh
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:26:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4Mjg4MTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMTg2LCJpYXQiOjE1MjM1NjgzODZ9.lv3CAPjZqUf4Q-R22TnQ-77MWyjCzPvSNncDb3LGdgX2jH5IsGei_aaNl-gUs3d1U60fRsomtroe2b-5caPwuA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:26:25+00:00	login	jackytumelly
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:26:25+00:00	name	jackytumelly
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:26:25+00:00	last_login	2018-04-12T21:26:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:26:25+00:00	api_token	94e777bb9661f6d073c1a9e08dffa932
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:26:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImphY2t5dHVtZWxseSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjAzODYsImlhdCI6MTUyMzU2ODM4Niwibm9uY2UiOiI2a0JsZlkzSTc2dkF0T2prWXM1WWl0ZEdLeTZJS0s2VjE0b1o4MDVvYmxVPSJ9.iUi8t9wTNTJRb7tazU1L82rfdcSHf2dH6kARxlhezwjXDMr43dtdr9NtTR-6HlEUTUXU_-_xNYAaGrshHEcH0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:26:40+00:00	twilight-user	{%22authToken%22:%22g1m9574zwhsnxntrgt2iprumpepia5%22%2C%22displayName%22:%22jackytumelly%22%2C%22id%22:%22213828814%22%2C%22login%22:%22jackytumelly%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:26:40+00:00	auth-token	g1m9574zwhsnxntrgt2iprumpepia5

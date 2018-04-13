@@ -1,0 +1,13 @@
+#f_martialb28e_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JDpWgfGyE98IG5PtvAzKD4bLWL8uwA%2BEunEfFox4mwo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:23:06+00:00	unique_id	8f5b628824369797
+.twitch.tv	TRUE	/	TRUE	2018-04-11T03:23:06+00:00	_twitch_session_id	d27781794150c3fdf26ad7534e486415
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:23:27+00:00	persistent	213278155%3A%3Ahrchtedbknqzwq1wwzqdotutdwcpv6
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:23:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzgxNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc4NjA3LCJpYXQiOjE1MjMzNzM4MDd9.G02A6z0r_uhKBOA7lT145oEeGJAlck9DR8u7Zh-rlKuVfvkqKvfOCk_rwm_DL370Sm-UB3WdOnATMhrxLb6QfA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:23:27+00:00	login	f_martialb28e_5
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:23:27+00:00	name	f_martialb28e_5
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:23:27+00:00	last_login	2018-04-10T15:23:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:23:27+00:00	api_token	c169d2b99134b645f98a89a5871e33ec
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:23:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWFydGlhbGIyOGVfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjU4MDcsImlhdCI6MTUyMzM3MzgwNywibm9uY2UiOiJQMFJNQjFVZjRGX0hjWUc2Q2s4Q09ESWlHNjQ3UXlES2NEMmhHekQ2NUU0PSJ9.SzJgUGVYFYwMgDwa5LCC5HQG0q0tVL5JsgCbkDdb8_Nn4YmuiLVIqCiCLYc8pUuhmKJs7Rc3foU5BNDtVy3stQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:23:32+00:00	twilight-user	{%22authToken%22:%22s8gihmehbc86c1vfgyougf5pa5eejy%22%2C%22displayName%22:%22f_martialb28e_5%22%2C%22id%22:%22213278155%22%2C%22login%22:%22f_martialb28e_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:23:32+00:00	auth-token	s8gihmehbc86c1vfgyougf5pa5eejy

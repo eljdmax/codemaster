@@ -1,0 +1,13 @@
+#m_natashaa476_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bqps3Uct1NsevCpwhosGZQkLntFaZoT8vApn94Bsu80%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T09:12:26+00:00	unique_id	0098bc0fb039e650
+.twitch.tv	TRUE	/	TRUE	2018-04-10T21:12:26+00:00	_twitch_session_id	d57fd1d6f5b31080e26a1ecd060a307c
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:12:41+00:00	persistent	213216905%3A%3Aqffia30optg5thqp1fx85cakgnyh80
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:12:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMTY5MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTU2MzYyLCJpYXQiOjE1MjMzNTE1NjJ9.Gj8OHokqvA80b9ucX15J8IeoD9ZEqt2yOpbVHghTRLgV0UCjURadTskpU0bSnqwgOxab-vtJbXIZKcVF5EpO4Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:12:41+00:00	login	m_natashaa476_1
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:12:41+00:00	name	m_natashaa476_1
+.twitch.tv	TRUE	/	FALSE	2018-09-25T09:12:41+00:00	last_login	2018-04-10T09:12:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T09:12:41+00:00	api_token	2fa838c8d4d81b4681023459ebd2d744
+.twitch.tv	TRUE	/	TRUE	2018-10-07T09:12:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbmF0YXNoYWE0NzZfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDM1NjIsImlhdCI6MTUyMzM1MTU2Miwibm9uY2UiOiJERlkzRVVKcXFtTE9MZEsyTXE2dnpZcksybF9MZDJnRjM3aFVtY2p1WGxBPSJ9.IHvr6bmXzLKE8FMjB6LvAJYPWwPbHTN_rrqmgOaNDIrEIPdBlmepKsnqfRruaUuIAXE__NBPcZjRPRxJTJnhYA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:12:43+00:00	twilight-user	{%22authToken%22:%22i8woskef2ojnn0zfrcnhui4qkdwdml%22%2C%22displayName%22:%22m_natashaa476_1%22%2C%22id%22:%22213216905%22%2C%22login%22:%22m_natashaa476_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T10:12:43+00:00	auth-token	i8woskef2ojnn0zfrcnhui4qkdwdml

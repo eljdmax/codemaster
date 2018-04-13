@@ -1,0 +1,14 @@
+#z_martiala12n_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	be7H4U9q0N3fN1JeS%2B5%2BmHqhDEEicuJGFxCO3353PuA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:12:03+00:00	unique_id	f1c4941d66ccf572
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:12:03+00:00	_twitch_session_id	a686c978fb72f38f5e955a0da80b483e
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:12:22+00:00	persistent	213086351%3A%3A6ydmvzgd9brhk5ffyt8pa7i3b955d9
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:12:23+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODYzNTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTU1NDMsImlhdCI6MTUyMzMxMTk0M30=.8biQkqwPZ6ZnACk-1PXLc95AHYu2NtJIguWs_56DAupMwRUkKlYXVmoOZrmjBr5GFWrhCkzp-KRJ5YL2R9vFbg==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:12:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODYzNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2NzQzLCJpYXQiOjE1MjMzMTE5NDN9.6cR6KdaBgOmHxDone9Go2X1YBrhHu-Asv6cXMN9Ja2lcWr5YSExMfzPwfP2J8Fat9pe4NZrNvxFiXT69ibrGFw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:12:22+00:00	login	z_martiala12n_1
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:12:22+00:00	name	z_martiala12n_1
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:12:22+00:00	last_login	2018-04-09T22:12:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:12:22+00:00	api_token	fa08f4905dddec8f2065611530a71208
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:12:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbWFydGlhbGExMm5fMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjM5NDMsImlhdCI6MTUyMzMxMTk0Mywibm9uY2UiOiI5QXZfbEVfRERMX094WGo4cThZNkRRVllQelMwOU9zdUN3bk9Xa2RlTVRzPSJ9.olfE0QnFwnHJu9gssXNxTPSWU61EwtK-xoZPVAjperUs53z4J1jJxd-EFdHdYot_DOsFtC5TxmplcbBoSxtgoQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:12:24+00:00	twilight-user	{%22authToken%22:%22lvg4pvbasasqu26ijksl0ewd1aflvm%22%2C%22displayName%22:%22z_martiala12n_1%22%2C%22id%22:%22213086351%22%2C%22login%22:%22z_martiala12n_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:12:24+00:00	auth-token	lvg4pvbasasqu26ijksl0ewd1aflvm

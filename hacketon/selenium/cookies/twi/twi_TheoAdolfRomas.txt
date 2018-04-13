@@ -1,0 +1,14 @@
+#TheoAdolfRomas
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EA%2FQ68dYm0SqYbRuTerqLkC8vF80IzH6vm1iwMEPAMY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:38:11+00:00	unique_id	71c1fd2815e583f1
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:38:11+00:00	_twitch_session_id	e62b86b2f6f67470607738f393226c78
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:38:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:38:35+00:00	persistent	213819331%3A%3A026v324v692hya669664mu3r9icec3
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:38:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTkzMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwMzE1LCJpYXQiOjE1MjM1NjU1MTV9.hp4ypl3IQt1dYOmUmhQRtflk6lrYdE-hcCXUUQnYPzrWGH0GecBJcHdRGlv9tbjMAiXZ7wIT6_DFIVti3LCHqQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:38:35+00:00	login	theoadolfromas
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:38:35+00:00	name	theoadolfromas
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:38:35+00:00	last_login	2018-04-12T20:38:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:38:35+00:00	api_token	fc8a1d7dc873dcb47ba40eefafa88d27
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:38:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRoZW9hZG9sZnJvbWFzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExNzUxNSwiaWF0IjoxNTIzNTY1NTE1LCJub25jZSI6IkF0b28tcFdEa2xwUWgydU8xNlJRNHNZdjlVU2JYWWhyT2JTRFNZZEExUGc9In0%3D.DSzuTRIxQ7YJeJ5qmezvFkr8aFeRDCJpYKWeHNnqt_7n_B_1brEXPElgUa432bDqU5YSptcoGuSu3ISTsJzbyw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:38:49+00:00	twilight-user	{%22authToken%22:%228r65513zs3ic766ixbltsezmboihkz%22%2C%22displayName%22:%22theoadolfromas%22%2C%22id%22:%22213819331%22%2C%22login%22:%22theoadolfromas%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:38:49+00:00	auth-token	8r65513zs3ic766ixbltsezmboihkz

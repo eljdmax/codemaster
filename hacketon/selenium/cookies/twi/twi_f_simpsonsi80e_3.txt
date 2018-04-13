@@ -1,0 +1,13 @@
+#f_simpsonsi80e_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	38iMkiszjyPrUZ7%2BdBX1lJaqr2BOucDdsegoxCiba1M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:25:16+00:00	unique_id	2d15d873c7ff8c6b
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:25:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:25:33+00:00	persistent	213521410%3A%3Ac6jdl2cb44z0173rjwjtee0ena9bww
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:25:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjE0MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYxNTM0LCJpYXQiOjE1MjM0NTY3MzR9.AXTEgM2edR7AhT2paDl2v3_fIY3tNjrO-Qc2Ibqk8kG9i7NZqfTGb_2lExJlYfJhi1ezZiajes88myZ1vKM9rg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:25:33+00:00	login	f_simpsonsi80e_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:25:33+00:00	name	f_simpsonsi80e_3
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:25:33+00:00	last_login	2018-04-11T14:25:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:25:33+00:00	api_token	05ccc983f7ed090600440d2238ef7462
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:25:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfc2ltcHNvbnNpODBlXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDA4NzM0LCJpYXQiOjE1MjM0NTY3MzQsIm5vbmNlIjoiNjJkeXlHeFdnbE50cVFDeGJHQ0pTMUNGZ0g0bGlCZ0U3OU1hcW9UeWhMOD0ifQ%3D%3D.oLwSW5yRvRXkS20TA1OagPyJ6pAARvpPij-ZOFzsWnWv-5Sm8zVGKVWrwFJmM_TV-dGQaq3nWjqBHnhtgBOfrg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:25:41+00:00	twilight-user	{%22authToken%22:%222n3bn9htnvcq65af5hlwajo805jklp%22%2C%22displayName%22:%22f_simpsonsi80e_3%22%2C%22id%22:%22213521410%22%2C%22login%22:%22f_simpsonsi80e_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:25:41+00:00	auth-token	2n3bn9htnvcq65af5hlwajo805jklp

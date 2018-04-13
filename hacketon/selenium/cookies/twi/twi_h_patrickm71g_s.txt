@@ -1,0 +1,13 @@
+#h_patrickm71g_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EXjQR3VzSeI86dgk6hkf7C40GYB3CGOdqKbzTWggu44%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:34:39+00:00	unique_id	e1ee88e3a4645a5e
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:34:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:35:44+00:00	persistent	213512821%3A%3Ax17qo3ctpi0w7yn1rgudl1cxxqzo9j
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:35:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTI4MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU4NTQ1LCJpYXQiOjE1MjM0NTM3NDV9.-u7AKK12_Ztp9AX6X8QlFaFtiU6gjqHna5CoVM9VJWYz_YTj-CArdBv8g3Vf0zphfPEXdI9TEI1z4YknCzB9fA==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:35:44+00:00	login	h_patrickm71g_s
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:35:44+00:00	name	h_patrickm71g_s
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:35:44+00:00	last_login	2018-04-11T13:35:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:35:44+00:00	api_token	3cfa408987b3688e8c15c12787378d34
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:35:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfcGF0cmlja203MWdfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDU3NDUsImlhdCI6MTUyMzQ1Mzc0NSwibm9uY2UiOiI2TGZrOVhMNjBwa3lQT3g1eHY1ZUd4c0VDUXk1U2F4LXBDbm5qclpoMl9FPSJ9.DuvpgtTb6yc3U02jSMiIRwbrb105mLeY3SZsD73HagceTbR_9v6skbHCRrfF5_u3MhJ3E1ZkBCRfx7cFkIHbWw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:35:52+00:00	twilight-user	{%22authToken%22:%22msc7agf39irypd9end6xw2v0v9afsg%22%2C%22displayName%22:%22h_patrickm71g_s%22%2C%22id%22:%22213512821%22%2C%22login%22:%22h_patrickm71g_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:35:52+00:00	auth-token	msc7agf39irypd9end6xw2v0v9afsg

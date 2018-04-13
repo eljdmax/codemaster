@@ -1,0 +1,15 @@
+#AntonioJTorrea
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	OiszrXlLIIHTN5R4VJmA8dq7pD6WRDosa13bsmg7RmQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:30:06+00:00	unique_id	c6f33e741320d7a6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:30:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:30:22+00:00	persistent	213829747%3A%3Alizgeqejtszoelon0vbsgwli5rntrf
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:30:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4Mjk3NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczNDIzLCJpYXQiOjE1MjM1Njg2MjN9.nt3GnbIpn4DFb8s6xdEft6LxAC5CLI5C1xbrJuInkLIBvXRT_yDJC896s3rZraHvBGcxB3obr0jpt9TTwdL29Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:30:22+00:00	login	antoniojtorrea
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:30:22+00:00	name	antoniojtorrea
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:30:22+00:00	last_login	2018-04-12T21:30:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:30:22+00:00	api_token	a7c8db0d0c2a207022159ef87a05af4d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:30:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFudG9uaW9qdG9ycmVhIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDYyMywiaWF0IjoxNTIzNTY4NjIzLCJub25jZSI6ImZPVkwyZE9vaDYyV0d0Y2JHYkpLMkJLUEpiakFLRlU2Mm9kajZ3ckdqLWc9In0%3D.XLadMvqlmjiszH9Us6ZfoZu1V0AmpGNapOzObz06IsbcRCd_ibidU16vg5i8ukq8x3EykCgbX96iqTzH7kyQvA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	XY1ainrUtlHedJ4H4VO6QUMYhrKTMGrZ
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM1NzIyNDYsIm52IjowLCJ1cHQiOjE1MjM1NzIyMzYsImx0IjoxNTIzNTcyMjM2fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:30:46+00:00	twilight-user	{%22authToken%22:%223cbirufo5rwp3fmbsjuj16b1jfjxbd%22%2C%22displayName%22:%22antoniojtorrea%22%2C%22id%22:%22213829747%22%2C%22login%22:%22antoniojtorrea%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:30:46+00:00	auth-token	3cbirufo5rwp3fmbsjuj16b1jfjxbd

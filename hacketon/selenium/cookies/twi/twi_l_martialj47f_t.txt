@@ -1,0 +1,14 @@
+#l_martialj47f_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2Fwrosf93NahTy8kf5eT0Ep9pEE%2F8xgBoJcNZ%2BEIx9Go%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:33:34+00:00	unique_id	723541833d8f2b12
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:33:34+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-12T00:33:37+00:00	_twitch_session_id	9d6749dc7c4fcdb200caa980c282c1dd
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:34:00+00:00	persistent	213503231%3A%3Aee8nwggn5hoelfy1hdcgk5vn6tj5cr
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:34:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDMyMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU0ODQwLCJpYXQiOjE1MjM0NTAwNDB9.m4wkFfg0f1q_79rnq61KSCUIw47_aWqta-v-06M5okx8_8fahhcKopGJklswj6F_-wd-owj93vLFuftEs3iYDQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:34:00+00:00	login	l_martialj47f_t
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:34:00+00:00	name	l_martialj47f_t
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:34:00+00:00	last_login	2018-04-11T12:34:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:34:00+00:00	api_token	4f5a6c222cf4ac0cc7f494ae335326fd
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:34:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbWFydGlhbGo0N2ZfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDIwNDAsImlhdCI6MTUyMzQ1MDA0MCwibm9uY2UiOiJldkF2dHhyeXNkdm9mYlhBZ3ZrVFE5WVpBYURxdVpSYVNMVkVIaUFMRzhBPSJ9.7JDKYjAVh1Idh7yW06hYaADCexdoLIFhGcDhCiNfLrCRo3lybI2vfhs4nEaZyiyYVKUg-P74WK2JlzLoLVdWQg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:34:08+00:00	twilight-user	{%22authToken%22:%22eop29lkt5etwk05brd07p4cccrdada%22%2C%22displayName%22:%22l_martialj47f_t%22%2C%22id%22:%22213503231%22%2C%22login%22:%22l_martialj47f_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:34:08+00:00	auth-token	eop29lkt5etwk05brd07p4cccrdada

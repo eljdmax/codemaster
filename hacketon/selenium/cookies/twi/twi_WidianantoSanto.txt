@@ -1,0 +1,13 @@
+#WidianantoSanto
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jk0v9BmRTsdSc79xqgB0z0snhOeC191VMR8QpJz41cA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:11:50+00:00	unique_id	8e05d9e51b51b9d1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:11:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:12:13+00:00	persistent	213825799%3A%3A4a17x3g6qtdplazwhzukdc1k99pvv5
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:12:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjU3OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyMzMzLCJpYXQiOjE1MjM1Njc1MzN9.BZr43f8A1INTMQOn5Km0q8_tViUFmKYXkuzqDe9VuYPdEoV1bsJ6ct4MBq8QN6vVkLOzQiSgw8wYCcgV03Q10A==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:12:13+00:00	login	widianantosanto
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:12:13+00:00	name	widianantosanto
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:12:13+00:00	last_login	2018-04-12T21:12:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:12:13+00:00	api_token	dfbc71dee5fdb20698e2e46d03defc7f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:12:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndpZGlhbmFudG9zYW50byIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTk1MzMsImlhdCI6MTUyMzU2NzUzMywibm9uY2UiOiJkTThWUWtzNXhXWjZ3YzIwS3JNS2ZNc3hJYlpCQmdqUnZVb0hyVzlXYnZBPSJ9.lsc8ZJEemXASfV-kR9xuZ2BaIIDfu50dvDSCIyRp2af36guuaShg5_Gu-UpbFFGe6b2ZzSSly4nE54T2YC8J_Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:12:26+00:00	twilight-user	{%22authToken%22:%22bo810pcrbqvfg02pr10o7aamffzbu8%22%2C%22displayName%22:%22widianantosanto%22%2C%22id%22:%22213825799%22%2C%22login%22:%22widianantosanto%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:12:26+00:00	auth-token	bo810pcrbqvfg02pr10o7aamffzbu8

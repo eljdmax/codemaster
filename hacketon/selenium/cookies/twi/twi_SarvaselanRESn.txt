@@ -1,0 +1,14 @@
+#SarvaselanRESn
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ha1CpUyJTs7hJxK7TRzKrRshdzdaNf4VXx8a51hej3o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:46:43+00:00	unique_id	a249f48ead67b0b0
+.twitch.tv	TRUE	/	TRUE	2018-04-13T08:46:43+00:00	_twitch_session_id	877dc6ffc5ce69a6abc91853f30a42fa
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:46:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:47:11+00:00	persistent	213820974%3A%3Aybbs5opxamfqde0gt8jaor1jqxrigt
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:47:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjA5NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwODMxLCJpYXQiOjE1MjM1NjYwMzF9.qDiB7iqjs4IWd0o_JlHmW-8gyEJ_WZnwfNbkAGxBIlTGnJ4SgQo8A-96vU9-2zdyYzZyADdqtojIwaW7oAyB0Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:47:11+00:00	login	sarvaselanresn
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:47:11+00:00	name	sarvaselanresn
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:47:11+00:00	last_login	2018-04-12T20:47:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:47:11+00:00	api_token	de4a6d78b90286ca3b4109224807f067
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:47:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNhcnZhc2VsYW5yZXNuIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExODAzMSwiaWF0IjoxNTIzNTY2MDMxLCJub25jZSI6IjcyZEI3NGw2RU1kUV9janVpbmQ4Uk5VamdUM2FRcDd3YlpEYlo3ZXZGZDg9In0%3D.K63H2_wq7S7nrrOeWnsqQyLtQgwNvaCS3C9_t2c8CDblx3tJBseOYwymATgIB8_4REg56_eGCNlspa_NNZ0JZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:47:24+00:00	twilight-user	{%22authToken%22:%22eszz3ydqu8hyowk7dws7hn3114y5l5%22%2C%22displayName%22:%22sarvaselanresn%22%2C%22id%22:%22213820974%22%2C%22login%22:%22sarvaselanresn%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:47:24+00:00	auth-token	eszz3ydqu8hyowk7dws7hn3114y5l5

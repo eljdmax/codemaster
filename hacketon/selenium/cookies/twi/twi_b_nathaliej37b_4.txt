@@ -1,0 +1,13 @@
+#b_nathaliej37b_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HbcLbfI8BdL9qKbNF%2F7lxq4Fz4AksTiOzvtF8bRkD%2FU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:42:37+00:00	unique_id	c3c0c219f6ef72b3
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:42:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:43:17+00:00	persistent	213524678%3A%3Akd8hz81w14769k3albseqdnplbjtll
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:43:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjQ2NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyNTk4LCJpYXQiOjE1MjM0NTc3OTh9.Bkijm_iEXiKmmarovutBM7WMpjRrHgoKbDSHu-3H9dvsOuFhmTBQyeC8aidTxYyb0baM3mVHVL1Gp5kI0NsVHw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:43:17+00:00	login	b_nathaliej37b_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:43:17+00:00	name	b_nathaliej37b_4
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:43:17+00:00	last_login	2018-04-11T14:43:18Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:43:17+00:00	api_token	21c49bf352886379733ac8f38a8be4fa
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:43:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbmF0aGFsaWVqMzdiXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDA5Nzk4LCJpYXQiOjE1MjM0NTc3OTgsIm5vbmNlIjoiemQ2dEg2andPb3pEbUpMcXFCNkhabnpuZ0N4SHBqSmFvMjV5SnlxT0UyOD0ifQ%3D%3D.R3v0eHu4rxcpQJo_pYDxStemTom3MkE_48bOgse8i7VettWqfb-of2FChlRWx4CKGKt5w6beTimcV_Mi4--FQg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:43:26+00:00	twilight-user	{%22authToken%22:%22m3opxwxtcpaulh0dedwo7hpgrzqds4%22%2C%22displayName%22:%22b_nathaliej37b_4%22%2C%22id%22:%22213524678%22%2C%22login%22:%22b_nathaliej37b_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:43:26+00:00	auth-token	m3opxwxtcpaulh0dedwo7hpgrzqds4

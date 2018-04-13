@@ -1,0 +1,14 @@
+#q_natashak67j_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ni8IZ2aqw1H6l%2FHFV4Dhv12x5uClTvGd%2B8W5y1N7YpE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:33:32+00:00	unique_id	4a358c8e9495aac7
+.twitch.tv	TRUE	/	TRUE	2018-04-12T02:33:32+00:00	_twitch_session_id	8cd5b4df8ad58e4f170617b5b456446a
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:33:32+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:34:22+00:00	persistent	213523050%3A%3A31uiozha7nx0wzny9wqvg0s51oy0y5
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:34:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjMwNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyMDYyLCJpYXQiOjE1MjM0NTcyNjJ9.flmnQGVPBCz7AXRgbEhxHopYlbL10FF3KpXVmiW8wXU6zh7_bWpvB2PKJMqpJl6gnn1mrEUISCbqau6FHEue-Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:34:22+00:00	login	q_natashak67j_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:34:22+00:00	name	q_natashak67j_8
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:34:22+00:00	last_login	2018-04-11T14:34:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:34:22+00:00	api_token	3980efb29fca62550c593cc4ea811f09
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:34:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbmF0YXNoYWs2N2pfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDkyNjIsImlhdCI6MTUyMzQ1NzI2Miwibm9uY2UiOiJBUUNuSlpVVUxWSV9ET0NmenQ4WTNYNVViN0tnWUktQl9PdHhQSWw0ZTMwPSJ9.ejSdAtLoaxd4VRAUSm3dm2epw0qBKXh5kmAyBZKFcLDKDS_FsHk8DBzm_NleEfJWDbmp7do5cqWioxO3O49gwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:34:31+00:00	twilight-user	{%22authToken%22:%22ark7ldim6yltvb6y4iqb50iwqv5mxl%22%2C%22displayName%22:%22q_natashak67j_8%22%2C%22id%22:%22213523050%22%2C%22login%22:%22q_natashak67j_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:34:31+00:00	auth-token	ark7ldim6yltvb6y4iqb50iwqv5mxl

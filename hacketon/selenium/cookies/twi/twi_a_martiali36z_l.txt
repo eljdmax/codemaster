@@ -1,0 +1,14 @@
+#a_martiali36z_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2Fne36YCQTTDhxa1wIunwhI557kjzVGh8MAv2xjjsjoI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:28:03+00:00	unique_id	34e31b8e5767b29e
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:28:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:28:28+00:00	persistent	213521960%3A%3A11clirwwwu3653qi33h043jsi5fy4n
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:28:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjE5NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYxNzA5LCJpYXQiOjE1MjM0NTY5MDl9.3a-B-Pltu9s5SOVoR-op5WkaMYBnFiNMbZ_y7cCH4bsKa8wmNjIUCgUEKq-HPG7ocGWQ7B9CDifxaqoXDTNWBw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:28:28+00:00	login	a_martiali36z_l
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:28:28+00:00	name	a_martiali36z_l
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:28:28+00:00	last_login	2018-04-11T14:28:29Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:28:28+00:00	api_token	1fc81480487b1f84daf49dcbbde9b4df
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:28:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWFydGlhbGkzNnpfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDg5MDksImlhdCI6MTUyMzQ1NjkwOSwibm9uY2UiOiJ6YmhRelRKQXZWaDZSWHdyazJBWTRXWHZhNGZDOEpVSTFhNXRDWnkydU9zPSJ9.GArOLWJo32BldeiV5NbTgOi7sssI4RaMcMPhUy-wOzSMMSbeZzqosrtHn61HQh8ibnVRScMGUP5E7nbSHeHFGA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:28:36+00:00	twilight-user	{%22authToken%22:%22gnrumgnszgfyx4zdwbhp3bjb047ayu%22%2C%22displayName%22:%22a_martiali36z_l%22%2C%22id%22:%22213521960%22%2C%22login%22:%22a_martiali36z_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:28:36+00:00	auth-token	gnrumgnszgfyx4zdwbhp3bjb047ayu
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:28:39+00:00	twilight_onboarding	true

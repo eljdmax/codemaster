@@ -1,0 +1,12 @@
+#a_martiald157_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	w%2BMQDpkXM9xMbuPVrJqrGpxzVE1RdfxruW%2FR9N60dFU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T10:27:59+00:00	unique_id	15f6754c3e657a0c
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:28:58+00:00	persistent	213225217%3A%3Apmuuqpei5q7r82drfiu9es88gzyz8d
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:28:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyMjUyMTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTYwOTM5LCJpYXQiOjE1MjMzNTYxMzl9._uem8pV0h1W6F5knPj_3UQZQuRsaE_epp1OhnhiiNN-i0zWNNDpmihykYdbqLoysx6n9WaZ7wAHcD1e7RxeSvA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:28:58+00:00	login	a_martiald157_b
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:28:58+00:00	name	a_martiald157_b
+.twitch.tv	TRUE	/	FALSE	2018-09-25T10:28:58+00:00	last_login	2018-04-10T10:28:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T10:28:58+00:00	api_token	a94e356eacae2b656c7c30ffca5ee9de
+.twitch.tv	TRUE	/	TRUE	2018-10-07T10:28:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWFydGlhbGQxNTdfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MDgxMzksImlhdCI6MTUyMzM1NjEzOSwibm9uY2UiOiJERDMtT3ViY0d1QWxLbk9Ub2JWMHpJVndrbDRSZ3VXaFdubl9HaURRU29nPSJ9.w4eaq-iTPXdtr9uMnDLd9S22DWqV3XEO-wcE0F5gIQ2U_W5vazgs_Zwml5vL32Hn1ksF4kWMK5cu9U_20hd5Ag%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:29:01+00:00	twilight-user	{%22authToken%22:%22ianbzyiw0vfhoc510gelchx2hzqxgj%22%2C%22displayName%22:%22a_martiald157_b%22%2C%22id%22:%22213225217%22%2C%22login%22:%22a_martiald157_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T11:29:01+00:00	auth-token	ianbzyiw0vfhoc510gelchx2hzqxgj

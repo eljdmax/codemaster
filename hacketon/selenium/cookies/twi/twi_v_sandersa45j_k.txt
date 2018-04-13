@@ -1,0 +1,14 @@
+#v_sandersa45j_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	COW5e%2Be4Lr60MvzIBKYCUt4XeLWooxtRpIp776CmLDY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T23:01:16+00:00	unique_id	b4c3fcfd525ac1a0
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:01:32+00:00	persistent	213097591%3A%3Aw6rwk60h99o0m44ffy3uccio5mpf0r
+.twitch.tv	TRUE	/	TRUE	2018-04-10T00:01:33+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTc1OTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTg0OTMsImlhdCI6MTUyMzMxNDg5M30=.mjtarysXkxL0hPSlDjf65r8BihSEQIJy8gauqlqGGkjww145wjm6RMag22VcKZbqALYaMrk-0g6dyg41R1ABYw==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T23:01:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTc1OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5NjkzLCJpYXQiOjE1MjMzMTQ4OTN9.VYYZ-iObqcwhFZ-1v6ofxVupNYVwpcZNay41MFGvskCvbADUpoYP9TgQNZz46wPH-FbNdPnWUCp3HTmxYZGAXg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:01:32+00:00	login	v_sandersa45j_k
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:01:32+00:00	name	v_sandersa45j_k
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:01:32+00:00	last_login	2018-04-09T23:01:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:01:32+00:00	api_token	6f29fd126a7a56edf7260deb8f5e3f69
+.twitch.tv	TRUE	/	TRUE	2018-10-06T23:01:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfc2FuZGVyc2E0NWpfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjY4OTMsImlhdCI6MTUyMzMxNDg5Mywibm9uY2UiOiIyNzUwNXlsc21lc1l2Sl9mMl96czZnN3M0a0Z5QUVfcndhS0FuRVhRZXljPSJ9.ptUv-_XcQaW12zudkK0Vp1aZomtDtP1VEYrz7_G-78F-ZYs-GEWT9Tyvf0Jj3-0dZYb4TnBsmdmwUEM1mt8TzQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	moRJXglFTnjL4DNJZRVSWJAcq47avUhf
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:01:40+00:00	twilight-user	{%22authToken%22:%22q4d2mr47y79v6s5q4j6juezdkz0zt5%22%2C%22displayName%22:%22v_sandersa45j_k%22%2C%22id%22:%22213097591%22%2C%22login%22:%22v_sandersa45j_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:01:40+00:00	auth-token	q4d2mr47y79v6s5q4j6juezdkz0zt5

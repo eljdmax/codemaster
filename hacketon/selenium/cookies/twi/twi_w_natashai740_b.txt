@@ -1,0 +1,14 @@
+#w_natashai740_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	P120dtY1JJodvAGY0W2hxGp24SgFnEQJ82oAHFcp9eY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T13:55:33+00:00	unique_id	0e07cbc236114775
+.twitch.tv	TRUE	/	TRUE	2018-04-12T01:55:33+00:00	_twitch_session_id	cc5d7aa948bac51f97f7a7a2770066a8
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:55:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:56:01+00:00	persistent	213516109%3A%3A0igq15o8zaebpadc2mk7l76njee5sl
+.twitch.tv	TRUE	/	TRUE	2018-04-18T13:56:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MTYxMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU5NzYyLCJpYXQiOjE1MjM0NTQ5NjJ9.mNdurYP6hkM3FpnGEcHpbUTu0KpKpv1z7OiQgZXI2gXrrp1Gl_3g4epJFafFcJf_0hjtm0VxNkTgqzYXDSZrEQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:56:01+00:00	login	w_natashai740_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:56:01+00:00	name	w_natashai740_b
+.twitch.tv	TRUE	/	FALSE	2018-09-26T13:56:01+00:00	last_login	2018-04-11T13:56:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T13:56:01+00:00	api_token	0da059713e56b78c7a3e30be3ed7c1a8
+.twitch.tv	TRUE	/	TRUE	2018-10-08T13:56:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbmF0YXNoYWk3NDBfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDY5NjIsImlhdCI6MTUyMzQ1NDk2Miwibm9uY2UiOiJ2RUxGUjhBUUpJaURHeWtUY3U3NEdvcDBsWHh3VEtNajZhNVMzZjF2cmhJPSJ9._yPoqmVwLqGpCx_pWFKwEyAgn86dtom5Ysv63MM-06Py6Z6QdngYPCGkt1mAi1QToE1N30vk4sr8CmK2uIh70g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:56:12+00:00	twilight-user	{%22authToken%22:%22afsdfugu3smbqg56qoura034pj9o4j%22%2C%22displayName%22:%22w_natashai740_b%22%2C%22id%22:%22213516109%22%2C%22login%22:%22w_natashai740_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T14:56:12+00:00	auth-token	afsdfugu3smbqg56qoura034pj9o4j

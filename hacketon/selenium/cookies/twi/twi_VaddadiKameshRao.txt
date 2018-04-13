@@ -1,0 +1,13 @@
+#VaddadiKameshRao
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LljKkEHvlM6IIXTrm%2BUl461%2Bs9O%2FBrFQxjJJ7lz6DRE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:30:08+00:00	unique_id	b3197a25498d161f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:30:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:30:37+00:00	persistent	213817787%3A%3Aoe9wsbg9fnz9wnftwzynm6ju1t3adn
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:30:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MTc3ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTY5ODM4LCJpYXQiOjE1MjM1NjUwMzh9.qBpnjlMXVJdo6VCVjOrIF4G4vKNnnaDAZ35b2cDg71hXg8XNuKYdPixyNndynBejTqzuvDU0faGi2jVtnOpdtQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:30:37+00:00	login	vaddadikameshrao
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:30:37+00:00	name	vaddadikameshrao
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:30:37+00:00	last_login	2018-04-12T20:30:38Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:30:37+00:00	api_token	f412b46db4a1c28520dce4186a31e9e9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:30:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZhZGRhZGlrYW1lc2hyYW8iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE3MDM4LCJpYXQiOjE1MjM1NjUwMzgsIm5vbmNlIjoidWlaeG9Gdy1sU1hJNzEwM0pIRVg1R0R3NC1leVlqWHF2NmdPaEM5am15dz0ifQ%3D%3D.6BEdY3aOrsp6EcNyYBVfWcHce9pacyL01_GDtNJyXsADNmI7_q8LXTKSx6-fbi8qP9jAmPXqIN6yftVgGcWI3w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:30:50+00:00	twilight-user	{%22authToken%22:%22d6ahig4pav739iceetw896w0z1m15s%22%2C%22displayName%22:%22vaddadikameshrao%22%2C%22id%22:%22213817787%22%2C%22login%22:%22vaddadikameshrao%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:30:50+00:00	auth-token	d6ahig4pav739iceetw896w0z1m15s

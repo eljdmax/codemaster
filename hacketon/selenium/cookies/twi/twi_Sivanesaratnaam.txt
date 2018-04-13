@@ -1,0 +1,13 @@
+#Sivanesaratnaam
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8BEmRDRupSzGRLjAEVKs3r6oMwa9sZdbjWJIvpJrIQs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:40:34+00:00	unique_id	1534e63ce362af71
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:40:34+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:41:02+00:00	persistent	213832119%3A%3A1q6yusxv4txnllzfg1awwotvlsc12z
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:41:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzIxMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MDYzLCJpYXQiOjE1MjM1NjkyNjN9.2_y9JDSbkOGmdXFRTYxhgPtJ71XUJ5JS11fy17_ukTtOeA_ZGXdqQVwEVJ5myhiQVvtZUMJUjBRtANJZVi7TaA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:41:02+00:00	login	sivanesaratnaam
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:41:02+00:00	name	sivanesaratnaam
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:41:02+00:00	last_login	2018-04-12T21:41:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:41:02+00:00	api_token	d7356d56789f0a1fb2e8fc41194250f8
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:41:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNpdmFuZXNhcmF0bmFhbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjEyNjMsImlhdCI6MTUyMzU2OTI2Mywibm9uY2UiOiJaN3d5S1d4bHd5WUZ3RXc2NmF1MDdUUzNfZjE5cEplY2lFeHV4RTlBdkFJPSJ9.Ukk2gvtcCroBp4kZM71ZNDUQU16dfMzhlamA5Jols-QjwaQ1c_O-jQXzBoE_5GfHXpcW1ZwKFnAYc1SvldqCQQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:41:18+00:00	twilight-user	{%22authToken%22:%220gqieq9e1aobs7dxw1di5yyqpx3wes%22%2C%22displayName%22:%22sivanesaratnaam%22%2C%22id%22:%22213832119%22%2C%22login%22:%22sivanesaratnaam%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:41:18+00:00	auth-token	0gqieq9e1aobs7dxw1di5yyqpx3wes

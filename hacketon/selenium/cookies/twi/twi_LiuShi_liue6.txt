@@ -1,0 +1,13 @@
+#LiuShi_liue6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ZDhG0yh7wNVKopqpfrHcpkdXBkK93GABgK0NDuTmtPc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:17:26+00:00	unique_id	af3eb1a5d4e4616b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:17:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:17:46+00:00	persistent	213826905%3A%3A5hj5ws93z7s0eu3ny3344zzx735ask
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:17:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjY5MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyNjY3LCJpYXQiOjE1MjM1Njc4Njd9.hKjBlXi0SG5QOgiBTUE04vV4942PMjw9qFyuzJR2hxKvNybDq9hM7QY01Dmy_0tTrIXS8UcUmdw7P6dMAPk-tA==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:17:46+00:00	login	liushi_liue6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:17:46+00:00	name	liushi_liue6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:17:46+00:00	last_login	2018-04-12T21:17:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:17:46+00:00	api_token	4c65c627ddecb8d66f3ae4b3acc0df71
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:17:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxpdXNoaV9saXVlNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTk4NjcsImlhdCI6MTUyMzU2Nzg2Nywibm9uY2UiOiIxME9HV1h3M1RoN2MwMnVPTFpoX2syd25sZFVTdmV0dmFLSGhxV3BoclZjPSJ9.Vlv_enUrd2Qvp43PD_hLSso0cjJtkKZUB9hNd9hD_qDh22jvqzb2uZpQuS9YGA_NlFxApcgYiWKMomcvUDtXwQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:18:02+00:00	twilight-user	{%22authToken%22:%22ftwanya05fc53vi0woaqur2awj4ndl%22%2C%22displayName%22:%22liushi_liue6%22%2C%22id%22:%22213826905%22%2C%22login%22:%22liushi_liue6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:18:02+00:00	auth-token	ftwanya05fc53vi0woaqur2awj4ndl

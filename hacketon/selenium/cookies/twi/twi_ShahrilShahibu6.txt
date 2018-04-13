@@ -1,0 +1,14 @@
+#ShahrilShahibu6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NRLh%2FDp1H%2Fg5eisbr93M5SgbiB2YEJPEZvBnCyy51Ek%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:10:27+00:00	unique_id	9f401de1e8290fcd
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:10:27+00:00	_twitch_session_id	262dc000104146cad189e1a6d28bb014
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:10:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:11:15+00:00	persistent	213825603%3A%3An9febewqzux0057fac6nab6drtteed
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:11:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjU2MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyMjc2LCJpYXQiOjE1MjM1Njc0NzZ9.oqGTxKaAUZPE_vdaQFqJr9XyeVMZTQgBxczcIljk-6SCSvysQKW5wpVAm68Sg_fiFiq9JMvL1_GpnS1pPp1qmw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:11:15+00:00	login	shahrilshahibu6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:11:15+00:00	name	shahrilshahibu6
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:11:15+00:00	last_login	2018-04-12T21:11:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:11:15+00:00	api_token	46305ac6501088864918fc1f77a394d7
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:11:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNoYWhyaWxzaGFoaWJ1NiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTk0NzYsImlhdCI6MTUyMzU2NzQ3Niwibm9uY2UiOiJXVkRHRzlucy1BYU13d05vb3lWZUU4d1dhMElwOTRycXh4Z3pWTWpZcTJZPSJ9.UI2MQMBNjS59zEUDis-D5qfFsiRtyoT1goj1NQJq_1k1IleybLiPhhalR0qNXi-_NWAVwRHyROJqzTuvCHSKQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:11:28+00:00	twilight-user	{%22authToken%22:%223s7ca54yvvp1885ftptcgcxy7etzvf%22%2C%22displayName%22:%22shahrilshahibu6%22%2C%22id%22:%22213825603%22%2C%22login%22:%22shahrilshahibu6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:11:28+00:00	auth-token	3s7ca54yvvp1885ftptcgcxy7etzvf

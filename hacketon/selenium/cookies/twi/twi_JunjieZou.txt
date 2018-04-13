@@ -1,0 +1,13 @@
+#JunjieZou
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zqsEteU834MIU5NbHqloY7Bw77Bd1UHXvQkU8irUqsY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:54:26+00:00	unique_id	93531787466ee035
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:54:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:54:49+00:00	persistent	213835164%3A%3Ai48f3djcn0xurawnjjiwh0hu4wwdes
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:54:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzUxNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0ODkwLCJpYXQiOjE1MjM1NzAwOTB9.8mI724QRU-wqJ7sbfucjO4H8iTBBHS1cUogAfyjNdSh6Hga1g2eoMXMVNLNrdjxheUjbKKg7zvdx1hDpKAHNxw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:54:49+00:00	login	junjiezou3
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:54:49+00:00	name	junjiezou3
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:54:49+00:00	last_login	2018-04-12T21:54:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:54:49+00:00	api_token	695110be5578c94a7a5ed4901e439743
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:54:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imp1bmppZXpvdTMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTIyMDkwLCJpYXQiOjE1MjM1NzAwOTAsIm5vbmNlIjoiNFZBQW5ZcFljUGFXeWhfWkZNczdjMTA0V1FMQklvQ2hHQ1pvM1BJWi11dz0ifQ%3D%3D.iIpkwmffssjU36ZN0xjMoZCypOxQOYKOt9QFwSo8pwnf3M3b09NSfF4awkPAN4ZnnysBKiUTsQGCYhE0kHT7mw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:55:06+00:00	twilight-user	{%22authToken%22:%22ygopqfwo45fmosrb4cym7wmajd7jq2%22%2C%22displayName%22:%22junjiezou3%22%2C%22id%22:%22213835164%22%2C%22login%22:%22junjiezou3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:55:06+00:00	auth-token	ygopqfwo45fmosrb4cym7wmajd7jq2

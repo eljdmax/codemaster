@@ -1,0 +1,14 @@
+#AntonioTaveirs
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:24:36+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-12T21:24:24+00:00	unique_id	4a6fbbdfc4c02a99
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:24:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HPaia64a4eymL0LIksJwYpp9VyT2OrHCrCvuVrTiwQo%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:28:26+00:00	persistent	213829268%3A%3A5yi97rabokfto6h8byvh67k92sgj3s
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:28:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjkyNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTczMzA3LCJpYXQiOjE1MjM1Njg1MDd9.0P9gfwtwKd8JAXK9MosK4NF6y5w_WrnCh-gznERdJvO_cdvXZ5ntLKM-QHOugzOF-_2GO8pynnD4eA2-pb4W5A==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:28:26+00:00	login	antoniotaveirs
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:28:26+00:00	name	antoniotaveirs
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:28:26+00:00	last_login	2018-04-12T21:28:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:28:26+00:00	api_token	2229395c62b65219ec7408349f86444b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:28:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFudG9uaW90YXZlaXJzIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTEyMDUwNywiaWF0IjoxNTIzNTY4NTA3LCJub25jZSI6IkMtS2QtNWowODQ0Z0RkZFI1MmJVaDVObUdaeDBqMWJDaUc2eW11VV8zTE09In0%3D.Y1qyxpf9RhhZGUzunjqF7X2HQa5TGmO5G60bG6T17Q_whzwARFi8zQJJlXSITpyGCynOX00g19fFa0E8v-pt0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:41+00:00	twilight-user	{%22authToken%22:%22b7v2e6mscg1tg8a8qyiczlun4diigs%22%2C%22displayName%22:%22antoniotaveirs%22%2C%22id%22:%22213829268%22%2C%22login%22:%22antoniotaveirs%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:28:41+00:00	auth-token	b7v2e6mscg1tg8a8qyiczlun4diigs

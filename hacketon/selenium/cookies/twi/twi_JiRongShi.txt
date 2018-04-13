@@ -1,0 +1,15 @@
+#JiRongShi
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HuRE7zCV5pJyOjrelulfQQ%2FeMsViLNlyeUDgNo2MC%2FI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:15:52+00:00	unique_id	65eb0fab423be5d9
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:15:52+00:00	_twitch_session_id	2fb525966edd0f9ff93bdc6e0bc4811e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:15:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:16:15+00:00	persistent	213826589%3A%3A79moet5sgv0jc9euk23bf5bhc1vxhc
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:16:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjY1ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyNTc2LCJpYXQiOjE1MjM1Njc3NzZ9.quL1iLCRjqyolzfN7QfL8hASzyXKHUtY6-4zI3Eemba6oJYnn3zcEBaQTZKKOZQdFugY8qtupFKDvG4GsLwY1A==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:16:15+00:00	login	jirongshi
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:16:15+00:00	name	jirongshi
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:16:15+00:00	last_login	2018-04-12T21:16:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:16:15+00:00	api_token	e78598ac511ecca24cb90df2ed0dff48
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:16:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imppcm9uZ3NoaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTk3NzYsImlhdCI6MTUyMzU2Nzc3Niwibm9uY2UiOiJaTlktOUszSDBsQm5ZeHZ1MWU4RlJOeFduSWFsVlhVaWVHM2VxLU1OcmF3PSJ9.uThs3_gv9lxQcsoa2aFG_MCnphJpH5iXojHiDFSRZi0w09IUs6Bswz39QD_w7-_iiXSPWG8AlS0SVQ-tMFAVJQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:16:28+00:00	twilight-user	{%22authToken%22:%227vc1vlbbess80thuhvsfbwasdckmm4%22%2C%22displayName%22:%22jirongshi%22%2C%22id%22:%22213826589%22%2C%22login%22:%22jirongshi%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:16:28+00:00	auth-token	7vc1vlbbess80thuhvsfbwasdckmm4
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:16:32+00:00	twilight_onboarding	true

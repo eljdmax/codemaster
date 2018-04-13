@@ -1,0 +1,15 @@
+#d_martiala20p_h
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMzMTQ5ODMsIm52IjowLCJ1cHQiOjE1MjMzMTQ5NzIsImx0IjoxNTIzMzE0OTcyfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	084YtdBMmuMTGYrG%2Bm4kTxaowkUKPhU%2FdF%2FoyPLi3RE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:07:36+00:00	unique_id	4568148b3e2b040d
+.twitch.tv	TRUE	/	TRUE	2018-04-10T10:07:36+00:00	_twitch_session_id	c1a459eb2ba965f1b894d658c367ca8f
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:07:54+00:00	persistent	213085257%3A%3Afzcx4grpn3zv41xmz08y9t9eiv2p43
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:07:54+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODUyNTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTUyNzUsImlhdCI6MTUyMzMxMTY3NX0=.jqNckQdfjFI0szIBen1xjKTyFVK2BTrupHLt0IzY5q1mrCvTL7NBTBfHxDYKLtfKeDwiHLQN6Tt1GHz9iDwUwg==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:07:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODUyNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE2NDc1LCJpYXQiOjE1MjMzMTE2NzV9.g27KPhye5yiVBlWcAV4zEggQ9gIeBJ7jy4KezrhqPHJ_jRewydLW8JU2YlLZY17JzprFtUI64_N88_a2c3qxcg==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:07:54+00:00	login	d_martiala20p_h
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:07:54+00:00	name	d_martiala20p_h
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:07:54+00:00	last_login	2018-04-09T22:07:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:07:54+00:00	api_token	f3ef0a902b2e2c7fb7fad0488241d6cd
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:07:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbWFydGlhbGEyMHBfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjM2NzUsImlhdCI6MTUyMzMxMTY3NSwibm9uY2UiOiJkbUh2aDRPSUp2WGVlbk8tSE81ekdVakJVaTJxZC00REJUT2JSNWVwbzUwPSJ9.p1jftKn2Wij3C15F9oAFb1C_TSj3ydZA843c8HMhhWZ87TfhRiT3R2D2oXj9AvPvur9J8_tOf-aWtEBbfge5jQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:07:54+00:00	twilight-user	{%22authToken%22:%22okrwxwsz8pf6f7sa7fcpe7spiqqtrw%22%2C%22displayName%22:%22d_martiala20p_h%22%2C%22id%22:%22213085257%22%2C%22login%22:%22d_martiala20p_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:07:54+00:00	auth-token	okrwxwsz8pf6f7sa7fcpe7spiqqtrw

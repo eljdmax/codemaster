@@ -1,0 +1,13 @@
+#LalitSinghania
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ydzcLQaOMQGZ%2BEPd7G3whOkXi0oujwDrJqik2ltSbio%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:06:07+00:00	unique_id	ba8055490ee92ef3
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:06:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:06:27+00:00	persistent	213824717%3A%3A3sh4mn848c8pt6tbavthd6hj3xsti1
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:06:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjQ3MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxOTg4LCJpYXQiOjE1MjM1NjcxODh9.ckEzPzaa4cC-O803ejaFY4vA37oYkxmyGmbALd0Bm-PQlw7vMUnChEBoK2TIX3aGYJNhEP-SNrjW3Sf5u92fUQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:06:27+00:00	login	lalitsinghania
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:06:27+00:00	name	lalitsinghania
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:06:27+00:00	last_login	2018-04-12T21:06:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:06:27+00:00	api_token	8de8d9ca08bf6fa3498a45d5899c3f5e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:06:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxhbGl0c2luZ2hhbmlhIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExOTE4OCwiaWF0IjoxNTIzNTY3MTg4LCJub25jZSI6Ikp6cXd1Y2gxcmd0V09GTkJhaTJqc285djM3WVF6c1owcWFLVkQwNy1zLWs9In0%3D.xtx5rnO_1ta0zwdsJTDzW03KXH6-tNW4V39sjTz2uTKJkPQvDZVI-XFQnTK-z1LfjjSnQU8PQu_kCeyT8NZvyg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:06:43+00:00	twilight-user	{%22authToken%22:%22zcbrj429vp371iha2w38na2unppogh%22%2C%22displayName%22:%22lalitsinghania%22%2C%22id%22:%22213824717%22%2C%22login%22:%22lalitsinghania%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:06:43+00:00	auth-token	zcbrj429vp371iha2w38na2unppogh

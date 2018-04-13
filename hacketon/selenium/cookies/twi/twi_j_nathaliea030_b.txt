@@ -1,0 +1,14 @@
+#j_nathaliea030_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4CtgfPkr8Vyp%2BaCf1tYkuS5qwBUsBVW1uJ%2FbmSdZinE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T23:03:56+00:00	unique_id	0dc8acc3749abd91
+.twitch.tv	TRUE	/	TRUE	2018-04-10T11:03:56+00:00	_twitch_session_id	9f9b08af3b7db88793284fac08d56a1f
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:04:21+00:00	persistent	213098295%3A%3Agpqpyafrv58fs6a2qnzjtl0972waop
+.twitch.tv	TRUE	/	TRUE	2018-04-10T00:04:21+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTgyOTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTg2NjIsImlhdCI6MTUyMzMxNTA2Mn0=.bGPU3YHQWIzZtMjpoTftqGEXb03YZDVLcaflZ-ddoTIXozwyQ3tbEuLTYf9DLN59IRs5O7QzwMoKJvm6Uvwkww==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T23:04:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwOTgyOTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE5ODYyLCJpYXQiOjE1MjMzMTUwNjJ9.5dmacQ9Rf-ndCPbu6ua5pYXmnuT8v1dfLzWsezVndsw1erBOYJRlSM56D7esW47mLPGKTlX1dBBca0C3fsIYug==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:21+00:00	login	j_nathaliea030_b
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:21+00:00	name	j_nathaliea030_b
+.twitch.tv	TRUE	/	FALSE	2018-09-24T23:04:21+00:00	last_login	2018-04-09T23:04:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T23:04:21+00:00	api_token	afaa708d46187770134bc10320735d28
+.twitch.tv	TRUE	/	TRUE	2018-10-06T23:04:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbmF0aGFsaWVhMDMwX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4ODY3MDYyLCJpYXQiOjE1MjMzMTUwNjIsIm5vbmNlIjoiOW5iTDIxTkRtZUlzOTc1bDVtQXRlOEFJNlpHYnhISkhrLUJYOUJqdEd6dz0ifQ%3D%3D.sHXG7w0rjvuZzITuhCZ0uesU0pRS-PDSqi5SdwXRafFA6tjPMoc5o_DYhhFvQlAAiQFlo7gGQXHSsW3mUP59Rg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:04:22+00:00	twilight-user	{%22authToken%22:%226wovsq1mjtkmp3br8tah8wwn7z9m7l%22%2C%22displayName%22:%22j_nathaliea030_b%22%2C%22id%22:%22213098295%22%2C%22login%22:%22j_nathaliea030_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T00:04:22+00:00	auth-token	6wovsq1mjtkmp3br8tah8wwn7z9m7l

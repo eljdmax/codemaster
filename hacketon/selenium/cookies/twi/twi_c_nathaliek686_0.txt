@@ -1,0 +1,13 @@
+#c_nathaliek686_0
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:40:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	STQmEIVL1OJkRIecsnv7p7e3AymLLmxeG%2FmeWSQ3TVM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T12:44:13+00:00	unique_id	e797b6deed8269d4
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:44:40+00:00	persistent	213504740%3A%3A4ok9t5cgi5vbdhq2py28ng122ed0ci
+.twitch.tv	TRUE	/	TRUE	2018-04-18T12:44:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MDQ3NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDU1NDgwLCJpYXQiOjE1MjM0NTA2ODB9.3TZ3xseulPX_aQHXkuMS4Gs8t6SWQs3v5sfOeesZdKMk9mXTOqvL-kdr_Q8DAa_uWxAcaNqXxw3AsG2fUWARRg==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:44:40+00:00	login	c_nathaliek686_0
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:44:40+00:00	name	c_nathaliek686_0
+.twitch.tv	TRUE	/	FALSE	2018-09-26T12:44:40+00:00	last_login	2018-04-11T12:44:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T12:44:40+00:00	api_token	d9d36258fd2cc333b65b54e1689abebc
+.twitch.tv	TRUE	/	TRUE	2018-10-08T12:44:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbmF0aGFsaWVrNjg2XzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MDAyNjgwLCJpYXQiOjE1MjM0NTA2ODAsIm5vbmNlIjoiUWJJaDhNSEk5YWtNQVhBdGRIdG9ySUdhX0VLQkU5UGdheUk1NHZ1ZnE3TT0ifQ%3D%3D.pl892hcByOemQh-5RuK_VVhmGrzTc7xmgJDvL4h2sQVEjY_g6KuwK5WOJWRzCMVK27t2cGy0ZamlyJBkY3dj3Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:44:49+00:00	twilight-user	{%22authToken%22:%22lzfyrjw59gn22qzar8s52swjjrmoau%22%2C%22displayName%22:%22c_nathaliek686_0%22%2C%22id%22:%22213504740%22%2C%22login%22:%22c_nathaliek686_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T13:44:49+00:00	auth-token	lzfyrjw59gn22qzar8s52swjjrmoau

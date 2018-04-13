@@ -1,0 +1,15 @@
+#y_patrickd43o_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zDO0Ut5aFhkZwzs5GOvmFs1KkYwUf6%2FTgLN9RZTEUMI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T15:13:05+00:00	unique_id	66bf2ef771367da0
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:13:48+00:00	persistent	213276043%3A%3Atywp4u1ixu85tj8twru8m6wu9qdegi
+.twitch.tv	TRUE	/	TRUE	2018-04-17T15:13:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNzYwNDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc4MDI5LCJpYXQiOjE1MjMzNzMyMjl9.jtsD4wf4M7QDALfIesCVkrXI4ay7JrTZHPKML0wRRugGj0m_aEksoRL63KBcl8TyI4UzZelLXH4Bx8tK7TPv_g==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:13:48+00:00	login	y_patrickd43o_8
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:13:48+00:00	name	y_patrickd43o_8
+.twitch.tv	TRUE	/	FALSE	2018-09-25T15:13:48+00:00	last_login	2018-04-10T15:13:49Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T15:13:48+00:00	api_token	16ece9a8df42bb769add08544fdbb636
+.twitch.tv	TRUE	/	TRUE	2018-10-07T15:13:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfcGF0cmlja2Q0M29fOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjUyMjksImlhdCI6MTUyMzM3MzIyOSwibm9uY2UiOiJiWkE1aVRlUFBtUlY3YzhDLVNEcXVJSVRGbUpWVW45U2NTb0FXbmc0VFhvPSJ9.Vy_bLOMns_EgbJ5tBqcYAiDyGHtjri6oo0O2amReYTKN_GfsrW-pzNWK9a1OHToP3oYsBs8aBvFUSymW9tAGgw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	zoYxRZHw0flxlhKPIb81pvVAiZDrRIYy
+.twitch.tv	TRUE	/	FALSE	2020-04-09T15:13:54+00:00	__gads	ID=f52673edd38f15b8:T=1523373234:S=ALNI_Mbtu92ByE1eVYiJAmajR2Umdxm05A
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjMzNzY4NTMsIm52IjoxLCJ1cHQiOjE1MjMzNzY4MzEsImx0IjoxNTIzMzc2ODUzfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:14:14+00:00	twilight-user	{%22authToken%22:%22sowj3883vd9m4gan0iqr2abj0i9nzz%22%2C%22displayName%22:%22y_patrickd43o_8%22%2C%22id%22:%22213276043%22%2C%22login%22:%22y_patrickd43o_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T16:14:14+00:00	auth-token	sowj3883vd9m4gan0iqr2abj0i9nzz

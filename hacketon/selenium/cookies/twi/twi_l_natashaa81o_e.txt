@@ -1,0 +1,12 @@
+#l_natashaa81o_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yA2elYuRrPt%2BltmpsoWYbRKl3i97AHWNONhfD6CulVw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T13:50:37+00:00	unique_id	5d0e62a493d98f0c
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:51:09+00:00	persistent	213258184%3A%3Aq1xf5dvspoh8qdq5oxq81aazldxlq7
+.twitch.tv	TRUE	/	TRUE	2018-04-17T13:51:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNTgxODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTczMDcwLCJpYXQiOjE1MjMzNjgyNzB9.qjUZj9cWTaHuHA-rsWJCoqrifKn9fvhH0O0_iRJ8rBQqcUJDT6GzqbAyt6b0hI0Au74ZlA-oDkFfuyVypUi1dA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:51:09+00:00	login	l_natashaa81o_e
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:51:09+00:00	name	l_natashaa81o_e
+.twitch.tv	TRUE	/	FALSE	2018-09-25T13:51:09+00:00	last_login	2018-04-10T13:51:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T13:51:09+00:00	api_token	a12d3a3f18f99df54c9a479e2da10418
+.twitch.tv	TRUE	/	TRUE	2018-10-07T13:51:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbmF0YXNoYWE4MW9fZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg5MjAyNzAsImlhdCI6MTUyMzM2ODI3MCwibm9uY2UiOiJKd3BCUXJwZmdpVEMwR2pXbzM3aEQzVmJhd3hGWm1ZUFpjNERDeGhzSVBRPSJ9.tvTF5mZ_CBjL8WuvLtB178AEaJa8p_oJ4InBHkOVmMt6c8o5TeegSsOZ54uiLTRYiHF3ibn9ugAVh9_fegwoYA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:51:13+00:00	twilight-user	{%22authToken%22:%22ez9vguryji6x79r90pz93jm5kj1xye%22%2C%22displayName%22:%22l_natashaa81o_e%22%2C%22id%22:%22213258184%22%2C%22login%22:%22l_natashaa81o_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T14:51:13+00:00	auth-token	ez9vguryji6x79r90pz93jm5kj1xye

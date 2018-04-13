@@ -1,0 +1,13 @@
+#MrsKarunaSahdeo
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	15QJ752i1mw47%2B1mpZLNVSB3XkpJJVSvEr1ze9UJD%2Fw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:42:18+00:00	unique_id	0a8c0beacaa6d691
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:42:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:42:38+00:00	persistent	213820143%3A%3Aphz6c38xfk8lcnglidxm9951fam140
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:42:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjAxNDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcwNTU5LCJpYXQiOjE1MjM1NjU3NTl9.zZE62szZKlCl_WYQQLbzYaITuUM5k0NQnKTf3li8B1aQInfQ4I3NKkAbJFgXe39nNGkpaf297IpYxLQq8Uv1Eg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:42:38+00:00	login	mrskarunasahdeo
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:42:38+00:00	name	mrskarunasahdeo
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:42:38+00:00	last_login	2018-04-12T20:42:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:42:38+00:00	api_token	e86fd9341e60d83aff3576f36b5b2f3c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:42:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1yc2thcnVuYXNhaGRlbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMTc3NTksImlhdCI6MTUyMzU2NTc1OSwibm9uY2UiOiJlODVRWkhOeGEtRkJWa2pRaEZ6c1FmQVhoUlBGY0VTa08zR1BuNXlFLWg4PSJ9.XqZ4JrbZStc5AC8O6_6Rff8nfbhusZrqppW0ZnX1stvybW_xxZuXa6WGUAdc4vLgW5PZACSgYawfTFV8KzzK9Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:42:55+00:00	twilight-user	{%22authToken%22:%22lvz8ep9a0kckjhpgkfcyrx0vxgdldk%22%2C%22displayName%22:%22mrskarunasahdeo%22%2C%22id%22:%22213820143%22%2C%22login%22:%22mrskarunasahdeo%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:42:55+00:00	auth-token	lvz8ep9a0kckjhpgkfcyrx0vxgdldk

@@ -1,0 +1,13 @@
+#z_sandersa08e_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	u%2F%2F7ccI5LlSIQn11FwTlya8BcSQ1CVhJFGjcecndoc0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-09T22:26:08+00:00	unique_id	cf84842c2e4169d5
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:26:25+00:00	persistent	213089578%3A%3Avocpjsplruopzecx4c2dlxak94xr8e
+.twitch.tv	TRUE	/	TRUE	2018-04-09T23:26:25+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODk1NzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjMzMTYzODUsImlhdCI6MTUyMzMxMjc4NX0=.u31L_G0TYgh2VO9bAwzMys1tCrsBsuHlVPDG6bKXnkcd9-NjZkBh1ndIN6FEYtiiuC2cpq1s23GoJn9Vu_7Ehw==
+.twitch.tv	TRUE	/	TRUE	2018-04-16T22:26:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMwODk1NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTE3NTg1LCJpYXQiOjE1MjMzMTI3ODV9.ro7A6e5dEJfN-AasY1I5xTkZ0R7cjL-MiMWocTS9I9-ByI3_4uk-9p0HpgD7GLKT1H4P8g9YF1ZKg7NFFHrtjw==
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:26:25+00:00	login	z_sandersa08e_0
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:26:25+00:00	name	z_sandersa08e_0
+.twitch.tv	TRUE	/	FALSE	2018-09-24T22:26:25+00:00	last_login	2018-04-09T22:26:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-24T22:26:25+00:00	api_token	f067e037ad267b9052bc9574dfb2473c
+.twitch.tv	TRUE	/	TRUE	2018-10-06T22:26:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc2FuZGVyc2EwOGVfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzg4NjQ3ODUsImlhdCI6MTUyMzMxMjc4NSwibm9uY2UiOiJhektCUndRRG92cW1QYVBfREhRVzhrWE1EMmR4OWpLaTk1RDlwSER4SzYwPSJ9.8RPlK2HQjJr0F2mLHXqA4dUOARZDz3-ckA09ckLunZPH9kMAPfkdCIqFyQ6TbzhF6SwvROOg7gErTMNkjSk5pw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:26:26+00:00	twilight-user	{%22authToken%22:%2200tmof4scy56ii4stzf2hc58o4tet0%22%2C%22displayName%22:%22z_sandersa08e_0%22%2C%22id%22:%22213089578%22%2C%22login%22:%22z_sandersa08e_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-09T23:26:26+00:00	auth-token	00tmof4scy56ii4stzf2hc58o4tet0

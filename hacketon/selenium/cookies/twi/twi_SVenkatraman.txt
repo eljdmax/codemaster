@@ -1,0 +1,14 @@
+#SVenkatraman
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dZZvffqitE42YpRwxuH6UbWUcifm9XtLUrkX1GkvBOo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:39:51+00:00	unique_id	f9d83d099c826482
+.twitch.tv	TRUE	/	TRUE	2018-04-13T09:39:51+00:00	_twitch_session_id	394db34b75c794057ce511c6fb658e28
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:39:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:40:15+00:00	persistent	213831939%3A%3Aquwmt0nxjja78bde8sfz1s9js1ynth
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:40:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MzE5MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTc0MDE2LCJpYXQiOjE1MjM1NjkyMTZ9.cEcIzneTffYJOdj3ulTNyyiuCEI88nHbfJc2QKkw6G1G4_iUOg0Ie3hHRpTAjIfzxta8AR82-uNXEpgoXABv4w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:40:15+00:00	login	svenkatraman
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:40:15+00:00	name	svenkatraman
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:40:15+00:00	last_login	2018-04-12T21:40:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:40:15+00:00	api_token	5f526bae70d41cf3084f5f746882beb4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:40:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InN2ZW5rYXRyYW1hbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkxMjEyMTYsImlhdCI6MTUyMzU2OTIxNiwibm9uY2UiOiJhLVNBZDliSEgzUk1KNHV4aV81VExtRnlUV2pIR2JvQTgzMHI5SVFEbTRNPSJ9.XcoPikr1_PXVpe97RvnyfJ9QBB99uhFZfmt_I20xLDiHbm-ryGAGAqN5FQICu305YMoGZJOUj9iLGOs0NGycMg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:40:28+00:00	twilight-user	{%22authToken%22:%22vvgmo8sle7zvv8kik1k29pm2wdeaz4%22%2C%22displayName%22:%22svenkatraman%22%2C%22id%22:%22213831939%22%2C%22login%22:%22svenkatraman%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:40:28+00:00	auth-token	vvgmo8sle7zvv8kik1k29pm2wdeaz4

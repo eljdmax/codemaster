@@ -1,0 +1,13 @@
+#ESivakumar
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6hT%2FY9RxphMFdtPKKI7GacwGAcqnbvRbnQm8cjCelJs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:53:19+00:00	unique_id	aaa29302b2e23a15
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:53:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:53:34+00:00	persistent	213822226%3A%3A0jnto5shjulq5mxjhhmj8wdln0q4ld
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:53:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjIyMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMjE1LCJpYXQiOjE1MjM1NjY0MTV9.A4V54qjeh5fhpYBflqLH07Kgg5eaHGN7fvG-JZBVJM7TbuvdgB9Yhfoq_uDrQVaEwfXqQdNz6ZFpbNumyuV_9w==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:53:34+00:00	login	esivakumar
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:53:34+00:00	name	esivakumar
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:53:34+00:00	last_login	2018-04-12T20:53:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:53:34+00:00	api_token	7280eb7994caec771822d6596dc99ade
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:53:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVzaXZha3VtYXIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE4NDE1LCJpYXQiOjE1MjM1NjY0MTUsIm5vbmNlIjoidnUyRjM5SEdoLU5CVExvY1ItR2hMMk1NR0tlNU4wTGxUcmc5X1lsQjBkUT0ifQ%3D%3D.6Dzvo3tsQZeUVD2k52Bm7IeyhSmR7Qf7vprm29xF9IMu3yMyuh1YBxOh5h-iLUq6GyC7NiDHVX8_h1_mdV_V_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:53:49+00:00	twilight-user	{%22authToken%22:%2258170zghgvbffmr5dlleviy6lmyjqx%22%2C%22displayName%22:%22esivakumar%22%2C%22id%22:%22213822226%22%2C%22login%22:%22esivakumar%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:53:49+00:00	auth-token	58170zghgvbffmr5dlleviy6lmyjqx

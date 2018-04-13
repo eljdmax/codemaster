@@ -1,0 +1,13 @@
+#m_nathalieb492_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	npJ68mpf28PQ9LB7Sst9F9FnkqLqXtWDzpg4eDqO4WM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-10T14:08:52+00:00	unique_id	62e1c3666d5cce30
+.twitch.tv	TRUE	/	TRUE	2018-04-11T02:08:52+00:00	_twitch_session_id	7a9bb9e3a454f8f5dbf3c33cbdf3ad1a
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:09:24+00:00	persistent	213261912%3A%3A3vjtl88g25695vlex2j9obpdpueamm
+.twitch.tv	TRUE	/	TRUE	2018-04-17T14:09:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTMyNjE5MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTIzOTc0MTY1LCJpYXQiOjE1MjMzNjkzNjV9.rANtMSVhJ7lHjxX70SE60fsLqdZYywHI5ojefQopnFf8snfAyvm_aACpEtThwqdih6Bu_6ffXAlnRPmys73JlA==
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:09:24+00:00	login	m_nathalieb492_x
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:09:24+00:00	name	m_nathalieb492_x
+.twitch.tv	TRUE	/	FALSE	2018-09-25T14:09:24+00:00	last_login	2018-04-10T14:09:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-25T14:09:24+00:00	api_token	ba5a83d4009b0962f00a0bfbc7973d41
+.twitch.tv	TRUE	/	TRUE	2018-10-07T14:09:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbmF0aGFsaWViNDkyX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM4OTIxMzY1LCJpYXQiOjE1MjMzNjkzNjUsIm5vbmNlIjoid1pRMl9jajQzZUtoQmlYcmRKcEVWMC1IQkVKNlVlYmJsWTdOZmFNODJvZz0ifQ%3D%3D.WruJcsEiiRQzuEZzpt_fTLi8wC41dG8PoOoPdLZVf4qWAo0FZEHks6Oe-ldqDvchExVpeLOZXzH_xGRh6witpQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:09:28+00:00	twilight-user	{%22authToken%22:%22fgq8kfx6wltmsp0e2xqmc14ck0h2bb%22%2C%22displayName%22:%22m_nathalieb492_x%22%2C%22id%22:%22213261912%22%2C%22login%22:%22m_nathalieb492_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-10T15:09:28+00:00	auth-token	fgq8kfx6wltmsp0e2xqmc14ck0h2bb

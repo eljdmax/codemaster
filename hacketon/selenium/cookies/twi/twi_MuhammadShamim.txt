@@ -1,0 +1,13 @@
+#MuhammadShamim
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2MtTJcSu%2FGY1g6fqrzz8VND4xw2cEJsNQv3vV90iLuU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T21:14:57+00:00	unique_id	fbd012e0cf9e4807
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:14:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:15:25+00:00	persistent	213826450%3A%3Awoh56d47je81hn3726if85wtvjduo9
+.twitch.tv	TRUE	/	TRUE	2018-04-19T21:15:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjY0NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcyNTI2LCJpYXQiOjE1MjM1Njc3MjZ9.HbljBKW682-AV9GYDkZ1jdzG332k46D8PsUz6G8Xf_xDVzSgqtaojium94v-aJHuCinCRxxXTtTnELontxZYxg==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:15:25+00:00	login	muhammadshamim
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:15:25+00:00	name	muhammadshamim
+.twitch.tv	TRUE	/	FALSE	2018-09-27T21:15:25+00:00	last_login	2018-04-12T21:15:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T21:15:25+00:00	api_token	61b286c2f112d0eb04c870e67f1ec4aa
+.twitch.tv	TRUE	/	TRUE	2018-10-09T21:15:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im11aGFtbWFkc2hhbWltIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTExOTcyNiwiaWF0IjoxNTIzNTY3NzI2LCJub25jZSI6IjEySmRyZFhKQi1oT2lncEREVkhmMzdLV2xXMVNBdWN2NVgzZ0FWQkhLMEk9In0%3D.SfsQuc2OSOfz8P-xajN2RkzVKsbjfVhif6ZLChWF57Jgi1KN2F_0QGeeA9CjRnh4Oxn4qze_zQNNtVS7ruM1lg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:15:40+00:00	twilight-user	{%22authToken%22:%225wms1hkdevtavj0j5wrgyb8kizrdlj%22%2C%22displayName%22:%22muhammadshamim%22%2C%22id%22:%22213826450%22%2C%22login%22:%22muhammadshamim%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T22:15:40+00:00	auth-token	5wms1hkdevtavj0j5wrgyb8kizrdlj

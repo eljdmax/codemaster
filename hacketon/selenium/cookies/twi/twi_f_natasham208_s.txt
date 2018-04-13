@@ -1,0 +1,13 @@
+#f_natasham208_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Zg4glWvEoTgQrgl6xIWWCQW9q6XkgCYpYLjbaWm5JFU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-11T14:34:34+00:00	unique_id	8dddce370fc731fd
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:34:34+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:35:05+00:00	persistent	213523188%3A%3A8q0gv5uj77816k00tcga9ugups5x7v
+.twitch.tv	TRUE	/	TRUE	2018-04-18T14:35:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM1MjMxODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MDYyMTA1LCJpYXQiOjE1MjM0NTczMDV9.awWNVh-7pnDQXOgZs1SRIU6ihhZ_crgmDrwdLblhAdMYQzVEY_8NMr-lQ9kVNGvLDPXI2Y85soXCPfNMlf4IXw==
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:35:05+00:00	login	f_natasham208_s
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:35:05+00:00	name	f_natasham208_s
+.twitch.tv	TRUE	/	FALSE	2018-09-26T14:35:05+00:00	last_login	2018-04-11T14:35:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-26T14:35:05+00:00	api_token	b4f59c7dbf9bea51e001e04d140ae3fd
+.twitch.tv	TRUE	/	TRUE	2018-10-08T14:35:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbmF0YXNoYW0yMDhfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkwMDkzMDUsImlhdCI6MTUyMzQ1NzMwNSwibm9uY2UiOiI2ZzVZQWJya1pnRUFtb3cyY01VN2Q5bXBUX1VrZ0lCMkN0ZTBjYjVXOHBzPSJ9.BIoYayhItd6VGktwG5FcWETWWnQUJJ7Yl8A0XIvnwOAUHrjuYLbjWX1sA_FJqFpdEPp6aXgVcqOW4nQPTLjSpw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:35:13+00:00	twilight-user	{%22authToken%22:%22rvitg0000734q3wm0pso57wh8yy3gq%22%2C%22displayName%22:%22f_natasham208_s%22%2C%22id%22:%22213523188%22%2C%22login%22:%22f_natasham208_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-11T15:35:13+00:00	auth-token	rvitg0000734q3wm0pso57wh8yy3gq

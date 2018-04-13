@@ -1,0 +1,13 @@
+#MohamedElSays
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F8AKCf1Huk%2BeKJ%2FaOfxOv%2FqdEBYi36ElOKEYfo%2Fivrw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-12T20:50:45+00:00	unique_id	5105110c48f6b362
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:50:45+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:51:12+00:00	persistent	213821733%3A%3Aez7wneubup42dahc1n5opve9wu39gz
+.twitch.tv	TRUE	/	TRUE	2018-04-19T20:51:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTM4MjE3MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MTcxMDcyLCJpYXQiOjE1MjM1NjYyNzJ9.B53ix_P_rSAiKFKowjTs0jL7Q32OZLwOfxEvftWPbVGNt_71INPPOoQB0t_y8msOzzycfZjw1xQDUCfqPusJnw==
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:51:12+00:00	login	mohamedelsays
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:51:12+00:00	name	mohamedelsays
+.twitch.tv	TRUE	/	FALSE	2018-09-27T20:51:12+00:00	last_login	2018-04-12T20:51:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-27T20:51:12+00:00	api_token	ce703d4a563380a13276b1024853157e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T20:51:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1vaGFtZWRlbHNheXMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTE4MjcyLCJpYXQiOjE1MjM1NjYyNzIsIm5vbmNlIjoiVk1JeFhJRzZfR0NNcmhiN05wc2xVdFg4NzYteVRMaVpBUXBmbWpqdnhyVT0ifQ%3D%3D.pX0eaT6QUhIj-x4VMFWWOqmRdSWrA4NkhXFNyXrwU1OxwCWFQZ7YQixlKwH_CfwOM5NlBHTk2ZwIHHwQpVOTwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:51:27+00:00	twilight-user	{%22authToken%22:%22fovs0nc3gt9v1edbczw11b979bpct3%22%2C%22displayName%22:%22mohamedelsays%22%2C%22id%22:%22213821733%22%2C%22login%22:%22mohamedelsays%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-12T21:51:27+00:00	auth-token	fovs0nc3gt9v1edbczw11b979bpct3
