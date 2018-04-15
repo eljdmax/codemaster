@@ -1,0 +1,19 @@
+#s_wesleyv83_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tv46TkIjVjRkeVAR1Yy%2FMhJWVZHEcRCWAncen5mlw7c%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	5d3263cb96ca67d752048b8bf30419e3
+.twitch.tv	TRUE	/	FALSE	0	persistent	214499070%3A%3Ak1rum2wm57iduucs6foq3e4p1s8ae5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTkwNzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MTE2NzksImlhdCI6MTUyMzgwODA3OX0=.i0Nfs1MzPRYOiSbbppp12CPivLIxSpjKpBLV3a09i2GLMJ7GTlxjUtPmnUe0ekobdjWTJdggveJxd5VVcMTxtg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTkwNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDEyODc5LCJpYXQiOjE1MjM4MDgwNzl9.retEuOLvFnj-ypcIDH8lf4wOUZcj8bvgsYqAsGxETU9mlNibg89VyPhU4r2xd9NxbgjS5X_fzg5b7TIdXqCs3Q==
+.twitch.tv	TRUE	/	FALSE	0	login	s_wesleyv83_1
+.twitch.tv	TRUE	/	FALSE	0	name	s_wesleyv83_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T16:01:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	918678c1049c8ca5c77719214f065c01
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfd2VzbGV5djgzXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzYwMDc5LCJpYXQiOjE1MjM4MDgwNzksIm5vbmNlIjoiYzMtUG5kdG5hV1AxMi1wQktBNTVYWDJ1NFNzMDM3Slc1NkdvbHQ5ODh6RT0ifQ%3D%3D.UKWsl-C7hiOGEJfIh7BPAI58b2poB7pdGeX-JymJIpLK-c9o04jclqKhnj4LXD7l5kyTBHEjdmYf5aBcJKxKlw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22eot8kq3s4cskecb05np0lhtqsgsrx1%22%2C%22displayName%22:%22s_wesleyv83_1%22%2C%22id%22:%22214499070%22%2C%22login%22:%22s_wesleyv83_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	eot8kq3s4cskecb05np0lhtqsgsrx1

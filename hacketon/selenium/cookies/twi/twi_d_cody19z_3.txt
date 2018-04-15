@@ -1,0 +1,18 @@
+#d_cody19z_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eqzi2QA2bXjM3z7AiOhLKBpEjpH%2FsqhSCWuwXvF6ws8%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214068639%3A%3Awl1ypjpnb3joilj6sehdfvij2mjtj6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjg2MzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NjI3ODIsImlhdCI6MTUyMzY1OTE4Mn0=.rYO0GGn5908c2x0LBoh29AORccf2gOLtkbzCPr4ZUx1sEr5gTsTXPF40JCvwdk3X54GfTU7i1zB-6mWqdkOfzw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjg2MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjYzOTgyLCJpYXQiOjE1MjM2NTkxODJ9.2B0PXhISLCj1u1HsboGYL4OCES9DICiuIYvBAarNpE0Csk4LrPvAaIxoh6CpxSsv2POr7E44gsU8-K5m8Quvbg==
+.twitch.tv	TRUE	/	FALSE	0	login	d_cody19z_3
+.twitch.tv	TRUE	/	FALSE	0	name	d_cody19z_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T22:39:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d79016e3edb73c0fa9935a4e6147f531
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfY29keTE5el8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIxMTE4MiwiaWF0IjoxNTIzNjU5MTgyLCJub25jZSI6IkxEWXNsSGppRVNBMjZPeDF0cGZuR2x5QmVsczJLLUp4Zmg1Snhld1NyUlU9In0%3D.ZakxkLn3ZEW8bIcLueFGITx-k5wc-LPRP2YpilTdgtrRClf9xINEQYTw69ZbkrmCKHgdfFeE6J5UAc6a_8QItw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221ezy51rk97l275xnubealfvtsionbw%22%2C%22displayName%22:%22d_cody19z_3%22%2C%22id%22:%22214068639%22%2C%22login%22:%22d_cody19z_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1ezy51rk97l275xnubealfvtsionbw

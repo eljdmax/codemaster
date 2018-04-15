@@ -1,0 +1,18 @@
+#g_arianas2g_4
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	COH51qUgnTveQ5VDobq2jEwAtasNCb1q5I%2FQiMK3tcE%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214314436%3A%3Ah8thc35arlt2je17vllfuu6mt87up3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTQ0MzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDQ5MjAsImlhdCI6MTUyMzc0MTMyMH0=.yT2LeAu4eWZf3Hui2021Y6RY0G3Bys9n3LRP-Loe-FMb5XKqkoM5XwjHO9C3khcWPZuiixtPGEzQyUF3Kh1McA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTQ0MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ2MTIwLCJpYXQiOjE1MjM3NDEzMjB9.-Vd5M5WYn0AW7JS_oUO2D9RRb2y4eOc2ULvmY8Bhd8-41k05o7Ge4LD4SGAyxv3yGcgjrOsZ6dv46paXLcxYYw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_arianas2g_4
+.twitch.tv	TRUE	/	FALSE	0	name	g_arianas2g_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:28:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	09137daf442aca77bd7e52cbed82d903
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYXJpYW5hczJnXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjkzMzIwLCJpYXQiOjE1MjM3NDEzMjAsIm5vbmNlIjoiUWVvSzVVRE5xQjlZa3ZJYkc5allwXzN0YllxUUY3bUVvQTFrSmVFZjVfWT0ifQ%3D%3D.kgkeXlalxOrSGb-zTaBV4jRULv8itwuxBxscz4PNa-1HvtsflJRw6jtZCn-vq8vmrUQFbE2gRykDfm9-vK5yKg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xzjqbeqc88k4krfciyt0wi65zzlq02%22%2C%22displayName%22:%22g_arianas2g_4%22%2C%22id%22:%22214314436%22%2C%22login%22:%22g_arianas2g_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xzjqbeqc88k4krfciyt0wi65zzlq02

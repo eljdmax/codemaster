@@ -1,0 +1,19 @@
+#b_rebeccan77_7
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xFDhNhIuLuCF8ZYdVHDZTySl%2BcarDnRcEnbGHrjqOSg%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8926fc73ecc4b540c823163c0079dfd7
+.twitch.tv	TRUE	/	FALSE	0	persistent	214049730%3A%3Az0iimjdrggvgjnmnfektves692an42
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDk3MzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTczODEsImlhdCI6MTUyMzY1Mzc4MX0=.qsKzlRxkn_oidhLbLTRllFWeLGJ5FgEhs8ooP3VcDI-jCuUxKFpS3Swr-tmr50_A34ia9yRIBxK1gK1g-CPYRg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDk3MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjU4NTgxLCJpYXQiOjE1MjM2NTM3ODF9.WgNRoZjTfVe8mTdSO4eqA4Xfdd1iFlm3Hnka1WpVinX1yiKn4nuk6j5OBX5KkoHU2W9POYIqZnZvvmfNgUGhyg==
+.twitch.tv	TRUE	/	FALSE	0	login	b_rebeccan77_7
+.twitch.tv	TRUE	/	FALSE	0	name	b_rebeccan77_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T21:09:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7133f97cc1d30d4073f4f3d66253a014
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfcmViZWNjYW43N183IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwNTc4MSwiaWF0IjoxNTIzNjUzNzgxLCJub25jZSI6IkRPQ1VVd1ByU0JZbGtZV2ZMckUzLVZwZ3Z5RGgydHp5Z3FQQ013clJ2bjg9In0%3D.noDxUS89VVKDIIjHxu41fT8G96dvb64LAPxVtdOOiuZGWYjq-jDkoZbNyruCHxwRiC3s8JvodV1wurwENPCwgw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vzmwi2azf20u35b0x4fk3qnqoatk3f%22%2C%22displayName%22:%22b_rebeccan77_7%22%2C%22id%22:%22214049730%22%2C%22login%22:%22b_rebeccan77_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vzmwi2azf20u35b0x4fk3qnqoatk3f

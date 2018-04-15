@@ -1,0 +1,17 @@
+#r_natalie54r_a
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	5iliZgJ60pabmLvq_bwuVjjNoIgQYqIviogjQTFoR0oi0kpsleeyOJot9xm5s3kt0X1Vz0wKhtgXKQ_ZURiG4qNPYl5MLokaIRDhBTegbr81
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	hi1umvmbccs4s5su0hrkreyl
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	nZX3IycXBMxD-CWQYXe7VP42Vdul-ai1pyRnd6vSdMIzPS1QycYvNvOo6v69RuHkMAdpsi7nce6QvaTSzrN4MDTcuufn2IRFpOwKgF1xa0MgdGhxrEC6hnKGt2evAhY5dPeNKbItjZLjCtdJY4gcBPIJi-1swAN2LK5aRQVqLE5Wz_nNqwejNl8-7a-saR-J4ApmvFxZP_ZpJVspE3VhWsCv9Nx3eYaCS83u0hNMVwL8mc8wpMX6j9vfY4Bj7L8WCtaozW5YU6bSGJ5uIGTGYe3ZIq7Pu2TPQ00VZ3f59qFZ4pQSHk3WzfNQB-w3qGg1sba1DzhC-bCNfT7RT8nUC-EKiZ9nG1RncGztsRqZWLj29HweFKKprGQaZxWJiZYiUfziLh4pgri8hED-oQ4VPqAotxZxTK6EncL1sl0n3yFynyaaqSH4wumICatGrDNOsBhj3gUFR6fN_4OmXriA42W2UehHS-S86vCyx8TDZsRvYN9Nxu8yi2mRkjtqhUEo

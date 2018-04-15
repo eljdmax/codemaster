@@ -1,0 +1,21 @@
+#o_erica2m_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FRsdJir4A3mLwARck1k7HcX1TneWO%2BxwExzjJEuXjW0%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214059690%3A%3Ar3pznjt0wff06sww4zquoyumyscoep
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNTk2OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NjAwODgsImlhdCI6MTUyMzY1NjQ4OH0=.A2mGdg9i9-uNye5uDa_PMBhOdQCjPTPZ5j7qwMm4Yi1j2QtksWCVv87mrM9wXPkoBDcDMNCKqAKeaVQDp5b64A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNTk2OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjYxMjg4LCJpYXQiOjE1MjM2NTY0ODh9.ue-ffW2PGN4kp46zEb_FSZbNdMbjk2-cy2q1rqO7gTiIeMiX8GNCGt-ytqa9pG_xbrAKU-RvArF-5vukSFMVLA==
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T21:54:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9c45f9018fae1ece8e1512a12a680459
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZXJpY2EybV8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwODQ4OCwiaWF0IjoxNTIzNjU2NDg4LCJub25jZSI6ImdRVk9JR0c3TmR4WTFORDNPMWtUZm0zMmtvSWlNV1loUFlod2N0QkQ2akk9In0%3D.lyktY0olRDrM0G7D04saW6XrhvKRvp-hl4H3qurhikvMliePHU0juGTRDBMjmxA2KggAal4gg4yySJNV2MR04w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vz75ymcpps5wsa9pssawvlm12alome%22%2C%22displayName%22:%22o_erica2m_2%22%2C%22id%22:%22214059690%22%2C%22login%22:%22o_erica2m_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vz75ymcpps5wsa9pssawvlm12alome
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	9TEKwA3uWGf7DuQuQonW8pXaLu7zVLqi
+.twitch.tv	TRUE	/	FALSE	0	login	o_erica2m_2
+.twitch.tv	TRUE	/	FALSE	0	name	o_erica2m_2
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	FRsdJir4A3mLwARck1k7HcX1TneWO%2BxwExzjJEuXjW0%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8b459f4a48ec467fd1e3216679e6afc1

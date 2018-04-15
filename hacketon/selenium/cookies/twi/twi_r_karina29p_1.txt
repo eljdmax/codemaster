@@ -1,0 +1,18 @@
+#r_karina29p_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	OvtXLFSG2okSc1iir7wmAL8v%2FOuGQTTvb%2BpqEKi8DFM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214479376%3A%3Aulw6z09uzzdyjulxbffiuxt40a4btd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NzkzNzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDY3MDksImlhdCI6MTUyMzgwMzEwOX0=.gwm2_BvlwUYnXQdu52rbQmLEn-L109SF_UwXcLkKIEebDDjBR5KJdC5hy13wlaa58I9hvaC9JcvYVGU3yA6ICg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NzkzNzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA3OTA5LCJpYXQiOjE1MjM4MDMxMDl9.oD7nFGFu6ohPlUA5cDijWypuHyWzrpCk39uhP5xkjMFp7gEu6MNtqGXLDPu5xLN94K_qiCH487U5TXrgZBocJw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_karina29p_1
+.twitch.tv	TRUE	/	FALSE	0	name	r_karina29p_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:38:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4e2c71a0b9693c3c0cf1d105bc4353a7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfa2FyaW5hMjlwXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzU1MTA5LCJpYXQiOjE1MjM4MDMxMDksIm5vbmNlIjoic2ZxcEhOQVNpZ1RKSjY4X3kwazhzM0RTUU9vTEtkWEdNbzZJLVBqZjdVST0ifQ%3D%3D.jpyRNQFHTS5-EqcVwSicpWr6R8vOiz9M7wUvZyIAE2sR3Atj2Friq2cc0KbhZHQINwbe5s97Vf7HPL2Nh4nCsQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cgy7te698iwnltpg36sdhdm7pk70ke%22%2C%22displayName%22:%22r_karina29p_1%22%2C%22id%22:%22214479376%22%2C%22login%22:%22r_karina29p_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cgy7te698iwnltpg36sdhdm7pk70ke

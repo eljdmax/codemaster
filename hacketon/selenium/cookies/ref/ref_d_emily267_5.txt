@@ -1,0 +1,17 @@
+#d_emily267_5
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	BLE7-LrnT07c8GQCFkffeQKRYSLROmM0TmEEs2WDMdouw4umrBkUkQqp7YWT_ZYO2hHWWNGuhxdvvH5O1PycELPzHL1IU_hMn5R7UgsFDbA1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	0tqhqto0slbrr55euj5unp2g
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	aV1dJ5UKUA_YoBAsrp3PK4Z8kf27cvVdx8J3FW4oyudPB3BJLz0XAxkIpXJk8RwgN3PedizsZ3dwhJtoUHmEZxuiHtKmuIh1rWX1UXc-zXyyqYy-Vk97g_RIwMrYiy9hH4_G9ZReKL7WFPx1AWCv_Y0ZtLie1nnyBbO8mpHSN_oJTqbl2maIv3QCHbmSGGhAAcYpf2vO0QbuEuKXxLzXoLXhbmVF28l3x2KlQ55VEmqHrLrOYGHgtkw22VXlilMOdWeaPZ7qMvofZlHIl-Uuk1yhWlXAHef3tjnm1pBfwR13meiVQth6sza_gcZS1FNLy3kvXTm8UGSS_xfUnGlhYj6vEtwOYEtM4EzuEeYaVva3EXF6xGxnPCDGxlriDYL73r8AXwcv8bb_TSezy2EuIW_9mVaYgnzkQkhQyQ260ERQnoNO2-piu6yUx0ls24nvvaCi2iwMfYAxcxZ3rigYgnGPGqkR93w2cO9ORvCrnsbtQ44Zfe-VTaxDFEbt_1vo

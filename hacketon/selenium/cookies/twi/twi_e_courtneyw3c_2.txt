@@ -1,0 +1,18 @@
+#e_courtneyw3c_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	j%2FdVmO01MbhrYuSWjOZI7Qj3yxwnjWOx6JAtOGbC%2BG4%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214241066%3A%3Agaz8ux7og4joie4eeg9p4oa88kiohi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDEwNjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3Mjg0MzEsImlhdCI6MTUyMzcyNDgzMX0=.rUohEH5De5QUrAv4EJg_3JruRBVZTzJLq64qD8xnXLxbcDWP-B-uVE2ZyqiUMb_qo-n-w2SSU0mNQh5W6ucRDQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDEwNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzI5NjMxLCJpYXQiOjE1MjM3MjQ4MzF9.YhXQZqLsRuWAEFoJcZBS3vHdXoi1ysC8_9yP8Erayn32Gl7TShuCIUt5eCzVhH8qqbzw-fxpdxQlBdE-jwfDRA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_courtneyw3c_2
+.twitch.tv	TRUE	/	FALSE	0	name	e_courtneyw3c_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T16:53:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f10539d52c414f706c8255423bba6e4f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfY291cnRuZXl3M2NfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyNzY4MzEsImlhdCI6MTUyMzcyNDgzMSwibm9uY2UiOiJYSWRCYkhDbmhra1pSMW1pZXAzSFZ5TzlIdjRSbU5MZHp0Mkt4dml6UFZVPSJ9.qp2NLdBzbR9Z1XXF6YIzQoJuItYh_cEIfNv6RptwqV1bKcFHf_GoSHE2PaNPCEIhcdZ9IeMySuqV2pOhs0HP1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jq1xu8hg4u1o0p2rb7yx4nqjvyacgn%22%2C%22displayName%22:%22e_courtneyw3c_2%22%2C%22id%22:%22214241066%22%2C%22login%22:%22e_courtneyw3c_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jq1xu8hg4u1o0p2rb7yx4nqjvyacgn

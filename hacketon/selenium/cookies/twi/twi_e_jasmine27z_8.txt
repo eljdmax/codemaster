@@ -1,0 +1,18 @@
+#e_jasmine27z_8
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dgdHqakAsKZMH5zPvGrq2Kr16N%2BlfPrL4b6HNLZSVNQ%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214459294%3A%3Apvgao26i6pvmqagr0zl9z3bae3tgcd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTkyOTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDA3MTksImlhdCI6MTUyMzc5NzExOX0=.CBrz0p5BAzPIC9LjsKLaoryplCgMoGJvjrIXf6-v9hT7Z4rq6K9pVSEGXHI7wLRNPcMuAups5D5az-_F8eAhcA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTkyOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDAxOTE5LCJpYXQiOjE1MjM3OTcxMTl9.19ID2qcHjwD8vL0ch43R9tL4fNJorX-qV2zSkO0zRbaSza59BwiOCG990JV_cyoJdZ6Io-mxRMmJrKpmwd8bew==
+.twitch.tv	TRUE	/	FALSE	0	login	e_jasmine27z_8
+.twitch.tv	TRUE	/	FALSE	0	name	e_jasmine27z_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T12:58:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b3d1ae364669a8717ea4fbe5e7ea70e3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfamFzbWluZTI3el84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM0OTExOSwiaWF0IjoxNTIzNzk3MTE5LCJub25jZSI6IkxxY1lobGNwQmkxbEVIZkY2LWx4S0l0d3RPMUMweVRpVGpYemlnZ3AzVEk9In0%3D.pBeosCu5ughh9ylPDfuKiiCEv7acKMguHiUeGUkKt9GY_lfsSKXVhlmYkMCLthv4zzQ_nnmIEFPT_R3w2qgb-w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22q1hcb1xz5fin4victfd1ivwvineihp%22%2C%22displayName%22:%22e_jasmine27z_8%22%2C%22id%22:%22214459294%22%2C%22login%22:%22e_jasmine27z_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	q1hcb1xz5fin4victfd1ivwvineihp

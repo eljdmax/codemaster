@@ -1,0 +1,18 @@
+#k_andreaz1n_z
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QJmqNprQ0uOEk%2BqEC6Y7OD6F4sV0%2FLrLGChnSJSoACk%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214172247%3A%3Ahjq2x0s7fyyueeia6elakr1hpt3o21
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzIyNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDc4NzUsImlhdCI6MTUyMzcwNDI3NX0=.yanR2Tj6XnAjhd6EkRItEdgRKC643lwcoynlIUQ7MCJne-kok48216gNNonyyVSgYlEFZzSgksvrTE8FZZc8hw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzIyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzA5MDc1LCJpYXQiOjE1MjM3MDQyNzV9.Twx07HQRDmha-PvC_QnKqcjrAiiclXU1t6h_P_1FalxWXbIonR8gwbNxQKYe8fOxosW6NM4ybMSyanmpYA4iZg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_andreaz1n_z
+.twitch.tv	TRUE	/	FALSE	0	name	k_andreaz1n_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T11:11:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ae5fb34d071f99496f4723d9a6ef5436
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYW5kcmVhejFuX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjU2Mjc1LCJpYXQiOjE1MjM3MDQyNzUsIm5vbmNlIjoia2wzY2g5ckFCQU82VDVNal81LUJfc1liX1picW5CUHpuWlNQNlpKQ0Jmcz0ifQ%3D%3D.CLApXXExTa3qDbB1pPvImzQb5cOdqGmE_XVph41okvVo7P9VL8B4ZNbATJlG6Dn5l3JT9mSD3sINasDgasW03Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z6pfgoiz4vbtg4g5iq5sb6ufzl8cyq%22%2C%22displayName%22:%22k_andreaz1n_z%22%2C%22id%22:%22214172247%22%2C%22login%22:%22k_andreaz1n_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z6pfgoiz4vbtg4g5iq5sb6ufzl8cyq

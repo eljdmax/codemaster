@@ -1,0 +1,18 @@
+#i_marissa10t_7
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yvArOXSmGmv8reHBgnfuY3Y4oEe2hfBD4a5020CvKfM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214248259%3A%3A04l9tdxrakrp9ftkuwy5wzzjcwagt3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDgyNTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3Mjk5OTcsImlhdCI6MTUyMzcyNjM5N30=.8DOhHVx0pDrAtlbofbgZIu3Z7C5pr2h7AV3W5PnDKYsvoLMnbFvojizYshLm0_41YRxg9lZ-Nc8ctv8ZypZFeA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDgyNTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMxMTk3LCJpYXQiOjE1MjM3MjYzOTd9.TunR6UYFhJaRw4UMaBAl9ZHzZt_hAb8XA1qLcTV5NEc9bFJ-vAnQ6nMqvhNdJlvb481i6JiwtnWHfZlcsYiLkQ==
+.twitch.tv	TRUE	/	FALSE	0	login	i_marissa10t_7
+.twitch.tv	TRUE	/	FALSE	0	name	i_marissa10t_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T17:19:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	546039262d3b7c2577d7d4d19c04e585
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFyaXNzYTEwdF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI3ODM5NywiaWF0IjoxNTIzNzI2Mzk3LCJub25jZSI6InExM0w1c0J4ZFN6bXd5NzhIdWVvdHNIQm40LUtFOXJFamIxR0cxVEExNE09In0%3D.XVEwP1_QC4NWSLOXFSirG7166XtW1hg1qdUbFCx7iSTVlpPP5wpL7u8MQ4q0bl68D5Es8fBsqPb9AHVLET9FKg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nywmu7tfyb0rdyueg2hm938o7ivt1b%22%2C%22displayName%22:%22i_marissa10t_7%22%2C%22id%22:%22214248259%22%2C%22login%22:%22i_marissa10t_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nywmu7tfyb0rdyueg2hm938o7ivt1b

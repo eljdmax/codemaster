@@ -1,0 +1,18 @@
+#d_peyton25f_q
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gAAFwdv%2FgWNPyZuQ37HXWM%2BeIGUzev5708jefWQ7tPI%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214302456%3A%3A9gha1rtswtf2vhdyqg9rjexsc6ymh9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDI0NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDIxMzgsImlhdCI6MTUyMzczODUzOH0=.SC1psj43UsHqehf7Msfq9qiEF0x8-gEhIUn5fkntOfkhM6swx6ir1Gmqm93JG7cqhISVadPpBZ7fm7Zs--l0jw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDI0NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQzMzM4LCJpYXQiOjE1MjM3Mzg1Mzh9.n-kEtK95QjNnNSeEmDI7WymoJGSSw0tZ9nldqWqyvHZirjhbql2pUR2b0tBi279CwA27XEdP4l41WXM9m0blHw==
+.twitch.tv	TRUE	/	FALSE	0	login	d_peyton25f_q
+.twitch.tv	TRUE	/	FALSE	0	name	d_peyton25f_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T20:42:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	515c08972548772d62f3099191b009dd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfcGV5dG9uMjVmX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjkwNTM4LCJpYXQiOjE1MjM3Mzg1MzgsIm5vbmNlIjoiUmlGQ3RqOHhSOWFuc2ZlTVJKbmVoNG84SWFLQmdLNXU0c0pMQmNDa3M3QT0ifQ%3D%3D.PAO6LOspWeMJ1c2R-5FRa9GF8aLys43eAF_Zre7OucsX_7Vb37OHxKwsJMbPBdF64Ak13DL-UuRktQqP2jlI1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cny87wf8aeab10u6kz03jz98njfn0y%22%2C%22displayName%22:%22d_peyton25f_q%22%2C%22id%22:%22214302456%22%2C%22login%22:%22d_peyton25f_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cny87wf8aeab10u6kz03jz98njfn0y

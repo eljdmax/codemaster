@@ -1,0 +1,18 @@
+#y_karinab1y_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	htIhKT94GzED1jXBABxbI0gpY70TGFemtDAd5gdJt1E%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214482165%3A%3Ajjnyqur8vpxjv07fif6qjbi8ap41yv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODIxNjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDczODcsImlhdCI6MTUyMzgwMzc4N30=.HZjLSqBckHF-I4Pf_GIolYJBs1KdN3oOQfxByYPsB1tx4UWQL5pONaCb5zqbzpa75FmmMUMdbhkYDHVHNZmLIw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODIxNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA4NTg3LCJpYXQiOjE1MjM4MDM3ODd9.81OrUzp8rH_16IGXU60ueIs9aP7vBGQlAV9xWqzNSBf8f_Afj1rMfmZPi9G5VyI5RhcwyKq4mCQ2EMcjWRb6Pw==
+.twitch.tv	TRUE	/	FALSE	0	login	y_karinab1y_5
+.twitch.tv	TRUE	/	FALSE	0	name	y_karinab1y_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:49:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5698f28726d7fba381d0c12a8b76b090
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfa2FyaW5hYjF5XzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzU1Nzg3LCJpYXQiOjE1MjM4MDM3ODcsIm5vbmNlIjoibTBLS2xQd21PMFRuYkRZOUd5NFQ3UXJSVEtNNldTSjVuUVRQQzBNd0F5WT0ifQ%3D%3D.trcAHet0gy2sYGg282TgG2Wn_dRiwkTDHMP6VwkgosgAX1trYh9YA6J3ahKhNQExUnohmXaLLyaG_J1Nh75OUQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sb1fvhwjuibespjfudy34hzcm9uy1n%22%2C%22displayName%22:%22y_karinab1y_5%22%2C%22id%22:%22214482165%22%2C%22login%22:%22y_karinab1y_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sb1fvhwjuibespjfudy34hzcm9uy1n

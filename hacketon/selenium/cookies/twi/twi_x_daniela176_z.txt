@@ -1,0 +1,18 @@
+#x_daniela176_z
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RBmH1XQwHHnnenxTGraC29Fn1tzvumLXyEGbU8s%2BEUg%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214473761%3A%3A0w9v6balvxuduavu6r042056tw2zr1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NzM3NjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDUyMDEsImlhdCI6MTUyMzgwMTYwMX0=.bGM_vros-Z54mjebP-H7ysqg8jJ7A8pfj27maVFeX47FXOPqjDU6Y5lcgGmOdDlZx6bvsmcofAjGIwEVENPInw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NzM3NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA2NDAxLCJpYXQiOjE1MjM4MDE2MDF9.VCZStAH1sWfkNaExZdZpAFtHpiine_SyYcFGomXJGht4VtbkY_oZC3LW3kA6ZvQWmL_caQU-8PbH6dGsI1Kk0Q==
+.twitch.tv	TRUE	/	FALSE	0	login	x_daniela176_z
+.twitch.tv	TRUE	/	FALSE	0	name	x_daniela176_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:13:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cae25181d3ca4c1fe2467ac031ca2880
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZGFuaWVsYTE3Nl96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM1MzYwMSwiaWF0IjoxNTIzODAxNjAxLCJub25jZSI6IlEweE1NZHpnbHI4ekE4VnJWaE9IOUxKTTFzNDZBQzNNRnpBeWlOdW1NYnc9In0%3D._jyIRPUfDfl85NI0ezBtV6QIzWdXIYYrpWmtBzoTXMt82ZVgi3qLhANnfA61XQSKRv9OBvAGetMtuFe0pbPLBA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22o33c7fb53thx8bn7qt3turherh50kq%22%2C%22displayName%22:%22x_daniela176_z%22%2C%22id%22:%22214473761%22%2C%22login%22:%22x_daniela176_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	o33c7fb53thx8bn7qt3turherh50kq

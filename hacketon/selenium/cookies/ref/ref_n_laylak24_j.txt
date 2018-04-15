@@ -1,0 +1,17 @@
+#n_laylak24_j
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	VePXmOEnu-c0YGaMUbr5-DGN-pyKMfEKB0j-UA0WIKaso9YtV4DohPri-kjtV8wH0KZn7Oh_ugI403tyZhGk5dp-7u6liLaE-W6n3zFHJ-o1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	f3dgfghopgk1swpfkws1arl2
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	AfmqkWvlrkH9lt96HAlxL0Oftd0IM3ML0VDWY2xCbQAfD5mXJrNml432yQImFITwCN8RNX1VUEPqnUMqTxwOyN3DRIjCmNfdMK3-Ta_N3ocqC2fnZ-xhOuvFiq4A0FD2PNB6vQvPRfvuao2Rir8D2Vmd5coocRYT_7WtZpTFoTL77U_ObRE_sblyJ2707Fo0gTEInz8aveIC9E9paVMl-u_9ZJvq3LpjAB5iAXhgSh7ECOINv9hgldp363h80RdudcWmNXt_oc9ZWWUKCNcp-VuxfVSjnBhUZcmZK_h5bu_OfFw_L1iR5Z1rf3ARw2v-LHjVxQ4Fr-g_CImKWf4IIvdpiHp1LGvsX-fD-43XcxqFCIQUWBF5Du7yqRpL0SniYygET8mw1X3jTaQXyqxJatj0w7jpYL21bUw3CNZ93zoLcxBr-RvOj4vZWQWlEvFbnNbXNsK9vizmFp5alrpq6h6rcHAqGow7WFTwlS5m2g1BpP5qr7GaqQqXn8vmAlcS

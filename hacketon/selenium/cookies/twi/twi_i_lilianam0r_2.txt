@@ -1,0 +1,18 @@
+#i_lilianam0r_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	IS345KOxtZ2%2BbdVI3SKEQYgwVv3pkTVU9QiNH6Aav30%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214193975%3A%3Atetl0fc2ghuwyblhhxs5vmxvnhngbl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxOTM5NzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MTU4MTYsImlhdCI6MTUyMzcxMjIxNn0=.WRdU8kqyxeLCJ_eMIeVl40hyEyW7X9UZqYCFTZFCLRJoXlDKCCqnnQ5zf3h7is4dvnpKyuSWZ2j1OV3Dn7itXQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxOTM5NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzE3MDE2LCJpYXQiOjE1MjM3MTIyMTZ9.Sn0EH3WhU5nEHkPt2SX2LM1FVxmSA6hQz81iuDY7fE_hC5FvgjOF5ELzBMb-od7rRO4RO0apjrJaBa6Rov3rlw==
+.twitch.tv	TRUE	/	FALSE	0	login	i_lilianam0r_2
+.twitch.tv	TRUE	/	FALSE	0	name	i_lilianam0r_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T13:23:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	34a8f3857dc991e01334d1a00011b52d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbGlsaWFuYW0wcl8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI2NDIxNiwiaWF0IjoxNTIzNzEyMjE2LCJub25jZSI6Ii1uelp6dlFwSS1IZjBkTzFwOFR5TnU4QW40N2hqd3RGdVNzckYtbWFjOG89In0%3D.EsEVRfGNCJEcmaaG8kkQuhpX7MgI6iBRX0UyuJc1t9zk5flj8SYky7SSFuMLfUCsvLZBCHuLJytxPNGvZG0ogw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jwphlzrl6kq265y5yw2n4qcauxw8c7%22%2C%22displayName%22:%22i_lilianam0r_2%22%2C%22id%22:%22214193975%22%2C%22login%22:%22i_lilianam0r_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jwphlzrl6kq265y5yw2n4qcauxw8c7

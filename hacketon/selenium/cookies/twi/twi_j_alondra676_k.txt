@@ -1,0 +1,19 @@
+#j_alondra676_k
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VLw3ZyjtAXElmuIkcFPvkTbGKnUat2MXGgOYPKX%2B%2FeQ%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	706e3f25f819e1a0c861f9373c7fda30
+.twitch.tv	TRUE	/	FALSE	0	persistent	214065918%3A%3Al990e68s7pzcwgvbj0b88ijye9uq19
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjU5MTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NjE5MTYsImlhdCI6MTUyMzY1ODMxNn0=.U26NIEwhF-NWjIJMZaKLA_e0uMEwYTwHNgJP71k_7nilTjL8uakgwo91Dxp24IMsWZiExTnDrB2GKQGhgWn6UQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjU5MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjYzMTE2LCJpYXQiOjE1MjM2NTgzMTZ9.v9gG0gQ93Aw0uG4zsuL9nrbPseqmwBq3RgxSf91IWqplRjgOUvSjID48hrAUj6kLGjW1LqrSYE2xu6QFOE01wg==
+.twitch.tv	TRUE	/	FALSE	0	login	j_alondra676_k
+.twitch.tv	TRUE	/	FALSE	0	name	j_alondra676_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T22:25:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	90f30209be42e7d7f8b5aa65d4520bfe
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWxvbmRyYTY3Nl9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIxMDMxNiwiaWF0IjoxNTIzNjU4MzE2LCJub25jZSI6IjdVdDBtUTdDWmgtVXZvM19iLTRqNWxJMmI3NlBkaDVFbFdiUmJJdnJCVFk9In0%3D.Ixn6IG2Rmz9OqS8RzQadVE0Uhe58CxrsMQ7hp5OQ2s1K1YDeh33EtPeHTDe2YDSCtltoAKSSzKmnNk65-b5zKQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ivumomv6kuhakbahkh4sqsjqz4hws7%22%2C%22displayName%22:%22j_alondra676_k%22%2C%22id%22:%22214065918%22%2C%22login%22:%22j_alondra676_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ivumomv6kuhakbahkh4sqsjqz4hws7

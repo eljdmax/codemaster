@@ -1,0 +1,17 @@
+#u_gisellea1e_h
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	zt-LNvWBKtEKLABLIVcd8ZyqrJdxu31NCl3DFgbwfGV2vDXFfygWDojomoVcgH5eogQ0OvQj07WoekdNzdRwT6D0sm6JeZR8Ii33LcPDPgo1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	ch0hhjjj0nh1fcc2fl2lci13
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	tGu8W-mQnR0XCIQZ_DZ22bGcW_48_QVACUct1dlfN560RZBTwIM5VUiKR2TioPIv-Wnye9fPWOmEaHIFtW023XzsPc5MAOBt7ufC1Qc8TyxD1tadUJuCR7VisHQNx9QCG9kauojtc61BxxhxbzpWrIauexAGP5INzYQwOMsYwrbmSNwDM-QlWEvO_lz5VpCWn7-5wYH5BJJ9uM__kDAxuLCgCCBsLaGd3VIZh1ZEZsHtDE1qVEapopHnHjdg8uIsz2h0-eKGNPA_Yf4fsxLTxj2SykkT1AOMRQOGd17bfuq5BHuS5HQTocJcSNUWDjAXJZcEN3NRk6le9ismmDxQVRGH5dnMsORIW35Sb642ku0M5JpacZkjbqTPjRcpwafw4MFzKOky-WElyv8S3FNMch8vqXIWQKB72moGcfWfYRI_fVb-LZxI1sN6JzxZkbfWYSTFyEIuoZs-9l26DXukVQFnkLkEraC8xW6iaKmKIgjCVugmJ3dH4rxvNOVRQHIy

@@ -1,0 +1,17 @@
+#o_jorgem7w_s
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	10_3GtZFLUS0TnJQldw6fHB89RxcNMOtzhTqxnxZ-r41KYLn60-jZq4UYgaX9koPQU1jADZ0mRvWDeK05BAEANitOR_4Kizq80sAw0byOPY1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	ybwhepsrnmofjgvminvxjgtb
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	UJsb4TyJxzHlQTE5Re7ArosRmjbc5ngQbjq7fhORi_i8XqNnJb1xBANSUoAOfs6_WWmSxtrSTPdy7NdAXkfG7lD8G_zvNbotsnJcvDhl5sD_duGJ-VxWvFlyreIJX3_px32mmtBXb8Qk0N5wCEwuI5zhY4dzTBmbCMd6pINPyX32y5c3SgIDKzrR-zt03w6ZDwGhnXc-jBq81SS6oaykX0-A-HGvMUd1M0x7RXYtrQc66Nhi_yNTrxaWmFdfp5PUGn_o2_3Uq3FkDXZuSR4YrcYiNp_dsFllccWz_a8mdQE2lc6Es5FdpKEcqtKKGJ7gJykepcJkRj6pYqTGN9KMri956_741VAr7OQj_WM18e9uSFzgXxK-GQ7oWr1DjV7rJ4nKrgxSP2NxtQfyH1qXlZ05p7vNu8mD0ehRcgzFUEeLju8tSDzketFXRQ0D_hOT8UeA8TwXNVdJm1Hcz4xY-M244T-5v3SjO-K0gwVH484

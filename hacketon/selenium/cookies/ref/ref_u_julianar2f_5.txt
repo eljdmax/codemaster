@@ -1,0 +1,17 @@
+#u_julianar2f_5
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	Uogm_UWUmMeQ6O9glnqYmr4gtDnEYIbCLQHJ1FJxDm0_vnfV8wC_BoiRT9EoFUOiTQ9RK5oA09bol2yzWMyTJlspukSMaxFerCodfsnAL0w1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	fm4dhs23zzsgcztbviumetuf
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	OtjhHYuAfJb7lAP0rfTwRWprR85d4Tz9HpS4S4UsB9VhBlhh7EPYohXA8MzCTOQuzDNjrJNgCPEqxl8oKgy1vW1D9O9rxFYdrwuewo_V3w5FKvxNG6C30sFYQMuzrrdiczfFoac1_jUXQ1GqY2RRNf-I3DMTOPgW2Hkm7DPTVejHdvoyFHapE2BX4_PRGobQclznUEoQxWAkokKgj92hMYJka6tcDyICi-28PCM0CjB5-U3muQjy4GnDnR9raxhpLLQevogMIMQQnOmkbu5qYdavOqns-GWFZq_1Ov504rV4Dk9oDDGm5107zF2Ep4pjw8Wk1MlS1A2cxicHj_BrnMrRLJ-rJpSe439OF_IP9OeAKCmLcFTX6vXP_oDQlm10o6LR7YP7Twc3Qjhg9s_qrKNHVgdcBwLA6e2pXg3eo9hemtvdh58UVj7xiCLCFoYEJjM-bl-taIV4C3TD2hkLr18kjy-k9D2AOwDnfY-2HH3hWUH-TSLLf_bFvlHKmov4

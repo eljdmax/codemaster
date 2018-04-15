@@ -1,0 +1,18 @@
+#v_faith00c_8
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BXH0l1gkFQ77QkGnYW2%2FhVqHN3AkF%2BhJthXXUkw%2FmCY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214195513%3A%3Asa3z80tqg71wfrbvlrim40epu8ibas
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxOTU1MTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MTYzMzMsImlhdCI6MTUyMzcxMjczM30=.s3d6OSa-jU6CDVzBmZKmj0DUBlac8HF3XquKFf-lrSVYdfq4zdT5ECPzOjWsXYJvAJOO4DX0P7tDlqigC6E48A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxOTU1MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzE3NTMzLCJpYXQiOjE1MjM3MTI3MzN9.04F8jz3-XxVAWByu1518Mug3IdZDPqc4hT-GxXVHYCnfyFZhm_hqv-tXhdKvzjIfZUFKY9ZirXRsnZwtZb-9Cw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_faith00c_8
+.twitch.tv	TRUE	/	FALSE	0	name	v_faith00c_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T13:32:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2415093d8141a51dff88f0b3c963f2b3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZmFpdGgwMGNfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyNjQ3MzMsImlhdCI6MTUyMzcxMjczMywibm9uY2UiOiJrS0xzSWs0VTFlU1h4V1JhNjd0Z3d5NnVKNWRldk9GQWRuU3RKR29DTU5ZPSJ9.TTIdkLjKrvtI1zYC96aJ4Q5kK1FAot6tmbH7yaGhVG5uSQlirxQXhrfYWcIEvDxe21OSAHTC3igmT_thOulKBg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22syda0o59udopzqcvwo5hsc3z4qesx3%22%2C%22displayName%22:%22v_faith00c_8%22%2C%22id%22:%22214195513%22%2C%22login%22:%22v_faith00c_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	syda0o59udopzqcvwo5hsc3z4qesx3

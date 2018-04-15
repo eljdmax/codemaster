@@ -1,0 +1,18 @@
+#f_alondra18n_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	e5nLxhxDWoGIkrfONmlND8JczHaWZ69KShEv44g78hc%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214460882%3A%3Anupdntzknsc11rtiaelrepoia7z6oj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NjA4ODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDEyMTAsImlhdCI6MTUyMzc5NzYxMH0=.bTZLWOhtr2wKGAfKpLOSRkgEhF1xAlV7r_Zp4FdwxEN-5oOL_dcuTEqSuJlyHu90SO7pMKmaDRwpG_8agg9fgg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NjA4ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDAyNDEwLCJpYXQiOjE1MjM3OTc2MTB9.8TQoWHGW81iJOgR3DZxMkJDRQM_6TY3_rT0zUE6-fw_kGgNKXjYIZCmjKDIlKpuaX_IBcT1oarqFJ3szuQg3eA==
+.twitch.tv	TRUE	/	FALSE	0	login	f_alondra18n_1
+.twitch.tv	TRUE	/	FALSE	0	name	f_alondra18n_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T13:06:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3db0ecd26f7b839211148b1e51478050
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfYWxvbmRyYTE4bl8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM0OTYxMCwiaWF0IjoxNTIzNzk3NjEwLCJub25jZSI6IlZtY2RRemN1elplRUZkM05QNTNZRXZ5ZkZVcXp5MThicEFMajl3VE1fTEE9In0%3D.HxgLNbAQ2qkFHnZMH6F6UIDWrD0jkJG-FI-CXt7nNO4CIvz_tAH-gerInBrXhgaGR2voPfJMZp6bcIfGwUwCHw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22agzkuhp1pqgh7s21a57dkecgqllyaw%22%2C%22displayName%22:%22f_alondra18n_1%22%2C%22id%22:%22214460882%22%2C%22login%22:%22f_alondra18n_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	agzkuhp1pqgh7s21a57dkecgqllyaw

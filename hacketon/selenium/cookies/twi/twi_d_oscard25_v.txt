@@ -1,0 +1,18 @@
+#d_oscard25_v
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RLoLwhXxYdwwA5ke%2BpYOxV1Xkx0PBkA%2FN9%2BlRtUFmyk%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214264876%3A%3Ahfqqh6thk9hqh3kz760y47ti33539q
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNjQ4NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MzM3OTgsImlhdCI6MTUyMzczMDE5OH0=.kkiJ1ebaXVceTtlR2tCIdwE7xzUQj2j94THm2kmi_2xbGF7t6-ge5Dcz3x6xGRtASQ-BAuf_M_0HsdtzTdQMrQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNjQ4NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzM0OTk4LCJpYXQiOjE1MjM3MzAxOTh9.DNvCkHlit5CgXFarXgyoEIIGjrIAfP8pHIOhEwxZfQ71T9ghtD7unbk7PY665hM7tWCqHSkw7QYdfc8aOlXeow==
+.twitch.tv	TRUE	/	FALSE	0	login	d_oscard25_v
+.twitch.tv	TRUE	/	FALSE	0	name	d_oscard25_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T18:23:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	484bde3c8d6ce06660da0100e0acd237
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfb3NjYXJkMjVfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyODIxOTgsImlhdCI6MTUyMzczMDE5OCwibm9uY2UiOiJEcG0yVktjODhZX3RRRWdqTWRWUk9RWnQ1OFJnblFjSlVkUTYtRXFRWXhFPSJ9.dd5G8RWyotvzn8jFAIOSQ0C4RRk8FAkskYU5EbKCJlHX7KLJNgEHwTF4xg5i0Crn9GieZ8TrOvWak9BWSYKtOQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n7kxegi71eeolil8ue3jufe6j42ybm%22%2C%22displayName%22:%22d_oscard25_v%22%2C%22id%22:%22214264876%22%2C%22login%22:%22d_oscard25_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n7kxegi71eeolil8ue3jufe6j42ybm

@@ -1,0 +1,17 @@
+#h_alexisr7k_9
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	bUFsGCVWxRRZh2VBRXIWFAE9F2NdJVke-oZPeipLEXtw1DqfGX0_TASH0zpu7mIr1r3cfhK39m-5MDiBpddgE0N4ke_fGKNmSM3PbE7fEas1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	hgn2xnfkxluwjd2kvmcuc1xm
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	F3_lOCmQbnygQXGalUuLu_4aSvQWra214QNzXEPe29dpM2PUITOBAFdp5AG2MJuNlp5xCGDS_ab-7iGfCEQTf_HmafWEqigckjblOjuEBXkuvrYJ5F-H-ZFAdI4GjK-Is6XEIPRFz0s17BZKmme4ZuWzQxlr2rfpOnDdPMf_oM9zvHtp5Oufe4p9ntfgLQgomhaisv2CWuQeI9kNqzBti6gyt2SeU0r3REGWI_YDJmIdcFxEIsG71F7E4CVepaGA05TUcAIn3H9yKj0W_JxT_lbM2VeCBIU1IkKGdunnMbpYajSiWjQjYHR3NvirSCsVXMibK_71BDZC71N4pVrUAbRnKQczhGPbK8BOYjm7TEZsTKcR3ygfDAoqyvj0lzDM7ut7-Q9FJpHVpGAarFnOMsNFw7HETkh7wJeivaDd7PATyL2jbyDrO84Yuz9vznjETVM6-lKujEU8gl4K8Yz5jDctRvPXYzaEBDTy5RH5L7Q

@@ -1,0 +1,19 @@
+#l_kyliel3d_u
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	wjgLqPx7sHh85mySWY%2BaV4dYLNa0vA%2F16VVexjbF5r8%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ed9c15cdf2065f560744c9e7fb337d76
+.twitch.tv	TRUE	/	FALSE	0	persistent	214481003%3A%3A5dcn84bpfng8pvghdgy0iparhudm4x
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODEwMDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDcwODgsImlhdCI6MTUyMzgwMzQ4OH0=.e8V8XSSsF3ZPgk_3WlrikVtS95n8kChcC_ur6Dl9AGXjaLpCXnFHDd1YR7tOpPfNfiHWasfFVRWR9kvv-YQRug==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODEwMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA4Mjg4LCJpYXQiOjE1MjM4MDM0ODh9.--LVcbOPteijnFlxeYOGENHZcFF0NJsJlZJ1Epq7SFwPkrl1sHeeeDC2xi3kvtGs1AR66G6wmR1TqNz8XrSXnA==
+.twitch.tv	TRUE	/	FALSE	0	login	l_kyliel3d_u
+.twitch.tv	TRUE	/	FALSE	0	name	l_kyliel3d_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:44:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ff1c10f739d10e4416bc458775c9638c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfa3lsaWVsM2RfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNTU0ODgsImlhdCI6MTUyMzgwMzQ4OCwibm9uY2UiOiJjeGtob2ktZEN2dDdmQWFZUzFKcWRsemdSWTVCdWZvWnlyeVl6S1lDWmc4PSJ9.hAZbh36FsqN6P0-f_Aoqe0aNTpSq30RCMllmJeoPKUyPo8g1tEHnEIhuO7BJjFxkpr_P7LhtCElZsaqoHVZ4gQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223kibsvsjgf9y9mcf98t5jxewnnx9uh%22%2C%22displayName%22:%22l_kyliel3d_u%22%2C%22id%22:%22214481003%22%2C%22login%22:%22l_kyliel3d_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3kibsvsjgf9y9mcf98t5jxewnnx9uh

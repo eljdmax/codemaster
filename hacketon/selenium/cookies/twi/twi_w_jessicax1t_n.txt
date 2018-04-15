@@ -1,0 +1,19 @@
+#w_jessicax1t_n
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LgdKSuprWCFW2L%2BwEaZACcaXlnSrUWCzsOqAl911srA%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	9dc2559ccc2e39be58607aca4a806a14
+.twitch.tv	TRUE	/	FALSE	0	persistent	214442440%3A%3At4vzfio808srm9vms6w3qbycm3gm1k
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDI0NDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTQ1NDIsImlhdCI6MTUyMzc5MDk0Mn0=.6TaZIrNt0znIw0xk3tGCgUhXcuvpRhWPNNQ2o3sneg_aLpaIpZJyk5yaN_F9sxxaqiXq_CzjN8jKNtvApULw5A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDI0NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Mzk1NzQyLCJpYXQiOjE1MjM3OTA5NDJ9.WgLPj0lEKU6aX-_QIyI5w4D8L8lgC72ZTCPGvDgm5gagdIytvLjmgNCxOedTZ4mf3KrL14lL_KEjnwys4mH8Jw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_jessicax1t_n
+.twitch.tv	TRUE	/	FALSE	0	name	w_jessicax1t_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T11:15:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2ba94898f5f838647546879a4aace703
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamVzc2ljYXgxdF9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM0Mjk0MiwiaWF0IjoxNTIzNzkwOTQyLCJub25jZSI6IjdSQjI2Y0RlODNObFVTd2tHV1JBVm1CYmRyOGhLOXhrakRKaHR4UUVucFk9In0%3D.LS0Dbohq404JI9CkkhYNQeTYbhaW3DwPwvSCrD4kZz-2pd3-_eN1C6WaC61MWLZ0tXTrr-A7e19yqEZQpFONGA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sc5s0arrcq7jaj6lw032rlfmj20zb7%22%2C%22displayName%22:%22w_jessicax1t_n%22%2C%22id%22:%22214442440%22%2C%22login%22:%22w_jessicax1t_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sc5s0arrcq7jaj6lw032rlfmj20zb7

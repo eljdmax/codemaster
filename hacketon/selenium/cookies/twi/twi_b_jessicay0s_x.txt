@@ -1,0 +1,18 @@
+#b_jessicay0s_x
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xKndu7V1JG5SACC2dFk76QCB1r5B9xBnk5FHTUke0fY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214453766%3A%3Asheelvn1j8q4tdingvf7mh906cez4o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTM3NjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTg4MjQsImlhdCI6MTUyMzc5NTIyNH0=.Get8FYPKfaaAbUlJV1iewvEvRUmPBtFVenOjwm5vX2DAIX9Zw0kUxNziig4qE4v_i7NlOp7pv3dwzxf2eQME0w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTM3NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDAwMDI0LCJpYXQiOjE1MjM3OTUyMjR9.L-DSIT8oYQf-5pFaaIGT5xuqZAizY34gZc1cuHa_XKOoPG4DrXmRO5k2NxmnzxrWDAV9S2gk3PnNyyCy_TK_Pg==
+.twitch.tv	TRUE	/	FALSE	0	login	b_jessicay0s_x
+.twitch.tv	TRUE	/	FALSE	0	name	b_jessicay0s_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T12:27:04Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	69ed14b75b1d1174ba0573e54d4e3032
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfamVzc2ljYXkwc194IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM0NzIyNCwiaWF0IjoxNTIzNzk1MjI0LCJub25jZSI6ImVoVjJFNUJJUkwxVXNwMF9fWW9DYUlXRVhGLU5TQ1lZZ2JMM0tEbjViWVU9In0%3D.8luNWed3p59U76lnWPr7OgpxO2J4R69qiic3pf-IGI-vito-M04aXe5f7d5S89vKIKXagtR_4my3KY9QtkC70A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fa6cbtg0w0gjxu3sf0j6keigh9a5gp%22%2C%22displayName%22:%22b_jessicay0s_x%22%2C%22id%22:%22214453766%22%2C%22login%22:%22b_jessicay0s_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fa6cbtg0w0gjxu3sf0j6keigh9a5gp

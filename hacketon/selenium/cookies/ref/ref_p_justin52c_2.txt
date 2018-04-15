@@ -1,0 +1,17 @@
+#p_justin52c_2
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	JSdORE9h-ToclMXaXiEOIJqoJi4QrzVd8FowFLuj_P1aDwFSfIxViFBBrfz-O-uOOCy2lBheTWEYCE7dEbv-k9SFiOo16XEx9-yaAGJV5mc1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	qednu5wn03somnh44xnywhaw
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	dVXlwa-2edeh3xEapEvfrN9pqP-X2N_BGzriguLHYmnFxpnXU1ibHABdH3TUJSYYWV0gPYj5wlHtZMD63zeE17iyVD5tdilXDy9ecVfRTx1MDc5QJwaR1N9vB9zfbpRp0szkBdhuH8EIr4TkX5B98OcvOMvIDk8hfE2JBo9siqFg3lvxoMlSw2Q4o2pAS-Bxl9jIEfwe70YOcMJQEhtzTQ-wQQJjU78hKDqXCjlqkk41oFsYnfjTRdOcJhccAsY07rQxqNbN36W0PzOCqTCiV03qQSBTFoEi9n7DRQ4369aKauYOgq1pXK1cYzOYET5Z3hyEibtzpBJlp-mndBTM5TcigKVVGgkHPQMi59iZwBqKRr5WFjxvBAc3V5p7mBHX3iOqnvsMFhMHdqtoYG-Dul_4DU6s5a-SJLU9PyeUWbSYT8WR_tkvG0hmMSMZUkhfzdkK1fbEAQgjjfqXD5TEnvR82bpk1aw9n1hZXivikhC8D9Z3nSNVa5zIq0kc7e-B

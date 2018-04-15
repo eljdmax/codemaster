@@ -1,0 +1,18 @@
+#j_alexisd1i_m
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QMwRvdbXGmi47H3cosyLlvnoo6dCq4Z3lLAKLtOo8CM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214047484%3A%3Adzsykcwk6n04h9qrnr56vvgxcajjqu
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDc0ODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTY4MjcsImlhdCI6MTUyMzY1MzIyN30=.5099zfFu2_d7fAUzDZ6263HabOXuTeuxJdrwLwsKpZn3jBHrVsCoOdzO8mzIzXeKhWx20JExhbiQYHw0JSHa5w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDc0ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjU4MDI3LCJpYXQiOjE1MjM2NTMyMjd9.CSnJHIDXGzxAg83psn8EcyxCb_iXjuK6SK5XcgQ4IHfXTFRn-pLrWYdQi2ECM5yz-CDEdvqWTPkSq_0gdRUEdQ==
+.twitch.tv	TRUE	/	FALSE	0	login	j_alexisd1i_m
+.twitch.tv	TRUE	/	FALSE	0	name	j_alexisd1i_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T21:00:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0921f35b992561904de1c540da3c1288
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWxleGlzZDFpX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjA1MjI3LCJpYXQiOjE1MjM2NTMyMjcsIm5vbmNlIjoicUE1VHhqRmV1VG5BZEZwSXdURWJNYVR2ajlzTXoxMzU0UG5relp4YnUtWT0ifQ%3D%3D.9LNVc4TmlcakqcKoA_3IVBzr-r4Vc9BSXwORyRV4zXhVvaKliqIw-InZhK8upbT2YS28lGp7OlUvxBilkh2AWQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22guelded1c0ly185rpji7agf83nmrbu%22%2C%22displayName%22:%22j_alexisd1i_m%22%2C%22id%22:%22214047484%22%2C%22login%22:%22j_alexisd1i_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	guelded1c0ly185rpji7agf83nmrbu

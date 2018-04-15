@@ -1,0 +1,19 @@
+#a_leslie45i_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DkWLMvf79qZb%2BYL%2FFpy3Z8XNhRD4OXgEQPuQH6K7Sko%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	dc7263f5a28105181ea69c731ba2df2f
+.twitch.tv	TRUE	/	FALSE	0	persistent	214441650%3A%3A6oqy526u4wt0df7qp1p94ypwd5t8vh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDE2NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTQyMTcsImlhdCI6MTUyMzc5MDYxN30=.0_gqfYoNm2GQDcVWq6V_DsXhH9Ndc7wv96XzNoQDWmgGTMHm7zVGY_Zq0rW8AQxqRj3o3L5WG0WeOTpb9-95LQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDE2NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Mzk1NDE3LCJpYXQiOjE1MjM3OTA2MTd9.QgPEBQBlDxylMl3SYrT2ZBoSTV9xxofCZj-J7Rw8RE6AeXCEksgCma5KUgECVk9yzQ3asUdX-e0SiiAywwGReA==
+.twitch.tv	TRUE	/	FALSE	0	login	a_leslie45i_1
+.twitch.tv	TRUE	/	FALSE	0	name	a_leslie45i_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T11:10:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	08e260f89be08ab05e523076d47c1073
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbGVzbGllNDVpXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzQyNjE3LCJpYXQiOjE1MjM3OTA2MTcsIm5vbmNlIjoidEpzSWNMUXBsN3FETFcySUU1UVRWQ3JPT2RPelRVaWowU3RtNjJub0ptQT0ifQ%3D%3D.BQL8OeoU7K635lt2xZGLmne89KrcOS3EOQ_zq3WhVE-cdTUmyXPjmw2csX6HNlF6pGBIezqZDK3CeAlrg4FFpQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f31qb8x8bs3j318nwg4wyqk0fj3w3o%22%2C%22displayName%22:%22a_leslie45i_1%22%2C%22id%22:%22214441650%22%2C%22login%22:%22a_leslie45i_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f31qb8x8bs3j318nwg4wyqk0fj3w3o

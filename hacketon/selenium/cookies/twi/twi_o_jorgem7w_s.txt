@@ -1,0 +1,18 @@
+#o_jorgem7w_s
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3xLdA1MClJzRtTiSwsaTz22uZLBbb47ZGCXeqqsmMRM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214316876%3A%3Amp68swb0qda5yop4pu53xgatw1mjf9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTY4NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDU1NjcsImlhdCI6MTUyMzc0MTk2N30=.aZkboj2Tx_6yl3E3OkRMu-xyGO2DW4LaBtK4Z4DIj-7i2kXBRq7UvHI0wP-DPwghM2WkxKDx9hziNkgdBfbyPg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTY4NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ2NzY3LCJpYXQiOjE1MjM3NDE5Njd9.qoV62ea3s6GzZl86ZLIPbB0hAcK7TFFWyX0raWMvjtkyNqGY4gL9pHkmypuAjLiyjmVjyYrNNRaByV_vdUFgHg==
+.twitch.tv	TRUE	/	FALSE	0	login	o_jorgem7w_s
+.twitch.tv	TRUE	/	FALSE	0	name	o_jorgem7w_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:39:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	80fa5a5b99718d5e23fd10a8c3f35e15
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fam9yZ2VtN3dfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyOTM5NjcsImlhdCI6MTUyMzc0MTk2Nywibm9uY2UiOiIxZldPRkh2UDE3LUNSWDQ0Tmt3Z1piNXpHMEdzMEh1cUUxSUZWc29kbG1FPSJ9.MZ8pZI-v-0XRRB-E9QCqeLzeILbv3kUZcfpu1Ar11JXgD_uK7bRr2Vzt5f9jewVxLODYwN6jQo52V1bJZZ3q1A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wwtvotrh9dh5w9cte96p6hffjywfw8%22%2C%22displayName%22:%22o_jorgem7w_s%22%2C%22id%22:%22214316876%22%2C%22login%22:%22o_jorgem7w_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wwtvotrh9dh5w9cte96p6hffjywfw8

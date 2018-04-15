@@ -1,0 +1,19 @@
+#p_justin52c_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fUJ8%2BYygLtZ67PVG5xFo1hZXQFZ6I6jUQBhpZOtrhIE%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d7746fecccc721544fd070675439db11
+.twitch.tv	TRUE	/	FALSE	0	persistent	214468689%3A%3A5bqvdbexxsiqbylyq3kn98astqw1jb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0Njg2ODkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDM3MjgsImlhdCI6MTUyMzgwMDEyOH0=.g9KWUDiiNvkI7dldIXkVozdY6cx-32XgPHzT3BAsOq5Qm8tDMGhJsEC6Fwru2rgpNtA_2bjqVspO5Ynrezxf7A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0Njg2ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA0OTI4LCJpYXQiOjE1MjM4MDAxMjh9.Ze0V9ZgAXTdxQta0_sNswCij0UixHUJIvwYkj7R3MOf-ZuWMadKmtp8Z1h_OhloqckSVEfZKLwsgkkB9_x0dNw==
+.twitch.tv	TRUE	/	FALSE	0	login	p_justin52c_2
+.twitch.tv	TRUE	/	FALSE	0	name	p_justin52c_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T13:48:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	145e619e8ac30e433236662a2ec14ab4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfanVzdGluNTJjXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzUyMTI4LCJpYXQiOjE1MjM4MDAxMjgsIm5vbmNlIjoiRmxWdVNvM3dOQklqRG54SktpXzhjakZKRnMxZ1B2cE5ERXdZbnBOUmoxaz0ifQ%3D%3D.4-jGRj1bQs3W0mLYPkriRmYFPq3cWXvvSLA6nY2nc-lAd3Pm_Js7T_p1q9IwaWXsIjMwkffTei3ypFsY_ZQXrA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p3vdy95k7l1is0u91y18h62b0p8um7%22%2C%22displayName%22:%22p_justin52c_2%22%2C%22id%22:%22214468689%22%2C%22login%22:%22p_justin52c_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p3vdy95k7l1is0u91y18h62b0p8um7

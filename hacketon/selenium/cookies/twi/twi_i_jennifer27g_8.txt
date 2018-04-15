@@ -1,0 +1,18 @@
+#i_jennifer27g_8
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UPHzcg8Zou3HNVisUpe8B7xQt2EL3QZQ3altzr8SPSs%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214462050%3A%3Aayrgcvvoherkjib9pmcysoft9euklc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NjIwNTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDE2MTAsImlhdCI6MTUyMzc5ODAxMH0=.tcVezD5rJsO3W9VsMTfKfvK5W_F64tLkU4x0w6eCpvMlLUZvdfowq_3ypLk2bV-C1EneVkTCLe2p0O7UUaK7eg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NjIwNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDAyODEwLCJpYXQiOjE1MjM3OTgwMTB9.OsLYOlcqkm4EOZOPdS-_Nb-NvL25hRBzkWYTuTkcXbm61nxAYNpk2qJ5MTgg_YOcR7By9bX_f_x36VJ3_l8iAg==
+.twitch.tv	TRUE	/	FALSE	0	login	i_jennifer27g_8
+.twitch.tv	TRUE	/	FALSE	0	name	i_jennifer27g_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T13:13:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b3bd30d3687a995d0761baec05365e6b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfamVubmlmZXIyN2dfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNTAwMTAsImlhdCI6MTUyMzc5ODAxMCwibm9uY2UiOiI0d25Sa1phcHFVa3NhWW85Q3BaUThVeUhEVjYzRlZtazBXTllQdk1wM2hVPSJ9.rgVD-n1BDUZYvXYf5stxIeeHgf-2e-lt52mxrt_GzmFELddmTUoyzMM9SH4ZBUCc8I_PtopvXb6s-pTrI4P_Nw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ihmox821he6bt40sf1kqaxh5rj6vjk%22%2C%22displayName%22:%22i_jennifer27g_8%22%2C%22id%22:%22214462050%22%2C%22login%22:%22i_jennifer27g_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ihmox821he6bt40sf1kqaxh5rj6vjk

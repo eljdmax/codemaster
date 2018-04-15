@@ -1,0 +1,18 @@
+#t_kylie18m_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	m5oeiBFCTX0mnkVXNqrTSYtU9oOYAYBR6qkqJwsVm3A%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214449841%3A%3Aht4kvjun8v2vwbhgzxncfj6q8mnktn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDk4NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTczODIsImlhdCI6MTUyMzc5Mzc4Mn0=.1N0q7hmvXlsLu2GNM8BU1beilwEWGWgkkKXDcS60KEC8SB4l3zyaZMjwG7FIII4Eako9c_LIH1SkKzFeMBn4pw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDk4NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Mzk4NTgyLCJpYXQiOjE1MjM3OTM3ODJ9.4o4ICwPUNK8ehclO1pToBEyi8XOCGmT4u_JmZlfbpTExNJ89OsCdoAsxet2-HXFsoUDCAy-cX4uF-CcIjlTcsA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_kylie18m_3
+.twitch.tv	TRUE	/	FALSE	0	name	t_kylie18m_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T12:03:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	024b6cc87594e59102daa683154178a4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfa3lsaWUxOG1fMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNDU3ODIsImlhdCI6MTUyMzc5Mzc4Miwibm9uY2UiOiIyLTZPVnRYeHpiZWdDOEYzUmc0T1hNZi0yZ2pNVzRydndyM0EycTNGcDJrPSJ9.w6M6JZBD8_YVOoXktlHc4d2Zn8uweLDxwpi_CdBUY_1tvZSv-SI8oTbEl9PCNJlzARgGW4VU4d2Zv3odXABNig%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z2yc46p4hp7qkx4cqj3b69y9y9xrxa%22%2C%22displayName%22:%22t_kylie18m_3%22%2C%22id%22:%22214449841%22%2C%22login%22:%22t_kylie18m_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z2yc46p4hp7qkx4cqj3b69y9y9xrxa

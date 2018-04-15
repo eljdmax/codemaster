@@ -1,0 +1,21 @@
+#y_andrea474_i
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1UbXqMRdppLam7EO5%2B67lGsWXpN9i69A0eCHsM52ECY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214310114%3A%3Ag5r587kj4q3edyepfn2giy4pst4rou
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTAxMTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDM5NDUsImlhdCI6MTUyMzc0MDM0NX0=.61UGDFGA393EihHkoqB85cxd7jwjTXn4dswb7-iyvmWRbFNCq5L4msZvJkAGKH2yNhiEykeUEdy8RDoze9Gtng==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTAxMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ1MTQ1LCJpYXQiOjE1MjM3NDAzNDV9.Ytz2MhfjGXqZ8MYqlZa8d4u_rS36OIQwdgdq3Vk4DJtRXMXwa3OdtGBlERvGS6tiwwGhwNF3K044zHyIi0nX-g==
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:12:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	45522e200e7ee91f8a10ad0e8774748a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYW5kcmVhNDc0X2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjkyMzQ1LCJpYXQiOjE1MjM3NDAzNDUsIm5vbmNlIjoiODNQLWNqbEd4MUZLcjlPUU1lcDYxakkwbUVPcFJGUU8wR3RKUTJ2TnFWQT0ifQ%3D%3D.jlfpC7sBclC3FfjOsWFNyn-0qf06FpoSU_Ls_AhJ_mW2yk0CWT_53Sv_32pguqUW_2c0mW_a4CPD26QMrZFZHA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sbffgp5mfgzn4rqkapugl9y6s6oqt5%22%2C%22displayName%22:%22y_andrea474_i%22%2C%22id%22:%22214310114%22%2C%22login%22:%22y_andrea474_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sbffgp5mfgzn4rqkapugl9y6s6oqt5
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	jRYHGYbkhV2ukcD4BLesjX4WJNvi1Gr1
+.twitch.tv	TRUE	/	FALSE	0	login	y_andrea474_i
+.twitch.tv	TRUE	/	FALSE	0	name	y_andrea474_i
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	qnjcqRI%2FST4%2FJeCftsrhAxjieo1kO3vcBsO01GiykpY%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	22f6289c7884150e9c7ce63ef125c061

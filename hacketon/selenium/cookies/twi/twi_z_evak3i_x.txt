@@ -1,0 +1,18 @@
+#z_evak3i_x
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RqaxjGje%2FAQdOV45dV%2BX7Pv1A3juifbxft51FnBoLpg%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214042016%3A%3Agwpyj74rdoxzdkauvhhgprdghrxsmb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDIwMTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTU0NzEsImlhdCI6MTUyMzY1MTg3MX0=.lL6_TrG61rlAp1fCwsQiTc8PHqzT6cwItq9X-gxB3XL9sHhdZaVe7OstGHCrFs33atefkxlx2XEZ4cAqWoMgvw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDIwMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjU2NjcxLCJpYXQiOjE1MjM2NTE4NzF9.sTmwUho-chzKuMFaD6D5-npeWLxDv56dejscoGMbvGGz2QwiJLGLIp5bbrxvJEgRHkJ-km-7d6YqpdBsLRJecg==
+.twitch.tv	TRUE	/	FALSE	0	login	z_evak3i_x
+.twitch.tv	TRUE	/	FALSE	0	name	z_evak3i_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T20:37:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	05b8d70e1c0b4919a9e4865df7724b31
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfZXZhazNpX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjAzODcxLCJpYXQiOjE1MjM2NTE4NzEsIm5vbmNlIjoiaE1YRUdZU0Q5M0UyUzF5MHE0NVk5bGx3Z3JxWksyaWdLeml0YjBpem9Jdz0ifQ%3D%3D.xrQKHHYgkLB5yr-btwkXWgoMMFd_YNidktFMi8u1ycD4gAgXk2pEFq8rPRw07aqaNIxu8-vp6eosmmaH3nUIuQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22y77617u5fd64xj67kt0a60wnjf3q33%22%2C%22displayName%22:%22z_evak3i_x%22%2C%22id%22:%22214042016%22%2C%22login%22:%22z_evak3i_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	y77617u5fd64xj67kt0a60wnjf3q33

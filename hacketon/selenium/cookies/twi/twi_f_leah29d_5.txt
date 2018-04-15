@@ -1,0 +1,18 @@
+#f_leah29d_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	AItQoyaRbHnOnupDV9V539NtyduAOV4f8NYAa9mHg%2FI%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214032907%3A%3Aqzjznabov0e99ep8ylosk3ejgfjkxz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMzI5MDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTI5OTMsImlhdCI6MTUyMzY0OTM5M30=.CBXKBLEs7FG0s5RL1bt3ssRIK5UsKM4MOpqPY0bvqg4BUs6UUPzhRNopUWxOmO1lDdvsQ-y-W0620m-WhNzRmg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMzI5MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjU0MTkzLCJpYXQiOjE1MjM2NDkzOTN9.hu0vm4UA2ryj4buvTBc6rnElfcq07HGuajueDglgaAFnOTFc7VX-460I0hVITk3Peaz01MvCo_7CUVmC22oWvQ==
+.twitch.tv	TRUE	/	FALSE	0	login	f_leah29d_5
+.twitch.tv	TRUE	/	FALSE	0	name	f_leah29d_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T19:56:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1c43d5c5472d6a659db7b1500070a7f8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbGVhaDI5ZF81IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwMTM5MywiaWF0IjoxNTIzNjQ5MzkzLCJub25jZSI6IlZzbU50RHptUXJoSGx6U3RVai0xNFAzNjhKZmZkZEw4T1ROX3VkX2tPcDg9In0%3D.nnCZBc8e0Zstx4Myg94mj2ZCDgPjZ7ZakpEVpafX3QR2e-MhOXPLXnDWUntyszmLS2Q8MA280IrGswVkkth5zw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ivi91q1jz78rpkg17r6h7aond7sd1n%22%2C%22displayName%22:%22f_leah29d_5%22%2C%22id%22:%22214032907%22%2C%22login%22:%22f_leah29d_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ivi91q1jz78rpkg17r6h7aond7sd1n

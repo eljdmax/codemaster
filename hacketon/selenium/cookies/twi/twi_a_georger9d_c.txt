@@ -1,0 +1,20 @@
+#a_georger9d_c
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0G0WlbPWuJI%2Fi0bEVijLUGFKOiFdDidXRQOb%2BLNrc3Y%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	41bb1872c686cc9ceafb24d500460f28
+.twitch.tv	TRUE	/	FALSE	0	persistent	214259725%3A%3Ach0w0on7kuupirbt8eob6riqx0oe43
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNTk3MjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MzI2MzMsImlhdCI6MTUyMzcyOTAzM30=.qu_fPXnYHtjOk8P9EiENS2Q8uFTcYgE4JCRc7kXzRDoL0woAP6IrinnJ8Hd9jL5G1eKeDdHXMIz7PAhs7gNYKg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNTk3MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMzODMzLCJpYXQiOjE1MjM3MjkwMzN9.ZhkODhioPEc6RQBBqV80Vlc3E9SCjYy3_oFl9Wc5W2lauXFfPm9bDOCAcw_j0jJAz0k9LlNXSAGWIP4g66nh3w==
+.twitch.tv	TRUE	/	FALSE	0	login	a_georger9d_c
+.twitch.tv	TRUE	/	FALSE	0	name	a_georger9d_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T18:03:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	135553e4222a7fa3a08d2c44ce4c9024
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfZ2VvcmdlcjlkX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjgxMDMzLCJpYXQiOjE1MjM3MjkwMzMsIm5vbmNlIjoiVUhjQjlfUE5YN2dZOGprdjF0dlJLczEyaXpTUDZYYXVTdElhMl9hTHpKUT0ifQ%3D%3D.i9gea4rwOqisPZKfcNdFljjSElh7hWWPk-77acH0sXp-HADuNsxjjfDqOc80MjWtxKyj-Ore2eHLPJdGpIZ3Vg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	BxyU9ZCCEKp0GBYHYd6v2VxYB8LjqSZv
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22b1dmngaq09q415y8bi92tidv9px89y%22%2C%22displayName%22:%22a_georger9d_c%22%2C%22id%22:%22214259725%22%2C%22login%22:%22a_georger9d_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	b1dmngaq09q415y8bi92tidv9px89y

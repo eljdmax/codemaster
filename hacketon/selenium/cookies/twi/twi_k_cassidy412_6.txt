@@ -1,0 +1,19 @@
+#k_cassidy412_6
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Rts1fy5wSF7jGue2AgOE6bQVWVyIZo%2BZxemvhpnXO5Q%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	683fb4cd64ffef9a0501e78ca460ea16
+.twitch.tv	TRUE	/	FALSE	0	persistent	214251249%3A%3Aykfaflbkih2u4ud231ctl5gu46977o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNTEyNDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MzA2NjYsImlhdCI6MTUyMzcyNzA2Nn0=.AE9HoarQviSuzYE1RqxI0wzAOS4nxVGyyO7qeOWLy3gBnenE7m1FxXQSh6ZJ6wO44myPHE5CU3xkmDRMqlgrkA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNTEyNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMxODY2LCJpYXQiOjE1MjM3MjcwNjZ9.tF915gzRlUdQ4uf2i1pfTziKpf0wiPUW3ukNKW58uHdIcthbVnaq6WALHhePcHoQ-gvM9oNDit55etae9gSgMA==
+.twitch.tv	TRUE	/	FALSE	0	login	k_cassidy412_6
+.twitch.tv	TRUE	/	FALSE	0	name	k_cassidy412_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T17:31:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c4308afa8fef02e002358d275560c095
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2Fzc2lkeTQxMl82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI3OTA2NiwiaWF0IjoxNTIzNzI3MDY2LCJub25jZSI6IkhqM3NFcWNzdHphWDdUQzZqanBrVHNfdF9XWHk1Z2dkbllqUDR5VjgtY0E9In0%3D.fXu-eGB3VJrBOiouFIBQ-XP2LMW4DmzR8LnT7hHzd3Pq8DTdSSamzWFggWFhDC9wEbh9blURTRMrbAaBtuoDrQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kiqcowvd7oy5gydebch3grpl08tufg%22%2C%22displayName%22:%22k_cassidy412_6%22%2C%22id%22:%22214251249%22%2C%22login%22:%22k_cassidy412_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kiqcowvd7oy5gydebch3grpl08tufg

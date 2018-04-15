@@ -1,0 +1,18 @@
+#t_johnathan30q_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	solqxcam0CR4ha0hERw1%2F9spoJzFS2Q8GuJBLAq5SS4%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214037196%3A%3Alukm2n33mfgwqhbc2hdvqe0y7irypy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMzcxOTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTQxNjcsImlhdCI6MTUyMzY1MDU2N30=.lid3j-QmzTykMr9JCJn7easLWKzbIDWIZzIPjNXRB5DKO_Z6YSeBZv6ZTCkMw2mn4Gmzrq6x--XSAqBhabHfZw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMzcxOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjU1MzY3LCJpYXQiOjE1MjM2NTA1Njd9.H990tkM7zdMOFAHL6twKBkO3w8U5MxPh3DyMrqiIjg5kqho0yfUSmJLhwDmj87vuraFpesgf-7NDbPlCvqGUGQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_johnathan30q_w
+.twitch.tv	TRUE	/	FALSE	0	name	t_johnathan30q_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T20:16:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	669833adb704225ec44ec137d675f3c8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfam9obmF0aGFuMzBxX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjAyNTY3LCJpYXQiOjE1MjM2NTA1NjcsIm5vbmNlIjoibmwxMWNvdTNCQ2hFanpHNWF3cTc4RW91ekcyN25UZTlyM24tVTJKbFhIbz0ifQ%3D%3D.8sLnZgMeeGfmUeE037xnXCTZBAGr41XlfLVmu0gx5K1UiJ28bTnk8rcDP0zdr6bilr0Cxl0ZiMDl59Ps5NwEiA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22th2q4hxjxv4sxky5mgr3peehym6paz%22%2C%22displayName%22:%22t_johnathan30q_w%22%2C%22id%22:%22214037196%22%2C%22login%22:%22t_johnathan30q_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	th2q4hxjxv4sxky5mgr3peehym6paz

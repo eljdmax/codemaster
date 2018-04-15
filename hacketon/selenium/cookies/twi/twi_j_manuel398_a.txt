@@ -1,0 +1,18 @@
+#j_manuel398_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dTCGEL7I6ImfBdmRYecp4BRgzv6Y2hJk7xb%2FRn9k%2ByA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214027320%3A%3A7pp4nj8fok1tnwm8h739fi4pv2umbq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMjczMjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTE0OTAsImlhdCI6MTUyMzY0Nzg5MH0=.lFN2kRI0o006WuVaTaH3DKpfWel0Mg5juXSbsjvTi5asmyY5qTRWOpNW_NXVr48B2gF59AKI8_Cmh7m70u0rkw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMjczMjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjUyNjkwLCJpYXQiOjE1MjM2NDc4OTB9.cLnFzHNnRR_WsRYVV9nWoS1PoPHwZ-rYQO4NcwXDbWinx7HEkE0v-2UeH3u9aSETFQNB_sN56g8uuja1FWRsZg==
+.twitch.tv	TRUE	/	FALSE	0	login	j_manuel398_a
+.twitch.tv	TRUE	/	FALSE	0	name	j_manuel398_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T19:31:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6a3193521d7f9e229825795e68e04642
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFudWVsMzk4X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MTk5ODkwLCJpYXQiOjE1MjM2NDc4OTAsIm5vbmNlIjoiNFYyNmlvcU1wR1NCTGNEMU5oZXNNdS1hNmd4c0ticGZvRUVOd2JBRkFTbz0ifQ%3D%3D.rI3ge7IFc6WPvgzWe1eYf7BaVd35eEsZNmMhl1Gv-4n7SXCZ_vwLFmTIu97QenC81vtaaln2k2PGz9vZr6Cn7g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jvekem2c6nk60ekkyeojdyqktjkwye%22%2C%22displayName%22:%22j_manuel398_a%22%2C%22id%22:%22214027320%22%2C%22login%22:%22j_manuel398_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jvekem2c6nk60ekkyeojdyqktjkwye

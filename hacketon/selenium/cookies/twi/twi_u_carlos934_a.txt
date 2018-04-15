@@ -1,0 +1,18 @@
+#u_carlos934_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gw6fZfIvx0WH2DvQtdHClG%2BDmZyjk7%2Bv0QoG26GR7mA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214452721%3A%3Awjrmvdhn4mdtv7sm5fo8ht8wvwlx5i
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTI3MjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTg0NDUsImlhdCI6MTUyMzc5NDg0NX0=.4XIKv25hV5sr_y7DV1ahYCV_gxRvOggayqg0MniDY5rRFCESyvIngx6HtLeT84hBMgV3PajnNCUMEMMrjY9QQw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTI3MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Mzk5NjQ1LCJpYXQiOjE1MjM3OTQ4NDV9.DdNmIC_FDJcrgDauHgamFn4y11O3fbgGMgsZhktiIhqAFJzJBSA7PhnZMZF6WR68-104wNWAsW2I7ZCWTM4-aQ==
+.twitch.tv	TRUE	/	FALSE	0	login	u_carlos934_a
+.twitch.tv	TRUE	/	FALSE	0	name	u_carlos934_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T12:20:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2fba9e9b40ba1a048aeb92e59f29262b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfY2FybG9zOTM0X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzQ2ODQ1LCJpYXQiOjE1MjM3OTQ4NDUsIm5vbmNlIjoiXzVzak9SRC1iVjhXU1hIYUlSaTJQLUdTb21uOWRRSF94bXVwWnNLMkRJRT0ifQ%3D%3D.48zubuDRkL-2Bi_IZGYbjPyjqaDfQ8Y_KC7-XClFIOwYBofpzlI9PAYnfANCa_iDzERG7i01lzRAQSwOBl6yPA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jmqumvqtsk2057aqeq2vy75udaqthb%22%2C%22displayName%22:%22u_carlos934_a%22%2C%22id%22:%22214452721%22%2C%22login%22:%22u_carlos934_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jmqumvqtsk2057aqeq2vy75udaqthb

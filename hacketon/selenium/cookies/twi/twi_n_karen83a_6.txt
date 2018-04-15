@@ -1,0 +1,19 @@
+#n_karen83a_6
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sFUD%2BtULSydxPrfmkDmBNW5v9IREYp02QJ8Krw5maEg%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	19b02cea1a34ad520625cbb3a4929dfc
+.twitch.tv	TRUE	/	FALSE	0	persistent	214305852%3A%3A2vnvggf0yziz7dxefmv4i2cjnvt3br
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDU4NTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDI5MjgsImlhdCI6MTUyMzczOTMyOH0=.lClvU-KhkpfZwYe5JOVP3aoGzyxO0G16tOcEhv19Nj5rJr4IFtNv-ZsuwKKCHLdAbNPEk-JDZokZ1n372qzSQg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDU4NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ0MTI4LCJpYXQiOjE1MjM3MzkzMjh9.NxTrY0DBe0TjqW4b6ETs4ntneoBCvCG3O56J8gjoCgcxJHXWmq3kGZAHP946BZhvQc_Z-ERKiKBEVPYG8-cSEA==
+.twitch.tv	TRUE	/	FALSE	0	login	n_karen83a_6
+.twitch.tv	TRUE	/	FALSE	0	name	n_karen83a_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T20:55:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a456e78fd16961c9f0a06f9a627baaf9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fa2FyZW44M2FfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyOTEzMjgsImlhdCI6MTUyMzczOTMyOCwibm9uY2UiOiJEQ3lfdFN1ZW93b185S1pKLWZvUjBoa1BheDkwaDhDNlFlRmlOTUphTURrPSJ9.CFMEf5asbAikoWOw1Xckpkc_cpeYlg10z4BVuIYA3ZrmBcdx9qfXyKbOQwfmvr04XvM6inqM-CjsEAQmbRkOpw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22k9vdo8e3vczhism35p5wd9ibrkg3ot%22%2C%22displayName%22:%22n_karen83a_6%22%2C%22id%22:%22214305852%22%2C%22login%22:%22n_karen83a_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	k9vdo8e3vczhism35p5wd9ibrkg3ot

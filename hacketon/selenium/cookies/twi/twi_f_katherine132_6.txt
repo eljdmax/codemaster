@@ -1,0 +1,18 @@
+#f_katherine132_6
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RnDiogNlIe6rKBk4nCA%2BjAIJxV%2F%2Fn8aTUvsnFcDU%2Bsc%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214175138%3A%3Akvvvrorpbuy6bj7jelyl3m6givg300
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzUxMzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDkxMDgsImlhdCI6MTUyMzcwNTUwOH0=.2eRNNVS-fqG7PLS4ONVWUSZLIi94cxYo1UbGENc-xM9tO5jeaopK_hzzQztgggDYJGrT0TKpWIVeKXXiXSk2FQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzUxMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzEwMzA4LCJpYXQiOjE1MjM3MDU1MDh9.LWwWniR23mgt0cnM8SdRac35TmOSE45pgZ8cV-kmzg-vprGHStBPIsI5i9fFzpoDNnmPyrxmFLDObZLbbCXeiQ==
+.twitch.tv	TRUE	/	FALSE	0	login	f_katherine132_6
+.twitch.tv	TRUE	/	FALSE	0	name	f_katherine132_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T11:31:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5a69576daa2c4c1a442359306c5a68e9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfa2F0aGVyaW5lMTMyXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjU3NTA4LCJpYXQiOjE1MjM3MDU1MDgsIm5vbmNlIjoiNDE1Y2ZER2xfdEd2azBzVVBISTB3ZTVyc1hwblZ2VzFaejcybHRFRXhuRT0ifQ%3D%3D.l3CrbIOWdqkuo2-ftSCjkSs8Dd13ABVekAJMTyITSXwkH6SdjBvtnNRffPDvTMV-V8V9Ku99U1lsOYrJhPNhSQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224aotc8d5qsumunwpvedglocu72plgb%22%2C%22displayName%22:%22f_katherine132_6%22%2C%22id%22:%22214175138%22%2C%22login%22:%22f_katherine132_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4aotc8d5qsumunwpvedglocu72plgb

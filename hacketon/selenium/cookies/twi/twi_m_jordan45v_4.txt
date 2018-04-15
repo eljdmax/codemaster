@@ -1,0 +1,18 @@
+#m_jordan45v_4
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tV45pnHT0R%2Fm6dwKAFCql6ktgzijEzd36cexXUz3U%2Fg%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214319121%3A%3Anfqg9gvhqv0g6kopjtbbte3iistec2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTkxMjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDYxNTcsImlhdCI6MTUyMzc0MjU1N30=.iD6DhLCyeDk4XV0kVYBqVxGHv2WRx6Ho2BQEBjrnprGI26xVbGmZ-yj9mX_GO4aiGNzWvcVUItmcBSblCIttQQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTkxMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ3MzU3LCJpYXQiOjE1MjM3NDI1NTd9.QzpWN-X2OOxTv9ovFkTprFeQW00VfmniV8K_qX5WO1PPZ5oZZHIrGeiBBy-dhJ-Mumfrra1d8KsUegI553zLZA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_jordan45v_4
+.twitch.tv	TRUE	/	FALSE	0	name	m_jordan45v_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:49:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	dfa5aa92735944155c8750ea3d1dca77
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fam9yZGFuNDV2XzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mjk0NTU3LCJpYXQiOjE1MjM3NDI1NTcsIm5vbmNlIjoiY1owY1B1Ym9adjNzOFBKYVktNU1fVWhiWHdxaWVqS3dKSVVUV1FjWkNMTT0ifQ%3D%3D.yYJZcTd3ptcV9pQylSloZ1YaAox1fI8QS6Lui-nX69nZwO_tfR_Uq68VoCkXKm_0pM1obTaGVJTu2Xkrc3DIIA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22falxgzlcjtxykfwfl2l4o1p76ggw3w%22%2C%22displayName%22:%22m_jordan45v_4%22%2C%22id%22:%22214319121%22%2C%22login%22:%22m_jordan45v_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	falxgzlcjtxykfwfl2l4o1p76ggw3w

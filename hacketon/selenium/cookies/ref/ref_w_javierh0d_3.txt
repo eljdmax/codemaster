@@ -1,0 +1,21 @@
+#w_javierh0d_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Qlay62bPI1JSariZYkKK3hcv8dgL3ItO1GBB6QFeOZ0%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214029580%3A%3Au57c26n0xo2tswxybwoh1mwdh9i68n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMjk1ODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTIwOTcsImlhdCI6MTUyMzY0ODQ5N30=.cl9TRbhsFe5ytP66z5mYsoU7_CQODdag1_tyfYJIJc3dUHRNeRMsCdxHF-AangV8yQismlAmoAxBx1SIwJ09YA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMjk1ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjUzMjk3LCJpYXQiOjE1MjM2NDg0OTd9.16sXBBBB1zxShuTsysg1yWTXAwWseNbNSwstjKaquvMUrhWdeEEYVMva4ncPbMngLB-wGBQvhdNYvvLsCML_QQ==
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T19:41:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5eb313801f01a64a4c83b9d35492ec22
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamF2aWVyaDBkXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjAwNDk3LCJpYXQiOjE1MjM2NDg0OTcsIm5vbmNlIjoiLTl3Q3JPRk03UE5tV0YxX2R3c2NSc2VVbmhGekhlMzdYNmstNXhlb19kYz0ifQ%3D%3D.aBERHO19MCFW6xT0A4R5xnV9fzRwoXRMJ9ONu4S_bQPOMx9Gd87LcYulJ-kh9ZI860732m3wC1Rp-xW3GCwj4Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p5b03lx6vmta0bwee329o2qqfbtw8v%22%2C%22displayName%22:%22w_javierh0d_3%22%2C%22id%22:%22214029580%22%2C%22login%22:%22w_javierh0d_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p5b03lx6vmta0bwee329o2qqfbtw8v
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	619fg6gGCFZ0jTML36mEtztOf4QfrsLA
+.twitch.tv	TRUE	/	FALSE	0	login	w_javierh0d_3
+.twitch.tv	TRUE	/	FALSE	0	name	w_javierh0d_3
+.twitch.tv	TRUE	/kraken/oauth2/	FALSE	0	csrf_token	ATaRgNsLiZlqL6jmza5HjoOOfObiXYsSTA%2FBatTveTk%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	74e89c3639d730b3867edebe9b2a80c7

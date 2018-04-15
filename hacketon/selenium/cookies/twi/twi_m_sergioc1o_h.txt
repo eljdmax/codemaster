@@ -1,0 +1,18 @@
+#m_sergioc1o_h
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7QjPPzXBdxq66BeWMtRmNLCAAc6Bv0tv%2FrVEpzZGDes%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214518300%3A%3A4zjxvgp0srtr2mbjr3p7e5042lyspf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1MTgzMDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MTYzMDQsImlhdCI6MTUyMzgxMjcwNH0=.4e7vynxQmNRf0dmZ_2V0EcNpLKUpk1QMd0jN7ePRyotbCcn8GAXQaS3JLzwrSJ8oCo4chTmLbiSgJNI4cVQptQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1MTgzMDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDE3NTA0LCJpYXQiOjE1MjM4MTI3MDR9.Zcz02zHbYokDnj1JsHJpIdXyeojHUx5xtzDrcXKxzz_g95WQjme9EqMYwoXitNosaVgMPdu5LC33vgBWERcxfQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_sergioc1o_h
+.twitch.tv	TRUE	/	FALSE	0	name	m_sergioc1o_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T17:18:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	422f95b06b3ef5ee7ada6ce27da70047
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fc2VyZ2lvYzFvX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzY0NzA0LCJpYXQiOjE1MjM4MTI3MDQsIm5vbmNlIjoiNW0zcjBlVXZuTmM5TUNhaXFwSFVCNzEzTnJPVzIyZGJJdjl2dU9odHllST0ifQ%3D%3D.mVprbs8g51H3kkOn7p2gfx8O-6TZX36XsAmhtmxEFXQPk198EUxULMOROJABiyzKRsK9may3bEqdXRVEKYtl1g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225h4x70u664q4bm04h3gwsuinis1vep%22%2C%22displayName%22:%22m_sergioc1o_h%22%2C%22id%22:%22214518300%22%2C%22login%22:%22m_sergioc1o_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5h4x70u664q4bm04h3gwsuinis1vep

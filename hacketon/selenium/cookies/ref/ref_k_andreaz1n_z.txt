@@ -1,0 +1,17 @@
+#k_andreaz1n_z
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	DMk-V6zPuBwjATcl7j5vn0SK1XIeKW--APNkrKujG_yTiMpluN6V1iICeMd7jDTl-EjPbc7zeqUlagKDXU7E5tL4IKpTXACX9IPWzHk_z9s1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	esiycuud3gxei3o42msztorp
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	Oh2-UDVmH2I7MeO3sK8QAVzxBzxgzXWlVwpOK3P8-n12Ey5XvVLRQG5e67YA5BDhLxS8mIFAjP4G3TljB-VSvjo9J8GwTMUTaCp4XdJJKoC9FBUBivXNLBi-6n1qKc2QHwS4g7H4thS-A4U5O4Oiuw2wFaxbEJDpbSnf8W05l6ztoy4sNtdgUs_KfkJ5s2ysYIKVrXjIuxIaPsHq3ewmEM2x34SqaIoanf6rwajIdO0T3Oo-SGg1zB1MfDOmyRZhRr-XIYkMUivheLr4l2koJ9oyz1AHau0NL_u7GfOnOdbbY72MamUWX2fs2vNfCXJZYiCQc3tvOZveiWQjlh8pUCyY9LbYJuPbeyORaZJsa6At-39TPJRvOzAINoHgBkiWZL82cxriXgevqMghfRP7MtSVLQIKrvxhTz0Oig0XH1WhQNqcTJgUgnChML96y4m7_FCI-LRgkMwVI7p_P5-UuIFXvcAug9qpwEwPDKMqPq6rSonlbCIlYvHvQpB7fqGA

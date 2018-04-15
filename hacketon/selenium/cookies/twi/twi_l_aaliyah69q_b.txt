@@ -1,0 +1,19 @@
+#l_aaliyah69q_b
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	PuJnxxKm7m1wygibsAY9b8ilxBFd%2Bs9Y%2BxY%2B26ha9zY%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	36dcb4e7d2dada4998fc2674ab71cef8
+.twitch.tv	TRUE	/	FALSE	0	persistent	214246768%3A%3Ay1k9cy959oqppui271i063gpjmr7n3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDY3NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3Mjk2NTEsImlhdCI6MTUyMzcyNjA1MX0=.eRHgVlFLW1ZzOSx0MnuYdYTtMZ2Nwxjwc-ybECdCNjnSDCn8qcvwedbx36a9DRiBs20QlDqsIG-UU31TVUJZPQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDY3NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMwODUxLCJpYXQiOjE1MjM3MjYwNTF9.aWgfDu4LoFA_Q4mqkL02TFHaI_M2ZNDPxfvPrsnGs1lMqVWoBh450nAPAv6CcSKCIoTNJ_br8fJIGFUJva2mmQ==
+.twitch.tv	TRUE	/	FALSE	0	login	l_aaliyah69q_b
+.twitch.tv	TRUE	/	FALSE	0	name	l_aaliyah69q_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T17:14:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	287b962a68f17b7a810797cdcaf58ff8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYWFsaXlhaDY5cV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI3ODA1MSwiaWF0IjoxNTIzNzI2MDUxLCJub25jZSI6IktreHRRdVkxS0FOMHZFbkZLTEQwa1U2Y2U2bXVjMG9LRmN1MFlHd3RRck09In0%3D.mHMxLHNfwc4UVI9W-KQ39yhP34HHWB3IHEtFIbElqfP1Xh4WTuOg75qYI1q7i0JBQQTJfvDdUrSkHeu7eUg5dw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22a7b1tticffkz6rb7jn91uppfwnqri9%22%2C%22displayName%22:%22l_aaliyah69q_b%22%2C%22id%22:%22214246768%22%2C%22login%22:%22l_aaliyah69q_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	a7b1tticffkz6rb7jn91uppfwnqri9

@@ -1,0 +1,18 @@
+#i_benjamin59w_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3COeZIoflSim8sTzjQQ8nqrm5e7rD8Xhd1XLeTFG%2BMo%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214261292%3A%3An0i9br6awr4a1oaf4c07mxah2ai6wc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNjEyOTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MzMwMDAsImlhdCI6MTUyMzcyOTQwMH0=.3j4jZWeXeOsn3cPW7yEgbpKWlOrYiSGz5zjUaQH9nqvBlF-IsTYiqcSZDw5FxxdGicBx9iGaxIeCkiTw41rkLA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNjEyOTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzM0MjAwLCJpYXQiOjE1MjM3Mjk0MDB9.CYpgqMJrfJ8ShNNZCAWYpwIbAWXZx1P2b2O8ZVVXinjSU8VIMJlNK1DB23nm-jeGi8dGPCJH5uuHEwIAcWlIGA==
+.twitch.tv	TRUE	/	FALSE	0	login	i_benjamin59w_w
+.twitch.tv	TRUE	/	FALSE	0	name	i_benjamin59w_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T18:10:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bcc5774a9e3676c25f0c3293ccbb6736
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYmVuamFtaW41OXdfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyODE0MDAsImlhdCI6MTUyMzcyOTQwMCwibm9uY2UiOiJOeklUYVlGLUlVYUMtWkpaNGZNZmhHLXVYRUJFdVFLY2Q4cnRaUWVYbkJjPSJ9.ry2RSE4a8xrDGPNEA-eIpJhoVRk2v2xY6GIaSP7m5JwrTnYDT9lr5rUWsVK4OiMuTlFYtf2myQLiuhY9nNGc9A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s92emh1aygqayktb9wgcbv7fjptilt%22%2C%22displayName%22:%22i_benjamin59w_w%22%2C%22id%22:%22214261292%22%2C%22login%22:%22i_benjamin59w_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s92emh1aygqayktb9wgcbv7fjptilt

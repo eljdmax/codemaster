@@ -1,0 +1,18 @@
+#s_cesarc9x_j
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QKmI%2Fo0%2BxQiMEa3g7UhXjnTF%2Blh%2FmAC5UO9a05LhSZs%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214317994%3A%3Aqaz6znr4pw20y2u2uou5qvr6jxtjqh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTc5OTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDU4NjUsImlhdCI6MTUyMzc0MjI2NX0=.q1IpLgSy0w9l6BkGjkPvSVQLOydFDJw2mEJBxqZDfWL1qNytBt9Hj5P5XJzxfhTA5Pv8s1eYjCFJS_9N9NNPdQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMTc5OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ3MDY1LCJpYXQiOjE1MjM3NDIyNjV9.zJsUyAnk2fkplRyL_5FrpVKrYFvg6PdsHNca3kF-QxqbvsXmii7dniMbsrY-3jHhKIDWDAz95PFfONG9LjWOAA==
+.twitch.tv	TRUE	/	FALSE	0	login	s_cesarc9x_j
+.twitch.tv	TRUE	/	FALSE	0	name	s_cesarc9x_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:44:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3dd740e55df79249a9e2cb410bc375b0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfY2VzYXJjOXhfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyOTQyNjUsImlhdCI6MTUyMzc0MjI2NSwibm9uY2UiOiJGNDQzYm4wT0d1YVVMQ2xCc2hmQmVGSmEwMzYxUkhyWEp1d1dENlpDVVNrPSJ9.YPxNjEhJZVezJLDTNhdfm0iBhwjJSNKut9I4snx8ZyMSvBVed7yhPTZsYA4xCfuyB3h5K9mRmZVxjpIBKjhO-A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222pa0dgr1qzuqlpwzjoojuyn8xylpeb%22%2C%22displayName%22:%22s_cesarc9x_j%22%2C%22id%22:%22214317994%22%2C%22login%22:%22s_cesarc9x_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2pa0dgr1qzuqlpwzjoojuyn8xylpeb

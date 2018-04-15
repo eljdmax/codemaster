@@ -1,0 +1,19 @@
+#r_catherinel17_c
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	afQ32g7KwpajIdGxNfNEo6HNTNtI%2BXDapTJ7L3hT5x0%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f22a35826d79987fb58b963482122472
+.twitch.tv	TRUE	/	FALSE	0	persistent	214168136%3A%3A24isgxvjnu034gsvqtpdn2md15hzfc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjgxMzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDU4NzgsImlhdCI6MTUyMzcwMjI3OH0=.2c4mgkdRG2OcxNk7sXcfUJaNIwEALspRK4Xtib7p110hCfyjIAdmrg6VDlAasCorFg7s5tTeJ8gDZmeD9CvN2g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjgxMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzA3MDc4LCJpYXQiOjE1MjM3MDIyNzh9.m1QLHwGt-v_pbepKK0SlcOY4xldpO9pOGhCIrXKooPR8fkqD68HxM1oivzE19TL3EcYlerX5QSgahrzSfDuqBA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_catherinel17_c
+.twitch.tv	TRUE	/	FALSE	0	name	r_catherinel17_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T10:37:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	15b741c5d7a28f646bc63950e22c0717
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2F0aGVyaW5lbDE3X2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjU0Mjc4LCJpYXQiOjE1MjM3MDIyNzgsIm5vbmNlIjoiUFZjNlRuSHp3ZWZLUWFHTDN3Y2RtZ2dTZlp3bUdpZXcyeDFsd0cxRFFubz0ifQ%3D%3D.EA9NTnr3FJim5-7-Sizk1CszJpcZIDH-X8u4xZImilWOaK2B2XZf3azb96ZQvXDh3GIrBut8rtvG_ZbbeNYfyw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gi9ugt1zqp24quyklhjewasdijx5zz%22%2C%22displayName%22:%22r_catherinel17_c%22%2C%22id%22:%22214168136%22%2C%22login%22:%22r_catherinel17_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gi9ugt1zqp24quyklhjewasdijx5zz

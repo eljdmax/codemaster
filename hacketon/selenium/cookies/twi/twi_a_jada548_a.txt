@@ -1,0 +1,18 @@
+#a_jada548_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dnQmvw%2BdNk9foEJCLwT5FwZlc8XzQfStvUcoeeDo7mE%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214165145%3A%3Ad2jh6ujsn4pkknbxmkz5btdmrxcylj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjUxNDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDQzMjksImlhdCI6MTUyMzcwMDcyOX0=.QXCbk3To8zfjTdkYbzotzThVGixGt0Bd_05uNjMYBPp6sq8otyHNPfrCzld18jMjq-6edkCmC-FNsG1dMf_N0A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjUxNDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzA1NTI5LCJpYXQiOjE1MjM3MDA3Mjl9.PpBgnfhMfdSBqYAmTtxyu720CHIJQdkoONPtacikCP_rrgLR5mQOIxc2Ut7Po6PSU72eQT2cFZXcmGdCPUbLVg==
+.twitch.tv	TRUE	/	FALSE	0	login	a_jada548_a
+.twitch.tv	TRUE	/	FALSE	0	name	a_jada548_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T10:12:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d11cb63b7d4d5a7454d21a0df734d366
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamFkYTU0OF9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI1MjcyOSwiaWF0IjoxNTIzNzAwNzI5LCJub25jZSI6Ijk5YVUydDhDb0xkQ0oxbTdqY2Z6M1NEMWFLcHp5dFpXN3pVa1NjS3Q5akU9In0%3D.j4DFTx-N-71T6Sijx8cB3xtrXHGKw5osjxDpvbSNuJL7ItnkWwCHxSCdZjJn0v0zGuhUMcLF_hmfhGBwmVfJCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pnjbrxv7ca72ots6b2te5gbabumg6w%22%2C%22displayName%22:%22a_jada548_a%22%2C%22id%22:%22214165145%22%2C%22login%22:%22a_jada548_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pnjbrxv7ca72ots6b2te5gbabumg6w

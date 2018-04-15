@@ -1,0 +1,18 @@
+#a_angelr0a_q
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LWe9pPJiAsrvfNRd2cKijPEmFsOSc6nJ%2F0FZavME3YM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214495354%3A%3A7rrzw0j831ja00vaz77tvu8cllzqxm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTUzNTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MTA3NjgsImlhdCI6MTUyMzgwNzE2OH0=.THuSDq5btLXm7ijIvIX30dzJa-p8vEAIPEMZpyIbRAH_pWobLstPrQqPeAAIWOwnboJcMuwVRglvMW2ai1nnLg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTUzNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDExOTY4LCJpYXQiOjE1MjM4MDcxNjh9.9eZzEd7UqDZaCei2pQSg2FOsWZRnyAIp_gnl45J368C1kZFr8KxbM6O0KKk8MbyoUix-O3uZeHfp7JyxtOhO2w==
+.twitch.tv	TRUE	/	FALSE	0	login	a_angelr0a_q
+.twitch.tv	TRUE	/	FALSE	0	name	a_angelr0a_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T15:46:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a9fd4301ed8621694f95a0b4f66d058e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW5nZWxyMGFfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNTkxNjgsImlhdCI6MTUyMzgwNzE2OCwibm9uY2UiOiJONGQtdGN3cjF5MmpvbzlIOXFyY21iN25mTWlobGdkRjI1UkdacHlxV3pzPSJ9.qFBGlufE5GtxRvKYsBNJxx_0yFkcpLrkvkADjvAwGJ-5Pt7QhggRy8F0TdXfWNZJSki7fwGum3Rd_urW5rWl2w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zb8xrn2ilujn3e0e68o7fgq4cco0c3%22%2C%22displayName%22:%22a_angelr0a_q%22%2C%22id%22:%22214495354%22%2C%22login%22:%22a_angelr0a_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zb8xrn2ilujn3e0e68o7fgq4cco0c3

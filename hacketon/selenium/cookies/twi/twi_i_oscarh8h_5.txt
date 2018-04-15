@@ -1,0 +1,18 @@
+#i_oscarh8h_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Wr9tMSiW2p8VLmP4Q7gv2csn%2BMEXVZrHkZkouqOMN4s%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214249853%3A%3Ajfupesm9cbpwcq7hgvkg0slg5tff64
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDk4NTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MzAzNTMsImlhdCI6MTUyMzcyNjc1M30=.o1Xx-dPSygG8Aa6WYbBn-QKfa_YGrjMqj5956C1jRShALlAuRyqZMs_JBIwA5gV2xhVLP8vtIzQk_s2ZrNoEcA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDk4NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMxNTUzLCJpYXQiOjE1MjM3MjY3NTN9.ptxmxnrYf-Am1wMOb_AHac2ChnYKTjVHQK9rEreLBB1LBPhPJJlK1BcsD6DSqSVAJLzREnVnmoFsASbTJzvlfQ==
+.twitch.tv	TRUE	/	FALSE	0	login	i_oscarh8h_5
+.twitch.tv	TRUE	/	FALSE	0	name	i_oscarh8h_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T17:25:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	120922f754cf57e1f749510b0a181375
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfb3NjYXJoOGhfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyNzg3NTMsImlhdCI6MTUyMzcyNjc1Mywibm9uY2UiOiJ2LTlsVTVsZ2Jjb05Ccmx5cEppTHp0ZjlyNkYzNFpyVy1la24zbzVtaUlFPSJ9.nN1TGhO88eL_XxLWt7Q_wq4xIZg2rF0lpifRq5Va7oqRfnI3_m5Nv3tIuPeBdL_eBjb7FIEux7ZL4B3fL8zxEQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225okujmxm630wzf06587xztfu4tergl%22%2C%22displayName%22:%22i_oscarh8h_5%22%2C%22id%22:%22214249853%22%2C%22login%22:%22i_oscarh8h_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5okujmxm630wzf06587xztfu4tergl

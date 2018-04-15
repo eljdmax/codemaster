@@ -1,0 +1,18 @@
+#l_alicia83x_i
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zUVNB8V4gwup%2F06q01frbdq2QmW3pLaflZNdN8VseWI%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214304645%3A%3A0hhmi9cz198fth2dq52tfqtrpt0vrg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDQ2NDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDI2NDEsImlhdCI6MTUyMzczOTA0MX0=.sNQvO4fI9HzMKAdtpextZzvWXWibHLG4VQKON3jviRG-8spG13ut7sASCZC_Ys2GYmoWGQse4bZoPiBRnNgETg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDQ2NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQzODQxLCJpYXQiOjE1MjM3MzkwNDF9.BYaZOFzk17naz9MOX-fXPAVQ0NCU31OZScnBRHKiWzTQo7t_k9vnp-2v4wzLSqhbHTKadIjJJkn70PjgTDnnIg==
+.twitch.tv	TRUE	/	FALSE	0	login	l_alicia83x_i
+.twitch.tv	TRUE	/	FALSE	0	name	l_alicia83x_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T20:50:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1132ce60d27411fb6bdcad31e517ef70
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYWxpY2lhODN4X2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjkxMDQxLCJpYXQiOjE1MjM3MzkwNDEsIm5vbmNlIjoiUGpoTUJmZklhT2w4dU8zSXNKTXZBb2UxVUJBMjZkR2ZreUlMbG1lN2I4TT0ifQ%3D%3D.8INmebJxRXTAPCV4E5-bgjBYXF0pkcDSzS5EoY4hi0gNJc6f0l1_9B1bkukQ90bjFyldd_oZ1lWyss6jCSPU5A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ueee38bacbszg33k7gg97g9ksl90xm%22%2C%22displayName%22:%22l_alicia83x_i%22%2C%22id%22:%22214304645%22%2C%22login%22:%22l_alicia83x_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ueee38bacbszg33k7gg97g9ksl90xm

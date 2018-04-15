@@ -1,0 +1,18 @@
+#g_sofiaq23_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	f4HyE7RZcO7xbjv75WLZhZ4vPpHSixeZK8JQSPG4vmk%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214466545%3A%3A0cymznf1xx3xkvk0iw753cr7a7c4ro
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NjY1NDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDMwNDUsImlhdCI6MTUyMzc5OTQ0NX0=.7Wq7TS7gxDbNiPGYafqv_HqRZt6JhYZcu4n5pK52JQaLE6hms_5HpoarMpf1yka805HK5AAB8UBdoYWhiNUU3A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NjY1NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA0MjQ1LCJpYXQiOjE1MjM3OTk0NDV9.ZsZlw2R3Qy-DyZhzVbd4yjP5_4iEtiSfFIb0yGOs8Ax8colVg4xigzvnY5QQmzJmpCvEict0jv1Jewzc19T6wQ==
+.twitch.tv	TRUE	/	FALSE	0	login	g_sofiaq23_5
+.twitch.tv	TRUE	/	FALSE	0	name	g_sofiaq23_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T13:37:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c337b790262f48ff27de4fc9a54e8c3f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfc29maWFxMjNfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNTE0NDUsImlhdCI6MTUyMzc5OTQ0NSwibm9uY2UiOiIwY2NIbVJwQUwzdEg0TXBpU0NLUGxMNzdMNjBrVHZpNkR6NzhoTlNOeFVvPSJ9.ZzPwYYN7-SmMmoLfyia1nl9iK4K-EGxmlRQUVPeq99_tPjTY1ZspGxtNtst5FGu3YjPe_fZCQhqBMCR8nMZtXA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ybighz6kqus2wx13h3odcppqptp32s%22%2C%22displayName%22:%22g_sofiaq23_5%22%2C%22id%22:%22214466545%22%2C%22login%22:%22g_sofiaq23_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ybighz6kqus2wx13h3odcppqptp32s

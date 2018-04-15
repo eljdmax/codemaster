@@ -1,0 +1,18 @@
+#y_jack99k_z
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Ne1h1dcgDi2nagX%2BOCl89FvE6AhvWJmZ2GBYggwX0zA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214176212%3A%3Ag6bvv88pm2q6jrx64prvr3jj6rukdk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzYyMTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDk1NDMsImlhdCI6MTUyMzcwNTk0M30=.YZ24QgynNKBF_Jjzj1gdPYA_fA_nCGJdX3nRJx5bo5OdoOGAOJe4qdysCyrKKPd6V-C9gjLO1XAI4WECLu19bA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzYyMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzEwNzQzLCJpYXQiOjE1MjM3MDU5NDN9.OUWGUlErMavY9yCk-Ue1bfpUEoLvbA3USJZ6Bq0nbRPvMzp1oGXoCCiG_hI59Ucjom624rCXvSszySXJZnqbag==
+.twitch.tv	TRUE	/	FALSE	0	login	y_jack99k_z
+.twitch.tv	TRUE	/	FALSE	0	name	y_jack99k_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T11:39:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6d7560539a0862c2cfd1efeedd942efc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfamFjazk5a196IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI1Nzk0MywiaWF0IjoxNTIzNzA1OTQzLCJub25jZSI6IlllUXJqZTVOb215anBWSFF4ZEM0cVdwVUpzSjVJY2pDMUVIeUF4MmN1aG89In0%3D.8kqoA1Y6LNjd6ikR1yJF32hmQ9vz1swI-RXuQh-t_4CAi-snGB5hj3d-fmwX7k6gqMzhAayNY2OtaB4tZuYj6w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vzx9x008wg5a63c99uq23at8ssoo0v%22%2C%22displayName%22:%22y_jack99k_z%22%2C%22id%22:%22214176212%22%2C%22login%22:%22y_jack99k_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vzx9x008wg5a63c99uq23at8ssoo0v

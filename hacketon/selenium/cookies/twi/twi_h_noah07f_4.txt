@@ -1,0 +1,18 @@
+#h_noah07f_4
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Z8xnRYBdI8I7f6NpZRK77e%2FllZrg9x1aLSR6XENOsEw%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214064684%3A%3Anaphxz9rbqv9yarcen0kc9xwpo8dlj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjQ2ODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NjE1NDcsImlhdCI6MTUyMzY1Nzk0N30=.6YrA0FoogqUjRTDM_hGwKXuk4_oiQ0dhyGGUY84hOM55X5Hp3OFq62ZCZfTTo2luPtszqrWVwf-_xX4P00XjIw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjQ2ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjYyNzQ3LCJpYXQiOjE1MjM2NTc5NDd9.zKQ7d8tTJlkZZZ87OQDeeeIdSpDus8IYe1Et7kziU3EbbbtA8ZDLfAuXlZGRnbdDfoLS7-0Mqcli61mBfBxNlw==
+.twitch.tv	TRUE	/	FALSE	0	login	h_noah07f_4
+.twitch.tv	TRUE	/	FALSE	0	name	h_noah07f_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T22:19:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	22ddd244a57b643aeae2d7b76ecadf0c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfbm9haDA3Zl80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwOTk0NywiaWF0IjoxNTIzNjU3OTQ3LCJub25jZSI6IlF5eHA4bDVCNkpxZ0pJLVBwVzRiNVVfbGxVZzI1Q19RblVhdlBYOFJhOWs9In0%3D.YhZzLC0BH9iqa4u1_y1QJaLyr1w0_DtRnhHvZxohP8RUxLJHf3KeBW0b15SLdiip2zfoLp6PpPCeClbwu0voIA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224yfyktwee6tsk3twu4gdpuunxcnjqo%22%2C%22displayName%22:%22h_noah07f_4%22%2C%22id%22:%22214064684%22%2C%22login%22:%22h_noah07f_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4yfyktwee6tsk3twu4gdpuunxcnjqo

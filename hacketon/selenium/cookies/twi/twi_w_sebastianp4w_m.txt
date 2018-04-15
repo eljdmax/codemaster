@@ -1,0 +1,18 @@
+#w_sebastianp4w_m
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Y%2BYCNdilutFGXyR65tl1m6kbTzlw0VDperimYEcutzA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214044302%3A%3A8jreehj6a2gvom9p4730knhd0c7l69
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDQzMDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTYwNTcsImlhdCI6MTUyMzY1MjQ1N30=.PJiEnYnoeiFHjvPH65iTVJlwPdRm62--PJvRyfEH0_A8VspBjFbaOi9G0Aw-VGzlGQZckt7bp8tLbP4RWcj_kg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNDQzMDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjU3MjU3LCJpYXQiOjE1MjM2NTI0NTd9.o3Vt4cVq7pWS39z9XXqqlJfLnNWNYzSloveakPACfOnmPvJ0srH3YWNnlA_Ogt8_dCedWWh05iD9hEvWM6eKYw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_sebastianp4w_m
+.twitch.tv	TRUE	/	FALSE	0	name	w_sebastianp4w_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T20:47:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	681d66655ec91589027650f0ec8ab585
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfc2ViYXN0aWFucDR3X20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjA0NDU3LCJpYXQiOjE1MjM2NTI0NTcsIm5vbmNlIjoiX1F0d2JpSmpHYi1zX1JRZWwydy0weUkzRlktck1NLWhERHZOSXNVNHE1UT0ifQ%3D%3D.PYydZsL3NgCXY901q42AIW3ThKGGWqSi7Q0VzOdlXrnBBWQsdJpS1Y2UoJJBAYDRAHVe-SfuU1coeDiomyZCEg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m2wz1sz5bc2gmwduyytpphjmyopsnq%22%2C%22displayName%22:%22w_sebastianp4w_m%22%2C%22id%22:%22214044302%22%2C%22login%22:%22w_sebastianp4w_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m2wz1sz5bc2gmwduyytpphjmyopsnq

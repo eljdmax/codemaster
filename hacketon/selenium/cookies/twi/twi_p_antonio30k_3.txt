@@ -1,0 +1,18 @@
+#p_antonio30k_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	rmXx2abe%2FAeZgBLifOiil4z3oI3szUXwD9f%2FNu41A4Y%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214456157%3A%3A4usxxaejk3zk1w5n9mfpejjrxtpwha
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTYxNTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTk2NTMsImlhdCI6MTUyMzc5NjA1M30=.79DwJYFYH7yLlEIrRs-R-nN0t11yQT6fQLyldhlHsLuDuJGBFFNGoF2w6CLjv35YOeKwTdUmusZW5NW-TpJPzQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTYxNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDAwODUzLCJpYXQiOjE1MjM3OTYwNTN9.NqCZ9rcShZXKxbK0-s4DoLV3q5My-OYAOIyiZisLIjagBCOCmzDJe17lMFpTTqN44B5nhbHqnvZPtha4Uhfepg==
+.twitch.tv	TRUE	/	FALSE	0	login	p_antonio30k_3
+.twitch.tv	TRUE	/	FALSE	0	name	p_antonio30k_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T12:40:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b8f93168d63d54c48c1e25b03fda14c4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfYW50b25pbzMwa18zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM0ODA1MywiaWF0IjoxNTIzNzk2MDUzLCJub25jZSI6IjZzeDNxUXEwaFBnenpIUURtNFptYjFSSV9yVmM4b3dBOGJvWGtna1ZpNmc9In0%3D.CmMUt05NsJav-YU0_NP7gDpsUAd9sO-EHJFET5H8MAI9j6xuAfTpW3ikEPFg6aG4sm_ycEcNoh8Tkqw50eQpbA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224j5mzpxeswtjom0sljehhm6xufjvgd%22%2C%22displayName%22:%22p_antonio30k_3%22%2C%22id%22:%22214456157%22%2C%22login%22:%22p_antonio30k_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4j5mzpxeswtjom0sljehhm6xufjvgd

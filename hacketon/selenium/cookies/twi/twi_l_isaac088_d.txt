@@ -1,0 +1,18 @@
+#l_isaac088_d
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	urrtD7dVRNlKvbw5ngCb8evd9IbDJOUgjJv2PObhp2w%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214483299%3A%3Asha70jde2n79g7advr6e81oh6wrld7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODMyOTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDc2ODgsImlhdCI6MTUyMzgwNDA4OH0=.fl4m5JXWmvLP70t_ms_edpDO5MZEOUyPhRPth6q-PEYrJPUIK1FTkhKlnGf_oC1_ZouyLBJ2Vx4Gd4ByBiU9ew==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODMyOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA4ODg4LCJpYXQiOjE1MjM4MDQwODh9.YXADT3V_m7OIHH9KLZ9hR1H1DWW4SxoziswCkCP9RvePsso-r9jexokeGWqhQeuLnFrjL_Y7NU7gxTk3b89dDg==
+.twitch.tv	TRUE	/	FALSE	0	login	l_isaac088_d
+.twitch.tv	TRUE	/	FALSE	0	name	l_isaac088_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:54:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b3b1fee1db7d369bf4aec2ee0329f589
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfaXNhYWMwODhfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNTYwODgsImlhdCI6MTUyMzgwNDA4OCwibm9uY2UiOiJybWFWQjRudFFBNUhpRnV5MG1xV3E1QmVDZWhEOThMdWw2MUtTVXFoa1JNPSJ9.dL9K07C296Sb5fvR01W0cXxF32-Q4fCd_aaTPM5QfrUZdyAl0k-rbEmNsnk1wO-mllce35Z9Hwz2MabYsIkCMA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gbyr50njt40vcyyi1zdjjs5vdvjbc6%22%2C%22displayName%22:%22l_isaac088_d%22%2C%22id%22:%22214483299%22%2C%22login%22:%22l_isaac088_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gbyr50njt40vcyyi1zdjjs5vdvjbc6

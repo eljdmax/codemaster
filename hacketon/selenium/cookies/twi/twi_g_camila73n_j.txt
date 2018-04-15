@@ -1,0 +1,18 @@
+#g_camila73n_j
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8U%2BfjR9XxkvH5FO4eOxCDRWPrGaDTvnbp7ha%2FZgnDPg%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214455034%3A%3A6n08uywh93cweyorl9d032yimbfall
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTUwMzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTkyNzYsImlhdCI6MTUyMzc5NTY3Nn0=.an9LEEj3yfPHeq9YL5zhFOw2DSCL_V8zYhcmS7qrC3d0sWdBpnuEOj9rf6FKnrPGd_HbUO8U7y0C_wI_kKPlug==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NTUwMzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDAwNDc2LCJpYXQiOjE1MjM3OTU2NzZ9.tVyTIM_0Gvm87dvwbxA9j-HlHcWCI2o3mExkHcm_jHQLnwzbc5Y7v9dC2yT9upWaiuqTRA6zaZIe-C1QF8dNCw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_camila73n_j
+.twitch.tv	TRUE	/	FALSE	0	name	g_camila73n_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T12:34:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e0917390a602807b84baa38f0becef63
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfY2FtaWxhNzNuX2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzQ3Njc2LCJpYXQiOjE1MjM3OTU2NzYsIm5vbmNlIjoic0FwNDRWM21IaVdsbklsRjk1UndrYjBocjJ1bXo1NnBBcHF0emQxUzZ3MD0ifQ%3D%3D.Nm2iI6k2FpQItNJiWrO8Y0kE9CBuDtAJpvHAs-ojeb-VMNhEoFXDP1YHncx_w92D89VUjxw6RVq2HUdQ2k-CRQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qfqi1gm1a0eyh1g3bkvzqsyozyksje%22%2C%22displayName%22:%22g_camila73n_j%22%2C%22id%22:%22214455034%22%2C%22login%22:%22g_camila73n_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qfqi1gm1a0eyh1g3bkvzqsyozyksje

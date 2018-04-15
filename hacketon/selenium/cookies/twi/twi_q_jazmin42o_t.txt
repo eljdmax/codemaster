@@ -1,0 +1,18 @@
+#q_jazmin42o_t
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	l%2F2%2BPAcyrtcQ43qQsikqFDYCrolQmqWW%2FmhrG108Ls8%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214439642%3A%3A3bipkksvoq1507v9uvvln5jx2p8n3q
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0Mzk2NDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTM0NTYsImlhdCI6MTUyMzc4OTg1Nn0=.lOS2VKMxcoFpNvVN8WGhdPXEhF8taYJxAHoWC_XJ5KOYQWachxayik08RVXlXH48JUCkkXVYmG1kUv-61nUDnA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0Mzk2NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Mzk0NjU2LCJpYXQiOjE1MjM3ODk4NTZ9.-IUGrUbLXTiIn9Y8PrT92z1jT09IkyKShdof1URSo5Z5SIEkDoIRGbbPLa8bl6B4nxR9dllE42PVPcZEiqK7Ow==
+.twitch.tv	TRUE	/	FALSE	0	login	q_jazmin42o_t
+.twitch.tv	TRUE	/	FALSE	0	name	q_jazmin42o_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T10:57:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	25ecf9c466219cfec539827e739e4494
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfamF6bWluNDJvX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzQxODU2LCJpYXQiOjE1MjM3ODk4NTYsIm5vbmNlIjoielhsRlN2a2F3R0hESFJSUU9FTzBlSGxFVzdfV2JDQ3E2Z3l5b2lEa0U3VT0ifQ%3D%3D.7VzX-ghDUk9x3UapWfUbX1eUF6y1wRqVKjjkR929IZ4pQQGWlHT-smrpuKunmXGLkl_VbP8N1dPZE4D7WxBV5g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221ge8xq23v071gvdu6qjdta0rj8ury8%22%2C%22displayName%22:%22q_jazmin42o_t%22%2C%22id%22:%22214439642%22%2C%22login%22:%22q_jazmin42o_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1ge8xq23v071gvdu6qjdta0rj8ury8

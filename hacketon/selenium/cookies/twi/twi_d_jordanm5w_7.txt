@@ -1,0 +1,18 @@
+#d_jordanm5w_7
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	AsH8pAHynwCmLSmVIqYp4s0%2BnqCiuBUEIaiQ0XE084g%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214476571%3A%3A177tf47wijngoxnure8vaur2w5gww0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NzY1NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDU5ODksImlhdCI6MTUyMzgwMjM4OX0=.VrUKWaJ93DkiLKLMxZAiKIyeIX1rGDZUHogGJO1f0r9mu5SVRp6cW9Vej21KuO0t0qNRx_aKjX6evpGBlQdX7A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NzY1NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA3MTg5LCJpYXQiOjE1MjM4MDIzODl9.Z78o-LR2czAThh2lGlWwYUScQM69XzJTaP0IUMjUFbliovSlmS1ThQXyirjblRDH1lMHZr8RnCo3J9CXOn_eow==
+.twitch.tv	TRUE	/	FALSE	0	login	d_jordanm5w_7
+.twitch.tv	TRUE	/	FALSE	0	name	d_jordanm5w_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:26:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7f37193b918a3a3c0838c6b872b587eb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfam9yZGFubTV3XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzU0Mzg5LCJpYXQiOjE1MjM4MDIzODksIm5vbmNlIjoid0hoLVctZ3ZOYVlBUG5IYmlGMHA3ZU9UbC1iZno2OC1IU1J0Mjc5aDdZVT0ifQ%3D%3D.5yajlhAERuEKAUA0VWIZjtwdtHSFgM-6WAzyWaa3EMXCvVgoXxtdUQPob_p8NZgqgB04A98I4F4SifXYKL9Hvw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2236uikuqdnkiyaco98801xynrccca0p%22%2C%22displayName%22:%22d_jordanm5w_7%22%2C%22id%22:%22214476571%22%2C%22login%22:%22d_jordanm5w_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	36uikuqdnkiyaco98801xynrccca0p

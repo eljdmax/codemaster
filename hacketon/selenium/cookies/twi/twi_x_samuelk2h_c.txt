@@ -1,0 +1,18 @@
+#x_samuelk2h_c
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cshl6gKjHkz7%2BqoQuMHBB69IKII8KILWbCEQDqU6Lkc%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214492866%3A%3Ae8kn95lfryoo2ak7hcc9do8nz4dxix
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTI4NjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MTAxNDgsImlhdCI6MTUyMzgwNjU0OH0=.0IKe1xYWU6f7TzmB4qq2IfSkr2ox25vP0WzVg-qKxrr2Y6lIx7xW_1gJxPVb9nbVCIQdo8Aorfeau9sy5UCS1A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTI4NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDExMzQ4LCJpYXQiOjE1MjM4MDY1NDh9.C5R4_XFrb0Yr1xinttN3fRe5HPQSV97xHTofT_7Cks4gNo8UP5t1FyxFJON-WoYnxtTQ-ShIqamUzw6BSbVKsw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_samuelk2h_c
+.twitch.tv	TRUE	/	FALSE	0	name	x_samuelk2h_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T15:35:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f8084f43dad31cfffcfa6439a100401d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfc2FtdWVsazJoX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzU4NTQ4LCJpYXQiOjE1MjM4MDY1NDgsIm5vbmNlIjoiWGhpQzFOdmI1UWVuRWxwcjNTVVl6XzlhTFFqQWpqd245X1dPZXZDRURzWT0ifQ%3D%3D.CX1DBcv761RQweZhOczTLAQDGcTfReFNMGAs5UScJ83vKDHe5nB45junamgY2y6slqPI3um7dYSx02xkGlgWJQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22j1dtac8786vqos2agy9c5nl47mp7de%22%2C%22displayName%22:%22x_samuelk2h_c%22%2C%22id%22:%22214492866%22%2C%22login%22:%22x_samuelk2h_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	j1dtac8786vqos2agy9c5nl47mp7de

@@ -1,0 +1,18 @@
+#j_malachi34y_9
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	94%2F7gwfQqjsVcOLALdyv98VnyB03VW1NwL5Q4qICN6k%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214171019%3A%3Aa1hbae4z1y65k3qexx26yhcd9a30cx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzEwMTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDczNTMsImlhdCI6MTUyMzcwMzc1M30=.EhE-LBha1PzeEdQCzEq0ucdTc4ik0TIX93a_4q0E6GQrrcFJHR1Xs5Qh1WJDziQzQHJLFWdDzmRVxui8E65zeg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNzEwMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzA4NTUzLCJpYXQiOjE1MjM3MDM3NTN9.DDPYkYhq0vIuCf2w1b80T9-gbxPavrQbEsg9r84MotvaZ9q_EjgSMUMrG6iB42llriCeqcFKNneklIHl4Tp5vg==
+.twitch.tv	TRUE	/	FALSE	0	login	j_malachi34y_9
+.twitch.tv	TRUE	/	FALSE	0	name	j_malachi34y_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T11:02:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bec63c98754a20484054e9a00e1b51de
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFsYWNoaTM0eV85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI1NTc1MywiaWF0IjoxNTIzNzAzNzUzLCJub25jZSI6IkJneXBScW5jZ3lRczhBa0EtNExaaDA1VExHR25EXzFuU0VWaHRRTEtfWms9In0%3D.eMhnURnb1fOrUGMqgZqlKFftkLFIYxGb0adGjkTmCpaYv6MfQlr9k3AHW9ZkgD9qsr7ldMyoy725wfY1FJistw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h2dtrcwx3n74txpaxhiubcbvmsivf7%22%2C%22displayName%22:%22j_malachi34y_9%22%2C%22id%22:%22214171019%22%2C%22login%22:%22j_malachi34y_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h2dtrcwx3n74txpaxhiubcbvmsivf7

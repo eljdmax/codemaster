@@ -1,0 +1,18 @@
+#p_alexis18i_z
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2F%2BO%2Fya9AtL%2FQMbE%2FmSdQb0fHRJMj79wYH%2BBaxK1uSOw%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214320544%3A%3Ad58yz4ezhmiw4p4a03ohlkn4ch574o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMjA1NDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDY1NDksImlhdCI6MTUyMzc0Mjk0OX0=.EYxwAxy6a8Ok-PdcGbyM-iSwYFV9Ihk06WpUK1ZjJ26x_JaYyRCotNUJKlaTqqoto_VZhhcg2s0OV6-vABrhuQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMjA1NDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ3NzQ5LCJpYXQiOjE1MjM3NDI5NDl9.lQGEiUZFbpflGSTVeDuD2SXw16pLiJcZ-YIDjnnbQlDW4EFQP5fBbzp9ety8xjs6VREEVUSoteUm5cmfcSgA_A==
+.twitch.tv	TRUE	/	FALSE	0	login	p_alexis18i_z
+.twitch.tv	TRUE	/	FALSE	0	name	p_alexis18i_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:55:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3c4ea1972a17d56eef778914ce3cf91b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfYWxleGlzMThpX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mjk0OTQ5LCJpYXQiOjE1MjM3NDI5NDksIm5vbmNlIjoiRnQ3bGNSdEJ6U0g1emNBZ3F5Q0o5TW5xUFNfN3pJNTgxamRRLWo2UXNLST0ifQ%3D%3D.5iDH5m38DhMSr4HZielFHFLviFL7-dLR8esoZkljkYCJLUU2_lYbApE_yVAnFn_B2gm5lJRG7IQ291WRpan59Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dxhw2ec5eimn0kiqkgfaveqbnph2uq%22%2C%22displayName%22:%22p_alexis18i_z%22%2C%22id%22:%22214320544%22%2C%22login%22:%22p_alexis18i_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dxhw2ec5eimn0kiqkgfaveqbnph2uq

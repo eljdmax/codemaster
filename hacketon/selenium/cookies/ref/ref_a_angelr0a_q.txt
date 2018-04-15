@@ -1,0 +1,17 @@
+#a_angelr0a_q
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	iwqppVHeQQP6AuIdp9LM2FmrTE8jlVATo8SPFsKA2hGsFPLYX-TI52elMIvSgWhnVItmkYy3NLDBNAMV5zODvYm1T6rVAlMiE0C7wDOJeV81
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	1q5faspdwsj0sbbva1olii2z
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	9fuHkC_EN7ZiWJBHemd1M1KCingWdGkwc4URaJfhE_3HP94XcREIBZEk4vMubVegn-JOfUFQevqeApa0fYuvp6fkO1_jCPPoJcVTrVlazsPk9_W6Eg9dKd9k7JxPrw-IihmKaLA2MdNrIjh8kkDpOX-BzQXZZqPNLAu885A85oMtncxh1t6sUDaN01_5Olri8C_Z7s08g7mLZVdtzqrmlQROi68dWXC-ZW-rMaKr8Txs496j1l_W2ePc_BYyMc10PN98JHpVid0D7rGMHHO9N259VbkZrjTxO3KOYFNlmN4AU_13Ta7_cAt_Z0fh-9_yoAJqAmMU5bQq9_hNraWaaIs9mU6J6Uoc1IodefJt0apJtCmdo_NJm_1nCZ4zDi7b9Ox3gorA16l9r78PXFFjRoRuSPNHDSQWIqdljhKmZoH_U4iu4FsfhqUxoUwR-XadvRrcNtdSOjdYX9fDotscpNeAw4e2aBIhDmaIPlXx3G4

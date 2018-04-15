@@ -1,0 +1,18 @@
+#v_sarah18w_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	jVZ8ABgO6BL2ptY1MBxpMMBuAcD2Ffv1vS%2Fq%2BJkHJJo%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214437142%3A%3Axpgfimmets8rhtelxowws0bp280rld
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0MzcxNDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTIyODMsImlhdCI6MTUyMzc4ODY4M30=.Z9BIHtSBgYGRub14bDyRCYGmO58lt3knmW-BEUibnlQNVGT_PJdioz5NDFnMcOSR2xvH_gg3o66l9DHW5OZ3sA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0MzcxNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzkzNDgzLCJpYXQiOjE1MjM3ODg2ODN9.S95QTCIj2C7o5adK1_9jXFCFhIdoth1mmAll3FAYH2U2YsVUIie_gAVkV-CjXTJbj7FAaVuuaYxjlmSlU2PwYA==
+.twitch.tv	TRUE	/	FALSE	0	login	v_sarah18w_w
+.twitch.tv	TRUE	/	FALSE	0	name	v_sarah18w_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T10:38:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a4cdd7489a1d9e0c765d972b4595cd12
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfc2FyYWgxOHdfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNDA2ODMsImlhdCI6MTUyMzc4ODY4Mywibm9uY2UiOiJ1MnNBeXhsaXMzZ0lzSy12cEJ4Z0E5a0U0czZ3dXpfSHFvVktNWjhRRWlVPSJ9.DmwB9KGT-AuMUgIs2yQe5O7rHOrnGX5D0pWwaZ_v4aRKyKjKMp4HLJHoBhIuJ5KUwkTquZzdgJfz4Nodzd_QAg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qh82un79oacihgskpv37hsq03tlpyo%22%2C%22displayName%22:%22v_sarah18w_w%22%2C%22id%22:%22214437142%22%2C%22login%22:%22v_sarah18w_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qh82un79oacihgskpv37hsq03tlpyo

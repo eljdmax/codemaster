@@ -1,0 +1,18 @@
+#y_max666_9
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	snRxvpA4sVmRuPiajxIxPL6ESsGAZdfe7w%2BrP7fGCYk%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214166224%3A%3Amea0yhdzvmzqehhpbvkyigflbsh15v
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjYyMjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDQ4NzMsImlhdCI6MTUyMzcwMTI3M30=.ApqGT5V0qqNAxLDbFTbwVbfOUGRTYuzQlpNGBsDsQkAh5a11ssl_V_7Tgtzo5d4vyvxOqlvND0C3g8kyT8c49Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjYyMjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzA2MDczLCJpYXQiOjE1MjM3MDEyNzN9.O_MpqwpmU8W7QRLchWJCpuGBZUw8TV2eIlW2nIJDnC32wDtmzrdKo5aJ1VH6Nohjvm-bmLmZJ86wFiSA9stJxg==
+.twitch.tv	TRUE	/	FALSE	0	login	y_max666_9
+.twitch.tv	TRUE	/	FALSE	0	name	y_max666_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T10:21:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	faec353c2f29b68f28232ada87306d9a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWF4NjY2XzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjUzMjczLCJpYXQiOjE1MjM3MDEyNzMsIm5vbmNlIjoid09SZV96SWNnVzkyWm55cW92SmlJdTRpOEN1amhHR1Ayd1lubzR5NWp5bz0ifQ%3D%3D.gJzkO3tN9S4eBOwoXlAzgFU0dNXcRMP7Fsi5pG-W_8YxXPjCP5GshmTEj3x6xgLmeIbKbQ1hY8ax7nHYlHMvXQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ok6bbm9napfgcm8l5l74y3w0x9kd17%22%2C%22displayName%22:%22y_max666_9%22%2C%22id%22:%22214166224%22%2C%22login%22:%22y_max666_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ok6bbm9napfgcm8l5l74y3w0x9kd17

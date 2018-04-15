@@ -1,0 +1,17 @@
+#k_eli35e_j
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	1vecl8nsEfqec0frA5j7GNOVg77mvNufyYgnTsKNJHl0rFLqFYDXrfwDEVqfsyl5fjS9TGML3-TYo2ZE2wyfUyZm-16JR0nwfdz6I0HHkBk1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	kn3aiee4swi3y3c2c1cpjryl
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	dGHUlpko-KP1L_H6aqB31r8MvnUmxOZZBtUaNLHtlvsOb8z9piQID8qEmNE34OAY3UzPvaSppEG5F0lA4hvP0QsaY9beVqYcRffLx1YguzUfc3IAEUUScsObOhMzQS4yWyRMNk3NXgc2wF7gLeaAHTyb8coLdorkzbzk5Uz8aHrdmwf0xSbmjVMYdz4wQKMb03FmA7v1oxL-wmP_9TNxHzzBDmWZ50BTGd-QwV6hpg04l7tTQeGm1BVTlst1sdbRaByRKtaLok48C2bEhibKR4438QreYRAWrgur8Pq6iLz2Es53WPzoXoTUFq888uw3dfdPGX56NL4pUKoOuoGxqUf9byT61rA04_Q1Rp2aNaHrIWjRNCrhkBLOqynJIKFuH1XozpzL2NXocgzX-3UmFzZ-ORbeWdUC1vqJYR5-fSCYdkQ2L0VgZObN3Bh5aTo5kFeZ18Pcs1B_5MM-Mi_ieMrmVwinzPqfioxAy02XJno

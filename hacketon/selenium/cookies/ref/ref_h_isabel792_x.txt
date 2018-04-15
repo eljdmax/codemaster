@@ -1,0 +1,17 @@
+#h_isabel792_x
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	nI140sTQNILtadvfbjKlW8tt5Y5e3DYgvISzkQya3B490mjhMcNNaHeDIrAFid-1_Op2B87VWltrzhjYu4hCp8smJurJpSLJ_40iuq3hRdE1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	2zhjvqzzavqhqyo2kgmatznc
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	J8pgwakeVA7tL-MEfEY86vqUS-53LK2GAUQ6QO5ipP70esARVwLtn3w6auJg1dUKEbF17eFNZXCmiLYV9kZ_NxeDlqCm7eLTIzBYhSlQFUsN0uky-S9w-KaSJnocECaZhQGiyZDesfbGWCU6wh0hUzSfe1tj7kieG8U0D1-UlPEx_OcV69zOJempVfyA2DptxUDy8rhmgr8aypvLBvdntcQg8Gj0Us0Pt-1IiBoVU4SOuHrkN8NR1kOUTUD8s32fjgL37XiFavEWpdzXp3a3PAJOmndrjqKYnR-sjt1TLGUtO84ZlteW-upQ_bkeiy232UFsr3vOMLzqIkc7_HVsG77wIcVgobStRHKEMwDt6UY8zFuVH3iduLT-UvWKoZajsKRbPRaVO70gK380KGwkY8aQxzSmdtic6JrSbebH9qxWbo4sR55Wr1n41_ORAO66HrZ00yoQdDPVJuAMMbwH7_HiA6l57BCzJN07qHgZtVc

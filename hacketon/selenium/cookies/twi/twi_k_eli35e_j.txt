@@ -1,0 +1,18 @@
+#k_eli35e_j
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	csQW07J1gOPFLSrC0u0VrURGmIxV%2Fi%2FSxow9JQ3lkA8%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214484402%3A%3A28xiviah4dsiv6gpl1l71darae6psv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODQ0MDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDc5ODQsImlhdCI6MTUyMzgwNDM4NH0=.lDb4H58szAUjip1rpSqfnYBzA5YIfpSEghh2QVWS-ZUrUWD9rBtKgHTTJsRF7uV_DglbR0dsSwWNlAcGjV4tXg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODQ0MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA5MTg0LCJpYXQiOjE1MjM4MDQzODR9.L0Hv_M7mP2VoxQzF3ebGIk2hZICvghTtki35rhV1BwZMVQNRU0pbLP_4mC7effX-KrGMWm54q5BLwZyEh8PDtA==
+.twitch.tv	TRUE	/	FALSE	0	login	k_eli35e_j
+.twitch.tv	TRUE	/	FALSE	0	name	k_eli35e_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T14:59:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0e6ceacf1b811dc8a9497a4c68182aca
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZWxpMzVlX2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzU2Mzg0LCJpYXQiOjE1MjM4MDQzODQsIm5vbmNlIjoiUm9nb09KZGJjYnBCOW1BaGc5T2JodTM3Y21lZTNRdzB0My1DV0lnOWxQMD0ifQ%3D%3D.96nigVp-UCIVCdWqFDnLKcjtcTB2uMqkPtxpO8xYE05BJQunuTw-J8fKoDH_V9pJ3wgU2Lq84qD8bJgIR6sQfA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22llwbnvnyas9gckm3o2x00j8ezutxvn%22%2C%22displayName%22:%22k_eli35e_j%22%2C%22id%22:%22214484402%22%2C%22login%22:%22k_eli35e_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	llwbnvnyas9gckm3o2x00j8ezutxvn

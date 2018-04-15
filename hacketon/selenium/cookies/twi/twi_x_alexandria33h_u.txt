@@ -1,0 +1,19 @@
+#x_alexandria33h_u
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Q%2B0nidZcBiDYS8FqIMs3mr%2BRzOQJCPiKaptAoCJ5fdE%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	9fb6944d2a3d3eb3f8a4f20bd8ee9122
+.twitch.tv	TRUE	/	FALSE	0	persistent	214031556%3A%3Akyz5s8jwioxbnvlqtu9euhjw8njc2n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMzE1NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NTI2MzcsImlhdCI6MTUyMzY0OTAzN30=.vIeTDOc-CsxQMAbFbpOJnzrjcVAHcKEFQ8e0-R1jNxY703yhSU-BoF6WDEfAw9sLARReRfmVWBMbxrD5h4-HkA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwMzE1NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjUzODM3LCJpYXQiOjE1MjM2NDkwMzd9.JWNLhY_XaeTkyNntziwa538rLq2g4idQU7_HWhuPOHbx4vQR0Vn4pIURmE3_TC2UEnDjsvRmWmj_n8thwRhsSw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_alexandria33h_u
+.twitch.tv	TRUE	/	FALSE	0	name	x_alexandria33h_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T19:50:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	599165908c97b598a184ce548aa0a6aa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYWxleGFuZHJpYTMzaF91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwMTAzNywiaWF0IjoxNTIzNjQ5MDM3LCJub25jZSI6Ik1yc1dReXg5YktSVzZ6QzNqY25aVHFlc1JrTGpjeWRXd3lEdW9FNDVva2c9In0%3D.FSgUPiiGCRCaXjHwxtflG34uM9AMM7ERGi2LZTU-rk7RY2MHnoSi18rT1z4F2gN6LJ2qcTOsLiBLVnGsSW7qyQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22grjk4mlsw6bm5st5u0gs4y7yi1iane%22%2C%22displayName%22:%22x_alexandria33h_u%22%2C%22id%22:%22214031556%22%2C%22login%22:%22x_alexandria33h_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	grjk4mlsw6bm5st5u0gs4y7yi1iane

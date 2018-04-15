@@ -1,0 +1,19 @@
+#k_sofia69t_7
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LcxTY%2FVHxeFnuCqUoIgiWleSF6KkOsHrTYf8rw%2BZEXQ%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	fba1b2488612e64e56a823a95bf4db5d
+.twitch.tv	TRUE	/	FALSE	0	persistent	214447310%3A%3Aar47lpuqmbtqh4gmb6m3k7bstkd20v
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDczMTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3OTY0NDYsImlhdCI6MTUyMzc5Mjg0Nn0=.r5Qe_iSzlhWpizukLm6dNWjfH2cb7WXAjCMeScD5cTehILmFIgiiCYz_fs-1_n201h6xbHG6F7gdRmH7f5YQOA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0NDczMTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Mzk3NjQ2LCJpYXQiOjE1MjM3OTI4NDZ9.nJ2s8MqxNFaQlMwtrlvedT7gXla2rQ7FHuyuAkmE9UeQk49NbD5esLx3ioOj7yyNfJgm8o8k20N7AhJ2pQ7EKQ==
+.twitch.tv	TRUE	/	FALSE	0	login	k_sofia69t_7
+.twitch.tv	TRUE	/	FALSE	0	name	k_sofia69t_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T11:47:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	947213da7971c9d2c071220a6d594d4f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfc29maWE2OXRfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNDQ4NDYsImlhdCI6MTUyMzc5Mjg0Niwibm9uY2UiOiJEWU1VUlNUNV9oRlFuQnIzQzBpVUZZRHF4cV95ZHdkMld4RWJ5dFVaNUkwPSJ9.BsGlx-uVKOrfieZKo9ugyrX35VUq5njTSCL_-IpinezzzhspZxgV6txFIFcuJ39y5uJ-NbRKNmGsY5OiWNIPTg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22408shukfyrsjn35qslun9lju1vhcoc%22%2C%22displayName%22:%22k_sofia69t_7%22%2C%22id%22:%22214447310%22%2C%22login%22:%22k_sofia69t_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	408shukfyrsjn35qslun9lju1vhcoc

@@ -1,0 +1,18 @@
+#p_catherine933_o
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2F8EZHpPqBaIzCyf6U7C2eDSlrkl77X95K5NQBC5ltng%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214308931%3A%3Aggh1r12ww0whh7xmnruzcdzvvr99lz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDg5MzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDM2NjMsImlhdCI6MTUyMzc0MDA2M30=.n2QciVZunmL2VtppyZj-lbZiLH69F-hsDsENWrx7enQ2I_0bpzIh_o7HDtADDuxHubYR86s2b7N75TLOnpj2zw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMDg5MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ0ODYzLCJpYXQiOjE1MjM3NDAwNjN9.yfLzKeU4aG0Oi7vZRyRyR715UcCHdlCP0G-SHLXSUA9Mwi29e6qVs5p6ldiAPxrAwh8TXbK7DV30K5Fn8Fk5Rg==
+.twitch.tv	TRUE	/	FALSE	0	login	p_catherine933_o
+.twitch.tv	TRUE	/	FALSE	0	name	p_catherine933_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T21:07:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0149c43fa7fd9e4f24b6c178de285582
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfY2F0aGVyaW5lOTMzX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjkyMDYzLCJpYXQiOjE1MjM3NDAwNjMsIm5vbmNlIjoiMGR4SzhpX25HZklyUG96ci1icHNXRy1qWkd2OXMyUmFoT0x5LUZIX3N1dz0ifQ%3D%3D.ZAzrcUpVZ-DuvY38HuqQyAb4gSuVFgFh-ckUlfsMb76yETEPLCGH0Bcaojp1xeE32F3Inh0sia3RfT23u9sCUQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22js7dyw031q9jfj3ugzbpjotj7fc3gd%22%2C%22displayName%22:%22p_catherine933_o%22%2C%22id%22:%22214308931%22%2C%22login%22:%22p_catherine933_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	js7dyw031q9jfj3ugzbpjotj7fc3gd

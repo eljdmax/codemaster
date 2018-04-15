@@ -1,0 +1,18 @@
+#b_katelyn99n_h
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	TStVdVYhB%2F3nnQiTyzObTcmxs0z1MjQHGD7yGx0U%2BiM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214243988%3A%3A4adsfdrbdgjuc9t20bl2nvo61xd0op
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDM5ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MjkwNjAsImlhdCI6MTUyMzcyNTQ2MH0=.owMk3iX5qqipy09N4MDZ5P1iPT1FdoCkZ4SgILgxf2nBQcPy6Q8JEhmuu71PET-irt4ajFSFqBkxheBihRDfFg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNDM5ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMwMjYwLCJpYXQiOjE1MjM3MjU0NjB9._8ks3SD8dMj6nkcvaAmhJxagFxVc9NaACxhXNwhWdf7ZbCPs7YVG-G8mHDR2qgD1c-PYt5qDJaw2_VjzRS578Q==
+.twitch.tv	TRUE	/	FALSE	0	login	b_katelyn99n_h
+.twitch.tv	TRUE	/	FALSE	0	name	b_katelyn99n_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T17:04:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c1b97bf0ae2dce2e994b766eedd3f294
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa2F0ZWx5bjk5bl9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI3NzQ2MCwiaWF0IjoxNTIzNzI1NDYwLCJub25jZSI6Ijh4anZVMFVXMTdFSk5HQ1M5OUdhRm5VeGFPcElWX0F1dmxLdHRtWmIxaFk9In0%3D.pxd9WVdHrrvCi3rhpdc3w734BKK0WYRdkaS3_L0yeVd66-pGQfrsHd5xAMsFTCmCuYC63hvJv0Sh7EW2YpBrDg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2272b89vjw8pcc84cbdom6gfwvl8grke%22%2C%22displayName%22:%22b_katelyn99n_h%22%2C%22id%22:%22214243988%22%2C%22login%22:%22b_katelyn99n_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	72b89vjw8pcc84cbdom6gfwvl8grke

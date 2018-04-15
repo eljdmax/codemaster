@@ -1,0 +1,18 @@
+#b_timothy04o_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	HIIMcIg0s1vpOqyKnOboSyUvQGMGtX90EOsJJ3p1Zv0%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214062247%3A%3A1sk9fayq5e4hlrb8uqsfmw2h8zc98m
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjIyNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NjA4MzQsImlhdCI6MTUyMzY1NzIzNH0=.OkzcJS2EvwbzZaeYMC5yU_A4o7ewRmugGTn8grwW5OaId0HOlMBtz5Y305pC9MtUgsw0pnE59cI-z72H6NsH_A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjIyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjYyMDM0LCJpYXQiOjE1MjM2NTcyMzR9.Ui_vvSUklQ3GvmyfKlav-RTxTaxPFm5Qj5AsPlG6lFPhfBluWfUmDILDR0cD7X1ZtooPwSGiE42_B2ytE0jlQQ==
+.twitch.tv	TRUE	/	FALSE	0	login	b_timothy04o_a
+.twitch.tv	TRUE	/	FALSE	0	name	b_timothy04o_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T22:07:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bed2e9f64e71a5140b8b5193068c5520
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfdGltb3RoeTA0b19hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwOTIzNCwiaWF0IjoxNTIzNjU3MjM0LCJub25jZSI6IkdCZlZmNnBQdTFkc3VVZU1RNUZvcUVlTm1yZmJycFBPWE90QVJpaVdTT1E9In0%3D.UVJRpZXw9jQ3R4dyNs7rxu4icoNPnCZbIvridtWXwvA8xnqL6ejkbTCFKnm3UZaqVDtzgTQuxQ-DevFuYutqoA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229w2itgkp8yfzw5d5srogwxxfptstgp%22%2C%22displayName%22:%22b_timothy04o_a%22%2C%22id%22:%22214062247%22%2C%22login%22:%22b_timothy04o_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9w2itgkp8yfzw5d5srogwxxfptstgp

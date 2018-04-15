@@ -1,0 +1,18 @@
+#r_maryh45_t
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RZBVXvfWBR3rxTzaYF%2Bvam%2Bc1pVPJaYNCBHWPjKSDVI%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214500527%3A%3Ay0jqzvakquoe9awcn67w9vk6p56z8i
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1MDA1MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MTIwNDEsImlhdCI6MTUyMzgwODQ0MX0=.4fWz_rIkkaVLFG2nMmwb6XP_Sf4Q78F1fLxlRUCZKMCMQ7JSFN1pBaJr133cNjPkI5b5266l1bGJhR3Eg_KehQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1MDA1MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDEzMjQxLCJpYXQiOjE1MjM4MDg0NDF9.LeHWK5AT6suUsij-dKX-2LrqZkVpaRuFRXnjrwPDh5vgKw3cODrVbblEnfRZZlfga1dn9985DXH2E3phGIDSxw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_maryh45_t
+.twitch.tv	TRUE	/	FALSE	0	name	r_maryh45_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T16:07:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0639de778c96a9ef88260a46ad65f005
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWFyeWg0NV90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM2MDQ0MSwiaWF0IjoxNTIzODA4NDQxLCJub25jZSI6IlloVVNFNU5rYTZvQUd3MnhLYllRVzZfbG9YV05rNE5qQmwzQlM2THdPck09In0%3D.BbEhdfOG6Y1DvKJtrSg-_TsPlvW1ScKyHRReSiP40co3A-1wiGEji4TXXJjJph-ytZ065KGuVEmPnE9T9T-cPw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hvm4dr2gbodb1wmfaerf0ewqg0ca5w%22%2C%22displayName%22:%22r_maryh45_t%22%2C%22id%22:%22214500527%22%2C%22login%22:%22r_maryh45_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hvm4dr2gbodb1wmfaerf0ewqg0ca5w

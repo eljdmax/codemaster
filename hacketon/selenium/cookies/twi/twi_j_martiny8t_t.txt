@@ -1,0 +1,18 @@
+#j_martiny8t_t
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Sw4zmkOKEEXTWa0VDPmH%2FJTBCx6AAxHRksPheQbMF6A%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214487545%3A%3Ag4gbzf21au6jmwifkto1dwm0ux1y1w
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODc1NDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MDg3OTksImlhdCI6MTUyMzgwNTE5OX0=.aPkqlNwixCeiLKYjMEv60m7uJrnqn_1xk7SECBoMtcrV45ANXQ8HKDWCJ69JtV4LoyuRVmWmp_JHCHY66o9L3w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0ODc1NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDA5OTk5LCJpYXQiOjE1MjM4MDUxOTl9.satYHcdHQqf0RZIZeQgfIgCnj-eYhdGSKXj7pyaOAIKQ1M3AZsEP4PYdXzJo8-BwB53bHrNp78Em363RtcPx7g==
+.twitch.tv	TRUE	/	FALSE	0	login	j_martiny8t_t
+.twitch.tv	TRUE	/	FALSE	0	name	j_martiny8t_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T15:13:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e34696f30ad5154e713a7fa754d4ef84
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFydGlueTh0X3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzU3MTk5LCJpYXQiOjE1MjM4MDUxOTksIm5vbmNlIjoiSlhIQ0lCQnM4c3lqbE1QWW5pY3JrV1RndDlaT01UbWxVVE5vb0JFR1FEMD0ifQ%3D%3D.mA0tqo8R4QoCZpPGYF6YgxCOtkUTc3j8O2FZam1qO8GEEfcdny6gaJFMt4Wq3Ncr4LQkqFqbqkbSF4231EtYMg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222amn3kryopn1mxalngyp7ti65j3aw2%22%2C%22displayName%22:%22j_martiny8t_t%22%2C%22id%22:%22214487545%22%2C%22login%22:%22j_martiny8t_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2amn3kryopn1mxalngyp7ti65j3aw2

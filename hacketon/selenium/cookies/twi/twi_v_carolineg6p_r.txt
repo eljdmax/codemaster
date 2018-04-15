@@ -1,0 +1,18 @@
+#v_carolineg6p_r
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	J1UMl7KIE%2FkyCogqAIRtGY5OU9ST%2Bd%2FLVJcK0uSCTFY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214321742%3A%3A1q1bh2g9un9phawm5zbc6uiyx4zp4n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMjE3NDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3NDY4OTMsImlhdCI6MTUyMzc0MzI5M30=.e53iCKeDWwUmVzjxRQfLylPQzyRwtIHIw_kiY-2mVL0oRpzBOjntrQnSrHr4l824-9eG38qrgqo00lLxZ9TLZA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQzMjE3NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzQ4MDkzLCJpYXQiOjE1MjM3NDMyOTN9.PkIlh01mR7vraq7sHK7vsazyNqsK_80y6OrZO68_Snwwd95lcC1XyosMRKdAPy_CrajQxCCcUv_zny8uOkcsww==
+.twitch.tv	TRUE	/	FALSE	0	login	v_carolineg6p_r
+.twitch.tv	TRUE	/	FALSE	0	name	v_carolineg6p_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T22:01:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	61cbc3c19a4b3a3aadecdd5d352e9069
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2Fyb2xpbmVnNnBfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyOTUyOTMsImlhdCI6MTUyMzc0MzI5Mywibm9uY2UiOiJHVXVvVWNpVWdOVjRiR3FBSEtwYkE4em9KR1BSdFpSN1c1YnlZVmRiTVpBPSJ9.E_BTJ7IkA1qmk7QuaFXxDxdNx2QRHV9XyBwXHvL1TddF2ZrUN_maiCXvwi_DwcZ9doGWwG1sgEx1DECqwxdiXA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22viqvorbuw3ssl2ojzzldya523i0ttq%22%2C%22displayName%22:%22v_carolineg6p_r%22%2C%22id%22:%22214321742%22%2C%22login%22:%22v_carolineg6p_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	viqvorbuw3ssl2ojzzldya523i0ttq

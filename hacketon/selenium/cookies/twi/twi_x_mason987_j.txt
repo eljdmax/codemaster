@@ -1,0 +1,18 @@
+#x_mason987_j
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UHOD9q98X3SAa6lD9ydTQGr5lYE3ybm6qx9JDg6E2QM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214196534%3A%3Ae1g85aznmy24s36vuf5dx1oikohhj4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxOTY1MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MTY2NjEsImlhdCI6MTUyMzcxMzA2MX0=.ZvY38slbjjsA7E-eK3wjLtR4aeCxfPUUlDcaWKVmidwtSWbp3ogk2_c8KApuy20StkuX2R-pTxqtlodjRzJmqQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxOTY1MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzE3ODYxLCJpYXQiOjE1MjM3MTMwNjF9.4LBRbms_NfFZmO62jcZDsfMGsvI6iTPkniyeGZiYZawjxOcrxdWqP01WS0hmJLO-rZ2GGVL3trfyOlXyHWpBCA==
+.twitch.tv	TRUE	/	FALSE	0	login	x_mason987_j
+.twitch.tv	TRUE	/	FALSE	0	name	x_mason987_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T13:37:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	51bdd19d9c7e50a957127e981f35545c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbWFzb245ODdfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyNjUwNjEsImlhdCI6MTUyMzcxMzA2MSwibm9uY2UiOiIwODNHVlJ6TmRORlZ3QVdGcXRROFUxa25saGVfcGEtNktfTWZndnRlSFVvPSJ9.sEfTrDL2lgymNCDHcrnCHqkWF5UM5bLvgpu_Lfns3btiYEkpJbyyU8rd05PiFVxllG7GTdrlr9YAbdSkr4UESg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22x0378lh11zow8v9c1hqiz7kctr4evt%22%2C%22displayName%22:%22x_mason987_j%22%2C%22id%22:%22214196534%22%2C%22login%22:%22x_mason987_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	x0378lh11zow8v9c1hqiz7kctr4evt

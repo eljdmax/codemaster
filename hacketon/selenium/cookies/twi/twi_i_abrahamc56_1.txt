@@ -1,0 +1,18 @@
+#i_abrahamc56_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vCIZV1nct3ghOil6S5CyVgHZJjF8d7c8QZs7ANmidYU%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214061027%3A%3Ayneinqlrhe4njetgprffhbad30o27x
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjEwMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM2NjA0NzEsImlhdCI6MTUyMzY1Njg3MX0=._fM4MRX2MdjevuHvCfweFDnecloxKmoVgT-aQyFHSzUcdvM2koNceMs6TOl8fCcudwS_t4dz0ig14fZc6b-SoQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQwNjEwMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MjYxNjcxLCJpYXQiOjE1MjM2NTY4NzF9.5ArxhSS9QytE01ev_64Vy2wviz__FKQ-jcc9vk8NMEHJ_qafZsXmGi6CmSeazRWeG7-bVzapWRcYU3MvxvFoCw==
+.twitch.tv	TRUE	/	FALSE	0	login	i_abrahamc56_1
+.twitch.tv	TRUE	/	FALSE	0	name	i_abrahamc56_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-13T22:01:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	12f5555e8397df2a548da5702725dbe0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYWJyYWhhbWM1Nl8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTIwODg3MSwiaWF0IjoxNTIzNjU2ODcxLCJub25jZSI6IkVFSVhSVUhPRHBEUEVNdWI1d29KQnlpQnNpWElHalpsSVRNeTh5QUNza009In0%3D.UXg8iwYakXEtTOpDuReqWLI8nMMTmQ_hXXjPQjDvuCVtOrgdpb79vTk3Vya29eTdiRmefk9npWiNyK-y70yBEQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22is79f8iekj0jkjg7m0eznxl59ji9s9%22%2C%22displayName%22:%22i_abrahamc56_1%22%2C%22id%22:%22214061027%22%2C%22login%22:%22i_abrahamc56_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	is79f8iekj0jkjg7m0eznxl59ji9s9

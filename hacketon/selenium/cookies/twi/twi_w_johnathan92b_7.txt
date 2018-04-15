@@ -1,0 +1,18 @@
+#w_johnathan92b_7
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	S1g7lAN9SNeWoKlXQ3%2B%2BGB2u7pZFWyOpPfgzS1ETY1Y%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214168833%3A%3A4cqvdh459eejbq8vktltw6x52yfwwm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjg4MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MDYyNDMsImlhdCI6MTUyMzcwMjY0M30=.88Ie1hjR3-KjA7Zjdjgn_lXFwrIWd2CViZ1fjZl9gIp3mRYu2KaV7GqyLdy9AD5T8Kmby42boAdHkkR70sJNrg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxNjg4MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzA3NDQzLCJpYXQiOjE1MjM3MDI2NDN9.GWhPyIAOKmvWbSzt7BA-N5q6_VIv65aWmaZq9qnOvVKAqs6OK-tCAl57hwD6RBif7jaPCSWOUGSP0ipmJjw92Q==
+.twitch.tv	TRUE	/	FALSE	0	login	w_johnathan92b_7
+.twitch.tv	TRUE	/	FALSE	0	name	w_johnathan92b_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T10:44:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e5973fd1dfb3dc21053640900064b664
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfam9obmF0aGFuOTJiXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MjU0NjQzLCJpYXQiOjE1MjM3MDI2NDMsIm5vbmNlIjoicjc0ai1iTnM5RXlxWjU4WkxCcUxSbVJIZmV4LWlJWnhSS1JXQWF3Y25Wdz0ifQ%3D%3D.F5AMEl8FqJqVfmxsSjr7LKNVUpvfG8XjHY1-e9F7ThI2rRgn2_QgEqHv8-Cw1TAaKSOaBnuikZJwuLhzhtq6dw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22867ojh173yjymm6v63upnjt0yn68eh%22%2C%22displayName%22:%22w_johnathan92b_7%22%2C%22id%22:%22214168833%22%2C%22login%22:%22w_johnathan92b_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	867ojh173yjymm6v63upnjt0yn68eh

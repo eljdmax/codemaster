@@ -1,0 +1,18 @@
+#f_diana020_f
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xbD49WPYHIQgMUjzrYWEPv8z%2FUIB%2FPxxkkTzF0QPI1w%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214253507%3A%3Ala4hi4ro08tdwjdp2wkryljhc8hv2a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNTM1MDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MzExNzEsImlhdCI6MTUyMzcyNzU3MX0=.wrv7kkyp88rx0vIKi9M3bLhUgINIPLqVJjYIOIkHbGM6b3yC72Dm5kznbS_aVNla3y5zSOayC6Ku-rMHEzIM6A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQyNTM1MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzMyMzcxLCJpYXQiOjE1MjM3Mjc1NzF9.DdOsSGbbHhUSUAkQ5gsYqfDxGX3qweLKAEgAMOyVeAlq8WivKKN7Z1hX6Yb9Vwd_BXBsrhb9PMLrzQjWvk95Bw==
+.twitch.tv	TRUE	/	FALSE	0	login	f_diana020_f
+.twitch.tv	TRUE	/	FALSE	0	name	f_diana020_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T17:39:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0bb17bf542df1bdf152e5833e1a13d9e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfZGlhbmEwMjBfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkyNzk1NzEsImlhdCI6MTUyMzcyNzU3MSwibm9uY2UiOiJ2LXUxWktyUWxKdXVKanQwdFlQQUt5bnhXV1dtQm9ybHZZY2pOdUVTVUVBPSJ9.-BZA1uhC2cKOmWR6dy4HF2gDjO_OoggihJPUagbSAYwB8u9Tm2EBnSlRQlfeB1wUuddc_2e7WUjf83r-TcCr5w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228pnsw5crb2ohjns5p7ng6olm2w8o8v%22%2C%22displayName%22:%22f_diana020_f%22%2C%22id%22:%22214253507%22%2C%22login%22:%22f_diana020_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8pnsw5crb2ohjns5p7ng6olm2w8o8v

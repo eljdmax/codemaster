@@ -1,0 +1,17 @@
+#x_erin57a_4
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	C5UkzZGeJqu6B3dLkCxvLVKYOSqIpTW-SW_Nd3no1OUIXfRQob4F6s-H-ybjg2r3wZAgGii4AEXmKQLLtCuuUSI_WZoB2n3LMhzHF2N_IKU1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	awjnm50yykuivqj2nsbmto3i
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	YRfCv8odOMjHs9cs_P7Dzs5w2xXxyIUuS5cZFp9uZOXjx5GnshFGsfFvvA-bvXoVi9RDuClFBmcQetUlK07vK-fWThoxq3J-5U6q7hzPv9QIkHQFmuc6UyLatkLNhIGohalM4gOYSi8EHqkfMRmdmIq1tnDmYaLx5x6Bigidy8MeM4Pb0Lfkv2lixe56mDW2LgK75IpkRT3-0EsKOnlgmX5tzFCGdyQOo99AC3tDQ5LXtmi632ROrr2LTK1gCiFvbdGQ2UFBZSKV6_3ImLgvOWe2Of8zXFSzO4i4z7Q1il9wvXhQobfYShaJ9gjh0i2jKgx1xbzUKxbmJqPa87aH-9MeDy51uAK9pOWWT-6aozNy4nTp07DlTJzlmvWXArehTP0-dEq_ljx7PeVM9uo2s-RNdAUCEwOQspKly0rQS4HKMORA6E65Qlf7ZayBtvMURlGyGn02Rl9YnBKfbgWEw4ahS15jo1soPLz1Gxam4i8

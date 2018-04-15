@@ -1,0 +1,18 @@
+#o_jessicav95_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XgkFzNTYpioc3RYOfc1oHOxs9IR0cRjp5BFd1As5JXI%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214497729%3A%3Ac5jpsm6m803f6gflxpvxae63owltru
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTc3MjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM4MTEzMzYsImlhdCI6MTUyMzgwNzczNn0=.yrsUwIefWdNQfrLe_PCU3zbBqtPlxUdJBH71EblFmK5Ypa1E252b8Q1jMgqlbHrFi8n9FKJaGNcA32xZAYL9_A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ0OTc3MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDEyNTM2LCJpYXQiOjE1MjM4MDc3MzZ9.kikTqz8Yi10wq1aaxv_4lbzMQ39PRP7aAR73udimYhiPY1h7U16Hsbv_QsheiSuk1oSij9-EOosQrP1xu0aVjA==
+.twitch.tv	TRUE	/	FALSE	0	login	o_jessicav95_w
+.twitch.tv	TRUE	/	FALSE	0	name	o_jessicav95_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-15T15:55:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9af697f28b338e31d0ac838cafcfbc49
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famVzc2ljYXY5NV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM1OTczNiwiaWF0IjoxNTIzODA3NzM2LCJub25jZSI6IkJVRG5MX3RjY3dOd2M2VlNJUWdxSU9SdzFtWDNPWXpDaUoyVE93S05ITTg9In0%3D.GJRBUzekEpVTl4L_TTjPFsuKhyE3Hzz1sM_Pkyxq5ogzmZSzZc_gQH6_c20Imx95wF3BP-yZP-iJqRdAv31jYQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225igjb0uh68ky7of0ww5fskbqeh5s6y%22%2C%22displayName%22:%22o_jessicav95_w%22%2C%22id%22:%22214497729%22%2C%22login%22:%22o_jessicav95_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5igjb0uh68ky7of0ww5fskbqeh5s6y

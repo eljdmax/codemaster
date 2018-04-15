@@ -1,0 +1,18 @@
+#d_lily029_4
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6817ad4272080d2a
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=6948b35916ba3d17:T=1521373690:S=ALNI_MZxqicWhfOrcxFCHfd4CNputaJEiw
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMTM3NDE3MXxlMzBLfPTgyQYEziulIXYCzxjQQO3BQo_B8Kmka5FFdXflvy7j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4la9en1oaMd8vYXzVhuOE94SvZ8SHBoWRdennvoD%2FPQ%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	214187851%3A%3A1pb4w3v008lwxa443w0ysjz57jg0id
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxODc4NTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjM3MTM5NDksImlhdCI6MTUyMzcxMDM0OX0=.BtgF_X7asUuA28fe3fu-cMxaxq1_qBFufLrsHmXtPux0PYJfMA_rLlshMyS3s-eG1FF3l11K92WvvzrLvdr0uA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQxODc4NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0MzE1MTQ5LCJpYXQiOjE1MjM3MTAzNDl9.z0wkRFmbD8UHZz6-I5DHpcy3jxuwm4sjbdwHbS4uqB68EkCHoRBKLKP6k8QDZ9ftf_20iuGXHDeQMWSC67wBVw==
+.twitch.tv	TRUE	/	FALSE	0	login	d_lily029_4
+.twitch.tv	TRUE	/	FALSE	0	name	d_lily029_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-14T12:52:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	48ab36fb5a2b87ef03a53fce5b4067d1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbGlseTAyOV80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTI2MjM0OSwiaWF0IjoxNTIzNzEwMzQ5LCJub25jZSI6Imt6S1dEQVlmZVo5b1hKcXk4SkdVV0JkdnJnWEFBVGlrNEtSdGpmTmdMb0U9In0%3D.lRz-Rxy4OJaekmstLX6pz-BNxmLjyfNdMEOtgYhqyXsYkbttPVL3FmXnecWQV7YH93vvjsOScnlfSlaxuuFJuA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22c8lgvfsdow2d5frdzmka508dw17hwg%22%2C%22displayName%22:%22d_lily029_4%22%2C%22id%22:%22214187851%22%2C%22login%22:%22d_lily029_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	c8lgvfsdow2d5frdzmka508dw17hwg

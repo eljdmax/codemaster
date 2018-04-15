@@ -1,0 +1,17 @@
+#w_jessicax1t_n
+.refereum.com	TRUE	/	FALSE	0	__cfduid	d5691f019aa8369732092e37361e1a0241521373726
+refereum.com	TRUE	/	FALSE	0	ai_user	ftPpz|2018-03-18T11:48:49.883Z
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	K3VZYUFxWlJMTnpsZFZ1Z3B4ZlRiSzZ6RVZ3QU5kcGlwdUhTbkFPUHdGeW9TNUMxdXFNZ1NNSlorL2xSL1lZMi0tVGthVDdYWnA4ZlJjZnJEdVNqcE1Ddz09--fa9cf677aff4e5a01b539a6ceb0e2a64e3e679d4
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1521373731908%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226271987007309565%22%2C%22pageviewId%22%3A%226370031766381988%22%2C%22sessionId%22%3A%224769332219092968%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%223.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2072797886.1521373730
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1374773073.1521373730
+refereum.com	TRUE	/	FALSE	0	ai_session	Ica7b|1521373735256|1521374149355.595
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	xhhBu3nEqH-QQNRbMCW5OKcXwwwmPThrJcAmZRN9yeKRiWYIE27dcPMY2ga7hqBaZmv51PIq8kW0OGonoQnQfjd8N0w7HxnXmMwILQteFbY1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	yejqd3cp5scosvkzvuk4iisi
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	21XP_503dGbT90k4hH8NNRrZySB1xhxkuDQJ0hy3BPOP5VLdxQqj2dBCMVezpsUyXk6oSV9y9Dha0V1EIqeEfJ1f-v4OWOIWVD8-Fd2L5-e9HKE2BP3cePjUAoIM5wF1l0I2O8yRTzeMQgFnktB7BXU7VmVmJ-Sgf8Ui_as7tOUI2nsy7KKe0fr1UYrQiwcZhEeIWxLPb25mjT2ZSjKgba7TKZIRKcO9E4I8wXwPGR_R3eBTxyI0kPIwjH9xKjdZtvDquPSu0sbJoRQS3WbRQqKPJIJTml_6nqcOsZaAnX7Jj9ZNZZwpC9G_esgknc5h_ea5hxreyQRuwtWG2en4jPIjgMT__nR7lbB-7RBqd-2xCnkNUda9_Zr3Ejz0-5D8XdpoOooHuiSw5vrTgqYtJQNQ2ZVzDhOcF4t4vbqMs-0fjYK3F3NahySqXG4kStZCaYZlCnM9jsOCsKBXvI8w7GkNHO3oV095SnWun75Xqtsur8WinfX3vajwiisFju3h
