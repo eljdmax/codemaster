@@ -1,37 +1,9 @@
-https://www.engineyard.com/blog/getting-started-with-ruby-and-websockets
-https://github.com/imanel/websocket-eventmachine-client
-	
-0x80d2c1050F5a3D84f4C8dC467c119F06B311F3d0
-	
-	
-	code/:$ wscat -c 'wss://irc-ws.chat.twitch.tv:443'
-    connected (press CTRL+C to quit)
-    > PASS foobar
-    > NICK justinfan123
-    < :tmi.twitch.tv 001 justinfan123 :Welcome, GLHF!
-    :tmi.twitch.tv 002 justinfan123 :Your host is tmi.twitch.tv
-    :tmi.twitch.tv 003 justinfan123 :This server is rather new
-    :tmi.twitch.tv 004 justinfan123 :-
-    :tmi.twitch.tv 375 justinfan123 :-
-    :tmi.twitch.tv 372 justinfan123 :You are in a maze of twisty passages, all alike.
-    :tmi.twitch.tv 376 justinfan123 :>
+https://www.protonmail.com
 
-    > CAP REQ :twitch.tv/tags
-    < :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+https://mailboxlayer.com/dashboard
+https://portal.emailhippo.com/
 
-    > CAP REQ :twitch.tv/commands
-    < :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+https://api.hippoapi.com/customer/reports/v3/quota/0001268E
 
-    > JOIN #twitchplayspokemon
-    < :justinfan123!justinfan123@justinfan123.tmi.twitch.tv JOIN #twitchplayspokemon
 
-    < @broadcaster-lang=;emote-only=0;followers-only=-1;r9k=0;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #twitchplayspokemon
-
-    < :justinfan123.tmi.twitch.tv 353 justinfan123 = #twitchplayspokemon :justinfan123
-    :justinfan123.tmi.twitch.tv 366 justinfan123 #twitchplayspokemon :End of /NAMES list
-
-    < @badges=;color=#2E8B57;display-name=Darkranger7;emotes=;id=d291d86e-ae45-41a6-8337-80467328d6c5;mod=0;room-id=56648155;subscriber=0;tmi-sent-ts=1490898046619;turbo=0;user-id=72031669;user-type= :darkranger7!darkranger7@darkranger7.tmi.twitch.tv PRIVMSG #twitchplayspokemon :!c
-
-    < @badges=;color=#FF69B4;display-name=davedobbs;emotes=;id=bfef4ba3-e816-4ee5-9136-29795c84f805;mod=0;room-id=56648155;sent-ts=1490898048493;subscriber=0;tmi-sent-ts=1490898048484;turbo=0;user-id=30783390;user-type= :davedobbs!davedobbs@davedobbs.tmi.twitch.tv PRIVMSG #twitchplayspokemon :!bet 100 red
-
-    < @badges=;color=#FF69B4;display-name=Wahisietel_the_Cake;emotes=33:10-17;id=60869ed1-ff37-45ca-8068-87965bfdf2d6;mod=0;room-id=56648155;sent-ts=1490898046587;subscriber=0;tmi-sent-ts=1490898050196;turbo=0;user-id=47718369;user-type= :wahisietel_the_cake!wahisietel_the_cake@wahisietel_the_cake.tmi.twitch.tv PRIVMSG #twitchplayspokemon :FAKE NEWS DansGame
+eljdmax@protonmail.com | fyzwp5U&fyzwp5U&
