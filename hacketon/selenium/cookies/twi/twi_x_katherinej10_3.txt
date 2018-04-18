@@ -1,0 +1,14 @@
+#x_katherinej10_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UWHmYzXv6xpcO90e1l5FSrKXOAVyRFUelbQeOm3lVYA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:45:14+00:00	unique_id	50b3566b68d8a4cd
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:45:14+00:00	_twitch_session_id	b8e5aa6a72847f39fc04bcfc67918512
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:45:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:45:36+00:00	persistent	214586433%3A%3Avgcpo6idjz9jcrcpkqn0ydbyrgb4lc
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:45:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODY0MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzNTM3LCJpYXQiOjE1MjM4Mjg3Mzd9.nNIov7E7sPiJ6aZVQktMT0vd0SYEL1IIWoYgOxHA_mJ1S1h6Lss9BRpxUfpbqELHNwTDd5kVOT-YNidsguGxoQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:45:36+00:00	login	x_katherinej10_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:45:36+00:00	name	x_katherinej10_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:45:36+00:00	last_login	2018-04-15T21:45:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:45:36+00:00	api_token	1ca0126b4e1a3aea96582c73c58dc9d1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:45:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfa2F0aGVyaW5lajEwXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgwNzM3LCJpYXQiOjE1MjM4Mjg3MzcsIm5vbmNlIjoianNQYl9LNEJnYzVMSWN0M1NnNk9GenFYUUc3VENPWGNnU2dTN0laVnFqMD0ifQ%3D%3D.danVReLZNY5K_351nQRrQUnNbTajNYgf1TubbGS7AlUKsnRJDANVNyAO3CKwti_lxyeGKFngKiulBaSS3pBOwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:46:16+00:00	twilight-user	{%22authToken%22:%223syr4rr5paidutr09ucfsca4c4anct%22%2C%22displayName%22:%22x_katherinej10_3%22%2C%22id%22:%22214586433%22%2C%22login%22:%22x_katherinej10_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:46:16+00:00	auth-token	3syr4rr5paidutr09ucfsca4c4anct

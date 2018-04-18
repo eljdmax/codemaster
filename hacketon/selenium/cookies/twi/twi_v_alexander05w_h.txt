@@ -1,0 +1,14 @@
+#v_alexander05w_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F5FoitrjL4aGjDW05Zq2OnIqv3CEpA50j9sSCNLm%2FUQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:20:30+00:00	unique_id	d8bb366acc8a9055
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:20:30+00:00	_twitch_session_id	57418e44f760ba0666dedf86a80fa189
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:20:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:20:52+00:00	persistent	214593244%3A%3Akpj4a9cjqhinu0q4esbh9uh8blpkno
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:20:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTMyNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1NjUyLCJpYXQiOjE1MjM4MzA4NTJ9.ZWbHPL28l77cQWCOD29IojhGAqbiAOutH9MF7F96jDRXFjQtpqXxpdNYNPxnA8M7dICpoZBBTAvA5afOGSlQIA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:20:52+00:00	login	v_alexander05w_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:20:52+00:00	name	v_alexander05w_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:20:52+00:00	last_login	2018-04-15T22:20:52Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:20:52+00:00	api_token	31910411b1b8c0359650e86c773d479d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:20:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYWxleGFuZGVyMDV3X2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgyODUyLCJpYXQiOjE1MjM4MzA4NTIsIm5vbmNlIjoiUHp1emZ1Nm9uclU0Zzl5c3U1WjE3S2s1dURmdV96NUhjUGZVUG85ZXVrYz0ifQ%3D%3D.6pglWYtHfGy_2ImC9nUpSoqfqQ_GNWWvxPoRYOb8K8qDRfHMlTN7KS9ux5JVdG9KQo21zEhYMDbhTLKVUKd1hA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:21:31+00:00	twilight-user	{%22authToken%22:%22likd8g4rdxdrf72l79p5scmu7roteh%22%2C%22displayName%22:%22v_alexander05w_h%22%2C%22id%22:%22214593244%22%2C%22login%22:%22v_alexander05w_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:21:31+00:00	auth-token	likd8g4rdxdrf72l79p5scmu7roteh

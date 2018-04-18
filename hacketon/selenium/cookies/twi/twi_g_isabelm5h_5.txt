@@ -1,0 +1,13 @@
+#g_isabelm5h_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vPW94lpdaSKbw4taUY8xAnYHeO7ucnb87tQPZERjOkk%3D
+.twitch.tv	TRUE	/	TRUE	2028-04-16T21:52:16+00:00	unique_id	d6b6fc1cd5c075c5
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:52:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:52:43+00:00	persistent	214798929%3A%3Aurv7w37db67a952945w65m2mmmf09h
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:52:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTg5MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMzYzLCJpYXQiOjE1MjM5MTU1NjN9.65xEIrRpXqnyyX9-imJZVbgEFfcc8bhF5wBsvJJLYLfjat2p0qm53L6NF8eo2U1HzsiqFEdVK6OpIKPF55S1PQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:52:43+00:00	login	g_isabelm5h_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:52:43+00:00	name	g_isabelm5h_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:52:43+00:00	last_login	2018-04-16T21:52:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:52:43+00:00	api_token	b74673a5e044f489facd5d3e7d28d52d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:52:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfaXNhYmVsbTVoXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY3NTYzLCJpYXQiOjE1MjM5MTU1NjMsIm5vbmNlIjoiVGdfQk5Yay1RQmpGQW96UjBJSlg3LTRxR1dUMVE5bkJQSk8zZ0JCSWlHZz0ifQ%3D%3D.UroTPKOKJ_t8njtnXww5a4qf3dFiDfNw0L3UhcB4ZubDWJYeskWPn7ROblZDxh9RopAin3-ZL2XxNgtbDQrpFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:53:28+00:00	twilight-user	{%22authToken%22:%22zalj7d3sgdoq2lsrh6r5sr8z4q3su2%22%2C%22displayName%22:%22g_isabelm5h_5%22%2C%22id%22:%22214798929%22%2C%22login%22:%22g_isabelm5h_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:53:28+00:00	auth-token	zalj7d3sgdoq2lsrh6r5sr8z4q3su2

@@ -1,0 +1,13 @@
+#s_david45w_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xWV%2F7XguQI%2B5GOdVbHM7h2RcfoWshkXpjvsd7KMH5AQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:20:13+00:00	unique_id	ad1ff20f580d6dcf
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:20:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:20:48+00:00	persistent	215076324%3A%3Ay6wyhy161015a0n3gclbj8pjs30nf6
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:20:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzYzMjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0ODQ4LCJpYXQiOjE1MjQwMDAwNDh9.FOFFK2V5sk1233plDt5swrDJWUPFXTF6zKho_EdYqRlzf1BY9Rrn-e_ttc7WiL-0CTPuo_MRfZ51vABUf8bsfQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:20:48+00:00	login	s_david45w_s
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:20:48+00:00	name	s_david45w_s
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:20:48+00:00	last_login	2018-04-17T21:20:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:20:48+00:00	api_token	4c915ba50185f6f4613e4df3c0c53f97
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:20:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfZGF2aWQ0NXdfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTIwNDgsImlhdCI6MTUyNDAwMDA0OCwibm9uY2UiOiJzVmk2VzQ0Yi1GdGxiY1JCRFZFYWVnNW90bnNMQXY3LVFqSm0zNFpGYkdvPSJ9.-ptVopI4BsFWwviCfIbUJZVy60VT9kIfSH8e9rAs8T_sGd33hX0lSFzqMhd4DAc287WTfnJmvup8fpju09psRQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:21:39+00:00	twilight-user	{%22authToken%22:%22b54yze71l1pbeksdd5l2oou9wit6v6%22%2C%22displayName%22:%22s_david45w_s%22%2C%22id%22:%22215076324%22%2C%22login%22:%22s_david45w_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:21:39+00:00	auth-token	b54yze71l1pbeksdd5l2oou9wit6v6

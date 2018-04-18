@@ -1,0 +1,14 @@
+#o_joseph37p_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DviFU5Xt37pEfJ6MGx4SHR%2FPb58oni79Jj%2FqTZqJGuc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:25:57+00:00	unique_id	7d4b07c33c0f7116
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:25:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:26:17+00:00	persistent	214554353%3A%3Avmnwc3elpp7te8y2sww4z1heillpjl
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:26:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTQzNTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1MTc4LCJpYXQiOjE1MjM4MjAzNzh9.W75kuC9WGtdXMePmYmlEcV1HQuME0zcDRsxTf3QEX61jbVkI-Q7iHTDNZnITsmQKDadVMsWzE-Tkqr8u1nl8xQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:26:17+00:00	login	o_joseph37p_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:26:17+00:00	name	o_joseph37p_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:26:17+00:00	last_login	2018-04-15T19:26:18Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:26:17+00:00	api_token	29d16f561df88f06acb549eca6a295d8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:26:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fam9zZXBoMzdwX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyMzc4LCJpYXQiOjE1MjM4MjAzNzgsIm5vbmNlIjoiZUZpcG0yMEIzaC1VRVRuYml0YVU3ZFFKQ3c2UXlxOTYxVWwzdEUtWFBTRT0ifQ%3D%3D.cQdQ9MUh_XH_mHinlWBAESQ8HHuEPgbIKk7j0P39xW7-iisrOnkL8d077G8wBrIpp66SOjsxEa2VXBNEBPRU_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:26:57+00:00	twilight-user	{%22authToken%22:%22eakcnxzlg9pzcvd55tu0j8b4wthewb%22%2C%22displayName%22:%22o_joseph37p_b%22%2C%22id%22:%22214554353%22%2C%22login%22:%22o_joseph37p_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:26:57+00:00	auth-token	eakcnxzlg9pzcvd55tu0j8b4wthewb
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:27:00+00:00	twilight_onboarding	true

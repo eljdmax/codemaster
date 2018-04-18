@@ -1,0 +1,13 @@
+#i_michelleg75_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ciT848CKNeomaOw7D2RZZ8pKRY%2FvSPFl7V36KebF2I0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:17:17+00:00	unique_id	0514e16a3d930d71
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:17:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:17:38+00:00	persistent	214792023%3A%3Ad64qfrir0vq3bm5olqxn4nrjoq6wnf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:17:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTIwMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4MjU5LCJpYXQiOjE1MjM5MTM0NTl9.AsGInKZbnmXzpH4KFeXbx103r-DvLMgZz19Ct8NdTgV32nWfbXlmxj4t0smZDUvMsfcrC58xRCD7fFR2wqXn9A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:17:38+00:00	login	i_michelleg75_j
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:17:38+00:00	name	i_michelleg75_j
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:17:38+00:00	last_login	2018-04-16T21:17:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:17:38+00:00	api_token	22e02a568d7ac662626c72c7a29dd8a9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:17:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWljaGVsbGVnNzVfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjU0NTksImlhdCI6MTUyMzkxMzQ1OSwibm9uY2UiOiJSejZJX0NmTkMwWmdiTXZJOTdubDFiblNrVTlGay16M3lPYlo0LW9CaGc0PSJ9.poVbfD5jwk4B082hQg_bGd9GBQjTu-z_OsMhO4a7nJyFIMvMGUSkva3RjENjCNPI1-TqFgwD02lAZMaKi-5joQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:18:21+00:00	twilight-user	{%22authToken%22:%225hltogucj0irhvosyumowo10t2o0x4%22%2C%22displayName%22:%22i_michelleg75_j%22%2C%22id%22:%22214792023%22%2C%22login%22:%22i_michelleg75_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:18:21+00:00	auth-token	5hltogucj0irhvosyumowo10t2o0x4

@@ -1,0 +1,14 @@
+#k_elizabeth45w_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DCkbCRiwhl4v2XnTQ5ZzatLHfOz%2F7RDTHee84L15QwU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:27:38+00:00	unique_id	24804a92d76a5265
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:27:38+00:00	_twitch_session_id	d9fa31f963dc36856b769f4488f54c8a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:27:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:27:57+00:00	persistent	214582929%3A%3Ah0z1n2m0ouybwcuds049ygqvhvei65
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:27:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODI5MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyNDc4LCJpYXQiOjE1MjM4Mjc2Nzh9.eJGYR3QwAJcxkl1Z-JlWnarOGGeeo41Aty6o00oLuHuyWFvmkdGaPx4iDo8BdqsgVEOeXFYcU_e4fpAFAlJiog==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:27:57+00:00	login	k_elizabeth45w_q
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:27:57+00:00	name	k_elizabeth45w_q
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:27:57+00:00	last_login	2018-04-15T21:27:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:27:57+00:00	api_token	3382ffff28c6b39d7d3b0314f664534f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:27:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZWxpemFiZXRoNDV3X3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc5Njc4LCJpYXQiOjE1MjM4Mjc2NzgsIm5vbmNlIjoiWXBlR0xmWGpTVDMtRUsyRmJmd1p3OHlwdnp3RG5EbEg1eFpwTlo2WTFKWT0ifQ%3D%3D.NzwIwiDR2n9kOvXevJhdQFVHlAQQvijdcsPJifEK80UBTn6fl7fymI5nUYiTWdpFVto0WJ9UB6HXhNc_Gw8-0w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:28:37+00:00	twilight-user	{%22authToken%22:%226jw4hna8ldhhk9bmkbvs0f7ukqj6xt%22%2C%22displayName%22:%22k_elizabeth45w_q%22%2C%22id%22:%22214582929%22%2C%22login%22:%22k_elizabeth45w_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:28:37+00:00	auth-token	6jw4hna8ldhhk9bmkbvs0f7ukqj6xt

@@ -1,0 +1,14 @@
+#j_nevaeh665_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QaIjfd7kuh4wahKz7cEmtFTmBwWCuTnKC%2BTO8Vg10A0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:03:30+00:00	unique_id	c8e1a27788de039b
+.twitch.tv	TRUE	/	TRUE	2018-04-17T11:03:30+00:00	_twitch_session_id	be76e18b0d175e9174d13f2a248e7aa2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:03:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:03:56+00:00	persistent	214824438%3A%3Ahzm0rhi695ikuugnlbpn78yxpg71cb
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:03:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjQ0MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0NjM2LCJpYXQiOjE1MjM5MTk4MzZ9.tdKFJeiud0XxEQ8__TWACK-EWqzgGW5nLsO5H7N9k0W-xTLf5cbBFhNUR8uiS4uI6fqRsnYyxUhAbsSGO3qHCw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:03:56+00:00	login	j_nevaeh665_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:03:56+00:00	name	j_nevaeh665_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:03:56+00:00	last_login	2018-04-16T23:03:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:03:56+00:00	api_token	454ed2e135cae4192c6d94a53b6f2194
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:03:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbmV2YWVoNjY1X3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcxODM2LCJpYXQiOjE1MjM5MTk4MzYsIm5vbmNlIjoiU1B0VXRhQVQ2ck1xNHZ0d3NieUFWeVkzQ05NYVdNMFBPeFNld2ZPUy04Zz0ifQ%3D%3D.qlMX2IA6hrG7aemIzsknld0eBehNVp6owGLWhIsNUWYX4CvPLrFxF9L8ov2InUObHRaVVIFzKG7kKB6Mx-RZHQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:04:41+00:00	twilight-user	{%22authToken%22:%2292zvlwfjidm0ve69r2r37mnv9ogy6t%22%2C%22displayName%22:%22j_nevaeh665_x%22%2C%22id%22:%22214824438%22%2C%22login%22:%22j_nevaeh665_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:04:41+00:00	auth-token	92zvlwfjidm0ve69r2r37mnv9ogy6t

@@ -1,0 +1,13 @@
+#s_sofiaj8l_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	If4AqvBzKNFtFcbI5ZlPcvqBz4a3tL2n1u42%2BEyUM2w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:35:27+00:00	unique_id	04330597b05226ce
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:35:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:35:47+00:00	persistent	214556857%3A%3Alloqmn9umul7l4n7mojnhpn337ol29
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:35:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTY4NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NzQ4LCJpYXQiOjE1MjM4MjA5NDh9.cv1j_G4oYWAtjGP214R5T7l84bnGFpiGBas9beFKIpBkFvMlgz5SmO0NfoZ1ZEfbLAbVKop_cDkFOKRXxzIvtQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:35:47+00:00	login	s_sofiaj8l_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:35:47+00:00	name	s_sofiaj8l_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:35:47+00:00	last_login	2018-04-15T19:35:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:35:47+00:00	api_token	5686f7c258d2d4660fa3e8f855bd33b4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:35:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfc29maWFqOGxfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzI5NDgsImlhdCI6MTUyMzgyMDk0OCwibm9uY2UiOiJOLVZXOUxlZmNGR003QUkyZXhsV2RwRzB6YXZ6UmpPaHBkSzNLN2dqTGZ3PSJ9.1Q9DF0V6DRD99rAxU8FN4tpYTF90kKH0YOgRF7VMJowW9DoDVvq2wUy2zuz7d8oRelXOuWL4U3TJOdCw62Zg3g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:36:30+00:00	twilight-user	{%22authToken%22:%22ycq1o0a60sm6q93s8885q1ou5yd0b7%22%2C%22displayName%22:%22s_sofiaj8l_t%22%2C%22id%22:%22214556857%22%2C%22login%22:%22s_sofiaj8l_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:36:30+00:00	auth-token	ycq1o0a60sm6q93s8885q1ou5yd0b7

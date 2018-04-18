@@ -1,0 +1,13 @@
+#s_marissa07d_p
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:48:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2TEapHYbNOpOPCl9UthSMEaCKUq06NRijQM2EV%2F9xJY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:48:06+00:00	unique_id	8ff4939ac1e5a4f8
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:48:30+00:00	persistent	214798127%3A%3Aucic1zrqxvcuqug9urstopumflgsys
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:48:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTgxMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMTExLCJpYXQiOjE1MjM5MTUzMTF9.MgCEnLjcaBBcLLAcOH0Wi9yDe2Dhy58FZlqelOJuy7hsVmRJHCGfq_Ls2vxCJGdJizjPdebgtUeiC4mB2_SUgA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:48:30+00:00	login	s_marissa07d_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:48:30+00:00	name	s_marissa07d_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:48:30+00:00	last_login	2018-04-16T21:48:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:48:30+00:00	api_token	f2c491590f7f928ef20b65172bd0aaa7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:48:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWFyaXNzYTA3ZF9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NzMxMSwiaWF0IjoxNTIzOTE1MzExLCJub25jZSI6InpBNlB1aGFOUUE1RzBCSEV2VUFXVGI5UVY5MWVzd19jWk9TMzBrNkZjRU09In0%3D.rDmlZQHdTUvX7XRojNEoz1wnIp3uDknixhmzOwxLI0ynTYyPQgJipW6qhFiud0RmC8Yz9ySCGekl_eDxkExxzQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:49:18+00:00	twilight-user	{%22authToken%22:%227nce2p9l9ibzzru1siv6b0n0x5w4ev%22%2C%22displayName%22:%22s_marissa07d_p%22%2C%22id%22:%22214798127%22%2C%22login%22:%22s_marissa07d_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:49:18+00:00	auth-token	7nce2p9l9ibzzru1siv6b0n0x5w4ev

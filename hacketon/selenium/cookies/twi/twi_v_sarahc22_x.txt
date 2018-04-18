@@ -1,0 +1,13 @@
+#v_sarahc22_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vL9zoJITnz2fob%2BuirmoY7tCPdOIfDDQJ%2FCO4MS1Fp0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:25:12+00:00	unique_id	2817356d201768c2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:25:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:25:29+00:00	persistent	214582389%3A%3Ad430ivos73odxmlp4yze5yxot6ovht
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:25:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODIzODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyMzMwLCJpYXQiOjE1MjM4Mjc1MzB9.l6DRyvBDwTBh6aYgZFCcXNrl6IQn2IgtSnI-OQ_hESrCaym7M0KXmFfFqv1a-pt6Zz3_wGn1f1H1XYX_CURWGw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:25:29+00:00	login	v_sarahc22_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:25:29+00:00	name	v_sarahc22_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:25:29+00:00	last_login	2018-04-15T21:25:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:25:29+00:00	api_token	833eccc8f5efaae2f1b472d1f1027e68
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:25:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfc2FyYWhjMjJfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzk1MzAsImlhdCI6MTUyMzgyNzUzMCwibm9uY2UiOiJBbmItbEFxY0RjZF9DbEFGNHlzcUxnZnBSbDFnb2ozMlRHckVaUkNITUlZPSJ9.yncVJf3wdadmrV2a9W9ofFx0GDnvNUEf2glWoRPhQwuoshESO8L2cGECRdCwb1o8kG5_OlcIWWVwEpm4CEy9sA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:26:09+00:00	twilight-user	{%22authToken%22:%22ilqv15502rsh01ls574b5vf2kbdbha%22%2C%22displayName%22:%22v_sarahc22_x%22%2C%22id%22:%22214582389%22%2C%22login%22:%22v_sarahc22_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:26:09+00:00	auth-token	ilqv15502rsh01ls574b5vf2kbdbha

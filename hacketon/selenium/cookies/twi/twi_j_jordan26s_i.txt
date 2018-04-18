@@ -1,0 +1,13 @@
+#j_jordan26s_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B7etre5%2FDtCBGA98t9Rwy%2Fgsmtw%2FXWfls2qBxHb04Cc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:09:42+00:00	unique_id	cc7e2a117ad58bd0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:09:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:10:26+00:00	persistent	214802118%3A%3A70hamfiov1p6nfc85cbba3vrlowh37
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:10:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDIxMTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNDI3LCJpYXQiOjE1MjM5MTY2Mjd9.a7PpogobqmC6z-ZLzohH0L2t-z1T18-JrHsce4B4GUbI_UFVOJte7IGDetPcWY6UaWMMxm3g4gCBUBV_n_V2jw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:10:26+00:00	login	j_jordan26s_i
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:10:26+00:00	name	j_jordan26s_i
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:10:26+00:00	last_login	2018-04-16T22:10:27Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:10:26+00:00	api_token	3416f483a453c6d70cfa0367b1cce075
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:10:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfam9yZGFuMjZzX2kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY4NjI3LCJpYXQiOjE1MjM5MTY2MjcsIm5vbmNlIjoiZmRlNE5wa1pBN2l3U3NSZzBWMG0wOHllamo0d2hmVEZXSE1xckhscDRubz0ifQ%3D%3D.Ji-zkbCFFqZRTwTX7214bgtRXjYUsQK1Tykh3Pa7wsBpWs1vHRJpvn3gFVNXsHt7_9j8qblLC_8XNwxmSRj7zQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:11:10+00:00	twilight-user	{%22authToken%22:%22pok2ycwqriygupzxs36ii6j6v3wkjk%22%2C%22displayName%22:%22j_jordan26s_i%22%2C%22id%22:%22214802118%22%2C%22login%22:%22j_jordan26s_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:11:10+00:00	auth-token	pok2ycwqriygupzxs36ii6j6v3wkjk

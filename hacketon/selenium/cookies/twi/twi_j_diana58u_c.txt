@@ -1,0 +1,13 @@
+#j_diana58u_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tkf1Y9msb5UeGNiaVaD4aAizy1oYriQswd0tGGYa5RU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:00:54+00:00	unique_id	69800379cc886ca7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:00:55+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:01:07+00:00	persistent	214788418%3A%3Apw2itgkza7sit5552vzbyu6v4678re
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:01:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODg0MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3MjY4LCJpYXQiOjE1MjM5MTI0Njh9.NOxgpQDPXmNB2semzIDDSpxEkGRFSnSUPNtr3wgK3OxoqpiJXRAdGJNB7_r0FjfGrBNEPThdtFDrDHzH5ED3AQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:01:07+00:00	login	j_diana58u_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:01:07+00:00	name	j_diana58u_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:01:07+00:00	last_login	2018-04-16T21:01:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:01:07+00:00	api_token	c6d128253e3257b4491ed06366a39def
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:01:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZGlhbmE1OHVfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQ0NjgsImlhdCI6MTUyMzkxMjQ2OCwibm9uY2UiOiJXd1hnR09GWDNBMGF4ZHM1cnVhRVRLQUUzYlRkQ1RfNVhfRFg1R0lNNjFvPSJ9.NuuCz-dHNcmT93z-1fnfMaunaEUweWyUIqeg0o8bK9g6XMFH98XZPCXANugYe7EY0oHSELp0wqHwUfK471T20w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:01:51+00:00	twilight-user	{%22authToken%22:%222hn2wd6oivruwx5rkxsqjkejvmzq65%22%2C%22displayName%22:%22j_diana58u_c%22%2C%22id%22:%22214788418%22%2C%22login%22:%22j_diana58u_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:01:51+00:00	auth-token	2hn2wd6oivruwx5rkxsqjkejvmzq65

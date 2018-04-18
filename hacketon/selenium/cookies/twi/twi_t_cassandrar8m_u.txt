@@ -1,0 +1,14 @@
+#t_cassandrar8m_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	efyjNHWb%2BPefIpG4py7v%2FXG1pFqeMk4O9mhhiQfFNl8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:47:12+00:00	unique_id	3f0eef1a3e023512
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:47:12+00:00	_twitch_session_id	256d6ec4387b532f2e07670ad0d363f4
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:47:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:47:52+00:00	persistent	215082443%3A%3A91mods8zoikyul9oedexiyqsqx2lhb
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:47:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODI0NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2NDczLCJpYXQiOjE1MjQwMDE2NzN9.CbChrzK0tzXrmZstv_CbyoqbMsL8r02S6cy8YT6nkZapefP-hxAHeWaq9q7c3nmOb220xmLCtb4Q8JvHcqO1Xg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:47:52+00:00	login	t_cassandrar8m_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:47:52+00:00	name	t_cassandrar8m_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:47:52+00:00	last_login	2018-04-17T21:47:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:47:52+00:00	api_token	da15c768d0acb8aa12855eb465a32754
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:47:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfY2Fzc2FuZHJhcjhtX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUzNjczLCJpYXQiOjE1MjQwMDE2NzMsIm5vbmNlIjoiNGRBb1Rla3pLLVRKVlNEeHU3RFFBcUsyamZhM0VHU2tCU2FRd2NuWVdZQT0ifQ%3D%3D.K2y6IH-yAdcqeY1RsykMpHfqRVxu7s9n2jaSUwe2z3IIFiVqp6icCjaAENhmvR14QIggx8pM34LShebud-CmQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:48:42+00:00	twilight-user	{%22authToken%22:%22wmmm90tebh6sierzyz4sp16485amka%22%2C%22displayName%22:%22t_cassandrar8m_u%22%2C%22id%22:%22215082443%22%2C%22login%22:%22t_cassandrar8m_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:48:42+00:00	auth-token	wmmm90tebh6sierzyz4sp16485amka

@@ -1,0 +1,14 @@
+#q_ambery35_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dAcI9Z47CTMQaLfBgbKVCLWTrNKVRZkEfVuN%2FQc5BfE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:01:42+00:00	unique_id	afe6b70061aae11e
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:01:42+00:00	_twitch_session_id	ab5c031b293d4823a0eec4e945fa471c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:01:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:01:57+00:00	persistent	214589624%3A%3Akgp4btx0ijih6vadrehsf7yrzdh44l
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:01:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODk2MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NTE3LCJpYXQiOjE1MjM4Mjk3MTd9.N9fgw-jyq7LiuVqyVYdTNgJfHyOA1THfbvoOgHYKToAT8wEGPU1swTG4m6N78umUEpFD8-6l9h6U3UdsyzgtjQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:01:57+00:00	login	q_ambery35_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:01:57+00:00	name	q_ambery35_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:01:57+00:00	last_login	2018-04-15T22:01:57Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:01:57+00:00	api_token	969f832ce494b9ea5ff32096c141938e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:01:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYW1iZXJ5MzVfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODE3MTcsImlhdCI6MTUyMzgyOTcxNywibm9uY2UiOiJnZWhFRmFPRmNTMF9pVXZFWEd5ZnhwODNzY3ZrcElaaXRQWkJzdEJUVWQ4PSJ9.EM0VmpDh_VamRjFLP4VQftNAMiJ00FkIIqaub61OdSvXQ7kE6SVW_KfWDuai-PhS8CkEZ085wfA71V3pcESWtg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:02:38+00:00	twilight-user	{%22authToken%22:%22me0w5qbhzfwu65jgwmbnlc0t8rahij%22%2C%22displayName%22:%22q_ambery35_u%22%2C%22id%22:%22214589624%22%2C%22login%22:%22q_ambery35_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:02:38+00:00	auth-token	me0w5qbhzfwu65jgwmbnlc0t8rahij

@@ -1,0 +1,13 @@
+#a_williamg6i_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	l%2BHSYoMC5MbakA5jHBrpbtUzohWuxRQ9aXkXMXxYulk%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:53:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2028-04-16T21:53:10+00:00	unique_id	7a0d52defe79c71b
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:53:28+00:00	persistent	214799060%3A%3A7ghwvqdk542ttl16m2qxwk2x141gtk
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:53:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTkwNjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNDA5LCJpYXQiOjE1MjM5MTU2MDl9.l5ItiTP26qBFDvhKcFnOsfo8FPEsvi6EdC_OsZeHJdcA2VJ-3sRhCGzvOLVOZQgdkbBaqdUKKQq-Zx3Z7sxNow==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:53:28+00:00	login	a_williamg6i_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:53:28+00:00	name	a_williamg6i_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:53:28+00:00	last_login	2018-04-16T21:53:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:53:28+00:00	api_token	9edd9c5aef52386d4dc4cf1ada5058ad
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:53:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfd2lsbGlhbWc2aV9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NzYwOSwiaWF0IjoxNTIzOTE1NjA5LCJub25jZSI6IlNNTHAySEVwQ3NPeDhQOXBDYjRvUHk3MU02UUE1QVZrR2RxOGplTmtuZUE9In0%3D.sRWl-2EVYeVTsXUrwN0qCP74_-pNycDx8T8y8s2VpgNoo6yWHmba38kfPjLcUgB_ZDAo4JgEHuU5BFEXPzPqbg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:54:15+00:00	twilight-user	{%22authToken%22:%22lj6d1cej0tx4rwdrao15ei24jid8b6%22%2C%22displayName%22:%22a_williamg6i_c%22%2C%22id%22:%22214799060%22%2C%22login%22:%22a_williamg6i_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:54:15+00:00	auth-token	lj6d1cej0tx4rwdrao15ei24jid8b6

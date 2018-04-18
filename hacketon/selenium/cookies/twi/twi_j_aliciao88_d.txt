@@ -1,0 +1,14 @@
+#j_aliciao88_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9tu8ZmysNriv6jiVSHZVXP%2FJUbKm7UNBRG%2FHR2DeG1A%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:42:02+00:00	unique_id	bc96e8d7489321eb
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:42:02+00:00	_twitch_session_id	58a417a84a2128a160f4ca2037eac46f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:42:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:42:26+00:00	persistent	214573176%3A%3Aqoic4sbvi19rtz20czemtrab0nqjle
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:42:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzMxNzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NzQ3LCJpYXQiOjE1MjM4MjQ5NDd9.Ja64rKS6lOZEBDcNx4xnS9NpDAujrBfFkOH9d8vEM33nX-uw-pZqt5Kd4dx6xlgJP06Tb4_O2mqXRmHjKbenEg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:42:26+00:00	login	j_aliciao88_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:42:26+00:00	name	j_aliciao88_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:42:26+00:00	last_login	2018-04-15T20:42:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:42:26+00:00	api_token	d9f2b0d5292f13f577076fed5f6845a5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:42:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWxpY2lhbzg4X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc2OTQ3LCJpYXQiOjE1MjM4MjQ5NDcsIm5vbmNlIjoiZ3hsbHBwS01PYjVwYmlDS25SRk5fRmVlbUZTNVZFYzJ4WDBic282anVLST0ifQ%3D%3D.jqVjGcEkKXr6XAn5Ro2AKLQH8e8JE3A86hej_WlqNIhVmKSAxeuhNqzJXR1Ky7H5f_kjeEHD_3ZmAaMRU-bkuw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:43:06+00:00	twilight-user	{%22authToken%22:%22gcxwbt7hfim11mvu89lk8gw5zrba9w%22%2C%22displayName%22:%22j_aliciao88_d%22%2C%22id%22:%22214573176%22%2C%22login%22:%22j_aliciao88_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:43:06+00:00	auth-token	gcxwbt7hfim11mvu89lk8gw5zrba9w

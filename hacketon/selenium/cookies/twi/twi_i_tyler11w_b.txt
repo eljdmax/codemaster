@@ -1,0 +1,13 @@
+#i_tyler11w_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qoGnilSgl3hWaw%2F4wkne6fsSwMinZSSw0kmRyAHOrEU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:49:44+00:00	unique_id	2269c7159f91b04c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:49:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:50:01+00:00	persistent	214587291%3A%3Atrvmdqtpyo1te6p3vppvzwn9rodyuz
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:50:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODcyOTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzODAyLCJpYXQiOjE1MjM4MjkwMDJ9.7oI_t_mUyk6o2EQiJyt5p-NEiUBdT44NQ-JOfnBU2JZTLDpNHvwTLiUFKHlnKMa7WdZShqU5nFyzrqu12RfpoA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:50:01+00:00	login	i_tyler11w_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:50:01+00:00	name	i_tyler11w_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:50:01+00:00	last_login	2018-04-15T21:50:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:50:01+00:00	api_token	05bdbf37bb4d9790158759117eca13d4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:50:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfdHlsZXIxMXdfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODEwMDIsImlhdCI6MTUyMzgyOTAwMiwibm9uY2UiOiJkNExobjlnM1Y4YWVMaHoyaDVKZEc0d2RzYVF5STRobzNvMjVobGxjSGFBPSJ9.OdkpL7w-hEgr1eoDL17R2iwOA0SvpPtN4E4yoPfHQkv712YUDlNvpVc_WJUyzqaTD3lhGTH8AN277N708DBp8w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:50:43+00:00	twilight-user	{%22authToken%22:%22y6cgp0ixbtwc69owcwpkdqii3m79c9%22%2C%22displayName%22:%22i_tyler11w_b%22%2C%22id%22:%22214587291%22%2C%22login%22:%22i_tyler11w_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:50:43+00:00	auth-token	y6cgp0ixbtwc69owcwpkdqii3m79c9

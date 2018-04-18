@@ -1,0 +1,14 @@
+#q_ayden086_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	anQ9JTO0gsNYtxix5T5nMoPKSVD4L04j1nDldJZiDBM%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:01:16+00:00	_twitch_session_id	53c962b14ba42f26aab61d3641f2dcd2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:01:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2028-04-16T22:01:16+00:00	unique_id	a0601118f87b4260
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:01:47+00:00	persistent	214800514%3A%3A24d4vcib9nxsace1ubkn6kxwo3igu6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:01:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDA1MTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwOTA4LCJpYXQiOjE1MjM5MTYxMDh9.QxczpHQqoWqOsmp8WiXsFWwstD16RKTKjhtULOWvX7IsRY1-s7LPkK97OpaDCTuHevYiOVLsmmCt7xisTUac-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:01:47+00:00	login	q_ayden086_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:01:47+00:00	name	q_ayden086_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:01:47+00:00	last_login	2018-04-16T22:01:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:01:47+00:00	api_token	6e88f80ff691c87ac9fb25b4f0fc646e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:01:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYXlkZW4wODZfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjgxMDgsImlhdCI6MTUyMzkxNjEwOCwibm9uY2UiOiJSM3luNXNjU05BMTNQY25ra1VRSDBRWGFKblpKRE1Ra2dYcHIzVjZVTFVjPSJ9.nturEyuMnrcWEDoIWGQQjaskUe0wtntJbqUYg6ZKXxQOqQzxAid-Ij0mYN40Yxb1Y9rykotfcY9B_Kx2xr89pQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:02:34+00:00	twilight-user	{%22authToken%22:%226lbptb8ezkgu0r2at0mr9m8a60wr48%22%2C%22displayName%22:%22q_ayden086_5%22%2C%22id%22:%22214800514%22%2C%22login%22:%22q_ayden086_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:02:34+00:00	auth-token	6lbptb8ezkgu0r2at0mr9m8a60wr48

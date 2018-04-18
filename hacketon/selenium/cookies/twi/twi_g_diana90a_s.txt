@@ -1,0 +1,14 @@
+#g_diana90a_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Db9uqucs8NxVoRi9kId7zHAkBsa8eJhUPip9CK2FfXU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:34:32+00:00	unique_id	5a32c7d9d27fa2bb
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:34:32+00:00	_twitch_session_id	114c4183394c083ee0063bb6f9113bd9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:34:32+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:34:44+00:00	persistent	214813108%3A%3A2z3ekkn0umr5nuuxutetizky4497d1
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:34:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTMxMDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyODg1LCJpYXQiOjE1MjM5MTgwODV9.ijkF4knLpmMF31_2igPX5hKJ1t2Xd9wrrvH1qu3GKxWXdwWQdY5T26W6A_lJlKR5OuJcOTXwiRFsb7thaI97KA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:34:44+00:00	login	g_diana90a_s
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:34:44+00:00	name	g_diana90a_s
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:34:44+00:00	last_login	2018-04-16T22:34:45Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:34:44+00:00	api_token	759a88eef1eec0caeddb8ec492af362d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:34:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZGlhbmE5MGFfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzAwODUsImlhdCI6MTUyMzkxODA4NSwibm9uY2UiOiJldklMenNYQi1mZXJ4ZW1SUDRwMXVKYUd6ZHZqMW1IVVZwZ29Bd0doTldJPSJ9.g-DjSt7uebKRvIeUEnwl3EugVAWTaFXLNMEoNSkMFJ4wWDTaPtKAWQCgtU0Jrk2a7VBrSvYOCcrBltKW1CpOxQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:35:29+00:00	twilight-user	{%22authToken%22:%22tpj5y5swaoj9wyju3ojv66gbnxglo6%22%2C%22displayName%22:%22g_diana90a_s%22%2C%22id%22:%22214813108%22%2C%22login%22:%22g_diana90a_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:35:29+00:00	auth-token	tpj5y5swaoj9wyju3ojv66gbnxglo6

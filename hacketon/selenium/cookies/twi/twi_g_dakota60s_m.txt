@@ -1,0 +1,13 @@
+#g_dakota60s_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Vz%2FjQHdfg4XVicTYmaNJCYJ0pbl4q5EiE1B0ly5hgpg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:46:02+00:00	unique_id	415423b28bca0d03
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:46:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:46:31+00:00	persistent	214785252%3A%3Aq51aks2jebv667kgvqm0ehkpapfb7m
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:46:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODUyNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MzkxLCJpYXQiOjE1MjM5MTE1OTF9.njQwfer6ZDS1l2-5ZFeAfDgvmT5sCWOnf3JSAdR934INRKotTkviPteM8iEYSDoLP7ohdHOAzaGZPTYAZoewDQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:46:31+00:00	login	g_dakota60s_m
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:46:31+00:00	name	g_dakota60s_m
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:46:31+00:00	last_login	2018-04-16T20:46:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:46:31+00:00	api_token	0e4512caee3e8d53ce65899386f69dbb
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:46:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZGFrb3RhNjBzX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYzNTkxLCJpYXQiOjE1MjM5MTE1OTEsIm5vbmNlIjoiUVl6ZTBOVk5vSU1IV1ZmOGt6c0FqY2JYVjFpeklpZndoX1VTODhRLURSUT0ifQ%3D%3D.fnvqCbl1LKHLxtgggZLSn3VJan3nKA4kNQsV1-_GcZ94QDv4kIkgccfPEt5IXBfkPEWZGXZ_PrEGD-fBvs73hw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:47:17+00:00	twilight-user	{%22authToken%22:%222odsj0xkakxfwpywlakmg467qt6a88%22%2C%22displayName%22:%22g_dakota60s_m%22%2C%22id%22:%22214785252%22%2C%22login%22:%22g_dakota60s_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:47:17+00:00	auth-token	2odsj0xkakxfwpywlakmg467qt6a88

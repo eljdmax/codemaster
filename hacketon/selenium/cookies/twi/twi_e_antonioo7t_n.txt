@@ -1,0 +1,13 @@
+#e_antonioo7t_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cYy776v0HbHApCBhkuMGbrCM%2BE5MQyHevuYEM1yhtfI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:00:23+00:00	unique_id	5466a34cd9cd76b2
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:00:23+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:00:50+00:00	persistent	215071480%3A%3Ath6zekpwqje2vdq9vwlmvbul37y67q
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:00:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzE0ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzNjUxLCJpYXQiOjE1MjM5OTg4NTF9.MGLbkEl3Ov-NcRsaWWQ3O3-TqGrNL_kB-6j1K4pv3AL1B8EMMxQ8thl-JiUCtEw6i_4B7rW4OR7b4asrN5PkyQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:00:50+00:00	login	e_antonioo7t_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:00:50+00:00	name	e_antonioo7t_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:00:50+00:00	last_login	2018-04-17T21:00:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:00:50+00:00	api_token	c3dc0f4bf19a5201d08ef0360d7a7ce6
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:00:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYW50b25pb283dF9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MDg1MSwiaWF0IjoxNTIzOTk4ODUxLCJub25jZSI6IjI2eGFjcUpQRFhEZjhFNlptU29FNWs4ZC1DMnBCUktzcTJYOWcyRHpCb0U9In0%3D.nYwBqklgmZtzBZRJzJ_4R7bL_5YPARazweO45VsHEK4xLAMEnnaKBQBxXwPhGo8RQ2kxPWiDuLaoOk9e1YG0IQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:01:42+00:00	twilight-user	{%22authToken%22:%22xazxk1cjgapr6wkc2bfgfa77hw522p%22%2C%22displayName%22:%22e_antonioo7t_n%22%2C%22id%22:%22215071480%22%2C%22login%22:%22e_antonioo7t_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:01:42+00:00	auth-token	xazxk1cjgapr6wkc2bfgfa77hw522p

@@ -1,0 +1,14 @@
+#n_alexa87b_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Bz2Q9sI2d9vcsOqslSLx917KkBZDsaBNl0SmXdyiR4Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:40:19+00:00	unique_id	42b8822704f966f1
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:40:19+00:00	_twitch_session_id	f41d4c5461cb82a5e607f814f058cd5d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:40:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:40:34+00:00	persistent	214585418%3A%3Aiwomodshe7khdoz9qa03yvc7zjwr6y
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:40:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODU0MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMjM1LCJpYXQiOjE1MjM4Mjg0MzV9.Ocaw0aqas7kq-0ekv0XC0STmLqQcT48SnWtV9Nq9UxMiUVgi0O-obsZ8-7vEf2B520KSzCyC4JaBX88YDhB1BQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:40:34+00:00	login	n_alexa87b_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:40:34+00:00	name	n_alexa87b_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:40:34+00:00	last_login	2018-04-15T21:40:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:40:34+00:00	api_token	c8510441bcd8ba167e7c77e8b43ed511
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:40:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYWxleGE4N2JfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODA0MzUsImlhdCI6MTUyMzgyODQzNSwibm9uY2UiOiJvRVBDQ0tSRjJ0WjV5MHRGYy1qSmdfdmU4UEIzdlFLLXVUa0w2NTE1bDVZPSJ9.RUSSDtceboHF8NCkgYrjFrnkJVbXmHilGp914_tFKn2hwVzpag2QOSt5xu50nqOSvjPZtg-GXU0GMzz2X1qpAA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:41:14+00:00	twilight-user	{%22authToken%22:%227io3wjs37crncfpn5o8t6p0otmfsuc%22%2C%22displayName%22:%22n_alexa87b_d%22%2C%22id%22:%22214585418%22%2C%22login%22:%22n_alexa87b_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:41:14+00:00	auth-token	7io3wjs37crncfpn5o8t6p0otmfsuc

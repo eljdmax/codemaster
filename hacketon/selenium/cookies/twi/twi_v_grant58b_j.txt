@@ -1,0 +1,13 @@
+#v_grant58b_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	z8SAe%2BDGO5vuWEIaz6mgmFLoctKB%2FTq7yOQJyZj2h2Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:19:27+00:00	unique_id	e7e197d374b78edb
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:19:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:19:48+00:00	persistent	214805106%3A%3Ax491u7ocfjjy6273jquhpdrpdluyrk
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:19:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDUxMDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxOTg5LCJpYXQiOjE1MjM5MTcxODl9.D6WGEGL3ZqSNP73_VmBUXRNVSxR6p7bEyzq6llNfezK4wfQfhM4mZ5SFF8y2j1I7ZFnHwPweamBdLWr0gwj4ag==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:19:48+00:00	login	v_grant58b_j
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:19:48+00:00	name	v_grant58b_j
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:19:48+00:00	last_login	2018-04-16T22:19:49Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:19:48+00:00	api_token	c5d13338e2c611e422137129e0cc8d06
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:19:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZ3JhbnQ1OGJfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjkxODksImlhdCI6MTUyMzkxNzE4OSwibm9uY2UiOiJFQ3M2YnVnT1lpWnBEUFNCT2pPbHVxMUN6LVlGN0dQcGxzVXhKS3lCckNZPSJ9.T_HX8YL6aV9B618wulJMgiBe2DwvX5xxBMt2ZthL7hq5e-_qI0LG64lqxvUGpT3hR5ZZa8s-xJ3swaDrD5Uisg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:20:32+00:00	twilight-user	{%22authToken%22:%227e772j2u5rws6wv0lpzbf5cmcb4fdi%22%2C%22displayName%22:%22v_grant58b_j%22%2C%22id%22:%22214805106%22%2C%22login%22:%22v_grant58b_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:20:32+00:00	auth-token	7e772j2u5rws6wv0lpzbf5cmcb4fdi

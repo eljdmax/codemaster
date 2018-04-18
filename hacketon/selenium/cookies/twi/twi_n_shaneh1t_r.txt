@@ -1,0 +1,14 @@
+#n_shaneh1t_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LYIO6CsMkotMxlrWv22R%2BiRcc81X0Eaql1rIkZJ7kEc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:40:58+00:00	unique_id	38daa4258c355b67
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:40:58+00:00	_twitch_session_id	f3844560e1c1631a04a82960007e53e1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:40:58+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:41:33+00:00	persistent	214585612%3A%3Aseh4j96u5m2ez12kqcvb6h44jnez8r
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:41:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODU2MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMjkzLCJpYXQiOjE1MjM4Mjg0OTN9.3x7wT7Gw4LCNLTqm9lpyxpf6nj5MNZoT8oMyXSjjji3_yM4kC8C7Dr1rQWPkHk03dMwN_UcpqsGlNntTV2Tr2g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:41:33+00:00	login	n_shaneh1t_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:41:33+00:00	name	n_shaneh1t_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:41:33+00:00	last_login	2018-04-15T21:41:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:41:33+00:00	api_token	27a3114b710029ea274b98b42f279c29
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:41:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fc2hhbmVoMXRfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODA0OTMsImlhdCI6MTUyMzgyODQ5Mywibm9uY2UiOiIxcXQ0eXpDem5lS2JDMWp2cGpNdV9vZGROSG5zSWRiMU5peGxTZHpNbVFJPSJ9.NSye8OwbIGLHkBGUhe3p7IFaNp90RBvJDQzoJ5Ld66DxkHT02afOSGHkKLLn-3J5Q62flNfOUevXYNtEx1C5BA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:42:12+00:00	twilight-user	{%22authToken%22:%22flv5dr0fc8jooanpursw84j8mn7zx4%22%2C%22displayName%22:%22n_shaneh1t_r%22%2C%22id%22:%22214585612%22%2C%22login%22:%22n_shaneh1t_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:42:12+00:00	auth-token	flv5dr0fc8jooanpursw84j8mn7zx4

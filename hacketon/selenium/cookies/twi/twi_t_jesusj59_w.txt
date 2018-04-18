@@ -1,0 +1,14 @@
+#t_jesusj59_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	J%2FafB9tWa6bI81wersx4OCs2J1JrlV2ErvmaaC4viOU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:36:19+00:00	unique_id	a8f3ff00df19ffa7
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:36:19+00:00	_twitch_session_id	ec5497dd3a05478436717c9e2366875f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:36:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:36:34+00:00	persistent	214783248%3A%3Am6qxop3xnht3us60qimbjqsyhpyzqf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:36:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODMyNDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1Nzk0LCJpYXQiOjE1MjM5MTA5OTR9.fr91SduRsB-3zTpAAd9EcBTC4gc7smiUaIOEGly4Xzwf7QCfPJHK9kKI_7C3ur1NMFUHcV25Y1lO7_uRfidSYQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:36:34+00:00	login	t_jesusj59_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:36:34+00:00	name	t_jesusj59_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:36:34+00:00	last_login	2018-04-16T20:36:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:36:34+00:00	api_token	d5be63802a65e61dd29dceda76dfa61a
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:36:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfamVzdXNqNTlfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjI5OTQsImlhdCI6MTUyMzkxMDk5NCwibm9uY2UiOiJiUmJIZUlyN3VRQ0NaMm5SNGZDYkVkNVBQc1ExUGhMNjlOZm5kM0JJN3JjPSJ9.twKZh8XpeLcUczZQXUyDKGda_afS2_JTN0JzWYmJj79aWoJZrxzgu8yD2lWNakzzJASJurFNIwXaNYMgfaXXTw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:37:16+00:00	twilight-user	{%22authToken%22:%22rbl978qrl7k0o0bjlho98pyio5tt8b%22%2C%22displayName%22:%22t_jesusj59_w%22%2C%22id%22:%22214783248%22%2C%22login%22:%22t_jesusj59_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:37:16+00:00	auth-token	rbl978qrl7k0o0bjlho98pyio5tt8b

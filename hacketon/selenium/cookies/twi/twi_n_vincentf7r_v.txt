@@ -1,0 +1,14 @@
+#n_vincentf7r_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JwZWqpAJDLcSrGuHnGu9RcE%2FBzH9pg%2BEHcN9w7avskM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:42:21+00:00	unique_id	1a70c482303af806
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:42:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:42:40+00:00	persistent	214558681%3A%3Aerrshaglbyigzoxuf87acmp1kljh0y
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:42:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTg2ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MTYwLCJpYXQiOjE1MjM4MjEzNjB9.M3okLOSN9-B2knbTNpq9Rd83ls9ah_f4UHuXEfyIrUkZxIw5y9s37PTKoc7BFblzG7-4Puddc76Ic3ttRmS-LA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:42:40+00:00	login	n_vincentf7r_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:42:40+00:00	name	n_vincentf7r_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:42:40+00:00	last_login	2018-04-15T19:42:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:42:40+00:00	api_token	2987f27a43661f62b2252b8867ff2970
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:42:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fdmluY2VudGY3cl92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzM2MCwiaWF0IjoxNTIzODIxMzYwLCJub25jZSI6ImhiT3VCd29WQzF1VTBoM3lwMi1peUNzX3ZlVHljU2NNd1BJeV85c2JrZ289In0%3D.tVb8zTgvwKC0kTL5V9fnN55XzFz2dnDK3C7rPfLix9R2mniu6UWEXjppJepqqn4oXHgp24I_esii3ddjJGmdhg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:43:18+00:00	twilight-user	{%22authToken%22:%22ouxrvfedbci20cu7xesw2h4i7f4qcm%22%2C%22displayName%22:%22n_vincentf7r_v%22%2C%22id%22:%22214558681%22%2C%22login%22:%22n_vincentf7r_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:43:18+00:00	auth-token	ouxrvfedbci20cu7xesw2h4i7f4qcm
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:43:21+00:00	twilight_onboarding	true

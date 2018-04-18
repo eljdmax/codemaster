@@ -1,0 +1,13 @@
+#s_carlost7y_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5ZoeHtCBklFwXzPWTKtZ3aSSK%2BqeQhZks43R1GQjdeE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:16:11+00:00	unique_id	71510cefd7f69577
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:16:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:16:28+00:00	persistent	214592394%3A%3A3glks22jbaop47fxkx3t4ln3ap8fr2
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:16:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTIzOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1Mzg5LCJpYXQiOjE1MjM4MzA1ODl9.BmlahG15rTtT35rvo26UQdWQdGkDqXRKynu4Q-_MjR2BMvgoOYrWf_ZT1RBUs_YdNQ-TLfgmhES9QHzYfkTqXQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:16:28+00:00	login	s_carlost7y_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:16:28+00:00	name	s_carlost7y_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:16:28+00:00	last_login	2018-04-15T22:16:29Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:16:28+00:00	api_token	613845e5a6b2686afe4288c1171e9f47
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:16:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfY2FybG9zdDd5X24iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgyNTg5LCJpYXQiOjE1MjM4MzA1ODksIm5vbmNlIjoiVnBEYTh3cG9vOWNsbEp0VGtlZmQ0dWlURlh3ZW1uXzl1RTRvMmFSc18xND0ifQ%3D%3D.VHdcIIQEx1IrYlgz3odlWGk3B4VhdrDxIZVidcHI8oBLaHAqvHq6Jopjn8IxJvogUiuwRcQNlkqPT_U434EEuA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:17:08+00:00	twilight-user	{%22authToken%22:%22wdg7m905zmhjfwc1s7n48imorkku61%22%2C%22displayName%22:%22s_carlost7y_n%22%2C%22id%22:%22214592394%22%2C%22login%22:%22s_carlost7y_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:17:08+00:00	auth-token	wdg7m905zmhjfwc1s7n48imorkku61

@@ -1,0 +1,13 @@
+#k_ashton833_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KUV9jboeIYK448rx7fTzy348sLzAQJHM1mWtb9wcUf8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:57:09+00:00	unique_id	a8982a658db676b0
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:57:09+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:57:39+00:00	persistent	215070692%3A%3A0sx8wyxefbr6dxtv7v0ypmb1g09ih9
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:57:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzA2OTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzNDU5LCJpYXQiOjE1MjM5OTg2NTl9.3EAzHWFnu1w_9Z4SMdUGRn38XEYQ4Zo9s5jiNL1JnutNZoQ57ss__VwU9c66H2yOaIFnq2Vg-oQ0fLbKJ2Ux1g==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:57:39+00:00	login	k_ashton833_d
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:57:39+00:00	name	k_ashton833_d
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:57:39+00:00	last_login	2018-04-17T20:57:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:57:39+00:00	api_token	cbcd03f1851308d659fc8477a14b2993
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:57:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYXNodG9uODMzX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUwNjU5LCJpYXQiOjE1MjM5OTg2NTksIm5vbmNlIjoiM1ltZWprQXZybzdQOU1yQVBNdUFialNaM3BiZnZySXVjTmduWlN5b0xBUT0ifQ%3D%3D.6FeeW78OEktV8IMApW2REv0-GjNsiFGl0sbbzBS3Mc7V4FgGObrml3dhkVJ5JuaaHGZmXHVgmUmjhCL9qqg8UQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:58:27+00:00	twilight-user	{%22authToken%22:%22to7526xff6artam0by7h699gxzuk4x%22%2C%22displayName%22:%22k_ashton833_d%22%2C%22id%22:%22215070692%22%2C%22login%22:%22k_ashton833_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:58:27+00:00	auth-token	to7526xff6artam0by7h699gxzuk4x

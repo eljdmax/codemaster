@@ -1,0 +1,14 @@
+#q_manuel92a_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YXYRxhGMg7XCzv9X5FX2Hw3OpQF%2F3B6fYqS1jiNczyQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:23:38+00:00	unique_id	8a09c86fe672c4af
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:23:38+00:00	_twitch_session_id	376bcaa25d01465521fa1175f24ea6f8
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:23:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:23:57+00:00	persistent	214780684%3A%3Apyyeurw6auav0ov3orirhosr0rqiwc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:23:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODA2ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1MDM3LCJpYXQiOjE1MjM5MTAyMzd9.MChaCEyoYPq0yxFMszA0apRygka9jLthjZ1UKp-eK5rAfT6enrCaeM3eicESEK5PoLZPJTZY15SJ01cyKX75mA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:23:57+00:00	login	q_manuel92a_3
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:23:57+00:00	name	q_manuel92a_3
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:23:57+00:00	last_login	2018-04-16T20:23:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:23:57+00:00	api_token	1f78731dfba92414c800442e40e97440
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:23:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFudWVsOTJhXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYyMjM3LCJpYXQiOjE1MjM5MTAyMzcsIm5vbmNlIjoiUWozaEtOUVJWeWRHRFJERF9GVENqanJITkRoc0dVMnVOcE1uVHhtT2xkND0ifQ%3D%3D.AYR7xAjQMSVqonkkb72hu0VSyx6UbC6cB-TUtgeULQcnnA3Eb0nN3Cpf1r3BQvJZhq_8gIrmXCWlGIYsegQN4g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:25:41+00:00	twilight-user	{%22authToken%22:%22gcv08upo6q6wtwm2n9piro4tp4eqri%22%2C%22displayName%22:%22q_manuel92a_3%22%2C%22id%22:%22214780684%22%2C%22login%22:%22q_manuel92a_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:25:41+00:00	auth-token	gcv08upo6q6wtwm2n9piro4tp4eqri

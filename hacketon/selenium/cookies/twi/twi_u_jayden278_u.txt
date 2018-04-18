@@ -1,0 +1,13 @@
+#u_jayden278_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	djDJFbTF4NLFnVEI%2F5ZlGNogPZhUiIy21rkaHkSvW0I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:07:39+00:00	unique_id	f75c91e4d6fbe600
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:07:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:07:58+00:00	persistent	214565052%3A%3Aex2x1ekl5b1sg85a5obz6eo9of8dms
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:07:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjUwNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3Njc4LCJpYXQiOjE1MjM4MjI4Nzh9.1AYUQ3w3g6VYGAvCAJjtQkssOl0BhCtjcFwkWnHbb6FHHwkkNDSghk6HHHmtD8K9ZiJkRH6MBYR3mgUKy2biEg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:07:58+00:00	login	u_jayden278_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:07:58+00:00	name	u_jayden278_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:07:58+00:00	last_login	2018-04-15T20:07:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:07:58+00:00	api_token	bd4688b27ac47edcd092233d29d930bc
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:07:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamF5ZGVuMjc4X3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc0ODc4LCJpYXQiOjE1MjM4MjI4NzgsIm5vbmNlIjoiRFRNV0ZPc3VTMTd0dU9zV0l4N2xibGNUVE9yS2tKc3FXYTcySy1TQVRSUT0ifQ%3D%3D.ZCmuT71jRXPVuwRNHjxRtT8M05IZIjWfYoRkQjxINtLi-llLYs239Vsh_KYDUePchn32zS1d93H_ZEDkcxIlaA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:08:37+00:00	twilight-user	{%22authToken%22:%22d8aztmeog9qm6r3lyiwv8nhig2hwys%22%2C%22displayName%22:%22u_jayden278_u%22%2C%22id%22:%22214565052%22%2C%22login%22:%22u_jayden278_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:08:37+00:00	auth-token	d8aztmeog9qm6r3lyiwv8nhig2hwys

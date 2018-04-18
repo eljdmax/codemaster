@@ -1,0 +1,13 @@
+#l_melanie50s_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ob%2BvnQ%2B51K19yQW%2BfifS3DlEqHf3SA%2FiOXT5d1zgufE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:10:24+00:00	unique_id	7633f1e95c4233cc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:10:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:11:01+00:00	persistent	215087647%3A%3Apya23lmqh3dajh99i52gfgzy24al4o
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:11:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODc2NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3ODYyLCJpYXQiOjE1MjQwMDMwNjJ9.s3aX5WQF73omqIszTPWCPQVH56vU1mAbWevk4C-ybV1K5QKbduumxEcT-efamwc-mRSwCalal4Xnkl0jsgh7iA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:11:01+00:00	login	l_melanie50s_g
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:11:01+00:00	name	l_melanie50s_g
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:11:01+00:00	last_login	2018-04-17T22:11:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:11:01+00:00	api_token	377b2155ed3d119657c2cbae19307965
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:11:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbWVsYW5pZTUwc19nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NTA2MiwiaWF0IjoxNTI0MDAzMDYyLCJub25jZSI6InJabGpjZlRseWU4N1FISTRtYVRsSUxEaGhUaFhMSndZQnZPRVB6c1hjTU09In0%3D.Zhtg86zFEjQje6o6o39a7dsl1lvL2oy-Ibn8qcGcKRObM2Ud9a3cupYsQUdTBDrC6L3Pg84u4g4xcc0mUrzKzg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:11:49+00:00	twilight-user	{%22authToken%22:%22vfp1es6ovjn8j9lupsizw2gb9ss30f%22%2C%22displayName%22:%22l_melanie50s_g%22%2C%22id%22:%22215087647%22%2C%22login%22:%22l_melanie50s_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:11:49+00:00	auth-token	vfp1es6ovjn8j9lupsizw2gb9ss30f

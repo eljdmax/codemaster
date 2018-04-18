@@ -1,0 +1,14 @@
+#u_edwing9v_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cR99EXVKDiU%2BWhNMjjbQKpxFMJKW0BdJpFiyAr8YxLE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:17:42+00:00	unique_id	32f0c6df16d40e85
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:17:42+00:00	_twitch_session_id	365fa803df255535b4ed67ec32983dde
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:17:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:18:04+00:00	persistent	214567468%3A%3A5dniwfyzktjfzigpp8klbfy52cp2qb
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:18:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njc0NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4Mjg1LCJpYXQiOjE1MjM4MjM0ODV9.MkcNi-D3kBFseB7uKlWzyNZHk67Cu3Xwj7AMy7N1ihcmZk4mtJPI_0O0ZmwbcdU9KV39jZjqacHslsTQXtC39g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:18:04+00:00	login	u_edwing9v_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:18:04+00:00	name	u_edwing9v_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:18:04+00:00	last_login	2018-04-15T20:18:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:18:04+00:00	api_token	a99b89e6c7f2bff662539543b11b108e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:18:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZWR3aW5nOXZfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzU0ODUsImlhdCI6MTUyMzgyMzQ4NSwibm9uY2UiOiJCYUhWbmVzbmpPRlFoSkRkak5ocmd0Ui1DcElDZmpLS0dDSEF4WHZLTWQ4PSJ9.IFR2m0vSMVRyqvFM3h4zpCdatPfGzDqaP2t-ozFZZU9_PZnk1dr_tBR3CEq_a_WrFNOBZ1QdABouIFOuiXRTDg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:18:43+00:00	twilight-user	{%22authToken%22:%22g4uur79c07q9ozr04w2eq8xbwhxvlz%22%2C%22displayName%22:%22u_edwing9v_u%22%2C%22id%22:%22214567468%22%2C%22login%22:%22u_edwing9v_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:18:43+00:00	auth-token	g4uur79c07q9ozr04w2eq8xbwhxvlz

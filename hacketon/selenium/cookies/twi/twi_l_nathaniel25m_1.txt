@@ -1,0 +1,14 @@
+#l_nathaniel25m_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BtaucNZpwXaXRLpBQqCZpydoAYCEP19%2Fc%2BMJOP6qQf4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:43:20+00:00	unique_id	3fca9e8b0b9fbc35
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:43:20+00:00	_twitch_session_id	4020099a8c4bbf6e33a17b86a58e9ea1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:43:20+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:43:39+00:00	persistent	214558960%3A%3Aymycseozi80sz5yedzte391fcri3sb
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:43:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTg5NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MjIwLCJpYXQiOjE1MjM4MjE0MjB9.eiLR-yIIOI-TSOQjicTlLSZyytdp0GD4iKWBbPwWTO2pVEi9LPuBzAGrKXoWmOCX9PPjJSuTDBrOxHu48Jh48Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:43:39+00:00	login	l_nathaniel25m_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:43:39+00:00	name	l_nathaniel25m_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:43:39+00:00	last_login	2018-04-15T19:43:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:43:39+00:00	api_token	c470a89c5440d70fb31f7add0ed7ec38
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:43:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbmF0aGFuaWVsMjVtXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzczNDIwLCJpYXQiOjE1MjM4MjE0MjAsIm5vbmNlIjoiMWdaaVh4SDhwZXZrLXVzMW9wZHh5cEhMZUhaZGFDdnhVcXNuZmp1aGVyYz0ifQ%3D%3D.a1k0McaY3UQZx51eOpP80ygZajNB1PqVCbJkykPSex9ja9ybnU7HxVMrpA23WeuDLILSswopNcCRBXvFEk6tKA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:44:19+00:00	twilight-user	{%22authToken%22:%226r9hl11mic8wufdaszxskowdqngtxd%22%2C%22displayName%22:%22l_nathaniel25m_1%22%2C%22id%22:%22214558960%22%2C%22login%22:%22l_nathaniel25m_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:44:19+00:00	auth-token	6r9hl11mic8wufdaszxskowdqngtxd

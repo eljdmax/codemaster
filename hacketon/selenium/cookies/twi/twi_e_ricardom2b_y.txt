@@ -1,0 +1,13 @@
+#e_ricardom2b_y
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:58:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	r7J2tdX7mmIJ2cSm2FRZCa1eu8COkdtHVm9Pd7KgYY8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:02:08+00:00	unique_id	cb0de7fbb4ca028a
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:03:08+00:00	persistent	214788833%3A%3Aq7k0e87s5phlk9vopaztdm8rxtj8pl
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:03:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODg4MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3Mzg5LCJpYXQiOjE1MjM5MTI1ODl9.mGMni6pJ9G0jaK32XobmcjGkmy6gJIEMlITyy3UynOJ19BAZTjX6RDbR4XEZPgTDTl2AX75ZLOj76kXcm_GSUQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:03:08+00:00	login	e_ricardm2b_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:03:08+00:00	name	e_ricardm2b_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:03:08+00:00	last_login	2018-04-16T21:03:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:03:08+00:00	api_token	ad6ceb371367269c0fb2d464380b8106
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:03:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfcmljYXJkbTJiX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY0NTg5LCJpYXQiOjE1MjM5MTI1ODksIm5vbmNlIjoiR2pQR3d2Y0NDLXJrdVAyQkFYSlFpTWJrMGRzMW9Dc2drMXBvT0ZhY2pKdz0ifQ%3D%3D.dXrwK1Kl3k3yt7mDPOatGzGmhbI4gn2Bjr5i23I_caMdFUv7wpI3K8h9Dg5hn_twJ1nQJHrMQJZut_10HKaxug%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:03:54+00:00	twilight-user	{%22authToken%22:%22dlof6a96muuzeeznyrkia2v26k52lt%22%2C%22displayName%22:%22e_ricardm2b_y%22%2C%22id%22:%22214788833%22%2C%22login%22:%22e_ricardm2b_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:03:54+00:00	auth-token	dlof6a96muuzeeznyrkia2v26k52lt

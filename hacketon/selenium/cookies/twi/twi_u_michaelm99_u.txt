@@ -1,0 +1,15 @@
+#u_michaelm99_u
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:37:44+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-15T21:37:07+00:00	unique_id	a90175207b837597
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:37:07+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cWCm140xWzgQiExrZFJAgPr%2FspBHIG35OCj55ixnwpw%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:40:39+00:00	_twitch_session_id	533f69cbc3b8962e4464ceaa3d85ad0e
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:40:58+00:00	persistent	214585493%3A%3Aoizo546qqqbwiaf6h2qr6iw48c3ch9
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:40:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODU0OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMjU4LCJpYXQiOjE1MjM4Mjg0NTh9.xnpinLgkbdx9B8-BEGS0VwSiTs1Ntco9E-Yy56HFcXXgB_GEGHpqbq3Oc953MjZM52jcT9MDYvaLPgz6QRBO4w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:40:58+00:00	login	u_michaelm99_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:40:58+00:00	name	u_michaelm99_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:40:58+00:00	last_login	2018-04-15T21:40:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:40:58+00:00	api_token	3b17c2b38c3c855de42fdd1215f8eab4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:40:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWljaGFlbG05OV91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MDQ1OCwiaWF0IjoxNTIzODI4NDU4LCJub25jZSI6IllBZmtBUVBWekpKS1NvTllrR1lsc3hLbURKZGRXVlEtd2plaWZ0Z1RHSlk9In0%3D.jvavRnOWHlJGirEMnHQ4wZuKgraczQ-W9YuB8j56oH2lVvciTQjMwRcySiVAlQTb-JraUOUJLuNkSycTAklMSw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:41:38+00:00	twilight-user	{%22authToken%22:%22kay9cih58sagbcg07n5yxgwxstxyg4%22%2C%22displayName%22:%22u_michaelm99_u%22%2C%22id%22:%22214585493%22%2C%22login%22:%22u_michaelm99_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:41:38+00:00	auth-token	kay9cih58sagbcg07n5yxgwxstxyg4

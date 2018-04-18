@@ -1,0 +1,13 @@
+#d_jillian125_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wktpJV1xQREsookaRAXkiyL6nnzGQiBKNKkpcep5BHI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:21:33+00:00	unique_id	05c35f136f87b52a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:21:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:21:57+00:00	persistent	214568393%3A%3Aiptujeqb4iui1a5hahmlxns0cp1qsy
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:21:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjgzOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4NTE4LCJpYXQiOjE1MjM4MjM3MTh9.WUFT3yaafxLXXDg5-y15WmN2Owegl-uFdCUJlNrNfOXieHjeX8Y17AwEfEuTIPA5fpA65hqXFKkIrlCOUJGltA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:21:57+00:00	login	d_jillian125_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:21:57+00:00	name	d_jillian125_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:21:57+00:00	last_login	2018-04-15T20:21:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:21:57+00:00	api_token	7ca1b49116effe609252e2728b42b5db
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:21:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamlsbGlhbjEyNV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTcxOCwiaWF0IjoxNTIzODIzNzE4LCJub25jZSI6InVvNF8zenJya2FHbGdlTEN3akVnWmRkZFFNcEZhSU11VWNmV3MwM0xRd009In0%3D.RQDzfsSNccpXJeIiNsttcpftdiVTuhSZ193lHFEUd8ivFJDb9M_1vMSwIxtvelM_FyC0ohZWN6Y0nfbVbNNDHQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:22:37+00:00	twilight-user	{%22authToken%22:%226pjdlmkjhedjib8c6t598h8dr3jnol%22%2C%22displayName%22:%22d_jillian125_w%22%2C%22id%22:%22214568393%22%2C%22login%22:%22d_jillian125_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:22:37+00:00	auth-token	6pjdlmkjhedjib8c6t598h8dr3jnol

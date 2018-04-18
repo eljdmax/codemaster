@@ -1,0 +1,13 @@
+#e_charles316_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lTZ3B%2FkMgOLmdjFUTWzHcGUUkEo4GTvMJyg%2BMJrubIQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:40:54+00:00	unique_id	54892134b3e13ad8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:40:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:41:07+00:00	persistent	214558298%3A%3Az9hvqlpv4xbv5wz9dalurtv8l4p3ke
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:41:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTgyOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MDY4LCJpYXQiOjE1MjM4MjEyNjh9.n2-kQizWPZtzqSftEFKT3hah3AAYJgrA6Yf9RHKY_lgy4BaVbdqTttyVVJlh2EMTu1vOt8WMMBINRrazPC2nkg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:41:07+00:00	login	e_charles316_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:41:07+00:00	name	e_charles316_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:41:07+00:00	last_login	2018-04-15T19:41:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:41:07+00:00	api_token	5652b61823aa25b2811e77f68dce479c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:41:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfY2hhcmxlczMxNl83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzI2OCwiaWF0IjoxNTIzODIxMjY4LCJub25jZSI6InpEV1pXWmtyemR1Z0MwT0otamVwcTZCNVZ3QXdjVFlCNlhibGVHRjRzeTg9In0%3D.7Ai9FyKvV5kfPEFrGZBGCpJ-9qLKheXzP4f0pvehu2zKS8Eog-e_UNC2Zq8AKYtVEfpdt-YfqsHFqikvhL6-zg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:41:47+00:00	twilight-user	{%22authToken%22:%22eixq6k0l6d5bc8tqlo554tbd2l30ew%22%2C%22displayName%22:%22e_charles316_7%22%2C%22id%22:%22214558298%22%2C%22login%22:%22e_charles316_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:41:47+00:00	auth-token	eixq6k0l6d5bc8tqlo554tbd2l30ew

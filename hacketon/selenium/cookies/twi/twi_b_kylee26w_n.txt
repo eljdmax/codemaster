@@ -1,0 +1,14 @@
+#b_kylee26w_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IODRxkcLYMuKvL2M17C5Y9PIrtmJeYvPoTdyVLO0Nqg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:12:11+00:00	unique_id	fb7c676e84ebf3ac
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:12:11+00:00	_twitch_session_id	aafd32d209bd76376dde9d68b9948c62
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:12:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:12:30+00:00	persistent	214591628%3A%3Afw8ypazw5dd798hba5t2setzk8979n
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:12:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTE2MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1MTUwLCJpYXQiOjE1MjM4MzAzNTB9.EcPWrVZFYrK88hUnzenuVb11hYQzEKw1JFEETs4NCixXSU_mllO12In0fR5BdMV9PIuaPkYYdazWpGYqb86RSA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:12:30+00:00	login	b_kylee26w_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:12:30+00:00	name	b_kylee26w_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:12:30+00:00	last_login	2018-04-15T22:12:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:12:30+00:00	api_token	acb60ef6531f9ccd0de4e70ec0935e54
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:12:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa3lsZWUyNndfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODIzNTAsImlhdCI6MTUyMzgzMDM1MCwibm9uY2UiOiIzWjZ2SDNLZlVXcWlmcElwLWtwbEJxQTJLUDNqQ1BvU2FNeFNmSkZBemdrPSJ9.ILvj91tReWjLLCd-e1qLV9qdP1au6VirOkWW_sUckKFkViwNJrRaBn-1_IvRL3M-LC8fUsncVmpVij7mKstkqw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:13:09+00:00	twilight-user	{%22authToken%22:%2225waa5821cgldrrfdn7b49hhpfcjet%22%2C%22displayName%22:%22b_kylee26w_n%22%2C%22id%22:%22214591628%22%2C%22login%22:%22b_kylee26w_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:13:09+00:00	auth-token	25waa5821cgldrrfdn7b49hhpfcjet

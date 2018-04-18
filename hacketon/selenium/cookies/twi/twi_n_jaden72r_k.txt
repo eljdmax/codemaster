@@ -1,0 +1,14 @@
+#n_jaden72r_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8hdccxabP88IpansyK8Tg4GlyKGROVJJYPG6z10ERlY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:11:39+00:00	unique_id	c100e58f1d9d4cdc
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:11:39+00:00	_twitch_session_id	b89b7b7674cd206e2977a7bdfbe84aea
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:11:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:12:03+00:00	persistent	215087875%3A%3A6j4pmeh8zfslsars0xn73daiuy6trl
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:12:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODc4NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3OTIzLCJpYXQiOjE1MjQwMDMxMjN9.4rn4hZbZyf43XJElZYdHmDV-UTbajuIyigMdU5FNtO3p2XoeiKHqItIyWhGomV6dy4oH-MjLZpsF3rSj1WrX1g==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:12:03+00:00	login	n_jaden72r_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:12:03+00:00	name	n_jaden72r_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:12:03+00:00	last_login	2018-04-17T22:12:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:12:03+00:00	api_token	f98b1e5704f5f24853c8153b191dd307
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:12:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5famFkZW43MnJfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTUxMjMsImlhdCI6MTUyNDAwMzEyMywibm9uY2UiOiJhTnpsY25DbmExY3ZodEdpcGo4Xzk1UHUyZm1zRS1takt0ajBvUWlCbmVZPSJ9.aC1N46wBBgWl2NziBK0bWliv9Utx184cfANxcAcnA8_0j2LKSjWyP_b-uLRmRSrkFnLQWyiLkUK39ZOm79q0ew%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:12:51+00:00	twilight-user	{%22authToken%22:%2205gmwmq8cnnl2c7mqaidd47uhupsk1%22%2C%22displayName%22:%22n_jaden72r_k%22%2C%22id%22:%22215087875%22%2C%22login%22:%22n_jaden72r_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:12:51+00:00	auth-token	05gmwmq8cnnl2c7mqaidd47uhupsk1

@@ -1,0 +1,14 @@
+#n_angela27w_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F%2FZ14Hj8GcQ8Du0AdQ9vnhF9WCkwYb7E9X6l54YgDw0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:13:05+00:00	unique_id	f71fd1724e0f8339
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:13:05+00:00	_twitch_session_id	f44adb0f451619f75fb2e8b92689bfa9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:13:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:13:35+00:00	persistent	214802779%3A%3Amawt6edlf8jf1f4d743zza29onrlch
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:13:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDI3NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNjE1LCJpYXQiOjE1MjM5MTY4MTV9.KBbDfpuo7SMMKX44WpuYc9bya1a-v5kNQeZ1_GZWuZiABW3OY1n_hqZqL5sFuyciChnQ2GXE1olBhy6SWln0KQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:13:35+00:00	login	n_angela27w_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:13:35+00:00	name	n_angela27w_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:13:35+00:00	last_login	2018-04-16T22:13:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:13:35+00:00	api_token	9fec54d0387f1b52cbf896d8272ff498
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:13:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYW5nZWxhMjd3X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY4ODE1LCJpYXQiOjE1MjM5MTY4MTUsIm5vbmNlIjoiQ1k1VzA5VW9sLWx2Nm9oUXlNbUY1WFkxZ1JfS1FudFVFbWtOWW4wTUNGYz0ifQ%3D%3D.YDVQtw56aeQzSvyJwjmGWY8RArRE12MzTQJjKdHGSGBnMLq6hqxPTTM_rsidBLCAa74-IrLaNI5c9tLi_YKwew%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:14:24+00:00	twilight-user	{%22authToken%22:%22nhypwcuo517m0mif6v2z8ovpx813g3%22%2C%22displayName%22:%22n_angela27w_g%22%2C%22id%22:%22214802779%22%2C%22login%22:%22n_angela27w_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:14:24+00:00	auth-token	nhypwcuo517m0mif6v2z8ovpx813g3

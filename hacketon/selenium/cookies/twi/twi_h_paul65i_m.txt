@@ -1,0 +1,14 @@
+#h_paul65i_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iN1OKf%2F5M8g3GYseBG5tGp5HkXfk%2BaoAHYDv2X9Kv9Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:52:28+00:00	unique_id	9f835ef33c1f91de
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:52:28+00:00	_twitch_session_id	89b8a475edd03573aef8f7c657033a60
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:52:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:53:07+00:00	persistent	214587886%3A%3Amrmu1bxy3cto2ktlefna0f50cqjnxx
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:53:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODc4ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzOTg4LCJpYXQiOjE1MjM4MjkxODh9.i2tJOt_5ZOsfIQOrGE41hQIdVlug5F19e-uF2p1jViWWhd3UPaeblMOSe8QmGf-sBOQJJYt3-oSky4GndlxNpQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:53:07+00:00	login	h_paul65i_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:53:07+00:00	name	h_paul65i_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:53:07+00:00	last_login	2018-04-15T21:53:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:53:07+00:00	api_token	a81504f24257f243f0dd971787cd2ff2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:53:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfcGF1bDY1aV9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MTE4OCwiaWF0IjoxNTIzODI5MTg4LCJub25jZSI6Im1EUWszLUlMaVJRMm9LelBPM1E1eHdnOFBCWlZCRU5XNnpxNWtLMzlyNTA9In0%3D.Oj0D2-DR7bYzU4Xq8CefeNELiU16nHmH9mVf4pdX512Z3Dtc4Bb5fGUxQQho-X86E7am08UgAnRA9xcz0iw3HA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:53:48+00:00	twilight-user	{%22authToken%22:%22m6yzu3a03sjvhd0csfftjfkgzhynfc%22%2C%22displayName%22:%22h_paul65i_m%22%2C%22id%22:%22214587886%22%2C%22login%22:%22h_paul65i_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:53:48+00:00	auth-token	m6yzu3a03sjvhd0csfftjfkgzhynfc

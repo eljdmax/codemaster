@@ -1,0 +1,13 @@
+#q_aarono2l_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sX2%2FiwZMXlN94BWbWUMm1DgBCUg%2FRi8zUdNGIxp4FOA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:24:24+00:00	unique_id	8e83b0f5c338b23e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:24:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:24:43+00:00	persistent	215090606%3A%3A0xfbfse6kvzbn6svrqvqua34daueia
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:24:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTA2MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4NjgzLCJpYXQiOjE1MjQwMDM4ODN9.V630upZVjM1nnCOsiLhQ-GBLwe-pkJTfTbK-SyQeNVkRqfK3GoAgo8n4EZ1b9FmtxZOpO2jCUCKctbTSjpRJ-w==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:24:43+00:00	login	q_aarono2l_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:24:43+00:00	name	q_aarono2l_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:24:43+00:00	last_login	2018-04-17T22:24:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:24:43+00:00	api_token	17338314152bb14fb131b9f23534a0ec
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:24:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYWFyb25vMmxfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTU4ODMsImlhdCI6MTUyNDAwMzg4Mywibm9uY2UiOiJxTzEtOGdzZG1PVy1DSmJSU3IwWWFoLXNkWXQ5LXRoQUp6YkVWVjI3WEVFPSJ9.dyGpvTRDpAWsosjIHJ_pyqRI0WZEfwMZ_x2dMnnC3c1gMIO-dBcK-yS44NEBfszl-xG7G_0uYG9Og1UIUKBJ0w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:25:31+00:00	twilight-user	{%22authToken%22:%22c4ak8xj5hb5swdil7t0k0vz4neoeun%22%2C%22displayName%22:%22q_aarono2l_v%22%2C%22id%22:%22215090606%22%2C%22login%22:%22q_aarono2l_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:25:31+00:00	auth-token	c4ak8xj5hb5swdil7t0k0vz4neoeun

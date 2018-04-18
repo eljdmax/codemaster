@@ -1,0 +1,14 @@
+#r_lilly304_f
+.twitch.tv	TRUE	/	TRUE	2028-04-12T21:34:44+00:00	unique_id	b9a94f384803e9a5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	L5wBzkhyEK1ez3br2dNwooEsjSfAbbjJa4JxdC82w%2Bc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:37:40+00:00	_twitch_session_id	7a968fcdaa40530d75b64ef42fa8e6db
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:37:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:38:00+00:00	persistent	214572155%3A%3Awudbrq5yom7c6upqjs5keows8omeuz
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:38:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzIxNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NDgwLCJpYXQiOjE1MjM4MjQ2ODB9.v-Epa2twQqrnzcmPjv6HEPtFhxGapByStpP0r493SgEJSCA6OjttXczuYSnibgjorJnnnVTP9c_ZXxS0g6t8Ag==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:00+00:00	login	r_lilly304_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:00+00:00	name	r_lilly304_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:00+00:00	last_login	2018-04-15T20:38:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:38:00+00:00	api_token	2d2009be42bdde2641f02a240289d76e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:38:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbGlsbHkzMDRfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzY2ODAsImlhdCI6MTUyMzgyNDY4MCwibm9uY2UiOiJyNm52WTdzSlJlZUFhQzVNTW91ejhQVkQ2cTZ0clNFazZsbDlCaThLQTAwPSJ9.2YXiAae748ny-nzATOCNGnoQtTmSFX-k2SO8DgT-MXY8kQ5RC5mb0cmveX-vk2MJKoZLI7MlC-SOInGKtQUiYQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:38:41+00:00	twilight-user	{%22authToken%22:%22df0beqnxgr2r0hebytiflw03ml4olf%22%2C%22displayName%22:%22r_lilly304_f%22%2C%22id%22:%22214572155%22%2C%22login%22:%22r_lilly304_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:38:41+00:00	auth-token	df0beqnxgr2r0hebytiflw03ml4olf

@@ -1,0 +1,15 @@
+#a_leonardo69y_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KIEcm8jzTbMNId163Wmdcw7%2FmA0ESRH6yt5CTnlwvGM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:46:42+00:00	unique_id	a18d57595063e941
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:46:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:47:01+00:00	persistent	214586708%3A%3Af6ir9njkhv9hszlkm6zwefjqk2ql33
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:47:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODY3MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzNjIyLCJpYXQiOjE1MjM4Mjg4MjJ9.dV-cFci9sZ0SiFfwfH62CZ2zmGhovg8ST-PdiKUj1fTPKONwJamAs3tgycciJ9CIaKj08rwoM1IZfOSvNmYEpA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:47:01+00:00	login	a_leonardo69y_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:47:01+00:00	name	a_leonardo69y_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:47:01+00:00	last_login	2018-04-15T21:47:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:47:01+00:00	api_token	8d41e129410df40ffbfc922b0bb746d2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:47:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbGVvbmFyZG82OXlfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODA4MjIsImlhdCI6MTUyMzgyODgyMiwibm9uY2UiOiJXemRERVZlYkZuVjJFMUpVeFJhVVFfalVFaDBSNnhDMm0tNXhaazhIbGYwPSJ9.HJR4x3pHUpvIr0v3JCRhwrI43J_1ajx_GKs4hcJgFdkvV0lT43iKobt6_lTXLvO7QEDB80uczckFKPiYiBiR6A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:47:41+00:00	twilight-user	{%22authToken%22:%226h8fjvznj93ynqy9x6u7i4oamala3s%22%2C%22displayName%22:%22a_leonardo69y_w%22%2C%22id%22:%22214586708%22%2C%22login%22:%22a_leonardo69y_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:47:41+00:00	auth-token	6h8fjvznj93ynqy9x6u7i4oamala3s
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:47:44+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	jg91L4hjn2CPVQQInVCckWvKPAlh8o9k

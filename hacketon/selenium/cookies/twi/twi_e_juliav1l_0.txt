@@ -1,0 +1,13 @@
+#e_juliav1l_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GaxObMFll%2B%2FSJroi2%2F5%2Bn%2BQoYPqJmY5fzYqexs3jR4k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:47:10+00:00	unique_id	669ed91ec813e6a4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:47:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:47:29+00:00	persistent	214574265%3A%3A5xoitrsq2j5f1bv061flb5gw9slnfl
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:47:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzQyNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwMDQ5LCJpYXQiOjE1MjM4MjUyNDl9.Uu8k2jqVg8ai3WngdPQDrG7T8HO9BfSSxT0A3cF3jDA6rMko5310BTm_GF1fZ8ggi_RrgJsRbEX1TVOByw-BWA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:47:29+00:00	login	e_juliav1l_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:47:29+00:00	name	e_juliav1l_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:47:29+00:00	last_login	2018-04-15T20:47:29Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:47:29+00:00	api_token	67a662776d5ca7484df7e9405b5b3641
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:47:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfanVsaWF2MWxfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzcyNDksImlhdCI6MTUyMzgyNTI0OSwibm9uY2UiOiJRZ2t4ckNsQ2djamtDRjVrOG03RDRpZVVpc0VfaTZlNHZqZ1RpangxbUNvPSJ9.9_dpCdlpKoIHtZEVsdgP_fhmtHS-UgrWt9fzWHVTaOYt9ZcRN8qfC4UryoHF_lRisU5u8Wu3KceeAnTl90MbHA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:48:08+00:00	twilight-user	{%22authToken%22:%22p309o32bdzrxlca0jqxlji84xm1r0w%22%2C%22displayName%22:%22e_juliav1l_0%22%2C%22id%22:%22214574265%22%2C%22login%22:%22e_juliav1l_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:48:08+00:00	auth-token	p309o32bdzrxlca0jqxlji84xm1r0w

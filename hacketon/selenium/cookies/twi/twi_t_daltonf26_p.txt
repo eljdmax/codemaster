@@ -1,0 +1,15 @@
+#t_daltonf26_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	e5klULwgpB0zqliVj03hgBA50%2FGm5yiZwIRHo8DLvXc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:48:48+00:00	unique_id	c45a911726aa3078
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:48:48+00:00	_twitch_session_id	cdd3482928c810aa90eee1906a37136d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:48:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:48:49+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:49:54+00:00	persistent	214785967%3A%3Aitwa9e0iqu4jr8by1chznre9ltn223
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:49:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODU5NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2NTk0LCJpYXQiOjE1MjM5MTE3OTR9.3vtMxMbr3NS36Li8WRQs2X4slL3G2cOSzT6V-Y3lq1U7qQ8ODFvz7mZP483bN_6GSiJ1fMpf4eeVQalIqzqfqw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:54+00:00	login	t_dan6_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:54+00:00	name	t_dan6_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:54+00:00	last_login	2018-04-16T20:49:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:49:54+00:00	api_token	3cac5b75213b470a0aad2b2a3f60b54c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:49:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZGFuNl9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2Mzc5NCwiaWF0IjoxNTIzOTExNzk0LCJub25jZSI6IjlieC1aX2E3SEhJQk1jZ09uWlFXREpNWHJDNElsSi1nSmtha3JCQ2FfWHc9In0%3D.CHN1PdRJASPVx58VJo00HrSQaXC9fRZhroGndf0kuwTJ_PYy_hgKgVaAA8ryQAAH0yPtySdm_x8-uV60iRKKIQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:50:39+00:00	twilight-user	{%22authToken%22:%22ooudvi83u9wgkifp1tu5bqkkwgb8jj%22%2C%22displayName%22:%22t_dan6_p%22%2C%22id%22:%22214785967%22%2C%22login%22:%22t_dan6_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:50:39+00:00	auth-token	ooudvi83u9wgkifp1tu5bqkkwgb8jj

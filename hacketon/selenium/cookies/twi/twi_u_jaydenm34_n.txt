@@ -1,0 +1,13 @@
+#u_jaydenm34_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PPNTtyTEWGjDIo%2B4ECrcr%2BI448FXQVU1N413QdHeZuM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:32:58+00:00	unique_id	5774c4477c404cf5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:32:58+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:33:18+00:00	persistent	214584028%3A%3Ap7t3gvhcnzeygake7z5kf2kboqwqht
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:33:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODQwMjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyNzk5LCJpYXQiOjE1MjM4Mjc5OTl9.4sxsil99ZcCxHt8J8mQn2C8W7tYSJYgdRphffKzI9AuSpyDo1wGfhsgu6SjhgESgdDScysyDaNToAh4pPLWw5g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:33:18+00:00	login	u_jaydenm34_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:33:18+00:00	name	u_jaydenm34_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:33:18+00:00	last_login	2018-04-15T21:33:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:33:18+00:00	api_token	35616033273fdf2cf960eef808a1eda5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:33:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamF5ZGVubTM0X24iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc5OTk5LCJpYXQiOjE1MjM4Mjc5OTksIm5vbmNlIjoiSEwtVjhtNlpIcHotTmYyajIxLTdUQ1pfSWdKNjJuNlM3bXpDbTh3WFd6az0ifQ%3D%3D.XbZgr2oXsVee1w7r6AQZCbS1HYEMJE805lFJJjqW0q2zIJOo-7tRngsFbCwxoEjLXqJVSBkAqmkrtvseGKVOnQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:33:58+00:00	twilight-user	{%22authToken%22:%22gemkv06g0kncz3vhjfs9jmgjhho1sj%22%2C%22displayName%22:%22u_jaydenm34_n%22%2C%22id%22:%22214584028%22%2C%22login%22:%22u_jaydenm34_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:33:58+00:00	auth-token	gemkv06g0kncz3vhjfs9jmgjhho1sj

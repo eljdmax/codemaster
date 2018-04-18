@@ -1,0 +1,13 @@
+#o_aidan950_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PTJqJpr9QG9z8mKWqNyK35hTaGfrZtXZRy%2Bt8nCZ3hE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:04:25+00:00	unique_id	b0873f2e9cfbf0a8
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:04:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:05:09+00:00	persistent	214789251%3A%3Azr2390rc4u7uoo7c5s38gj8gea9tor
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:05:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODkyNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3NTEwLCJpYXQiOjE1MjM5MTI3MTB9.YcnDdRvT3QchIPb5eeC0qrQXjFMjYe4hBKk_LhgAoYBRkRdFftAMDxO5qmmDxAe7iEXRERndyl4y0qb7TDi9ag==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:05:09+00:00	login	o_aidan950_z
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:05:09+00:00	name	o_aidan950_z
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:05:09+00:00	last_login	2018-04-16T21:05:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:05:09+00:00	api_token	02cbd23acc9ee8e9548727c86320255d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:05:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYWlkYW45NTBfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQ3MTAsImlhdCI6MTUyMzkxMjcxMCwibm9uY2UiOiJ1QUsxMGNHU2huc2hTZm9GVTVJWXJ5YlF2bV9xZ0xBSDlsNVFJTzhuMnpFPSJ9.rMx0LvRslTHea8wj37GjXB1FU4TeWBNDYj2LDuIFHXJH9erpI-pjbnjsxuWxH69Aq9kkH7Ye1g30LpUZGBpsFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:05:57+00:00	twilight-user	{%22authToken%22:%224hkp6uy3z7vlu6jgzw82qaqi8ffr45%22%2C%22displayName%22:%22o_aidan950_z%22%2C%22id%22:%22214789251%22%2C%22login%22:%22o_aidan950_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:05:57+00:00	auth-token	4hkp6uy3z7vlu6jgzw82qaqi8ffr45

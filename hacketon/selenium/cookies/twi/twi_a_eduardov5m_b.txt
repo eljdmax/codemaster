@@ -1,0 +1,13 @@
+#a_eduardov5m_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nGQOyluODFGdEilEF0R8xZmlGGOKe8CY51VOHYgdwYE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:07:43+00:00	unique_id	ee2013ef07e290b6
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:07:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:07:58+00:00	persistent	215058262%3A%3Aka8l6jihj2k8ff39ttuux7eygggtb7
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:07:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTgyNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNDc5LCJpYXQiOjE1MjM5OTU2Nzl9.xNUzMQpkvDublxfY8rtl_OoNLJaSe7SMfUJ_apRTDh8zQigm8oN3pCi4yIwBz3ezH9CjoRQuxNJMNAHjZ_QhPg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:07:58+00:00	login	a_eduardov5m_b
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:07:58+00:00	name	a_eduardov5m_b
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:07:58+00:00	last_login	2018-04-17T20:07:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:07:58+00:00	api_token	efbe7941a94339f344083b5f32a5999e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:07:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfZWR1YXJkb3Y1bV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0NzY3OSwiaWF0IjoxNTIzOTk1Njc5LCJub25jZSI6IkZ4d3hHSmozSE5oaTVJeTgyTC1aOGlKRklBXzdRa0JMNmNIdk51ZEdQc0k9In0%3D.m6rYQe5HUftigqnF1-Kfm3l4HU6nQqwc-qkyqITZHYvg25SZ3d20m1xfMV23hs0MxKqGLx8Pt1sFDIu5gNkq3A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:08:47+00:00	twilight-user	{%22authToken%22:%22iebzz7ia6xsfeeppfivg9fbef162xz%22%2C%22displayName%22:%22a_eduardov5m_b%22%2C%22id%22:%22215058262%22%2C%22login%22:%22a_eduardov5m_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:08:47+00:00	auth-token	iebzz7ia6xsfeeppfivg9fbef162xz

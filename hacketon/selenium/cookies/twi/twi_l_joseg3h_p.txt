@@ -1,0 +1,14 @@
+#l_joseg3h_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B5%2BAHZj1240AFDthmR9J1Fg3jamPC8ZU0aq6w5uVXMQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:56:05+00:00	unique_id	c377ed5c564926b9
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:56:05+00:00	_twitch_session_id	72c2e50bc4fd78897a93a0e0f4c2bc7f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:56:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:56:24+00:00	persistent	214787393%3A%3Asg7cs4fjpvq0tckflosbu64aguhevx
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:56:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODczOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2OTg0LCJpYXQiOjE1MjM5MTIxODR9.qjSUBs_9LpwhBCYYVCqfUNXjKU2k1Xu0zh49JM_oIxBJ0TFrMIjsyA8srgFHHFEnVgxcnJOodzo_MYB1r_27og==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:56:24+00:00	login	l_joseg3h_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:56:24+00:00	name	l_joseg3h_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:56:24+00:00	last_login	2018-04-16T20:56:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:56:24+00:00	api_token	3677977746d4afbaacda37de1c9c29db
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:56:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfam9zZWczaF9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NDE4NCwiaWF0IjoxNTIzOTEyMTg0LCJub25jZSI6InBUcFp3aVpSNjVkT01lcDE0ek8wTU5WanpWN2lSNUFjOG1EUHhxRVNDOTg9In0%3D.tNVQ4mx7ahXhy9rVxMCQwFGLPP0duYAJPEXpBlOaYlCAvfvBIka4oET8ReRurHByqEc7fuO42JF98EK7V3FYvg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:57:09+00:00	twilight-user	{%22authToken%22:%22rbq5fdm7b9kzv1js4f0ez1vgjbmehk%22%2C%22displayName%22:%22l_joseg3h_p%22%2C%22id%22:%22214787393%22%2C%22login%22:%22l_joseg3h_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:57:09+00:00	auth-token	rbq5fdm7b9kzv1js4f0ez1vgjbmehk

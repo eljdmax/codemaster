@@ -1,0 +1,13 @@
+#v_alexandra53c_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LjPJivq1u4KdkToh%2B140Qp1DtlEe2n2qGnZUzeDN1gE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:50:29+00:00	unique_id	14938e577c945c3d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:50:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:50:56+00:00	persistent	214819556%3A%3Agdb0zqbc0xnq8fi4estyy00rvw1y6h
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:50:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTk1NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzODU3LCJpYXQiOjE1MjM5MTkwNTd9.8yFxKimQmJet5MHzq3iKeX6y2J1Ia3hGQTwfd8b6ptMVIiPDtY3Vaxehqs3qOFHf0Z7mFs7bADPMJxhhyJXjqw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:50:56+00:00	login	v_alexandra53c_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:50:56+00:00	name	v_alexandra53c_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:50:56+00:00	last_login	2018-04-16T22:50:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:50:56+00:00	api_token	8938d4cb8e058e6b8b9edcbe13002351
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:50:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYWxleGFuZHJhNTNjX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcxMDU3LCJpYXQiOjE1MjM5MTkwNTcsIm5vbmNlIjoidzBYNDRjdUVvU1dMNHBWNnNFd0pQR3diVXp6XzBON0ltdm9adFNGeVEzST0ifQ%3D%3D.18NC5-0PkSDbuBQYJJrrk-Qc7kOGoCT-yQ9siD1U-BL1LTipbPNotjfPviiMJ0r43aJUDOEQWIyKDnPCocc_7g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:51:44+00:00	twilight-user	{%22authToken%22:%22366o1gtqisaffmdqfxb6b3tkbdcz1g%22%2C%22displayName%22:%22v_alexandra53c_v%22%2C%22id%22:%22214819556%22%2C%22login%22:%22v_alexandra53c_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:51:44+00:00	auth-token	366o1gtqisaffmdqfxb6b3tkbdcz1g

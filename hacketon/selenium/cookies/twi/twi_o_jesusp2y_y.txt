@@ -1,0 +1,13 @@
+#o_jesusp2y_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ej%2F0KG1OsReESVaN6pPKGMsmppSYBTIsEb5ywYbHZiw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:00:16+00:00	unique_id	e1f2b54d5af0270d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:00:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:00:32+00:00	persistent	214589333%3A%3Aw849one7e09cb6imqqm4chwotqlwr8
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:00:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODkzMzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NDMzLCJpYXQiOjE1MjM4Mjk2MzN9.bznl1zL0fmxTe3rxS5rn1fF8E7tOhdLGB0ZZ-6-e8LbCnLu8lU8vDOF2gnVUNUDguOTsru7t9-zzMyI9GEbaEQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:00:32+00:00	login	o_jesusp2y_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:00:32+00:00	name	o_jesusp2y_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:00:32+00:00	last_login	2018-04-15T22:00:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:00:32+00:00	api_token	16bdc7682786bda547e4e254b014a07b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:00:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famVzdXNwMnlfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODE2MzMsImlhdCI6MTUyMzgyOTYzMywibm9uY2UiOiJ2cTVaSTNJRG5RMjQ3OHp1eW14dHdhVkUwNk9mNmhXc2IyZ1lkQjhuS25zPSJ9.NcoqCD-BU3rg0syr-WJSc2kEOJYYYEwmXoXIM4XqtamonayDIL8RvxEiuzgcHfunfKATPD43B-x3JGiJK-Gs7A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:01:12+00:00	twilight-user	{%22authToken%22:%22jko5897q38q7erbr6eeub2jfm7wv9m%22%2C%22displayName%22:%22o_jesusp2y_y%22%2C%22id%22:%22214589333%22%2C%22login%22:%22o_jesusp2y_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:01:12+00:00	auth-token	jko5897q38q7erbr6eeub2jfm7wv9m

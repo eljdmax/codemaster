@@ -1,0 +1,14 @@
+#w_alexis180_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BObZ2iBwb6fTjSq32zVXBr2WA7l05%2BPImFSQlENOTNQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:10:49+00:00	unique_id	3ac9b0dde57226df
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:10:49+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:11:13+00:00	persistent	214565831%3A%3A7cp1xuknsgrd5p1706g6r5atjguy1g
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:11:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjU4MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3ODc0LCJpYXQiOjE1MjM4MjMwNzR9.p2ZspKvq9ufqIyhOjjinzFlNGVxo1uxY4fBDDsQqu8WiVTRoDXZWZCDfJaWDtQgBvnCyL7rAV2K_tJlZUIhI0w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:11:13+00:00	login	w_alexis180_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:11:13+00:00	name	w_alexis180_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:11:13+00:00	last_login	2018-04-15T20:11:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:11:13+00:00	api_token	0bb467af3ca88561f4daed4de8a6cbe9
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:11:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYWxleGlzMTgwX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc1MDc0LCJpYXQiOjE1MjM4MjMwNzQsIm5vbmNlIjoiR2lRdUtkQm1KRU9CeVk0MTlKR2NKRDVfLWRjZWdNNncyWUZmZlJaOTJzcz0ifQ%3D%3D.qLyJrn26y9GU5-t_cM4IxRMM8M6QfOtIprFNvIdTWI5DXNEr6f0Fto17_dLZfMquQCJo-E1XgDU6OhsjwgGivQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	Cbaxpt2olP72YzOJxFopkYxNpX4bP5V7
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:12:01+00:00	twilight-user	{%22authToken%22:%2294r21zn4sfgiz9e5up15d09ew93y8h%22%2C%22displayName%22:%22w_alexis180_h%22%2C%22id%22:%22214565831%22%2C%22login%22:%22w_alexis180_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:12:01+00:00	auth-token	94r21zn4sfgiz9e5up15d09ew93y8h

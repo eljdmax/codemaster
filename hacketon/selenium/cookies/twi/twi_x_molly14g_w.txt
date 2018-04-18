@@ -1,0 +1,13 @@
+#x_molly14g_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EyuLykeNXFgQhH%2FitfiHClhKCrZrT7cUHecVLABQyWc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:36:04+00:00	unique_id	fe37e8d19dd0f6f3
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:36:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:36:50+00:00	persistent	214783297%3A%3Avicyzcmjqzpkq1a2khvz36gvzcpclk
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:36:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODMyOTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1ODEwLCJpYXQiOjE1MjM5MTEwMTB9.rlStOv5JWReBohNtAJ0VbHpJRt4q8cx2Yumv1a1GRmwD2mA-8FjQmtN1TdblPetluubRNJ_XBQF1y24nTCZgPQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:36:50+00:00	login	x_molly14g_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:36:50+00:00	name	x_molly14g_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:36:50+00:00	last_login	2018-04-16T20:36:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:36:50+00:00	api_token	f1ce4481614ec19da73144e99ce7b1d3
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:36:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbW9sbHkxNGdfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjMwMTAsImlhdCI6MTUyMzkxMTAxMCwibm9uY2UiOiJlU25FdFRNQnNwaDNzNTZ1c29rM2J0T2llaVMzSjVTZ3VuYlowLXQ0dVlvPSJ9.yGcQD9N86QogAmsmYOOSzGSHsD8XOcxMQ1lWJNhOTorFbrK-QjxXRtsYnzLOaTNClIAi45dV7McsGCb5PeWNbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:37:35+00:00	twilight-user	{%22authToken%22:%22nxibxweat2sl8dunqfwtv6kl9euoek%22%2C%22displayName%22:%22x_molly14g_w%22%2C%22id%22:%22214783297%22%2C%22login%22:%22x_molly14g_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:37:35+00:00	auth-token	nxibxweat2sl8dunqfwtv6kl9euoek

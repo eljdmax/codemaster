@@ -1,0 +1,14 @@
+#r_parker01y_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RgB%2BeBRjVsRDD05kOJdMlmMnoQf%2BR%2FsOXLOTNlNU3cs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:53:35+00:00	unique_id	566a3fc1f49de784
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:53:35+00:00	_twitch_session_id	e8f82622c3ed8b5532b881432b9ca63c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:53:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:53:55+00:00	persistent	215083747%3A%3A6j4dy47izjjco6gdi2m3pw5ttg5c5k
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:53:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODM3NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2ODM2LCJpYXQiOjE1MjQwMDIwMzZ9.yLhK69jERLDmf1KrireAEhodT_avo1MgMlQQvkXGQe4XwmDNU-MW4Euz88Nc_t7QrzujYyBp6Nj53VEVyVCeXA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:53:55+00:00	login	r_parker01y_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:53:55+00:00	name	r_parker01y_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:53:55+00:00	last_login	2018-04-17T21:53:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:53:55+00:00	api_token	ae2a6326babcb573a97e9396d0f73cca
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:53:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfcGFya2VyMDF5X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU0MDM2LCJpYXQiOjE1MjQwMDIwMzYsIm5vbmNlIjoidDEwcFdaTnV4eGVFem1rejJ5RHdwSDdxVkxDaDBReU5KdXQyaGxoemMyWT0ifQ%3D%3D.x5zraV6cKIFMVBKxNMBp0MfcmWrIkvt-Uphciple3Fl3MD0Q3f0jAtiDoUOmoaHhYlvgrX1e3DtDws-gL5mpjQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:54:45+00:00	twilight-user	{%22authToken%22:%22gu1931z0005gl95wgl53mnylubq1xn%22%2C%22displayName%22:%22r_parker01y_a%22%2C%22id%22:%22215083747%22%2C%22login%22:%22r_parker01y_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:54:45+00:00	auth-token	gu1931z0005gl95wgl53mnylubq1xn

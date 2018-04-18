@@ -1,0 +1,14 @@
+#j_omark6o_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i%2BOTnDUipXhjsNdwR48I4YEMhs7r3olh7QRQbpK6OQk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:56:15+00:00	unique_id	54053f92470fdcc0
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:56:15+00:00	_twitch_session_id	0876f5c774341aae0435d6306310c5fa
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:56:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:56:34+00:00	persistent	214588543%3A%3Ahjeg97sgcnvbigo1bf1frctz6gx0sd
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:56:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODg1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0MTk0LCJpYXQiOjE1MjM4MjkzOTR9.CxGOFqcNfRf_QpEM2SbFO3A-4urSXzeuXt5vb6S3tw1Z5q3AsQa5DkFTrd78dPXh_lZE6C7ccxDaNWoHpLHBeA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:56:34+00:00	login	j_omark6o_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:56:34+00:00	name	j_omark6o_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:56:34+00:00	last_login	2018-04-15T21:56:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:56:34+00:00	api_token	c116817e6a0137244cbe8603d9626d58
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:56:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfb21hcms2b18yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MTM5NCwiaWF0IjoxNTIzODI5Mzk0LCJub25jZSI6Ik9VN2RvQUhSdExlaUd3SVo1ZWJFaTRGMk1QanU0bjJMRHlxNHhWc2VLMDQ9In0%3D.l7nJzQ7H4cU_muVHw4OPHeVS6pWwg9QOUAjsnVOug27V5p--8srmUecLzrL-T89eLSvZvOeQjwv9Dfb-QHNVAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:57:14+00:00	twilight-user	{%22authToken%22:%22u404hsv30vc3da1miyhc1orve34ssk%22%2C%22displayName%22:%22j_omark6o_2%22%2C%22id%22:%22214588543%22%2C%22login%22:%22j_omark6o_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:57:14+00:00	auth-token	u404hsv30vc3da1miyhc1orve34ssk

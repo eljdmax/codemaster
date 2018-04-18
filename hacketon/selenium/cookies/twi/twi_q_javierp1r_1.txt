@@ -1,0 +1,14 @@
+#q_javierp1r_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	a0Xo9EiNXSKj7iKUmaqiffJ0XuG1ZxR9Sb%2FgyZddrl8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:20:59+00:00	unique_id	bcc149fecb44eb0d
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:20:59+00:00	_twitch_session_id	394730248545a24abcd32efcbe00a395
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:20:59+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:21:22+00:00	persistent	215076458%3A%3A32sbjero8fw0w38k8xfejzv0hchsgn
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:21:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzY0NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0ODgyLCJpYXQiOjE1MjQwMDAwODJ9.vPTIiA3cR_H_cZqvbKFp28M6NuORu4FZAloxAv42tmqA2FdLvwNd0ID_BmgvjK-AcegxG1UTFxH4qkIleyk_8w==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:21:22+00:00	login	q_javierp1r_1
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:21:22+00:00	name	q_javierp1r_1
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:21:22+00:00	last_login	2018-04-17T21:21:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:21:22+00:00	api_token	58861950af13791e5ac7f8cae05512d1
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:21:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfamF2aWVycDFyXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUyMDgyLCJpYXQiOjE1MjQwMDAwODIsIm5vbmNlIjoiRG9hYmktZ21HUW9MY0ctT2N3MTFaS1ZFTUh4ckpxZ0ZoZkdOT0V0NjNQZz0ifQ%3D%3D.kiWICGHhno59TxAXYTS_9R2YnE4grP_Mh1mM7zz69TIrw_H_9BTQBRi2pF47jZ60MlYbPVhtbcla9I4zCDhywg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:22:11+00:00	twilight-user	{%22authToken%22:%220uvv5kev2by6no8zq5o2avmvluafed%22%2C%22displayName%22:%22q_javierp1r_1%22%2C%22id%22:%22215076458%22%2C%22login%22:%22q_javierp1r_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:22:11+00:00	auth-token	0uvv5kev2by6no8zq5o2avmvluafed

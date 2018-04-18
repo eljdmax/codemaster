@@ -1,0 +1,14 @@
+#m_jaydens9m_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LKi3q%2FL2rdHkwWzKQkpoYo6K1I%2Flf2OcLDmXuv63tEY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:20:11+00:00	unique_id	8753d65d00b80423
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:20:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:20:32+00:00	persistent	214568060%3A%3Afnlwywnpd4a6q4rwu9td8pw1pxvf32
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:20:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjgwNjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4NDMzLCJpYXQiOjE1MjM4MjM2MzN9.UtCSrzptALT6p_2fpHd0ar9ufgBXHSCyLnQ7LzmGVIldXorw748R0YIKjx5AntRkW4RrnUENjJ5xUHHTlZoheA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:20:32+00:00	login	m_jaydens9m_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:20:32+00:00	name	m_jaydens9m_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:20:32+00:00	last_login	2018-04-15T20:20:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:20:32+00:00	api_token	6ca3af3bf084706f5c54d8da716221af
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:20:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1famF5ZGVuczltXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc1NjMzLCJpYXQiOjE1MjM4MjM2MzMsIm5vbmNlIjoiVXBXYy1nOHZPOVloQTVpTnRsaW9FLUFOVlotSUNsUmlvN0dQTmw0a094cz0ifQ%3D%3D.dJTs8F1KiP5k1vmPXKvj1O-r2yuHfgTuYzJrLmZ3ZxzKReXAu7zEcUxQwdFhiz8QXRzPBkZx20ZTV3oADpknZg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:21:11+00:00	twilight-user	{%22authToken%22:%221kqffe3634bkvcefllre4dlu0jjp0s%22%2C%22displayName%22:%22m_jaydens9m_2%22%2C%22id%22:%22214568060%22%2C%22login%22:%22m_jaydens9m_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:21:11+00:00	auth-token	1kqffe3634bkvcefllre4dlu0jjp0s
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:21:14+00:00	twilight_onboarding	true

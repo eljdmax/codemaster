@@ -1,0 +1,14 @@
+#o_briana08h_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ha8X%2BP8qdNylbk2E5ksjJnlK3ShuvPf9MKd7itFV12c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:01:55+00:00	unique_id	5fbefc21111cc928
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:01:55+00:00	_twitch_session_id	3371b0de86d8e22a148aaf98cd3b40d8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:01:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:02:13+00:00	persistent	214589684%3A%3Aspfm0w1ad67pg3fb4rgfysynxsxcgr
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:02:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODk2ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NTMzLCJpYXQiOjE1MjM4Mjk3MzN9.bjx3q30xBGX3nrcNZTFyLW4wHFsleagB_2BpxHG2jzgRxvbjrb0vJLISmZm4Mvx0oAXu64Dc4a2RypKVdPc0Fw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:02:13+00:00	login	o_briana08h_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:02:13+00:00	name	o_briana08h_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:02:13+00:00	last_login	2018-04-15T22:02:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:02:13+00:00	api_token	936d36aea4eec761a84002aa46d93d53
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:02:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYnJpYW5hMDhoX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxNzMzLCJpYXQiOjE1MjM4Mjk3MzMsIm5vbmNlIjoiTEdnTE8yWHpXb1ZYLW8xd0ZGeElmVnlycGJ1cEVXVmdPbEZjUTRXdUlIbz0ifQ%3D%3D.ptYvUm2KZJNswOCQqQNB4Run9PZAS_aLGbK75HLt2za6njJf3biOIH61KnV1m_D3BEG3MIBGGv6iQv6TV0Dc3g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:02:53+00:00	twilight-user	{%22authToken%22:%221jm73413uocji6dtcug9a8mu9ocu65%22%2C%22displayName%22:%22o_briana08h_c%22%2C%22id%22:%22214589684%22%2C%22login%22:%22o_briana08h_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:02:53+00:00	auth-token	1jm73413uocji6dtcug9a8mu9ocu65

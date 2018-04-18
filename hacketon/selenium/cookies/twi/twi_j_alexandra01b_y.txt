@@ -1,0 +1,14 @@
+#j_alexandra01b_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zgF2z0fRiQ8%2FefDTFacxyUnGhfUQVfVu9RG9fhhBrRM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:34:05+00:00	unique_id	1f9b89ffa6602e86
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:34:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:34:30+00:00	persistent	214556506%3A%3Aq2i3sipopqpjakk1uhrvpiu6wkn1zg
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:34:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTY1MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NjcxLCJpYXQiOjE1MjM4MjA4NzF9.RuQI98saQg8qWEUW0UT3lmd45Yvh-icHjwGkVVfii0z2hxnGb3X4lzgv9Pw7QgtpmpLPBpeRX2xeLj92GyF8wg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:34:30+00:00	login	j_alexandra01b_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:34:30+00:00	name	j_alexandra01b_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:34:30+00:00	last_login	2018-04-15T19:34:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:34:30+00:00	api_token	5932e1e73b2f8fa749a7f590fceaab42
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:34:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWxleGFuZHJhMDFiX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyODcxLCJpYXQiOjE1MjM4MjA4NzEsIm5vbmNlIjoid1g4OUJSMS1WeWxnbk5rUzRCQllOVXk0M1owYWdlNzZKZzQ2MnI4V0FVaz0ifQ%3D%3D.jh3ioreduSJETPJI4j8odSQJ72II2-a3wd44iTOiwWn9FHPVnMBVnsWMmHaFkj5gdvzy-KHHo23mLmlcbOm-2g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:35:09+00:00	twilight-user	{%22authToken%22:%228wbxgqsvwu230tyc3gbnu68pw5uype%22%2C%22displayName%22:%22j_alexandra01b_y%22%2C%22id%22:%22214556506%22%2C%22login%22:%22j_alexandra01b_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:35:09+00:00	auth-token	8wbxgqsvwu230tyc3gbnu68pw5uype
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:35:13+00:00	twilight_onboarding	true

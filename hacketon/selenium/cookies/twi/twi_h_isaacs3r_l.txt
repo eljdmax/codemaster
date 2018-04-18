@@ -1,0 +1,14 @@
+#h_isaacs3r_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KlxbMJyn1%2BZEDypIOrFFRYJ1b%2B7w8WzHDstbDEZnLbY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:06:44+00:00	unique_id	b3b8604a36a9dae6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:06:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:07:07+00:00	persistent	214564839%3A%3Am5f9a1kphz24juj35rcr2aiww6257p
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:07:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjQ4MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3NjI4LCJpYXQiOjE1MjM4MjI4Mjh9.XrnNH1SMBKC7pTmhHqCYsdkracBjBFf_aGHA_DVu-hEVC9gsApIBf6uklf0muC20bD4fW4tPPp_ewc-Ybi51nQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:07:07+00:00	login	h_isaacs3r_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:07:07+00:00	name	h_isaacs3r_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:07:07+00:00	last_login	2018-04-15T20:07:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:07:07+00:00	api_token	a597f40624d97594058690e0e6a835bb
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:07:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfaXNhYWNzM3JfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzQ4MjgsImlhdCI6MTUyMzgyMjgyOCwibm9uY2UiOiJpdENzaEM5bFJrNHVJV09Fam53RlU3WVN1SElCTXh3U21faWNISXpjY1BNPSJ9.IZq7ZD1C8uQgi7ysVrjv9IFXgN4t3wC30d9BRIvD5bj1M2cpro4_hY0772j31Rvzak9HcTeLsOT2Lp_ynvvgrg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:07:47+00:00	twilight-user	{%22authToken%22:%22wnb7hm7h3tklde53e6lwx1km6oyqig%22%2C%22displayName%22:%22h_isaacs3r_l%22%2C%22id%22:%22214564839%22%2C%22login%22:%22h_isaacs3r_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:07:47+00:00	auth-token	wnb7hm7h3tklde53e6lwx1km6oyqig
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:07:49+00:00	twilight_onboarding	true

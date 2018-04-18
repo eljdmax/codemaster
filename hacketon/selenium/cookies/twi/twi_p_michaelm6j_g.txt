@@ -1,0 +1,13 @@
+#p_michaelm6j_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	OqTs%2BeiFMdpQuFZwqAdfeHsZGRQCTwCWHj74NRokV38%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:55:40+00:00	unique_id	11858bdf0d91bb60
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:55:40+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:56:04+00:00	persistent	214562080%3A%3Aku6zg1wki3cu3pfusvf6hh6awb60za
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:56:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjIwODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2OTY1LCJpYXQiOjE1MjM4MjIxNjV9.0978qvC1nQD_yG7YEgLVKuENtWcM-KIDLpH8FA65fd1LkALii9e11S7HQvfDCGJc2dv17QrIDKab681oemYAiw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:56:04+00:00	login	p_michaelm6j_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:56:04+00:00	name	p_michaelm6j_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:56:04+00:00	last_login	2018-04-15T19:56:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:56:04+00:00	api_token	6b60919ead806b399c34f59eba6267e4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:56:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbWljaGFlbG02al9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDE2NSwiaWF0IjoxNTIzODIyMTY1LCJub25jZSI6IkxDUk9uT2NOSV9Qam92UHpMUXpxWU45a21oay13ZUQ3clpYREdvRS1BLU09In0%3D.z31JxmitDv55oTBQqGD7yGrDQcYGrhFOawmSa8Fg66xfiuDxMIe5WEuJBNE5BU6XJHlXTDPm3Psygxl4vdqVvw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:56:44+00:00	twilight-user	{%22authToken%22:%22im03djwhxugwkwd78ndr9zswcmehh0%22%2C%22displayName%22:%22p_michaelm6j_g%22%2C%22id%22:%22214562080%22%2C%22login%22:%22p_michaelm6j_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:56:44+00:00	auth-token	im03djwhxugwkwd78ndr9zswcmehh0

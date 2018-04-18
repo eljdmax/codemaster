@@ -1,0 +1,14 @@
+#u_veronica69c_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KE9zdjQegMww0zFTF%2FlZly4YVSDjpzSd7e3Prx37zQI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:44:14+00:00	unique_id	f4bfad5ec9194784
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:44:14+00:00	_twitch_session_id	39be6600746c6e90469483c859b8273e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:44:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:44:51+00:00	persistent	214586285%3A%3Aubzs01le8qy2ttz3u18fla9uucu7e5
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:44:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODYyODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzNDkxLCJpYXQiOjE1MjM4Mjg2OTF9.SZehBw6E5h7D_K4jVfVWG7J7t3BF0NtwWm47GvBCTMGpgXpCw4vGFSXIdPnQa7xEQFalYw2GQ0-v4LQAklt2KQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:44:51+00:00	login	u_veronica69c_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:44:51+00:00	name	u_veronica69c_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:44:51+00:00	last_login	2018-04-15T21:44:51Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:44:51+00:00	api_token	c5167aaa0115d8185e1a0eca619f001f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:44:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfdmVyb25pY2E2OWNfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODA2OTEsImlhdCI6MTUyMzgyODY5MSwibm9uY2UiOiJNdnZhM3AxX2JEWmo0NDQ1cmdnTmJKYk5ja2RQYzRacm92MmJPNWlmZmZvPSJ9.nSHTmFicRsU8nw3lwY5PJ4peboEebO3tzyDRsPEOHfwGymFOvzI9kTkI24qI7FdFSt2O36KgVK6PsuT-vA3rCA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:45:29+00:00	twilight-user	{%22authToken%22:%22h9vopmik1cc45a5xujzdehguoychlh%22%2C%22displayName%22:%22u_veronica69c_g%22%2C%22id%22:%22214586285%22%2C%22login%22:%22u_veronica69c_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:45:29+00:00	auth-token	h9vopmik1cc45a5xujzdehguoychlh

@@ -1,0 +1,16 @@
+#q_luke88a_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XwsuMUVeXuMAZW5Og7qNCZuobBjr45hdCEAJSFTxG%2BE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:48:34+00:00	unique_id	52caa0749a6b03fc
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:48:34+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:49:01+00:00	persistent	214785776%3A%3Acg9punp0roh5jm0e7a5cfuh4vzk2tz
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:49:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODU3NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2NTQyLCJpYXQiOjE1MjM5MTE3NDJ9.xTuJQhQq-DEUrcAYCyFHiGv5NAVZ2sdhAjCbnRVymIkJ4SdlEMFt9hRwITIPmgpWxSaAkLAFO5YKBmDiidW_sg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:01+00:00	login	q_luke88a_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:01+00:00	name	q_luke88a_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:01+00:00	last_login	2018-04-16T20:49:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:49:01+00:00	api_token	def2e933ab1a428e99945876f01e551c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:49:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbHVrZTg4YV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2Mzc0MiwiaWF0IjoxNTIzOTExNzQyLCJub25jZSI6InZfVmMwZHB6aHRUMllmWllrS0ZOWWlyem8wZ0Z3S0tPbU9vc0FZeWlsRDQ9In0%3D.00urJlnQ6OwLzb9ERgLnqCTCAadb4GoVmBH-NpqFy-U8isOvlnZsHucpQBma9I5-m5XSou5iTeUA0fJsXKtKcg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	fAERHgfO0iT1QgIjc5dfKeZA4iJchXZd
+.twitch.tv	TRUE	/	FALSE	2020-04-15T20:49:08+00:00	__gads	ID=c41e0429bf89861c:T=1523911749:S=ALNI_Mb7tGLJLHtIIWk6zJqtMId5_CMKAw
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM5MTUzOTcsIm52IjowLCJ1cHQiOjE1MjM5MTUzODUsImx0IjoxNTIzOTE1Mzg1fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:49:57+00:00	twilight-user	{%22authToken%22:%22kbqn7gavdzqjcg76h53b42mzi63yo9%22%2C%22displayName%22:%22q_luke88a_l%22%2C%22id%22:%22214785776%22%2C%22login%22:%22q_luke88a_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:49:57+00:00	auth-token	kbqn7gavdzqjcg76h53b42mzi63yo9

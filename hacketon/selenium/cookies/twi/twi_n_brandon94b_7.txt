@@ -1,0 +1,13 @@
+#n_brandon94b_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yy6DwwagEGrNGq9kBDiMvPn9XjSHjAyZBoRyGvjydL8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:48:16+00:00	unique_id	15f7d8f94dd5f32f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:48:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:48:42+00:00	persistent	215082595%3A%3Anrj22zyq1b2povnk70c0ptyyuaherg
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:48:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODI1OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2NTIzLCJpYXQiOjE1MjQwMDE3MjN9.MfHBNTgk9kq5lRc-I9j_rX-Qq20ZrK1qr3O4rUhH8PuMlddfkHomDS7MZhdHSu_y51a_6Cqxq2bMKn2MLEAQ-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:48:42+00:00	login	n_brandon94b_7
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:48:42+00:00	name	n_brandon94b_7
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:48:42+00:00	last_login	2018-04-17T21:48:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:48:42+00:00	api_token	9f4bddde32a01fe1e345601dd642ec9c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:48:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYnJhbmRvbjk0Yl83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MzcyMywiaWF0IjoxNTI0MDAxNzIzLCJub25jZSI6IjJwYWFTNW5YNm9HNFVNam9JQjFQMUVhVEpRRk4wTmh5ZFRYbXBTbVFPZUE9In0%3D.qwR2EY1yR_DtkiXiokvXHiV6ENIDgHNRUYzPpGiP-J7bDxGEtesNw9lAxd0NvJfPuf9k0ie3DNyotjnF_yc1Sw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:49:33+00:00	twilight-user	{%22authToken%22:%22n6zccsyzmi1n2kbaysbykb2a4c8vsa%22%2C%22displayName%22:%22n_brandon94b_7%22%2C%22id%22:%22215082595%22%2C%22login%22:%22n_brandon94b_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:49:33+00:00	auth-token	n6zccsyzmi1n2kbaysbykb2a4c8vsa

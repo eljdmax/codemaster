@@ -1,0 +1,13 @@
+#v_fernandod8t_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GqGduyc6mDV6XtK1y7DhTbixQVJ03jETI3kDMV1EeJc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:45:15+00:00	unique_id	c08a65125f6edb2b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:45:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:45:36+00:00	persistent	214559443%3A%3Atakcychyyccibehrjla4o3lbs003fe
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:45:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTk0NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MzM3LCJpYXQiOjE1MjM4MjE1Mzd9.CBbwXbIqvg67RAB4YBKGqPwFARYKowaatYQ1C1qx73jsVI17Ag8BS-hHmqlkSPo1aZPJwWf5vvQwMg4a6Ntdaw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:45:36+00:00	login	v_fernandod8t_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:45:36+00:00	name	v_fernandod8t_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:45:36+00:00	last_login	2018-04-15T19:45:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:45:36+00:00	api_token	c9d9d8912ac2a0432b33349bf7625243
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:45:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZmVybmFuZG9kOHRfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzM1MzcsImlhdCI6MTUyMzgyMTUzNywibm9uY2UiOiJSU0w0X1RnQkhKTmo1SV8wQnc5R0I1ckVTbWs2amdObzdTZHdraVRDUGU4PSJ9.PhwBlxS3Ll7LoGqeKfhgK1e9fAJOzo9UbqNb4sPSLS1yd5PtPwZDYaWRF5oUvfiF3TEZ4Jhe92d2ShrM_y-I7Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:46:16+00:00	twilight-user	{%22authToken%22:%2236v8nynz01hkregczqnwnq73ds1b73%22%2C%22displayName%22:%22v_fernandod8t_b%22%2C%22id%22:%22214559443%22%2C%22login%22:%22v_fernandod8t_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:46:16+00:00	auth-token	36v8nynz01hkregczqnwnq73ds1b73

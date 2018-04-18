@@ -1,0 +1,14 @@
+#x_danielle34m_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GCiZ9FtskLA52yCqQcOAR%2BZBphZrvbJmBZqfCniZBCE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:02:46+00:00	unique_id	0710147562d01e54
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:02:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:03:05+00:00	persistent	214563878%3A%3A5zz9lt9bf6wxr2vkxqcnit1ejioi8w
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:03:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjM4NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3Mzg1LCJpYXQiOjE1MjM4MjI1ODV9.GZpWvjxg0T1pmKQLeqR1e5I9wMfhAxpb4BLg2N0P0HsEugGbUAfZoBmHPRm8YYvnrIsNVM1h-o_0DtTsQczNvA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:03:05+00:00	login	x_danielle34m_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:03:05+00:00	name	x_danielle34m_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:03:05+00:00	last_login	2018-04-15T20:03:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:03:05+00:00	api_token	e7b5d22e8adee926f0ab8d95419a098c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:03:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZGFuaWVsbGUzNG1fZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzQ1ODUsImlhdCI6MTUyMzgyMjU4NSwibm9uY2UiOiJNaHFaVDd2bDdPTzdnY1NOLTlqeXJDWjhlUGg5a1EwSWNWRE5aMl9TeFNnPSJ9.4EqcMAj9KMS7XeiECxUX-H3Kq1mW6iR_7IIRBsjUG4AeIhenz5BqX2egmnJMWld1nZxxa7Sjr3b2QVt2hXPUXg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:03:43+00:00	twilight-user	{%22authToken%22:%22a0eb2dv929rfed56o9liwyai9z8d90%22%2C%22displayName%22:%22x_danielle34m_g%22%2C%22id%22:%22214563878%22%2C%22login%22:%22x_danielle34m_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:03:43+00:00	auth-token	a0eb2dv929rfed56o9liwyai9z8d90
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:03:46+00:00	twilight_onboarding	true

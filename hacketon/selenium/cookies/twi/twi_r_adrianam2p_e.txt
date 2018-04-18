@@ -1,0 +1,14 @@
+#r_adrianam2p_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FX1dH68yyuBAJJ9KUbCpKXo9YCOIMvXGxVYJ5b9q0dY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:53:14+00:00	unique_id	1bc99f8b8e0d1bad
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:53:14+00:00	_twitch_session_id	1c4e10ae77d5c5124eb7d45b7fb2b242
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:53:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:53:37+00:00	persistent	214786771%3A%3Aukf6aij0d891pstp046g3jqmlnhcpg
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:53:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODY3NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2ODE4LCJpYXQiOjE1MjM5MTIwMTh9.HmtZuf5BtZ5U1HJoKz4B3xB3y1TPhM7OEBauafP-cwW1M5qF611tYVcXT9Q0SXvRn1M0Ni7fAVuOfrhxMFZE4w==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:53:37+00:00	login	r_adrianam2p_e
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:53:37+00:00	name	r_adrianam2p_e
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:53:37+00:00	last_login	2018-04-16T20:53:38Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:53:37+00:00	api_token	7550b84da59d11fbf57097271033b9c4
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:53:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYWRyaWFuYW0ycF9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NDAxOCwiaWF0IjoxNTIzOTEyMDE4LCJub25jZSI6InZhMWRVcGVSY0xpRkpQVi11WlNpWDFpYlA1MWZEQmpEbTVxenpYSEgxdkU9In0%3D.0leBkuCMh78D6pTv2zyse70C3nwSYv2KRTzcWs9X_QB74GjheCLMt9DRArQBHUR8mPrDnAaxgk7mREjjR8TPew%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:54:21+00:00	twilight-user	{%22authToken%22:%22v2emf29qieewm4efvbbcmcc9fd3vjy%22%2C%22displayName%22:%22r_adrianam2p_e%22%2C%22id%22:%22214786771%22%2C%22login%22:%22r_adrianam2p_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:54:21+00:00	auth-token	v2emf29qieewm4efvbbcmcc9fd3vjy

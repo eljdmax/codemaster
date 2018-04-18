@@ -1,0 +1,15 @@
+#b_aaliyah91f_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qkIauorGSlMLwno1rNqvTqS4rVSY%2BP%2Fm6WSTC6Xx69o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:11:19+00:00	unique_id	05c95dd0e477803e
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:11:19+00:00	_twitch_session_id	639e4dba03f9a94150218cc6256abaa5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:11:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:11:31+00:00	persistent	214579531%3A%3Awljy5cjybisx8fpm1fxyi0f6jj8k8k
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:11:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Nzk1MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxNDkyLCJpYXQiOjE1MjM4MjY2OTJ9.D6qwKIObsVkpt9-mYNBlxJpssLWWDnhf1s2asMyCpvg3rFiEscYTS5flMlm-JGtUX7Uy_isFUslrGA5CpIPWFg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:11:31+00:00	login	b_aaliyah91f_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:11:31+00:00	name	b_aaliyah91f_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:11:31+00:00	last_login	2018-04-15T21:11:32Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:11:31+00:00	api_token	a5f6ae2b3e0acef47f769ef30f41a6b2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:11:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYWFsaXlhaDkxZl9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3ODY5MiwiaWF0IjoxNTIzODI2NjkyLCJub25jZSI6IlRCTGJ6QkRzV0hCRUdaVjRFZWRtQnI4RE9JZHpPTGs4WHRQbVlWRUNUMkk9In0%3D.AyOg2C29_aikH7SXdcK_YsVx1Okcuv41FPMjV2pMnhYtvG7EBoT5v4yvzVsPhXpNzT4wceFX3VdBRFJ2msdBhw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:12:10+00:00	twilight-user	{%22authToken%22:%22jbv5svc5wy5dxedna9rwn2zqnn2xhs%22%2C%22displayName%22:%22b_aaliyah91f_f%22%2C%22id%22:%22214579531%22%2C%22login%22:%22b_aaliyah91f_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:12:10+00:00	auth-token	jbv5svc5wy5dxedna9rwn2zqnn2xhs
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:12:14+00:00	twilight_onboarding	true

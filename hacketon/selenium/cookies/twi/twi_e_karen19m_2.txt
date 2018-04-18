@@ -1,0 +1,13 @@
+#e_karen19m_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Cq13KxiKNGxecQvwCSgNJdMr30%2FQhJdplA%2FiH94DFi8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:49:29+00:00	unique_id	f6b9484b3a261219
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:49:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:49:56+00:00	persistent	214798419%3A%3Al2xbymjo245l70oftr4dauqznkohg9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:49:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTg0MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMTk3LCJpYXQiOjE1MjM5MTUzOTd9.8TRg4LdQcEjgPeQHgq6zEjxsph4RPWm0NSn87aY0VEDyo4dvZctXYQyxoOLZhWfrtY-fhirZotOMXyhOao9zrg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:49:56+00:00	login	e_karen19m_2
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:49:56+00:00	name	e_karen19m_2
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:49:56+00:00	last_login	2018-04-16T21:49:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:49:56+00:00	api_token	bcf49c6f09f48946f9ec5d49ab0d695a
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:49:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfa2FyZW4xOW1fMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjczOTcsImlhdCI6MTUyMzkxNTM5Nywibm9uY2UiOiJDWEM5cHltS0JzMERCWGltbV9yck5Lcnozai04ME5wMExtOERTV0lYUEM0PSJ9.r6DXrAZ8bcM5eHJEHtWls0uhFoTkaOtLMx_VMsZQWvz4gabxR02RTdPo6tyYIknUQgo6OmQugD0sw5VkIBLhMw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:50:41+00:00	twilight-user	{%22authToken%22:%22ycbby7azl9rh2tx0d5l5humj4g3u3b%22%2C%22displayName%22:%22e_karen19m_2%22%2C%22id%22:%22214798419%22%2C%22login%22:%22e_karen19m_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:50:41+00:00	auth-token	ycbby7azl9rh2tx0d5l5humj4g3u3b

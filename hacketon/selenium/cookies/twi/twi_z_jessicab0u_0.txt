@@ -1,0 +1,13 @@
+#z_jessicab0u_0
+.twitch.tv	TRUE	/	TRUE	2028-04-14T21:04:34+00:00	unique_id	d448141c1d61e793
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	l7klZ0UgWuI0uejhun5pkklU9YxwLQ4cv39PZHEfJA0%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:06:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:06:44+00:00	persistent	215057918%3A%3A6xt3njk9rj2iv27k8uoaqa8a5v0zao
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:06:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTc5MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNDA1LCJpYXQiOjE1MjM5OTU2MDV9.RsdHn4yXw3f4zUw4igb0GUy-D5sMs7Azc2cfW6ACWgie8FEs02qKsEB6pTSEqgq3iSsB6PzG53JWMv2SOIeoQQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:06:44+00:00	login	z_jessicab0u_0
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:06:44+00:00	name	z_jessicab0u_0
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:06:44+00:00	last_login	2018-04-17T20:06:45Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:06:44+00:00	api_token	4f6d697cbec5eba3c43cd0a4a1d6f913
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:06:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfamVzc2ljYWIwdV8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0NzYwNSwiaWF0IjoxNTIzOTk1NjA1LCJub25jZSI6Imlnb2pMOHFYeWVvaG9CWDg1LWRfY0M1VVZwNU9mQ2szQ2xWa0laSi1SdFU9In0%3D.kWet1gH3WphZgb-6ONW9QCO1fGgxcengPrnOhUQWkRLWEtpm3jBEEtKIDtdVenjJwRQcgvSRv1kWAhzog84HtA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:07:33+00:00	twilight-user	{%22authToken%22:%22vdwyi3afbb20x3ekyjsrzeupctzqez%22%2C%22displayName%22:%22z_jessicab0u_0%22%2C%22id%22:%22215057918%22%2C%22login%22:%22z_jessicab0u_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:07:33+00:00	auth-token	vdwyi3afbb20x3ekyjsrzeupctzqez

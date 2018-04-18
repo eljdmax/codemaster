@@ -1,0 +1,15 @@
+#e_laylam84_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ek58gY9ZU2r%2BV%2FErp06KGOAkd2L56ULwuZHO3rwUHTE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:34:52+00:00	unique_id	2139b6be7cc4a363
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:34:52+00:00	_twitch_session_id	8aa03e592f5efcfdd556516ebafd3465
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:34:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:35:09+00:00	persistent	214584332%3A%3Apd8l537wu5p9cdita2mwdvtvexsx8p
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:35:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODQzMzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyOTA5LCJpYXQiOjE1MjM4MjgxMDl9.Kyf-nlWDRlV7QSbLb77FNnpqXVgkhMTdoZLrmkS54zYEaRHJK5f4kj5RW-F-A6nLFAaF7VApiuNJfPS8nVCLhA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:35:09+00:00	login	e_laylam84_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:35:09+00:00	name	e_laylam84_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:35:09+00:00	last_login	2018-04-15T21:35:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:35:09+00:00	api_token	f2bb8946d39fb91aa48b242f1e316e00
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:35:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbGF5bGFtODRfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODAxMDksImlhdCI6MTUyMzgyODEwOSwibm9uY2UiOiJtblJvT184UEo5Z2R5N1hudHMwa21fNU51cE5jMmRyVXBNcEhYTnp2czlFPSJ9.3wkqGy5cb3cQWxaTO24JdYTXGMd-FNBswdlnX1nQkY3YRYZEJUH0GPvWOGNIYJIgmYXKo9qqC7EwHNaM9qsCDg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:35:47+00:00	twilight-user	{%22authToken%22:%22s3d1uqei9j4bc85z6eq03wglppm9vl%22%2C%22displayName%22:%22e_laylam84_2%22%2C%22id%22:%22214584332%22%2C%22login%22:%22e_laylam84_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:35:47+00:00	auth-token	s3d1uqei9j4bc85z6eq03wglppm9vl
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:35:51+00:00	twilight_onboarding	true

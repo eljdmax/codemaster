@@ -1,0 +1,13 @@
+#f_saram2o_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dL%2BcVamyFLJHUy08GgYM6SHguwo8%2BsY8uyojefCO49M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:58:29+00:00	unique_id	0da8b825ab57e068
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:58:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:59:05+00:00	persistent	214562857%3A%3Aewivbju33nu4ghs0fzx7k2k1xlqv8z
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:59:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjI4NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MTQ2LCJpYXQiOjE1MjM4MjIzNDZ9.5_CtxegKFtotBjYfA4WFuDRHC0ooBR2OA93-4QH2lzb99qGoiig7GCija3_BBcItdMF_NZe3tigQG7S-09AcUQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:59:05+00:00	login	f_saram2o_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:59:05+00:00	name	f_saram2o_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:59:05+00:00	last_login	2018-04-15T19:59:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:59:05+00:00	api_token	ab2e0860ae65d937146fe4c023724766
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:59:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfc2FyYW0yb19rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDM0NiwiaWF0IjoxNTIzODIyMzQ2LCJub25jZSI6Ii0tVUNEaC1lSEdabVBIcmdxQmNmQXFzVVpLN3EwWlRDWVFlRjBMdnFNSkE9In0%3D.uAPCrN3cBQoX0ccQZcTrwbYQd7K2Xmj6jcnWsEQCwFbQo34ueVnF8YOZgM5dLMrHbsZBq1T1yFTrXo5lu1MCWA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:59:44+00:00	twilight-user	{%22authToken%22:%22bf296eecr9brz0w1b0xz6yip1k2yyc%22%2C%22displayName%22:%22f_saram2o_k%22%2C%22id%22:%22214562857%22%2C%22login%22:%22f_saram2o_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:59:44+00:00	auth-token	bf296eecr9brz0w1b0xz6yip1k2yyc

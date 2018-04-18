@@ -1,0 +1,14 @@
+#n_owens2w_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VqT5mLdmQL959u6zMS1WSRyd62BinWG9BV8muMWviNQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:12:36+00:00	unique_id	97dd1c86d726ecd7
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:12:36+00:00	_twitch_session_id	b4f0987c299fb2ca2cfdf68d3aa5dab5
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:12:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:13:03+00:00	persistent	215059518%3A%3Abpl8n0d3p68bbxe18jm4fpl6bl0z1l
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:13:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTk1MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNzg0LCJpYXQiOjE1MjM5OTU5ODR9.n7hnav7cabhTILZM8Vw9Pzp-cPwejpW-LW4Z8-oB6qY8Vt0YanBtM-sE9SdGfcx9ioH7D2Do_FLcIfO8pKOYvQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:13:03+00:00	login	n_owens2w_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:13:03+00:00	name	n_owens2w_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:13:03+00:00	last_login	2018-04-17T20:13:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:13:03+00:00	api_token	7f102c6c16fafeb45006ddd80ed9ef09
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:13:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fb3dlbnMyd19rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0Nzk4NCwiaWF0IjoxNTIzOTk1OTg0LCJub25jZSI6ImpYRTgydloyd2lCOW1ZZ2NNM2tRS1Z6MXFoNl9NRVJBSUp1b0I5OWgxcUU9In0%3D.25Hepd9P8WwMTsSw4n9R2BYOaRTDnb7BZLoFqZ5iBsuY1I5r8o1QUjIncUX9Okkr9NdFp0GqzUowytms_gjWcQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:13:51+00:00	twilight-user	{%22authToken%22:%220by2nt5sf9v15qves7gb3k7gwxoafv%22%2C%22displayName%22:%22n_owens2w_k%22%2C%22id%22:%22215059518%22%2C%22login%22:%22n_owens2w_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:13:51+00:00	auth-token	0by2nt5sf9v15qves7gb3k7gwxoafv

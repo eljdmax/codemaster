@@ -1,0 +1,13 @@
+#r_paige67y_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qzqLEljFLGU7Q7ELbVWDgNCeHDzxsg0UtVbJ1p6o6ac%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:41:54+00:00	unique_id	4edd1dad22093380
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:41:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:42:12+00:00	persistent	214558548%3A%3Ajlb3vk3sea3rawn4b80cswp93p5ovz
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:42:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTg1NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MTMyLCJpYXQiOjE1MjM4MjEzMzJ9.Cbhy6QlTcemU9Os06_F-cZXHnwF1DnDQeNm-fUIdaUmd-KmtILUYoildSLIZUsQ6xzTXeao9XtEE9PdNzxor9Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:42:12+00:00	login	r_paige67y_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:42:12+00:00	name	r_paige67y_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:42:12+00:00	last_login	2018-04-15T19:42:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:42:12+00:00	api_token	10662302d189c9f64eafa6a429e097c6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:42:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfcGFpZ2U2N3lfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzMzMzIsImlhdCI6MTUyMzgyMTMzMiwibm9uY2UiOiJRUUR6MkFIekk3c1d6TjF1RE1GdG5yZmJuWEhKSkVhUnJiYS1kcUpyeGU4PSJ9.svM_fPHi6wDUaqc1VDOSW_Ekx_CXOSaLmdNczzSZy6vLDo_MMfcsQwOcgIc6S10pjB2sluq1Kb8dxzdjL4_DbQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:42:50+00:00	twilight-user	{%22authToken%22:%22e131tpx6o81d8qkfc0d1nft93kocri%22%2C%22displayName%22:%22r_paige67y_o%22%2C%22id%22:%22214558548%22%2C%22login%22:%22r_paige67y_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:42:50+00:00	auth-token	e131tpx6o81d8qkfc0d1nft93kocri

@@ -1,0 +1,13 @@
+#e_christina305_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DfHJuFDdXuxwn%2FvvfvTxFU37T3qdwBxcvaKGXEBG%2F9w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:21:08+00:00	unique_id	a64f653ea18ee666
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:21:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:21:31+00:00	persistent	214581575%3A%3Aj98purp10y065prqi6aczlt2gv0qy0
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:21:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODE1NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyMDkxLCJpYXQiOjE1MjM4MjcyOTF9.S8Kx8P3FtCCRSfNxwaOoo0ktFpb7jgklyEho2pL2F8rVJPyxXGlQjGAvCnxQAZtd4nrSey-6Vxn6zoVwXIRvqQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:21:31+00:00	login	e_christina305_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:21:31+00:00	name	e_christina305_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:21:31+00:00	last_login	2018-04-15T21:21:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:21:31+00:00	api_token	d02ee0f2a9a8edf739d69996dc5f31d7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:21:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfY2hyaXN0aW5hMzA1X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc5MjkxLCJpYXQiOjE1MjM4MjcyOTEsIm5vbmNlIjoibW5nWmc5Nkt3SUxaYlE2cGpfS2FOSlNBZTNJZ1NfMzRhLUw5TDJrN1lkbz0ifQ%3D%3D.P1jPa0470hWh9pKbd_2EtEFV9E480y9U6PTZLHaChrboSn3ptO4fvy_8V1QYed8pAcDKPqnLPAIL-ent74jgpQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:22:10+00:00	twilight-user	{%22authToken%22:%22i89xf56j8vcd7mlp3r0rc2z3qyqckj%22%2C%22displayName%22:%22e_christina305_d%22%2C%22id%22:%22214581575%22%2C%22login%22:%22e_christina305_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:22:10+00:00	auth-token	i89xf56j8vcd7mlp3r0rc2z3qyqckj

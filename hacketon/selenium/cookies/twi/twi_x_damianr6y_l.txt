@@ -1,0 +1,15 @@
+#x_damianr6y_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	isWeOlnCsQ08%2FjwkUzPPOnrlI7lbBvQ8%2FWxN7VdInhk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:48:01+00:00	unique_id	fb3e749325948d01
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:48:01+00:00	_twitch_session_id	bdc939d75915eab76ffed1971765dfdf
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:48:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:48:27+00:00	persistent	214818661%3A%3Ahvsrmy793eyz4ek8ny416tjoow2j80
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:48:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTg2NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzNzA3LCJpYXQiOjE1MjM5MTg5MDd9.YknAZDJYfrv-iA4fbyc5B0hUA9L1mRqEBwOxu1RYjOENksXyKzd0iyM8UOyyXZ8fpUl0wicIYAbvlx6rvhHwhQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:48:27+00:00	login	x_damianr6y_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:48:27+00:00	name	x_damianr6y_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:48:27+00:00	last_login	2018-04-16T22:48:27Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:48:27+00:00	api_token	a4ce27344cd3a44db232a9679ee86abb
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:48:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZGFtaWFucjZ5X2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcwOTA3LCJpYXQiOjE1MjM5MTg5MDcsIm5vbmNlIjoiQXk1U2hzYVpBRmNua1hZeURmSDlIeGI5eHlHYkNYYUlkT3BkM3pJX0tPST0ifQ%3D%3D.e_pOqVXqciji10Mmekk_94MclQ8gnheIZLWpPAHZlFNVKIecB7_RQutSvyOTexeXZDvkaj-TNNnrkW2VED4L2w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:49:11+00:00	twilight-user	{%22authToken%22:%225ol51jxwy92myoc5zbqd6n8f2kgg8o%22%2C%22displayName%22:%22x_damianr6y_l%22%2C%22id%22:%22214818661%22%2C%22login%22:%22x_damianr6y_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:49:11+00:00	auth-token	5ol51jxwy92myoc5zbqd6n8f2kgg8o
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:49:13+00:00	twilight_onboarding	true

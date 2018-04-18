@@ -1,0 +1,15 @@
+#f_jesse84l_1
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	dk1i9ASYjkxtEsh6esK48IHDlk8G8nyF
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:21:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2028-04-16T20:21:14+00:00	unique_id	101931f3211d1c19
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5xeAWgwH%2B7JQpaE2pmClnWPLHLAW7luxbyup8zm3bQ0%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:28:12+00:00	_twitch_session_id	ffb7b35b4e1211ffb713788554be8115
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:28:35+00:00	persistent	214781701%3A%3Abdjj20abgyehlc4tb6d2vq8t5xtjxd
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:28:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODE3MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1MzE2LCJpYXQiOjE1MjM5MTA1MTZ9.BcdV3_I5E9maJvp7phK6fv4XmnhmsCC7AKLplDqiOEej7Rqp3RLWJgrFDCEOtzO-EE5L98VNK2F-xMX0WNSeig==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:28:35+00:00	login	f_jesse84l_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:28:35+00:00	name	f_jesse84l_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:28:35+00:00	last_login	2018-04-16T20:28:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:28:35+00:00	api_token	cc81e85c140423b3603d8c5ba9f7d7d4
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:28:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfamVzc2U4NGxfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjI1MTYsImlhdCI6MTUyMzkxMDUxNiwibm9uY2UiOiIyTS10UnBFNmxiR2tCVlBHVVhmUUNwSzJoNDZpd1Rjdm5odnZVaUU0R1IwPSJ9.p_APCVoU3cpd16Ro10c5OcbGTBcwLjPCKP0ZE58coQuDfwMmqxPOvKDT_BvHT2r8uj7jJrixReGNpGXk-SbS6Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:29:19+00:00	twilight-user	{%22authToken%22:%22l1gymzzsitomkl9wg0b6qwcexcou60%22%2C%22displayName%22:%22f_jesse84l_1%22%2C%22id%22:%22214781701%22%2C%22login%22:%22f_jesse84l_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:29:19+00:00	auth-token	l1gymzzsitomkl9wg0b6qwcexcou60

@@ -1,0 +1,14 @@
+#o_danielv4p_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iVEalJsrN9Y%2FgPBtevB0emq0XG6t9%2FJuujabrc35dRI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:19:10+00:00	unique_id	f2f3f0516156edde
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:19:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:19:25+00:00	persistent	214581127%3A%3A1b9ne3irs80z1ov0bq0r3dbpwwlceh
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:19:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODExMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxOTY1LCJpYXQiOjE1MjM4MjcxNjV9.CPkeQ0riIM0k9tzlTFWIyuvhAXUOYtyH7z_o2iTj4Gg7JV6yo12QyUb9eTjaP95b75VZB4qZW1_TGUvUIKB14g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:19:25+00:00	login	o_danielv4p_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:19:25+00:00	name	o_danielv4p_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:19:25+00:00	last_login	2018-04-15T21:19:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:19:25+00:00	api_token	9a2a5369600145d54e510bc6f1c1f0a2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:19:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZGFuaWVsdjRwX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc5MTY1LCJpYXQiOjE1MjM4MjcxNjUsIm5vbmNlIjoiS216ODN2UVoyZWdBUXoycjBSZjVJTU5peDFrZXBUZEFFeHA0QmQzQ2ZfYz0ifQ%3D%3D.MVmKN4Dqz8KfNQzVN_i6dLGUgT0qBPr1XF4rBFpVv-uWsXs32lH2zAGm8ZN1SWzU4dUfx0G67qZneumrL1L_pQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:20:03+00:00	twilight-user	{%22authToken%22:%22m1w2m5ywl3ba8rx2se2bc9k2ygj6er%22%2C%22displayName%22:%22o_danielv4p_x%22%2C%22id%22:%22214581127%22%2C%22login%22:%22o_danielv4p_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:20:03+00:00	auth-token	m1w2m5ywl3ba8rx2se2bc9k2ygj6er
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:20:06+00:00	twilight_onboarding	true

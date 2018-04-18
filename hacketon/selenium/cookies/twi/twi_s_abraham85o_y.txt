@@ -1,0 +1,13 @@
+#s_abraham85o_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5iodIe4v2ey7TL1DrW89gAd63cZfvD0A9CCSDCPzVbA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:15:28+00:00	unique_id	94f6f64f2e01ba9d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:15:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:15:56+00:00	persistent	214791665%3A%3Agp3wsjwy4qyoc3d94cepwjx38ywlta
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:15:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTE2NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4MTU3LCJpYXQiOjE1MjM5MTMzNTd9.9sx4KeHsfFz8bXJvUzUMtXxYKDdO3rYqOFdNFm_gkVVdPVraUqdcJFtD336r4H3YOvC3DQ15H_cq0iZIqYz0Rw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:15:56+00:00	login	s_abraham85o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:15:56+00:00	name	s_abraham85o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:15:56+00:00	last_login	2018-04-16T21:15:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:15:56+00:00	api_token	2a5e350cdf2bc25f0086258531b818ec
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:15:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYWJyYWhhbTg1b195IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NTM1NywiaWF0IjoxNTIzOTEzMzU3LCJub25jZSI6ImxqaEtaZWJHV2FZWENjcnZ5RlRWOENRMk5FM3E5ekJuMl9SQm1xVFBhdk09In0%3D.6mGCbd3iyBHFmC_CUw0r5bZK3L6bYDVvF0PsIez_tfFykoo_L8ZOTPqV9ZOeOG4hHorxaaSPwe162ZpxQ20kUw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:16:43+00:00	twilight-user	{%22authToken%22:%22t434w4lh9xe69rvb72upzjxhybsr94%22%2C%22displayName%22:%22s_abraham85o_y%22%2C%22id%22:%22214791665%22%2C%22login%22:%22s_abraham85o_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:16:43+00:00	auth-token	t434w4lh9xe69rvb72upzjxhybsr94

@@ -1,0 +1,14 @@
+#g_victort2k_r
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:17:31+00:00	_twitch_session_id	e6ddf5d2006a8aa7f152b1701a114ad4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fY%2FATmUqkp%2BP1JZzQBpA3jgD0JgutaXHR7TNNmNoTEM%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-02T19:55:14+00:00	persistent	215055017%3A%3A9mpudmrzd64awu1i60cyy14cvnjbr2
+.twitch.tv	TRUE	/	TRUE	2018-04-24T19:55:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTUwMTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTk5NzE1LCJpYXQiOjE1MjM5OTQ5MTV9.AyQx88RNr8IXBtcWyCs8VILRAJWwgddJNUoEp5siHf-GCPFCSpEoI3gn5Es-FBR2qm1wUlCDBNeluFYI3iTsmw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:55:14+00:00	login	g_victort2k_r
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:55:14+00:00	name	g_victort2k_r
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:55:14+00:00	last_login	2018-04-17T19:55:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T19:55:14+00:00	api_token	466eb5717c6a0a10642031573586f37b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:55:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfdmljdG9ydDJrX3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ2OTE1LCJpYXQiOjE1MjM5OTQ5MTUsIm5vbmNlIjoiQmNnTU9DQmt1ZHp1U3M3Q1B0ZDRUb1g1VzRjU2RfdjBVVHNkNlNrQTNmUT0ifQ%3D%3D.scCrZ06j7SdatyWKw8iOEtAjBIaDM52e90erTxzqnB7hHaAmBeJJuWUGi4pKvK-Mnb-_U_Ygo2vCIBQGPh1uvg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:56:09+00:00	twilight-user	{%22authToken%22:%22lcgu2p28zq5lab6igrwtdjohz1c6xf%22%2C%22displayName%22:%22g_victort2k_r%22%2C%22id%22:%22215055017%22%2C%22login%22:%22g_victort2k_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:56:09+00:00	auth-token	lcgu2p28zq5lab6igrwtdjohz1c6xf

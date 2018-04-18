@@ -1,0 +1,15 @@
+#z_sabrina399_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	o7lDVSF1BH%2FwKh7WW0Q2v4aDlpQjV59WuFklnBlZns4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:53:21+00:00	unique_id	0196be20751677d0
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:53:23+00:00	_twitch_session_id	f0254f06158343d86f221649232cd05f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:53:23+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:53:51+00:00	persistent	214561509%3A%3Ajvf5vl6crn85wqf1pvdzyjk2b1fu7n
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:53:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjE1MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2ODMxLCJpYXQiOjE1MjM4MjIwMzF9.HJXP59dSzj68XsCX9CHzh1qUS2ot-RinRfdA7yP8xoQb6ZI-ShXCf_usm0dFCrfluUh5elhOP0I68Q_YnvIVRw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:53:51+00:00	login	z_sabrina399_a
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:53:51+00:00	name	z_sabrina399_a
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:53:51+00:00	last_login	2018-04-15T19:53:51Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:53:51+00:00	api_token	10c29c21346e2f56b2c6027c92e7737f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:53:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc2FicmluYTM5OV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDAzMSwiaWF0IjoxNTIzODIyMDMxLCJub25jZSI6InlJZUxxYjhzalQxNG5mR2NRdzFseWNJNVhoYnk1Nk1GX0xhUVpGOWFxRGM9In0%3D.hVSXjQIHiRzRxCm4-fMo_0l8p06Nj25K7C4nrEvWKqJEhP219JoupADVFlZVBeaI-r4FXQ2GINMOvRoA9-xNDw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:28+00:00	twilight-user	{%22authToken%22:%22usoom6b1fnmhpnyzgoff9by9ncnjms%22%2C%22displayName%22:%22z_sabrina399_a%22%2C%22id%22:%22214561509%22%2C%22login%22:%22z_sabrina399_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:28+00:00	auth-token	usoom6b1fnmhpnyzgoff9by9ncnjms
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:31+00:00	twilight_onboarding	true

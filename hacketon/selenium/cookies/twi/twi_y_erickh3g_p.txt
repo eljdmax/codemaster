@@ -1,0 +1,13 @@
+#y_erickh3g_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Iucd0qytMbPyZh58RorscehaFInohFGdfyp6%2BBIGyVM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:18:54+00:00	unique_id	ea3f876adaef239d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:18:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:19:13+00:00	persistent	215061063%3A%3A6brkqkojmn7flb80jjirz05zrld34k
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:19:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjEwNjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxMTUzLCJpYXQiOjE1MjM5OTYzNTN9.dJNJwEki5XqwegEF8oWBXDk4MGrLaNZthLpiaO2PIPoZSCPeOJ-s4wAtZkXv7FjC4CFohf5ElBUDTQPZgWoZBA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:19:13+00:00	login	y_erickh3g_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:19:13+00:00	name	y_erickh3g_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:19:13+00:00	last_login	2018-04-17T20:19:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:19:13+00:00	api_token	6cf7894b15ec9e4d944752d09ae33225
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:19:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZXJpY2toM2dfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDgzNTMsImlhdCI6MTUyMzk5NjM1Mywibm9uY2UiOiJUYWRyZGlEMm5qdjRHLU10UXFuaHNKYVhhV0pvbnE3NEdFZHh4enJFelRvPSJ9.i6r7rGUJdOglyDI9l4SAMcVnXVcTY4NxD7ZulDeQaHwgjqYUstSJCrlolLUWSmr_dtStE46e7fLpIdI1nned8Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:20:02+00:00	twilight-user	{%22authToken%22:%22hdw6oa2kwk2fr64yak74p2oruu80cf%22%2C%22displayName%22:%22y_erickh3g_p%22%2C%22id%22:%22215061063%22%2C%22login%22:%22y_erickh3g_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:20:02+00:00	auth-token	hdw6oa2kwk2fr64yak74p2oruu80cf

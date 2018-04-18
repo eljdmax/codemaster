@@ -1,0 +1,13 @@
+#v_madison85l_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	TLXThXwRmlJqa5e4lGwMUyyT0ZpkJ%2FtCZrWT9tGydog%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:29:00+00:00	unique_id	05997768248013ce
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:29:01+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:29:31+00:00	persistent	214555217%3A%3Au4s0ekdyh12qwdemaucen2800hoqen
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:29:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTUyMTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1MzcxLCJpYXQiOjE1MjM4MjA1NzF9.I0JDOMZM9p8XhIVxMgOMjle8md5f0MeuQPxoe0BmgQjnSqevRjgbdZ9epwDLCmiYtjdQyP4LpGQ6ceE0EotENA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:29:31+00:00	login	v_madison85l_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:29:31+00:00	name	v_madison85l_n
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:29:31+00:00	last_login	2018-04-15T19:29:31Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:29:31+00:00	api_token	a429672f674f46204b903ae133b2388b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:29:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFkaXNvbjg1bF9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MjU3MSwiaWF0IjoxNTIzODIwNTcxLCJub25jZSI6ImJhMFJNMEM3eE9oTVNHdk1xcHEwUXdscnltMnNDQ1E4dlNyOGI2LXFFd3M9In0%3D.wIEPFnT0JLjJAP2C3jK23ZsOYiKVeGbcWnqfCDjJjrfJiVLO8Hll4lGKTeU70hJZpjt7H-nieoR-qP6VDtpKQw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:30:09+00:00	twilight-user	{%22authToken%22:%22avderqfful3un0ij0w9emhm37lmwe5%22%2C%22displayName%22:%22v_madison85l_n%22%2C%22id%22:%22214555217%22%2C%22login%22:%22v_madison85l_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:30:09+00:00	auth-token	avderqfful3un0ij0w9emhm37lmwe5

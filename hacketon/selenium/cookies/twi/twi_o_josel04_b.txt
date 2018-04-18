@@ -1,0 +1,13 @@
+#o_josel04_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ij37JW%2BcrxkBnqQfx4rWDWrkGqXAliR%2Fa%2BBdJbpwCe4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:33:35+00:00	unique_id	e8d8fb999b536ebf
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:33:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:33:55+00:00	persistent	214782780%3A%3Al4oydcdcboca57r59d3n7mp50zvcy9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:33:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODI3ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1NjM1LCJpYXQiOjE1MjM5MTA4MzV9.P_ll3HcjGmKFz2Z1S7WGl-cQfKjEjCaSoHiIxPh6CfyRFBtmDA_0rJ_3m7m5uGB1KSJIcyqZWf3xYL-mWvlr6g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:33:55+00:00	login	o_josel04_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:33:55+00:00	name	o_josel04_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:33:55+00:00	last_login	2018-04-16T20:33:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:33:55+00:00	api_token	88a61efaf7c215fb4ba70a67a2481586
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:33:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fam9zZWwwNF9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2MjgzNSwiaWF0IjoxNTIzOTEwODM1LCJub25jZSI6IlIyY21Ib214LTc4elRGVXlrWWM5SnUyLUs5RGNEdDlNQTdvX2Y3ZG8xSjA9In0%3D.rlwrAQ31ogzN3thlt4QZvXtwo05SRk2nJd1FSouWQnVeJg6KOnw3_2hKjt9_juse1eKc4_j8ctqyssYwR_MR-g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:34:39+00:00	twilight-user	{%22authToken%22:%22ejep57dhb4quvvwfbfotrbn3ajck6y%22%2C%22displayName%22:%22o_josel04_b%22%2C%22id%22:%22214782780%22%2C%22login%22:%22o_josel04_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:34:39+00:00	auth-token	ejep57dhb4quvvwfbfotrbn3ajck6y

@@ -1,0 +1,14 @@
+#k_lucasg6f_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	L9U4pXaMXwpdWeAE%2FJDnAW5oYy0aXaSgKJ0UvS%2Bb0q0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:49:17+00:00	unique_id	512fdd0a291e2d00
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:49:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:49:42+00:00	persistent	214560511%3A%3Alvruzitb0rd9gea9x61ic19ymzt1a0
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:49:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjA1MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2NTgzLCJpYXQiOjE1MjM4MjE3ODN9.RfAPGv--dkfk2n-tgawfhV5VE8ClhihowAiAqR9gnOVT-4kRWyXaMaXmc7ol09xS86l3VjN1rsHLc-uinOP7rQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:49:42+00:00	login	k_lucasg6f_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:49:42+00:00	name	k_lucasg6f_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:49:42+00:00	last_login	2018-04-15T19:49:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:49:42+00:00	api_token	982a20860022cceeedc97c7f0702a77d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:49:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbHVjYXNnNmZfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzM3ODMsImlhdCI6MTUyMzgyMTc4Mywibm9uY2UiOiJneXZoVlF2MW04SmdIMkFiXzVUaDNzWkpacUFoWFE3SzJLUmp0VjlfTTFVPSJ9.hHuyLaHeBKzyEs6CGXLDpnCavMsF86ZOPmBSkofhmpN6aDP63clNQMzLYvykK9wJRLha-Ky2yM5WE0HvrZEJKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:50:21+00:00	twilight-user	{%22authToken%22:%22z7z9jb47so746d8pmxvbsyimwtzsel%22%2C%22displayName%22:%22k_lucasg6f_e%22%2C%22id%22:%22214560511%22%2C%22login%22:%22k_lucasg6f_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:50:21+00:00	auth-token	z7z9jb47so746d8pmxvbsyimwtzsel
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:50:22+00:00	twilight_onboarding	true

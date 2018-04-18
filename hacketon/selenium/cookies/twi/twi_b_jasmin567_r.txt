@@ -1,0 +1,14 @@
+#b_jasmin567_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wk0oeA57DqMhk6%2FnfEYgZXiOI5IyCZP07jzaKm6hsp0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:56:57+00:00	unique_id	2d264984cb56259b
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:56:57+00:00	_twitch_session_id	906d82066358eb759c3a68a9000ed728
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:56:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:57:13+00:00	persistent	214787584%3A%3Axjdvw6h7v2s8mubhjq08crrqx5p5l4
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:57:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODc1ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3MDM0LCJpYXQiOjE1MjM5MTIyMzR9.8_laHsfA7IKXYawYdR_nmblSaQzu5hArBEeJCMO5kfW-J47YSgUzEU_98qJH4n-OS_9pz1x5KvZhG3vOJ--eLQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:57:13+00:00	login	b_jasmin567_r
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:57:13+00:00	name	b_jasmin567_r
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:57:13+00:00	last_login	2018-04-16T20:57:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:57:13+00:00	api_token	570e2c34677e6a86ff659d3f5d1bcbae
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:57:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfamFzbWluNTY3X3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY0MjM0LCJpYXQiOjE1MjM5MTIyMzQsIm5vbmNlIjoibDl2c19LVG9GdVZYYmFkTGNqdklVcWhPakxvQktodjBKZUVueVlqYXZCZz0ifQ%3D%3D.vQAHaQ0XzZqGzf-Kc5HteVxHsBcsNcT_kmaEwlzJ6mwjiDGNwhEcVFln6W4KptIBkVsh2cA1WgXORhdLmKKn6w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:57:57+00:00	twilight-user	{%22authToken%22:%22cw6dp3cf8lvcvns53bjvvh5aqis0gu%22%2C%22displayName%22:%22b_jasmin567_r%22%2C%22id%22:%22214787584%22%2C%22login%22:%22b_jasmin567_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:57:57+00:00	auth-token	cw6dp3cf8lvcvns53bjvvh5aqis0gu

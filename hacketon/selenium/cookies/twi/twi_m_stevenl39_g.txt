@@ -1,0 +1,15 @@
+#m_stevenl39_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6wl2jcWhNGIt3r2pD959QkEKEoJX6UNwF951WZXkwUU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:13:04+00:00	unique_id	ff0a63e5005cf855
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:13:04+00:00	_twitch_session_id	3ad2d9c433191431f87f2f4d21d80c05
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:13:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:13:27+00:00	persistent	214791124%3A%3A0lcq9jk9drdbk0e1e2whsdnlhtt5bl
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:13:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTExMjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4MDA4LCJpYXQiOjE1MjM5MTMyMDh9.G2sFZhSniLvlWVp7H4g9jtY_VWqzA1VBRJzh5u0_iO2BaB4Z4tSduG7h10qZ2e66AkNfZHNHJiGBOQLGyjCDRQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:27+00:00	login	m_stevenl39_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:27+00:00	name	m_stevenl39_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:27+00:00	last_login	2018-04-16T21:13:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:13:27+00:00	api_token	3338628d9234d931338b8198d92fe5a5
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:13:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fc3RldmVubDM5X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY1MjA4LCJpYXQiOjE1MjM5MTMyMDgsIm5vbmNlIjoiR05mTGJSb25kT0xWNHExZ2FldGszZmVpUEo1YlkzVVhxZEhWVk5mM1U3RT0ifQ%3D%3D.W7t7UXo8lBH8aV7Kk-eLs2YWMqvSeFDic4GwIREtDPqhnVTnVIvA3WNYDBnBarIXg5YPO3iORSPHki2Fj4hnhg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	pdQJmChDcnGYePlyEyJwbE3r0uTiboWl
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:14:19+00:00	twilight-user	{%22authToken%22:%22pmr0a8j4m18kev0dswq7zxsi8w2kdr%22%2C%22displayName%22:%22m_stevenl39_g%22%2C%22id%22:%22214791124%22%2C%22login%22:%22m_stevenl39_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:14:19+00:00	auth-token	pmr0a8j4m18kev0dswq7zxsi8w2kdr

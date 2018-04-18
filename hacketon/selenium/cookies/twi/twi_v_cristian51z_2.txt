@@ -1,0 +1,14 @@
+#v_cristian51z_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FimwQRgIcde2w%2F7Madmn2OSPvAYBZaETjTRpwlKBg3g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:46:40+00:00	unique_id	3935f6ae2bce8822
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:46:40+00:00	_twitch_session_id	d924c4361a4bdbff1bb5f232d5e48881
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:46:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:47:06+00:00	persistent	214574187%3A%3Aywa4jy23w2pon3o3303s2wf1y6xkr0
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:47:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzQxODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwMDI2LCJpYXQiOjE1MjM4MjUyMjZ9.HAVI4_OyakNG814YwWEerEJQQWTrE-n9qSYd4SQlL0IVc74DcnubcfaW9hsHKX1g1TyaM0b5irPQyWPa1NxTNQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:47:06+00:00	login	v_cristian51z_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:47:06+00:00	name	v_cristian51z_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:47:06+00:00	last_login	2018-04-15T20:47:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:47:06+00:00	api_token	c02cf5ba94b86c8b805e3243cb33e13a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:47:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY3Jpc3RpYW41MXpfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzcyMjYsImlhdCI6MTUyMzgyNTIyNiwibm9uY2UiOiJtQm5UZkxOb0JDUFI3Z1ZUNk96MGNKeHlNajF5Wk14ZGNiWHMwa2dYdE9jPSJ9.I_R3HFwsqKQ2gcNhmO97ngnoD3PIvO8ljcFcky5lcQUtm24mfs7ipyNB9Zu0KwJe5Io1Js9p2PtAmhKxilc8SQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:47:47+00:00	twilight-user	{%22authToken%22:%22vnhmjf93bk44wrpfngszxajx9kad0s%22%2C%22displayName%22:%22v_cristian51z_2%22%2C%22id%22:%22214574187%22%2C%22login%22:%22v_cristian51z_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:47:47+00:00	auth-token	vnhmjf93bk44wrpfngszxajx9kad0s

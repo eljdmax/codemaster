@@ -1,0 +1,14 @@
+#j_martin82w_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	f7g0d8QtoY%2F40%2BpgmfiK6KMGrW43rQpFm2IJMQWIgmc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:24:14+00:00	unique_id	030ee93e0c8a81ca
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:24:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:24:33+00:00	persistent	214569016%3A%3Abxtz2k08e09ij58ojhtuld1826z291
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:24:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjkwMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4Njc0LCJpYXQiOjE1MjM4MjM4NzR9.hglzJRmJyF8dVG2uNGmHBCRdzWiStUQb0Ror-f2ADSWev-rY_LkY-waQNDQkM0TkKtTUjdCN-cS9b2nlp62oNg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:24:33+00:00	login	j_martin82w_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:24:33+00:00	name	j_martin82w_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:24:33+00:00	last_login	2018-04-15T20:24:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:24:33+00:00	api_token	ea656f6bdf9374199244f556437e9f8b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:24:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFydGluODJ3X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc1ODc0LCJpYXQiOjE1MjM4MjM4NzQsIm5vbmNlIjoiT0x3VzRjY3pOUklhZkljeVVObTdHejdpd3ExWm9nNm9VQzVqeXNhRjJaTT0ifQ%3D%3D.w6QV2mBI8_vclfyj37dVWUueTGCcCsHFNspfeaaTJs2m2lI1Vc5bTauCGle-4QM-txWhsYVcjpQfxoVXQ1A5HQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:25:13+00:00	twilight-user	{%22authToken%22:%22jdd8w9kfsit52lc7f3soloab5381yv%22%2C%22displayName%22:%22j_martin82w_g%22%2C%22id%22:%22214569016%22%2C%22login%22:%22j_martin82w_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:25:13+00:00	auth-token	jdd8w9kfsit52lc7f3soloab5381yv
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:25:14+00:00	twilight_onboarding	true

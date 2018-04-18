@@ -1,0 +1,14 @@
+#e_spencer75o_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	C3uVFHSMOGMwD2lsfCKVAJcbeTY%2FkIp7V%2FxO7AF2uYc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:19:44+00:00	unique_id	a9fdcb7d0a5ccf24
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:19:44+00:00	_twitch_session_id	2b3b8e13a91efcb3acd28252f4c746cc
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:19:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:20:04+00:00	persistent	214567937%3A%3A1en2621afgrs1liotfzoqiimns2i30
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:20:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njc5MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4NDA0LCJpYXQiOjE1MjM4MjM2MDR9.onwrvN8pnwpkaPraCNYC71kbIzHXdeO3EQ6lTnQa2o4LcMblvDEuG71eP3KdUgUpx8x77_M6nzVjaAlM3jxkkw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:20:04+00:00	login	e_spencer75o_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:20:04+00:00	name	e_spencer75o_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:20:04+00:00	last_login	2018-04-15T20:20:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:20:04+00:00	api_token	7be1cf7cdf138778c5ec49c2822a72a0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:20:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfc3BlbmNlcjc1b19oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTYwNCwiaWF0IjoxNTIzODIzNjA0LCJub25jZSI6IkJ3MFRkZGtxTTc0b2RyWl9yMURLU0tIZ3ZkQ1JqLV81M3IxUVBwSlVHdmM9In0%3D.6I1xgbM-VLbjet9_lYDS96yiUDoAub7K1jC3I6iLKTiCKsLMGWCor_jbYIOodycbn4txLNBYDVDukfARVWcRTg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:20:43+00:00	twilight-user	{%22authToken%22:%226wbuqdmjmruqa8hat90ptp3qz8xfjp%22%2C%22displayName%22:%22e_spencer75o_h%22%2C%22id%22:%22214567937%22%2C%22login%22:%22e_spencer75o_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:20:43+00:00	auth-token	6wbuqdmjmruqa8hat90ptp3qz8xfjp

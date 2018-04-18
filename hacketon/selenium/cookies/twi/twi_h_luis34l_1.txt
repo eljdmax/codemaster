@@ -1,0 +1,13 @@
+#h_luis34l_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ayymCDpfkp89NeVpTH6e9RY1Ja9pNrEWedX3SwpyRUU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:56:42+00:00	unique_id	4e768971aea1f960
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:56:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:57:08+00:00	persistent	214799663%3A%3Aixvywe0z2rcf1dqzaecpurlyg5u18a
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:57:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTk2NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNjI4LCJpYXQiOjE1MjM5MTU4Mjh9.1xdMrZeluqZ2u-LqcPWvxs-OfTrQcIIF68MZV5oOJbTbqeZmRxiZqGhp4Oz7a-lwRnXnwE-ABs2-A-inFsHMxQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:57:08+00:00	login	h_luis34l_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:57:08+00:00	name	h_luis34l_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:57:08+00:00	last_login	2018-04-16T21:57:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:57:08+00:00	api_token	628d4def87a26871d22f603a540dff35
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:57:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbHVpczM0bF8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NzgyOCwiaWF0IjoxNTIzOTE1ODI4LCJub25jZSI6IlBrblhhcVZ6RGthZVI5a1dsVEx3b3JYWW5JNWZQdUlWc3pUY3FYUEtyODQ9In0%3D.pE2cUMRtzt4cRGh8pKXk-maNW1ve2jdPM9nBVaU1_5qvHAbQgLTXgi9w5IFbgL1eDNUywqYm4vK19KLTBGfcKw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:57:53+00:00	twilight-user	{%22authToken%22:%22qfer8zfj25q88790lij5apxnpn4gnj%22%2C%22displayName%22:%22h_luis34l_1%22%2C%22id%22:%22214799663%22%2C%22login%22:%22h_luis34l_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:57:53+00:00	auth-token	qfer8zfj25q88790lij5apxnpn4gnj

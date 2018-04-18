@@ -1,0 +1,14 @@
+#y_alexanderl1j_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LG%2BedEQqfg3v8l1vTR%2BOTjfgE2c7YKc7u2%2FUVvPF99M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:09:27+00:00	unique_id	1e214596bda5dccf
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:09:27+00:00	_twitch_session_id	925c15388ba01be18d78a3fe44f8e64a
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:09:56+00:00	persistent	215058730%3A%3Af0adedysfozd2vw99zp413z6a9y1pq
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:09:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTg3MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNTk3LCJpYXQiOjE1MjM5OTU3OTd9.1hL73eu9iGMrx-ZPU4fa-aipcvx06_nODLXUNEaZVtj6bt_higJJuEFooDiIYAGKfBLtHkQXAWRmQuBOzn074w==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:56+00:00	login	y_alexanderl1j_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:56+00:00	name	y_alexanderl1j_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:56+00:00	last_login	2018-04-17T20:09:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:09:56+00:00	api_token	c4a98addd9cc2ff537be5c24b4cf8d7e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYWxleGFuZGVybDFqX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ3Nzk3LCJpYXQiOjE1MjM5OTU3OTcsIm5vbmNlIjoiSGF4Z2FtZG4wTEhmaUMzbU92SFYyOGswYmM0X3kyZ2VjX3RtSjExaXlwMD0ifQ%3D%3D.fzaMrMzbJjmjyQlNtzDxFY_qd77OzaduPbT9yj6Pi0vOMinqjRmurNhLDUZtDrZnLgRZV5ZPRaL8XNa9xR-_cw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:10:44+00:00	twilight-user	{%22authToken%22:%22nkv2qczaqgf85rkt0ij52rfxb4yg7k%22%2C%22displayName%22:%22y_alexanderl1j_v%22%2C%22id%22:%22215058730%22%2C%22login%22:%22y_alexanderl1j_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:10:44+00:00	auth-token	nkv2qczaqgf85rkt0ij52rfxb4yg7k

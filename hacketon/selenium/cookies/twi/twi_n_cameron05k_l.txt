@@ -1,0 +1,13 @@
+#n_cameron05k_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4mQafQh1%2FW%2BOBMHY%2FLA1rBQXRfRMmYa4IckeopTwGzs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:38:05+00:00	unique_id	dc4598ab8b82baa5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:38:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:38:21+00:00	persistent	214572236%3A%3Aptu8274fwe1o6h3fut3ohb6p3u7aaa
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:38:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzIyMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NTAyLCJpYXQiOjE1MjM4MjQ3MDJ9.Eikfc5Oj2hfCcuiWOAW7928n-dYUE3JW9nVTh9QJTcp683FW8WJm2yTQ0PKz-I1_lk6i6WQkTJV-eqPnJ76R3A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:21+00:00	login	n_cameron05k_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:21+00:00	name	n_cameron05k_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:21+00:00	last_login	2018-04-15T20:38:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:38:21+00:00	api_token	e291d2e8c9c40d41b93fb4f6146169e2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:38:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fY2FtZXJvbjA1a19sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjcwMiwiaWF0IjoxNTIzODI0NzAyLCJub25jZSI6InN3ancydE92bHRpVXEwRkZzTVJlWXJvcUYyQUYzNDlJa2VjQ0tvSEd3TDA9In0%3D.G1j15eju0nQRvM03Re5Qvhw-B1lm8UjEFDUi4-DuFi2puKhLwa54BYbw7_kJ-F-MuM_tkOJmbOnohzjLqjD5zg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:39:00+00:00	twilight-user	{%22authToken%22:%22l2gih8oc7xnfpw5hd0wcdyvclx6eff%22%2C%22displayName%22:%22n_cameron05k_l%22%2C%22id%22:%22214572236%22%2C%22login%22:%22n_cameron05k_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:39:00+00:00	auth-token	l2gih8oc7xnfpw5hd0wcdyvclx6eff

@@ -1,0 +1,14 @@
+#q_paul73b_9
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:47:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PxsJo9av2AJyA795f12ep0rRLEtsdhSbsv0vL5Dy2JQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:51:49+00:00	unique_id	15d8efabb1da7d91
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:51:49+00:00	_twitch_session_id	25266fed607ea9b67a4b5c2cf5ca8691
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:52:09+00:00	persistent	215083356%3A%3A44a3mifpl58vu3u3myxc2ie936bzjk
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:52:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODMzNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2NzMwLCJpYXQiOjE1MjQwMDE5MzB9.VotA8EqVSpVzPw3FlbwfaMtbHEZ27CIJy8dmatb1XxSct-aTXSmdbL3JaSW448oWqnZPwvnMA326XYq479K68A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:09+00:00	login	q_paul73b_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:09+00:00	name	q_paul73b_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:09+00:00	last_login	2018-04-17T21:52:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:52:09+00:00	api_token	010e99bf92c1de6ecc079e2f49626ff2
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:52:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfcGF1bDczYl85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MzkzMCwiaWF0IjoxNTI0MDAxOTMwLCJub25jZSI6Ii1mbmZZZmxQRzF2UDdKdGZNN2J0alUzZHpELW9NM0M1NVZ6aWlzWFVOSkU9In0%3D.zZjq1QQXF81RffAu_eyQIKhKhcCIiIAecH1tIwRVqKYq8ADglipJssspQSlVrL-zZiVQMV7gYnnUmSW4wemqNA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:53:12+00:00	twilight-user	{%22authToken%22:%22p27na330wv95o6g19ffas69jcqzmz6%22%2C%22displayName%22:%22q_paul73b_9%22%2C%22id%22:%22215083356%22%2C%22login%22:%22q_paul73b_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:53:12+00:00	auth-token	p27na330wv95o6g19ffas69jcqzmz6

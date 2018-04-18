@@ -1,0 +1,14 @@
+#b_mia718_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	C4bN0IyyUTbWBs0Er858vchobpfm1d1lHxi79xX9UhQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:06:47+00:00	unique_id	c936ff5246de0f9c
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:06:47+00:00	_twitch_session_id	acf6768695e8bc44cd63692cccd15e6f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:06:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:07:01+00:00	persistent	214590615%3A%3Aym66hlky7dwze14sw5tn5xpdpr3vl8
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:07:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTA2MTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0ODIxLCJpYXQiOjE1MjM4MzAwMjF9.aVeUFDW_SYddJADV0J_TYnlwrzttgLYaGRFStgnWZ3VKy3i8SqPB_Law1fl_UJRju5C-JVP3ZiMwmJD4gH84iw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:07:01+00:00	login	b_mia718_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:07:01+00:00	name	b_mia718_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:07:01+00:00	last_login	2018-04-15T22:07:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:07:01+00:00	api_token	fc02909bafb49e93b8b58c58e041265d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:07:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbWlhNzE4X3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgyMDIxLCJpYXQiOjE1MjM4MzAwMjEsIm5vbmNlIjoiZFlDRkVlVmJOLVFDamg2MHZqNlo2SnY5WTNwZHEyTFZOQjBvYU5ZVkFxND0ifQ%3D%3D.GfTPyvMM5STeyFgEFhxB52Kju0AnRY8fu6bUSgmXytoqFqcdoywcrBb28QHJDbQOtbwyP9F4ypBLZ78P-Oyt1Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:07:39+00:00	twilight-user	{%22authToken%22:%222xmpqmr5ews0x3m7qdw0pbk3tsdxd9%22%2C%22displayName%22:%22b_mia718_y%22%2C%22id%22:%22214590615%22%2C%22login%22:%22b_mia718_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:07:39+00:00	auth-token	2xmpqmr5ews0x3m7qdw0pbk3tsdxd9

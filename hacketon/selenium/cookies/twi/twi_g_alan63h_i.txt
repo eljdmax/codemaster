@@ -1,0 +1,13 @@
+#g_alan63h_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Pid1HqW%2BSy%2FdnaOULAOZmnw%2BzBhRp%2FT9UwLVaBJ6iuw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:29:34+00:00	unique_id	9df7e77036d4a7bc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:29:34+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:30:01+00:00	persistent	215078430%3A%3Af9pxraf6rtprztmsot3byverf17lmy
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:30:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzg0MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1NDAxLCJpYXQiOjE1MjQwMDA2MDF9.4xHufGEin_u3Yocy3Xtddtl3MYWU1a_wl8ryGJro9qEbYfnPolEz4qSVkJX2q4ImEky0GM2IphZSFBxGYwhzdw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:30:01+00:00	login	g_alan63h_i
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:30:01+00:00	name	g_alan63h_i
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:30:01+00:00	last_login	2018-04-17T21:30:01Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:30:01+00:00	api_token	b15f1b437017a19627980d26d5747be6
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:30:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYWxhbjYzaF9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjYwMSwiaWF0IjoxNTI0MDAwNjAxLCJub25jZSI6ImliS1l1NGw1Y3M5aGh1eDNpbmFFLVY1eUZwMTUzY0pMSXFHUVpaRkFCSms9In0%3D.0Os_knQ79Ev4GykUpLl4_ma-HCjGMtJv_4DQl_ppCP2CAlDutvIhDmG0TC_r6WYeLj6HC5iHJTgWgtEio3ZSXw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:30:50+00:00	twilight-user	{%22authToken%22:%22bt8b9nu7xi2486sh3yqwbs4455p0j7%22%2C%22displayName%22:%22g_alan63h_i%22%2C%22id%22:%22215078430%22%2C%22login%22:%22g_alan63h_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:30:50+00:00	auth-token	bt8b9nu7xi2486sh3yqwbs4455p0j7

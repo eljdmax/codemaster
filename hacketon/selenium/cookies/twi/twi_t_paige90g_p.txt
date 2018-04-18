@@ -1,0 +1,14 @@
+#t_paige90g_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Bmugrp0sDjbcs1RLFf0F%2B%2BBKFNlPDpAWpvUo%2Fki%2BJPk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:06:52+00:00	unique_id	fe185b5c0c345d59
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:06:52+00:00	_twitch_session_id	a08aed9aea81884466e35d040dbc9d26
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:06:53+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:07:13+00:00	persistent	214789704%3A%3A2i531ajta172pfrncqpka86u0pwdy6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:07:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODk3MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3NjM0LCJpYXQiOjE1MjM5MTI4MzR9.cx2GHQPHoyo4u9nC4w3SVaKZBIfOs-AvHWtxCETAjiCXVToyV5thFE0eaG4BVcH6DKL3vNE94oltAPDzETBr8A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:07:13+00:00	login	t_paige90g_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:07:13+00:00	name	t_paige90g_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:07:13+00:00	last_login	2018-04-16T21:07:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:07:13+00:00	api_token	60b8d7bd45b7ed598bf3422fbb65d2d5
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:07:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfcGFpZ2U5MGdfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQ4MzQsImlhdCI6MTUyMzkxMjgzNCwibm9uY2UiOiJFaENBMlpjN0p4blBSXy1RTENGSWZBTUR6eFBvd282M3RmUEZTX0dZZ0I4PSJ9.Tnw97BOtarI3mZrGpifslZD3lcsHEJm7BpvTTbJ8fOY6wobIsCvREgg52tHwGuMcO91Wfibdl2a1h34tDaq-kQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:08:16+00:00	twilight-user	{%22authToken%22:%22mjs87oxk7ti75n004ybu6a0gjfoqhw%22%2C%22displayName%22:%22t_paige90g_p%22%2C%22id%22:%22214789704%22%2C%22login%22:%22t_paige90g_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:08:16+00:00	auth-token	mjs87oxk7ti75n004ybu6a0gjfoqhw

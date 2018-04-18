@@ -1,0 +1,13 @@
+#z_ivanx10_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iTBEITU4xvsKho0C5qIjnbrMWDuG%2FeArJ4%2BlW1jA6gI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:21:04+00:00	unique_id	99c440e02b89f7da
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:21:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:21:25+00:00	persistent	214593363%3A%3Ad1ia6fka0btird1mgxx4oqaz07axzz
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:21:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTMzNjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1Njg2LCJpYXQiOjE1MjM4MzA4ODZ9.8sgyojURmmVIRbTn5HeGh1DqNUHP0qa5qNj1YpX7EWzIxCGGqkPQ5FsafAQ06YXjMO0QS5Uy2NDUdMIMkhRrRg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:21:25+00:00	login	z_ivanx10_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:21:25+00:00	name	z_ivanx10_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:21:25+00:00	last_login	2018-04-15T22:21:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:21:25+00:00	api_token	6e6f07480baa6ebb21738b47576bbd87
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:21:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfaXZhbngxMF9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4Mjg4NiwiaWF0IjoxNTIzODMwODg2LCJub25jZSI6IlRubldLWEc5aWM0V3gtVkJROWpoRVlTWE11Mk1QSV84MFFkanF2VWM4QXM9In0%3D.-L-49ZNQJ7Z1lvGrHvVBFGTn4Agp_tyW7SNUhZr_JoFX2k2OgXVOWTXk3XhBiAT9xdsbcoEqEqqFyj3MjRf3KQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:22:05+00:00	twilight-user	{%22authToken%22:%22k27jf17uacclfyxvvcayxm1t5pric4%22%2C%22displayName%22:%22z_ivanx10_d%22%2C%22id%22:%22214593363%22%2C%22login%22:%22z_ivanx10_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:22:05+00:00	auth-token	k27jf17uacclfyxvvcayxm1t5pric4

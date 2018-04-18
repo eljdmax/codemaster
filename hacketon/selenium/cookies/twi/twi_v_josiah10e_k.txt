@@ -1,0 +1,15 @@
+#v_josiah10e_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zn%2BfvQSbxwqcByvxm70bdQ7d0A49k2f%2B6%2ByL05eFfD8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:02:52+00:00	unique_id	91051f59c701e961
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:02:52+00:00	_twitch_session_id	85c24be8a4159ecdce081a57a9729979
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:02:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:03:08+00:00	persistent	214589865%3A%3Ayqefl05ozk33b85i59oc88er71nuyd
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:03:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODk4NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NTg4LCJpYXQiOjE1MjM4Mjk3ODh9.bQzLz3Z_1ax905XR4bMeAGmWlNmTzPQcdxtpRrtVjv4wq-wg2Wc_f6_49MqFN7H3oIhCIvClzB7VgIEpC1Lz7w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:03:08+00:00	login	v_josiah10e_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:03:08+00:00	name	v_josiah10e_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:03:08+00:00	last_login	2018-04-15T22:03:08Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:03:08+00:00	api_token	c91007f173388ba307449d0799889883
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:03:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfam9zaWFoMTBlX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxNzg4LCJpYXQiOjE1MjM4Mjk3ODgsIm5vbmNlIjoid0twYkdOQldobE5PaDlqV3JUMzZVWVJsQzNVeDVNSkw2VXI4bjlwV3hLTT0ifQ%3D%3D.SLvQsKqHUbUEIE1YkUM3I4MI0jUACUk1FEMF052n_G4mm7lmYHYlTYF7GIOPlIw_A8FA3xT_oIjGtFkoYnW87Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:03:45+00:00	twilight-user	{%22authToken%22:%22xf3lditeuvqf97kuf2z5yuq0dhzj66%22%2C%22displayName%22:%22v_josiah10e_k%22%2C%22id%22:%22214589865%22%2C%22login%22:%22v_josiah10e_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:03:45+00:00	auth-token	xf3lditeuvqf97kuf2z5yuq0dhzj66
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:03:48+00:00	twilight_onboarding	true

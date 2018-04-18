@@ -1,0 +1,13 @@
+#n_payton99i_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PBe8TlG0SqfqB7tUg3uqtS03BB07eTR4EUlRIM9VuM0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:13:08+00:00	unique_id	b474e8e1329f6172
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:13:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:13:26+00:00	persistent	214579946%3A%3Awcap2tgpmtvp3v1jb53sxsvl9kvyk3
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:13:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Nzk5NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxNjA2LCJpYXQiOjE1MjM4MjY4MDZ9.t8Hcs8WfpWcJS9l3kVaqjOSINT0vSXVyzQkS_T3XMsfjONbEVJsgs9BXIAP1D78W-EoCP_Uob3LOU0Ne7qfSSQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:13:26+00:00	login	n_payton99i_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:13:26+00:00	name	n_payton99i_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:13:26+00:00	last_login	2018-04-15T21:13:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:13:26+00:00	api_token	539c258c2091fc0970ec066cf0062f57
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:13:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcGF5dG9uOTlpX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc4ODA2LCJpYXQiOjE1MjM4MjY4MDYsIm5vbmNlIjoicmwxbWpoZ0xFcUdWOHRqaWd2WVRUWmtVUHpIeVpNaGpod05fS2hQM051cz0ifQ%3D%3D.iFGQoLQEThVx8LSlRODHdAABCpl7t2tNZuau84KVPWOlGMFzTN9E5tDp3-xbQS_rP9vSi3zhAqwzr-7RN_Czcw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:14:05+00:00	twilight-user	{%22authToken%22:%223td4xf0g2mvujtyrupi7a5bp5lpc6u%22%2C%22displayName%22:%22n_payton99i_o%22%2C%22id%22:%22214579946%22%2C%22login%22:%22n_payton99i_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:14:05+00:00	auth-token	3td4xf0g2mvujtyrupi7a5bp5lpc6u

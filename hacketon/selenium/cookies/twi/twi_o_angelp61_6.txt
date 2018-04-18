@@ -1,0 +1,14 @@
+#o_angelp61_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	I5VZx0Bom9%2BkTrx1p7IBe8zVdjAXXv79qPYYHBNKZco%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:48:50+00:00	unique_id	379aeb653dfca09f
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:48:50+00:00	_twitch_session_id	383f5d7698bc67a952792c99ab9582a5
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:48:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:49:25+00:00	persistent	215082746%3A%3A38r4k5qoavqibbt70rcbsgvorttikn
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:49:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODI3NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2NTY1LCJpYXQiOjE1MjQwMDE3NjV9.jvh7VFaMXA7itFecV46NcsXdenVWUBt_M23HYAzxt2dEp8XKljeMV2DbyZ55Pgn8UukpZWnNbwBoGJrBTvP5mg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:49:25+00:00	login	o_angelp61_6
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:49:25+00:00	name	o_angelp61_6
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:49:25+00:00	last_login	2018-04-17T21:49:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:49:25+00:00	api_token	52636894d655d17f467a7e17d5527390
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:49:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYW5nZWxwNjFfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTM3NjUsImlhdCI6MTUyNDAwMTc2NSwibm9uY2UiOiI1MnVsVFdrakRJU1U5NU9EODdjRVpYUmRBQTJEa1VIcHJ0aDlseUV6R1JzPSJ9.ILGmL_XAkGqC7tKpq3U66ieo32Zqmae-qnsOjpE-J3cBcPlXZXv17LT8TS5HTRKLKkVl-gnLWEwbwWlDKLF26g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:50:13+00:00	twilight-user	{%22authToken%22:%22562d11o8xfxlbkvp4lig2oworbkys7%22%2C%22displayName%22:%22o_angelp61_6%22%2C%22id%22:%22215082746%22%2C%22login%22:%22o_angelp61_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:50:13+00:00	auth-token	562d11o8xfxlbkvp4lig2oworbkys7

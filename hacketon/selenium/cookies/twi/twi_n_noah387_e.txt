@@ -1,0 +1,13 @@
+#n_noah387_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	uBIdbOVnYr%2Blr9xwXNjK%2F%2Bk9BDhZ5WrOfh6usTMA258%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:21:02+00:00	unique_id	9dca95b81e15c7ff
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:21:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:21:21+00:00	persistent	215089902%3A%3Asp8b1k6xlhnlcsyo0qf9pvoglh9o2x
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:21:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODk5MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4NDgxLCJpYXQiOjE1MjQwMDM2ODF9.1GRgtCjXV6pmzcYqDE6_bLFpk9KlaPgxM4dld2TdNG2yNcM1szZVaypR2qZvpCer1EP7JxbJ2m3BgMCb0tOL5Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:21:21+00:00	login	n_noah387_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:21:21+00:00	name	n_noah387_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:21:21+00:00	last_login	2018-04-17T22:21:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:21:21+00:00	api_token	9255f669c035c065c909becfc2f55fbe
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:21:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbm9haDM4N19lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NTY4MSwiaWF0IjoxNTI0MDAzNjgxLCJub25jZSI6Ik5KOWI0aWppajg2WkJBVFRuZ293dzRrdExqdmJzeDFlUUJQaVpaTExnbXc9In0%3D.20lvsCKs7DBaF8PMGK-1ZPTpB8Nq8jO90Y5nXin0rR3ezj9gAge897D3AzlH8BADTkBluuXp44vJU8u5TBiW_g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:22:09+00:00	twilight-user	{%22authToken%22:%220mbehhkvxleki9p0ktq1vslfmvn5pm%22%2C%22displayName%22:%22n_noah387_e%22%2C%22id%22:%22215089902%22%2C%22login%22:%22n_noah387_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:22:09+00:00	auth-token	0mbehhkvxleki9p0ktq1vslfmvn5pm

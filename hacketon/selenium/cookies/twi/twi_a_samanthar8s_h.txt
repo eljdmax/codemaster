@@ -1,0 +1,13 @@
+#a_samanthar8s_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RHz5DlLx90ySshnt1lQVbBGyWSzesD9M9bvQ%2FRT6UvQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:21:28+00:00	unique_id	1e88eae1d7caaa8c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:21:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:22:00+00:00	persistent	214806306%3A%3Akni4o01bmr28c2fw2uqf2gtmg9mrwt
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:22:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDYzMDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyMTIxLCJpYXQiOjE1MjM5MTczMjF9.KuB8OaAbNz8WQTjTL_SZCT9I6-Z4JfZ4_QAcfTiE7GDZz4L_f5zk-zj3raaOVYFngUCFzkwM-Sn_zg0vmbeIQg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:22:00+00:00	login	a_samanthar8s_h
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:22:00+00:00	name	a_samanthar8s_h
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:22:00+00:00	last_login	2018-04-16T22:22:01Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:22:00+00:00	api_token	5cdd344914c2b8394d1549a816f61000
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:22:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfc2FtYW50aGFyOHNfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjkzMjEsImlhdCI6MTUyMzkxNzMyMSwibm9uY2UiOiIzUHVFWkNYelVYV1RiNHhXaDBXNktuYnBPRFkwZnJZWlBKRG80aXpVeURRPSJ9.mpFPWWCrmm9IfysTRJHi1m2cPIZnX96HE5GBMcOPPgY1u5Il0At13t4O3J42QmcXiEERjqriad0L9vdUf6NI1Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:22:45+00:00	twilight-user	{%22authToken%22:%22rbgizgkuts1ux6sxvez1rtwgr9s0rm%22%2C%22displayName%22:%22a_samanthar8s_h%22%2C%22id%22:%22214806306%22%2C%22login%22:%22a_samanthar8s_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:22:45+00:00	auth-token	rbgizgkuts1ux6sxvez1rtwgr9s0rm

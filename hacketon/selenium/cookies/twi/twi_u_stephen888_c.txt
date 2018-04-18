@@ -1,0 +1,13 @@
+#u_stephen888_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qg4D4uf8jogn2fjKPaX1UA3yGv7a%2FaQzITDU554Ob8I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:12:40+00:00	unique_id	7c35934ec1236f31
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:12:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:13:04+00:00	persistent	214579875%3A%3Afo4g62hkap8ag2rl28w7k5pmanaihc
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:13:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Nzk4NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxNTg0LCJpYXQiOjE1MjM4MjY3ODR9.AmLLHXIj1QpcNmUKjq_LMIz7IvleWrc13ZlQO2J-aRtKb2C40PizmrKh_OG7Zbd2V1YrZybhKZBsfxiVPr-6yA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:13:04+00:00	login	u_stephen888_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:13:04+00:00	name	u_stephen888_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:13:04+00:00	last_login	2018-04-15T21:13:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:13:04+00:00	api_token	8b465aca70097fc405403540ee2869fa
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:13:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc3RlcGhlbjg4OF9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3ODc4NCwiaWF0IjoxNTIzODI2Nzg0LCJub25jZSI6IkZCZTRwNXJlbXBpNDFpUTY1WGhkOGt6Nm11NUlHTTVDSlZ4N1JMNTZSNzg9In0%3D.7MrhNHBAzqAqpO7eWXMFUPPDVzCK2ptAQzV_MJHJU3ZanoIxWDjX_INp-NXPewTy3hhwl7Ed2rY3t55mpHqZSQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:13:44+00:00	twilight-user	{%22authToken%22:%22yzuxwc822memjiezm6285byq7xh5z5%22%2C%22displayName%22:%22u_stephen888_c%22%2C%22id%22:%22214579875%22%2C%22login%22:%22u_stephen888_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:13:44+00:00	auth-token	yzuxwc822memjiezm6285byq7xh5z5

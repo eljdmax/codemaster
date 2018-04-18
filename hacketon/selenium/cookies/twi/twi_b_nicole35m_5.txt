@@ -1,0 +1,13 @@
+#b_nicole35m_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gcWenGOFdQugAUvcrO3XVG012XV3ruUIZvwMmv2rKNE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:55:26+00:00	unique_id	4ac13eb064c42109
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:55:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:55:48+00:00	persistent	214562000%3A%3Asfi0vysccssqn5ppi4odi8is0gajs9
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:55:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjIwMDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2OTQ4LCJpYXQiOjE1MjM4MjIxNDh9.G7iL_8fw1VV2fLj_WIqI2Bwr-i2mt_i3IkszQImyPn6sJWekTyciqmWCU9BVuWotT20i-3i1TNkhLDysXYwYUw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:55:48+00:00	login	b_nicole35m_5
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:55:48+00:00	name	b_nicole35m_5
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:55:48+00:00	last_login	2018-04-15T19:55:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:55:48+00:00	api_token	12bd9778f8560e49bd63a378b381c80a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:55:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbmljb2xlMzVtXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc0MTQ4LCJpYXQiOjE1MjM4MjIxNDgsIm5vbmNlIjoicGlJLWNCZXBrRHAtUkwyY0Z6ZS1lbHByelk1Wml5bzFUY0Zkc0VUd21iTT0ifQ%3D%3D.zEOvVLThliRozlhZnsyTtpaJ-AVy2j9vNc33FR_IX_FmRqCFkMQ40Dw-Sgt_VRAfh2nqrKuB4BIOot-CWpjeOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:56:26+00:00	twilight-user	{%22authToken%22:%22s8w679uj0pl6wy766zuaukhaxk517y%22%2C%22displayName%22:%22b_nicole35m_5%22%2C%22id%22:%22214562000%22%2C%22login%22:%22b_nicole35m_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:56:26+00:00	auth-token	s8w679uj0pl6wy766zuaukhaxk517y

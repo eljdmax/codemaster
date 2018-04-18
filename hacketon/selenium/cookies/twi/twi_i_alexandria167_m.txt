@@ -1,0 +1,13 @@
+#i_alexandria167_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BaSZzpdnDLDxC6WPf9FVdBgkn1nOVL6x3kXuDgCV1X8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:10:26+00:00	unique_id	45530602cfe15d99
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:10:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:10:42+00:00	persistent	214826730%3A%3Aah1xs26frka86whz1vpcvrsllhu01s
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:10:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjY3MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI1MDQyLCJpYXQiOjE1MjM5MjAyNDJ9.2oseitZsBsOSkL-Jh5mT78PugUXXGlHEfK63amAAn4FWPo163C0tapCGYqW0ZiGoF-w4FP2iHypiVXGDYxURsA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:10:42+00:00	login	i_alexandria167_m
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:10:42+00:00	name	i_alexandria167_m
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:10:42+00:00	last_login	2018-04-16T23:10:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:10:42+00:00	api_token	59a1c47b14beb126d8030ae977a3cdda
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:10:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYWxleGFuZHJpYTE2N19tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MjI0MiwiaWF0IjoxNTIzOTIwMjQyLCJub25jZSI6IjlFcG5ZYmV1Wk9YSVlFZzV6RG85ZF9pV25ZN2huOVRNX0wtcFpMTF9WZnM9In0%3D.DdfGqrIxKcta5MJ9jjhQpufnc3ej4kHHyPAxRplJbA7b9YKI5HqHZliQXdXzkMht_EkNLuAjscKNu7VHN99hLQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:11:26+00:00	twilight-user	{%22authToken%22:%22vzqjg40w3e03zyt0zph20yegcbo7wx%22%2C%22displayName%22:%22i_alexandria167_m%22%2C%22id%22:%22214826730%22%2C%22login%22:%22i_alexandria167_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:11:26+00:00	auth-token	vzqjg40w3e03zyt0zph20yegcbo7wx

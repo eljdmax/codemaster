@@ -1,0 +1,16 @@
+#t_christina05r_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	d4OuMtFzVxexsuONyDDuStA2R9QILWjKuDbk%2FlfRGnU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:48:52+00:00	unique_id	e904063c6bdcfb70
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:48:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:49:09+00:00	persistent	214785799%3A%3A15l106fmvamiqkzcsaigcpr1vajpj8
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:49:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODU3OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2NTUwLCJpYXQiOjE1MjM5MTE3NTB9.pEBRjZ2XifER6vn13ZDajpEjN-XF4OI8c-CnzSlWH8XC-Vs7VB_4pzfKcAWIzm9ohYfQvvinh6kZ4gb29mC20w==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:09+00:00	login	t_christina05r_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:09+00:00	name	t_christina05r_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:49:09+00:00	last_login	2018-04-16T20:49:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:49:09+00:00	api_token	6a61ea41960d9ebdbf08e3d5c0d25f75
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:49:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfY2hyaXN0aW5hMDVyX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYzNzUwLCJpYXQiOjE1MjM5MTE3NTAsIm5vbmNlIjoibVNLbVdNWlh5Y2I2YkVzd0lZaGpBWm5wU3hKbVFac0Q3Snhma1J3czc4TT0ifQ%3D%3D.36K0AVgExJmDqHOjoQFoNeixbRzNxM5005dZI_VtjGe0gFDZjz9c1-wMRXEPr8uH4hLqDxVkEgqqdvBRjIsDEg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	CGEm5SxFg8FENFdCpc29MSELoeQJL20o
+.twitch.tv	TRUE	/	FALSE	2020-04-15T20:49:19+00:00	__gads	ID=55eb92b57c9d0dca:T=1523911759:S=ALNI_MY13_pN34inFu0L4hqC8SbHpaaMGg
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM5MTU0MTYsIm52IjoxLCJ1cHQiOjE1MjM5MTUzOTMsImx0IjoxNTIzOTE1NDE1fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:50:16+00:00	twilight-user	{%22authToken%22:%2256e1pp91q9099j4u5r9j95t562ecjp%22%2C%22displayName%22:%22t_christina05r_d%22%2C%22id%22:%22214785799%22%2C%22login%22:%22t_christina05r_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:50:16+00:00	auth-token	56e1pp91q9099j4u5r9j95t562ecjp

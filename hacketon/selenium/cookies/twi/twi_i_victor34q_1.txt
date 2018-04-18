@@ -1,0 +1,13 @@
+#i_victor34q_1
+.twitch.tv	TRUE	/	FALSE	2028-04-13T20:38:06+00:00	unique_id	PysjhPOrpdijeNF9gpccCGl0lkB2WwOb
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fjiYd0gLcazz%2By%2F8fzP0PypUfd6GSFN%2Fe0btVVqpKVg%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:40:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:41:00+00:00	persistent	214784098%3A%3Afk8wcyp6sshgqc1nqetiy6di3ul692
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:41:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODQwOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MDYwLCJpYXQiOjE1MjM5MTEyNjB9.2JJPf4UDB5X__UhJh9c7d9fYeudez6-ixBGf_ieU2mo_bKSxRqU93Gc3qf96cQGsR4prGXEnRNJ_mdjH93wk1A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:41:00+00:00	login	i_victor34q_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:41:00+00:00	name	i_victor34q_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:41:00+00:00	last_login	2018-04-16T20:41:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:41:00+00:00	api_token	8be6141ba8b2b9c128b9825b924f6064
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:41:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfdmljdG9yMzRxXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYzMjYwLCJpYXQiOjE1MjM5MTEyNjAsIm5vbmNlIjoiRThra2F0MHVsa1AyaWVFTXpXWDlYTTdFUFZqVDl0YVZnQ29lOHB3ZmN3Yz0ifQ%3D%3D.l3PxNwPYJL0ILAl6Fg7onigB-MEIg4KX87lcWXFGpOtcAw36Ur7I5b7g41gsFHfbsnpSLt6rAu5OhgtBH54OiQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:41:48+00:00	twilight-user	{%22authToken%22:%220zq7hwccyncsxka09seetjqxi29nah%22%2C%22displayName%22:%22i_victor34q_1%22%2C%22id%22:%22214784098%22%2C%22login%22:%22i_victor34q_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:41:48+00:00	auth-token	0zq7hwccyncsxka09seetjqxi29nah

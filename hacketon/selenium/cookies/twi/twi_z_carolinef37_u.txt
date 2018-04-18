@@ -1,0 +1,13 @@
+#z_carolinef37_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	T3zrUsgudtXP8NU9UxusFZz7HC5U%2F8v3xgYI4Y04piY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:06:37+00:00	unique_id	cb10b74b6cfd926d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:06:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:07:06+00:00	persistent	215072957%3A%3Aaqszgeafubpg1jv1awg5qg8nfuopgb
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:07:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzI5NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0MDI3LCJpYXQiOjE1MjM5OTkyMjd9.xFr6msow8k0NeGVtWfpZ7b6CQhircECKYn8swv6rrvpIeFhFOkUADc_k9N2LipSfH4sCIQczOkyPAE2l79BwaQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:07:06+00:00	login	z_carolinef37_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:07:06+00:00	name	z_carolinef37_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:07:06+00:00	last_login	2018-04-17T21:07:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:07:06+00:00	api_token	35fc51ef5f034cf7e90e178adcbf2809
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:07:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY2Fyb2xpbmVmMzdfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTEyMjcsImlhdCI6MTUyMzk5OTIyNywibm9uY2UiOiJqaE9yODA0dm0wSmxJTGFrVjlaWVVmeVFlR3VaSlhrWTlDR2o4WmdGbFh3PSJ9.YJAR1x_Mosd-tc5wWRxzDdT2pr2oFS4Rqdn_2tRMglLVECcDI75HsJmUYhkqbhC6bPiguwI8jsinivhVt758xw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:07:57+00:00	twilight-user	{%22authToken%22:%22hrvcqz9v08havs0fzomi73ga7gxvhb%22%2C%22displayName%22:%22z_carolinef37_u%22%2C%22id%22:%22215072957%22%2C%22login%22:%22z_carolinef37_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:07:57+00:00	auth-token	hrvcqz9v08havs0fzomi73ga7gxvhb

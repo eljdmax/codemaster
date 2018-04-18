@@ -1,0 +1,15 @@
+#h_victoria28s_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	P3nl%2Fglqjdn5BISooVzYjbW3ZTGS0NLiRW0V6hN4adA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:44:46+00:00	unique_id	ab9f1a3e34e660d4
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:44:46+00:00	_twitch_session_id	4f8c23e00c7de01b855c3ed3b013e3bd
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:44:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:44:58+00:00	persistent	214573753%3A%3Ahc0iyzdaw296upu6gvuas2b0bpsrfy
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:44:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzM3NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5ODk5LCJpYXQiOjE1MjM4MjUwOTl9.uJPNzkFmkWOfk9W6JqlUP6ApwJePfYRVuQlmygmbZaVMkW1k8c4JIBGQjEVpZr_9eq3aZc_msNeMdzjBB1ODeA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:44:58+00:00	login	h_victoria28s_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:44:58+00:00	name	h_victoria28s_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:44:58+00:00	last_login	2018-04-15T20:44:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:44:58+00:00	api_token	a9649ecd52886f46c01fff84d402e114
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:44:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfdmljdG9yaWEyOHNfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzcwOTksImlhdCI6MTUyMzgyNTA5OSwibm9uY2UiOiJHdHZHT1lvX2NBaVUwT3hkTDl0RjFJQWZHN05peXZWUFpZeU12eWZSYnpnPSJ9.ocx6T58k6Czbnk0YZDExXl_i94VNDwxkEFMv37stxJcHGoXFT95fUcQU5G7CXs7yyaMGSmrL7VcHs5lzuBhipg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:45:38+00:00	twilight-user	{%22authToken%22:%22xrtqeqk4h9306tpow56dretlbhlrmm%22%2C%22displayName%22:%22h_victoria28s_s%22%2C%22id%22:%22214573753%22%2C%22login%22:%22h_victoria28s_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:45:38+00:00	auth-token	xrtqeqk4h9306tpow56dretlbhlrmm
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:45:41+00:00	twilight_onboarding	true

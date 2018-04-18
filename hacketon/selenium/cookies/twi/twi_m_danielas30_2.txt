@@ -1,0 +1,13 @@
+#m_danielas30_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QoW4JctAEttYQ4wMo25XmEl7vRAGBnszJCojCC5PPHY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:47:29+00:00	unique_id	5fb6db8a9e77ddef
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:47:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:48:01+00:00	persistent	214560051%3A%3Amb847jy8jfkwtpe39oe39ldh781hft
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:48:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjAwNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2NDgyLCJpYXQiOjE1MjM4MjE2ODJ9.VAyFwL_W_XO-e7L1LaQCD9lbofuMYuhb3UC7J1Kz-SyPep0WtODeSts1keoIqQ4FlyDAz97PaLr9CMuxWIRpxw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:48:01+00:00	login	m_danielas30_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:48:01+00:00	name	m_danielas30_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:48:01+00:00	last_login	2018-04-15T19:48:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:48:01+00:00	api_token	67f004a318facfd7932d5804814e1798
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:48:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGFuaWVsYXMzMF8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzY4MiwiaWF0IjoxNTIzODIxNjgyLCJub25jZSI6ImNGOUwtM2pxb3pnMmwyZG40V2IyUXI3RGdweEUtU2VON0tIN1doYmlYVFE9In0%3D.eawOvPWIfCFNX54JrppNVTCdKDQ3ShXQknvsgRAHHWKpE2u7-YkCS7C8ehcE1SKBxkSbtJyEAskUKdntkxRxHQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:48:41+00:00	twilight-user	{%22authToken%22:%22poe86bwka48mqv2qotyripbzk6s55a%22%2C%22displayName%22:%22m_danielas30_2%22%2C%22id%22:%22214560051%22%2C%22login%22:%22m_danielas30_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:48:41+00:00	auth-token	poe86bwka48mqv2qotyripbzk6s55a

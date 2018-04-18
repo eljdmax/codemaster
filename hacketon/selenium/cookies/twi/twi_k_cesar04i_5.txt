@@ -1,0 +1,17 @@
+#k_cesar04i_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4OuBRcl%2FGw4vDKE8pPfS2QYh4P5D2il%2BZG80OdqmHlw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:15:13+00:00	unique_id	e9f8062fa80e7f80
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:15:13+00:00	_twitch_session_id	4e44eeed330d382881f631f65ac9cb58
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:15:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:15:30+00:00	persistent	215088653%3A%3Axzerul1eljkmz24qcutufj1uok0dwr
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:15:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODg2NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4MTMxLCJpYXQiOjE1MjQwMDMzMzF9.MAbmokz4viLYKahgIlRW_nX41z-sSDdsxdnSk3Qg7S4u8pOiLArboP8xRgOh0PaBGH3L_w1oNOVlCbpnme-XYA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:15:30+00:00	login	k_cesar04i_5
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:15:30+00:00	name	k_cesar04i_5
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:15:30+00:00	last_login	2018-04-17T22:15:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:15:30+00:00	api_token	e4d26ef2943fd46b05f81add2ab48cac
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:15:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2VzYXIwNGlfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTUzMzEsImlhdCI6MTUyNDAwMzMzMSwibm9uY2UiOiJLRWdwelRxMnk2SVhsOHhCbTlIeGhpSU9SMlB6ZUZaRHF2TGFFYnJtZXdFPSJ9.3nHpGC68ZGKiih8Bztp7c29FWfTVBhdKazLliIEZY1d66CuFCYbZjlY00kKV4X-Pr28bBBRLBBba6Iu3u6JesQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	gLp5Ol0CJLR6UVK442frzAWbuBVT41h4
+.twitch.tv	TRUE	/	FALSE	2020-04-16T22:15:37+00:00	__gads	ID=d8e757d91e362999:T=1524003338:S=ALNI_MYP8zTj3CKHjMnq9q6quOaX7QgILg
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQwMDY5ODcsIm52IjowLCJ1cHQiOjE1MjQwMDY5NzgsImx0IjoxNTI0MDA2OTc4fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:16:28+00:00	twilight-user	{%22authToken%22:%22rkh3bdacxqiya9bza5mbjjyngo6l13%22%2C%22displayName%22:%22k_cesar04i_5%22%2C%22id%22:%22215088653%22%2C%22login%22:%22k_cesar04i_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:16:28+00:00	auth-token	rkh3bdacxqiya9bza5mbjjyngo6l13

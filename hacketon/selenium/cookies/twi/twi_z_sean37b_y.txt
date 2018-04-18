@@ -1,0 +1,13 @@
+#z_sean37b_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	MMr4CjGBJ04ZjXOQtHIttbRRf9YFLub0Ried4HSYHSM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:51:07+00:00	unique_id	5a0a0d24cc507799
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:51:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:51:30+00:00	persistent	214819734%3A%3Acwxc19td3v4l3ukiyqzvx7vubyyf1f
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:51:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTk3MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzODkwLCJpYXQiOjE1MjM5MTkwOTB9.vMMQd9MsfnHY_l6oUS2vGV3P9_aXuLkzEi1MUeGD2IXEnowcoTTqUVSJAt19xH4sX1w1kNtYznOhgtPfVuYEog==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:51:30+00:00	login	z_sean37b_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:51:30+00:00	name	z_sean37b_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:51:30+00:00	last_login	2018-04-16T22:51:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:51:30+00:00	api_token	c67169d5b5d449a159406a7468d8162f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:51:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc2VhbjM3Yl95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MTA5MCwiaWF0IjoxNTIzOTE5MDkwLCJub25jZSI6Im9pV1pEcUVBZWRybm1qeGRLT3pJdTVXcjRPZ0VBTVF3X0ZQZHBsRE5tekE9In0%3D.0iTPtLMTHjpHWe7tDBiHvzgW0o6ptMFpf_fCiPfOmjSKNod48sRWGpYZDZrwvJP7OE3TEMmKYJt-r70nsyLTTw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:52:16+00:00	twilight-user	{%22authToken%22:%22ugc52nauinl3qblciixma7mj1ham9u%22%2C%22displayName%22:%22z_sean37b_y%22%2C%22id%22:%22214819734%22%2C%22login%22:%22z_sean37b_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:52:16+00:00	auth-token	ugc52nauinl3qblciixma7mj1ham9u

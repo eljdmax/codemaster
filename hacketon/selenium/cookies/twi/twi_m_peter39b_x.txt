@@ -1,0 +1,14 @@
+#m_peter39b_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0IB4vPuv4qypKHl6ZAdrMNX7MoVOT%2Bgc%2FcNAlAwxRfE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:26:24+00:00	unique_id	e4051cfc8c1c35bf
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:26:24+00:00	_twitch_session_id	7e84e521758f636e80b7a7662d94ef67
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:26:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:26:53+00:00	persistent	214809155%3A%3A6vl2ifpo8usn7utx30t2dk1akj5bcw
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:26:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDkxNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyNDE0LCJpYXQiOjE1MjM5MTc2MTR9.FW6sYUtu4AiKquRUKJ9Jefxrp2yPyA6PlyVxoAaKd4N8Qqu5IatoJvAPNZlch1pL2CSbHyq3N5VeOvU-g0K-9g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:26:53+00:00	login	m_peter39b_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:26:53+00:00	name	m_peter39b_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:26:53+00:00	last_login	2018-04-16T22:26:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:26:53+00:00	api_token	d84ac8c709a467e777187e4cbd2b23ac
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:26:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fcGV0ZXIzOWJfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0Njk2MTQsImlhdCI6MTUyMzkxNzYxNCwibm9uY2UiOiI5RjA3ZUxoaktmZGtBTmtLS09VdVdhWThNTF9nWllLYzQtaExEUkFhdjlnPSJ9.f3wglYJZlITs3wMicEZyugETWfCJRuin0uGASlWsJ7ieXQ53Tfv7h7mzXk6zQud6NgMeQzLXUPWZs26zoXGFyg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:27:40+00:00	twilight-user	{%22authToken%22:%22ab68lvs7i4q4l7dv59oh34u3218mrk%22%2C%22displayName%22:%22m_peter39b_x%22%2C%22id%22:%22214809155%22%2C%22login%22:%22m_peter39b_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:27:40+00:00	auth-token	ab68lvs7i4q4l7dv59oh34u3218mrk

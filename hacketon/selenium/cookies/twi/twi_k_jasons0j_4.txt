@@ -1,0 +1,13 @@
+#k_jasons0j_4
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:11:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nkktvTjQS%2FO9g53mWHvaSf4PfSvCLIHkkWk8vZQZRUo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:15:16+00:00	unique_id	e275cea6b77d3227
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:15:36+00:00	persistent	215075036%3A%3A5basoj13tfwmlk7p6tuhh0e4gq1ysz
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:15:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzUwMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0NTM2LCJpYXQiOjE1MjM5OTk3MzZ9.thMm9mA3Igy69OH7kz8vSfxw-BEpHz-Tt4Sxnh8udD6Rgr27ip9vkiwxys9J16Yh_7YwJ8NWFecdjhABa6pkHw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:15:36+00:00	login	k_jasons0j_4
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:15:36+00:00	name	k_jasons0j_4
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:15:36+00:00	last_login	2018-04-17T21:15:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:15:36+00:00	api_token	3903acefd5c9f7d7eb38e5a589347ac6
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:15:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamFzb25zMGpfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTE3MzYsImlhdCI6MTUyMzk5OTczNiwibm9uY2UiOiJ2THg2NlgtUEpCUm82akRPcTZ2TmtZb1VSWlRPVk9DM2lUNlFaOHlBMTVjPSJ9.9_y-ol_kDWGvF2_YrNr9nMY2HNuSnKfLAK3FSLRWr3cU0IifUDkQ30F4oMAklfx38E5t2X2VQTsTSD-iAD87LA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:16:24+00:00	twilight-user	{%22authToken%22:%22xo7haozzpxuaq9fk6bct3x5h6f7wal%22%2C%22displayName%22:%22k_jasons0j_4%22%2C%22id%22:%22215075036%22%2C%22login%22:%22k_jasons0j_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:16:24+00:00	auth-token	xo7haozzpxuaq9fk6bct3x5h6f7wal

@@ -1,0 +1,14 @@
+#b_kayla545_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	81LeDAIZbXyqoK0gGuKH1%2Bd9FSc9SemVPD2XZKHiNQQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:35:08+00:00	unique_id	14fc7c842f6818fd
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:35:08+00:00	_twitch_session_id	0590bf0761a1d684fe6f8f713c679fc5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:35:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:35:29+00:00	persistent	214571572%3A%3Aqauhiuoo9tb5oo0ayak9u0j6ahq8kq
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:35:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzE1NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5MzMwLCJpYXQiOjE1MjM4MjQ1MzB9.t0Uwnb-kQ3t5mdBiNWnuwOHrjbAVOGB_RVw9ThitKTHLWteqp6G5Ghy4-3ErVwmIQJ8loGZFoh6VXZAF5ZZjtw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:35:29+00:00	login	b_kayla545_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:35:29+00:00	name	b_kayla545_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:35:29+00:00	last_login	2018-04-15T20:35:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:35:29+00:00	api_token	5d6b03f71024b9019ebf72ed861e4d89
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:35:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa2F5bGE1NDVfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzY1MzAsImlhdCI6MTUyMzgyNDUzMCwibm9uY2UiOiIyV1Y3MG1iRFcyQkdZNE5LaGtReGlMZm0yVlkwaWFSa2V5QVhDX0hjN3dRPSJ9.5Bxbf5hgt5udyPmVpdJvFJxY9COQf8ctHUaZ4IY8goGo1dnRVAre-m06GRBWHSI10vFc5BYBYjBFKYR6dirIOQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:36:09+00:00	twilight-user	{%22authToken%22:%22siro1giibwaet7uh8v6vcwhf7epr7y%22%2C%22displayName%22:%22b_kayla545_t%22%2C%22id%22:%22214571572%22%2C%22login%22:%22b_kayla545_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:36:09+00:00	auth-token	siro1giibwaet7uh8v6vcwhf7epr7y

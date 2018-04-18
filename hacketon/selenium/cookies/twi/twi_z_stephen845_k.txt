@@ -1,0 +1,16 @@
+#z_stephen845_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q4lrHPwnd8Bx8JjLQOv3jYsV04jENuyt4mF7PTHzp40%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:30:15+00:00	unique_id	e65be4ac6a248127
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:30:15+00:00	_twitch_session_id	8de1fc3ec57d7de50217de08ebd193dd
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:30:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:30:39+00:00	persistent	215091957%3A%3Atm2psadcqb6412pbsuokmlzuxejo3c
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:30:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTE5NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA5MDQwLCJpYXQiOjE1MjQwMDQyNDB9.GdAiTy3uPlzyfQLgFEVQ9bdDlekNZ3dTIUtkHC9DiPcS2p7B7_GqD5BjwkbZRwulqwI1U5ge8AuJpwgF9pDWuw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:30:39+00:00	login	z_stephen845_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:30:39+00:00	name	z_stephen845_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:30:39+00:00	last_login	2018-04-17T22:30:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:30:39+00:00	api_token	f860c3509c353f956a2f4d62bef318bf
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:30:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc3RlcGhlbjg0NV9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NjI0MCwiaWF0IjoxNTI0MDA0MjQwLCJub25jZSI6IkVJV2VnRjhCUjF4Y01zLTBPR0RhVzJCMVItalJNSnBXNzBEVVZmYmRKX1E9In0%3D.iZmeUye02Zaav7tEJCUH1vptHttqRLFUrGiP6COdogDkg8Zof8fHUwsBHXgpQsNuXyZjoKH9gVgEZXw3IyKjHw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	MXOMTL3MD4DTufxJj5dQVWKXCPH6oEkA
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:31:35+00:00	twilight-user	{%22authToken%22:%22rdhx2q08mjz3pfqzfext4xg6j6kc7y%22%2C%22displayName%22:%22z_stephen845_k%22%2C%22id%22:%22215091957%22%2C%22login%22:%22z_stephen845_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:31:35+00:00	auth-token	rdhx2q08mjz3pfqzfext4xg6j6kc7y
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:31:38+00:00	twilight_onboarding	true

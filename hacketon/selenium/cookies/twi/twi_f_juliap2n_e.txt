@@ -1,0 +1,13 @@
+#f_juliap2n_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0OdRrpkE3LY2X0sfF8ClkEwZIijcLLhUZj3v8BSbKOg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:02:30+00:00	unique_id	5dbd214d3ee3a7f5
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:02:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:02:58+00:00	persistent	215056955%3A%3Argszsfojdn430s82upo7xuej60iuxr
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:02:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTY5NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwMTc4LCJpYXQiOjE1MjM5OTUzNzh9.MPmAzzBHt_qFk4CPdhS2sE4HnYzCbT5w4nMA54XFtbPYUKc7ld6t1xYQWSQjs429DyncMkpEge4mbyHUAfBQeg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:02:58+00:00	login	f_juliap2n_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:02:58+00:00	name	f_juliap2n_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:02:58+00:00	last_login	2018-04-17T20:02:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:02:58+00:00	api_token	f2469f24474c2ed384e94eff2571cfda
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:02:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfanVsaWFwMm5fZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDczNzgsImlhdCI6MTUyMzk5NTM3OCwibm9uY2UiOiJQUnVjS25tcUczUklyNTdEU2ZhTXlCSC1rRzE2UlY3SVJrUjFYOFgzVlA0PSJ9.WB0fCfotMXcKoaiZC7x6dDdxuxDb7a3Z-Dfvg56LC2VWCQhSNWQ3fIsgWbgyXjj8YeHut_st8cP7cLSetB5TJw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:03:49+00:00	twilight-user	{%22authToken%22:%22geu4gpdktuzyiyk4dssulkja2ulfg7%22%2C%22displayName%22:%22f_juliap2n_e%22%2C%22id%22:%22215056955%22%2C%22login%22:%22f_juliap2n_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:03:49+00:00	auth-token	geu4gpdktuzyiyk4dssulkja2ulfg7

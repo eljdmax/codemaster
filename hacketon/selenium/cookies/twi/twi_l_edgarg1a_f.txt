@@ -1,0 +1,14 @@
+#l_edgarg1a_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UDsfqUJQSyOLnmiOfR%2FpmIm9V9xK9F6ELeNY4nSw3Rs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:57:20+00:00	unique_id	2f67dcd39e4da461
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:57:20+00:00	_twitch_session_id	7d46a9d96878cf174e4d99068f6dd3ba
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:57:20+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:57:39+00:00	persistent	214787673%3A%3A33rp4hbxm0gzk7vkunwmnjgw9fo9c2
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:57:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODc2NzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3MDYwLCJpYXQiOjE1MjM5MTIyNjB9.YiYOx0kXV2Elv4Z7TzBwf5LbHo1h4BWIKK9iFI-jBBvgNx-02wAd36boNGLH8ncyUGdhn6jCuYVMWNf7eiDOUA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:57:39+00:00	login	l_edgarg1a_f
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:57:39+00:00	name	l_edgarg1a_f
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:57:39+00:00	last_login	2018-04-16T20:57:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:57:39+00:00	api_token	24d0f1a2e1745f50b6fbbb0706d94f4b
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:57:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfZWRnYXJnMWFfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQyNjAsImlhdCI6MTUyMzkxMjI2MCwibm9uY2UiOiJOdDlPZFZQVl9CbkdSV0lCa0JQZ09TOXhjaWxOa3hHRDNyUkNITHo1dG9zPSJ9.MFjCJ7BZahrcXhlRN1AzqH3Dgr6-t9Xh9JvZnbCClDTpgNzBNP0nGCRhqJRvofVbZGUMNHxqzXeP4zzltcMU-A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:58:23+00:00	twilight-user	{%22authToken%22:%22mcvqd9mj8xbsdzr3ptpzy6ibg2cguu%22%2C%22displayName%22:%22l_edgarg1a_f%22%2C%22id%22:%22214787673%22%2C%22login%22:%22l_edgarg1a_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:58:23+00:00	auth-token	mcvqd9mj8xbsdzr3ptpzy6ibg2cguu

@@ -1,0 +1,13 @@
+#d_layla32c_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DsHOMkNruSjPrjCcE7FHCWWcwDBovvImHJGwsLoFCUY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:53:52+00:00	unique_id	e5a937e3d2a4485f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:53:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:54:15+00:00	persistent	214561607%3A%3Acm25f4m20eboaqxg1gp9g3fivbpz4m
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:54:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjE2MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2ODU2LCJpYXQiOjE1MjM4MjIwNTZ9._t0Qsv_NOmlvdlCu43W5jmfFHWutc093tCH4RjJ97JKZqrioF8dEkq9o0_GQv5IFQYGgnYr-uK7aDnozrNJc0A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:54:15+00:00	login	d_layla32c_i
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:54:15+00:00	name	d_layla32c_i
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:54:15+00:00	last_login	2018-04-15T19:54:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:54:15+00:00	api_token	4bb79976704f1795a0d1f5fb011bd540
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:54:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbGF5bGEzMmNfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzQwNTYsImlhdCI6MTUyMzgyMjA1Niwibm9uY2UiOiJrU3FZbXF0QVFVR0o2cUlBTWtxTGI1LWJLRjBld0xXWm9CMzdHRElLelVnPSJ9.rA1CC7D9jmxccy1zIFxKe921pbzzYUoBFVbmVLjH2YsAfoBExJjvLkBmhS0SaGZ01t2kxpEsOibvWZ-3uAqMUA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:55+00:00	twilight-user	{%22authToken%22:%22skxahvzz7e18c1qnlc5z5iu0h3jsl2%22%2C%22displayName%22:%22d_layla32c_i%22%2C%22id%22:%22214561607%22%2C%22login%22:%22d_layla32c_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:55+00:00	auth-token	skxahvzz7e18c1qnlc5z5iu0h3jsl2

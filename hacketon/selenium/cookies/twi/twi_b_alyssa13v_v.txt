@@ -1,0 +1,14 @@
+#b_alyssa13v_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FffeUco6kA%2F%2B4QiSamGZLpSUAmGNX40A6FC1TqgnA1I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:47:24+00:00	unique_id	bacf0596c130d9e6
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:47:24+00:00	_twitch_session_id	d8aca099e37ec1a4a52e96cef47c12ed
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:47:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:47:45+00:00	persistent	214818415%3A%3Ahinbyi5ufirn6d5xd8y397smjzpy48
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:47:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTg0MTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzNjY2LCJpYXQiOjE1MjM5MTg4NjZ9.6QL1kVz-H2AmnArinmEFSL68NLrbN6k-sV8cHX8nsQpsgQlEz1W1yeSmJm-mPFS6o9YhP4G_VX-1xtRkQJZRSw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:47:45+00:00	login	b_alyssa13v_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:47:45+00:00	name	b_alyssa13v_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:47:45+00:00	last_login	2018-04-16T22:47:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:47:45+00:00	api_token	e0fdaf4ee83274690450375eb89bc4e6
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:47:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYWx5c3NhMTN2X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcwODY2LCJpYXQiOjE1MjM5MTg4NjYsIm5vbmNlIjoiMEloNG5XR2t3Zk5JeW9WZ1ZfVWxGd1lWN1Q2NnVMVEcxX2dXX1JKdDBDdz0ifQ%3D%3D.qten2vTI1kmwxFhWVZ4USxaTyNN3_T3oI39yShqSZ1mTPwlAvY0oVcv6JW9WDT02_oVeA7P0OrGokC8zTmh3MA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:48:29+00:00	twilight-user	{%22authToken%22:%22ohy0v30wmqe2dnn25a017co0fpas73%22%2C%22displayName%22:%22b_alyssa13v_v%22%2C%22id%22:%22214818415%22%2C%22login%22:%22b_alyssa13v_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:48:29+00:00	auth-token	ohy0v30wmqe2dnn25a017co0fpas73

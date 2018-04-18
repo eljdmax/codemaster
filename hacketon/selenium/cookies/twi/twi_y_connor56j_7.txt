@@ -1,0 +1,14 @@
+#y_connor56j_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	b%2BOMNUwvUE9XU%2BuFkHAgUQsEvM%2B64va19KJTZFx0bqg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:41:17+00:00	unique_id	140cac76f037544c
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:41:17+00:00	_twitch_session_id	20a38afcc4287b6365be3d5daefd03d7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:41:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:41:43+00:00	persistent	214585645%3A%3Aynk6zlvtuyyb3k6isiaviczn38l7hp
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:41:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODU2NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMzAzLCJpYXQiOjE1MjM4Mjg1MDN9.U7LMDMHOtkJASFCHKEIeNH1auBPgGyWLt5vAXeOajMshFIny-G-A_alFhNDk6bMgN_T800DNge_9Aod741Hu8w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:41:43+00:00	login	y_connor56j_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:41:43+00:00	name	y_connor56j_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:41:43+00:00	last_login	2018-04-15T21:41:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:41:43+00:00	api_token	44e2426423112f843176e1f0c543e743
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:41:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfY29ubm9yNTZqXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgwNTAzLCJpYXQiOjE1MjM4Mjg1MDMsIm5vbmNlIjoiVFB2VkZkSTdWb0Z0Y1RtVERKa1ZmekZtdUdEcnZhTWpPNk1ORVdMWm5xVT0ifQ%3D%3D.LsgMWJiFOMTWRAovnKw0_t3NiliCcs42OjUHUlfC3CZOq2wYGEayuYACZxOCjF-g8hmiqIECu96BQL-oxiAHxw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:42:22+00:00	twilight-user	{%22authToken%22:%22u8nia4yvut1swb47fp59go6901l4pv%22%2C%22displayName%22:%22y_connor56j_7%22%2C%22id%22:%22214585645%22%2C%22login%22:%22y_connor56j_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:42:22+00:00	auth-token	u8nia4yvut1swb47fp59go6901l4pv

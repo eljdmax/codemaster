@@ -1,0 +1,13 @@
+#v_trevor63n_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FlqJh7s%2FzYbcw0GDcyD%2B8JjY5H2DuIsfPskbn5o3GhY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:26:53+00:00	unique_id	6740152481e7a2f4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:26:53+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:27:16+00:00	persistent	214554608%3A%3Ackz29dz3i5cdt8xlx1o9rc8fwczpjm
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:27:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTQ2MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1MjM2LCJpYXQiOjE1MjM4MjA0MzZ9.4gRCCI7wxclcSJcM7Ahsew-MQCbFXiFm9yHRHRCsPZseT9EOyNcyZLRK7MMW0-R6lDx9oWHX-YPq6AkuhylKMA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:27:16+00:00	login	v_trevor63n_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:27:16+00:00	name	v_trevor63n_2
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:27:16+00:00	last_login	2018-04-15T19:27:16Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:27:16+00:00	api_token	ed23e39635e3092f928d87398a4d5089
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:27:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfdHJldm9yNjNuXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyNDM2LCJpYXQiOjE1MjM4MjA0MzYsIm5vbmNlIjoiUW1aOUJJdXJ1MHNNT2hxX1BMYlJlQktOS29WZUF1SW9lRUVKcFA4NkRMND0ifQ%3D%3D.kD_pxv1roAa3aAxD_vNa_66lQpFYIvAuRJPl7asfHiw5IaBK7rM88mwffx1mANmw10kazYfvyYcGCiPs6lOnkg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:27:55+00:00	twilight-user	{%22authToken%22:%22n8ahb3vo9rdopp8d2xlvrp8qyv4o9k%22%2C%22displayName%22:%22v_trevor63n_2%22%2C%22id%22:%22214554608%22%2C%22login%22:%22v_trevor63n_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:27:55+00:00	auth-token	n8ahb3vo9rdopp8d2xlvrp8qyv4o9k

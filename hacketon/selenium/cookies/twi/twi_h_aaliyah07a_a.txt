@@ -1,0 +1,13 @@
+#h_aaliyah07a_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	r3DIC%2FXTUv3kzUjb%2Fx2qsM9E3Eg4fwazqZVLp0U6WVQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:32:42+00:00	unique_id	ffacb715e3c82e15
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:32:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:33:02+00:00	persistent	214556085%3A%3Aw7n3ii85q8vdp2m9zp8amodl8rgs9u
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:33:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTYwODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NTgyLCJpYXQiOjE1MjM4MjA3ODJ9.85fG_0s7UEFGNHfe2-pLZ0zeGY-EN_WLJq3M_5exKXKtRTb_0CHF3n1vcDP2XosADZEA6uI8n9ve7elDPPBY1A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:33:02+00:00	login	h_aaliyah07a_a
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:33:02+00:00	name	h_aaliyah07a_a
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:33:02+00:00	last_login	2018-04-15T19:33:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:33:02+00:00	api_token	3e895293ff408e0011c91833b997619d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:33:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYWFsaXlhaDA3YV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3Mjc4MiwiaWF0IjoxNTIzODIwNzgyLCJub25jZSI6ImdaX3diRTFMdjB1Vnl1MXZPdU1UNFhKQUNIRHFad1ExZ0Y4ZW9ab2ZhRzg9In0%3D.P8_xrO_At-MFz1KrmuF5PxoWKfrXJp1xpuv9v70Jm9bGssLvFM902ini3kLypQuoX0haRZYCELr835DLGSuRwQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:33:40+00:00	twilight-user	{%22authToken%22:%226zbqom1ar568ammol2c1xolxfvdq15%22%2C%22displayName%22:%22h_aaliyah07a_a%22%2C%22id%22:%22214556085%22%2C%22login%22:%22h_aaliyah07a_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:33:40+00:00	auth-token	6zbqom1ar568ammol2c1xolxfvdq15

@@ -1,0 +1,14 @@
+#b_gabrielu41_7
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:02:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	S%2BnUmSnVQri%2FCLKUheXMaghGKTCU%2BBG9l3HIanoszH8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:06:19+00:00	unique_id	2ead257e85e51c87
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:06:19+00:00	_twitch_session_id	71b3ed05eab5fd3fa4f0ffaabee135d1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:06:45+00:00	persistent	215072886%3A%3Akrliaonmr956qzcmb1wrnpojxsnx16
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:06:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzI4ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0MDA2LCJpYXQiOjE1MjM5OTkyMDZ9.jGvudkF6uP57BSTUsBlfLLJQqWFQ9WFZnSAZ3jf7ZxiLG1LYYH_876Tam0Bx0Y9D-f2BObNX53HA2AsQkGOq5A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:06:45+00:00	login	b_gabrielu41_7
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:06:45+00:00	name	b_gabrielu41_7
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:06:45+00:00	last_login	2018-04-17T21:06:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:06:45+00:00	api_token	9642fdeef86349a141894f8d74fa214f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:06:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZ2FicmllbHU0MV83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MTIwNiwiaWF0IjoxNTIzOTk5MjA2LCJub25jZSI6Imo3R0V0bndWY29GUldnSlplX1pRTGdWOWtZX0ViTjBuRTBBMWV2aGpkNVU9In0%3D.8r06abeX86K0AIoCQQL15QXweYE5jXVQvBviA0I1youO7ukgZnQEYh2GuOrs1dAKXpv5mhvSjnOui3yyUWDMMQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:07:34+00:00	twilight-user	{%22authToken%22:%227xbpv7y6up3s3lf4hytseyc6r1e785%22%2C%22displayName%22:%22b_gabrielu41_7%22%2C%22id%22:%22215072886%22%2C%22login%22:%22b_gabrielu41_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:07:34+00:00	auth-token	7xbpv7y6up3s3lf4hytseyc6r1e785

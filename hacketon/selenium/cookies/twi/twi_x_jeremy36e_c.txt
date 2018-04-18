@@ -1,0 +1,14 @@
+#x_jeremy36e_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Bwj6OFbOVqL4%2BXhDIzsFLpQ7b9U%2FK7R1lfH9DUzspUM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:47:50+00:00	unique_id	dae8ca3d7a7f8b8b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:47:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:48:14+00:00	persistent	214574440%3A%3Axg7mqci17tyiu8o3720jw3o0ifsl5q
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:48:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzQ0NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwMDk1LCJpYXQiOjE1MjM4MjUyOTV9.25uihcD4THFMR10hNOniQunAy0sGeywSwNuA8KqddlvbBrC-6odFNre6hk0Jrmcm5iXd90S9HmB9gAWR7-61Yw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:48:14+00:00	login	x_jeremy36e_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:48:14+00:00	name	x_jeremy36e_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:48:14+00:00	last_login	2018-04-15T20:48:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:48:14+00:00	api_token	1aaf60c90ca8d709d18504837c03fd01
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:48:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfamVyZW15MzZlX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc3Mjk1LCJpYXQiOjE1MjM4MjUyOTUsIm5vbmNlIjoiQ2w1Y1NSaXhVV0JaMHdkUTZpdE95eU9JRy1kNzlGRGt4UUlZM08zWl91UT0ifQ%3D%3D.PQvrKa7X4el4N4KPd7cVUBT5Uluo_HdskxUQ07swur8uKjb2CfnCXJfeEOgwcFV6cuBr2zjJX3Wa4by2bu21Eg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:48:55+00:00	twilight-user	{%22authToken%22:%22o92id1ikgeeuhd1wwjn1wgoov220bs%22%2C%22displayName%22:%22x_jeremy36e_c%22%2C%22id%22:%22214574440%22%2C%22login%22:%22x_jeremy36e_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:48:55+00:00	auth-token	o92id1ikgeeuhd1wwjn1wgoov220bs
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:48:58+00:00	twilight_onboarding	true

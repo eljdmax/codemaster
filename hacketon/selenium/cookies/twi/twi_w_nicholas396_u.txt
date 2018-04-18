@@ -1,0 +1,13 @@
+#w_nicholas396_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8ifvoRBXZc%2FoDCqDymvDt%2BcoWIrLv0CZ8F4rRegu6P4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:22:18+00:00	unique_id	5c72fb39476cbd91
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:22:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:22:32+00:00	persistent	214806622%3A%3A1t96d3x21ct2o20didpq62up2nunbi
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:22:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDY2MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyMTUzLCJpYXQiOjE1MjM5MTczNTN9.U7pTnwLDrikkeZDgrpw1PC_Zc-zb7EnMLxmkPC4MLlBpSA-exI-oJVIAmwFhm0y-AYBgwM3hqUwYEa1fAf61YA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:22:32+00:00	login	w_nicholas396_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:22:32+00:00	name	w_nicholas396_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:22:32+00:00	last_login	2018-04-16T22:22:33Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:22:32+00:00	api_token	9cc9337324d3fd8a39b4d4106e79d604
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:22:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbmljaG9sYXMzOTZfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjkzNTMsImlhdCI6MTUyMzkxNzM1Mywibm9uY2UiOiJtbFpUckhTRm9EaFEyMERCb0hXQVI3cmg4WFB6RzFfY195OFpuRE12V3A0PSJ9.feIcdaCFuJjqWl8FDDldf1rMWJnathEJaZC4AQpPImEFzmsjiwiJpHu9tNylDfDkROi7FZUnqeTHT8pm7O-yqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:23:16+00:00	twilight-user	{%22authToken%22:%22hjgdo2zmuw856ox5rb5jqfnmeanypl%22%2C%22displayName%22:%22w_nicholas396_u%22%2C%22id%22:%22214806622%22%2C%22login%22:%22w_nicholas396_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:23:16+00:00	auth-token	hjgdo2zmuw856ox5rb5jqfnmeanypl

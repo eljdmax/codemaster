@@ -1,0 +1,13 @@
+#z_ricardot7m_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yAMFmkehK2MWoiQRHTVMmKTP0px3nmfiFh027gUIels%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:51:09+00:00	unique_id	baa7b9de8b67c644
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:51:09+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:51:30+00:00	persistent	214798704%3A%3Ajwpwuf58t8cfjky8kcimmiy5zmvv1e
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:51:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTg3MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMjkxLCJpYXQiOjE1MjM5MTU0OTF9.Zw1Iunm5p-C_NJnP8-sjU4H5RVXRe9DeW_OQgjbldFjiwqpi3lJrU9T_GYCkU5oL10zZXX_l6_BsOVjusXtt3Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:51:30+00:00	login	z_ricardot7m_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:51:30+00:00	name	z_ricardot7m_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:51:30+00:00	last_login	2018-04-16T21:51:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:51:30+00:00	api_token	25d6e24f46bb7cc7a9e02b135dceccea
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:51:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfcmljYXJkb3Q3bV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NzQ5MSwiaWF0IjoxNTIzOTE1NDkxLCJub25jZSI6IllhOEktMk5wWHk0cnAyb1hGdTZDWnV5M19MR2FIUTVZUWZwcGNnRWFiOVU9In0%3D._EWjK1_w4fEc35sbbe0lnDdBY3M8mwMOppdwgU8MRRlEOR9YjQAwZqKDs4BmZv0v_O-eEWT-DKhENLmzboEwng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:52:14+00:00	twilight-user	{%22authToken%22:%22p6qkakfq1r5zpvmtombepzgkl12za1%22%2C%22displayName%22:%22z_ricardot7m_w%22%2C%22id%22:%22214798704%22%2C%22login%22:%22z_ricardot7m_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:52:14+00:00	auth-token	p6qkakfq1r5zpvmtombepzgkl12za1

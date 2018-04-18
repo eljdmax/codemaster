@@ -1,0 +1,13 @@
+#k_jacksonj24_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4zsVIxkDnMDxLL63d1PvsoQ%2BCm%2Fc8zIxE9yhe3mW5Mc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:19:51+00:00	unique_id	fad20c8d141c7e37
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:19:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:20:14+00:00	persistent	215089652%3A%3A777qntimqlueaivddi1vu8zeoddr59
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:20:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODk2NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4NDE1LCJpYXQiOjE1MjQwMDM2MTV9.mSPXDmpgMfls4NojgYCbJDZt832wVaAT2DwUDL2Bwm2-zHrHXwaVnHek8RGSbLmgE7vS39qo3FnTZqUwNTeTXw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:20:14+00:00	login	k_jacksonj24_l
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:20:14+00:00	name	k_jacksonj24_l
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:20:14+00:00	last_login	2018-04-17T22:20:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:20:14+00:00	api_token	a2e12749e00e40f55ab4494ef80e501e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:20:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamFja3NvbmoyNF9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NTYxNSwiaWF0IjoxNTI0MDAzNjE1LCJub25jZSI6IkU3RXNLSGtjUjBZWWV3X3FQYUlBaGhpYVYxbVVNN3VOWGFUd0tIZFhyQkk9In0%3D.6pMq02a7PnzoF3rn0W3Pt91YuiFOzBLleswY643NKqQb6vJELPTRdSNlKw-IbcOJRWN-RFa-vLK-cbjp-IRwLQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:21:02+00:00	twilight-user	{%22authToken%22:%22wsw5duomln3an9lx950pv0zeghsjf3%22%2C%22displayName%22:%22k_jacksonj24_l%22%2C%22id%22:%22215089652%22%2C%22login%22:%22k_jacksonj24_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:21:02+00:00	auth-token	wsw5duomln3an9lx950pv0zeghsjf3

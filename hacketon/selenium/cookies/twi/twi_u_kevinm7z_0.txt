@@ -1,0 +1,14 @@
+#u_kevinm7z_0
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM5MTkxNDQsIm52IjowLCJ1cHQiOjE1MjM5MTkxMzQsImx0IjoxNTIzOTE5MTM0fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aAS5odLirpb54NtKh2yyZv0xnBT%2FqciJ8MCkS1xQafE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:55:12+00:00	unique_id	08a456895a47e523
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:55:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:55:28+00:00	persistent	214799386%3A%3Augjtc55xu3bjzujh32tmj29v0swf9k
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:55:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTkzODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNTI4LCJpYXQiOjE1MjM5MTU3Mjh9.l6TXfNu40CVUmYoa-xZGY63jnob1G9zmaJkBAgL1SRqzxuGgWsuDpRlbp2VmYzZxG85Lio3rOCFvxECLWt_buQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:55:28+00:00	login	u_kevinm7z_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:55:28+00:00	name	u_kevinm7z_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:55:28+00:00	last_login	2018-04-16T21:55:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:55:28+00:00	api_token	22ee1baeb3b7362869a5bcba280ce8f9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:55:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfa2V2aW5tN3pfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0Njc3MjgsImlhdCI6MTUyMzkxNTcyOCwibm9uY2UiOiI4YmFKU2huTGJEN3FYcmNfLXNmWTIwSDdLNlZLZF9ibVJ2eElva3VXVUVZPSJ9.91xJwnLSOrLqJ0lh_Gyz1xhkKpW2ECF0Uo8uzCCxYkPGsGH1jltWcVTBnRK53yQhoqfACcmVLI4UU-O_onHUBA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:56:12+00:00	twilight-user	{%22authToken%22:%22bk51nl8onp8decjas0i0258046qn5y%22%2C%22displayName%22:%22u_kevinm7z_0%22%2C%22id%22:%22214799386%22%2C%22login%22:%22u_kevinm7z_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:56:12+00:00	auth-token	bk51nl8onp8decjas0i0258046qn5y

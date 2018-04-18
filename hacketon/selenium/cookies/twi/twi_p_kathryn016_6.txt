@@ -1,0 +1,13 @@
+#p_kathryn016_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7JNQqqFpp8diOX7qlTzjJR2Vgl8%2FRK2k5GffTP8BnNU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:34:44+00:00	unique_id	066f5a2321cb099d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:34:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:35:06+00:00	persistent	215079556%3A%3Aqrcnqxpbdefyqoays6qcvymzmzzztx
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:35:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzk1NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1NzA3LCJpYXQiOjE1MjQwMDA5MDd9.vGf_xIPq7av8-U6l98vSteoUANlyXvNfbWVRsjP8N9suub6jYDWs7l8cmNVxICjtYIlBbAjw7AgKHZ2OwK2MXQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:35:06+00:00	login	p_kathryn016_6
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:35:06+00:00	name	p_kathryn016_6
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:35:06+00:00	last_login	2018-04-17T21:35:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:35:06+00:00	api_token	51d94c21e722d644dcbc5e114a5c5348
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:35:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfa2F0aHJ5bjAxNl82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjkwNywiaWF0IjoxNTI0MDAwOTA3LCJub25jZSI6ImhBWDRyQWluejBOZUhaN3BJejh0OV8zU2tTcTd2S0RKY0xUSGNBRjdnMzg9In0%3D.RJOTOFxo3Jlg47ysqHnvH6-ZrcNMJd6glTXmLTZoSyZDa3rRCq7QW2kh7fMX5S63v2doBZA2MjWrYItqCTBLAA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:35:56+00:00	twilight-user	{%22authToken%22:%22eny8l25yxx6zlcelk2ywllclkuoq5t%22%2C%22displayName%22:%22p_kathryn016_6%22%2C%22id%22:%22215079556%22%2C%22login%22:%22p_kathryn016_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:35:56+00:00	auth-token	eny8l25yxx6zlcelk2ywllclkuoq5t

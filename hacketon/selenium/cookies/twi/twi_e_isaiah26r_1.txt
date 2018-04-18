@@ -1,0 +1,14 @@
+#e_isaiah26r_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fLQF9LYMsIjHM81ZBptNCJXH4GWEhNBnNDimtviQqq4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:11:19+00:00	unique_id	f9509043e2b67956
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:11:19+00:00	_twitch_session_id	b1cf720b2b625ff472acc3a7115a5b80
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:11:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:11:53+00:00	persistent	215074118%3A%3Aoblm7rp42nrzp4to8hxh5vfhipbkzn
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:11:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzQxMTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0MzEzLCJpYXQiOjE1MjM5OTk1MTN9.N2RxJbm4j_dCz-CiOLpRm7njpzJv508BWwf0nFprh0MkaMoAa7FVic3c-2-Bm-GTXhDkUcjmF1WyG8jdPWE_sQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:11:53+00:00	login	e_isaiah26r_1
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:11:53+00:00	name	e_isaiah26r_1
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:11:53+00:00	last_login	2018-04-17T21:11:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:11:53+00:00	api_token	cb59d0f4b71c78edb04d090f1a1eb402
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:11:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfaXNhaWFoMjZyXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUxNTEzLCJpYXQiOjE1MjM5OTk1MTMsIm5vbmNlIjoiZE1CX19pdjZTSWdYWmd4QWtCTVVKV010TmJpQlNGZTVkQkhlTUltZWdBdz0ifQ%3D%3D.-9NL-6M8JU7KiMnOR6cM_n9WT5yDdsT4tbXX4vVVNLIsoo3SKOkU2MjzZWUvb-vn4te1oQZoQsturm7B24hvUw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:12:42+00:00	twilight-user	{%22authToken%22:%22g9wmf93t3brbh3tof3c981d12rn305%22%2C%22displayName%22:%22e_isaiah26r_1%22%2C%22id%22:%22215074118%22%2C%22login%22:%22e_isaiah26r_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:12:42+00:00	auth-token	g9wmf93t3brbh3tof3c981d12rn305

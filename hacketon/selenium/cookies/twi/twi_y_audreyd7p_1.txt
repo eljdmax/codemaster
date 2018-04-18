@@ -1,0 +1,13 @@
+#y_audreyd7p_1
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QHBOo4jI%2Bf07HpJd29hTrnRfnbTa3ApxMSHcqcMrBL4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:14:45+00:00	unique_id	d06e1d3dd4154339
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:15:04+00:00	persistent	215060009%3A%3Ajrdercvka9no0lx91hzlk8jfebszip
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:15:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjAwMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwOTA1LCJpYXQiOjE1MjM5OTYxMDV9.F8R9UN7X1cepJxd_fjH_M6U-AOVwIFPRUEeshI-6xaqYMc8NGvijZwDIqHT7jOBs4Givq0vpmie4ZUUltz8acQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:15:04+00:00	login	y_audreyd7p_1
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:15:04+00:00	name	y_audreyd7p_1
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:15:04+00:00	last_login	2018-04-17T20:15:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:15:04+00:00	api_token	1492c1f09a124e13a973a50713cecfd7
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:15:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYXVkcmV5ZDdwXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ4MTA1LCJpYXQiOjE1MjM5OTYxMDUsIm5vbmNlIjoiaHN2VkV6LWZReVhZNUFMTEduNmI0V3BSUkhFX3hrRnh0cXE1MEs1RjNuaz0ifQ%3D%3D.w2wSL1_cI8Hfq7lXc2A3Ee3m39LloBlpn777miUOEUJ7whJDD6K6kcvBqpLyXiVPo1c1MX6WllubRUjcqa4hEA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:16:00+00:00	twilight-user	{%22authToken%22:%224h1t8pj82yf23snu5qfgq378abkvwj%22%2C%22displayName%22:%22y_audreyd7p_1%22%2C%22id%22:%22215060009%22%2C%22login%22:%22y_audreyd7p_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:16:00+00:00	auth-token	4h1t8pj82yf23snu5qfgq378abkvwj

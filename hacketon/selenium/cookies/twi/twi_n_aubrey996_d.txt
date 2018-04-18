@@ -1,0 +1,13 @@
+#n_aubrey996_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jFT6MNZmfW54U%2FN9hFcNlrdV1yjYXDL3UdboGb8we6o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:00:10+00:00	unique_id	4937a7814054c18d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:00:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:00:41+00:00	persistent	214788335%3A%3Aqnqf7u7rh9wb9hhhapo16uq9ho1lz6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:00:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODgzMzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3MjQxLCJpYXQiOjE1MjM5MTI0NDF9.kpUDRUVlOIRHE4vfw_Zupal9wcl-WTg_KbwWsLMmw9fV2_aYF_nqYbb1-3qAounzM-D7Sww0RmZlTAp56xqD7A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:00:41+00:00	login	n_aubrey996_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:00:41+00:00	name	n_aubrey996_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:00:41+00:00	last_login	2018-04-16T21:00:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:00:41+00:00	api_token	018ec928f54a28a9a59888c376d2d2ed
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:00:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYXVicmV5OTk2X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY0NDQxLCJpYXQiOjE1MjM5MTI0NDEsIm5vbmNlIjoiZkVUSXYwZ0c3Y1pKWWFFNlVwWHdWbHhqVEp3Y29JSk9wbmlPNjlSUUhOMD0ifQ%3D%3D.MoNdedxM5ZDalKWOxk6VQUIoiqMw8xvSnW6-Y5Nre3GjkPIIy2ssQcqea1XkAEbVmsCgJlMcB0bmQuFEP0bb1g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:01:27+00:00	twilight-user	{%22authToken%22:%22cstsa150vo1hwibyh1s0f3v90yns7f%22%2C%22displayName%22:%22n_aubrey996_d%22%2C%22id%22:%22214788335%22%2C%22login%22:%22n_aubrey996_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:01:27+00:00	auth-token	cstsa150vo1hwibyh1s0f3v90yns7f

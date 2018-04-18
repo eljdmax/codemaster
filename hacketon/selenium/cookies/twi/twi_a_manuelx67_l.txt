@@ -1,0 +1,13 @@
+#a_manuelx67_l
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:26:20+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HY%2BqnSl5JICmsSTycC0VtLG5Ga%2BSBVgcAQSWxCJKD5E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:29:51+00:00	unique_id	936e6595b2234987
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:30:14+00:00	persistent	214810928%3A%3Avieaxns50vnagj0toll3l4fm3ijeq8
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:30:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTA5MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyNjE0LCJpYXQiOjE1MjM5MTc4MTR9.6qU1MrUYq3j-f3SeeFw25I2NmX_rqO0TXLGBqZk9ZALXwic_tk3uJu_vUcGr2qEUb1DiIoEBk62moMw5ZUeW1g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:30:14+00:00	login	a_manuelx67_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:30:14+00:00	name	a_manuelx67_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:30:14+00:00	last_login	2018-04-16T22:30:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:30:14+00:00	api_token	fa56f41f53343dbacd6de5cd669c5255
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:30:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWFudWVseDY3X2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY5ODE0LCJpYXQiOjE1MjM5MTc4MTQsIm5vbmNlIjoiQXBDTi1yVmt6WTl2dVYtUWlOOEZicHB1Sk8ta3RxVENsZ0pQMDk3a3dHMD0ifQ%3D%3D.1Bidmk8S_w6Fx09QaKsP7gIZ-tP3-X4KHbXFsOlAaz8GhJ1pjBHEuH4ET6zOWdTLG2t2YEqrO9OtdCM_7q6ScQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:30:59+00:00	twilight-user	{%22authToken%22:%22advymq5y39a8n5hpxe4f39xupv5zhr%22%2C%22displayName%22:%22a_manuelx67_l%22%2C%22id%22:%22214810928%22%2C%22login%22:%22a_manuelx67_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:30:59+00:00	auth-token	advymq5y39a8n5hpxe4f39xupv5zhr

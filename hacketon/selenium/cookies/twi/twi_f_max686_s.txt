@@ -1,0 +1,13 @@
+#f_max686_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2F%2FHg%2Fk0Apr0jVNM0GsPeS026Mphz6R2%2FgA1WHiZUBc4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:50:58+00:00	unique_id	4a2c1a7ce1e53afb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:51:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:51:21+00:00	persistent	215069164%3A%3Aamtjoc8ebbs7ywsisqz7wka7tuikl3
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:51:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjkxNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzMDgyLCJpYXQiOjE1MjM5OTgyODJ9.hk6VP3EVwPQoGxxVRSPZ8yib64TpUUzPJMHufK0e5oGfBEUvhtXh5fpBmVkkHsEaCyZbzlWNgHjcgDumJSWB3Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:51:21+00:00	login	f_max686_s
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:51:21+00:00	name	f_max686_s
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:51:21+00:00	last_login	2018-04-17T20:51:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:51:21+00:00	api_token	a38f3997c5cc98299670d6ca57b0de41
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:51:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWF4Njg2X3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUwMjgyLCJpYXQiOjE1MjM5OTgyODIsIm5vbmNlIjoiNHRuUjltM0hOLTV6M2RHTktLYllPTFptRXVPSjIxUDhfN0Y5X1pVcG9maz0ifQ%3D%3D.lsLv5BopLQ_BXyWttrJsUbfZWnkR3RIKZa1DbMHzzhhqL6ufSxJbO_Pk_NgwGSYdhu7AnLiyCOH-U5WHmj20tA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:52:12+00:00	twilight-user	{%22authToken%22:%22tvmkcxy5s6q0xatbjyeilg5q4rbcum%22%2C%22displayName%22:%22f_max686_s%22%2C%22id%22:%22215069164%22%2C%22login%22:%22f_max686_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:52:12+00:00	auth-token	tvmkcxy5s6q0xatbjyeilg5q4rbcum

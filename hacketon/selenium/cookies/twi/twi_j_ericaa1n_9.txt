@@ -1,0 +1,13 @@
+#j_ericaa1n_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	drQjW8PPjNCoyKyUznmfX91rUBX3oZiF8%2F54OYS4x1g%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:59:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2028-04-16T21:59:26+00:00	unique_id	48f3c978f8e476b1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:59:53+00:00	persistent	214800152%3A%3Asl4d7g16a98pv4ne809qcop2v25ucg
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:59:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDAxNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNzk0LCJpYXQiOjE1MjM5MTU5OTR9.aW4H3XZV7iOmwMd6oKx9Hq-eKO4-_51HnzSyLlv2RH4JG5jNeaJxVqDVQjpDh3UDhkyM723RAP7sV9984MebwQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:59:53+00:00	login	j_ericaa1n_9
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:59:53+00:00	name	j_ericaa1n_9
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:59:53+00:00	last_login	2018-04-16T21:59:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:59:53+00:00	api_token	90df8a20d8fb797d60bf79c332bb7070
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:59:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZXJpY2FhMW5fOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0Njc5OTQsImlhdCI6MTUyMzkxNTk5NCwibm9uY2UiOiJOY0NNa2F6dmotdDdSakxZRE5DcVBMamcwQ3dBUlBPYzV0OUpuaGlJWVZJPSJ9.BAIodl-X86Zp-LazXllKUqUIgsaub25Aifc5enPnMz7jnTU-0uYeNcfyIFIWaVETpsSWLCFLsga0WiOsq1NXhw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:00:38+00:00	twilight-user	{%22authToken%22:%22zfup4gmfsd152ukwmz3l1lpuc4hoty%22%2C%22displayName%22:%22j_ericaa1n_9%22%2C%22id%22:%22214800152%22%2C%22login%22:%22j_ericaa1n_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:00:38+00:00	auth-token	zfup4gmfsd152ukwmz3l1lpuc4hoty

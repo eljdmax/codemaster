@@ -1,0 +1,13 @@
+#t_ricardop2r_v
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:38:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QusOz%2Ba4fqbBH4IDn7Bdn6L%2BD7IMxRx9%2FeruVvyr2i0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:38:45+00:00	unique_id	790c2583f6d3fbc6
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:39:04+00:00	persistent	215080426%3A%3Adulb8bt1twv85ne6p5938acbskfcps
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:39:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODA0MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1OTQ0LCJpYXQiOjE1MjQwMDExNDR9.qnp7yOV8vue8jwt6utnBY26tIi_hKJE7MQ13O-3klIuq2Z-BPybx0GTrop-qMTyqgTGzcYVZQvXtNCi0awBM5Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:39:04+00:00	login	t_ricardop2r_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:39:04+00:00	name	t_ricardop2r_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:39:04+00:00	last_login	2018-04-17T21:39:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:39:04+00:00	api_token	cc2e7e81cbffb27dbae9e47d364f8a0b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:39:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfcmljYXJkb3Aycl92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MzE0NCwiaWF0IjoxNTI0MDAxMTQ0LCJub25jZSI6Ik5qWDFIOTZJcWhpdEhobUhUaUUtUmxZQUxvbGljYkVSSmpYdy1oR1RlVjQ9In0%3D.e8cmk9jXYXOjzEzuXoPQq-OF8k9ipAYxx16hKJQWEjq69NbLpENiMXOu0Q830D93Dy35WvdvoDY2aHJab7muNw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:39:53+00:00	twilight-user	{%22authToken%22:%22zkb3tzktu8t1ldpjjxxa40iozh2uhd%22%2C%22displayName%22:%22t_ricardop2r_v%22%2C%22id%22:%22215080426%22%2C%22login%22:%22t_ricardop2r_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:39:53+00:00	auth-token	zkb3tzktu8t1ldpjjxxa40iozh2uhd

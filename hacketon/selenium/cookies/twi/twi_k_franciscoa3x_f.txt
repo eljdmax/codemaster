@@ -1,0 +1,14 @@
+#k_franciscoa3x_f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:43:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7gFIH04ewVPXgJSqTXfX1InHBkuBfpTOa03c%2Fhu1nh8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:46:34+00:00	unique_id	54227fc605ce6eb3
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:46:34+00:00	_twitch_session_id	8aca8870d0a192818b1a5d92800668b3
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:46:58+00:00	persistent	214818121%3A%3Aw1cel2c8vsv1o83zyl07077cyaz9sk
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:46:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTgxMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzNjE4LCJpYXQiOjE1MjM5MTg4MTh9.JLFwVPBsFK-gGOaDeCfTi3oJqSPK-EwXygXGx7YgVgc2VeTwYAozk7jBKn7YnsSrHJe-bDWjH6RfaZWs9fey1Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:46:58+00:00	login	k_franciscoa3x_f
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:46:58+00:00	name	k_franciscoa3x_f
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:46:58+00:00	last_login	2018-04-16T22:46:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:46:58+00:00	api_token	17e5bdc16401b95c5d50162ebf4fc6fd
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:46:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZnJhbmNpc2NvYTN4X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcwODE4LCJpYXQiOjE1MjM5MTg4MTgsIm5vbmNlIjoicWZrUDM0S2ZWeHB3T0lHTGtjUG1iMU51ZjFSaEFEcFFudDd2SWtST25KYz0ifQ%3D%3D.FAOZ0F7TvP5ifI8pMF7zd4cgE-Sq6UUNYmzuXIBdVFWJbp2WbWYQ_P0woSgWRM7NIxgWUSCluicSz2PZtoblbw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:47:42+00:00	twilight-user	{%22authToken%22:%22a1n47r4znb7zop7qm2j54rpyzrvfp7%22%2C%22displayName%22:%22k_franciscoa3x_f%22%2C%22id%22:%22214818121%22%2C%22login%22:%22k_franciscoa3x_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:47:42+00:00	auth-token	a1n47r4znb7zop7qm2j54rpyzrvfp7

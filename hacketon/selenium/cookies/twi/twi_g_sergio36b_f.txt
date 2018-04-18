@@ -1,0 +1,13 @@
+#g_sergio36b_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ReDU1gxAa%2Frelk0Mr3kLzINyaMIsiDa6QUveO2tK63w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:28:44+00:00	unique_id	18aeba880e1f04f5
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:28:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:29:08+00:00	persistent	215078263%3A%3Auprilf2lyhel26td4m1gs0hywueyor
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:29:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzgyNjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1MzQ5LCJpYXQiOjE1MjQwMDA1NDl9.JS8QdKOpdfEtJt1U9SUdobdWU_D__1S6xmIJtUau77awZKYlcLNlZHgF7FNl0F1PHMkC8xk2tcmgEYyHBLyFZg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:29:08+00:00	login	g_sergio36b_f
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:29:08+00:00	name	g_sergio36b_f
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:29:08+00:00	last_login	2018-04-17T21:29:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:29:08+00:00	api_token	eb0ee7e33cccde8803c000393e67ce34
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:29:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfc2VyZ2lvMzZiX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUyNTQ5LCJpYXQiOjE1MjQwMDA1NDksIm5vbmNlIjoiT3lLa09yTXZkX3BVNzlPMGpMeWV2MjF1Q2VJaDQ5bmhRX1dBelA3SExpMD0ifQ%3D%3D.XFJGjHaztCwBUzRrMom8ztBFFisPALeUdbSS1Y9PsZ2hXAEK7JgvZutdeDZRAEddkXQFAeWv5HERBpybIBbbPQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:29:56+00:00	twilight-user	{%22authToken%22:%22t4zlqa18j78xdomtdpvyt2pvlhzy7a%22%2C%22displayName%22:%22g_sergio36b_f%22%2C%22id%22:%22215078263%22%2C%22login%22:%22g_sergio36b_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:29:56+00:00	auth-token	t4zlqa18j78xdomtdpvyt2pvlhzy7a

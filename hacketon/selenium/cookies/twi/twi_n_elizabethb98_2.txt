@@ -1,0 +1,14 @@
+#n_elizabethb98_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	X6kHwVzkvzLzxNCtv%2Famon19o8kki5DFTS3KSAvxsks%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:15:46+00:00	unique_id	d58e55e0f229b929
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:15:46+00:00	_twitch_session_id	f534a5724f42a458e64eaf4d9172ea72
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:15:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:16:18+00:00	persistent	215060337%3A%3Azlor48jxlxpa2h3r65wp2121uqifmg
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:16:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjAzMzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwOTc5LCJpYXQiOjE1MjM5OTYxNzl9.39AyeVvUWGaUgnvBauKv3NdNgXoO5yMQR74S9Y542lTy4GrQ7fzsNhi5qmeG6-d4aqxdh7OqhxjbqtL5MI0w2w==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:16:18+00:00	login	n_elizabethb98_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:16:18+00:00	name	n_elizabethb98_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:16:18+00:00	last_login	2018-04-17T20:16:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:16:18+00:00	api_token	b587a08bd6f5d2b24763a33008937325
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:16:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fZWxpemFiZXRoYjk4XzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ4MTc5LCJpYXQiOjE1MjM5OTYxNzksIm5vbmNlIjoieDZZd1FHTGE1a05VZFdZX0pQV3QtZWtkaHFIY2hHSjdCN2RlYVgwS1pKWT0ifQ%3D%3D.iSwpum_cchN5r9az2D_E-G2dSIBO0b2jKtCbtdv_gW0fE3JaA_YPczvGOjDjOe7EeTpd_Iocab8zMOb-yfxOTA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:17:06+00:00	twilight-user	{%22authToken%22:%22liz4tvjvh0dd0h14tpmweildr6mf03%22%2C%22displayName%22:%22n_elizabethb98_2%22%2C%22id%22:%22215060337%22%2C%22login%22:%22n_elizabethb98_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:17:06+00:00	auth-token	liz4tvjvh0dd0h14tpmweildr6mf03

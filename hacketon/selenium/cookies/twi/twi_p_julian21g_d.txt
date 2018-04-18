@@ -1,0 +1,14 @@
+#p_julian21g_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hKg6%2FYq1tTiwadzPEXSfFiEXoKka%2Fmai9799aa5iGzU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:33:58+00:00	unique_id	07104cd645766c33
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:33:58+00:00	_twitch_session_id	d49604864b439edf8832b46b32382b41
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:33:58+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:34:17+00:00	persistent	214556446%3A%3Auy6uwwm77v01o6ccre6xbxj4yxtj16
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:34:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTY0NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NjU4LCJpYXQiOjE1MjM4MjA4NTh9.QIZFJ0fdOw9w5EldTPLseHaZoBD0QXobjuuYWSZ-EqA4jJaGAWOxQ2oOilmkey5S2JPiJZh06_fCoJjatBq0ZQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:34:17+00:00	login	p_julian21g_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:34:17+00:00	name	p_julian21g_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:34:17+00:00	last_login	2018-04-15T19:34:18Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:34:17+00:00	api_token	9fd252bebf1074338c37bbf0cab433ce
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:34:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfanVsaWFuMjFnX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyODU4LCJpYXQiOjE1MjM4MjA4NTgsIm5vbmNlIjoiOGdnYXR4bTB3NEdTY3dzWHFiLUhJYTZnSldvcFNmc3Z6aFhybDJyTTFoST0ifQ%3D%3D.BbqCWtIoz84GoA8TGspW69nHGjFwsg2HMaqB1VAwECQbPKMwJqEQA246ySq53yn6fvvhLEjgOAgtSDzfGWZAtw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:34:57+00:00	twilight-user	{%22authToken%22:%22urp8ioeu72lwwpu9r2g3jl28wzt9li%22%2C%22displayName%22:%22p_julian21g_d%22%2C%22id%22:%22214556446%22%2C%22login%22:%22p_julian21g_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:34:57+00:00	auth-token	urp8ioeu72lwwpu9r2g3jl28wzt9li

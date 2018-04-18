@@ -1,0 +1,15 @@
+#y_danieli4e_5
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM5OTg0NzMsIm52IjowLCJ1cHQiOjE1MjM5OTg0NjEsImx0IjoxNTIzOTk4NDYxfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7eqAhi1racYI%2FSp6JOa8AIgap0AWZFTaIY8AMk2JGt8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T19:57:17+00:00	unique_id	5049faa498d80cdd
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:57:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T19:57:35+00:00	persistent	215055624%3A%3Aibzsyotmiys62t7vrxhq4o6shsnppp
+.twitch.tv	TRUE	/	TRUE	2018-04-24T19:57:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTU2MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTk5ODU2LCJpYXQiOjE1MjM5OTUwNTZ9.U5SEy1AXgodlb5gfEP_46GsWUKujxOr-SOLCa6g9FfBbkvd-YKPAym4soqnbfNAI1hxjIU7WGcZhXubdupCXbQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:57:35+00:00	login	y_danieli4e_5
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:57:35+00:00	name	y_danieli4e_5
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:57:35+00:00	last_login	2018-04-17T19:57:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T19:57:35+00:00	api_token	340b151297a7f44521d035630d4739d2
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:57:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZGFuaWVsaTRlXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ3MDU2LCJpYXQiOjE1MjM5OTUwNTYsIm5vbmNlIjoiRmNxTERvaHJWMUpvS1IxWXI4RmlsUVJiWEZscTFWdWFsY3R6MUdkSVZNYz0ifQ%3D%3D.HdrosvGdRqzsuSaBDUPgEX6cDKqtGiPJexajWnyyFuup5xu5LwQUCQeIXiiVTht70qHYhbIDjb9Vf1Kmc6euiQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:58:23+00:00	twilight-user	{%22authToken%22:%22gy58no87jrnzptdrqd0bx1erjxb9uz%22%2C%22displayName%22:%22y_danieli4e_5%22%2C%22id%22:%22215055624%22%2C%22login%22:%22y_danieli4e_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:58:23+00:00	auth-token	gy58no87jrnzptdrqd0bx1erjxb9uz
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:58:26+00:00	twilight_onboarding	true

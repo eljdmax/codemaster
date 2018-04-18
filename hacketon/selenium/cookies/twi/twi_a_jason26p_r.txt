@@ -1,0 +1,13 @@
+#a_jason26p_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hopVBm7NdEFcwNgkGBFr7q5dvr04%2FZOqJFB5uT%2Bj4ws%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:42:06+00:00	unique_id	aca258d221d336be
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:42:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:42:34+00:00	persistent	214784388%3A%3A2c0cmmriycwu829m11uxcbinsoiykh
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:42:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODQzODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MTU0LCJpYXQiOjE1MjM5MTEzNTR9.kI1XuMLwZPWArx7g9pXwNm0o1PoT0dSIAN0mR0YWH_cgel2IUK9smMSsCAzIUnCl7w4KSAetecukSQ-ijZGq5Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:42:34+00:00	login	a_jason26p_r
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:42:34+00:00	name	a_jason26p_r
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:42:34+00:00	last_login	2018-04-16T20:42:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:42:34+00:00	api_token	1d0f652fe7f6d4343449b13ae74d46d2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:42:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamFzb24yNnBfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjMzNTQsImlhdCI6MTUyMzkxMTM1NCwibm9uY2UiOiJoYkU1X2Y0SGJERjJsb1NxemUyT2VsVTl2dEhVS2lpTl80S1F3SlpBYWJFPSJ9.GWJ_OCbIpmy8VHOXc71dglJSkSFpqBB8JdTUAGK7-aDQ0DxCZAr8haGhUIG4whtEeSJ15QFNucoGbVOleHxYGg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:43:17+00:00	twilight-user	{%22authToken%22:%22uivw4nw7y6oem8lwdkbcgdmwnl3yyy%22%2C%22displayName%22:%22a_jason26p_r%22%2C%22id%22:%22214784388%22%2C%22login%22:%22a_jason26p_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:43:17+00:00	auth-token	uivw4nw7y6oem8lwdkbcgdmwnl3yyy

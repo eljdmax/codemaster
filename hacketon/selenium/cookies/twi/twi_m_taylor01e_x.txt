@@ -1,0 +1,14 @@
+#m_taylor01e_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	h9MBBCZ6SDjxpkZFa5%2FmiJ5FSALiSPjyHiXWT%2FjXRCs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:38:49+00:00	unique_id	fdcc29df1d3b0f10
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:38:49+00:00	_twitch_session_id	c1c9c765953b8065f39133c778354265
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:38:49+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:39:07+00:00	persistent	214585153%3A%3Aaqncii1m9ipx9feprpho4he4pla6of
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:39:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODUxNTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMTQ3LCJpYXQiOjE1MjM4MjgzNDd9.4iIEah3ASmgCRRrOvgl_NXPG7zDokGCAuS3bVAEgPk0fvmaWr_0ADCmW5TXZlXlB0ZxX1kd1RXRTQg5Z9d_Jag==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:39:07+00:00	login	m_taylor01e_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:39:07+00:00	name	m_taylor01e_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:39:07+00:00	last_login	2018-04-15T21:39:07Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:39:07+00:00	api_token	a3e34c8cbf00c9cb9e5bdc58fae931ae
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:39:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fdGF5bG9yMDFlX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgwMzQ3LCJpYXQiOjE1MjM4MjgzNDcsIm5vbmNlIjoiNm1maURRVW43SWtPY0lncTBseHpva0xVTFg4NjBaN0ZXZ1Z3UGw3X1J2ST0ifQ%3D%3D.3EHs1rkeG9fVv6z53tzYQKV0GRY7EqMw04HyN7ud11lYvOibQt_cHjCDpmrKjrm-pxQxzyELlJQiuzGHnsWpUg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:39:45+00:00	twilight-user	{%22authToken%22:%22l0xqi6v5xxdgnc2qkjkrnstdpkqm9x%22%2C%22displayName%22:%22m_taylor01e_x%22%2C%22id%22:%22214585153%22%2C%22login%22:%22m_taylor01e_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:39:45+00:00	auth-token	l0xqi6v5xxdgnc2qkjkrnstdpkqm9x

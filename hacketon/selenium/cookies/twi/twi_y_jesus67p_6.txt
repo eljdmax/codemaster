@@ -1,0 +1,14 @@
+#y_jesus67p_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ppGqGKw%2Bcyp0UmsLAd9l6LekBmMeDZYQPQfkneGvJ7Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:05:16+00:00	unique_id	80577e97f405bcf6
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:05:16+00:00	_twitch_session_id	236eea40b29bd09358a08902e5a779a0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:05:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:05:36+00:00	persistent	214789336%3A%3A8ob516j56re4zi2irn4sq8yfn2u3zo
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:05:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODkzMzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3NTM3LCJpYXQiOjE1MjM5MTI3Mzd9.ikUeTu88HIJiF8OPE6U_JAW0IEfaMviAXsqiA6-n07j1IbkrFbuqrWK-6kdsgeTt12z6WanlqqlRDOGjS5lvtA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:05:36+00:00	login	y_jesus67p_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:05:36+00:00	name	y_jesus67p_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:05:36+00:00	last_login	2018-04-16T21:05:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:05:36+00:00	api_token	7b63343c863d56219a1d355c3b44d5ce
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:05:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfamVzdXM2N3BfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQ3MzcsImlhdCI6MTUyMzkxMjczNywibm9uY2UiOiJTWlVadGJ2YnFLSDlaY1hhN1pFMTFEdS1Da3I0Q2VaZWp4b3M0b0NZYUNnPSJ9.NWv1aWO4OJnCa-1sB4n3ZePkeTzEYJxwVE2VPm2duvOklTPNmHbITX14hAOWDCy8d7e0_PxjHp0VgGsNxw38ww%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:06:20+00:00	twilight-user	{%22authToken%22:%22yyb4dl2qjwr5vbdthvm2pwk8ou88hh%22%2C%22displayName%22:%22y_jesus67p_6%22%2C%22id%22:%22214789336%22%2C%22login%22:%22y_jesus67p_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:06:20+00:00	auth-token	yyb4dl2qjwr5vbdthvm2pwk8ou88hh

@@ -1,0 +1,13 @@
+#h_gregory546_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FHuwYw7HlxggeT6libOi9z4rDbooCcgwTwhUwUHR1Ps%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:02:50+00:00	unique_id	d40e1fce7b20f843
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:02:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:03:12+00:00	persistent	214824178%3A%3Alkokstlbiquup962ob6wbdq0gp7yst
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:03:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjQxNzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0NTkyLCJpYXQiOjE1MjM5MTk3OTJ9.XihAlz3Xd3X1ShtCpChPpzAELNCznfcT1JhDku1P8l8otmDHWzkAaVFt6QcumkUiCKQ6Vc220UbioqQWp1BARw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:03:12+00:00	login	h_gregory546_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:03:12+00:00	name	h_gregory546_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:03:12+00:00	last_login	2018-04-16T23:03:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:03:12+00:00	api_token	5dd0fcc766d543179ebf0c4862988832
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:03:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZ3JlZ29yeTU0Nl92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MTc5MiwiaWF0IjoxNTIzOTE5NzkyLCJub25jZSI6IjBqVnZVX0pIWWU4aGx3YVRNOHY3amVzcENNZS11Y3p1emJMbzl0Vjg3cEk9In0%3D.HfFvlmLWv9PO37ZT6_bqwyy_W_lWgAmZ7zT5Cbw4yD25h51CzP1odn8clNtsmG_kz_VyM87k3cU5ogy86pwvvw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:03:58+00:00	twilight-user	{%22authToken%22:%228wpxuj6qto6oyiy9n6fp0qgw67ekif%22%2C%22displayName%22:%22h_gregory546_v%22%2C%22id%22:%22214824178%22%2C%22login%22:%22h_gregory546_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:03:58+00:00	auth-token	8wpxuj6qto6oyiy9n6fp0qgw67ekif

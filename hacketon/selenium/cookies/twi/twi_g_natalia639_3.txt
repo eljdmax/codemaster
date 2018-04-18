@@ -1,0 +1,14 @@
+#g_natalia639_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	u8spA3KpC%2BWno46yruAUmdjU%2Bn8QwZUOztW3qrN0qbI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:41:43+00:00	unique_id	879c1f355e176287
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:41:43+00:00	_twitch_session_id	31c0d0f12a04603583486b0e3b878c94
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:41:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:42:04+00:00	persistent	214573108%3A%3A239nvxekhtu8vt6sg9t8fw7gn3s05h
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:42:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzMxMDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NzI1LCJpYXQiOjE1MjM4MjQ5MjV9.aCYmNi1wWG7UY6NK2NRJKMSyuTIZxmeQLALTQiVchiJwu8Uq0NXewgzmw0cZGyTwWcgP4vlA882I-8rGN0B-ZA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:42:04+00:00	login	g_natalia639_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:42:04+00:00	name	g_natalia639_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:42:04+00:00	last_login	2018-04-15T20:42:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:42:04+00:00	api_token	54638796ed2e58b918ee2c160ab5ee48
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:42:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbmF0YWxpYTYzOV8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjkyNSwiaWF0IjoxNTIzODI0OTI1LCJub25jZSI6Imw0cHJ4Nl9HQlo3VWtMUGdLcUdibGJISHpKT1VNSVBrRnNJSnROTjZlTnc9In0%3D.rsWout7AS-7j_xoVCbc9j8iK5fBjyhRz4jyLYEKOEaX2d4yUjV5zF8yHc_mt0L5XI3ukX-8CwZ82UkZfDzigkQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:42:46+00:00	twilight-user	{%22authToken%22:%22yv6sg2id4w1ibzchrsey62haqpmfft%22%2C%22displayName%22:%22g_natalia639_3%22%2C%22id%22:%22214573108%22%2C%22login%22:%22g_natalia639_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:42:46+00:00	auth-token	yv6sg2id4w1ibzchrsey62haqpmfft

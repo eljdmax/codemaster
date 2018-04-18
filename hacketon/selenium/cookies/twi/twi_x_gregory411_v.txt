@@ -1,0 +1,14 @@
+#x_gregory411_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ntvr26zhzYLbLci0qMQV59066Pwz9g9PiDiyotinKtQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:32:33+00:00	unique_id	cc8d961c61fd849f
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:32:33+00:00	_twitch_session_id	3e29ff53eb3aa749d28d3ee008e6460c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:32:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:32:50+00:00	persistent	214570965%3A%3A6aa7k0qoz8w3h8ou3tdnegolq0pscp
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:32:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzA5NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5MTcxLCJpYXQiOjE1MjM4MjQzNzF9.TOMVKRUhS0HvP8A3m5Rc0wPIeylN3OGtQdFtrohlXvEdKL-EAFb7eShuTMgUYseNcuN5XICGViX-aEDyQi0vBA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:32:50+00:00	login	x_gregory411_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:32:50+00:00	name	x_gregory411_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:32:50+00:00	last_login	2018-04-15T20:32:51Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:32:50+00:00	api_token	3cd1eefe894e81f81532614f7b401631
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:32:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZ3JlZ29yeTQxMV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjM3MSwiaWF0IjoxNTIzODI0MzcxLCJub25jZSI6IlRHWUJ0ZDBpYWhnQ3pWT3VidWMxakg2LU04NUl1RWpBSFotcWVweXZKQTQ9In0%3D.dpwEXphJJ7gBpXnfpjlqTYC0TOnBQtIlomZaZZB7PbTHQw7mpZJVkx_gWCDi8oO7fxqdZtVaEtw11rKP6lUCjw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:33:29+00:00	twilight-user	{%22authToken%22:%22po7hb9ee2zl887i7h1wbgaixg7nsq2%22%2C%22displayName%22:%22x_gregory411_v%22%2C%22id%22:%22214570965%22%2C%22login%22:%22x_gregory411_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:33:29+00:00	auth-token	po7hb9ee2zl887i7h1wbgaixg7nsq2

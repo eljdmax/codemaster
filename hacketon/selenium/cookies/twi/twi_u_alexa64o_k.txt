@@ -1,0 +1,13 @@
+#u_alexa64o_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	R4OuC4D53aYi81rEOsgqolO6LKz%2BCreR9BscYBVXfks%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:23:05+00:00	unique_id	9a76254b35eb3356
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:23:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:23:19+00:00	persistent	214581945%3A%3A5p6m7pznyluuim55jrqey1yzsdjqwu
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:23:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODE5NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyMTk5LCJpYXQiOjE1MjM4MjczOTl9.IEq3FcZTloG4p4kHmUqOxDQA8IOo9feG0ye5JmKM78O7Oz1R3ao1K_Rx55uXKcZDkoGJWQslsBnaUlbr6qq_og==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:23:19+00:00	login	u_alexa64o_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:23:19+00:00	name	u_alexa64o_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:23:19+00:00	last_login	2018-04-15T21:23:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:23:19+00:00	api_token	933337854ed24f0a50edf3070c02f82b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:23:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYWxleGE2NG9fayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzkzOTksImlhdCI6MTUyMzgyNzM5OSwibm9uY2UiOiJXMTlKNVRia0Zwam1tYkNqWkZrY3VscXlMUHk5Tm9sQjhTcktXVzgyX3A0PSJ9.rD12hTB94jSHPBeJHa3zobumV54VENF3f7vcbxCd6wRo1s69Xax8-2k5pM1n-Ral_-7MbYZoMCUMvwt7RpBqUQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:23:57+00:00	twilight-user	{%22authToken%22:%22u4cqeepwuz9dyd0bylfn6w760g4uw8%22%2C%22displayName%22:%22u_alexa64o_k%22%2C%22id%22:%22214581945%22%2C%22login%22:%22u_alexa64o_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:23:57+00:00	auth-token	u4cqeepwuz9dyd0bylfn6w760g4uw8

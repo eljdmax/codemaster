@@ -1,0 +1,14 @@
+#t_daniela8k_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DolPFqTYcOCqUOfp%2FcLM%2F1j1AMjJmGf9Eo4hVwjELxM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:16:24+00:00	unique_id	9a72938a92001541
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:16:24+00:00	_twitch_session_id	108fe53bf73ec63829046c936a9101d0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:16:24+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:16:47+00:00	persistent	214592452%3A%3Aex1yguk5xtmgdbcs15hnwkormndoci
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:16:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTI0NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1NDA3LCJpYXQiOjE1MjM4MzA2MDd9.fCNMw4TiLQQA5KD61qcxbelP8VDsfv-25oSMgCPTaRNypXoazepksdmJRU0vSQeunJNKE4v7UExnDTk2AKRNiQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:16:47+00:00	login	t_daniela8k_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:16:47+00:00	name	t_daniela8k_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:16:47+00:00	last_login	2018-04-15T22:16:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:16:47+00:00	api_token	50768c1244fec445f6e1f3bcaf54c8c2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:16:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZGFuaWVsYThrX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgyNjA3LCJpYXQiOjE1MjM4MzA2MDcsIm5vbmNlIjoibFF1Rk5NZ3JzTU96dkxuS2hMXzM2T3hUWmZSeFlzb3NkX0VhanRRSXAtTT0ifQ%3D%3D.m5GaK3zKmeTtujmJ2Ai4OQ5PxMjjfxQf3WHLbpPJGZsWsSzKMNqijrP4BOml3BETZBeib-Nn0EDH6XgzLt4RsQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:17:28+00:00	twilight-user	{%22authToken%22:%22uhn7np7yufvbw9g7pee0kl64j2qa5e%22%2C%22displayName%22:%22t_daniela8k_f%22%2C%22id%22:%22214592452%22%2C%22login%22:%22t_daniela8k_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:17:28+00:00	auth-token	uhn7np7yufvbw9g7pee0kl64j2qa5e

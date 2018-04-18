@@ -1,0 +1,15 @@
+#p_jades2a_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EFUOFIuiGDmy%2BCMovtRNX6GUos5dYyXyu2kSqTBWoXE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:21:22+00:00	unique_id	d16b41d49b73b3be
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:21:22+00:00	_twitch_session_id	385ad9019a0296e8e3bb8fc5f55a897f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:21:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:21:53+00:00	persistent	215061694%3A%3Axjiaq46tupy6cu0fd57s0wtpprol1z
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:21:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjE2OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxMzEzLCJpYXQiOjE1MjM5OTY1MTN9.pI48owX-QbEGDdRAufjpXkie3CsMWvoCpugd2M7P505MCziCp77ntJbTZZmMhMbdeBLea5YP0ANIOhlWl82OCg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:21:53+00:00	login	p_jades2a_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:21:53+00:00	name	p_jades2a_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:21:53+00:00	last_login	2018-04-17T20:21:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:21:53+00:00	api_token	94d76b955c7b570d2f3cb6c9e88c5652
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:21:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfamFkZXMyYV9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0ODUxMywiaWF0IjoxNTIzOTk2NTEzLCJub25jZSI6IkJlY2plTzVCeFA1UkJwRC11S0h0VHBUNzZaMXNRVlg3VXl6Y3RpX1VuWVU9In0%3D.TLeCFVCYxN3SpIGueKnUjdhTAbQr2DFOWTPu-aJzao_4eq5ug6raKTkk10_OgwrUuDRlZawQo2236LCPK6Utdw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:22:41+00:00	twilight-user	{%22authToken%22:%22gtrvr1ur3uncwzaruue7sgvy0ocd79%22%2C%22displayName%22:%22p_jades2a_n%22%2C%22id%22:%22215061694%22%2C%22login%22:%22p_jades2a_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:22:41+00:00	auth-token	gtrvr1ur3uncwzaruue7sgvy0ocd79
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:22:42+00:00	twilight_onboarding	true

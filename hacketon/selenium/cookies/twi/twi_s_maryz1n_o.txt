@@ -1,0 +1,14 @@
+#s_maryz1n_o
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:47:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kn%2Fwl9%2BTjF%2BPNJzb%2Fb0ziLj5ALgTb1TbbQGFU%2F1Fwqk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:47:33+00:00	unique_id	66034622230b8d60
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:47:48+00:00	persistent	214797979%3A%3A29ddhough7sf7twqj22ppqe143xqiu
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:47:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTc5NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMDY5LCJpYXQiOjE1MjM5MTUyNjl9.ENF-PPC68noDDWiq0Om7UNM4QOMPHf5WBoGbo_k9sQYnyCVyeJG60zZS4h9iN71Zi56oIAc0Nbn4qskBE1C3wQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:47:48+00:00	login	s_maryz1n_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:47:48+00:00	name	s_maryz1n_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:47:48+00:00	last_login	2018-04-16T21:47:49Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:47:48+00:00	api_token	63a5bb5a3fbf2939d849a9995e460644
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:47:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWFyeXoxbl9vIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NzI2OSwiaWF0IjoxNTIzOTE1MjY5LCJub25jZSI6IjdCVVlCOGxfQjhWWTBoM2EyZkstbERYUVBuWjlqeThKSGpmdGdmVUJIckk9In0%3D.Wv6L5MrDauZJCb21ajanoihKIrvv9fCizIU_wVy0ktRWXLLxPI7Dik3Bu0W3ypAcFCirGooEkt5mwMYYbaA8Sw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:48:32+00:00	twilight-user	{%22authToken%22:%22fl9df5n9xdfskbswed4uosr4aszkbf%22%2C%22displayName%22:%22s_maryz1n_o%22%2C%22id%22:%22214797979%22%2C%22login%22:%22s_maryz1n_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:48:32+00:00	auth-token	fl9df5n9xdfskbswed4uosr4aszkbf
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:48:35+00:00	twilight_onboarding	true

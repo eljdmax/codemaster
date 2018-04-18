@@ -1,0 +1,13 @@
+#k_leonardop9e_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tZQj3CLtLIcZJXSyTX3kNrc1V0seJ43S8emtkc4zrKU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:54:51+00:00	unique_id	98f625d7f5f463d4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:54:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:55:15+00:00	persistent	214575997%3A%3Ayfgybffpguqjacba94f50lkfrthsud
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:55:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzU5OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwNTE1LCJpYXQiOjE1MjM4MjU3MTV9.NEoZ-zkUdFcVaMgoXNoO1wmrmMacNbMOu-VstLPaWMn8Prwf5Aj2xUgsIgfdAZrAV4fAQnKdCBODimiP-EO_ug==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:15+00:00	login	k_leonardop9e_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:15+00:00	name	k_leonardop9e_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:15+00:00	last_login	2018-04-15T20:55:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:55:15+00:00	api_token	8097a7bd735f9015183d6161f5318f68
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:55:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbGVvbmFyZG9wOWVfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzc3MTUsImlhdCI6MTUyMzgyNTcxNSwibm9uY2UiOiJ1QlY1NjJyVHpNUUhTeFZmSUFzX0R3R0JoZzhsWFNFcW5odE83WVZWT3dFPSJ9.z0rkiBl-S9BCSEmpod2dqlRz7jUxIjD8GkQWQ6kQFXTrwgfP9ia0mKfCygqXezoO7G5uIVFi07r0fGDZls4LBQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:55:55+00:00	twilight-user	{%22authToken%22:%22wey0v2o7jg5kkmags0vnc8a2zcgwsz%22%2C%22displayName%22:%22k_leonardop9e_o%22%2C%22id%22:%22214575997%22%2C%22login%22:%22k_leonardop9e_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:55:55+00:00	auth-token	wey0v2o7jg5kkmags0vnc8a2zcgwsz

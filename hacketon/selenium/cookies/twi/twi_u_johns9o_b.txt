@@ -1,0 +1,14 @@
+#u_johns9o_b
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DfQ6%2B7rmd3AX1PkStaqPSKHacdfS0JxPtBPyApQijFk%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:38:12+00:00	_twitch_session_id	77e31378d89fb4db82a1c524fa43b3b1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:38:39+00:00	persistent	215066050%3A%3A52nmorrgr0r5zps3jbm1u5o7t6ghk7
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:38:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjYwNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAyMzE5LCJpYXQiOjE1MjM5OTc1MTl9.yV7PNMT4BEzY4H6Isgv0V-5uQ1TgD_r4OGRK7K7YAqN6U8Tr1-JUdXR00KhA5Vh-m3l2NGqr8P4DzCdVJEZy4A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:38:39+00:00	login	u_johns9o_b
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:38:39+00:00	name	u_johns9o_b
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:38:39+00:00	last_login	2018-04-17T20:38:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:38:39+00:00	api_token	202a98417d01e715cb1ec7568244545c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:38:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfam9obnM5b19iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0OTUxOSwiaWF0IjoxNTIzOTk3NTE5LCJub25jZSI6IlJ1SWFNYmZiOG82Qi01MUZsLW8tSkphel83LXFOWGdJOHhLTjljRjlZems9In0%3D.K-1GN_maYhlwLB3GQRXfFFsN8ot-xOerc4ngrL1rRlfPfncbtLmKSaykadjofuh0AKqXiKwebITJhW-Qo0KKpw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:39:32+00:00	twilight-user	{%22authToken%22:%22hae6w248iq48b9q2kik43347b28sab%22%2C%22displayName%22:%22u_johns9o_b%22%2C%22id%22:%22215066050%22%2C%22login%22:%22u_johns9o_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:39:32+00:00	auth-token	hae6w248iq48b9q2kik43347b28sab

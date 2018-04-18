@@ -1,0 +1,13 @@
+#s_evan640_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dmTDAxcZmEVXdSJjwmx2FFBT2dqQPH25h6%2F8AkV7l%2BI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:16:18+00:00	unique_id	383823b3970d44d9
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:16:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:16:35+00:00	persistent	214580569%3A%3Apwsldlvp06rq7rmvj55cyun0j5hi32
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:16:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODA1NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxNzk2LCJpYXQiOjE1MjM4MjY5OTZ9.5kG4-Ltz8755mER9nkmArAJIqdRO2K5NgytVanTbt1czoWer77YTtEXkcfoqj2H_39dIBZri80kq9KUWsHngKw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:16:35+00:00	login	s_evan640_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:16:35+00:00	name	s_evan640_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:16:35+00:00	last_login	2018-04-15T21:16:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:16:35+00:00	api_token	132e28a9b706fd2922df5e2410ede0a7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:16:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfZXZhbjY0MF9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3ODk5NiwiaWF0IjoxNTIzODI2OTk2LCJub25jZSI6IjdhRTdESzJodUh6MXAxakIxeFgtWW9ibXBiY0JYWHBjalU0d0kwemdXcEE9In0%3D.T-f5-FAhOzHaC8t1YUyVJ7YSzmP0EyaPn7bGma2nKJhixQ4hAQE8BmfMj0gioj0GdXM6Vhg2kKe1Z8bWhqM6IQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:17:15+00:00	twilight-user	{%22authToken%22:%22ot52ppie45jhgohtitnr48pfki9hu6%22%2C%22displayName%22:%22s_evan640_h%22%2C%22id%22:%22214580569%22%2C%22login%22:%22s_evan640_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:17:15+00:00	auth-token	ot52ppie45jhgohtitnr48pfki9hu6

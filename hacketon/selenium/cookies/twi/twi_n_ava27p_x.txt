@@ -1,0 +1,14 @@
+#n_ava27p_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NwL28HJb6J4Fi0eTAHlcfD2078oV1vogKyJNQVGm9dI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:57:57+00:00	unique_id	7ee797cceb62f6b2
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:57:57+00:00	_twitch_session_id	aeb56f77b7be1d148d9fe12c7df1bf8e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:57:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:58:24+00:00	persistent	214562670%3A%3A3duvymqfv0n8cdmhpcgb3wndd2c2qc
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:58:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjI2NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MTA0LCJpYXQiOjE1MjM4MjIzMDR9.P-VHY9d7Q3J22iRE17kpQfg2H7EIT08RDu_1CwOkXh1prqCxjNs_MG4ICL6w14C18-PfhbT3YYsf8DQcgnV-Mg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:58:24+00:00	login	n_ava27p_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:58:24+00:00	name	n_ava27p_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:58:24+00:00	last_login	2018-04-15T19:58:24Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:58:24+00:00	api_token	f243e7a5768ded9904db1894d93344b4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:58:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYXZhMjdwX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc0MzA0LCJpYXQiOjE1MjM4MjIzMDQsIm5vbmNlIjoib0EzNHZuQ05qWUpTMzBKT3g3RlhvaVdWMWxVTDB0bHN4QUtubElrYzU4MD0ifQ%3D%3D.jHDcvgeDuv3GEJ-8LacH1ralIrZyxVuLfDSLeqIVl-V7ay31iOuvQqIUQMY5-zXMnrZX2KQolaePVp34fscqlw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:59:05+00:00	twilight-user	{%22authToken%22:%22yt2cixoovgywqpkotllm1q1ft6knv7%22%2C%22displayName%22:%22n_ava27p_x%22%2C%22id%22:%22214562670%22%2C%22login%22:%22n_ava27p_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:59:05+00:00	auth-token	yt2cixoovgywqpkotllm1q1ft6knv7

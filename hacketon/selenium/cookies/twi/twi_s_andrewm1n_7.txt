@@ -1,0 +1,13 @@
+#s_andrewm1n_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YZZCUhyFhO0dqKW6Ev%2FoFHFOBv3UK5%2BffofUsKunec8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:09:06+00:00	unique_id	d64f9e3fc97e6f3c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:09:09+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:09:37+00:00	persistent	214790247%3A%3Airh7hdagi6jycke04o7cy45hgiqxmf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:09:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTAyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3Nzc3LCJpYXQiOjE1MjM5MTI5Nzd9.QSAw38RrB-N5GFcQuceUbqZv92gqd8DYRut_x-E1uRkNGHIG44ZT7DDzhXzeeqjS7qYqIe8cPU9GLHuQxVeejA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:09:37+00:00	login	s_andrewm1n_7
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:09:37+00:00	name	s_andrewm1n_7
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:09:37+00:00	last_login	2018-04-16T21:09:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:09:37+00:00	api_token	71e9a0e878690ee5ae2b712766aff0a5
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:09:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYW5kcmV3bTFuXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY0OTc3LCJpYXQiOjE1MjM5MTI5NzcsIm5vbmNlIjoic2NxaXktTnd1TEJJY2tuZ0lSOVFEX2pqNjBOOGJDSy14dklXZGhvWGhiVT0ifQ%3D%3D.E9eYRMz8f35flCFIY6RyGc1ICkHjaGgGnbD0JDQkAZG2mPGvEQJMCcj9l4aUQf_qlwAlADmCGhj41pOwFSwkSg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:10:25+00:00	twilight-user	{%22authToken%22:%22vn9fyroolvhysq0ac49qyty9g6a1zi%22%2C%22displayName%22:%22s_andrewm1n_7%22%2C%22id%22:%22214790247%22%2C%22login%22:%22s_andrewm1n_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:10:25+00:00	auth-token	vn9fyroolvhysq0ac49qyty9g6a1zi

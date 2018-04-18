@@ -1,0 +1,14 @@
+#i_ering67_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	B8WKHyIehPPD449mf34q6RDw7sSn0%2FbhfGNR1cG6mxw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:01:37+00:00	unique_id	070ed0b4e8a7ecc5
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:01:37+00:00	_twitch_session_id	fe20afab349b9dfa85d2e63a36d04c8f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:01:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:02:08+00:00	persistent	215071793%3A%3A7dhy3b2kq1cw1l5k4m7uh7nlsx40yk
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:02:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzE3OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzNzI4LCJpYXQiOjE1MjM5OTg5Mjh9.gGii23_8a-XSIVlc2lptj8cN1c3w6XqfrfabndD8D6Oxlwg0RwBNz7kMgjaySxHNDfcpBgr9N8vvSb3n0DBCBg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:02:08+00:00	login	i_ering67_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:02:08+00:00	name	i_ering67_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:02:08+00:00	last_login	2018-04-17T21:02:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:02:08+00:00	api_token	8644384284ab79ba56572c1aae27853d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:02:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfZXJpbmc2N185IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MDkyOCwiaWF0IjoxNTIzOTk4OTI4LCJub25jZSI6Im9reWxGNnQ2TUQyM3NFMjdXejF5TGFvQS1DNUozQkhUci1HYlV5dzdSSWs9In0%3D.qaBKiqZv7j97_JtZlEDu4XDfdEBrGNd6Quati-DBNJX9SEXG8iewj9OUwpwgvFi5UZXdGiOqOC68yqdqpzRlag%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:02:56+00:00	twilight-user	{%22authToken%22:%22wccrm3aw74azf5idmci9l19eqock10%22%2C%22displayName%22:%22i_ering67_9%22%2C%22id%22:%22215071793%22%2C%22login%22:%22i_ering67_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:02:56+00:00	auth-token	wccrm3aw74azf5idmci9l19eqock10

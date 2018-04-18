@@ -1,0 +1,13 @@
+#y_cristiann5i_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	66WTZfYNO%2FBxc83x3VLKddHbQ61J%2B4rvYZFeh505xN0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:11:38+00:00	unique_id	b8763e4ad24a8e63
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:11:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:11:54+00:00	persistent	214579611%3A%3Aszs6o1onwily0ey9e26s1qr0qgujrf
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:11:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Nzk2MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxNTE1LCJpYXQiOjE1MjM4MjY3MTV9.tB96zeWae0BXaI4ADasP6COlqQaRYFJ6ddgwaG2SSEiF964kwLjr3OTyK1w6jiYjv6Ipw2kwjGr1FGhvv1sJSg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:11:54+00:00	login	y_cristiann5i_8
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:11:54+00:00	name	y_cristiann5i_8
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:11:54+00:00	last_login	2018-04-15T21:11:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:11:54+00:00	api_token	afe29bf4f64500efab3a1d7e3109df6a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:11:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfY3Jpc3RpYW5uNWlfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzg3MTUsImlhdCI6MTUyMzgyNjcxNSwibm9uY2UiOiJJWDJsa1lKUVJoQk81R09ZM25TRnRhUTZlN1pYbm1QeGFfNkxsZXVmcFU0PSJ9.CgWPKflYfFqmY71qqEVoHm5F2gLeJp_Ytc0w4JTl3NuigHb6i-ZzrgS7sg55RJ65KHSz4yUodiIZ9wSoZQ36DQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:12:34+00:00	twilight-user	{%22authToken%22:%225zuy5kxst4spbkqqy0mndmqrwr4hnw%22%2C%22displayName%22:%22y_cristiann5i_8%22%2C%22id%22:%22214579611%22%2C%22login%22:%22y_cristiann5i_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:12:34+00:00	auth-token	5zuy5kxst4spbkqqy0mndmqrwr4hnw

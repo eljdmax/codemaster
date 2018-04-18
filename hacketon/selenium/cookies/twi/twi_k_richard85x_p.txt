@@ -1,0 +1,14 @@
+#k_richard85x_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sJf5VD8ws9MwY4v%2BwjwwhmS0CKYv%2Br2GyngiIsKaEcE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:25:33+00:00	unique_id	14290d393a5f317f
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:25:33+00:00	_twitch_session_id	9fe07a07c19ff36834114d87b101ed22
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:25:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:25:47+00:00	persistent	215090848%3A%3Av1yn3oqvzjt6k3v7v1vx2ylwoy7b1h
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:25:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTA4NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4NzQ4LCJpYXQiOjE1MjQwMDM5NDh9.OXjF5KJ0t5Yrg6I-YH1V75hTff-vHVbnaY7EYGlB3jlQSqorLkew1ClYeJNCzijr9nc7XSZ0eY4oBDbxgH6rlQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:25:47+00:00	login	k_richard85x_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:25:47+00:00	name	k_richard85x_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:25:47+00:00	last_login	2018-04-17T22:25:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:25:47+00:00	api_token	1e23d506fdd13f2bfc0b64f07a1e441f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:25:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcmljaGFyZDg1eF9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NTk0OCwiaWF0IjoxNTI0MDAzOTQ4LCJub25jZSI6IjFGYUM4aHlKMF8tYzA2elVRZEY3bnRsVF9WanBqazNlaTR6bHoyX0RHNkE9In0%3D.EI1gX0OKOttWF7JFQAjVKMP-w31fim5KCn4CXDUXuOZgEhDpjl_dMuTVr6fHyNBeGGP0-CQ9lsCZJOe9CFC03Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:26:37+00:00	twilight-user	{%22authToken%22:%224jgbrz1engql3pgapzte6y1ic8qbwh%22%2C%22displayName%22:%22k_richard85x_p%22%2C%22id%22:%22215090848%22%2C%22login%22:%22k_richard85x_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:26:37+00:00	auth-token	4jgbrz1engql3pgapzte6y1ic8qbwh

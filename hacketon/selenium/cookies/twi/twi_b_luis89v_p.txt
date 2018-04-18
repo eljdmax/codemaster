@@ -1,0 +1,13 @@
+#b_luis89v_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ZooVG70cJDRTZ4Jm%2F3dlerJq7oknHwLj6FFA5a%2BINOQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:27:08+00:00	unique_id	9f48e98519c22e23
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:27:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:27:25+00:00	persistent	214569667%3A%3A5pyj27yeo7srm444smyttyktweub6e
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:27:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njk2NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4ODQ2LCJpYXQiOjE1MjM4MjQwNDZ9.Wgp95EyA7IDlCE0gqdcmkr6_6ndK9K3tyIwwnRgTBfI9a_C-_i0Yx2YdcCxJTJb3xystrt-j8YTCd1bP3Es76Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:27:25+00:00	login	b_luis89v_p
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:27:25+00:00	name	b_luis89v_p
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:27:25+00:00	last_login	2018-04-15T20:27:26Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:27:25+00:00	api_token	8b971f649b58d01124e21d918d834d4a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:27:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbHVpczg5dl9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjA0NiwiaWF0IjoxNTIzODI0MDQ2LCJub25jZSI6IjdBQnF4SG14bFQ2UUt4WlNwa3d6ZUs1bzZTNV9LQ1VJRFJTaUtqcDlOWEk9In0%3D.rfaCfukpAxJqEFQYe-0NV-BkBWC_bT8G8OLld6r2BW7uVjuee1w6RgU0AwAvtru-TIMzaSSTABQ3QqA5wHg61Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:28:05+00:00	twilight-user	{%22authToken%22:%22n7gw5l9ih6evk4170wpdizebc8vqiz%22%2C%22displayName%22:%22b_luis89v_p%22%2C%22id%22:%22214569667%22%2C%22login%22:%22b_luis89v_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:28:05+00:00	auth-token	n7gw5l9ih6evk4170wpdizebc8vqiz

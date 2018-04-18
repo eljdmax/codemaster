@@ -1,0 +1,13 @@
+#s_michaelb2w_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	147Vl5qyuwYEY9OHOxq9E98O4I2hm%2FAs2pVxb9UTq9c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:43:17+00:00	unique_id	07d852d9738e80cc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:43:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:43:42+00:00	persistent	215081527%3A%3A49i2zirlk37bgjwhv2enxunjqcw1ml
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:43:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODE1MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2MjIzLCJpYXQiOjE1MjQwMDE0MjN9.-Z5rTLWAZhBOu7LcO6DUs0kBwJHDHkfb7UEPX8WDCGTKpEXbcOh3qMwWGjLS6oIIwEmLOQLaEaCuTWgJ0kHe7w==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:43:42+00:00	login	s_michaelb2w_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:43:42+00:00	name	s_michaelb2w_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:43:42+00:00	last_login	2018-04-17T21:43:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:43:42+00:00	api_token	fe5c864dfa784b05bf8b0362b0095c29
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:43:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWljaGFlbGIyd18yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MzQyMywiaWF0IjoxNTI0MDAxNDIzLCJub25jZSI6Ilh4UE5zYm9GUEVvNGdRTWhXRHkxajZCYjVURm1FZHpYZEtwb2pNdm5ub2c9In0%3D.QXmoyOFU7vfeoaEGAA57l3wCKafafdpIukHc9C8XvgvwIdBZFqNv9VB73jAIkNSWLKA4iU-Qq8PRBneD4X7APA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:44:33+00:00	twilight-user	{%22authToken%22:%22oq7gypgev7l3bq2qgu7m4jy3kfpx1b%22%2C%22displayName%22:%22s_michaelb2w_2%22%2C%22id%22:%22215081527%22%2C%22login%22:%22s_michaelb2w_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:44:33+00:00	auth-token	oq7gypgev7l3bq2qgu7m4jy3kfpx1b

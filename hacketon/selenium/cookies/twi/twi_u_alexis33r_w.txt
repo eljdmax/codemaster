@@ -1,0 +1,13 @@
+#u_alexis33r_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Np5tVCbFocS7zoQC%2Fr%2FdkfU0VIEfbOEjP%2BUubmImZyo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:57:30+00:00	unique_id	bb57c0fcb7c30ae8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:57:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:57:53+00:00	persistent	214562535%3A%3Ac2ofo3hwk05etpqyokhk4rfpo7n2i7
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:57:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjI1MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MDc0LCJpYXQiOjE1MjM4MjIyNzR9.UYNd_q-Qqgf-WcVrLHoK0Bq24PNWcubUlDznEmqulD8z4izzigWvGjphfeJrA8dlE0LjLXr5rIbxCCm0A3jhqw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:57:53+00:00	login	u_alexis33r_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:57:53+00:00	name	u_alexis33r_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:57:53+00:00	last_login	2018-04-15T19:57:54Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:57:53+00:00	api_token	a6af1e29c14737c20a7e336e23135f90
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:57:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYWxleGlzMzNyX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc0Mjc0LCJpYXQiOjE1MjM4MjIyNzQsIm5vbmNlIjoiNTNia1lUQ0RnUm1Sb3VodlhXaFJsZ0NhbUVsN0Rma0kxbVZBQU9FV1c0ND0ifQ%3D%3D._VeVpYt4U63dwJd1x6do8ji1pKtOyiUDTEEGS3NJT6OuW1pDqKWaFIqnL4QkcMquuGSB8sqSBPVOUMwzl8dsIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:58:33+00:00	twilight-user	{%22authToken%22:%22ywu59mfnrv1uet0n3b3ydp2g350jkw%22%2C%22displayName%22:%22u_alexis33r_w%22%2C%22id%22:%22214562535%22%2C%22login%22:%22u_alexis33r_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:58:33+00:00	auth-token	ywu59mfnrv1uet0n3b3ydp2g350jkw

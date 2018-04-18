@@ -1,0 +1,13 @@
+#k_shawn19s_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wbuI214PblLJgZLp8nyILJgqOlwnxd8LMNHQ%2FTloZfg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:17:04+00:00	unique_id	ef98abfaac0ea6a2
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:17:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:17:54+00:00	persistent	215089143%3A%3A41tr2ci573vtivb4jvehuopoom5m0n
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:17:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODkxNDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4Mjc1LCJpYXQiOjE1MjQwMDM0NzV9.cUnRC6vDVVI0cxEpYCIFWEj9hNqVcjgA4ADlt5itDlq4smQ6Qp5gkRW1fFhNbaRSxjxqdytBzVLI0Xap5e0d1Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:17:54+00:00	login	k_shawn1s_i
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:17:54+00:00	name	k_shawn1s_i
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:17:54+00:00	last_login	2018-04-17T22:17:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:17:54+00:00	api_token	19e23d75e6137921e139b7c505b14656
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:17:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfc2hhd24xc19pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NTQ3NSwiaWF0IjoxNTI0MDAzNDc1LCJub25jZSI6InlJa3RldGZTbUlVU3dEYjduMV9OLUttZ2o3UDRNTGwxLXAxc3NIQXZTSGc9In0%3D.OuxRhZBKubmUIBX93dtdh70VRpCZMQcraU4im4of8hfVRS8gAqn1aObdF5hZfUUv3Y8zPH4Am_IIQKNvxBnZxA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:18:45+00:00	twilight-user	{%22authToken%22:%22yhrfj5ps4lwwjnzkcbdwbmzq8cxowh%22%2C%22displayName%22:%22k_shawn1s_i%22%2C%22id%22:%22215089143%22%2C%22login%22:%22k_shawn1s_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:18:45+00:00	auth-token	yhrfj5ps4lwwjnzkcbdwbmzq8cxowh

@@ -1,0 +1,14 @@
+#n_danielak3v_g
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kviZDbu2wRR8JhNF6g3pa7hnuG4MenBKJAlf0RND9lk%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:20:16+00:00	_twitch_session_id	1e94f871745f0175f215094d6f2069a5
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:20:55+00:00	persistent	214779892%3A%3A5gvwuvwx01pkxppgbv80kgmyp71cnc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:20:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3Nzk4OTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE0ODU2LCJpYXQiOjE1MjM5MTAwNTZ9.zpebqdoRviWWKkm5ihOC5M2Eg0t0Nzy76lQkO5bBo45d_WUjweD3HtEJYBrREOhItE2tav69oLSpiLh2Jpe4_Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:20:55+00:00	login	n_danielak3v_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:20:55+00:00	name	n_danielak3v_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:20:55+00:00	last_login	2018-04-16T20:20:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:20:55+00:00	api_token	3e9feaa759840fc3ecc612469263789b
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:20:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fZGFuaWVsYWszdl9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2MjA1NiwiaWF0IjoxNTIzOTEwMDU2LCJub25jZSI6InZVdHlfRWgyWUxWd3RKMW4xVS1JckJTdFEycFBCRi1vcnFJUjhfWkJLWnM9In0%3D.jQExk2X9veSn7P_z-W7cB5FOMfEQFcEmpzCdWDtVPtSNuKCjl1-JsBgs089tGyFcShLPOwK-OVUMmQhddB-Mmg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:21:44+00:00	twilight-user	{%22authToken%22:%22q6lu01pt4197lqox2ybdg7mjfaa9kl%22%2C%22displayName%22:%22n_danielak3v_g%22%2C%22id%22:%22214779892%22%2C%22login%22:%22n_danielak3v_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:21:44+00:00	auth-token	q6lu01pt4197lqox2ybdg7mjfaa9kl

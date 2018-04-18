@@ -1,0 +1,13 @@
+#c_autumn72l_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WlsjJu9aRi1qjU59dx%2FRMe44r%2FdKIckL991GGJXO%2BWE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:58:45+00:00	unique_id	ced7203d2b6240f1
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:58:45+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:59:05+00:00	persistent	214822740%3A%3Ankg31siuvrn7ilkwd5nv87d4ch64sd
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:59:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjI3NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0MzQ2LCJpYXQiOjE1MjM5MTk1NDZ9.N2sak8WR0ZwbNA6LKoOe40YA1TBgI2_A2wXDMxpefU_8f36tRDmM-ZT_hpMMDoknJIQ5mnwvt7b9wng-PvGVtg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:05+00:00	login	c_autumn72l_2
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:05+00:00	name	c_autumn72l_2
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:05+00:00	last_login	2018-04-16T22:59:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:59:05+00:00	api_token	63baa22d6d33db39be6c43d53cbbcc94
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:59:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfYXV0dW1uNzJsXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcxNTQ2LCJpYXQiOjE1MjM5MTk1NDYsIm5vbmNlIjoiY21JdDRGaUdKNHRMazUydnJnaVdQZ0oxdVEwOGFmMmFJMXdQdHE1NllJUT0ifQ%3D%3D.0LlKeWxIqQaCbVfkWm6vP7mWRP8WhxyadVQmFDR6ve46uDs5ASIhusUGCM7YYY-pVDxSuKQz1X8GDEpjuhhLlw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:59:51+00:00	twilight-user	{%22authToken%22:%2297zqg3a74472bxmk4es61ajvbz95ya%22%2C%22displayName%22:%22c_autumn72l_2%22%2C%22id%22:%22214822740%22%2C%22login%22:%22c_autumn72l_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:59:51+00:00	auth-token	97zqg3a74472bxmk4es61ajvbz95ya

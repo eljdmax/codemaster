@@ -1,0 +1,14 @@
+#c_ianw7r_d
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wne7d6h9eNJff8lmbuYQqQe9V%2FMziODt6quv4YJP9as%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:23:15+00:00	_twitch_session_id	98db97cfb7fd69a83cd6847157973906
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:23:40+00:00	persistent	214553619%3A%3Aqb40a9hax7br6ek9sr6775577mhtoy
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:23:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTM2MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1MDIwLCJpYXQiOjE1MjM4MjAyMjB9.JrP-gq-8UO_f-5VPWyakoMjIsPHbgmapQngs1Z2oYtqq5ckKFtSciVrfgcvvohmxdBowyWcK7iwZS-jM_Br0eg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:23:40+00:00	login	c_ianw7r_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:23:40+00:00	name	c_ianw7r_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:23:40+00:00	last_login	2018-04-15T19:23:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:23:40+00:00	api_token	931e59732b8e32318fdc842a00906b1e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:23:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfaWFudzdyX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyMjIwLCJpYXQiOjE1MjM4MjAyMjAsIm5vbmNlIjoiRk5PY0xpLTN6d09lSTY1cmFBd2pheDZfcjdTbmI5Y2JLLTFsSktCSDB1cz0ifQ%3D%3D.Pj8eJYyO1732OMj6cgqK0M6z9wdEBdXiIFZze2CroVLe_7HCULyrpLNdrFubfyKrpCgru3630V3ZFzyurHFUBg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:24:21+00:00	twilight-user	{%22authToken%22:%22cde137ajnt6hyx3nhz1i8us2ubfqnl%22%2C%22displayName%22:%22c_ianw7r_d%22%2C%22id%22:%22214553619%22%2C%22login%22:%22c_ianw7r_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:24:21+00:00	auth-token	cde137ajnt6hyx3nhz1i8us2ubfqnl

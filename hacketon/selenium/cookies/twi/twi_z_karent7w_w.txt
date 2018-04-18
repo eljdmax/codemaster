@@ -1,0 +1,13 @@
+#z_karent7w_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3idGTcp1JOWUCR52mzk4jwAbpVCbd1ukPPlVwMk%2BJ9k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:23:50+00:00	unique_id	6b66ce7c77df8a10
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:23:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:24:19+00:00	persistent	214807690%3A%3A73h8d1v5f61mz5n4bdc127780hdmy8
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:24:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDc2OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyMjU5LCJpYXQiOjE1MjM5MTc0NTl9.HiK5i55M9hgKp7hB9HHZwd5kWzQtVG5OZ0ek4bv2kK_Su5i6WlGPocIRUveaDqwnmf2exnA9uKQBjdyTbK4VBA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:24:19+00:00	login	z_karent7w_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:24:19+00:00	name	z_karent7w_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:24:19+00:00	last_login	2018-04-16T22:24:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:24:19+00:00	api_token	30365e6794f83ee5f3f23a197004d810
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:24:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfa2FyZW50N3dfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0Njk0NTksImlhdCI6MTUyMzkxNzQ1OSwibm9uY2UiOiJ1UDVLeFZWY21xWHdXdzdLRGRONzFwNTlBS3pPdmNucnBQVDRzc1d6czc0PSJ9.ac5YNbL4UmA0aq1dy92N8s_ZXu-w4EMjgczzxRdt_sG8p2oVBZdPhy0N8mkp8ElV2A-rWOK25nEdtTQoNi3VVg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:25:04+00:00	twilight-user	{%22authToken%22:%22jjt8np1t12v8jpr08254r9y4wzg7jm%22%2C%22displayName%22:%22z_karent7w_w%22%2C%22id%22:%22214807690%22%2C%22login%22:%22z_karent7w_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:25:04+00:00	auth-token	jjt8np1t12v8jpr08254r9y4wzg7jm

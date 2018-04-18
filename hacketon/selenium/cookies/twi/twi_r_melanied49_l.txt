@@ -1,0 +1,13 @@
+#r_melanied49_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dYZHlfYLs6Ns%2FbHkPgVwZ1i0w%2FgHf1aNydIFaaRV%2B8o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:56:12+00:00	unique_id	a8b6797a0ffae391
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:56:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:56:31+00:00	persistent	214821779%3A%3Azmm77slvfdiq5pstcbuev5x3gd9enc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:56:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjE3NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0MTkxLCJpYXQiOjE1MjM5MTkzOTF9.mC1Rcg6L2ObjvzzogM7gfwTrvKd1KGGFayMEcMAslifie3CZns56HmsfmT0hx_drmDovuXbra4XXqKolo2yCsA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:56:31+00:00	login	r_melanied49_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:56:31+00:00	name	r_melanied49_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:56:31+00:00	last_login	2018-04-16T22:56:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:56:31+00:00	api_token	b02742f02497f7dbb34d8466f3cdaaac
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:56:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWVsYW5pZWQ0OV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MTM5MSwiaWF0IjoxNTIzOTE5MzkxLCJub25jZSI6IlFHSHJ3cjVnUkJmY0pDYmFjLWpHMFA4TE9iRl9BUXRXbXRMU3ljQldiYUU9In0%3D.7Xif99DSSBqav8xz0xGxxWkK9zBomufyy1pIAJ7su1yV5w1Pr1FWjR1W2A6ifxxxZ6YMquk83LnjRxmchwnGCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:57:15+00:00	twilight-user	{%22authToken%22:%22c1ho198vbihyeztiwl7a8cfr9etfoc%22%2C%22displayName%22:%22r_melanied49_l%22%2C%22id%22:%22214821779%22%2C%22login%22:%22r_melanied49_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:57:15+00:00	auth-token	c1ho198vbihyeztiwl7a8cfr9etfoc

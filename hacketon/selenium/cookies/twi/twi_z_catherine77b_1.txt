@@ -1,0 +1,15 @@
+#z_catherine77b_1
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:06:12+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	b83KQNSzoIeDM4Uy7%2BZjuf5BxH%2B3naY5evCMrNwFOAE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:09:02+00:00	unique_id	b4b9cf571b089e86
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:09:02+00:00	_twitch_session_id	663b6e6f568692158d93ac630b34e9ae
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:09:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:09:22+00:00	persistent	214801951%3A%3A70z3douypkyx62ut2xcmqrid2vknlw
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:09:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDE5NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxMzYyLCJpYXQiOjE1MjM5MTY1NjJ9.msh_n4hldHhS-Ie5WD03MzvNN06JUhWmWr4hZiZOnX9HH0DhEv1LJmerJCeZ8SZ43miNqwZwS73Zdjzfo-SxuA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:09:22+00:00	login	z_catherine77b_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:09:22+00:00	name	z_catherine77b_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:09:22+00:00	last_login	2018-04-16T22:09:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:09:22+00:00	api_token	93902f5474e3de2adff7f389c9152d4d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:09:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY2F0aGVyaW5lNzdiXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY4NTYyLCJpYXQiOjE1MjM5MTY1NjIsIm5vbmNlIjoiZmtEQk12RkdNSkJjU0tVV2ZIczlmcEp1VlRkeVg1djQyUE56Wlc2WXZhdz0ifQ%3D%3D.5Jq0wOQuUzBvHXNvY6km4UvaVnlqOq7DtRPVrgykqsKQiSy3cMdeqIvS4dohPy_9NBq4wKvg4SEIE8ngbwZdKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:10:07+00:00	twilight-user	{%22authToken%22:%22s7khhc3ec5eljlyro2ynemssz2fqog%22%2C%22displayName%22:%22z_catherine77b_1%22%2C%22id%22:%22214801951%22%2C%22login%22:%22z_catherine77b_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:10:07+00:00	auth-token	s7khhc3ec5eljlyro2ynemssz2fqog

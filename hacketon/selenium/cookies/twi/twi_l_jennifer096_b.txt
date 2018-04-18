@@ -1,0 +1,14 @@
+#l_jennifer096_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	G6MTCJHkVlOHqpSmk5DQMqCnsPCjntGWdYGDI0nBTKE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:17:34+00:00	unique_id	6ae0a2a41b422733
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:17:34+00:00	_twitch_session_id	2736f535147fd86d556430e26181f591
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:17:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:18:12+00:00	persistent	214792131%3A%3Ay6y3rqu0vyr7o9ozjh2jr3j77k9gva
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:18:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTIxMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4MjkzLCJpYXQiOjE1MjM5MTM0OTN9.cGta6A0Nv0QADYh64UwJJZc7ogiQ3ltPussuwliZ5jNF83CZ7bOTmcyj8mVpa4spWUpNW3qe4CG1QiJ24b42fA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:18:12+00:00	login	l_jennifer096_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:18:12+00:00	name	l_jennifer096_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:18:12+00:00	last_login	2018-04-16T21:18:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:18:12+00:00	api_token	b425e7dabb48df477d380418798ad21c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:18:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfamVubmlmZXIwOTZfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjU0OTMsImlhdCI6MTUyMzkxMzQ5Mywibm9uY2UiOiJyUUxsc1BiaVJPVFJ3aHh2cUk4OG9EMkpjN1pjWXloVnprcXB1ODF6ZUNnPSJ9.8UrYa5vs3s5UlACTtBv2fLOhTMn5_jER3nWdgRwe5M43RWakT841Tlq2RgaxSN4W3J9viZ8Pi70Gn-I48B_Ibg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:18:59+00:00	twilight-user	{%22authToken%22:%220kmb2brnl57cpe5irash1qglperng4%22%2C%22displayName%22:%22l_jennifer096_b%22%2C%22id%22:%22214792131%22%2C%22login%22:%22l_jennifer096_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:18:59+00:00	auth-token	0kmb2brnl57cpe5irash1qglperng4

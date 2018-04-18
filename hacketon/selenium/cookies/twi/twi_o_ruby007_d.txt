@@ -1,0 +1,14 @@
+#o_ruby007_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FgyYFOQjsThnkf1RTRHMuzk88Jc9k7X3XezazmGNRAU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:18:18+00:00	unique_id	9455e9b0c3aea163
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:18:18+00:00	_twitch_session_id	c2b844569750cf6db9d58b621f0706d7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:18:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:18:37+00:00	persistent	214567597%3A%3A1fiqo95it8adbuas8krs0qyp9sgno6
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:18:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njc1OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4MzE3LCJpYXQiOjE1MjM4MjM1MTd9.x5rqvmeuxFn8hYHnkEVSP73sFI6KeffqXS7HTaGM39Cldai0VgGNTnDy9Msis0r3kF8AyfDcPp7hk5yNy3Zr4g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:18:37+00:00	login	o_ruby007_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:18:37+00:00	name	o_ruby007_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:18:37+00:00	last_login	2018-04-15T20:18:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:18:37+00:00	api_token	6dcfdc13df6ba693f9b79267b71a2483
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:18:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fcnVieTAwN19kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTUxNywiaWF0IjoxNTIzODIzNTE3LCJub25jZSI6IkJnZURsUDlIYV8zczFMTHFfNXc4dHZwbnFyOEF5YVNjRmVOaVFxVGxTdlE9In0%3D.MBFD7Z6Z32Y8Lj0hOSn_egYzBUNCtYizcGh6U69cuMmkebRBh_MlMPyrNxaNA1HAEJ6bLMW_Z56_1EC2NnHn8w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:19:15+00:00	twilight-user	{%22authToken%22:%22g0gkuqs1ipp55143pyz0capeh1tut6%22%2C%22displayName%22:%22o_ruby007_d%22%2C%22id%22:%22214567597%22%2C%22login%22:%22o_ruby007_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:19:15+00:00	auth-token	g0gkuqs1ipp55143pyz0capeh1tut6

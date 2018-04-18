@@ -1,0 +1,13 @@
+#s_bryan95d_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nr4JPC8PLq9qaOpOI2H1pkYv7pBzD0HwQJmHCacj6Ow%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:58:59+00:00	unique_id	c60581fac3d04c6d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:58:59+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:59:12+00:00	persistent	214822783%3A%3Aac6ci1saz85hjj7kryzugfw5k0zm7w
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:59:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjI3ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0MzUzLCJpYXQiOjE1MjM5MTk1NTN9.H8xwRktlQf6GxPwhHXIrMZXRCw1bmTAVCGU8JC0I0UVz3bDXnMb_Vn3Q3kgUnEljf-AurtgH30zMY4fS60OX0Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:12+00:00	login	s_bryan95d_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:12+00:00	name	s_bryan95d_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:12+00:00	last_login	2018-04-16T22:59:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:59:12+00:00	api_token	0b4e8528d54150a2effe936ad71d63a7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:59:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYnJ5YW45NWRfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzE1NTMsImlhdCI6MTUyMzkxOTU1Mywibm9uY2UiOiIzLTFsNVU2OHNsc0tOSU1ORmtqVmJZclVVNkEtZEh0S0pRTUhxWHhLSWY0PSJ9.WHH0bwjQ6aZSZzrs4-j5-MrnVhn91xILz9SdLv7MvzsgOSOtWZP50tvBFR6rejQJAGzCHd0OLi9H0BLCeRlSmw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:59:57+00:00	twilight-user	{%22authToken%22:%22pjlqtov59iitcvczcruesfc0lja0b1%22%2C%22displayName%22:%22s_bryan95d_0%22%2C%22id%22:%22214822783%22%2C%22login%22:%22s_bryan95d_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:59:57+00:00	auth-token	pjlqtov59iitcvczcruesfc0lja0b1

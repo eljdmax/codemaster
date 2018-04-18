@@ -1,0 +1,13 @@
+#u_patrick78h_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	whn9S%2B7KozOFunTJCZfOTQU%2Bk8N0%2FW%2BmqjFMdZRWzMw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:58:15+00:00	unique_id	52c988a9a71fb31c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:58:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:59:03+00:00	persistent	215084938%3A%3A3gwtc4qb7rpy17bk9ahsw65wuaz5qq
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:59:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODQ5MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3MTQ0LCJpYXQiOjE1MjQwMDIzNDR9.NuJOI5ZCf6u7i9qklQOzvDjStF0i3rFYWJyMqt50G1XFTW7wQvHvLyvvD0Vqzk6o5TkiwR5SN3IxMzxMQw_LQA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:59:03+00:00	login	u_patrick78h_l
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:59:03+00:00	name	u_patrick78h_l
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:59:03+00:00	last_login	2018-04-17T21:59:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:59:03+00:00	api_token	a8b3c5ed50f50d9d66f0a6a22328229e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:59:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfcGF0cmljazc4aF9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NDM0NCwiaWF0IjoxNTI0MDAyMzQ0LCJub25jZSI6IkZjMWNiUFJySzZIM05rMVFNOGVrVEtJRjhLRDhTemhrT3F5OGNOaks3ZWs9In0%3D.qcpbkuXcMVdD9J97UKynCRMec31wVY-tLDOi3PFw88l4HftgdlFRw_NKBiyrLF3wlK17uBYh8kZJcF4tdOysjA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:59:54+00:00	twilight-user	{%22authToken%22:%22jl0cw1xexjqavjgfk8du519y8026wb%22%2C%22displayName%22:%22u_patrick78h_l%22%2C%22id%22:%22215084938%22%2C%22login%22:%22u_patrick78h_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:59:54+00:00	auth-token	jl0cw1xexjqavjgfk8du519y8026wb

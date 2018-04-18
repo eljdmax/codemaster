@@ -1,0 +1,14 @@
+#s_aidan551_x
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:08:17+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-16T21:07:36+00:00	unique_id	10e06236f5f56cf7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:07:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Zupcj3kpRWHbEGnROBEdBsF%2F9FXj4WTLlEtBm5x%2Bhxo%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:11:42+00:00	persistent	214790727%3A%3Ajclfsh07f3e7lhbl4vw2hm2bf27mlz
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:11:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTA3MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3OTAzLCJpYXQiOjE1MjM5MTMxMDN9.vK3yu0zN1o_ySE4UWPKY7lVVJfd9MN7CHh6Bi0vCm5FLMF9b_7UkfVbZAxMhukIQUWbSxnXuLqZr4OFo6Jef_Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:42+00:00	login	s_aidan551_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:42+00:00	name	s_aidan551_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:42+00:00	last_login	2018-04-16T21:11:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:11:42+00:00	api_token	9bd727bb344ab0ee6d4898be9ffeafd8
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:11:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYWlkYW41NTFfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjUxMDMsImlhdCI6MTUyMzkxMzEwMywibm9uY2UiOiJQMmUySndTa25VRGJjS25oeGRGR1k5bFZqbHl4YWQtd0VWaDgzbGtOWmZRPSJ9.IABlsHREWXc-keIywCAMqOkK7eZ2N9l8BdF9oTGllsIZ9MHXTSp-IwlGdba6oZm4QZMuRgUCDKyj1Ow6rMicKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:12:30+00:00	twilight-user	{%22authToken%22:%22k5yk2qbdmi36a8smyyw2zlt6eb0l0d%22%2C%22displayName%22:%22s_aidan551_x%22%2C%22id%22:%22214790727%22%2C%22login%22:%22s_aidan551_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:12:30+00:00	auth-token	k5yk2qbdmi36a8smyyw2zlt6eb0l0d

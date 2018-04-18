@@ -1,0 +1,14 @@
+#d_luis81k_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sCEnqmDLC6ikozc5Zhy8hw94B7cLcClpl9x3FmSn96M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:19:47+00:00	unique_id	eb9b5b7f44631090
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:19:47+00:00	_twitch_session_id	ec1806160c51c8d6fb37ce74163d6e13
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:19:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:20:13+00:00	persistent	215076179%3A%3Awt465l298voyrre17mh4y9sqkq6crx
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:20:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzYxNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA0ODE0LCJpYXQiOjE1MjQwMDAwMTR9.hKXT1c1OybB8_BEoM6l0SD5-Bo-x-mzqQTnrsdyOX4iwXvxjRTa5HgoxYzZwmoijminyfPrh_jMklR8xmPZbkg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:20:13+00:00	login	d_luis81k_0
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:20:13+00:00	name	d_luis81k_0
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:20:13+00:00	last_login	2018-04-17T21:20:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:20:13+00:00	api_token	8b00f691022dfbf5de6effa607adb758
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:20:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbHVpczgxa18wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjAxNCwiaWF0IjoxNTI0MDAwMDE0LCJub25jZSI6ImtqSmVYSlBEbGpuaGZpdUstVDlBZV9HZnk3YzY3MTE0YklZUXN6VV9GaWs9In0%3D.Dll99zkovFvZfw5o8HQF7AnwSL394Tn_0z0_98WiR5Cn6tZTC977F_fk0rKVnEbkmuRXw21eWBlME9qAPTR4Xg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:21:02+00:00	twilight-user	{%22authToken%22:%22ehrhx118y9k93vxtyxcwxlr04hg9i3%22%2C%22displayName%22:%22d_luis81k_0%22%2C%22id%22:%22215076179%22%2C%22login%22:%22d_luis81k_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:21:02+00:00	auth-token	ehrhx118y9k93vxtyxcwxlr04hg9i3

@@ -1,0 +1,13 @@
+#r_victor76e_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	c1SNDhIbZ5R74mshhudoMhE7MHD7oZx50UeQVSP19k8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:44:46+00:00	unique_id	68a23b5245bb561c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:44:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:45:05+00:00	persistent	214784942%3A%3A92ir87y1ts42q2nw0racp3g6vg2eo9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:45:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODQ5NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MzA1LCJpYXQiOjE1MjM5MTE1MDV9.DLLLcohneHj4byfBJFFgnt2ae0YpMVCM9cNrfe3e-MTV3Asyla-74iGufiTC83R3TWR0s9JTNb1nsj7sqShJ3A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:45:05+00:00	login	r_victor76e_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:45:05+00:00	name	r_victor76e_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:45:05+00:00	last_login	2018-04-16T20:45:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:45:05+00:00	api_token	b5cfdb8bc30b23df0f47011040dffe81
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:45:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfdmljdG9yNzZlXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYzNTA1LCJpYXQiOjE1MjM5MTE1MDUsIm5vbmNlIjoiNVBFV0d1aWcxOFFDc0RXT0pmZm0xYmZyQ3I3Z0wxbGNGNUtScldmeHA4MD0ifQ%3D%3D.RxyYEankA7sshM7nZPM-HdPEgt-i2H6tIbo256LcrKqLfT-0q53kSCJmBMee6sydfGH_zrPIszjBznOtdHyODg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:45:50+00:00	twilight-user	{%22authToken%22:%22zdjhdm06t4jq6dsdos7fei2t1u86sx%22%2C%22displayName%22:%22r_victor76e_5%22%2C%22id%22:%22214784942%22%2C%22login%22:%22r_victor76e_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:45:50+00:00	auth-token	zdjhdm06t4jq6dsdos7fei2t1u86sx

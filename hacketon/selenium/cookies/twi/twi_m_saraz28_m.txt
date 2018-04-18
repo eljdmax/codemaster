@@ -1,0 +1,14 @@
+#m_saraz28_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SNlJgCRkjAA1EpiD4VE0rmNE0GrVSSS46pv2qCIh4GI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:57:33+00:00	unique_id	c47d18fca9d1b069
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:57:33+00:00	_twitch_session_id	35aaaf78faecb4aa9e9320e4081efc1f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:57:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:57:55+00:00	persistent	215084682%3A%3Avk1pa7zjt1vi3seo8jqrtntoxj4waz
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:57:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODQ2ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3MDc1LCJpYXQiOjE1MjQwMDIyNzV9.LXlRfPNKLn06xAVb2hkwKaoPrXAxbGsaD9XBQtSM8oFExYyRdaL8kSn7iYACVYQcJJMZt0dWQLZCcYQhH3SxBQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:57:55+00:00	login	m_saraz28_m
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:57:55+00:00	name	m_saraz28_m
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:57:55+00:00	last_login	2018-04-17T21:57:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:57:55+00:00	api_token	7065961bc56a758f0864e0a304d48a8f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:57:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fc2FyYXoyOF9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NDI3NSwiaWF0IjoxNTI0MDAyMjc1LCJub25jZSI6ImVaeG8ycGZmN2FNN2JsSXowR0lzcUlLNTFHTlpoejVMdUNFei11MWJYYVU9In0%3D.WmeJK5Tx7FkMeRemiPOU75jCrf2Ms00IBF-eUTPCUORlVVHcG2j8tvElj2x7VpbQZNMAFKcMSjxIlu8PUwLn8w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:58:44+00:00	twilight-user	{%22authToken%22:%22i3hua2wb5y18c8aluzbly06w48yze3%22%2C%22displayName%22:%22m_saraz28_m%22%2C%22id%22:%22215084682%22%2C%22login%22:%22m_saraz28_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:58:44+00:00	auth-token	i3hua2wb5y18c8aluzbly06w48yze3

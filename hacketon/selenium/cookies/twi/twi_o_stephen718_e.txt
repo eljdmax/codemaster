@@ -1,0 +1,13 @@
+#o_stephen718_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qLIrVySiDbrpB%2BCOUkfETO7AhYZjctWO01RFHOTYWuU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:36:31+00:00	unique_id	8c1c56da24cfd085
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:36:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:36:58+00:00	persistent	214571907%3A%3As29jg6pss65ew55xinfa2bjm0onxiw
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:36:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzE5MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NDE5LCJpYXQiOjE1MjM4MjQ2MTl9.uk0dgsA5T-TewxBDAAUFg6wVfB4yyXNGmGnkFWDPKcu6YNsTz5BC6meWRfKgs9gzBXCRH1Z9pGvmqtmFimZYHQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:36:58+00:00	login	o_stephen718_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:36:58+00:00	name	o_stephen718_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:36:58+00:00	last_login	2018-04-15T20:36:59Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:36:58+00:00	api_token	5489b16deb713775eb96f457b982a1cd
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:36:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fc3RlcGhlbjcxOF9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjYxOSwiaWF0IjoxNTIzODI0NjE5LCJub25jZSI6ImtZTmhLMmNVWnRlbjJIYzBsLVN1U2tQNU9OTXpPZFA0b3VCMGR3dGNrdzQ9In0%3D.-Vioh5B4d9XnCVoegF0kxyAaVTYSXzeij5h2fLUvpNgl9b9Y9EFEWa8qM40OQ6ZKGL8kGp8n9jMZOL_93g6afw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:37:38+00:00	twilight-user	{%22authToken%22:%22fwgc4gqym9rg3ypedqokoxpxtijv7a%22%2C%22displayName%22:%22o_stephen718_e%22%2C%22id%22:%22214571907%22%2C%22login%22:%22o_stephen718_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:37:38+00:00	auth-token	fwgc4gqym9rg3ypedqokoxpxtijv7a

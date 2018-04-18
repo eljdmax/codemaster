@@ -1,0 +1,13 @@
+#h_jenniferk5u_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LUwn4wjFL3BGH1KVQl9YKUHzRpTL8imFfroyTLlxPxI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:36:13+00:00	unique_id	5969858ca5ea6c28
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:36:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:36:34+00:00	persistent	215093112%3A%3Ayy2v7y18alcowypkvzrw4xyzehqj6s
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:36:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTMxMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA5Mzk1LCJpYXQiOjE1MjQwMDQ1OTV9.S6sK7GplefV4tNFsPE4D42LPVPjWsVytJHzq5TZ9SK8lu0f0kjKkbx1HbZZjI71Jfoc1IYBgrcb_F2a1INaOxw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:36:34+00:00	login	h_jenniferk5u_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:36:34+00:00	name	h_jenniferk5u_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:36:34+00:00	last_login	2018-04-17T22:36:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:36:34+00:00	api_token	6b81f79e8324cfe35f5337bd9c15e344
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:36:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfamVubmlmZXJrNXVfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTY1OTUsImlhdCI6MTUyNDAwNDU5NSwibm9uY2UiOiJfNWtqc1F3alhEWVQxSzFoUlF2NndjbnMxNk1SUUdnemtRSGY0YjhpNlQ0PSJ9.A1KSeuVB63a9rpqx28L1odKQn3BFY7pODhZkQXG1cnyRgqj8eSLP1N1fnc5O1FL5-7lcT5-u7YHv-QFw7fhMgQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:37:25+00:00	twilight-user	{%22authToken%22:%22u9fvtq01g33m8trjhmqgjqqrlnsl8n%22%2C%22displayName%22:%22h_jenniferk5u_8%22%2C%22id%22:%22215093112%22%2C%22login%22:%22h_jenniferk5u_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:37:25+00:00	auth-token	u9fvtq01g33m8trjhmqgjqqrlnsl8n

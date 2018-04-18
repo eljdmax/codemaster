@@ -1,0 +1,14 @@
+#i_manuelj5f_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FQOGHZmQh8w7a%2Fh8MFau42LpTrvHwSlcHybo3pCdaK8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:12:54+00:00	unique_id	f73eb92ce7dfbbcf
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:12:54+00:00	_twitch_session_id	db0091c0eb47b620fcb6d2b37139dd45
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:12:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:13:22+00:00	persistent	214802723%3A%3Ar3ktmeirwzlzdkp1oe4a1v7d5nnxwr
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:13:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDI3MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNjAzLCJpYXQiOjE1MjM5MTY4MDN9.wLb7cDaBUiDKRvhCRGPS_0BkIOGahiHSu8S9aBjNvHYV9m60JZ4ZN4FGuVJ05eWffzC0QFgo1nrkjzGa_pDoEQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:13:22+00:00	login	i_manuelj5f_4
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:13:22+00:00	name	i_manuelj5f_4
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:13:22+00:00	last_login	2018-04-16T22:13:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:13:22+00:00	api_token	cdbed15f4663f9918e1eb804b3ba3ad3
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:13:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFudWVsajVmXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY4ODAzLCJpYXQiOjE1MjM5MTY4MDMsIm5vbmNlIjoiOTBQMDVYSE1fcEdUazZDWUNKSDkyUXFlNzRfcnJUOEZaVl8wU2RtVWJWZz0ifQ%3D%3D.YWCGU4p2_rSjSNAsKMuclPgnEI3n3S_-tompesn-RAMeiTJm-LirVhuH2AmKPpecYaOPizvwMh3VrJx1yUpFoA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:14:09+00:00	twilight-user	{%22authToken%22:%22s39xml2zcdcvs3muw1eo1f8oh19i34%22%2C%22displayName%22:%22i_manuelj5f_4%22%2C%22id%22:%22214802723%22%2C%22login%22:%22i_manuelj5f_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:14:09+00:00	auth-token	s39xml2zcdcvs3muw1eo1f8oh19i34

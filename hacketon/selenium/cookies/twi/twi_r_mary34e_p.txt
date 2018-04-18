@@ -1,0 +1,14 @@
+#r_mary34e_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	y6CtMsACeQx7XqyIhNjI6G%2BYixSu1YPUrYSA7icQ2B0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:12:04+00:00	unique_id	291217354e747279
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:12:04+00:00	_twitch_session_id	31eff0d254aad9bcab09a5076f4b3fb6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:12:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:12:27+00:00	persistent	214566138%3A%3Abw6phrujpvvz1wzxovdw5tdrtto82w
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:12:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjYxMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3OTQ4LCJpYXQiOjE1MjM4MjMxNDh9.bxJHaxXQRiUPGiTvZzqddJ2e6hmj8SAcKWvhUVJNXE4LSxV_r6R6vSyZmwBkjhq1GcSphou8zC05aXGXSwYtoA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:12:27+00:00	login	r_mary34e_p
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:12:27+00:00	name	r_mary34e_p
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:12:27+00:00	last_login	2018-04-15T20:12:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:12:27+00:00	api_token	e8d340f5163a746eddf11243a9ff40c7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:12:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWFyeTM0ZV9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTE0OCwiaWF0IjoxNTIzODIzMTQ4LCJub25jZSI6IlpEZ3hySXN5YzliSkprTFl3UVM3RTJScUF4RjdNZEtuQmo4UVF5aDJNeWM9In0%3D.J1KKecVHZ40Lz8ck2gugvcf5P2vNXBysi8HTJUUxDJLIQtddNMv-QulKRkp5ni81NA4zWQfMYk4vwYACDYX6Pg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:13:08+00:00	twilight-user	{%22authToken%22:%22z25w98eng9p6ghm90akej04z7oc1nc%22%2C%22displayName%22:%22r_mary34e_p%22%2C%22id%22:%22214566138%22%2C%22login%22:%22r_mary34e_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:13:08+00:00	auth-token	z25w98eng9p6ghm90akej04z7oc1nc

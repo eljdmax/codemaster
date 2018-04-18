@@ -1,0 +1,13 @@
+#l_edwin95l_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ZE6OKVRbfWcarzAVyCL3SG4kRVB8b4lRHeAgwZZerKg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:16:46+00:00	unique_id	664e157f6bd8f181
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:16:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:17:05+00:00	persistent	214580653%3A%3Ae1btv7cpu0k4gm25z90oykrwfx2qzu
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:17:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODA2NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxODI1LCJpYXQiOjE1MjM4MjcwMjV9.6TiitBABZnikvfxsf5lQFQNNiggxN5WANt6MXqI9B7ZUA2qRmhLEeED-i3Sr9xOzW4ZQtnaYSxwAEppTpr2tPQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:17:05+00:00	login	l_edwin95l_6
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:17:05+00:00	name	l_edwin95l_6
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:17:05+00:00	last_login	2018-04-15T21:17:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:17:05+00:00	api_token	6a11643c190fdda1fad41b881f8deb6d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:17:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfZWR3aW45NWxfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzkwMjUsImlhdCI6MTUyMzgyNzAyNSwibm9uY2UiOiJzQkRZOU84VUZHckw0VlJzMkJmOHViX3dhREE5MHI1T1k4SEEwWFA0Z3lVPSJ9.ESCOwaqcK_yMDpE4NDBNzrvRk61_yE0jHCXwNsAgfYv818knyhOi-ioNhwd36tHBA_JUGY-siGQLWIr4Syucwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:17:45+00:00	twilight-user	{%22authToken%22:%2253pwd5els0u8srmk06z73hhbjhl30e%22%2C%22displayName%22:%22l_edwin95l_6%22%2C%22id%22:%22214580653%22%2C%22login%22:%22l_edwin95l_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:17:45+00:00	auth-token	53pwd5els0u8srmk06z73hhbjhl30e

@@ -1,0 +1,13 @@
+#i_jade37r_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xH1U5JKJLzt9eTiX6WkdOWfpNSaQJZ3wVL%2FQimD2CHQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T19:59:43+00:00	unique_id	9a90ee356d44891d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:59:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:00:02+00:00	persistent	215056234%3A%3A5fwo9x5pvu1448tdr7141f8ouvpvrn
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:00:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTYyMzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwMDAyLCJpYXQiOjE1MjM5OTUyMDJ9.XkLuw_YUkWOBO-LIxslpwwONmwPpCSJu5agwg1fb-FvLTM8HTV41fAlA-5HnQSwfq-h2nn3GAKyKNodmPfV3zg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:00:02+00:00	login	i_jade37r_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:00:02+00:00	name	i_jade37r_v
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:00:02+00:00	last_login	2018-04-17T20:00:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:00:02+00:00	api_token	fe56b9be006b7a17db0b46a02edae93e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:00:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfamFkZTM3cl92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0NzIwMiwiaWF0IjoxNTIzOTk1MjAyLCJub25jZSI6IjE1c3Zfc0ZRMGQ2anlTUVQzRUNheFJhWGpmVGpzcEZRaDdBbm9scGVtTDQ9In0%3D.9stQixXPnQbCH-L55PO6EAYsxn6NpyN1MlDWoCSVF4ZCCy-u9wjTTc976Si1AxJx4dcrduiyxUurxLvZcEFeyA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:00:50+00:00	twilight-user	{%22authToken%22:%22j3oufw7n0zw01tni2dgpluzmpm5il5%22%2C%22displayName%22:%22i_jade37r_v%22%2C%22id%22:%22215056234%22%2C%22login%22:%22i_jade37r_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:00:50+00:00	auth-token	j3oufw7n0zw01tni2dgpluzmpm5il5

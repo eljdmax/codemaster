@@ -1,0 +1,14 @@
+#b_camilas13_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7G70rDJ2L9x7xh%2BBKwhC5S5BXJiIZLRPq%2BaKMGbtIBM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:11:40+00:00	unique_id	eefb32ebb756f843
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:11:40+00:00	_twitch_session_id	3efe1f27f54617ca0bbe70f50009321d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:12:04+00:00	persistent	215059262%3A%3Aq2merqhbzjj7g5ozlq8rl1g612ohsh
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:12:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTkyNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNzI0LCJpYXQiOjE1MjM5OTU5MjR9.pp4qx7_wCDeY1IHGC3C86f01XHMvkQK93lDJFN6kC39VrvHkfFQkFl9jZgefuxIZUC4lZFnD2tyt1FjWjQcuig==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:12:04+00:00	login	b_camilas13_j
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:12:04+00:00	name	b_camilas13_j
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:12:04+00:00	last_login	2018-04-17T20:12:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:12:04+00:00	api_token	133c9dc2456eba34517284469187dd93
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:12:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfY2FtaWxhczEzX2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ3OTI0LCJpYXQiOjE1MjM5OTU5MjQsIm5vbmNlIjoiTkhHNG8tQTcwN2hmakxReUhENjlSeVpiUmtESW9tODVxWE5YWDhIaHJBND0ifQ%3D%3D.rzQT__68MJr0TOhqTJQccNi57S4093e_ytNRdMr8lt965KogGEpnFD8N4NV89mf2DeKNM2bNwgYSr-Hj2lmDuQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:12:52+00:00	twilight-user	{%22authToken%22:%22yy20h13hjnnqm93bhvl7edgfccisbx%22%2C%22displayName%22:%22b_camilas13_j%22%2C%22id%22:%22215059262%22%2C%22login%22:%22b_camilas13_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:12:52+00:00	auth-token	yy20h13hjnnqm93bhvl7edgfccisbx

@@ -1,0 +1,14 @@
+#h_hector62g_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	S%2FuNPQghu1VKXXYhcsuYhj4YeuLbxt8vtycNGgdfOSg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:37:59+00:00	unique_id	07592b117cea7f45
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:37:59+00:00	_twitch_session_id	d7dfddddb9448f1e4d81fc9e2ed9b2d9
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:37:59+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:38:12+00:00	persistent	214557498%3A%3Apkw3jzvhm5gk080tgcy54ozu22f85t
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:38:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTc0OTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1ODkzLCJpYXQiOjE1MjM4MjEwOTN9.BGPYpFkXetxezgEA0pAcF1knhuGGoSo_Ip4biNHGRFNxdg3LTap1B_w6-UIGQR_JdoH2GzD9ZSNNiHuBfUdGMw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:38:12+00:00	login	h_hector62g_6
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:38:12+00:00	name	h_hector62g_6
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:38:12+00:00	last_login	2018-04-15T19:38:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:38:12+00:00	api_token	6678b5f685a2f84d95618f1e4982967a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:38:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfaGVjdG9yNjJnXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzczMDkzLCJpYXQiOjE1MjM4MjEwOTMsIm5vbmNlIjoibHpVUkNUMkQ1M3RRMjRpb3BYVXBsQU85djJPdWg0ZWxxclNrZG8xWlF3dz0ifQ%3D%3D.oNaej5gUcNVSW1flyQyYhVw2bR0pvbK2nUXr1Vu9lWEVrMU7FbwGZgbt7Lj4HVKdOsrhtJreonz-A5LIRclK5w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:38:51+00:00	twilight-user	{%22authToken%22:%22rlj283fc1csitocao42st3tapnm5m0%22%2C%22displayName%22:%22h_hector62g_6%22%2C%22id%22:%22214557498%22%2C%22login%22:%22h_hector62g_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:38:51+00:00	auth-token	rlj283fc1csitocao42st3tapnm5m0

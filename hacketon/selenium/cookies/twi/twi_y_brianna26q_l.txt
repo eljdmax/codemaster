@@ -1,0 +1,13 @@
+#y_brianna26q_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	TBdRBmMZnvG8MzS3toxwDNhP7sVeETOE9R5t7sgbc6U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:29:35+00:00	unique_id	5e9bf5204c67839a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:29:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:30:16+00:00	persistent	214555403%3A%3Amhalnj1l1c1j5jtuzkv4rm08w4hlaa
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:30:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTU0MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NDE3LCJpYXQiOjE1MjM4MjA2MTd9.2kcNU5Li2OsKJ2gJoj9j3Y2BeMuTMGzdIoNDAmb4qYlNGDjgv6LBMbIFOn8n2litvnzeV3eYz9aTGbk2UmZLCA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:30:16+00:00	login	y_brianna26q_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:30:16+00:00	name	y_brianna26q_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:30:16+00:00	last_login	2018-04-15T19:30:17Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:30:16+00:00	api_token	648c4d06a0d315ee833735230cf4b075
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:30:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYnJpYW5uYTI2cV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MjYxNywiaWF0IjoxNTIzODIwNjE3LCJub25jZSI6IkVNbDFDellvZVFqVnl1M014eVpjRGhFMGdZNkx6dXZjWTJrUUZZRVhGVm89In0%3D.SQIGa70ZL4Irqn8jHFQPfjsFBBOVXGB_hU1tm146vJntKbf6AnkL5usdrPQs4ahOqcQUmi2t_0Rsrgv28ZJHiw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:30:55+00:00	twilight-user	{%22authToken%22:%220dlu768ge7xz00myu5x1vnyrlth2ag%22%2C%22displayName%22:%22y_brianna26q_l%22%2C%22id%22:%22214555403%22%2C%22login%22:%22y_brianna26q_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:30:55+00:00	auth-token	0dlu768ge7xz00myu5x1vnyrlth2ag

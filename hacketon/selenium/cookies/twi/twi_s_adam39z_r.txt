@@ -1,0 +1,13 @@
+#s_adam39z_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	R%2FTVrrKmyyqoRh2vikmEPzNRyUXQtIoP6FctRXVA0VU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:26:15+00:00	unique_id	1022e63f7690a50b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:26:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:26:37+00:00	persistent	214569457%3A%3Aefi8lr2dwchpptc4h8p2gwp53u69vt
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:26:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njk0NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4Nzk3LCJpYXQiOjE1MjM4MjM5OTd9.X6vwrASoCdlWo25c_F1C62jRoZemLcp-3cKdC_BDt4EQrNWvPYQoe_GHkPkVCMnINJ-fGzroUQm68f47EugILA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:26:37+00:00	login	s_adam39z_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:26:37+00:00	name	s_adam39z_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:26:37+00:00	last_login	2018-04-15T20:26:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:26:37+00:00	api_token	749e9ac69a2bff21b42ecee312d3565a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:26:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYWRhbTM5el9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTk5NywiaWF0IjoxNTIzODIzOTk3LCJub25jZSI6InNHQWR3RXlTblVNNzQxZkFIV3AwNnh4Wk13Vm9XcVlOVFdhMnUwcVl5aTg9In0%3D.IdSUXZgbLUfzokFsgQzQQLBoiwbRQO5BuulfOxe3t36eIpyHYLw2QgM0JoDqoR5YpWvHCrFUsgzwkTQfvSrm0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:27:15+00:00	twilight-user	{%22authToken%22:%22t130mfc9c1a84xzorg8uep8x1n2rek%22%2C%22displayName%22:%22s_adam39z_r%22%2C%22id%22:%22214569457%22%2C%22login%22:%22s_adam39z_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:27:15+00:00	auth-token	t130mfc9c1a84xzorg8uep8x1n2rek

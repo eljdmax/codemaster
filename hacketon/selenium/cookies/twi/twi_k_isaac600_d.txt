@@ -1,0 +1,13 @@
+#k_isaac600_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DyCz45G7zX0S6LTm9pOJZFzjECu%2FS852njoED23hqlA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:38:31+00:00	unique_id	ef86f843a3d28f5a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:38:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:38:55+00:00	persistent	214572349%3A%3Aqf5mh1kesi46quphetcggveix0qkur
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:38:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzIzNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NTM2LCJpYXQiOjE1MjM4MjQ3MzZ9.TMCxXKnroKJjT7E3q4oxLkgl28Yg6Bz3ixdrQ93rkt0OggeWXLG6bCjSjDkNeehnQj2kxLUoH4G2al2IVfP90A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:55+00:00	login	k_isaac600_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:55+00:00	name	k_isaac600_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:38:55+00:00	last_login	2018-04-15T20:38:56Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:38:55+00:00	api_token	903d74f2cce1d1c290157fca40cda670
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:38:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfaXNhYWM2MDBfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzY3MzYsImlhdCI6MTUyMzgyNDczNiwibm9uY2UiOiJwUm9PM3FROC1qaDVQaS0yRTB1LXRHczY0MzJxNEJsdnJsX2UwbDdlVXdvPSJ9.5FMvgIjwAkTmuIcFXlocFpQNcSMY3tzyyzxP_2pg2d8uaYNqlqDEA5_ENOeU-w3bOHOzEA9S4tsJOsDhX7u16Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:39:35+00:00	twilight-user	{%22authToken%22:%22w1mzpwlsmxbdkprxhchmwrpvkdtmfz%22%2C%22displayName%22:%22k_isaac600_d%22%2C%22id%22:%22214572349%22%2C%22login%22:%22k_isaac600_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:39:35+00:00	auth-token	w1mzpwlsmxbdkprxhchmwrpvkdtmfz

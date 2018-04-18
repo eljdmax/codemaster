@@ -1,0 +1,14 @@
+#u_eric79y_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ejxEb4bLL155h%2Foc%2FwlvSKuqaoNJl27ZVr%2F5kUdZ5lg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:51:10+00:00	unique_id	4a01eb9438942828
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:51:10+00:00	_twitch_session_id	6647a842b0ec5f2e173ebcdd1a59b88d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:51:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:51:32+00:00	persistent	214575191%3A%3A0fe0fvfgs5924n23y90l33w9myc18i
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:51:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzUxOTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwMjkzLCJpYXQiOjE1MjM4MjU0OTN9.ccgbtURLeIOhGa_C--GrjXuwJqfp5nkR3ZYWb7B58VfhzsFcJoi_4eBhst9FlztNeJZmSgb9SCpFFDT3XDxy0w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:51:32+00:00	login	u_eric79y_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:51:32+00:00	name	u_eric79y_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:51:32+00:00	last_login	2018-04-15T20:51:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:51:32+00:00	api_token	63281a00a00ed119266b145f6997ab23
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:51:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZXJpYzc5eV9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NzQ5MywiaWF0IjoxNTIzODI1NDkzLCJub25jZSI6ImxqRUV6LW1mRGdxTVJ0cHRUR1pXX0RsSzZDT0pNNVZQeXQwLXlsVnU5bDA9In0%3D.oLa45pToBJm0SVrKS17kjKxgF2K9H56OvfAd6RBKaEUaWPWQdUpM5nJonB3TQYJwajG8Y2AsFvhfcNN_-_Qw-Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:52:12+00:00	twilight-user	{%22authToken%22:%22fg7jl8da8gv47qwnin6v6bpgs69keb%22%2C%22displayName%22:%22u_eric79y_m%22%2C%22id%22:%22214575191%22%2C%22login%22:%22u_eric79y_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:52:12+00:00	auth-token	fg7jl8da8gv47qwnin6v6bpgs69keb

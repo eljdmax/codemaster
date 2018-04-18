@@ -1,0 +1,14 @@
+#x_karina23k_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jWFOjtRQV2CaawbNRZrEnQW6U6Ix2HT5Q3ZIq0tVOvs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:00:11+00:00	unique_id	be87f74ab4508a34
+.twitch.tv	TRUE	/	TRUE	2018-04-17T11:00:11+00:00	_twitch_session_id	12416d2da8a3da8b88715eb40a708aaf
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:00:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:00:25+00:00	persistent	214823230%3A%3Abtbnsb8aurlqz8f9acepxkv2reqt8k
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:00:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjMyMzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0NDI1LCJpYXQiOjE1MjM5MTk2MjV9.B3gh1QvPGc8n7rpw-4_eduZpf4UiojCk-cFxwmkDvykNwuuImL4eNXRxxyr55A6kJFY7TRL3JId2wBpafYD4oA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:00:25+00:00	login	x_karina23k_4
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:00:25+00:00	name	x_karina23k_4
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:00:25+00:00	last_login	2018-04-16T23:00:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:00:25+00:00	api_token	9c0c2873ee61a3fb178a0ff6d507afcb
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:00:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfa2FyaW5hMjNrXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcxNjI1LCJpYXQiOjE1MjM5MTk2MjUsIm5vbmNlIjoiTGpUN3RadDBiZUVham9DVThqV0REMHFEcU03YjVpcTg3N0dBVVRWV1d4Yz0ifQ%3D%3D.YdgFvykeXKY5MCinH4oj6t6zvzwJWz9Bwrm7J81ddzMJzEMNkjPE-0Nzu6T3zs8q2YGlQtts-uTEUuNuLtaJDg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:01:09+00:00	twilight-user	{%22authToken%22:%22fkokwackaa83x90d2unptolw9dbicx%22%2C%22displayName%22:%22x_karina23k_4%22%2C%22id%22:%22214823230%22%2C%22login%22:%22x_karina23k_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:01:09+00:00	auth-token	fkokwackaa83x90d2unptolw9dbicx

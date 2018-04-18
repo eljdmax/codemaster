@@ -1,0 +1,14 @@
+#g_alejandrox3q_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ll%2FS1CBB4kjzZlXOQR8x7KUom02TuDqJJm74czLA4hk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:25:33+00:00	unique_id	64d6b51dbbd440ac
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:25:33+00:00	_twitch_session_id	f280393680ad51bdf541df96fb2099fc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:25:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:25:57+00:00	persistent	215077551%3A%3At0jsm1cw1thssz55h26cqnqmhjmatd
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:25:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzc1NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1MTU4LCJpYXQiOjE1MjQwMDAzNTh9.YtstAAVpqIGTtlmBs-qzk7k3JERoRqp3zagIXSKXFHuRsgv8EtIYXR5CuShcQg71XEOzRL6uesQPyYfO5kN2XA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:25:57+00:00	login	g_alejandrox3q_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:25:57+00:00	name	g_alejandrox3q_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:25:57+00:00	last_login	2018-04-17T21:25:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:25:57+00:00	api_token	f29e280ac965146454d05f7f9a41b04a
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:25:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYWxlamFuZHJveDNxX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUyMzU4LCJpYXQiOjE1MjQwMDAzNTgsIm5vbmNlIjoiUl9ZMktodUlMY2FNOHBzbERrT21xMlJZTDY0ekk1eW5qOXJ4blFxRE9WOD0ifQ%3D%3D.x_8yGjn1w0DUd6t84Vny_LztPGjr1CS1s6JYlUhux9d6_sNqgVPOXhXoWXre66CcwQgb3KXDkcmOAYbEymjJbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:26:45+00:00	twilight-user	{%22authToken%22:%22nqdt977oh1jk90lcohy6y2t9qstbkd%22%2C%22displayName%22:%22g_alejandrox3q_a%22%2C%22id%22:%22215077551%22%2C%22login%22:%22g_alejandrox3q_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:26:45+00:00	auth-token	nqdt977oh1jk90lcohy6y2t9qstbkd

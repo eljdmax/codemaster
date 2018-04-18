@@ -1,0 +1,13 @@
+#r_stephanie15a_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BMoApAPxzbNGfxKzilPhWc%2Bw3q6IkFtTh0KJ%2FmJtyLI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:47:04+00:00	unique_id	c2079d47ef4c4227
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:47:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:47:36+00:00	persistent	215082374%3A%3At0r8grxam3qwohgglksrsd89xc3tvz
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:47:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODIzNzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2NDU2LCJpYXQiOjE1MjQwMDE2NTZ9.iERzdti7QF3nD-pRU0XgyRpjA31gnQlE0_PsTyeJTCparfIQEcNK9n_dJ1gy_164HA4jaD4R2J6HVfCq4JJIpQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:47:36+00:00	login	r_stephanie15a_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:47:36+00:00	name	r_stephanie15a_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:47:36+00:00	last_login	2018-04-17T21:47:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:47:36+00:00	api_token	be18e6c60e62d143765c1066adf55c85
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:47:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc3RlcGhhbmllMTVhXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUzNjU2LCJpYXQiOjE1MjQwMDE2NTYsIm5vbmNlIjoia0V5Q3pTaVZhX0VyaElqTTZjbU5VVVRxdFg0M0VuVEdpeDRtLTNwcVdJQT0ifQ%3D%3D.TJl2P-WNmhv11GUQNZatMwvL3DfKqASl_aUVOlFpGYuLBJ1st-n6j05BBJpL5HaQr2PqZQ6yEqQODhdW-YqsSA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:48:27+00:00	twilight-user	{%22authToken%22:%22oqmfh22fzuv4vpj14neys7c4wu800p%22%2C%22displayName%22:%22r_stephanie15a_2%22%2C%22id%22:%22215082374%22%2C%22login%22:%22r_stephanie15a_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:48:27+00:00	auth-token	oqmfh22fzuv4vpj14neys7c4wu800p

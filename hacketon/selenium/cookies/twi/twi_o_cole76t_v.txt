@@ -1,0 +1,14 @@
+#o_cole76t_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7FAn17vndc%2F4B7PWczjE5D1QWjEN%2F55nP%2BbUbGyLMKw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:39:56+00:00	unique_id	af5c4e241a755e9d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:39:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:40:16+00:00	persistent	214815516%3A%3Atnj5e2iri5cn50gimnknic055p6hd4
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:40:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTU1MTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzMjE3LCJpYXQiOjE1MjM5MTg0MTd9.y1nijuYm1nHeGaRtJbLm5D4EDF7BvDoRE0vuo8UsW4RJG-GGvI5sDgr4JOX2XQ3wHVv6ZqiD5PJKo9b138cGKA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:40:16+00:00	login	o_cole76t_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:40:16+00:00	name	o_cole76t_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:40:16+00:00	last_login	2018-04-16T22:40:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:40:16+00:00	api_token	fc61abac9d58d75559484bdacabc6d6b
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:40:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY29sZTc2dF92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MDQxNywiaWF0IjoxNTIzOTE4NDE3LCJub25jZSI6Ik5MaHBsa2VVWVJnT0pSYUhGelNUSU5hSmNoV0lMQTZNZmJ6a2x3a3FUSTA9In0%3D.AA7Ai0RMMof-ORcYnCRE2bwKFGZedXsHqIdWpszXAtqf4KWQ1C_pXJ-x_E1DnWMCGkh1IdFAyivONR5AoMUEBQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:41:00+00:00	twilight-user	{%22authToken%22:%22fla68qkob37ggtexpoabvzsjt69e51%22%2C%22displayName%22:%22o_cole76t_v%22%2C%22id%22:%22214815516%22%2C%22login%22:%22o_cole76t_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:41:00+00:00	auth-token	fla68qkob37ggtexpoabvzsjt69e51
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:41:03+00:00	twilight_onboarding	true

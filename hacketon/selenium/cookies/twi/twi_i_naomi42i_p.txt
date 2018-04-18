@@ -1,0 +1,13 @@
+#i_naomi42i_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	31gxMy26p4s3scLCza5XUCrLnZ5nQXXnbh2RDH%2F4cGE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:39:36+00:00	unique_id	fadc7c6464e7b060
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:39:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:39:55+00:00	persistent	215080620%3A%3Amufqelbb9hntpat4j79ie3hk378con
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:39:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODA2MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1OTk1LCJpYXQiOjE1MjQwMDExOTV9.rkkJybvk7QAsBmXyNrA_qQv26iNM-M62-oqdwPcY9c0taGHf2IPtNE4OH_x2rtTQfqhPS5mwr7J0cMpf7MJ0eg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:39:55+00:00	login	i_naomi42i_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:39:55+00:00	name	i_naomi42i_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:39:55+00:00	last_login	2018-04-17T21:39:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:39:55+00:00	api_token	53e5de670f1e6247e17a09ecc35d7c45
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:39:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbmFvbWk0MmlfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTMxOTUsImlhdCI6MTUyNDAwMTE5NSwibm9uY2UiOiJWYkJmY0tzUkMzTHcwTjBqODh6YkZSUVBZc1hCVnhqUmlleWgzcHJQU3NzPSJ9.yIlITLrTFYX-RyLiu2_6wv_Anfv4dqQ-YFy_3jKN0nylnVcc3KGxNX4MTVxoNrmCeFN8Zyt0k3dSNs01bwcC4g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:40:43+00:00	twilight-user	{%22authToken%22:%22nipp32ohrja3u6h1o1knsfy3sshkgf%22%2C%22displayName%22:%22i_naomi42i_p%22%2C%22id%22:%22215080620%22%2C%22login%22:%22i_naomi42i_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:40:43+00:00	auth-token	nipp32ohrja3u6h1o1knsfy3sshkgf

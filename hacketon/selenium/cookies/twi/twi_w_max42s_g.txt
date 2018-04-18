@@ -1,0 +1,13 @@
+#w_max42s_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CP9TsNL055oeZYAQSYCONb88Nge2nZ09UV6hjPbk3ik%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:55:42+00:00	unique_id	8bc8468a430978df
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:55:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:56:08+00:00	persistent	214588455%3A%3Ap784z1dx90kpej7fmmgxohv2gzmkbl
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:56:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODg0NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0MTY5LCJpYXQiOjE1MjM4MjkzNjl9.rC6ha14UbdhGnclV27-ABp6hG66Z0U8fMZ8y6UHlC6T9M9-Ch3Z99mndZf_XE0wxysszpRqSlJbZIOPaf4matA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:56:08+00:00	login	w_max42s_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:56:08+00:00	name	w_max42s_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:56:08+00:00	last_login	2018-04-15T21:56:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:56:08+00:00	api_token	f823172216efee3d24f99def76f8596b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:56:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbWF4NDJzX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxMzY5LCJpYXQiOjE1MjM4MjkzNjksIm5vbmNlIjoiZkJFYXFaenV2SURjaWM0a3I4UlFfSkwtd2lJaEhRSDktOWRPM1hwbUR5ST0ifQ%3D%3D.KB4Ev7UcJ_CiVOmbW7sPBOWsra-8rPvWYr1-T_PoIjCTfNPzGnSwisd9Sc5BYmNAU3OnqnYOJ-3Gv0NmaRf1Aw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:56:47+00:00	twilight-user	{%22authToken%22:%22j0hsoerobo7rt681soa6onfiim4dlf%22%2C%22displayName%22:%22w_max42s_g%22%2C%22id%22:%22214588455%22%2C%22login%22:%22w_max42s_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:56:47+00:00	auth-token	j0hsoerobo7rt681soa6onfiim4dlf

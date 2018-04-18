@@ -1,0 +1,14 @@
+#t_antonioj29_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lQ0X%2BaG3Vp2dvHYKoqFLurKP5gbLqyUfYiFIu8iOO4w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:29:41+00:00	unique_id	fe636ce98b7ab6ea
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:29:41+00:00	_twitch_session_id	55890d01ef0454a2eaf2e768727eccaa
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:29:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:30:00+00:00	persistent	214570253%3A%3Abi903ljl77xwed2n9nsrjabgzwel09
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:30:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzAyNTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5MDAwLCJpYXQiOjE1MjM4MjQyMDB9.8D7_SX20hTO81EGeRNs8bbU9hXpzvpIJZBtSx3CZgWUiZdAEI7AJu_PcVl3ZARdoKdSMX9XbKJQM9YTmPGO14Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:00+00:00	login	t_antonioj29_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:00+00:00	name	t_antonioj29_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:00+00:00	last_login	2018-04-15T20:30:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:30:00+00:00	api_token	4dbce613e4155c46901fba014d1cc65a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:30:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYW50b25pb2oyOV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjIwMCwiaWF0IjoxNTIzODI0MjAwLCJub25jZSI6Im56MjNleWtOalpXc3ZRWnlOTzFnVUpUU2ZRZjBkX0gtTDlMUnNwWVJOem89In0%3D.LrFm3P1c1xXcvI7Nsc8j9L_2yxnwQcENiOX7HCgwd2JFSkcdMj3aoSqTZGFGmNRSdKNIYvyVkyZzVIIYXMcOXA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:30:40+00:00	twilight-user	{%22authToken%22:%22vxo55738djdu1e8ozfbllgwpxxirjo%22%2C%22displayName%22:%22t_antonioj29_l%22%2C%22id%22:%22214570253%22%2C%22login%22:%22t_antonioj29_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:30:40+00:00	auth-token	vxo55738djdu1e8ozfbllgwpxxirjo

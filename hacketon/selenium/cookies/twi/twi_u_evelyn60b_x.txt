@@ -1,0 +1,13 @@
+#u_evelyn60b_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	o0LGRv3ZScg%2FL6%2FRRTy2nvAL2hBKLosIevtAxrTeeb0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:51:43+00:00	unique_id	c869c038e6e5171e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:51:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:51:59+00:00	persistent	214561080%3A%3Aqsw0ivgwd9zdhy7d06iicendzron0u
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:51:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjEwODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2NzIwLCJpYXQiOjE1MjM4MjE5MjB9.Zf7B3w5drjzPzjsZFjqxrS7WrEZ5SIQOgTV32Jktj12dkpNSejMlfz8tQh0wHBdqcBAqOrxq3YdrT3szZotDHA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:51:59+00:00	login	u_evelyn60b_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:51:59+00:00	name	u_evelyn60b_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:51:59+00:00	last_login	2018-04-15T19:52:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:51:59+00:00	api_token	942b4109f9ba197c798b8f185be5e0a9
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:51:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZXZlbHluNjBiX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzczOTIwLCJpYXQiOjE1MjM4MjE5MjAsIm5vbmNlIjoiZ240YW9JckpadHZLV0pmRzN5ak9aa29HcWM1bExobm45b2FmNEtEbm12dz0ifQ%3D%3D.2L3EuGKqGiMAggmQIrq9104pAFpdtknkyX4Ah49uCYqkdpdvKKArx2tFBZ56IAEUtHYiCQ54u-U3JyZa_rzTCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:52:39+00:00	twilight-user	{%22authToken%22:%221lyym99ldfx3xmq3ii7u4dnsjp081r%22%2C%22displayName%22:%22u_evelyn60b_x%22%2C%22id%22:%22214561080%22%2C%22login%22:%22u_evelyn60b_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:52:39+00:00	auth-token	1lyym99ldfx3xmq3ii7u4dnsjp081r

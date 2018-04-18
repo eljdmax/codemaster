@@ -1,0 +1,13 @@
+#n_angelr3o_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	c0QL4jm53tiYTV9IDznoGgFI7ayFrItiLl3%2FH5wxGFk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:41:07+00:00	unique_id	17d27c65cdc0e167
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:41:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:41:34+00:00	persistent	214558404%3A%3Aoky2xgzk5ei1jh2ltglyqwmhstlxlf
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:41:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTg0MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MDk1LCJpYXQiOjE1MjM4MjEyOTV9.0ObOngPqeqFm-nk67CTqi69qpO13bFUrikQbCjmXk4YOWlFvnXguALFEkLtzxlPH_5oZs4116nps5OWebli4Og==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:41:34+00:00	login	n_angelr3o_i
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:41:34+00:00	name	n_angelr3o_i
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:41:34+00:00	last_login	2018-04-15T19:41:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:41:34+00:00	api_token	cd4fc5b8724b6e9f2ae6aa488247dbda
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:41:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYW5nZWxyM29faSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzMyOTUsImlhdCI6MTUyMzgyMTI5NSwibm9uY2UiOiJTX3NNWHpxQWFjdmpIeExJU0pMNllkMFF5LW83c1dxdHVqdWk2ZmxVSUlZPSJ9.E0iBkju5g4d7SXb1SCVxmt8wv82fvOT9Rw26v4caJ1DZvpTWBxBexbtlhjb5yBGJnT2j-3Dqv3yq1LLxizoEuQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:42:13+00:00	twilight-user	{%22authToken%22:%22n46ijgk3p6mbjtihphvwlorsv06308%22%2C%22displayName%22:%22n_angelr3o_i%22%2C%22id%22:%22214558404%22%2C%22login%22:%22n_angelr3o_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:42:13+00:00	auth-token	n46ijgk3p6mbjtihphvwlorsv06308

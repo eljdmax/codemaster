@@ -1,0 +1,13 @@
+#t_lucas69u_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vZ%2Biw0UgiohwnMYE1oao7eR8LSuQXGizGGE5uXp50dM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:19:05+00:00	unique_id	d68de867bfd8f2e7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:19:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:19:28+00:00	persistent	214567794%3A%3A8hpyoc6o5oaxj37ezq76z59n5emnav
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:19:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njc3OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4MzY4LCJpYXQiOjE1MjM4MjM1Njh9.P1sYTgOU7N_IOSyhcBl_5o4heMeyjjbY9yCUROBpub4ZXwc0osdw162L0w7u1Bc_e39DAC83-fwNBCAcNNB0TA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:19:28+00:00	login	t_lucas69u_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:19:28+00:00	name	t_lucas69u_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:19:28+00:00	last_login	2018-04-15T20:19:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:19:28+00:00	api_token	d976a542638d321a2196b0329fdad2c6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:19:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbHVjYXM2OXVfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzU1NjgsImlhdCI6MTUyMzgyMzU2OCwibm9uY2UiOiJkUzJyRlpYVTZISnJLaUdWZGsxUXNBd2ZxVm1paFFmWFJTeUFpSU43bHNRPSJ9.hSo_eY6zAnO2myRxSzj0hbZnEJp7AlArXK4TzvrStGtRkOrZBmkahSD0ueoxlDbNeTa4Q2qozsAjH22FcsxmAg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:20:06+00:00	twilight-user	{%22authToken%22:%222fbusdxrw48j8wnmpelpvypnvtw8sp%22%2C%22displayName%22:%22t_lucas69u_m%22%2C%22id%22:%22214567794%22%2C%22login%22:%22t_lucas69u_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:20:06+00:00	auth-token	2fbusdxrw48j8wnmpelpvypnvtw8sp

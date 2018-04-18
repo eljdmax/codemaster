@@ -1,0 +1,13 @@
+#c_gianna08r_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3PFHOwS6o26DXn%2Bf%2FsuvbwFxTi6FrEoiS6axbs2Qn0w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:37:15+00:00	unique_id	250fb84721c85b6d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:37:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:37:35+00:00	persistent	214584849%3A%3A08oatrkrx0ga36tiy8a1bydbwo4u40
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:37:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODQ4NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMDU2LCJpYXQiOjE1MjM4MjgyNTZ9.fQJcvK1j6PPdddDqwLXfqw_syPqmuz92rCrJYpeJIwocin6onbNYBCvV2jG2Ta1Z8Oe9ABm5iY2DqhOJTmYu8Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:37:35+00:00	login	c_gianna08r_z
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:37:35+00:00	name	c_gianna08r_z
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:37:35+00:00	last_login	2018-04-15T21:37:36Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:37:35+00:00	api_token	60a1c2bb4244ac1ac795366210fbb927
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:37:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfZ2lhbm5hMDhyX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgwMjU2LCJpYXQiOjE1MjM4MjgyNTYsIm5vbmNlIjoiSFcxVWxGVmcyYUlNN2wwcnZsNGVRbTBVYThrN05lZ2pUZUNsLXpBOTJxUT0ifQ%3D%3D.3ViFLhgUnTkJe7Gz4Xx_LwdxyR0kMgDCsUsCeWD-xxKZdg2oUJnpicxdmP6F-dCknpHbamvYjXjY8FfQyupF7g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:38:15+00:00	twilight-user	{%22authToken%22:%228lwzix99w7zaspffz1l8w6qhyeti91%22%2C%22displayName%22:%22c_gianna08r_z%22%2C%22id%22:%22214584849%22%2C%22login%22:%22c_gianna08r_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:38:15+00:00	auth-token	8lwzix99w7zaspffz1l8w6qhyeti91

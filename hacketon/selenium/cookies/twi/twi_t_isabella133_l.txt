@@ -1,0 +1,14 @@
+#t_isabella133_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	U%2FUYbhVC4MnYWlOjYKZdRjYOc9CqnE0bo6R1mbghpIc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:53:35+00:00	unique_id	2b0f7951dd332fa2
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:53:35+00:00	_twitch_session_id	4fbe494baa94fde27144ff1b34fb9fc0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:53:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:53:58+00:00	persistent	214588039%3A%3Aoi02g3xfuydocik2eablevegbm4esl
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:53:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODgwMzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0MDM4LCJpYXQiOjE1MjM4MjkyMzh9.CrzUi3kHZLVLLEQJOD5GHd8cUlywJmlcM9fLqXS9fP3vMMUKpzd52YQEwkrMZPj6i-FSZTH4RfbTunDU4Vt5aQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:53:58+00:00	login	t_isabella133_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:53:58+00:00	name	t_isabella133_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:53:58+00:00	last_login	2018-04-15T21:53:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:53:58+00:00	api_token	c2f37ad49b755555bdc024dd20980146
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:53:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfaXNhYmVsbGExMzNfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODEyMzgsImlhdCI6MTUyMzgyOTIzOCwibm9uY2UiOiJOMFJrSm9PZ0hDYmdPZmktMm5HZnYteU91b0JtaFZXMHNraUxNMEhXTWFjPSJ9.po6pg3wbbCzYQlfwpIEIvnMZm0bikf3Lpbj43nfYtupMd4yBhyFe1N5GcDF24B6ZHvr4OaFA5HzRFG01CowQ2A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:54:38+00:00	twilight-user	{%22authToken%22:%22gnjql21vpswoqyk7wuc6ckuq5fqtdw%22%2C%22displayName%22:%22t_isabella133_l%22%2C%22id%22:%22214588039%22%2C%22login%22:%22t_isabella133_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:54:38+00:00	auth-token	gnjql21vpswoqyk7wuc6ckuq5fqtdw

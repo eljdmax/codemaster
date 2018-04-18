@@ -1,0 +1,14 @@
+#o_angelinan7s_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XHuvA5L00cnHn%2FhJPOdIwRZp%2FkqGdB1c8tn%2FyZOC9hc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:00:51+00:00	unique_id	270684bb8a193d22
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:00:51+00:00	_twitch_session_id	51da3479acc2c99785ead4617faebccd
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:00:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:01:11+00:00	persistent	214800405%3A%3Ahjng3o6qg7uyepuw3bt8fkjsgcwjpb
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:01:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDA0MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwODcyLCJpYXQiOjE1MjM5MTYwNzJ9.CiSpOLtMOn55r3nL9akgiYDeEC1krd2CQP0sa2uUApBL1gTfM9kRQpNMigbsVWblcgpi0hOBSastaE_kP8qt-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:01:11+00:00	login	o_angelinan7s_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:01:11+00:00	name	o_angelinan7s_5
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:01:11+00:00	last_login	2018-04-16T22:01:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:01:11+00:00	api_token	0c2ba2268bff9d0c34eef200d04b79d5
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:01:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYW5nZWxpbmFuN3NfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjgwNzIsImlhdCI6MTUyMzkxNjA3Miwibm9uY2UiOiJYS2F3Ry1TOFpzU0dvaG9ybjJ2Qm1nSVB6VDZHb3I1U1ZnS3JneFREZTBBPSJ9.gXfeK6LMzsRx6ea8WxQvWMUM2f3U8TMLGasZveLeoSxuc0poFZSVAjRgjVUXvZOUkpNsUUQaKfI7IEtWZFjwAQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:01:59+00:00	twilight-user	{%22authToken%22:%22zpahcbsm3x50q3cdrgoww6xgdvanfu%22%2C%22displayName%22:%22o_angelinan7s_5%22%2C%22id%22:%22214800405%22%2C%22login%22:%22o_angelinan7s_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:01:59+00:00	auth-token	zpahcbsm3x50q3cdrgoww6xgdvanfu

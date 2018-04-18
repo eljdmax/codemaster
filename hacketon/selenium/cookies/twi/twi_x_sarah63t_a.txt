@@ -1,0 +1,14 @@
+#x_sarah63t_a
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:57:42+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-16T21:57:00+00:00	unique_id	e79e828708d0037c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:57:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i9U2U%2FyJvw68f4DR9er%2BTdjCh6LKROxekYff%2Be39mjo%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:00:54+00:00	persistent	214800340%3A%3Avsyfm8ihpa045wbfs36o92cwdmvjph
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:00:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDAzNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwODU0LCJpYXQiOjE1MjM5MTYwNTR9.4P0z0IfFrECeZBvb9nPU7mS_E18WqILnf1sFf482Dd-jgQ3m9FFttofihc-FuvXipu8uH3z7RRfSG14QbNeMcg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:00:54+00:00	login	x_sarah63t_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:00:54+00:00	name	x_sarah63t_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:00:54+00:00	last_login	2018-04-16T22:00:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:00:54+00:00	api_token	d74a1fb50a32ab74aabe707c2f141151
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:00:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfc2FyYWg2M3RfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjgwNTQsImlhdCI6MTUyMzkxNjA1NCwibm9uY2UiOiJtY29jV1VPblUtMGJvZmpURFczZHVySXdFRFVuMjhzMEpIcE1iYmRLYThJPSJ9.-7cNN65Oj6Fzu3Sjl6suaTpISUcWrxMoRAQeurrrMw53tBpVjzRtfzky-oku16WpS_C_PTw0FMUJ2NxOiL2bZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:01:40+00:00	twilight-user	{%22authToken%22:%228tue0o8njxcg8t42paiqc7hom7fkjf%22%2C%22displayName%22:%22x_sarah63t_a%22%2C%22id%22:%22214800340%22%2C%22login%22:%22x_sarah63t_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:01:40+00:00	auth-token	8tue0o8njxcg8t42paiqc7hom7fkjf

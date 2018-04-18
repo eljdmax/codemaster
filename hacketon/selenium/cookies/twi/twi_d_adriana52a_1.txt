@@ -1,0 +1,14 @@
+#d_adriana52a_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mz9DqRj4SVAwP%2BfLQrgw1zEfPIQHp2oKuIKxeqEqFO8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:46:18+00:00	unique_id	bee538d5a960581a
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:46:18+00:00	_twitch_session_id	3cfb435a91470bc4814447e2c73cd76e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:46:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:46:46+00:00	persistent	214818057%3A%3A7l791qruk9s04pjqipajtz8pkmopeq
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:46:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTgwNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzNjA2LCJpYXQiOjE1MjM5MTg4MDZ9.TxxNlvzLYjxK2C3R5sK81IibKLSYGWcEu8Lo8WOLgym7P4wicydbd4sjQ3mAZ0wyzEZ9zB1yEeXViVEf_zCysA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:46:46+00:00	login	d_adriana52a_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:46:46+00:00	name	d_adriana52a_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:46:46+00:00	last_login	2018-04-16T22:46:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:46:46+00:00	api_token	beea32969cadbb6fd3cbc42212d34806
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:46:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYWRyaWFuYTUyYV8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MDgwNiwiaWF0IjoxNTIzOTE4ODA2LCJub25jZSI6IllvbERmbG0ycV9vNFk2bjJwRzZRZHdLbWdzLTNYMWJ2dHlVdkp4RWRXeHc9In0%3D.4nQcivPU7VBeXcBEz0KvaEdmSDU_ZNtKYw84rsymZLxA19s-yoNTqxChkHaPstBOPKveGvlJsBacSNlXtHljTg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:47:31+00:00	twilight-user	{%22authToken%22:%22qjb1hv6shhfqcfa1sqevxfrv3m1adt%22%2C%22displayName%22:%22d_adriana52a_1%22%2C%22id%22:%22214818057%22%2C%22login%22:%22d_adriana52a_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:47:31+00:00	auth-token	qjb1hv6shhfqcfa1sqevxfrv3m1adt

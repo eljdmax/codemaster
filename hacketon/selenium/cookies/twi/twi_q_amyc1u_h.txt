@@ -1,0 +1,13 @@
+#q_amyc1u_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	m1KRGGLXHSImE4E9AlncS7Kgme9ndHR8366Hewuh6PA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:01:50+00:00	unique_id	03542bb96c156624
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:01:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:02:25+00:00	persistent	215071862%3A%3Abzap9upna7vmdcf3boszj3jhpm3hcl
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:02:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzE4NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzNzQ2LCJpYXQiOjE1MjM5OTg5NDZ9.W-rQMXFDSt3Jg3VwJfHY4VntO9enhG8j-GErOTApTq5UW8Ep5pVx646wKGWXwzhgGFTK0UtATXr6GRFuIct57A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:02:25+00:00	login	q_amyc1u_h
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:02:25+00:00	name	q_amyc1u_h
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:02:25+00:00	last_login	2018-04-17T21:02:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:02:25+00:00	api_token	1a1c9259a80d90a35681cca00e98b880
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:02:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYW15YzF1X2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUwOTQ2LCJpYXQiOjE1MjM5OTg5NDYsIm5vbmNlIjoiQVJtbTA0NC16NDBTVzR5aEJZU2dTMXZZdlE0WmdYYXpaY0YyZktIWDJSND0ifQ%3D%3D.vAfiSUXYx6emGX7aUXOCj7rsR11W_OLb6Hgg7jv5JQ9NIA6_A5kCDlYoj4wkJdk5EM6mIrdN69fwWc2oE09qmA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:03:16+00:00	twilight-user	{%22authToken%22:%226ll2t3wqa1tlg96ybzl8kjxts3fha8%22%2C%22displayName%22:%22q_amyc1u_h%22%2C%22id%22:%22215071862%22%2C%22login%22:%22q_amyc1u_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:03:16+00:00	auth-token	6ll2t3wqa1tlg96ybzl8kjxts3fha8

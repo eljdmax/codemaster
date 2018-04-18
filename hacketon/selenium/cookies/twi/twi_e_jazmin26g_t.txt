@@ -1,0 +1,14 @@
+#e_jazmin26g_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	v5yex%2Fac9RjNV%2FP21AkgM1wNkr60BHVLHw%2BTcQnjc4o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:57:39+00:00	unique_id	9fa00029cf20dc51
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:57:39+00:00	_twitch_session_id	4ba074e6f728a6317406008950ffc4fe
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:57:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:58:00+00:00	persistent	214588821%3A%3Agt2jii5p66znwmtvvokmi9xxxgtepj
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:58:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODg4MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0MjgwLCJpYXQiOjE1MjM4Mjk0ODB9.87l_dOMM8aVC1FTaMZ7RQdci-_5o35n5fZ9AmCb9OAVjsqyYOnlpRblj0YZdHgDQPaAGp7zPq3zl1faA_KO0hA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:58:00+00:00	login	e_jazmin26g_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:58:00+00:00	name	e_jazmin26g_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:58:00+00:00	last_login	2018-04-15T21:58:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:58:00+00:00	api_token	3d197e1eb459480e27e11d5a9a34b806
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:58:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfamF6bWluMjZnX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxNDgwLCJpYXQiOjE1MjM4Mjk0ODAsIm5vbmNlIjoiZUNheEUxVWp6X3BBVHB6SkdHaHpaTmxPbmtPWUtTSDcya21IaXlycS1PYz0ifQ%3D%3D.lFsloyE7yDJVeJu-n5-E5QjTwdY-kd0vA83Vzz4bnHcvqtukuOBoVxrdjA4KobdajFYJnkATdS4-7dnTFoLzPw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:58:40+00:00	twilight-user	{%22authToken%22:%225cp7afe6osv5nc8p11xxawq0th5toe%22%2C%22displayName%22:%22e_jazmin26g_t%22%2C%22id%22:%22214588821%22%2C%22login%22:%22e_jazmin26g_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:58:40+00:00	auth-token	5cp7afe6osv5nc8p11xxawq0th5toe

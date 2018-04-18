@@ -1,0 +1,13 @@
+#m_erica34m_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CShxwJI60IwkRrsu%2F0rEmmReL8svxtaD3QvsMu13Jrc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:47:21+00:00	unique_id	37658af2693238b8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:47:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:47:44+00:00	persistent	214559987%3A%3A8y2txjxnncab4cov25ylp4xu5n1949
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:47:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTk5ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2NDY0LCJpYXQiOjE1MjM4MjE2NjR9.8QXJBJ15UCc31CDsgFKem11yQUQxEOKOQrCoyjl1mMJeHiHSWDi68ZoYN90gyd1TwFBhl_gaA2pxs-DduiQU5g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:47:44+00:00	login	m_erica34m_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:47:44+00:00	name	m_erica34m_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:47:44+00:00	last_login	2018-04-15T19:47:44Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:47:44+00:00	api_token	e841dd59a367bbd4f3a1399217bce296
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:47:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZXJpY2EzNG1fZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzM2NjQsImlhdCI6MTUyMzgyMTY2NCwibm9uY2UiOiJ2OFY5MHljSENFbW42U3loQ3k4eTVRZkxTTE5mVkJzbVJsZ04yTFQxdXNnPSJ9.un671t5d_oaGt-nUUjJBmiax_UVBfJ-x9pAC2Jd-zBFayCYXtwuRHyrh7uEZtcb-gnJocuumHO6YMQcL_bapKA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:48:22+00:00	twilight-user	{%22authToken%22:%22ph6xwu5oiipqtce86tuo1fdxsny2ht%22%2C%22displayName%22:%22m_erica34m_e%22%2C%22id%22:%22214559987%22%2C%22login%22:%22m_erica34m_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:48:22+00:00	auth-token	ph6xwu5oiipqtce86tuo1fdxsny2ht

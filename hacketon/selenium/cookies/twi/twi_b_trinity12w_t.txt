@@ -1,0 +1,14 @@
+#b_trinity12w_t
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:38:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kkKkXNNfbu7431IwXYjVGshk2FUEUQ8SA6QkFzLSod8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:38:15+00:00	unique_id	5a58f2417f6927e9
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:39:43+00:00	_twitch_session_id	7e654424abb106089fd95a0948853423
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:40:03+00:00	persistent	214783953%3A%3Aclccc5qop60mgu5kjtubyz4jfcosxp
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:40:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODM5NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MDA0LCJpYXQiOjE1MjM5MTEyMDR9.YE_dbL2QmJTxk5DnUfSIO9xAXIM5Y5hS3VUygOxjF2R4DdYtmclMT-Vt6YuRkoVejx1uLvH0NjijEQNr8mdfUQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:40:03+00:00	login	b_trinity12w_t
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:40:03+00:00	name	b_trinity12w_t
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:40:03+00:00	last_login	2018-04-16T20:40:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:40:03+00:00	api_token	76e8fb9bb9b40301d5cab4d05597620a
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:40:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfdHJpbml0eTEyd190IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2MzIwNCwiaWF0IjoxNTIzOTExMjA0LCJub25jZSI6IldESlJVTHdFMGo5SnEyWV9KandnYUU3MXRwbFprZHNyR0xlRm1sRzZvaVU9In0%3D.QNArDUpcmwFJHWI4G_jfidYtcIk35OnUbXAn--hPjh2W4tOACfCkyY_Ptn65mgGIvab_3StQQp5-rXSnbpGG2A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:40:49+00:00	twilight-user	{%22authToken%22:%22uwo3yenbl1pyxrxdh9z0o084xvk6a8%22%2C%22displayName%22:%22b_trinity12w_t%22%2C%22id%22:%22214783953%22%2C%22login%22:%22b_trinity12w_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:40:49+00:00	auth-token	uwo3yenbl1pyxrxdh9z0o084xvk6a8

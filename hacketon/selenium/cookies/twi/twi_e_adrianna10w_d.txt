@@ -1,0 +1,13 @@
+#e_adrianna10w_d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:09:53+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	m7gIMluwAbT7DSwiFE3bFhEQB3MIuJwm6S9rCu4zlGw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:13:24+00:00	unique_id	3be83c5323f0d6d3
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:13:43+00:00	persistent	214791196%3A%3A46utrrvwoq1m0c615x46j8vgdhhabq
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:13:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTExOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4MDI0LCJpYXQiOjE1MjM5MTMyMjR9.Zfsa-Zz7PGh8XhylLAjsHSVN4olefzFsVfH8Orlh6fakSMGr8CBq1uQj2Z0mE1lL3c8qdeMAn-g2hizTh6BA8A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:43+00:00	login	e_adrianna10w_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:43+00:00	name	e_adrianna10w_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:43+00:00	last_login	2018-04-16T21:13:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:13:43+00:00	api_token	da963aab61e7ebf9265f0f6e0847605f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:13:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYWRyaWFubmExMHdfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjUyMjQsImlhdCI6MTUyMzkxMzIyNCwibm9uY2UiOiJmcW5ZTzlfZExma3l4eFFnTTNXWTN3dVhHdWEtcUN4bHlBTnJPcy1NSXZnPSJ9.JhEfYRJSNoI6thKb4NVLTFAnvxZspAXfgeSKSo4_gQcp0z4eJAXruA82LF8Ah5QWFbmGvi7Sf1KlG7xd_PQtrA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:14:27+00:00	twilight-user	{%22authToken%22:%22lf936efz5s6sshxfn00lb8gtnmzchc%22%2C%22displayName%22:%22e_adrianna10w_d%22%2C%22id%22:%22214791196%22%2C%22login%22:%22e_adrianna10w_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:14:27+00:00	auth-token	lf936efz5s6sshxfn00lb8gtnmzchc

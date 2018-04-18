@@ -1,0 +1,13 @@
+#n_maya71w_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Tn6ilmGgICH2oPfjIf%2BRQwoVvGQ6fM0%2BcxzybgbQ4UE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:48:29+00:00	unique_id	0af6f7de6520a390
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:48:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:48:52+00:00	persistent	215068566%3A%3Afhsg3855eue8u6xgyi8zssva7oqh5n
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:48:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjg1NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAyOTMzLCJpYXQiOjE1MjM5OTgxMzN9.TLrQEEWYOYob-9dU3Os0hAlhsb6VRkvVf1ABpU-b4hi2prxzrI62NN2a3_GM8p6-8rmgRu1ckyeeqsEv_prPXA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:48:52+00:00	login	n_maya71w_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:48:52+00:00	name	n_maya71w_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:48:52+00:00	last_login	2018-04-17T20:48:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:48:52+00:00	api_token	0a07ae4cf9bb0edd05ea4171b777816c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:48:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbWF5YTcxd19hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MDEzMywiaWF0IjoxNTIzOTk4MTMzLCJub25jZSI6InphcXZLTXZCSjM4ME9FWi1OajlEd2ppV191cmtzZW1McWhCNEViTmdtLUU9In0%3D.TqAclLUVjp3aJBEHngYF1UkvGbCqhzYZlPNQu-LWechDpbHeFKg2rwY6c9t13ozRWRbgglypoD2L1sV5v9P5Qw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:49:41+00:00	twilight-user	{%22authToken%22:%22h8p5am82ntnyj3n13odqnou64agfku%22%2C%22displayName%22:%22n_maya71w_a%22%2C%22id%22:%22215068566%22%2C%22login%22:%22n_maya71w_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:49:41+00:00	auth-token	h8p5am82ntnyj3n13odqnou64agfku

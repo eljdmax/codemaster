@@ -1,0 +1,14 @@
+#l_rachel549_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7O8I5auvI4mQX4Q%2Bx8c2pYkn%2B0kPEW0OEzOgcjqbC70%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:57:51+00:00	unique_id	7add64eb8ebd6723
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:57:52+00:00	_twitch_session_id	619e51a0293c7fbdcdfc7166aab9c664
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:57:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:58:15+00:00	persistent	214588870%3A%3Ak3rmvswab1be011i0bc7g35w8mbm2w
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:58:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODg4NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0Mjk1LCJpYXQiOjE1MjM4Mjk0OTV9.-KthnPPFZDh3Dl_Boy3HaP35JDk7J6JSRxN-vn96FXe5zTeTWMJgwo4b79QoMCTESN_yJryIybfAa9dUmxQykA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:58:15+00:00	login	l_rachel549_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:58:15+00:00	name	l_rachel549_o
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:58:15+00:00	last_login	2018-04-15T21:58:15Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:58:15+00:00	api_token	96452ce3d3e5a643e656a84edfaf8504
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:58:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfcmFjaGVsNTQ5X28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxNDk1LCJpYXQiOjE1MjM4Mjk0OTUsIm5vbmNlIjoiZGktcjAtcHgxYmtWcmk0czFfX3JVSHVpMmg1NDJBaU1SZjdHbWI0SmpsND0ifQ%3D%3D.vIjnvN9bKfxesRNQXcTlcK6GV9Iq89MFu6qDIep8eHyU4QyolGeVXf3RKLkBSnwRw1FEbfKhEVTUVlmBCOkzqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:58:55+00:00	twilight-user	{%22authToken%22:%227map78jfi4dncaprgdh4fh0t362558%22%2C%22displayName%22:%22l_rachel549_o%22%2C%22id%22:%22214588870%22%2C%22login%22:%22l_rachel549_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:58:55+00:00	auth-token	7map78jfi4dncaprgdh4fh0t362558

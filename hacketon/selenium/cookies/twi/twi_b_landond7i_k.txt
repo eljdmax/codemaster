@@ -1,0 +1,14 @@
+#b_landond7i_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QxaMFYXUZzCgZXu%2BHoHD%2F0TojbEH%2F0IZSZDSUNWsYQ8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:31:25+00:00	unique_id	d2b297fd23893358
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:31:25+00:00	_twitch_session_id	63f59d5e27e6bf6349133347a7968ba9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:31:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:31:48+00:00	persistent	214811712%3A%3Actcmfpm8khbcli5snlnd2ezbb5zm4y
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:31:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTE3MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyNzA4LCJpYXQiOjE1MjM5MTc5MDh9.r2d_G_aIhPRPVHDmry3iQd8M8lNBnG98m5yhrWEsFOzJCPOTDow3gwh_dmrSt0TxUjk629SPShGKn6eNt3DLIQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:31:48+00:00	login	b_landond7i_k
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:31:48+00:00	name	b_landond7i_k
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:31:48+00:00	last_login	2018-04-16T22:31:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:31:48+00:00	api_token	99c4b0d041def133547be5fa88502cd2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:31:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbGFuZG9uZDdpX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY5OTA4LCJpYXQiOjE1MjM5MTc5MDgsIm5vbmNlIjoiUTlmb1lNVFh1NTJqX3M5MGszQ2JXTDU5aDBsWEdENXdmTVFyQmpPX1A0WT0ifQ%3D%3D.7gUNvopbSdid95Jtli2y0sIlqIuTIIrXnA_pXtaKMZtYyyYE4llNWVqqfpLVaBzOj06K8QkOuEgF8Z0QHVTyOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:32:32+00:00	twilight-user	{%22authToken%22:%22d4l1879kzffz5jwqirkf6ixp8z91py%22%2C%22displayName%22:%22b_landond7i_k%22%2C%22id%22:%22214811712%22%2C%22login%22:%22b_landond7i_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:32:32+00:00	auth-token	d4l1879kzffz5jwqirkf6ixp8z91py

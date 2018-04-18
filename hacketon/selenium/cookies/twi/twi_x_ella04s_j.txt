@@ -1,0 +1,14 @@
+#x_ella04s_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	W7%2FiW%2BzB2OWmjscOa%2FSlw9az1zOrYc2pNRz421XGFWA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:29:03+00:00	unique_id	caa59fecc1f8ff9d
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:29:03+00:00	_twitch_session_id	c67cedc64ced4ff0e5066004d9a31917
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:29:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:29:32+00:00	persistent	215078331%3A%3Auaflc5bas0hz5jlxogvg7tu0ep8cgt
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:29:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzgzMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1MzczLCJpYXQiOjE1MjQwMDA1NzN9.ktnCDP0HPcd4aKhKmWshmjj4LDsbRvFWL1QBn7IKwSYTvtP1Jm8qUYJ5lLOJNnP4XwnHea58dJQpXC57v33zcQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:29:32+00:00	login	x_ella04s_j
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:29:32+00:00	name	x_ella04s_j
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:29:32+00:00	last_login	2018-04-17T21:29:33Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:29:32+00:00	api_token	03a04fd8f316bd5671369884f2930328
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:29:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZWxsYTA0c19qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjU3MywiaWF0IjoxNTI0MDAwNTczLCJub25jZSI6IjNQajgtZDJOeHhfWlp5X3d5alBhbDJEbnZFa21vSjRtQTlkUU9iUlZFY2s9In0%3D.51-tEWjlsY1_AUYeoGOoMvG5e43pU6Uo79ynomOZjPky6DZhMaUtuBUna5cPFZQjUn-5pKyCgmArvTKyT3r3VA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:30:23+00:00	twilight-user	{%22authToken%22:%22t14w78uxcyoy2fnjsaxorndzh5b9ea%22%2C%22displayName%22:%22x_ella04s_j%22%2C%22id%22:%22215078331%22%2C%22login%22:%22x_ella04s_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:30:23+00:00	auth-token	t14w78uxcyoy2fnjsaxorndzh5b9ea

@@ -1,0 +1,15 @@
+#q_timothy73f_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	M1MEZ4hmx%2F8fIY43XvDuaY43wSNNszpmV5a99v%2FyXXY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:21:19+00:00	unique_id	849fb2b1efc8b4f6
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:21:19+00:00	_twitch_session_id	92f5a9f3bef767da9e1042692e7e852f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:21:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:21:40+00:00	persistent	214792875%3A%3Aw5adwkrxbt4q178y8lp5rt4gfz40b0
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:21:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTI4NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4NTAxLCJpYXQiOjE1MjM5MTM3MDF9.o-7HalXHHEiTwkNcIcszXwpINpN44UGc20T1-b5aQzXoi5LwSHxpxfUdCOLLa9QP7vOHq7seAInaax2PleRRyg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:21:40+00:00	login	q_timothy73f_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:21:40+00:00	name	q_timothy73f_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:21:40+00:00	last_login	2018-04-16T21:21:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:21:40+00:00	api_token	9a8808aaf0d2bacadd4b208bf2581cb2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:21:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfdGltb3RoeTczZl9vIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NTcwMSwiaWF0IjoxNTIzOTEzNzAxLCJub25jZSI6IjFBdHNqckZpd3pNLTIyS1hmYmxNU2VEUVVnaE5WeS1MaHRkTmlaeHdlZjg9In0%3D.4gSxlv-V7B3ZDhaSpMPSjqI8sou-bliA_6EaQOfGzJmU7yg-cHj8nck9jTxWao-nz6UN2y552HMqyPCLx0ODZw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:22:24+00:00	twilight-user	{%22authToken%22:%2278tj79lll80fm68bcgukbojk42pl9i%22%2C%22displayName%22:%22q_timothy73f_o%22%2C%22id%22:%22214792875%22%2C%22login%22:%22q_timothy73f_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:22:24+00:00	auth-token	78tj79lll80fm68bcgukbojk42pl9i
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:22:27+00:00	twilight_onboarding	true

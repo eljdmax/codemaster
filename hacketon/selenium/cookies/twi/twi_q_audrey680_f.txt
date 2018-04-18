@@ -1,0 +1,13 @@
+#q_audrey680_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DG1pSk9WvUdSdo21pABNJ9uNM2kfsSIGvU1nF5xQsEo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:01:35+00:00	unique_id	dbb3192db8120e0a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:01:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:01:58+00:00	persistent	214563583%3A%3Ajrpsqgc1b3r2ai5nh7lknnup1zi1v5
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:01:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjM1ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MzE4LCJpYXQiOjE1MjM4MjI1MTh9.MhfZnLb8X604Mbt0IljubFa1Nuw_AO-PtfTz6zyqtRt9BiMzED7PbsAQTDvJsbJC8VDURvC5WOKmYrM-YAr1vA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:01:58+00:00	login	q_audrey680_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:01:58+00:00	name	q_audrey680_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:01:58+00:00	last_login	2018-04-15T20:01:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:01:58+00:00	api_token	015dd146047405edf4bf25dc19397952
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:01:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYXVkcmV5NjgwX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc0NTE4LCJpYXQiOjE1MjM4MjI1MTgsIm5vbmNlIjoiU2pidkU3ZldNXzJPdmhta1BjaXhwMWVxTjBpX0YzS2JzWE8wdlBBMlRidz0ifQ%3D%3D.lDsWohqbM-_49MY1ywrcGDMUtIaBWL93tGavAUdBmUi2CV6mlN7BnNfTLMRevsNexEuP2s_4rnMj2DYqV25N8g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:02:36+00:00	twilight-user	{%22authToken%22:%2213fj3j2m86vpnhulgh0iyetf97b77w%22%2C%22displayName%22:%22q_audrey680_f%22%2C%22id%22:%22214563583%22%2C%22login%22:%22q_audrey680_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:02:36+00:00	auth-token	13fj3j2m86vpnhulgh0iyetf97b77w

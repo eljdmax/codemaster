@@ -1,0 +1,13 @@
+#y_luist1o_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ls7z3MTq1jecIMC5CEPg2hEgmsx2aqd3ZqUcdTsroIQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:43:08+00:00	unique_id	d9e15c4f1613de0e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:43:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:43:29+00:00	persistent	214573420%3A%3A271krqtgdgy4o2qxzqwtn8uw1dxnid
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:43:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzM0MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5ODEwLCJpYXQiOjE1MjM4MjUwMTB9.1dySGHDm3FKltoaqmPxqWVwOSNK3NgS0suTYbhsFgU9-11CbOIZqvUvI45WJXUSlf1KEs8itZ4DYLyL4LvMtEw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:43:29+00:00	login	y_luist1o_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:43:29+00:00	name	y_luist1o_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:43:29+00:00	last_login	2018-04-15T20:43:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:43:29+00:00	api_token	90d9eaa3e00fc63d792356a8bc4bfccc
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:43:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbHVpc3Qxb19yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NzAxMCwiaWF0IjoxNTIzODI1MDEwLCJub25jZSI6ImVEOFVrVU1mS1JSVlpjMWtMd3gybjBPdEtuOTkwOXNkY3lMeERPYVVJalU9In0%3D.yy20TgX3ckas3JQZgtcMIbaBfahONr7ICWkMtxAeWAQSRr_ka4j936OZu7WfAZ-9-2MiDX64L3fvl1FnZaxKZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:44:09+00:00	twilight-user	{%22authToken%22:%227pvkpios5yncv3plx1o1pdxyfjilj5%22%2C%22displayName%22:%22y_luist1o_r%22%2C%22id%22:%22214573420%22%2C%22login%22:%22y_luist1o_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:44:09+00:00	auth-token	7pvkpios5yncv3plx1o1pdxyfjilj5

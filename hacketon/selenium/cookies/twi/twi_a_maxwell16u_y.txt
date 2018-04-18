@@ -1,0 +1,13 @@
+#a_maxwell16u_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gUMKnRccSO6Id0nd%2FeEycHV3PeSXDEFGCLvVwXRPQa4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:54:25+00:00	unique_id	217a23de7d5b1d3a
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:54:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:54:55+00:00	persistent	214787063%3A%3Ae6f22vu4t5q16tjq45rexjlug0nmfu
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:54:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODcwNjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2ODk1LCJpYXQiOjE1MjM5MTIwOTV9.Y3OHzViFLYaEnKY2CoRR9vBrhBotxqabga34_2E3f5dxrAZEA2bbOBttd-ev5tSAWfaHlTY9V_d_zLC5bgo8Dg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:54:55+00:00	login	a_maxwell16u_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:54:55+00:00	name	a_maxwell16u_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:54:55+00:00	last_login	2018-04-16T20:54:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:54:55+00:00	api_token	a523a30f1d34ebab0c93d74d20d8938c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:54:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWF4d2VsbDE2dV95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NDA5NSwiaWF0IjoxNTIzOTEyMDk1LCJub25jZSI6IkNxQzJCU2FBd3U3YVRMd2U5ZmZ3NkhxOHJ1bzJFM1VGZlpGYUVwZ1hoV1U9In0%3D.sMIfjiXLcXBNjDhgqtpJNL_FTDEJ60C38vc5qoOlZxNrNaGmUUENqShrWZc08Pcv-r_jvl2bEPFSfXsTlCrEGg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:55:38+00:00	twilight-user	{%22authToken%22:%22uhtajgs1idix0lmauip2eloaxy27o0%22%2C%22displayName%22:%22a_maxwell16u_y%22%2C%22id%22:%22214787063%22%2C%22login%22:%22a_maxwell16u_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:55:38+00:00	auth-token	uhtajgs1idix0lmauip2eloaxy27o0

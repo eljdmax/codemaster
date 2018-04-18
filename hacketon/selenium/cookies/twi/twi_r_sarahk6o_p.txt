@@ -1,0 +1,14 @@
+#r_sarahk6o_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8OFAMp%2B%2BJv2WDE2tka8dtCM6B1x3BibCX11AS5CBEHw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:15:48+00:00	unique_id	8248c9730e228bc2
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:15:48+00:00	_twitch_session_id	75b2e85e4c9e07bc692bd36c365dcdbb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:15:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:16:41+00:00	persistent	215088893%3A%3A19srwoo1v15wzt7xb8qhemztc222pw
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:16:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODg4OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4MjAyLCJpYXQiOjE1MjQwMDM0MDJ9.rEfdfyIo-IM0XwW41BRvdUecSAqVXGr7P7j3G8hPe8w59SLtVLYsgKUIk_pZkTieHlvdR5hOd9lqQJxBss0pKA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:16:41+00:00	login	r_sarahk6o_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:16:41+00:00	name	r_sarahk6o_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:16:41+00:00	last_login	2018-04-17T22:16:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:16:41+00:00	api_token	eb8d1a7365602012d34e28f58f184ecb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:16:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc2FyYWhrNm9fcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTU0MDIsImlhdCI6MTUyNDAwMzQwMiwibm9uY2UiOiJfcHE2ZVBfSkxlZDBmQm8wbFlQU2VxNHhRNWVuemlMaF9DOTFvZjNzV1l3PSJ9.9A7Xw_PyQ7J83C0lYTm-C7rm_8f-z7wdrp6SS6aAzrNr81uvOliktVUZzTC_KbM38pbUGZ8QaqKc6GNGUkLW0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:18:04+00:00	twilight-user	{%22authToken%22:%22p6k1b46qoy7l82eellkq0hu2c0kyky%22%2C%22displayName%22:%22r_sarahk6o_p%22%2C%22id%22:%22215088893%22%2C%22login%22:%22r_sarahk6o_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:18:04+00:00	auth-token	p6k1b46qoy7l82eellkq0hu2c0kyky

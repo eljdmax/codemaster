@@ -1,0 +1,14 @@
+#q_dianau2m_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	N7yZ9%2FLm%2BUTebhbmJjdv8vkdmpLAsZ03OJoENIPmVHM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:25:39+00:00	unique_id	f472dded46df4cb6
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:25:39+00:00	_twitch_session_id	cfcb8542b2d0bb560b16caccc9cf4118
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:25:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:25:58+00:00	persistent	214569326%3A%3A3v3vilo85db2sta51y7hz7d6t7uj5p
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:25:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjkzMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4NzU4LCJpYXQiOjE1MjM4MjM5NTh9.Ov3jPWxtMUbSsjqtAmbPWhP-ueeXKqc8Q7aCdyrASgaORcmisvRTXepKmbiRk0MQu0AbiSm4MSCXt-lcdDDtxA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:25:58+00:00	login	q_dianau2m_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:25:58+00:00	name	q_dianau2m_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:25:58+00:00	last_login	2018-04-15T20:25:58Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:25:58+00:00	api_token	90207c7f5f95b33897bb176a2b3dedc5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:25:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfZGlhbmF1Mm1fciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzU5NTgsImlhdCI6MTUyMzgyMzk1OCwibm9uY2UiOiJRaVAtVVRQZWNnaktEcDlZQ3FLS3VGQ0NBYTFUUXk0Z0hVUC12bWhEa3d3PSJ9.-x6t8d2u0_Ni3p3QRE5-bp2ewIUwkD17ZJFnnuZYLt0LVy1gVY_ThN93pZnZ0z4vz0tvyvAtpfsbZpHmEXQNOA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:26:39+00:00	twilight-user	{%22authToken%22:%227uohfezfibegcq4t4escahom9i8m44%22%2C%22displayName%22:%22q_dianau2m_r%22%2C%22id%22:%22214569326%22%2C%22login%22:%22q_dianau2m_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:26:39+00:00	auth-token	7uohfezfibegcq4t4escahom9i8m44

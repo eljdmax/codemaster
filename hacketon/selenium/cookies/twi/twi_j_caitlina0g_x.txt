@@ -1,0 +1,14 @@
+#j_caitlina0g_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EQNMFQOv5IOUtnui03hBYjBnc7DUH9YFb0FqZXkykc0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:23:29+00:00	unique_id	caec83127597cfed
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:23:29+00:00	_twitch_session_id	99647e9f11dbb78503c49d81a31478fa
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:23:29+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:23:48+00:00	persistent	214807379%3A%3Awbr5apw7vuh8dpbp9nix6as1304bt7
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:23:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDczNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyMjI4LCJpYXQiOjE1MjM5MTc0Mjh9.0v3YL3g_mm79p5N78B0JYK3pN9B1Skw9-wmvMQHbYY9ke7BrhwPXr6e4rDuGBCIfr1X7JqY5xiWHZ9yBcxCr1A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:23:48+00:00	login	j_caitlina0g_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:23:48+00:00	name	j_caitlina0g_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:23:48+00:00	last_login	2018-04-16T22:23:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:23:48+00:00	api_token	9bc8ce34a19adc4fd9b1390d7a0c9a11
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:23:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfY2FpdGxpbmEwZ194IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2OTQyOCwiaWF0IjoxNTIzOTE3NDI4LCJub25jZSI6IktpdFI2SHZ4LWlGam5VM2czU2dyd240NHdDWHYwTFN0YlYzQ2lwbFJuWjg9In0%3D.XUkOx8Jf5BzJI0oJwT4EpTj0kOP53O9gNBVS3YbIiyKnWl7tB3-XqbM22vb9qF0XEjxdAlSdLNmbuoU9eaptHw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:24:33+00:00	twilight-user	{%22authToken%22:%2240tzy7rd81rvff3zc00qo6sywsc7gn%22%2C%22displayName%22:%22j_caitlina0g_x%22%2C%22id%22:%22214807379%22%2C%22login%22:%22j_caitlina0g_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:24:33+00:00	auth-token	40tzy7rd81rvff3zc00qo6sywsc7gn

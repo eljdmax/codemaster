@@ -1,0 +1,14 @@
+#s_jessicaw2h_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cF3C1vmxvz5KIsfAPDv02%2BHGG3e27rvqEaO3wBA3q%2Bk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:07:39+00:00	unique_id	0921f7b559487233
+.twitch.tv	TRUE	/	TRUE	2018-04-17T11:07:39+00:00	_twitch_session_id	071914d3c441c907f5e326470408308e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:07:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:08:06+00:00	persistent	214825852%3A%3Abmfx960e24xgpcidq0ux6r27lgh7yf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:08:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjU4NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0ODg2LCJpYXQiOjE1MjM5MjAwODZ9.HV5LnxgkHluCjPgs6-qs46-ale-y9UTAtL-m05ThP3oOlVQzCPcPgf9xtluTF3auu4C4S-tELhajjz2dNTZTJw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:08:06+00:00	login	s_jessicaw2h_9
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:08:06+00:00	name	s_jessicaw2h_9
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:08:06+00:00	last_login	2018-04-16T23:08:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:08:06+00:00	api_token	6b45d86605e30483fad666a37ffff2ec
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:08:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamVzc2ljYXcyaF85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MjA4NiwiaWF0IjoxNTIzOTIwMDg2LCJub25jZSI6IlZDdF9Mb3FnQUhLM3pJYktaRUhZbmVrNFpuQS1TanVmUElPT2Vtcnh4ZGM9In0%3D.Mk9Wv4IY5Pjw9HeRuyzQ7IXCPAIFMSmfFSu14eahcXSLBpYOOLcWDAh0qYDaFLyE40dq9XitU60XNHRQhieyaw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:08:50+00:00	twilight-user	{%22authToken%22:%22puynu8rehav1ji59n00rp2aygrvnxz%22%2C%22displayName%22:%22s_jessicaw2h_9%22%2C%22id%22:%22214825852%22%2C%22login%22:%22s_jessicaw2h_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:08:50+00:00	auth-token	puynu8rehav1ji59n00rp2aygrvnxz

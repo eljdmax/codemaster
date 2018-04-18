@@ -1,0 +1,14 @@
+#d_henry56a_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	sklb8cpAcIQ6QsIKXI4i186Ghxx3E5TcSdC8lHAqyGQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:40:40+00:00	unique_id	63f807e36dc0a664
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:40:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:41:04+00:00	persistent	214572851%3A%3Ac9u13t02fkx37izph3zeqa7gb0p0ud
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:41:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzI4NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NjY1LCJpYXQiOjE1MjM4MjQ4NjV9.rTMgo59A1G01kApACMBxKcmSSxspqyN9yHi6IvXenyfcwvlv5S_neswMn8vnaGjPZks6LzgmBQeFt1zHw0dL8w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:41:04+00:00	login	d_henry56a_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:41:04+00:00	name	d_henry56a_f
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:41:04+00:00	last_login	2018-04-15T20:41:05Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:41:04+00:00	api_token	4ff433bc28723f2a6a3ea56f638e60a6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:41:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfaGVucnk1NmFfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzY4NjUsImlhdCI6MTUyMzgyNDg2NSwibm9uY2UiOiIxbHVDWmFkNHprbWNXRTdPRnpmZUI2Vy1VMFp1b0FYY2JYMW15Vk9KaHVRPSJ9.l6FCV45K2imTFRVqp_ziV0v343sWafKOZKlePRVBe_7HzadKsQpLQHerUfuRyZzlGOh9_qTNuvQk3U5_iNDSLA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:41:44+00:00	twilight-user	{%22authToken%22:%22lh4akdxrpbjk3u6dwawq7af5q2t9el%22%2C%22displayName%22:%22d_henry56a_f%22%2C%22id%22:%22214572851%22%2C%22login%22:%22d_henry56a_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:41:44+00:00	auth-token	lh4akdxrpbjk3u6dwawq7af5q2t9el
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:41:45+00:00	twilight_onboarding	true

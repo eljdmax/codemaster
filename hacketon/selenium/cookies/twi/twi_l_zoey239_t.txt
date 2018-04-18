@@ -1,0 +1,13 @@
+#l_zoey239_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bDLq4VP8T1Sk%2BrLoSnNbN8efyy%2BiSJU16nnLvsn1LhI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:27:33+00:00	unique_id	691652ee12f1139f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:27:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:27:56+00:00	persistent	215063471%3A%3Aiyqd13bxfo0hxe70vonwvwear50z0y
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:27:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjM0NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxNjc2LCJpYXQiOjE1MjM5OTY4NzZ9.InY1e5poHXzhe0GdcwwUbkycSYcFlnaqrKA4zq__rLADec-umxS9TG0P3n3lkzooZSEptrWC-5-eVzExoLT2Rw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:27:56+00:00	login	l_zoey239_t
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:27:56+00:00	name	l_zoey239_t
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:27:56+00:00	last_login	2018-04-17T20:27:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:27:56+00:00	api_token	dd061eeae4a0d8ddb2f3033a6c73e094
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:27:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfem9leTIzOV90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0ODg3NiwiaWF0IjoxNTIzOTk2ODc2LCJub25jZSI6InZsdnprbXM4TGhaYkFwM040VWlJNXpGYTlXOU1FcTdDSV85UEFmbFZYcmM9In0%3D.vKhzvDN1U4TnNCKryh6eJxpqDMTegd66kSQa25A4aOc0PWzwD_yadhiVwI-smJ9mcD2lb1IQtfEia1OqaeQOfg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:28:44+00:00	twilight-user	{%22authToken%22:%22qtxqmwfys60mkwcsz3xmp6q8w3boxs%22%2C%22displayName%22:%22l_zoey239_t%22%2C%22id%22:%22215063471%22%2C%22login%22:%22l_zoey239_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:28:44+00:00	auth-token	qtxqmwfys60mkwcsz3xmp6q8w3boxs

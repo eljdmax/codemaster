@@ -1,0 +1,13 @@
+#a_jesseq7t_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nc1eMf%2FLW76codyXY8v%2BWPZQblMePjhK%2FdQ2wqTdgAQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:57:12+00:00	unique_id	f1b86cfd462bcea0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:57:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:57:35+00:00	persistent	214799757%3A%3Apkd2x2wx1bdy6ga3v2f5pitiyr9ayu
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:57:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTk3NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNjU1LCJpYXQiOjE1MjM5MTU4NTV9.SaNN8bhTPgXHYH9baib9mT3EJm7k2OA5jl-KU1ADHZL2SjZIWlR7iZ8JOpWNGydYwLuWumGiSHbx9XTu5iNNvg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:57:35+00:00	login	a_jesseq7t_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:57:35+00:00	name	a_jesseq7t_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:57:35+00:00	last_login	2018-04-16T21:57:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:57:35+00:00	api_token	2c7eeb2e8a88087104f8e4851c96b9d6
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:57:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamVzc2VxN3RfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0Njc4NTUsImlhdCI6MTUyMzkxNTg1NSwibm9uY2UiOiJjQlNmaU9xSHZCZ3dqdlllT2JEUWFSRG1hWFNLSUl0dVoyckl4bHlzNURzPSJ9.H66B3c6ItchWA_YmlKIXAUmSwGOnelM4S4wlYVGvw7vtSoww8R8kDkW8LADU_7D3geS3lW295o8uFYGeXvXsUQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:58:18+00:00	twilight-user	{%22authToken%22:%22cgqnees4ag4weyf5v3tc0kn08271i8%22%2C%22displayName%22:%22a_jesseq7t_c%22%2C%22id%22:%22214799757%22%2C%22login%22:%22a_jesseq7t_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:58:18+00:00	auth-token	cgqnees4ag4weyf5v3tc0kn08271i8

@@ -1,0 +1,14 @@
+#z_christinab35_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BLLtTDXOdxU9rU4pGxTxprdhf1enAZlghlEXy8HBm%2Bo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:50:12+00:00	unique_id	f2fa7b06028bcca0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:50:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:52:13+00:00	_twitch_session_id	1fe4d10c569e3529769410227fedff75
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:52:32+00:00	persistent	214587772%3A%3A4fitnzbq7f6c1utjs3ya7nqluwnrxu
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:52:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODc3NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzOTUzLCJpYXQiOjE1MjM4MjkxNTN9.Vt5KWtPKV2xYgoI-Ot_o7yX17yQ0OIuTcgeFuZ2KaUyIlmF9N7dIuukjLkzK1S-tZV-n8dt8AaftRZfIIGEgGA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:52:32+00:00	login	z_christinab35_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:52:32+00:00	name	z_christinab35_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:52:32+00:00	last_login	2018-04-15T21:52:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:52:32+00:00	api_token	aad4459450047e7ca9975a145139f982
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:52:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY2hyaXN0aW5hYjM1X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxMTUzLCJpYXQiOjE1MjM4MjkxNTMsIm5vbmNlIjoidFI0LXQxOG1QRDhsdHlNMWRYUTVCUVBCQVk5aUJBV0pSUHNVQWhBNnV1MD0ifQ%3D%3D.HYM5rtyuGzkgpJS_gIVH7QketDvWad7Ih7yEuhNcckKj6ytuhByyhepqbV3QarxJyROOHHNfggoqWAepiW-svQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:53:13+00:00	twilight-user	{%22authToken%22:%22cnpqnr6bydj2mrza7d18tu0y1suct8%22%2C%22displayName%22:%22z_christinab35_g%22%2C%22id%22:%22214587772%22%2C%22login%22:%22z_christinab35_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:53:13+00:00	auth-token	cnpqnr6bydj2mrza7d18tu0y1suct8

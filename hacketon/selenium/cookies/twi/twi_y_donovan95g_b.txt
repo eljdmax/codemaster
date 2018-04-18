@@ -1,0 +1,15 @@
+#y_donovan95g_b
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM4MjYxNjUsIm52IjowLCJ1cHQiOjE1MjM4MjYxNTYsImx0IjoxNTIzODI2MTU2fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	My5fz2OB8%2FjsNiN34%2BsXeOaSCfWF6tdg9fTHq2BS254%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:05:38+00:00	unique_id	24c1bf03b240b1c6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:05:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:06:02+00:00	persistent	214564585%3A%3A8fqgrl4xlxdeqz22p6zv74yjdls0m2
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:06:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjQ1ODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3NTYzLCJpYXQiOjE1MjM4MjI3NjN9.YtdjDt4Oc8k8p4E_Gh1x5WBEo7ygYp_GufTOK7T2o-dsEjI05AHxX1nnzPk2x3HpaETWhzsKN-TjoRArx0Eaxw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:06:02+00:00	login	y_donovan95g_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:06:02+00:00	name	y_donovan95g_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:06:02+00:00	last_login	2018-04-15T20:06:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:06:02+00:00	api_token	ff26f4eb54896ba3add005aa365f853e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:06:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZG9ub3Zhbjk1Z19iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDc2MywiaWF0IjoxNTIzODIyNzYzLCJub25jZSI6ImxKaTVkRDQwOERWYUtZZjc4cldRMHJFM09US1NYRjJCeTljOGZlakNzb009In0%3D.LvhXPAWBAQyA1bxCpsDsyOBQF6pkrk3wJkHQ0Wyf2HSb1Ko7J_4ikjbMcl224vh7_KzabAKnATxMPJvAlTlpgw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:06:41+00:00	twilight-user	{%22authToken%22:%22fk1vob9ja2sxgluh9fm0pu2v5832ff%22%2C%22displayName%22:%22y_donovan95g_b%22%2C%22id%22:%22214564585%22%2C%22login%22:%22y_donovan95g_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:06:41+00:00	auth-token	fk1vob9ja2sxgluh9fm0pu2v5832ff
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:06:42+00:00	twilight_onboarding	true

@@ -1,0 +1,14 @@
+#h_emmat3x_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cPcgKxr1S6LxJ1HW1eui6OdOSCG23G4B%2B3crErGWhfw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:17:37+00:00	unique_id	6ec6f38d89da5630
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:17:37+00:00	_twitch_session_id	371e03bf2a6dba5707dcb995b3f49006
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:17:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:17:59+00:00	persistent	214592720%3A%3Akeflofadl033ak7qipjf0d4mm4scdp
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:17:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTI3MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1NDgwLCJpYXQiOjE1MjM4MzA2ODB9.LlgeuMUwIJ7NBKleHQY-n3xXwkhiuvDBx4j1KH-N3Fi0-5pNa9B5jQFo4dU-nyql4K6SyfZF6qQaV6qOv4X7OA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:17:59+00:00	login	h_emmat3x_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:17:59+00:00	name	h_emmat3x_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:17:59+00:00	last_login	2018-04-15T22:18:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:17:59+00:00	api_token	1c34838ff2b9ca391cfeadee0b82b7f1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:17:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZW1tYXQzeF9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MjY4MCwiaWF0IjoxNTIzODMwNjgwLCJub25jZSI6IjBiWmszaHRIRXBkLXlQbVZDZDRsZFQtS3BraWRiTVF2TjdpV0ZVOFBZMlU9In0%3D.QV_ZWqx-PWz0C37kTX-vLf7j40Mfu2xdnSmNLW3KUc6eiQAx3clqJpIJrHQxEYrU1CdGKby_6aSS4_rU8VvInA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:18:38+00:00	twilight-user	{%22authToken%22:%228fvozre5ewhpecfcyyx3tbg55g0my5%22%2C%22displayName%22:%22h_emmat3x_k%22%2C%22id%22:%22214592720%22%2C%22login%22:%22h_emmat3x_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:18:38+00:00	auth-token	8fvozre5ewhpecfcyyx3tbg55g0my5

@@ -1,0 +1,13 @@
+#u_seth51t_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qv7tNyRQ7KJeFLxCVSpwvEoOMfTtH7gybwWeV%2Fah9bQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:32:16+00:00	unique_id	ee9bd162e94702e0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:32:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:32:37+00:00	persistent	214782511%3A%3Aktugif1m7qfac9tyg6v7yyjr7qf689
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:32:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODI1MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1NTU4LCJpYXQiOjE1MjM5MTA3NTh9.vkDv9oqnSPaH-np5_Vnxb1D_1IpxhZWcxUcImU1kyhInBYymnRSXplxzhB-oxPqSHma8htjZMBHFs01g1oT5mQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:32:37+00:00	login	u_seth51t_4
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:32:37+00:00	name	u_seth51t_4
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:32:37+00:00	last_login	2018-04-16T20:32:38Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:32:37+00:00	api_token	72fc8f017a07f93fddca59af0881fa2e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:32:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2V0aDUxdF80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2Mjc1OCwiaWF0IjoxNTIzOTEwNzU4LCJub25jZSI6ImpaUWhWV2dranFxNU8zd1lmdVpPc09DRkV5QklFUVBEN05ZWXM3eVFpNXM9In0%3D.x3Ix9fafnO1yPFTz7U3sLDAXS0jH4vFRMJKwVtT2S3_wGk3UfMNUUwJZvLVSHScN-CTyUo9_rJqNrOhKPmBchQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:33:21+00:00	twilight-user	{%22authToken%22:%22e4f85wnpp04ihnd9f0227bpqflcfmz%22%2C%22displayName%22:%22u_seth51t_4%22%2C%22id%22:%22214782511%22%2C%22login%22:%22u_seth51t_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:33:21+00:00	auth-token	e4f85wnpp04ihnd9f0227bpqflcfmz

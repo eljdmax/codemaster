@@ -1,0 +1,13 @@
+#w_bryan72i_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cGKRgeA1d8l8dEE7Vzd1R0Nd36vBzbdYzhfMUkR%2B2K8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:04:05+00:00	unique_id	35b8781ef0c81dbf
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:04:05+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:04:30+00:00	persistent	214824643%3A%3Ak5u8kox4ofkzc9u75umvu1zx2qa7n5
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:04:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjQ2NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0NjcwLCJpYXQiOjE1MjM5MTk4NzB9.jgqeJfENaPfJxii80U41S0Yz6d7UJDhy29CU-jQcYThD7N1_rsWSEdFg9xVa-UJ81fad6qaCz2HXA27cnzeUaA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:04:30+00:00	login	w_bryan72i_k
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:04:30+00:00	name	w_bryan72i_k
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:04:30+00:00	last_login	2018-04-16T23:04:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:04:30+00:00	api_token	0f6ad83f8c729a4269d378d97eea4aee
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:04:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYnJ5YW43MmlfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzE4NzAsImlhdCI6MTUyMzkxOTg3MCwibm9uY2UiOiJaRFZMLS1aUkJZVEl0UVptS0NFcno0UFA4TGQyX1hRWmxWLU9EQkc2dlNzPSJ9.oYESEDxJ112p9sczFgyZb9V4MkWjKvQwa3T8qPkXsWsk9XTIWKsCKmByF8f9UjE6_1D3oyaWB7FiVAmLzdm0kg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:05:12+00:00	twilight-user	{%22authToken%22:%22l20q3xw19p0s3pi6o8aq4nhe2dq7m5%22%2C%22displayName%22:%22w_bryan72i_k%22%2C%22id%22:%22214824643%22%2C%22login%22:%22w_bryan72i_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:05:12+00:00	auth-token	l20q3xw19p0s3pi6o8aq4nhe2dq7m5

@@ -1,0 +1,13 @@
+#u_kennedy30z_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	T9WZ1cvlIxw7Xxzvo%2BSIqEGeyFNG9J%2BDDuIVoT%2FYU1o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:30:56+00:00	unique_id	6928551749db34a1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:30:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:31:12+00:00	persistent	214583596%3A%3Ah6ww2rn0xug1qwyy0ulnjyfj91xe6f
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:31:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODM1OTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyNjczLCJpYXQiOjE1MjM4Mjc4NzN9.DHFPgPCY_JAU4WYqR037Uk9Vg3BDnUKWtnNxbShp1-TBaUihSimd3h-ZXRlX8BkTESWLvJtkInxQ9g5-38Qy8g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:31:12+00:00	login	u_kennedy30z_4
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:31:12+00:00	name	u_kennedy30z_4
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:31:12+00:00	last_login	2018-04-15T21:31:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:31:12+00:00	api_token	602527647cf259a6b6fdc0041c510f85
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:31:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfa2VubmVkeTMwel80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3OTg3MywiaWF0IjoxNTIzODI3ODczLCJub25jZSI6IkFycXF5U2Zvd0RIQlJRcW9UT0RkUjlpNXRSSS1hZ1dkaDJtSTUyRFpJVzA9In0%3D.JIzXgfeh6FhoAk7Cet9jQPHKpeb3ewNyeXf6Ho3TZx7IWLbOGX8piRtG0Fe-u9823Q6gHBKasHZYRPNpPrhxzw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:31:50+00:00	twilight-user	{%22authToken%22:%223nhjfmk2dmzo27by23axd93gd5bu78%22%2C%22displayName%22:%22u_kennedy30z_4%22%2C%22id%22:%22214583596%22%2C%22login%22:%22u_kennedy30z_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:31:50+00:00	auth-token	3nhjfmk2dmzo27by23axd93gd5bu78

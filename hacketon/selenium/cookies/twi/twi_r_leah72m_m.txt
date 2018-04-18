@@ -1,0 +1,14 @@
+#r_leah72m_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lYvhVAeSNW2UepkQI4i%2FAytev0Iczp2jWiDNIuxl7EQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:27:43+00:00	unique_id	d5ab3c04b9048d4d
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:27:43+00:00	_twitch_session_id	3fecbf7c48e185051a5adb5b0ea77106
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:27:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:28:04+00:00	persistent	214569801%3A%3Akjneq74b5frl6lvnbhvhpkrnqnztv2
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:28:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njk4MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4ODg0LCJpYXQiOjE1MjM4MjQwODR9.5Xmgh-2cV3WYBPdT5nILbBLMCoW8KnXzwb--1KfTAh59va6mfTfYfT9SEKaAJPhsWRG36ZV3AvRl7kvVyHm_TQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:28:04+00:00	login	r_leah72m_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:28:04+00:00	name	r_leah72m_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:28:04+00:00	last_login	2018-04-15T20:28:04Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:28:04+00:00	api_token	ab58f6823c8cfba5e93e4fb747ffe582
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:28:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbGVhaDcybV9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjA4NCwiaWF0IjoxNTIzODI0MDg0LCJub25jZSI6Im55azRLS0JQVjNLeU0wQ3hnbGZ2bFZ1dmhweHVQZVVoQkZMVS1scVpzems9In0%3D.qiYjN3vlGYB9_OVb1gPNy49B0FwtnU5Td8JghqpQbeA3A90kj79cJQ8_KzhmtCb_Mdqu61lTSbzwaLa3_KqRKA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:28:43+00:00	twilight-user	{%22authToken%22:%226xwg5gvzrh6avo1tbkg9o03tzmwm5b%22%2C%22displayName%22:%22r_leah72m_m%22%2C%22id%22:%22214569801%22%2C%22login%22:%22r_leah72m_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:28:43+00:00	auth-token	6xwg5gvzrh6avo1tbkg9o03tzmwm5b

@@ -1,0 +1,14 @@
+#m_aidan69e_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zonKQfokn9lfredV80dtqBy3CDH1NXYXvL9RVWyW7Lw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:08:10+00:00	unique_id	dfca7b3ba4b73194
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:08:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:08:37+00:00	persistent	214826011%3A%3Ahkwpvf399wz8fc9o830n3o5mlachlm
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:08:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjYwMTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0OTE3LCJpYXQiOjE1MjM5MjAxMTd9.eXJdgke88nLyC_5L1MIMK0i2cby0PVwqa7MMPxHOrAx6RR5X-cRfei9mbY2D2jArReL5JLoRIWehTZc_mAj-sQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:08:37+00:00	login	m_aidan69e_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:08:37+00:00	name	m_aidan69e_w
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:08:37+00:00	last_login	2018-04-16T23:08:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:08:37+00:00	api_token	af622a779764ea19b1efef4687f5e9ea
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:08:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWlkYW42OWVfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzIxMTcsImlhdCI6MTUyMzkyMDExNywibm9uY2UiOiI4RG9KdXZDRkwwSUZ0X3lISjM4aEdleVBmVDQ5UjBhRUNhOHFIOUl5Vy1nPSJ9.fEdK8-zDdeiK9g0_uB6E2lCBehV0q_vXqtUy-EuztRVRK8bqcp18Fxv5Z0ariDuGj6EcumDBzoATBqHJzva_6A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:09:21+00:00	twilight-user	{%22authToken%22:%22jeemmiivjnrivd63gaxkht9hyrsevm%22%2C%22displayName%22:%22m_aidan69e_w%22%2C%22id%22:%22214826011%22%2C%22login%22:%22m_aidan69e_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:09:21+00:00	auth-token	jeemmiivjnrivd63gaxkht9hyrsevm
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:09:24+00:00	twilight_onboarding	true

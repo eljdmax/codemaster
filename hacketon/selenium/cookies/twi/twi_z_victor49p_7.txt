@@ -1,0 +1,14 @@
+#z_victor49p_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	HTYZyetQQkMGbc2F%2BRzRS5mvWd10EL%2B2xkxYR1WcXew%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:17:03+00:00	unique_id	278943b940ff1f36
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:17:03+00:00	_twitch_session_id	d37daaa41b98356cb06b2b8ab7784979
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:17:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:17:25+00:00	persistent	215060629%3A%3Aaq3jxq2r7juhus29j6xc9ytaobl5qf
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:17:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjA2MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxMDQ2LCJpYXQiOjE1MjM5OTYyNDZ9.nLZ4JPhfW3mtZYAVZcvVEzDBjG1L8SNMSOcC2BIJAyKG_JDFFtTG_aTV_CKDWjMRV2cgdzTdD8XdDBWZtLmmVA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:17:25+00:00	login	z_victor49p_7
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:17:25+00:00	name	z_victor49p_7
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:17:25+00:00	last_login	2018-04-17T20:17:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:17:25+00:00	api_token	76ea2da77da506a5a49f026a3124d4a3
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:17:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfdmljdG9yNDlwXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ4MjQ2LCJpYXQiOjE1MjM5OTYyNDYsIm5vbmNlIjoiQnV5aW5aVjM3Um9zczhHaGpZcFF2R0xKNFNCX1ZRRV9FTERXUzZudDdrQT0ifQ%3D%3D.NZt0JSYtxcQ_KT35adnv15FpesOIbtVP5QuczPFiDLIDIzCpFSS04p-4qLqzqkDN9KZXqK2t-tGqO2Vbx8AQnw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:18:16+00:00	twilight-user	{%22authToken%22:%22sznpm2w7ckpzdt2esqv0qa1e47lnu3%22%2C%22displayName%22:%22z_victor49p_7%22%2C%22id%22:%22215060629%22%2C%22login%22:%22z_victor49p_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:18:16+00:00	auth-token	sznpm2w7ckpzdt2esqv0qa1e47lnu3

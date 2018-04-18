@@ -1,0 +1,13 @@
+#e_victoria502_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	34TFy4Aqye7XpWB77xxqLWpCQQb%2Ft3LoIxQijxyc5A8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:11:22+00:00	unique_id	45198cdc5efa0bf0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:11:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:11:50+00:00	persistent	214790749%3A%3Ayhb8wb59i1bp3xvswhmmvud0xpsmm8
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:11:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTA3NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3OTExLCJpYXQiOjE1MjM5MTMxMTF9.dLSs5luvGvNRUwXjPjLuCnQcrwAO4gjk6R2IW6hCh8dWl-XWvQGadWdF3sHUFSdudSFWWI6fOWYlinrXL0tQpQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:50+00:00	login	e_victoria502_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:50+00:00	name	e_victoria502_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:50+00:00	last_login	2018-04-16T21:11:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:11:50+00:00	api_token	5b10ce4ee4568463282c49658b398cf5
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:11:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfdmljdG9yaWE1MDJfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjUxMTEsImlhdCI6MTUyMzkxMzExMSwibm9uY2UiOiJYWHN2UXRRZVJuZGNpLWpNaFdlVldiSklaOE1jMjdCWmg5QkRhaGNpVXcwPSJ9.uVaIkPAa1yMQQhntq-OvesVLVusfDSuwhabfp9smIXqvRC78RYaNw0yd00GqpQjjHrcdaHL1voDiNh72NBRfHQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:12:34+00:00	twilight-user	{%22authToken%22:%2242q3odwflzzoor01qdiovkr2ov3u4h%22%2C%22displayName%22:%22e_victoria502_a%22%2C%22id%22:%22214790749%22%2C%22login%22:%22e_victoria502_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:12:34+00:00	auth-token	42q3odwflzzoor01qdiovkr2ov3u4h

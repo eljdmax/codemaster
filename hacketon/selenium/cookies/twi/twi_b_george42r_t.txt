@@ -1,0 +1,13 @@
+#b_george42r_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kOgwLvZbxj4ZYpDrrTeCdpXBgDwkvxOO0rJr7bmRIKA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:14:16+00:00	unique_id	2001e6c5e4d8173a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:14:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:14:36+00:00	persistent	214566666%3A%3Auq2dois76gyslmy1bxxa9lljihyyt1
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:14:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjY2NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4MDc3LCJpYXQiOjE1MjM4MjMyNzd9.uuuUb4wFDsdVsNaVGm_ffn0OzcfMeZEOFPgsUTNYCWQ8rbkFvvruu10sSRpNnTRCy2jFPeIWUR1iswtnYjNTYg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:14:36+00:00	login	b_george42r_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:14:36+00:00	name	b_george42r_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:14:36+00:00	last_login	2018-04-15T20:14:37Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:14:36+00:00	api_token	70d4751263a77e9d86d8109dbe3dfb37
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:14:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZ2VvcmdlNDJyX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc1Mjc3LCJpYXQiOjE1MjM4MjMyNzcsIm5vbmNlIjoiOTg1cWpIMjBNUVdyZkNTeGJ6Sm5adXBDNEZmYWw3VXB3SzBEN3ZDcGI1QT0ifQ%3D%3D._sDwT0ziGOOaNqr7wy4GG-ItMr1Bif6looXgb67u_mwad-q-mJPcGLUAd1KMFX9UEWaUTRMvCbcnyGu9H-Pbwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:15:16+00:00	twilight-user	{%22authToken%22:%22vyxtj35e39i0kix5xqseqp364wm3yv%22%2C%22displayName%22:%22b_george42r_t%22%2C%22id%22:%22214566666%22%2C%22login%22:%22b_george42r_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:15:16+00:00	auth-token	vyxtj35e39i0kix5xqseqp364wm3yv

@@ -1,0 +1,13 @@
+#x_eduardoi5u_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qnuNvAF7M%2FXRpWsKEVnQmxwvMOhOMn4bKcSrCLmd4aY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:29:37+00:00	unique_id	5c375fe2b488c20e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:29:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:29:53+00:00	persistent	214781963%3A%3A5kz2e49z1dr5p9er5pm1zmy2onx89e
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:29:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODE5NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1Mzk0LCJpYXQiOjE1MjM5MTA1OTR9.Hh1j2uT33dUKGfAQU2qlqDnz3O0rTJ5A37F_sUPyciixIcBIjHBJIgQX6Uo8jJ_3ucTvxaC2hN08uEPjdiE70Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:29:53+00:00	login	x_eduardoi5u_7
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:29:53+00:00	name	x_eduardoi5u_7
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:29:53+00:00	last_login	2018-04-16T20:29:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:29:53+00:00	api_token	87c14704ca3bc729862a1ca278f99a98
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:29:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZWR1YXJkb2k1dV83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2MjU5NCwiaWF0IjoxNTIzOTEwNTk0LCJub25jZSI6ImlOeGZPR2F4azVWQ1p5N1dMSm5vV1F1N3JveWlvWUs4cThHNUxMWEYxSGs9In0%3D.I-7iUxQqLh7m95ZMFNrXW3brmGCXnjl93sWCRxg0Pj-oQgPuU-fngxNVwTO6zppbdy3FPbt2zt6x4Vy64zvOFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:30:37+00:00	twilight-user	{%22authToken%22:%22ok01byxt57pxb2in564r4mgya67w5h%22%2C%22displayName%22:%22x_eduardoi5u_7%22%2C%22id%22:%22214781963%22%2C%22login%22:%22x_eduardoi5u_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:30:37+00:00	auth-token	ok01byxt57pxb2in564r4mgya67w5h

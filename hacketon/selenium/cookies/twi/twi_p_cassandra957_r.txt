@@ -1,0 +1,13 @@
+#p_cassandra957_r
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:07:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	chf44LhIxe3iZTqiwiZV%2Ba1u5SwZLLSfKlV56hkbtE8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:10:41+00:00	unique_id	2fd8b3db1af23f94
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:11:04+00:00	persistent	215059009%3A%3Ad12pho20ahj5eoh1r1zuhhrfks072l
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:11:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTkwMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNjY0LCJpYXQiOjE1MjM5OTU4NjR9.s4iOG6rOdCNIFDjiA-4wU5LcRd5ZJ7ervF5_spAgRidLXOFYlchyHGmRYk4J-9sKdAlJOgMlvaYYWuCNfZEqNA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:11:04+00:00	login	p_cassandra957_r
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:11:04+00:00	name	p_cassandra957_r
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:11:04+00:00	last_login	2018-04-17T20:11:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:11:04+00:00	api_token	11d96bedf8e3c7252c1e393879f32d4c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfY2Fzc2FuZHJhOTU3X3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ3ODY0LCJpYXQiOjE1MjM5OTU4NjQsIm5vbmNlIjoiblVQRzJJekNxcXFyUWZlMjVwX0tqOVI0elZWR2taYUVpekRkSTNDSkFsND0ifQ%3D%3D.2okFyVTQerkl-GGXfO8JSre8DFPLbPWOLdBPrLtnN5sLuPpU7byRJaRLdhApPuMqgDcBmkyGjpn3WHJan7mYLQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:11:53+00:00	twilight-user	{%22authToken%22:%2293updp89c45zilll19c2q7d67abpo2%22%2C%22displayName%22:%22p_cassandra957_r%22%2C%22id%22:%22215059009%22%2C%22login%22:%22p_cassandra957_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:11:53+00:00	auth-token	93updp89c45zilll19c2q7d67abpo2

@@ -1,0 +1,13 @@
+#h_amyj4k_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	OfH3rNsxyBIbuA6ETK946h8tecl%2BUgY3gWBSJwRasVs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:35:27+00:00	unique_id	b225c463a6a40e2b
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:35:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:35:43+00:00	persistent	214813571%3A%3Aiavzu5td8u8xl3eo7m5xp5omnc1u6u
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:35:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTM1NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyOTQzLCJpYXQiOjE1MjM5MTgxNDN9.pk9RpCuv9XpS1ahWu2jWL4rHR6JgBo_idqEv-qrU19-vBk8IvOguuHQv7LyUiCAvwoBxgWlFf4-AioqOo1wWlA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:35:43+00:00	login	h_amyj4k_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:35:43+00:00	name	h_amyj4k_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:35:43+00:00	last_login	2018-04-16T22:35:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:35:43+00:00	api_token	1385fedf63a6014fb10523751a46f8a1
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:35:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYW15ajRrX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcwMTQzLCJpYXQiOjE1MjM5MTgxNDMsIm5vbmNlIjoiZjRnTUdMazBZbmRLUDF2eHlxWDFvWE1RdFRxb3hZNWlrbXdMTUptNkZ0QT0ifQ%3D%3D.vpuVGKjuQeyvinDIbOaqSeDTv-4FZLm7JeSQjvzxru5ev1CrGQnN8HUpteLLougT5a-Mv61oEYdP49QxRF3taw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:36:27+00:00	twilight-user	{%22authToken%22:%22k50h15bhid6np7gh5rv6zyzeac99fu%22%2C%22displayName%22:%22h_amyj4k_o%22%2C%22id%22:%22214813571%22%2C%22login%22:%22h_amyj4k_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:36:27+00:00	auth-token	k50h15bhid6np7gh5rv6zyzeac99fu

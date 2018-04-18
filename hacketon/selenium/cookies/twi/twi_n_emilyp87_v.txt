@@ -1,0 +1,14 @@
+#n_emilyp87_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YMYvqcJpnAXPWOra5ww%2BWMllAJXKTxTbLbS7l5L33I4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:33:10+00:00	unique_id	17acab9c41b8b803
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:33:10+00:00	_twitch_session_id	835f008d637e79596790fb26c793fb1f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:33:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:33:33+00:00	persistent	214584078%3A%3Axfv66dy6tvs4zwf63qsxjb8o7pv6nx
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:33:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODQwNzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyODE0LCJpYXQiOjE1MjM4MjgwMTR9.SjII26ljykab-Y0EwW9MEXHctdRGTSbCtn9SC_b5CjgIrh5682-bXD25PG_oz3DQZSeRY54R-pm1zKchMWVE_g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:33:33+00:00	login	n_emilyp87_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:33:33+00:00	name	n_emilyp87_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:33:33+00:00	last_login	2018-04-15T21:33:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:33:33+00:00	api_token	cf15e97ef89a44764834663e5d65f303
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:33:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fZW1pbHlwODdfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODAwMTQsImlhdCI6MTUyMzgyODAxNCwibm9uY2UiOiJlQTRUVUVydmZjWE1nN1ljMWR6cVUtZThPYm9JTk1WZXFwQVFkZ1Y5MTFVPSJ9.fATIUTFeaBjwpKmAa6g726zXnX7QNmAiJAPvHnyfCHRlL4Yzo-X8a3snY4uTeoHSgCgRhMeOCTptCDZKTi33yg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:34:13+00:00	twilight-user	{%22authToken%22:%2216a5p0s4r6gbngsl42lnx5ypsbtnaa%22%2C%22displayName%22:%22n_emilyp87_v%22%2C%22id%22:%22214584078%22%2C%22login%22:%22n_emilyp87_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:34:13+00:00	auth-token	16a5p0s4r6gbngsl42lnx5ypsbtnaa

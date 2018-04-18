@@ -1,0 +1,13 @@
+#t_angela76r_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GkJ0O1pY%2FsYeXP0HlZ%2ByH68h2gVybGEUJwDb8wnW4z0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:42:31+00:00	unique_id	8d288e7cb9baf40d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:42:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:43:02+00:00	persistent	215081396%3A%3Atojnam9j03904g7xjmbncyuogb4n73
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:43:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODEzOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2MTgyLCJpYXQiOjE1MjQwMDEzODJ9.31PTdHTcGL1qkOZ_byz8qi6M7EZWqvCSig5y005ycJtf8IoBnFwIx6WBgElw8N8NGfkHwP-Wo5A9f6wgkv4C8A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:43:02+00:00	login	t_angela76r_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:43:02+00:00	name	t_angela76r_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:43:02+00:00	last_login	2018-04-17T21:43:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:43:02+00:00	api_token	4859ce18f454d71b33c797f7818060ea
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:43:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYW5nZWxhNzZyX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUzMzgyLCJpYXQiOjE1MjQwMDEzODIsIm5vbmNlIjoiOElEVVVYLXdBa19mUTVmSkdyVmg2YzlUT3VvYnV0cUpqaER1blJBVFgtUT0ifQ%3D%3D.DObKBxbPgpCITMkzaTQdBLLHmXSovHgwf_GXCwKO1dJVd_kavaxxsz9gWyJtHnr-az3kPKCR-wuoflt3IWkgBw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:43:50+00:00	twilight-user	{%22authToken%22:%22wpogstx990c4gydjxbvwgpc4jni7nd%22%2C%22displayName%22:%22t_angela76r_u%22%2C%22id%22:%22215081396%22%2C%22login%22:%22t_angela76r_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:43:50+00:00	auth-token	wpogstx990c4gydjxbvwgpc4jni7nd

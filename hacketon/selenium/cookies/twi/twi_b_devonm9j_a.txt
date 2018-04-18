@@ -1,0 +1,13 @@
+#b_devonm9j_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3lBzBZQQVr5YW6WQRwxmKDtGBSHCJHsuQEQ1SdiRq0I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:51:38+00:00	unique_id	09ab02d4f35ee444
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:51:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:52:01+00:00	persistent	214587678%3A%3Af305x69g2wgtybltptsre6we07fg84
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:52:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODc2NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzOTIxLCJpYXQiOjE1MjM4MjkxMjF9.f4O5wmqdWSModvQei4FA17Cl1PhYA-Gylg00aHM7TZBb_j4vymViqQeD1CnMRqJof9jGdQ1K65C6kG_afNtk0w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:52:01+00:00	login	b_devonm9j_a
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:52:01+00:00	name	b_devonm9j_a
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:52:01+00:00	last_login	2018-04-15T21:52:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:52:01+00:00	api_token	a8303461cc686e1cbddf7dd4783c09d8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:52:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZGV2b25tOWpfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODExMjEsImlhdCI6MTUyMzgyOTEyMSwibm9uY2UiOiJ3Rm5BYkR2Y2V4TUU2aTBJSWRpMkNFS3B4RkZqUUc2ckdMMWg2bFNtTWVZPSJ9.knz-E6U_dLEJWqbHHGZ3bPGgwOimyw23IOdOpXgStJY8rlykv-e-yi4OFS3hHBIo9roQZFZAqK5O5_Pb7gNQ3w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:52:40+00:00	twilight-user	{%22authToken%22:%224h6ttzagexvurv95s8zr4v179ld76b%22%2C%22displayName%22:%22b_devonm9j_a%22%2C%22id%22:%22214587678%22%2C%22login%22:%22b_devonm9j_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:52:40+00:00	auth-token	4h6ttzagexvurv95s8zr4v179ld76b

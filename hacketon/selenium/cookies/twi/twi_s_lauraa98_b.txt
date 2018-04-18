@@ -1,0 +1,14 @@
+#s_lauraa98_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Vjj33fMBinIYs3V8%2F5GnxPEeJcoBU%2F7%2B5tB0cdBGWT8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:02:59+00:00	unique_id	6f9d995efe68a68d
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:02:59+00:00	_twitch_session_id	d0e7b5f184711828acd2c68fb3f313e7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:03:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:03:21+00:00	persistent	214788876%3A%3Abxlxq9v24qf4bh37ahkjzaalmw2zbx
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:03:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODg4NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3NDAxLCJpYXQiOjE1MjM5MTI2MDF9.fOPYVPhKlpwpvEg7Z0ori2TOjJ1lKfhrsSdGFWBP5zclb6fjYNhPXBUPVcd7UXX6RzDzVf2Ikbvad0zkh5s-EA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:03:21+00:00	login	s_lauraa98_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:03:21+00:00	name	s_lauraa98_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:03:21+00:00	last_login	2018-04-16T21:03:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:03:21+00:00	api_token	a90e3ab069e029d21ef28cfd1f0a45c4
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:03:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbGF1cmFhOThfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQ2MDEsImlhdCI6MTUyMzkxMjYwMSwibm9uY2UiOiJCdDNWeFIwWnFqQ2YxLTYxNEd4TkVROGZiXzlKQUdkNTVFYTB2c0xDYkZRPSJ9.GI1HKymRj7I8pvimn6PoUy7d0mV-Hy3d3dSXcXufQDcLANSx_k-objCzHjymfQL9W1dNK62mz8jKd5kFgObhXQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:04:06+00:00	twilight-user	{%22authToken%22:%22tvb7xtewa7mgucsq279uy24f2i7xp4%22%2C%22displayName%22:%22s_lauraa98_b%22%2C%22id%22:%22214788876%22%2C%22login%22:%22s_lauraa98_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:04:06+00:00	auth-token	tvb7xtewa7mgucsq279uy24f2i7xp4

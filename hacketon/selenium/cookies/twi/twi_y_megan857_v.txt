@@ -1,0 +1,13 @@
+#y_megan857_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Zg7h5HhMokHhjvJuUydMtiRJOdxpfrxSQDIAmuXoySs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:42:00+00:00	unique_id	45ae7c5fd4086c03
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:42:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:42:19+00:00	persistent	214784338%3A%3Aspakgk3ioxoep7jr8558iurm15ywt6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:42:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODQzMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MTQwLCJpYXQiOjE1MjM5MTEzNDB9.v9lUf_7-zp8-sCdXqB2ppSyQ4Ke_9140DylZVcBIuvftzn5sskpAntAw2A2O6MAM6USjPaevE4mi1iWiAwTNwA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:42:19+00:00	login	y_megan857_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:42:19+00:00	name	y_megan857_v
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:42:19+00:00	last_login	2018-04-16T20:42:20Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:42:19+00:00	api_token	a76d4ed35024ccbf973e54d02285ef1e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:42:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWVnYW44NTdfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjMzNDAsImlhdCI6MTUyMzkxMTM0MCwibm9uY2UiOiJPTk1NWkhqeW5icFhiaGdEMlBuLWZmN2dVbzlkRExKR1hRSV9xd2V0Y1dJPSJ9.xOC3PkzYR48lSqEZcGNlanjhm9-92I8CBHzy8n-ifCJmlRRT4-Vh0dMGtFxI3JHzw1PDTLEwXD2sZk76VNK_Yg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:43:06+00:00	twilight-user	{%22authToken%22:%22l504zkqedza5hhqlxbsi1kna4s1tfy%22%2C%22displayName%22:%22y_megan857_v%22%2C%22id%22:%22214784338%22%2C%22login%22:%22y_megan857_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:43:06+00:00	auth-token	l504zkqedza5hhqlxbsi1kna4s1tfy

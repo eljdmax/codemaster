@@ -1,0 +1,14 @@
+#a_abby83x_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Y%2F%2BXFf9o8xEDxMqt2Hj429%2FWy0%2BBW4DA5NION4dQ5b4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:09:35+00:00	unique_id	0ba67fcd0fe9dd8a
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:09:35+00:00	_twitch_session_id	4f53ac27f7b6d86e1f45763f0408e978
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:09:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:09:55+00:00	persistent	214591149%3A%3Ap240xuebi1tq591n5dzff85fvlmvvj
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:09:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTExNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0OTk2LCJpYXQiOjE1MjM4MzAxOTZ9.LwEwe_PxN36YfGcXC-6bVAd1vUej-pCtVEc2p1klJLB0CdmfkqEoDvNA8u2kQqaIILs09_wj0dmUER9-PR2W4g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:09:55+00:00	login	a_abby83x_q
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:09:55+00:00	name	a_abby83x_q
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:09:55+00:00	last_login	2018-04-15T22:09:56Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:09:55+00:00	api_token	067a810e2590336e46d784c516396615
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:09:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYWJieTgzeF9xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MjE5NiwiaWF0IjoxNTIzODMwMTk2LCJub25jZSI6InFKTE1EUzV4YWZoZjZpbGJ5cnUtUUdSS3lEd2x0M3dLZjVQd2tlR0pxRTA9In0%3D.V-scC4NewM1PnADjXeB-44sb44HvIK-FG3L4njtshcVIRfP4V7wb_r-6R5cFiV0WDxOkcnMbaCtFGDPjK6251w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:10:34+00:00	twilight-user	{%22authToken%22:%22yh6m0ngg957ost32qgzs0a4f8rb427%22%2C%22displayName%22:%22a_abby83x_q%22%2C%22id%22:%22214591149%22%2C%22login%22:%22a_abby83x_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:10:34+00:00	auth-token	yh6m0ngg957ost32qgzs0a4f8rb427

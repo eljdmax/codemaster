@@ -1,0 +1,14 @@
+#r_kelsey158_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yFHM9bT%2BSeWKl461u%2Bu57y9W709zli0BNpbMQCUUt8M%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:58:08+00:00	unique_id	39bb050286d730bd
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:58:08+00:00	_twitch_session_id	7dabb96cce054826ae9a3224fdda360f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:58:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:58:38+00:00	persistent	215084835%3A%3Ad6qihiuf83bouijmjulxlfr85fdmy1
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:58:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODQ4MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3MTE4LCJpYXQiOjE1MjQwMDIzMTh9.JL7uzrihr6bjI3cXeYlzcWuPoTmqEiPcpSIqpYLAH1Z9i-8jzgvnTpshs5gYyW-ItwgGVosTAdUOCv2XpCwBuw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:58:38+00:00	login	r_kelsey158_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:58:38+00:00	name	r_kelsey158_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:58:38+00:00	last_login	2018-04-17T21:58:38Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:58:38+00:00	api_token	4f7307f74c11242064babf9c68f3fd24
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:58:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfa2Vsc2V5MTU4X2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU0MzE4LCJpYXQiOjE1MjQwMDIzMTgsIm5vbmNlIjoiSUFqTlVuR0N3dlJ5eWdZZzJFeHFCaUpfZjBMeG5nRFhYY3hQQVZlWkltUT0ifQ%3D%3D.o2-miHiZ9IQ4dBf5uxJMthJolxCOQheppLJNeUqeisiX5hqlwGpR4LLD9pXJpPMDP6EUJi4vzI6vizES_Fmwmg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:59:27+00:00	twilight-user	{%22authToken%22:%22o0500vav2f8milm8dtv2xds9xiyh9x%22%2C%22displayName%22:%22r_kelsey158_k%22%2C%22id%22:%22215084835%22%2C%22login%22:%22r_kelsey158_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:59:27+00:00	auth-token	o0500vav2f8milm8dtv2xds9xiyh9x

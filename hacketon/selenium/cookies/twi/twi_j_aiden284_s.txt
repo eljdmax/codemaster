@@ -1,0 +1,14 @@
+#j_aiden284_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DQj2vlhYdbip5oARXT0Ds3InvXOXAfHj8ahiCTrfzN0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:18:41+00:00	unique_id	e16e8305eeb4e190
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:18:41+00:00	_twitch_session_id	d77eda995e642b45abe62ce7c7583494
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:18:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:19:09+00:00	persistent	214592932%3A%3Aqzftgd9ufiledgrs6zis1roak877tg
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:19:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTI5MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1NTUwLCJpYXQiOjE1MjM4MzA3NTB9.h3BIjygxqHjVO4CsPjTq57DV8NE5dzMbhLECkhrOUjYY5rO4NyoHRPZ0E4ndtVmq9VTy3lb1beupWyIHIQFesA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:19:09+00:00	login	j_aiden284_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:19:09+00:00	name	j_aiden284_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:19:09+00:00	last_login	2018-04-15T22:19:10Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:19:09+00:00	api_token	a0b27d9b462c412873853b0da816fac5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:19:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWlkZW4yODRfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODI3NTAsImlhdCI6MTUyMzgzMDc1MCwibm9uY2UiOiI3RUNSemxtb2toRFlqWnFGUzNDa2ZzaS1KcGh2bzN3ZjViV2RYV0kwbTBjPSJ9.3KvDGGc0iIlzTsHdWhwUSmxB1Est5vuZA0tWh6FvxXhY81vgAul-iMkADaN935f2qtV6r53zRvHE2jkkl3N5Xg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:19:48+00:00	twilight-user	{%22authToken%22:%225nvypin8zdyecaw7x6gu35wx7pgamo%22%2C%22displayName%22:%22j_aiden284_s%22%2C%22id%22:%22214592932%22%2C%22login%22:%22j_aiden284_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:19:48+00:00	auth-token	5nvypin8zdyecaw7x6gu35wx7pgamo

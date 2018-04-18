@@ -1,0 +1,13 @@
+#q_elizabeth82z_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WfqxbgrZ7XldaOXdgQfoTiELpGvTaQvgPXMJYrKGcQc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:02:07+00:00	unique_id	f63f1c5d85122e88
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:02:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:02:27+00:00	persistent	214563720%3A%3A176xah9nxbte8234ta7ajoz6ui7f0y
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:02:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjM3MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MzQ4LCJpYXQiOjE1MjM4MjI1NDh9.C6Py_pxsnUvt9_Z4YtKIjZPlR699P27aDqBLg7VFEirwH209bAn-UfbHgKntPnatwO7psI6_-I_VS7i527IC2w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:02:27+00:00	login	q_elizabeth82z_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:02:27+00:00	name	q_elizabeth82z_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:02:27+00:00	last_login	2018-04-15T20:02:28Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:02:27+00:00	api_token	e21aae82ea32156a80ef001c297076d7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:02:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfZWxpemFiZXRoODJ6X3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc0NTQ4LCJpYXQiOjE1MjM4MjI1NDgsIm5vbmNlIjoibmQ3Nk13c2VBSWU1a1pLbWt3UkFhYW5ZckJWVERMRTBWQ3lGejhZWE1GST0ifQ%3D%3D.J09Tp1jG4aVE1zXRnyXTTAg6Zc6r8CEaGeGvoEhypw99-5dUPDSTQHeD_y3vLxEiroTyXifh58JW1GTN8wlwNw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:03:07+00:00	twilight-user	{%22authToken%22:%2205tec72trvo8cwru340os7n7dpc700%22%2C%22displayName%22:%22q_elizabeth82z_s%22%2C%22id%22:%22214563720%22%2C%22login%22:%22q_elizabeth82z_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:03:07+00:00	auth-token	05tec72trvo8cwru340os7n7dpc700

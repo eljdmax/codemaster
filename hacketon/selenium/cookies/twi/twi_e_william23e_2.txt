@@ -1,0 +1,13 @@
+#e_william23e_2
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:52:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VeqYu79Y31OTRmHANxGT5X4Wr7G%2BSSmiyDdZXdfvVDE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:52:39+00:00	unique_id	8eba9632f1812934
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:52:56+00:00	persistent	215083525%3A%3Aszer57wi2pshlowxbku35nfk5lq74s
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:52:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODM1MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2Nzc2LCJpYXQiOjE1MjQwMDE5NzZ9.2iGj8bBd5bIuWTQbGkeE-P4f6KKfqWc9TmDFz6vmqm2ER52VImfeBNtd2CAiTHU-nU5QeLXUgwSliIVnThhu9w==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:56+00:00	login	e_william23e_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:56+00:00	name	e_william23e_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:56+00:00	last_login	2018-04-17T21:52:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:52:56+00:00	api_token	fbcd6e9f39b216c222b5419cfa0bfc05
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:52:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfd2lsbGlhbTIzZV8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1Mzk3NiwiaWF0IjoxNTI0MDAxOTc2LCJub25jZSI6ImpnZER6M1R4MGN2MUNmdkR6YnVoOWVRaHFTb2tMMnNHajVqeE1JQ05QTDg9In0%3D.LQnUnwpXkpZE-QrrCJqkPhyJBxaJL9dZ-KrV25hFZCLSWbD3OnobClUdEtGXzAy7hAsW07bi-K-Hhic92C4cMA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:53:44+00:00	twilight-user	{%22authToken%22:%22goy8oiotx5e1x2gb3tbsqvdzptanfz%22%2C%22displayName%22:%22e_william23e_2%22%2C%22id%22:%22215083525%22%2C%22login%22:%22e_william23e_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:53:44+00:00	auth-token	goy8oiotx5e1x2gb3tbsqvdzptanfz

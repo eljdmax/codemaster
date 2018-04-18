@@ -1,0 +1,13 @@
+#g_hannah138_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FmhRGXu%2B7tMFm69XlkdEQPzWow1czZSt1J5b4i0SBEQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:08:00+00:00	unique_id	c0c2bda9a84e1c4b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:08:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:08:16+00:00	persistent	215087032%3A%3A3hacvinnbtsf6js74ogwa5rgigsx2o
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:08:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODcwMzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3Njk2LCJpYXQiOjE1MjQwMDI4OTZ9.DVQKXTnwYPmxcVgsoNjE-lkkAXC9CXuTNGa_8jm-10CjTU6kMe9HVTL8bye0lUe-4qZ-MozSpHv1nvYzN-pRUw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:08:16+00:00	login	g_hannah138_r
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:08:16+00:00	name	g_hannah138_r
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:08:16+00:00	last_login	2018-04-17T22:08:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:08:16+00:00	api_token	562fd731ad5478f93c60b3ce80bc44e4
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:08:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfaGFubmFoMTM4X3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU0ODk2LCJpYXQiOjE1MjQwMDI4OTYsIm5vbmNlIjoibkdOZnNmaTZiR1daSmkxMktaSjM5YmJQVXFEaDJfXy1zZzE3cDBXTzVycz0ifQ%3D%3D.NW-FalOvhYwkRZLi66TOx717y2INYYc_YETCFpvs7qv6_Vdl6SIU12wm2nDsbFj-BQRFpZA6Ig7FuI89D2sF_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:09:04+00:00	twilight-user	{%22authToken%22:%22ipc4n6lgo61uxzfk2oxq3erozgvi83%22%2C%22displayName%22:%22g_hannah138_r%22%2C%22id%22:%22215087032%22%2C%22login%22:%22g_hannah138_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:09:04+00:00	auth-token	ipc4n6lgo61uxzfk2oxq3erozgvi83

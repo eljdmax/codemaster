@@ -1,0 +1,14 @@
+#y_adam07c_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	282Ncw5%2FEOqeUNBrLkRNDyxXpz1eK6lNJ58h7il4%2B2E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:30:38+00:00	unique_id	04cc5aa9fad3bd14
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:30:38+00:00	_twitch_session_id	af85912cb18d1c3252feaa0c1ccde56c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:30:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:31:05+00:00	persistent	214811364%3A%3Anab1iewtz832x8hreqaabag3oipnk1
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:31:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTEzNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyNjY1LCJpYXQiOjE1MjM5MTc4NjV9.G10CYmLWQGktbn_bPdn16gk_K3-YfYoW6idoZi9AB4AmGmsnXZnqZpGcZODnVRHXbOqLJ07wiCmGV9o5f2TaoA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:31:05+00:00	login	y_adam07c_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:31:05+00:00	name	y_adam07c_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:31:05+00:00	last_login	2018-04-16T22:31:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:31:05+00:00	api_token	be55c8af9975fe7dcf4f052f0b1e0955
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:31:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYWRhbTA3Y195IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2OTg2NSwiaWF0IjoxNTIzOTE3ODY1LCJub25jZSI6IkRqUDVRdnB3OVlISnVDZUdKZUltTnR6dHdZZFFGUHRwSG5wMEJlNGNfeVU9In0%3D.DayOEN7JW5abCvBkKUUZs1JmR1roz2FcFQXNg3rTr0VrnIGM5Fp5s1PrqxIetqFYoSdUMi8MMf5GP6uXQ1pbkw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:31:50+00:00	twilight-user	{%22authToken%22:%22l5gy322ke00iaecahbet3vimdpe4kg%22%2C%22displayName%22:%22y_adam07c_y%22%2C%22id%22:%22214811364%22%2C%22login%22:%22y_adam07c_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:31:50+00:00	auth-token	l5gy322ke00iaecahbet3vimdpe4kg

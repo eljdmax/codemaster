@@ -1,0 +1,13 @@
+#m_jamesv16_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yOzVN3NKW%2B4vefdlp2CDWgK5SQWHkUTDoOl3XsytN%2Fg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:07:04+00:00	unique_id	01bcbb164219e715
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:07:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:07:24+00:00	persistent	214789743%3A%3Apy3outtd8xi394u9mc9un36wmff89b
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:07:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODk3NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3NjQ0LCJpYXQiOjE1MjM5MTI4NDR9.fSuEWiz9U4TrRLokQJa9c_Wg7V6envz0SW6moUJ2ihFb4eXqlmp8194PxgpUmnij4AcpXtluN3v7GSEXCbrYRw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:07:24+00:00	login	m_jamesv16_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:07:24+00:00	name	m_jamesv16_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:07:24+00:00	last_login	2018-04-16T21:07:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:07:24+00:00	api_token	97b63610246b6991e8f26ca5f872f241
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:07:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1famFtZXN2MTZfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjQ4NDQsImlhdCI6MTUyMzkxMjg0NCwibm9uY2UiOiI2c2Zfbkgxd2pqZF9nWmpYOFdLWlVNOXRxZzJrc0U4WGVocDBiTEdIejNnPSJ9.BQ9UvhBUUa6EOy56L1EFJLFmph_5GQJFdgO_0rEYuhkAFzU48zfM8FZzvcnmZtbIuJEuRzw2FaR1nnyV7fUIzA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:08:09+00:00	twilight-user	{%22authToken%22:%22mwwsabyvtov19se2uodgu4e3r82b44%22%2C%22displayName%22:%22m_jamesv16_6%22%2C%22id%22:%22214789743%22%2C%22login%22:%22m_jamesv16_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:08:09+00:00	auth-token	mwwsabyvtov19se2uodgu4e3r82b44

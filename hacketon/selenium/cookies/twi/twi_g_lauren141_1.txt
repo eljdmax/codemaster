@@ -1,0 +1,14 @@
+#g_lauren141_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VgEQ8%2Fc7kf8QrISov8g3SACRVsNRVuZ8hUXLQBvIG%2Bo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:29:59+00:00	unique_id	aa6620be7fbee895
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:29:59+00:00	_twitch_session_id	fc3eb551843774af5068cbc0d6e24b2e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:29:59+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:30:23+00:00	persistent	214555433%3A%3A28fhjhpmhi11dspx91s5bea6h4jsm0
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:30:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTU0MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NDIzLCJpYXQiOjE1MjM4MjA2MjN9.DAKn1Ka6CxTw2BAj_bab20rYFd-uhyoIeoCUc58wY2_lBQLxipR9Qf5E48DuHdbaaBdgno8V3o64z80HlCumtw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:30:23+00:00	login	g_lauren141_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:30:23+00:00	name	g_lauren141_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:30:23+00:00	last_login	2018-04-15T19:30:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:30:23+00:00	api_token	0dbbbb3a8f1ea0c657d75b591793aef2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:30:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbGF1cmVuMTQxXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyNjIzLCJpYXQiOjE1MjM4MjA2MjMsIm5vbmNlIjoibzhLMTluMFYyM05UWldkc1pDeWIzZ29PNGNXbVRpMU1uWEN6WkY4cEJVUT0ifQ%3D%3D.YOw5XolkZXZ4XG1PCsDJqhWKcuqUz_lEMhiw80ayWcVsgDNts49vthPryD_6nsapjSpXgKJL-wmZre8BjqaNKw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:31:03+00:00	twilight-user	{%22authToken%22:%22fu00l384o183w1tfdjyeqa78tfpuht%22%2C%22displayName%22:%22g_lauren141_1%22%2C%22id%22:%22214555433%22%2C%22login%22:%22g_lauren141_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:31:03+00:00	auth-token	fu00l384o183w1tfdjyeqa78tfpuht

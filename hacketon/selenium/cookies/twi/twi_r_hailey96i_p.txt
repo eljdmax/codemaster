@@ -1,0 +1,13 @@
+#r_hailey96i_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BliMNn4LjT5yaziTwQd9yF%2BGPKS3%2B4eVymuGjyx5A6g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:50:43+00:00	unique_id	f7b915be6e2ecefe
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:50:43+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:50:59+00:00	persistent	214587467%3A%3Aeow8t874szcypa4exngik0r1gtxz0n
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:50:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODc0NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzODYwLCJpYXQiOjE1MjM4MjkwNjB9.m4Bb07dA3H2SldRP1wZ2sEM-Y7leOKVGTfA0zX2Xe43rAEaU_ahPOawfilFg_VnhYu8_u7w5IXkvb9qUpkbjnw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:50:59+00:00	login	r_hailey96i_p
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:50:59+00:00	name	r_hailey96i_p
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:50:59+00:00	last_login	2018-04-15T21:51:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:50:59+00:00	api_token	f3b3424391a0bc52ff99d83070f7e31c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:50:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfaGFpbGV5OTZpX3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxMDYwLCJpYXQiOjE1MjM4MjkwNjAsIm5vbmNlIjoieTJZX3hJUFJvUzBFZ0lLbjd0UllXRUlGcVJ2b216NGNwV0tFVk4xeDlLaz0ifQ%3D%3D.ll7Sj0e9043y9JYpoFB23WoKLXUYylSk5JmPCLHAsqVlIe9P5hn7deRP5UaZjW0s5gcwxFziYBK9yMQd3rHXiQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:51:39+00:00	twilight-user	{%22authToken%22:%226tf0oujcmz1co1oflu8tyzqq8awi26%22%2C%22displayName%22:%22r_hailey96i_p%22%2C%22id%22:%22214587467%22%2C%22login%22:%22r_hailey96i_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:51:39+00:00	auth-token	6tf0oujcmz1co1oflu8tyzqq8awi26

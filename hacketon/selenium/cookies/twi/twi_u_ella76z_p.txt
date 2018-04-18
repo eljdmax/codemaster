@@ -1,0 +1,14 @@
+#u_ella76z_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nO9VNRZ7hNrG9JTsOWf9OsjnrqAIcU3bZ4I2qHPg8fU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:13:48+00:00	unique_id	8735548e3122668f
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:13:48+00:00	_twitch_session_id	4d3e66c0b3a57a1b37fe5661493f2f10
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:13:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:14:14+00:00	persistent	214802941%3A%3Aib53tq1yvyuhczsxx2a904ac56050a
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:14:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDI5NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNjU0LCJpYXQiOjE1MjM5MTY4NTR9.EXhRfWETuYE3LpCyyDVHhGjDvLcLS66jOPXPPU1D5Ynf81INDGGgx6-lb_o4NNL3bSujA2NWaNhPEyL9bHrcLA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:14:14+00:00	login	u_ella76z_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:14:14+00:00	name	u_ella76z_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:14:14+00:00	last_login	2018-04-16T22:14:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:14:14+00:00	api_token	2b508a38acb64364fc0b500b7710aff3
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:14:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZWxsYTc2el9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2ODg1NCwiaWF0IjoxNTIzOTE2ODU0LCJub25jZSI6IkxxUFV0Zm9uejhlamF5R0hHeTJBTjkyTjEyVXBwZmZIallHS3dDSlNLR2s9In0%3D.DUbgvZS3eilrUNCe4s_T04HU35g_3ombzaqL4lKpwhfYjXg3aeUGlM0PIqqU4J1OiSwQ_Kk3VsC7Qik0NaDAJg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:15:00+00:00	twilight-user	{%22authToken%22:%22lhet9txqaf9a9ku610v353jtrjgu73%22%2C%22displayName%22:%22u_ella76z_p%22%2C%22id%22:%22214802941%22%2C%22login%22:%22u_ella76z_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:15:00+00:00	auth-token	lhet9txqaf9a9ku610v353jtrjgu73

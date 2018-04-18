@@ -1,0 +1,14 @@
+#t_henryb33_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Mja%2Bn408ZZRgTuiA1WqkwVnpAFN7T8BLTGA99ZUYPSQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:34:36+00:00	unique_id	84fd89f82f62779d
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:34:36+00:00	_twitch_session_id	c2505efa07e8d096314c77eaf4f9e9ae
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:34:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:35:05+00:00	persistent	215092806%3A%3Awbfrk3d0pg52vjo38azgbtgqgslkcl
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:35:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTI4MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA5MzA2LCJpYXQiOjE1MjQwMDQ1MDZ9.Zd8gVtpro2HK4Ze7ijhegxRdK0FNm8b219jx7s0GXxN6EC81ZYEo54jItK2Ky9r6MSsD5bU4lcmxNyxGMVZnuA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:35:05+00:00	login	t_henryb33_h
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:35:05+00:00	name	t_henryb33_h
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:35:05+00:00	last_login	2018-04-17T22:35:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:35:05+00:00	api_token	11a47cb0cfc75213538a1dea2254fc34
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:35:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfaGVucnliMzNfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTY1MDYsImlhdCI6MTUyNDAwNDUwNiwibm9uY2UiOiJ2NFQ2dV96dHhBOGw1WURSazV0MVZDVlZyZW93dGNmNDVHdnE0UUxPT0IwPSJ9.qxc1QpcOKRT9DDQcnb6unflXSs3ly5Wo8_9ud69_7VBbeoPUIf5cU0PAHyLwS4fLpwy_exIEbAOq3xmOHEedFg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:36:04+00:00	twilight-user	{%22authToken%22:%22sfmj5ng2tfuz8xnzvb4lirddnxi9rf%22%2C%22displayName%22:%22t_henryb33_h%22%2C%22id%22:%22215092806%22%2C%22login%22:%22t_henryb33_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:36:04+00:00	auth-token	sfmj5ng2tfuz8xnzvb4lirddnxi9rf

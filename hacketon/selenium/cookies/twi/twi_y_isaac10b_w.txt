@@ -1,0 +1,14 @@
+#y_isaac10b_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	r5oR28HjpYh23Lm3QHbyrDCjxIwu26IdoO71iaVp8lw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:15:45+00:00	unique_id	f7653409219137da
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:15:45+00:00	_twitch_session_id	6a039d5ce8362cbfcb286b97439625fb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:15:45+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:16:02+00:00	persistent	215060267%3A%3Ae8f86n0yz851ti514khprdd2ms9nrt
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:16:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjAyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwOTYyLCJpYXQiOjE1MjM5OTYxNjJ9.82jXSLi5L9lZ4it8LVP8T1VGyb5yKef_HUqIxhwplYPwKVQVV3nSegtNYOlnFBsyRw4sUhfZ0YKMaKR4sRdguQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:16:02+00:00	login	y_isaac10b_w
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:16:02+00:00	name	y_isaac10b_w
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:16:02+00:00	last_login	2018-04-17T20:16:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:16:02+00:00	api_token	c24aa72929c37946841f626a3dd4e0b3
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:16:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfaXNhYWMxMGJfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDgxNjIsImlhdCI6MTUyMzk5NjE2Miwibm9uY2UiOiJ6dy1SbC1PMXExc2hXMlJhZ3NfQk1Gc3JlaHFobG5SUk5xRENHUEt5cEJzPSJ9.nhrMgeM1yCVEJkf-EgGAXsA3WK4E720K858O2ODvBrAJmUXHdMf9wKturotw0Het2z0bR83sBnSGbKsGoSytOA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:16:50+00:00	twilight-user	{%22authToken%22:%22gf2obvwvi2yqpvdi07gx82vzbinn45%22%2C%22displayName%22:%22y_isaac10b_w%22%2C%22id%22:%22215060267%22%2C%22login%22:%22y_isaac10b_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:16:50+00:00	auth-token	gf2obvwvi2yqpvdi07gx82vzbinn45

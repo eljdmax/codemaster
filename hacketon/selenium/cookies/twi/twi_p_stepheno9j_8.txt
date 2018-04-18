@@ -1,0 +1,14 @@
+#p_stepheno9j_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lO15eVI4oiuhDqXl%2BIGuYrZ0yhqNmI2SgVv%2BOj917I0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:25:18+00:00	unique_id	0c4d5bf3f4d6c88a
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:25:18+00:00	_twitch_session_id	79943ef272012f17c8c6d0c524870f7f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:25:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:25:45+00:00	persistent	215077511%3A%3A42hgod0m3hzwgittxc42oimft7sg8x
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:25:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzc1MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1MTQ2LCJpYXQiOjE1MjQwMDAzNDZ9.uWfd-HKBxV0Yvx4dezhk05ZONXx7UpIsO5btLANwdE1iCmSn032qnhmWfkp3M4aq0wZekTig8lNFba1A3u9jHw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:25:45+00:00	login	p_stepheno9j_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:25:45+00:00	name	p_stepheno9j_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:25:45+00:00	last_login	2018-04-17T21:25:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:25:45+00:00	api_token	b0571441bfa4dd0d02095d934174ee2b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:25:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfc3RlcGhlbm85al84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjM0NiwiaWF0IjoxNTI0MDAwMzQ2LCJub25jZSI6InhrdmFXb3VTZy11aDdJVy1lUWg5ckpYUGNOT0JGOE9vR0ttNG9xNWNvcGs9In0%3D.-aerJvv3EsIOv-B3K0A-u8p08D7yT5kVkEBaA5UOS2Or7-HhTKBfLIhELoyjMYFdgiVzRt91kTk43zaxnIeHyQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:26:33+00:00	twilight-user	{%22authToken%22:%221pghzz7q93zzcgdjw8m857qta32kdr%22%2C%22displayName%22:%22p_stepheno9j_8%22%2C%22id%22:%22215077511%22%2C%22login%22:%22p_stepheno9j_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:26:33+00:00	auth-token	1pghzz7q93zzcgdjw8m857qta32kdr

@@ -1,0 +1,13 @@
+#j_benjamin561_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YYN8AkV0EEfYYBpx6YD6pxC1puXu%2FoCMK%2BuGexP1yec%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:39:33+00:00	unique_id	c6dd77beecde2960
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:39:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:39:54+00:00	persistent	214585284%3A%3Awll5vsmj6igl86f2bt6jtfj2rpbwdd
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:39:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODUyODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMTk0LCJpYXQiOjE1MjM4MjgzOTR9.qa-3sy4HPzMVUHXwr0nc17_1yPED_vCHobli9I8LOQw1l2PYuISHv2aFjjYT_c7HmmXVm-HYnDd259fkNz_wYw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:39:54+00:00	login	j_benjamin561_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:39:54+00:00	name	j_benjamin561_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:39:54+00:00	last_login	2018-04-15T21:39:54Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:39:54+00:00	api_token	05e1347438710354f356433d37034552
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:39:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYmVuamFtaW41NjFfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODAzOTQsImlhdCI6MTUyMzgyODM5NCwibm9uY2UiOiJRMjdIMm1mUjdBTGhnTVBmMkVxQ09NMC1xajBfSnNpbDJsV0VJRGFNTHVjPSJ9.mnGSiYAU00lTiTc167x96YStBjxxvILPn0mWBe1Xh2ABpmnS-HUBtdXYj85kBm5vMEDHUyg2dUECXc0ZJGHZig%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:40:32+00:00	twilight-user	{%22authToken%22:%22evl2prha6gqmz6t1buzn1wxz6uk2rk%22%2C%22displayName%22:%22j_benjamin561_c%22%2C%22id%22:%22214585284%22%2C%22login%22:%22j_benjamin561_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:40:32+00:00	auth-token	evl2prha6gqmz6t1buzn1wxz6uk2rk

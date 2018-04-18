@@ -1,0 +1,13 @@
+#a_sierrae7y_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ekp3h4RgbbM9%2F49aCcZqTKz6WJa52HUc4uAkJ7%2FlBK4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:13:15+00:00	unique_id	1083010b6487c126
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:13:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:13:42+00:00	persistent	215059673%3A%3Aysk1vopy3jgoai7syvh3o2rp5ehdvd
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:13:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTk2NzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwODIzLCJpYXQiOjE1MjM5OTYwMjN9.Qh-DG0iONrP_rKDXjOjeKK6KVYtUSIlYBYEmDi_b7gL5yRMSrK8yIu1DYTAyMhJMqHD5sdAicmLZFawEO1kKgg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:13:42+00:00	login	a_sierrae7y_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:13:42+00:00	name	a_sierrae7y_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:13:42+00:00	last_login	2018-04-17T20:13:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:13:42+00:00	api_token	046e4f18f7a4d01e00bfb879fe725be5
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:13:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfc2llcnJhZTd5XzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ4MDIzLCJpYXQiOjE1MjM5OTYwMjMsIm5vbmNlIjoiYnNkbnV2cS15QndrM0NVbUN0RjA5MEV5aC1vbzJaRkpadk8xUjlBNWpLUT0ifQ%3D%3D.EfRXgXgWlQRGc5sJT0nakxh3cpG-0dr3vvIaUh3FV6PWXYd21GxzoZL1sSAnhKX5vCyFX2xzMyNpMkZFrvNH6Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:14:30+00:00	twilight-user	{%22authToken%22:%22azye8n843mq2yp2mkouqoffzc55ehu%22%2C%22displayName%22:%22a_sierrae7y_8%22%2C%22id%22:%22215059673%22%2C%22login%22:%22a_sierrae7y_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:14:30+00:00	auth-token	azye8n843mq2yp2mkouqoffzc55ehu

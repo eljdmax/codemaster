@@ -1,0 +1,14 @@
+#w_angelicaa1v_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	h12XOX46hnd68c%2BYIcvT5M1HOufjMkmzs6FC0qKtNh8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:25:19+00:00	unique_id	9f315633d3572b20
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:25:19+00:00	_twitch_session_id	084734367fcdd918053dbb457261a15f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:25:20+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:25:36+00:00	persistent	215062833%3A%3Akxa6o5mdri25csic6yklwe324vcgbu
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:25:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjI4MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxNTM3LCJpYXQiOjE1MjM5OTY3Mzd9.08aLPVzlQiSUYR7kq871wF0ZUC1jMo3AyqNwt5SzXH0TXqiCAp65dIquQJMVUsh9789s3KLeI1tod8EPcFuH_Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:25:36+00:00	login	w_angelicaa1v_i
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:25:36+00:00	name	w_angelicaa1v_i
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:25:36+00:00	last_login	2018-04-17T20:25:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:25:36+00:00	api_token	3fa52d8330e49ca903d851a53854150d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:25:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYW5nZWxpY2FhMXZfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDg3MzcsImlhdCI6MTUyMzk5NjczNywibm9uY2UiOiJiTkM4R2FPaFBFREE0UUVkUG56WTZVS3dxRzFGV2pCQTNwVGxKZEs1eGs4PSJ9.bAe9UXv5mZyWwwswj10KwE8pdg-w7aKPC5PYrQcP5VLWNsziRFwLdSREUaKOyc1XyZctN4CaGH4k27cudA4_MA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:26:24+00:00	twilight-user	{%22authToken%22:%224agpvljnnr8l2rtyeub7ony1cdj0dw%22%2C%22displayName%22:%22w_angelicaa1v_i%22%2C%22id%22:%22215062833%22%2C%22login%22:%22w_angelicaa1v_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:26:24+00:00	auth-token	4agpvljnnr8l2rtyeub7ony1cdj0dw

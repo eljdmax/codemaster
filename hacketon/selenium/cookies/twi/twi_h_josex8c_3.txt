@@ -1,0 +1,13 @@
+#h_josex8c_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	94%2FhHLE2BVanJn8mus7a1RonzdJGj8CESL%2F%2FQQZ8hHY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:13:26+00:00	unique_id	91d86ffa791176c4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:13:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:13:48+00:00	persistent	214566477%3A%3Ar2mletzpf6li004m0g7r9zeoz8813o
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:13:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjY0NzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4MDI4LCJpYXQiOjE1MjM4MjMyMjh9.8sMxKihYtNo9t9vo8GBr4SmtxH3F6m0I1put1DPTEwHT27LuZBvvjKSKq3v1gkQvUOoFY9Lf3qSAhx-Wtds0pQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:13:48+00:00	login	h_jose7x8c_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:13:48+00:00	name	h_jose7x8c_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:13:48+00:00	last_login	2018-04-15T20:13:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:13:48+00:00	api_token	fc108aac8b3d24545163f17304114e97
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:13:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfam9zZTd4OGNfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzUyMjgsImlhdCI6MTUyMzgyMzIyOCwibm9uY2UiOiJCbTJJczR3YnJpZDZrbE9ZQk1pZU1hX0ZiUHd3alJoRUhPNUhHNkFsQ1I0PSJ9.zOqRQb8Tsjbe1sxQ3N4xhNu_bd5AQNq66nrNtPMlOwIEyLWbwdeNHU2u4lXyge4K4_hDpFFb12IDCI9N7zjmwA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:14:29+00:00	twilight-user	{%22authToken%22:%226wet0cwbopgrpp6ss91hc45wek3pgy%22%2C%22displayName%22:%22h_jose7x8c_3%22%2C%22id%22:%22214566477%22%2C%22login%22:%22h_jose7x8c_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:14:29+00:00	auth-token	6wet0cwbopgrpp6ss91hc45wek3pgy

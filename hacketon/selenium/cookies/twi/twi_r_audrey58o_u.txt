@@ -1,0 +1,13 @@
+#r_audrey58o_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vAT3O5n%2FK9OJbikPqfs6DMU7nSJ2%2F6oSxbE8nSIBN6I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:33:12+00:00	unique_id	b9f380b7d1571041
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:33:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:33:26+00:00	persistent	214556203%3A%3Awbnywxt40glirfrpxqydnwwzeo16tg
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:33:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTYyMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NjA3LCJpYXQiOjE1MjM4MjA4MDd9.m2QoSWcAkJY_5OvUi8nTMVLsnFIyhTOXzNPzEgoTEWNTCcXySoF2w1EFTK4WY6ODfBLA3dutiWR0ojZxqCtb3A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:33:26+00:00	login	r_audrey58o_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:33:26+00:00	name	r_audrey58o_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:33:26+00:00	last_login	2018-04-15T19:33:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:33:26+00:00	api_token	959218ef685f5a7f84646642fdbdafa7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:33:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYXVkcmV5NThvX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzcyODA3LCJpYXQiOjE1MjM4MjA4MDcsIm5vbmNlIjoiSUYxaWE4bW1yT3pIZTM4RzlDZXBzNk90RFFYWWFIa3ZQQjh6WUJ0Nlkzdz0ifQ%3D%3D.5OTE0bOw-Q-oJRTsMU4HRiYyZY9V-TzFcTLVvdO4fCxqM-tB5MOI9Wm3eINdPQ2jwDXo4DBJT7d_fDGezVps7w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:34:06+00:00	twilight-user	{%22authToken%22:%22m1insf6m2y6zoszrs7994vo7x5x6xm%22%2C%22displayName%22:%22r_audrey58o_u%22%2C%22id%22:%22214556203%22%2C%22login%22:%22r_audrey58o_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:34:06+00:00	auth-token	m1insf6m2y6zoszrs7994vo7x5x6xm

@@ -1,0 +1,14 @@
+#b_sebastianu7a_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RQZnqFlANqjbgprdU1HIVjWTrQOKAIxifp5yYd8lNHY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:43:30+00:00	unique_id	e6f6b44fe9d352ac
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:43:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:43:47+00:00	persistent	214558993%3A%3Ad9drudd5e1bkly7g4xia5ilfnlktvh
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:43:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTg5OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MjI4LCJpYXQiOjE1MjM4MjE0Mjh9.mx_KUTdCzCMlKbqBi5ehkBbSF6ePY7SIiSpoNKG2zfAi4bjMn-LPw2m6GO1r4rLSaRyf-V9eNOGI12etXthyNg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:43:47+00:00	login	b_sebastianu7a_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:43:47+00:00	name	b_sebastianu7a_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:43:47+00:00	last_login	2018-04-15T19:43:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:43:47+00:00	api_token	1ee3d1ec6ef2f6b04a074788f669d1f2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:43:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc2ViYXN0aWFudTdhX3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzczNDI4LCJpYXQiOjE1MjM4MjE0MjgsIm5vbmNlIjoibnlFYnJPbDJTb1U5SXlXb0VjVmVtcndGS1FzVkJneDNqX2pyVXd3dlBBQT0ifQ%3D%3D.3btdZo57r5NVz4Mz1wLGMthtRqwEt-343-KNAN5TOO2BSEjw8tSEsvdQZlLd1Ufagc4WQGZiB0DwTM1kxXY0OA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:44:27+00:00	twilight-user	{%22authToken%22:%22nvcegcng00eztir4dn45c75sdyhj8y%22%2C%22displayName%22:%22b_sebastianu7a_r%22%2C%22id%22:%22214558993%22%2C%22login%22:%22b_sebastianu7a_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:44:27+00:00	auth-token	nvcegcng00eztir4dn45c75sdyhj8y
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:44:30+00:00	twilight_onboarding	true

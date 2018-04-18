@@ -1,0 +1,13 @@
+#u_crystall7t_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hOtAolO99NPoszylVb0xC43kgINjM%2FsTIW5CfHPaVgk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:34:27+00:00	unique_id	f1da64bc3c100cf8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:34:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:34:49+00:00	persistent	214571422%3A%3Aemnjn2xdejurff7ypur5v87qtzaxe7
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:34:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzE0MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5Mjg5LCJpYXQiOjE1MjM4MjQ0ODl9.5phR4Qe8VQoBF4d8fVrf2f_Lyp8otmZwaRWS_7nNNDw9c2xycs-QUdVbk00syhIbupsmMd0N2PTRPjVXZsCnsw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:34:49+00:00	login	u_crystall7t_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:34:49+00:00	name	u_crystall7t_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:34:49+00:00	last_login	2018-04-15T20:34:49Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:34:49+00:00	api_token	ada098a2430a6e7ec767f0c7fbaeaa25
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:34:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfY3J5c3RhbGw3dF9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjQ4OSwiaWF0IjoxNTIzODI0NDg5LCJub25jZSI6IkY5dmZlMDdieVhZUGRkenFOR3ZTSmcwaVNrV19QVnY4eTd6ak9IUU5HXzA9In0%3D.HDwPU8c8WvdXbiksw5sQz94cOweueIg6B1oXf6wkgI5ZqLcP6v4IypAHUM4-GWGH5dLJIwFJwU3AW2ORG9xjLg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:35:29+00:00	twilight-user	{%22authToken%22:%22gs8w0t0mcw4groed1xxq64y5tmkq2r%22%2C%22displayName%22:%22u_crystall7t_s%22%2C%22id%22:%22214571422%22%2C%22login%22:%22u_crystall7t_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:35:29+00:00	auth-token	gs8w0t0mcw4groed1xxq64y5tmkq2r

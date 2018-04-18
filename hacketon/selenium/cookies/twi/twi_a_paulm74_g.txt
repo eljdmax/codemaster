@@ -1,0 +1,16 @@
+#a_paulm74_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lBWHCMQm%2FpHCfNPzwSrNsyST8ccOOBhUg9by%2B01IWLk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:39:06+00:00	unique_id	cb61a47fda1ba0ba
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:39:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:39:22+00:00	persistent	214557843%3A%3A6wzjhylfoqj3qal6ayjgcht8x535hf
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:39:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTc4NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1OTYzLCJpYXQiOjE1MjM4MjExNjN9.vPoT4H1HyFw7okW_zrprVbjrvayooLCEsXMBsQipwsKx8exBPxE_c3sR8G7isdO_R8ryZsxbQYvj__pfFKN8Wg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:39:22+00:00	login	a_paulm74_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:39:22+00:00	name	a_paulm74_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:39:22+00:00	last_login	2018-04-15T19:39:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:39:22+00:00	api_token	60f611a7c1757348c5747fdc932811ad
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:39:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfcGF1bG03NF9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzE2MywiaWF0IjoxNTIzODIxMTYzLCJub25jZSI6InRqZDlGSXZtWFdNREhQSkpKTUh4bGNqR3Rva0tXSUN1RHJ0ekVDODg1NWM9In0%3D.Q44QnTxPpfjUlF-Q88B39r2aA1DXpUeJ5zzn-G7YLnKHxbOdmCUO_LnYk-nRZwKUuxKzDxMtWNL7QRsgODk2FA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	QgogUHPeQVyNZuhooymh3B777NrzOE02
+.twitch.tv	TRUE	/	FALSE	2020-04-14T19:39:32+00:00	__gads	ID=11f8dcd51ce0d2bb:T=1523821172:S=ALNI_MYKzmHtGq5Z0YUfyB44Kp5gwcc69w
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM4MjQ4MTgsIm52IjoxLCJ1cHQiOjE1MjM4MjQ4MDEsImx0IjoxNTIzODI0ODE3fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:40:17+00:00	twilight-user	{%22authToken%22:%22638mmmuz8hb15fj3jb2m3v282wb60y%22%2C%22displayName%22:%22a_paulm74_g%22%2C%22id%22:%22214557843%22%2C%22login%22:%22a_paulm74_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:40:17+00:00	auth-token	638mmmuz8hb15fj3jb2m3v282wb60y

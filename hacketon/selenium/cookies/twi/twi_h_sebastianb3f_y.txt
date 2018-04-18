@@ -1,0 +1,13 @@
+#h_sebastianb3f_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WT1nhTuP%2BfsIgx3dAym7%2F5sBOKkTV3Wj4bye60FECVA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:51:57+00:00	unique_id	6f5d74e5fb6f9edb
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:51:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:52:16+00:00	persistent	214575357%3A%3Alk7kavjx05vm7nhpxeft7ekvufrqf3
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:52:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzUzNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwMzM3LCJpYXQiOjE1MjM4MjU1Mzd9.57QQu5t0Aqp5vx1RDU7wOpJjBZac1Ww6jT4TO24jT66Faov10Ory_3TyzmM6tdVyUv4WxK3MOm0nfb5XdGmuew==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:52:16+00:00	login	h_sebastianb3f_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:52:16+00:00	name	h_sebastianb3f_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:52:16+00:00	last_login	2018-04-15T20:52:17Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:52:16+00:00	api_token	bb91f9fa00387d2c5bc0794e29b06345
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:52:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfc2ViYXN0aWFuYjNmX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc3NTM3LCJpYXQiOjE1MjM4MjU1MzcsIm5vbmNlIjoicE8zbW1NdGcwNzh0bVh4TnRnb3R5ajZ0ckkxWXdyZ3JXcVNjLURDSl9iYz0ifQ%3D%3D.5mAiAXrSUIslO6kTFdULxy8QISkUkR_6sfc2ci425sND6bsUw3N_JBP-h23ggiI1lXQzAT11K8Z0h3l-g7heeg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:52:56+00:00	twilight-user	{%22authToken%22:%22ruohqfpthmqxkyw7qx61s567gzxfoq%22%2C%22displayName%22:%22h_sebastianb3f_y%22%2C%22id%22:%22214575357%22%2C%22login%22:%22h_sebastianb3f_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:52:56+00:00	auth-token	ruohqfpthmqxkyw7qx61s567gzxfoq

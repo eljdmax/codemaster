@@ -1,0 +1,14 @@
+#v_angelax22_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nYbreaIRM0vWSLCjBax52MPYimDP%2BDEjaHio555HLLY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:24:50+00:00	unique_id	c6a5d99dc4ec9585
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:24:50+00:00	_twitch_session_id	ebc25bc6a82dbc715d2a69d84e093fc0
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:24:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:25:07+00:00	persistent	215090689%3A%3Anzb969q8jj5w29c4o7818wf2p3p7r5
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:25:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTA2ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4NzA4LCJpYXQiOjE1MjQwMDM5MDh9.2TkGYjKQ5t4V3naHJMClsEXx72HCnu36yhOE6zXp8-O_2C6XEA52VkR-gLjmAX1o5AuiE9z_wSG3lN1ulMHThg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:25:07+00:00	login	v_angelax22_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:25:07+00:00	name	v_angelax22_u
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:25:07+00:00	last_login	2018-04-17T22:25:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:25:07+00:00	api_token	56ae944bdfe186d130ee6a02619bbde1
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:25:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYW5nZWxheDIyX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU1OTA4LCJpYXQiOjE1MjQwMDM5MDgsIm5vbmNlIjoieGdZcnFqWHNYdXRrTHd1NEZ5bjVacUd6bXAzMmswSEhFc2p2bWFtaDlmQT0ifQ%3D%3D.PZlB-14nZbfVH9orXBvJfXkOwtZt-6abnoj8x0koeRy-DMlTNokUBMWH-PoDLa9_gqkBZk6Q68ftNRrc-1Ww7g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:25:59+00:00	twilight-user	{%22authToken%22:%22cpili5irwor8km6elfqifxwfja6a5o%22%2C%22displayName%22:%22v_angelax22_u%22%2C%22id%22:%22215090689%22%2C%22login%22:%22v_angelax22_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:25:59+00:00	auth-token	cpili5irwor8km6elfqifxwfja6a5o

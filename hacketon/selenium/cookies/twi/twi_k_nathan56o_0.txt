@@ -1,0 +1,14 @@
+#k_nathan56o_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NEDWT9ithDkd4SZibdXR%2Bkrhalf9boSDyUHPiVIUdw4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:44:49+00:00	unique_id	488e276fec1c9a48
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:44:49+00:00	_twitch_session_id	7c840b30064dcaecd2209ef70600c262
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:44:49+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:45:09+00:00	persistent	214559331%3A%3Aoqofafo8rixxnejr0uzaemy5g9nbc6
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:45:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTkzMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2MzA5LCJpYXQiOjE1MjM4MjE1MDl9.CTFpLDVN49kfhC_jAFU3g92NYiTz-NH5JNu3ICHfoxxRI1E4zusWlajHkRfUVTTVNYGPI4qZl_WKV6oh_IVR7g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:45:09+00:00	login	k_nathan56o_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:45:09+00:00	name	k_nathan56o_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:45:09+00:00	last_login	2018-04-15T19:45:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:45:09+00:00	api_token	37201356c1127c752887913e93f261c0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:45:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbmF0aGFuNTZvXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzczNTA5LCJpYXQiOjE1MjM4MjE1MDksIm5vbmNlIjoieXU5Q0tfaFF2bXZxSDNJc2VaUnpmRTF6QktKelZlN0NHYkxEUC1IV0FNQT0ifQ%3D%3D.Xfj1hicSLVQHfwblTXZnDokZTtK6xMCjFNzgXMF37H1mJZNrwKa6MvTVFru0MaxvrvzjnHJZpMEooc6fo3GCEg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:45:49+00:00	twilight-user	{%22authToken%22:%2204b91ipfa6uyj5tc4us4kkxgr6lrtw%22%2C%22displayName%22:%22k_nathan56o_0%22%2C%22id%22:%22214559331%22%2C%22login%22:%22k_nathan56o_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:45:49+00:00	auth-token	04b91ipfa6uyj5tc4us4kkxgr6lrtw

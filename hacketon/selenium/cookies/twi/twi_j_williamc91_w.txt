@@ -1,0 +1,14 @@
+#j_williamc91_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EdwAU1xNLBC%2FaiC8bpbv46OJGLzZ8AWhGovzGEAl5pk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:24:06+00:00	unique_id	b7c3afe9a7a851d7
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:24:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:24:27+00:00	persistent	215077180%3A%3Ae84fmsz08cfmmdpmv9e5tvze5mxco2
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:24:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzcxODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1MDY4LCJpYXQiOjE1MjQwMDAyNjh9.GdvI-zaRtRmNpk27xUeIugx_ZFPqFFEJkjy1t4LdGtTgFgrfR5pfywS1nOyvu6_hPl-e_uTNRtDMZjXj3kDJjg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:24:27+00:00	login	j_williamc91_w
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:24:27+00:00	name	j_williamc91_w
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:24:27+00:00	last_login	2018-04-17T21:24:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:24:27+00:00	api_token	894000cc2864ad1f833cb7b661dd2107
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:24:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfd2lsbGlhbWM5MV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjI2OCwiaWF0IjoxNTI0MDAwMjY4LCJub25jZSI6IkxrQVZBUjdRV2l1WjNIWVVzb0dQQWE0eW9DbTc1elUwMUxOTzlTbHlnM0U9In0%3D.YL1972je9znm6TMrI-4531FTGRF5tpqEYxQ4ZJ1LijxjBoOYYVKRMqJz99G-9gb1qLioA-CpB6eSQPTwSzoeyg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	7plSe3LH32WAxhcwi2FltExUCyfg542v
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:25:22+00:00	twilight-user	{%22authToken%22:%2201u04w4hvoqc9168iq839fpoo4vdjg%22%2C%22displayName%22:%22j_williamc91_w%22%2C%22id%22:%22215077180%22%2C%22login%22:%22j_williamc91_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:25:22+00:00	auth-token	01u04w4hvoqc9168iq839fpoo4vdjg

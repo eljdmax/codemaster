@@ -1,0 +1,13 @@
+#j_javier92l_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	E%2B4hSikKH0jfNxNBLAHM1GSwuM3pj3k3Hv4IycgJ%2BLA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:35:48+00:00	unique_id	3f11413ae891d5db
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:35:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:36:17+00:00	persistent	215093048%3A%3A1kwpji3pu9j1ddl1nzk6zx6jofy3ja
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:36:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTMwNDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA5Mzc3LCJpYXQiOjE1MjQwMDQ1Nzd9.Ed1113YfxEJu8TI5kopfdVOFsLREsapWaxl80EuKvV9nMPDmZ1bZjXoJvF8y8FB2fpvPH_TyAzj2MGGGB917Bg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:36:17+00:00	login	j_javier92l_5
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:36:17+00:00	name	j_javier92l_5
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:36:17+00:00	last_login	2018-04-17T22:36:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:36:17+00:00	api_token	a6de73bfed78169f7ddaad147c5edc34
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:36:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfamF2aWVyOTJsXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU2NTc3LCJpYXQiOjE1MjQwMDQ1NzcsIm5vbmNlIjoiTUNQcHRsSkdDU2s3RkNpVW5PN2lBZXNCMFFMckdncEM0Nk83RFRxd0thWT0ifQ%3D%3D.iYvU32VltzvuhNkUuZhC7F_E-FJDQyTdyDY4HOknQUlvqM_JXXiU7HIUU1afB5JRMIXfVLPrbtliTjPh4-8zUw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:37:09+00:00	twilight-user	{%22authToken%22:%223401tiu1rxzwgkl6945r1cuz2gzvnw%22%2C%22displayName%22:%22j_javier92l_5%22%2C%22id%22:%22215093048%22%2C%22login%22:%22j_javier92l_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:37:09+00:00	auth-token	3401tiu1rxzwgkl6945r1cuz2gzvnw

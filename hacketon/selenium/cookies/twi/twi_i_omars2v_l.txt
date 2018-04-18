@@ -1,0 +1,13 @@
+#i_omars2v_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EgtvQBEn050iJAGPZmv1sqLSSVzUk8%2FdjaOY%2FsFY8O4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:07:30+00:00	unique_id	23cd04346ba53108
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:07:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:07:44+00:00	persistent	214801646%3A%3Al59vgz9kuk3a8cs10z31jn3cg187gd
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:07:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDE2NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxMjY0LCJpYXQiOjE1MjM5MTY0NjR9.xTAXws5WdSenPeOD85PISwIm87PGV4DiB4QBdrGPsoSdSW1Iq-yTChZd9E_5iec39jNIOGI0o-nvaCjvMGhJmg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:07:44+00:00	login	i_omars2v_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:07:44+00:00	name	i_omars2v_l
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:07:44+00:00	last_login	2018-04-16T22:07:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:07:44+00:00	api_token	bf4d0accd066857df7368b6e455e06c6
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:07:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfb21hcnMydl9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2ODQ2NCwiaWF0IjoxNTIzOTE2NDY0LCJub25jZSI6IlpQV0RfTkUyamN0OU9SYi04UUFaQ3VLdWR4Y3hDY0I0OTQwSEJPRzltN2s9In0%3D.fd97dU_lEujllyCZN2yU0FqKd72CJ3-hLQnHEbC4fKqDUaLTa4nuZ3EIYf-wTxmvBGqEyCG2bEDZf_41pZynWA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:08:26+00:00	twilight-user	{%22authToken%22:%22n8vcc8v610b320lvdyoga3h4p5dgkz%22%2C%22displayName%22:%22i_omars2v_l%22%2C%22id%22:%22214801646%22%2C%22login%22:%22i_omars2v_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:08:26+00:00	auth-token	n8vcc8v610b320lvdyoga3h4p5dgkz

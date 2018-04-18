@@ -1,0 +1,13 @@
+#d_kenneth828_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CW8R0MnzSglsH7YNn4gqHiWvmPekGLAti4yza3FP9ZE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:34:47+00:00	unique_id	22c68fca46cf5fc6
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:34:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:35:08+00:00	persistent	214813293%3A%3Al7o043xn8rm2yf2w9mhebgek7g7kid
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:35:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTMyOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyOTA5LCJpYXQiOjE1MjM5MTgxMDl9.iIuami2_CazxSyjtF_uVraNBxjDF9Q1HeVUkbqLV08eCYReXfmktM_H-5eu5hINqvadJZ1yh63z-LQaaXI_S1g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:35:08+00:00	login	d_kenneth828_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:35:08+00:00	name	d_kenneth828_d
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:35:08+00:00	last_login	2018-04-16T22:35:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:35:08+00:00	api_token	999bd81a7ed40a632b6a52c764b8ef8f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:35:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfa2VubmV0aDgyOF9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MDEwOSwiaWF0IjoxNTIzOTE4MTA5LCJub25jZSI6IlZTSS1XekZ3VnVoOEd4VFFVUWdyZTdBd0FOWGxlOExJa2NIVF9qekxmb0U9In0%3D.KHlCfJOhZO0HnnoGhD36Htc7i_m0dnGcWSvGOQN-qrQvM3BDcYp5WLHIXwqDHZDoWsiutW7vtXuu1iK0_YDLKw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:35:52+00:00	twilight-user	{%22authToken%22:%22t5uu6mbfze7km128587887m6j42jkr%22%2C%22displayName%22:%22d_kenneth828_d%22%2C%22id%22:%22214813293%22%2C%22login%22:%22d_kenneth828_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:35:52+00:00	auth-token	t5uu6mbfze7km128587887m6j42jkr

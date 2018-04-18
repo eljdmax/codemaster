@@ -1,0 +1,14 @@
+#f_justin34l_b
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM4MjkxMDQsIm52IjowLCJ1cHQiOjE1MjM4MjkwOTUsImx0IjoxNTIzODI5MDk1fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cwdklWVnoBTXdAkmiD5Iltws0padLmbL7Tv57QqQBQs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:54:36+00:00	unique_id	d23b192c8690c68c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:54:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:55:00+00:00	persistent	214575941%3A%3Aeie115jgpucdrlzekt0rvqnzwpa8pg
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:55:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzU5NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwNTAxLCJpYXQiOjE1MjM4MjU3MDF9.GwvrF1rE--y1R1m9NBUovwQzWIHzMAj9GHop5tbXRKBUs7444PtMOalOuO1wSWWHDITuN5vqE1fsQH0aWWMT6Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:00+00:00	login	f_justin34l_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:00+00:00	name	f_justin34l_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:00+00:00	last_login	2018-04-15T20:55:01Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:55:00+00:00	api_token	8fff0e1b12c9e93ec933de5b200f05d6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:55:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfanVzdGluMzRsX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc3NzAxLCJpYXQiOjE1MjM4MjU3MDEsIm5vbmNlIjoiVkNjOC1KYTRnQ0VDT0J4ZUlXUFBEMHZkUWdIUzBKSkdJMVNzYW15VDlBRT0ifQ%3D%3D.8kiiBBrqZ9a9cFm-pEXAMjZiTjzWC_s_BIUPA2BhRykT566U0Y4_iU1bwY1lNn3ZULXVDSubnCn2PyLCu5-9Uw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:55:39+00:00	twilight-user	{%22authToken%22:%22ua8ja2x7pjov53xcltofsj372jmw4p%22%2C%22displayName%22:%22f_justin34l_b%22%2C%22id%22:%22214575941%22%2C%22login%22:%22f_justin34l_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:55:39+00:00	auth-token	ua8ja2x7pjov53xcltofsj372jmw4p

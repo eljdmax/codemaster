@@ -1,0 +1,14 @@
+#l_gabrielw5o_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5Paj8fxUznNvM7CBp6rm5Uz2C%2B3NfY1%2FVE%2Fzx1aVaCg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:13:23+00:00	unique_id	53ee17b15b70a1be
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:13:23+00:00	_twitch_session_id	fcf255a1fc58dd090e6de34adc69b60e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:13:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:13:51+00:00	persistent	214791225%3A%3Antasq0tt7c90x3n2mrad7zi6s9a030
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:13:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTEyMjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4MDMyLCJpYXQiOjE1MjM5MTMyMzJ9.nPh3Hn4_n2lxgQCha-3Qk321ieCeVVIk3IrBOkigyabVhjX0O2OyD_BQSZO21NzygIbbK_zBAhCASQmvj8z8ww==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:51+00:00	login	l_gabrielw5o_z
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:51+00:00	name	l_gabrielw5o_z
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:13:51+00:00	last_login	2018-04-16T21:13:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:13:51+00:00	api_token	217100090e738d1f0f2b13d8b8da03e8
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:13:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfZ2FicmllbHc1b196IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NTIzMiwiaWF0IjoxNTIzOTEzMjMyLCJub25jZSI6ImFPUzVnelNNOVB6V1VsVktBZVJqdEVvN3V0TF9wS2NkLWFIUzJuOFhINnM9In0%3D.eVPaN-pvjhxhzsbpo3xLi9J4hV26I8zMXcNYZcMvPnpDHYlJVRyggAOpsGFOycEPl9zQWMKgevBaAJ8an-DEVw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:14:36+00:00	twilight-user	{%22authToken%22:%2208niv8dsuys01gyv0ut4j2ffdhhdu3%22%2C%22displayName%22:%22l_gabrielw5o_z%22%2C%22id%22:%22214791225%22%2C%22login%22:%22l_gabrielw5o_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:14:36+00:00	auth-token	08niv8dsuys01gyv0ut4j2ffdhhdu3

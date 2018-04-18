@@ -1,0 +1,13 @@
+#h_amber97t_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wVyJZIE4bh2IXLbeku43dFxYaYb03piudXnzwc1O7a4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:29:11+00:00	unique_id	a966b40b831e4793
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:29:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:29:30+00:00	persistent	214583262%3A%3Ak5akgle3awgrlk488wggwwd2bv956j
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:29:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODMyNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyNTcwLCJpYXQiOjE1MjM4Mjc3NzB9.bMv9N7xQwq4rNEC5sfRnCRrYrsFLT3YjUpDfDQ5Ravhdo4b-ro3M_eXzRBCrTl-eu5CfiT_JC21nAtAaN2837A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:29:30+00:00	login	h_amber97t_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:29:30+00:00	name	h_amber97t_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:29:30+00:00	last_login	2018-04-15T21:29:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:29:30+00:00	api_token	d6408c0a5e5bd2b390ad5c6bd6af6bde
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:29:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYW1iZXI5N3RfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzk3NzAsImlhdCI6MTUyMzgyNzc3MCwibm9uY2UiOiJhUkQ4WDhLMlN1NFVMeGRSdlE0NkZLTFJ2eG9pTVJSRTI0YXRNZjJtaFlJPSJ9.akripwvE-SF0AOMU_-vRhrVuGdn0A0gKDMD1viuRvDl-lo7fEukuXO06KfEfyLPH37jRyqvJnWlGr08Y6TzenQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:30:10+00:00	twilight-user	{%22authToken%22:%22c48c3pfnvc3k7hd4wp7ehnp1zjub9q%22%2C%22displayName%22:%22h_amber97t_h%22%2C%22id%22:%22214583262%22%2C%22login%22:%22h_amber97t_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:30:10+00:00	auth-token	c48c3pfnvc3k7hd4wp7ehnp1zjub9q

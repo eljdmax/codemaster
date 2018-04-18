@@ -1,0 +1,13 @@
+#r_lily593_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1643sEYWnJeDQWfZ71gv1tkcJGgBDJVoNiljb27H57o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:33:45+00:00	unique_id	29448a0701b64f35
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:33:45+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:34:08+00:00	persistent	215079313%3A%3Agktaijiungg9p43y8h1ug3dqhe8hyj
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:34:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzkzMTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1NjQ5LCJpYXQiOjE1MjQwMDA4NDl9.WCt8bjNuaOBYRpYhX2jRN0AFbKnDkdG4MODdWCC7zC2CG5Uj28ebBFD6l5DsYjaGG4hqH9rNGlpuBDpGUxHoGA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:34:08+00:00	login	r_lily593_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:34:08+00:00	name	r_lily593_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:34:08+00:00	last_login	2018-04-17T21:34:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:34:08+00:00	api_token	7bf42ae76e1b6638571f2f38703e555b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:34:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbGlseTU5M185IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1Mjg0OSwiaWF0IjoxNTI0MDAwODQ5LCJub25jZSI6IjFyVU8tempuWS1peTV5aGNpcU1GUUQtaTJQaFRRS3dtVW9FTnZzTUNneWc9In0%3D.4p1uVxa40NKkexe-cLZZ14YD67NMfi9yk4EgluHg1oVTAcpmtnQo7JzfXnlzAuoIvP5pECjCHTBi_nlax2ZxBg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:35:04+00:00	twilight-user	{%22authToken%22:%22eiutvtl092adionu25f93a95ed3std%22%2C%22displayName%22:%22r_lily593_9%22%2C%22id%22:%22215079313%22%2C%22login%22:%22r_lily593_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:35:04+00:00	auth-token	eiutvtl092adionu25f93a95ed3std

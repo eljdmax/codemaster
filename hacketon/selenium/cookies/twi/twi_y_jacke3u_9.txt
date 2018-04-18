@@ -1,0 +1,13 @@
+#y_jacke3u_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5y%2F1nTn1kaDJem3iH%2BrUWRieRcP%2BOUvecI3cn8mhyFU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:52:04+00:00	unique_id	9c5928a3fb13e9d7
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:52:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:52:17+00:00	persistent	215083384%3A%3A92krj8jmsmylyvpz2923gle19zvzzm
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:52:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODMzODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA2NzM4LCJpYXQiOjE1MjQwMDE5Mzh9.hA6-BAxW5Kn498lJxBJ2GtKdXA4z0vwjL4ll0ARgtYAQ65IT86nXYXKYwBKEQZxKVHxHO6LCvQRoeywCVhDoMA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:17+00:00	login	y_jacke3u_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:17+00:00	name	y_jacke3u_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:52:17+00:00	last_login	2018-04-17T21:52:18Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:52:17+00:00	api_token	9e01c80c1a6af109e934e46b5a108375
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:52:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfamFja2UzdV85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MzkzOCwiaWF0IjoxNTI0MDAxOTM4LCJub25jZSI6IkdMZ0NEQlJPSE05T19JcU1yWXppZHBZUkVISHVhUkt6anNzMnRTUEFFS2M9In0%3D.1X-QI25LJh5l3FDD01qGXy-6ManER4emV4ec8QaDa2j147Tg_1aToJ1hFmEMV4aD3u75tovnB7m2gTnNJkxkjQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:53:06+00:00	twilight-user	{%22authToken%22:%22sigkm6nlndafsvjdrfpvs7lzkxhuc7%22%2C%22displayName%22:%22y_jacke3u_9%22%2C%22id%22:%22215083384%22%2C%22login%22:%22y_jacke3u_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:53:06+00:00	auth-token	sigkm6nlndafsvjdrfpvs7lzkxhuc7

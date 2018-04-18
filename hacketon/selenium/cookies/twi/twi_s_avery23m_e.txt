@@ -1,0 +1,14 @@
+#s_avery23m_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AiWXPLicE2m28GfFMtVEPC0S9AL4Ju1ldHsQypQgK38%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:14:44+00:00	unique_id	aa6af6f17c91f64c
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:14:44+00:00	_twitch_session_id	6c8d11a996c35d9851d45b9d1479f02c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:14:44+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:15:02+00:00	persistent	214592118%3A%3Amthq91gwkrunoy5kzdabfs0qxmz88q
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:15:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTIxMTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1MzAyLCJpYXQiOjE1MjM4MzA1MDJ9.HE8s5MsaXYE1LCP8dRQYrQdVcu4v2JTbvaFj1MD2QAMGgjkjwWcOa_NTEKLxobsslnmIYJySFr_oG8Au7HmnNw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:15:02+00:00	login	s_avery23m_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:15:02+00:00	name	s_avery23m_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:15:02+00:00	last_login	2018-04-15T22:15:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:15:02+00:00	api_token	037421662bfc724f792268ff1b066398
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:15:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYXZlcnkyM21fZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODI1MDIsImlhdCI6MTUyMzgzMDUwMiwibm9uY2UiOiJTU2FxbG9Banh5Nk5DaVN2d2JpbFM2d3pFU1hzWGhybzI5WHdxTW0ydkdVPSJ9.m-PfkrdfJh7Fz283I2OXFna7U8rUcYQr5X4MWK32-C4SM_NE8y2rIEi-bxVq-whRY77syTg2pjPUipMe-Hpw8A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:15:41+00:00	twilight-user	{%22authToken%22:%22u6ygciyekx4u68788quf53ubp7bzsf%22%2C%22displayName%22:%22s_avery23m_e%22%2C%22id%22:%22214592118%22%2C%22login%22:%22s_avery23m_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:15:41+00:00	auth-token	u6ygciyekx4u68788quf53ubp7bzsf

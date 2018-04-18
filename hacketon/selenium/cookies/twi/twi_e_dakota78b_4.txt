@@ -1,0 +1,14 @@
+#e_dakota78b_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vrpcB%2FEnO9wXhEUz2U%2FHx9ZXLdmpaK58Gk7fp2jkGcM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:59:50+00:00	unique_id	7d6be5c2cdf04874
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:59:50+00:00	_twitch_session_id	f8a247f52fb3147ba7d8edc7d45bcc5e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:59:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:00:12+00:00	persistent	214589246%3A%3Azivcfau8ctp0h3iku9yqmer6ee8pwq
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:00:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODkyNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NDEyLCJpYXQiOjE1MjM4Mjk2MTJ9.vC095QdQubTna_H2lDcKFaUQa-aNwJZxDQ6TuOy3TX62c5flvwJZ_d_KGXUK-tcqEGqYJq4hU1_7Y8qgBkTh_g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:00:12+00:00	login	e_dakota78b_4
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:00:12+00:00	name	e_dakota78b_4
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:00:12+00:00	last_login	2018-04-15T22:00:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:00:12+00:00	api_token	64005d97a3f58b4ac0e478ed1563752e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:00:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZGFrb3RhNzhiXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxNjEyLCJpYXQiOjE1MjM4Mjk2MTIsIm5vbmNlIjoiaUQzY292WjdQUUpMbzVHUHU5LXdXTEhmMzNuVXdKbEh5bXRxTHc3cUhjWT0ifQ%3D%3D.9asdQN8EBY_Tt-2DasNgtJTeFLxsug4PNP_cdiiaq6TjUZ4W0DX1WaQsBQ_XxCOKyCr0Uh6PUjfIfsMk4PkILg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:00:52+00:00	twilight-user	{%22authToken%22:%22gjpi7nadmavswh5prov9v9ezxiphy0%22%2C%22displayName%22:%22e_dakota78b_4%22%2C%22id%22:%22214589246%22%2C%22login%22:%22e_dakota78b_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:00:52+00:00	auth-token	gjpi7nadmavswh5prov9v9ezxiphy0

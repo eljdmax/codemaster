@@ -1,0 +1,13 @@
+#f_lucy23v_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	M5aX3gl9RmvEtoHF%2FvjCZQFdZ93rdTa%2FbaFQWKexuv4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:11:08+00:00	unique_id	b1f942f91d53dc6b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:11:28+00:00	persistent	215059112%3A%3Aucdh04qzmuosgv523z4r9ywav60waa
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:11:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTkxMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNjg4LCJpYXQiOjE1MjM5OTU4ODh9.ZoslJTqjoOclrkicpxedgrqQktLjdI5uovitf59i37T7faG_gmB3bmo7Ee-e0ZrQhIvRB_eQktuff2xUd_xslQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:11:28+00:00	login	f_lucy23v_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:11:28+00:00	name	f_lucy23v_2
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:11:28+00:00	last_login	2018-04-17T20:11:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:11:28+00:00	api_token	6cba9bf9d26f6219c24343e6608aa04f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbHVjeTIzdl8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0Nzg4OCwiaWF0IjoxNTIzOTk1ODg4LCJub25jZSI6Ii1RQWNrSVRUWHhNSGVsRThFcTNqV1RZQU9lS3FIUDlLVHF3VnJRVlpxUm89In0%3D.c985orclHfFna6_tqGLbGoSMlL5n0BO6AoflFyrPyTl_MGeMTcpo8_tvoJh09OObII8JwyCF-BkViteIPvjv_w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:12:16+00:00	twilight-user	{%22authToken%22:%22sj82ql7aj909ue9tqan06bbmpgco9n%22%2C%22displayName%22:%22f_lucy23v_2%22%2C%22id%22:%22215059112%22%2C%22login%22:%22f_lucy23v_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:12:16+00:00	auth-token	sj82ql7aj909ue9tqan06bbmpgco9n

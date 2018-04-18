@@ -1,0 +1,14 @@
+#n_paul30f_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i0wS7kefIWfLK7WYZ96z%2Bc8LM0riWZvkPQcTFCfzZRw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:05:55+00:00	unique_id	637a7c687e7e39a0
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:05:55+00:00	_twitch_session_id	6496e95652a6d913c673d099a978d296
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:05:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:06:23+00:00	persistent	214590497%3A%3Asfjnu6mthayohyjfifacgpsw9t1147
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:06:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTA0OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NzgzLCJpYXQiOjE1MjM4Mjk5ODN9.aCkVfmlIJMdlCtAS8i3XJ5bIpmgM4vGeit92Qu1sbOPMNLKIRGWzC_Va8x1Gl8zhg194oYQkDqvye7jID24MuA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:06:23+00:00	login	n_paul30f_j
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:06:23+00:00	name	n_paul30f_j
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:06:23+00:00	last_login	2018-04-15T22:06:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:06:23+00:00	api_token	a694e7997922bb2c7c82e16144873639
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:06:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcGF1bDMwZl9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MTk4MywiaWF0IjoxNTIzODI5OTgzLCJub25jZSI6ImZBRmYxNlJIczl1bVo2Rzk1YmZxb044RVlkYk8yM3NXV1hyQ1Q1QnVycnc9In0%3D.QOOxwJxCPI-hdMPT7rJl4K4wF0Ljzua0p0en6l5aihtLlsQKj62oy66yR_KTflknSNMtEldgubQUi7njX6F8SA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:07:01+00:00	twilight-user	{%22authToken%22:%22r0oacwr4m6vu87hkqrndwqfgd4fajc%22%2C%22displayName%22:%22n_paul30f_j%22%2C%22id%22:%22214590497%22%2C%22login%22:%22n_paul30f_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:07:01+00:00	auth-token	r0oacwr4m6vu87hkqrndwqfgd4fajc

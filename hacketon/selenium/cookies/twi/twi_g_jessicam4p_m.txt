@@ -1,0 +1,13 @@
+#g_jessicam4p_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	eNWes8QvZ%2F%2FQ%2FPQZRn3VVEO2ejmEZNfH5l5J1UKE7w4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:54:26+00:00	unique_id	fc14ff378ba3c8a0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:54:26+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:54:50+00:00	persistent	214561750%3A%3Af1hbtc2o6rbngo94zq5afvd1n2feoo
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:54:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjE3NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2ODkwLCJpYXQiOjE1MjM4MjIwOTB9.zwKEjanJG_ZFuQLx7gCCufbpJN3bbb7GPak2BLT2yQAq2y-CyXVswXNNpoIeewKJNfmUrguh21fI9k9Ohuph_g==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:54:50+00:00	login	g_jessicam4p_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:54:50+00:00	name	g_jessicam4p_m
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:54:50+00:00	last_login	2018-04-15T19:54:50Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:54:50+00:00	api_token	12b0a1113d4fdd57e85107d18d48e3ae
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:54:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamVzc2ljYW00cF9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDA5MCwiaWF0IjoxNTIzODIyMDkwLCJub25jZSI6ImxBdEU4ZWVNQkxEelBiMGZBdFhXN1p1WnpsYV9CdUo4SUl4ZFd3Mk9DV009In0%3D.oqY4a3Pvb-1MqdoMPZXif_nTCPDeE8k2YEER8dkcZC0DjiRtL3yu6fN_UT2XRpIY9m4PfyjWqyW0UkAJakRUQg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:55:29+00:00	twilight-user	{%22authToken%22:%224kfc80j5myc8p8904e85mtkraio01q%22%2C%22displayName%22:%22g_jessicam4p_m%22%2C%22id%22:%22214561750%22%2C%22login%22:%22g_jessicam4p_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:55:29+00:00	auth-token	4kfc80j5myc8p8904e85mtkraio01q

@@ -1,0 +1,14 @@
+#y_david146_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q5EvN7%2B%2FDSm16PX4sh8DFEP%2Bkf7Vv7YpudRWVh6yjC4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:50:21+00:00	unique_id	c047ad09c8e1510d
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:50:21+00:00	_twitch_session_id	595244a64877c8da8cfa3fed9f29366d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:50:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:50:45+00:00	persistent	214786142%3A%3Afgaeatr7ufhozssw3mi0fqwh8zj5i9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:50:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODYxNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2NjQ2LCJpYXQiOjE1MjM5MTE4NDZ9.Gnf2UYbUQSqjSueV_Klo9b8V9dVkS2URes49vi43jaBNl2c4Nne34xSY4KhDviaGt-4K9NjDgistWbn5ltE6Dg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:50:45+00:00	login	y_david146_e
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:50:45+00:00	name	y_david146_e
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:50:45+00:00	last_login	2018-04-16T20:50:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:50:45+00:00	api_token	957a90e41fdbcfc8e50255c18974263e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:50:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZGF2aWQxNDZfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjM4NDYsImlhdCI6MTUyMzkxMTg0Niwibm9uY2UiOiJoVVpEV0ZXbm5HSzFTU2tFZGVBUVRXakJJT01qTUVWZkhibE41eTE3dkNRPSJ9.gevPTzmHalw7igDktxKzoeAyUjx-JOq4cupZwAJrDlq1GHhVVTLi7Nr6MJbP7XCP3wKOxUVFDk_btrRd-bMULQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:51:29+00:00	twilight-user	{%22authToken%22:%22jngybjy3ivfptc9849iursq725j4ae%22%2C%22displayName%22:%22y_david146_e%22%2C%22id%22:%22214786142%22%2C%22login%22:%22y_david146_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:51:29+00:00	auth-token	jngybjy3ivfptc9849iursq725j4ae

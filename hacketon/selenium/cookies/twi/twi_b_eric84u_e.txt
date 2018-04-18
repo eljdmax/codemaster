@@ -1,0 +1,13 @@
+#b_eric84u_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JRGQEz1KGFDBh8K6WHeW2kb66SoAAE0xBg5kv2eeycI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:08:16+00:00	unique_id	e0b8bef6ce79f36f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:08:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:08:39+00:00	persistent	214590905%3A%3Adoioqzj6ytu0ifkpmu6lh7feht55yx
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:08:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTA5MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0OTE5LCJpYXQiOjE1MjM4MzAxMTl9.SfDhtMaXx9JBw4PQaZPtKo7BAIuSK-op3Fbjc-Guoxo9Vwq0-LpmWsLG170w2T_QBtv9lo4CyU8975QbYwKfhQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:08:39+00:00	login	b_eric84u_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:08:39+00:00	name	b_eric84u_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:08:39+00:00	last_login	2018-04-15T22:08:39Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:08:39+00:00	api_token	943f6ee780017c0f609c255710ecc295
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:08:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZXJpYzg0dV9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MjExOSwiaWF0IjoxNTIzODMwMTE5LCJub25jZSI6ImJwaXA0Q2VFeTgxWWg5bVpzMmxYOUFveURHS3lVTmZjQ0wxck0zbFBLcVE9In0%3D.PNv1ZZFkDh-lwDs3_UtH1LuIYZsqnPIaE9i4SCjNHaiHNlQ7AahYnVGMa9lxsVn9jtyYiLwdob6RcsOABcP3Xw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:09:19+00:00	twilight-user	{%22authToken%22:%22rqeh3m55lpwhni3qpt2g20pb0xlrj5%22%2C%22displayName%22:%22b_eric84u_e%22%2C%22id%22:%22214590905%22%2C%22login%22:%22b_eric84u_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:09:19+00:00	auth-token	rqeh3m55lpwhni3qpt2g20pb0xlrj5

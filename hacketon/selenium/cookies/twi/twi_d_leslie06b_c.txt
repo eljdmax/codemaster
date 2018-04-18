@@ -1,0 +1,13 @@
+#d_leslie06b_c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:34:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hZPLpU9xHLjlpaEfWLMzChc2L61xWo%2B10WbHmNWzi5E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:38:26+00:00	unique_id	dcddd5c28311f519
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:38:50+00:00	persistent	214814893%3A%3A56kouzp8pw1y62juum03c8ka20hntn
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:38:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTQ4OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzMTMxLCJpYXQiOjE1MjM5MTgzMzF9.YaKJnNIRs7HpxSdIvGE1DCI_fLgwpxi7TFn1urHCCtTlaDRd-tJQR6i1BQapOmX4zdbFlN8XbJEhhbl3kiyO-Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:38:50+00:00	login	d_leslie06b_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:38:50+00:00	name	d_leslie06b_c
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:38:50+00:00	last_login	2018-04-16T22:38:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:38:50+00:00	api_token	482c26fe1c615cf296796b936c2123b6
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:38:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbGVzbGllMDZiX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcwMzMxLCJpYXQiOjE1MjM5MTgzMzEsIm5vbmNlIjoiaEdzeC1ZNFVXQ2pUVUQ2OVFrWVlTTzRTWGFTRW5nNDRhMDBGYWFaUGJucz0ifQ%3D%3D.eQ-_V5nFxprUTr-HMmf0SUXbv_HK4_SeMBjICFbCFRCICbxVj_1bIUpUXfCexKMAGxGbZthbCcI7ZZaFfrUcAA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:39:35+00:00	twilight-user	{%22authToken%22:%22hpblb8pca1w7iwhb1g3akqawj38fyz%22%2C%22displayName%22:%22d_leslie06b_c%22%2C%22id%22:%22214814893%22%2C%22login%22:%22d_leslie06b_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:39:35+00:00	auth-token	hpblb8pca1w7iwhb1g3akqawj38fyz

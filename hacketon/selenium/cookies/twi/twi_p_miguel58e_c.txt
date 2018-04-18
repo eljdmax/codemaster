@@ -1,0 +1,14 @@
+#p_miguel58e_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nzSHeTHSUu6XMA8BDMoG85tVCaojLiamcOVkKJXKmzk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:43:51+00:00	unique_id	003f38657bc3156c
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:43:51+00:00	_twitch_session_id	a04565216af32db755085a66b6786952
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:43:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:44:08+00:00	persistent	214573566%3A%3Anp2w0873w6if9c96l2zn495irt61v1
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:44:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzM1NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5ODQ5LCJpYXQiOjE1MjM4MjUwNDl9.AAAOT3Xfc4n_H1CDKITY_uLFFqYGSJiHTS8HQABxtLDOOb3X4w1TQw013hoNQaSd5lU1XFZR8EYN0SUy0SR8eQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:44:08+00:00	login	p_miguel58e_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:44:08+00:00	name	p_miguel58e_c
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:44:08+00:00	last_login	2018-04-15T20:44:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:44:08+00:00	api_token	7ab730a9efa89b3f1420b01402944deb
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:44:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbWlndWVsNThlX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc3MDQ5LCJpYXQiOjE1MjM4MjUwNDksIm5vbmNlIjoib254Rnk2M2g2OGVUNVhwRXMzR0pjbkdOb2RMV0JfWWxkU2FjYk5YN0xjOD0ifQ%3D%3D.k-FX6NolLdwV22Mf-IwLu6dlaSZcptAo91KNYaVDuYIPNQAoIpFyNDHUPiSVjgJCb3ziKCGdROUGAqaO6X8hEw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:44:48+00:00	twilight-user	{%22authToken%22:%22rop6xaesg32rrj93bse8gjoa897ccx%22%2C%22displayName%22:%22p_miguel58e_c%22%2C%22id%22:%22214573566%22%2C%22login%22:%22p_miguel58e_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:44:48+00:00	auth-token	rop6xaesg32rrj93bse8gjoa897ccx

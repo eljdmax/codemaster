@@ -1,0 +1,14 @@
+#f_mia77n_u
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:03:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7Z29tcDmW8Zfif%2FMXA2aATUcbIGUxXTQET2oeUKz56k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T23:07:14+00:00	unique_id	6d62cdd81d259803
+.twitch.tv	TRUE	/	TRUE	2018-04-17T11:07:14+00:00	_twitch_session_id	d234b387eab694edf39eb4ab1ceeb15b
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:07:27+00:00	persistent	214825655%3A%3Am0ah9cw6zamalw50y1hhoyc0oz33g1
+.twitch.tv	TRUE	/	TRUE	2018-04-23T23:07:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjU2NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0ODQ4LCJpYXQiOjE1MjM5MjAwNDh9.-4LYClXv-TbgRYKKSaTUZ9NJ31rGCKSGRWvptaEXk8Ce1bW5c4s-KLEQ9RSuTrIM6rUx46FkLsEYmDL0LHjbMQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:07:27+00:00	login	f_mia77n_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:07:27+00:00	name	f_mia77n_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T23:07:27+00:00	last_login	2018-04-16T23:07:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T23:07:27+00:00	api_token	957d2f0cb91c5890854ee3780b4301e7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T23:07:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWlhNzduX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcyMDQ4LCJpYXQiOjE1MjM5MjAwNDgsIm5vbmNlIjoiUmZXNnI5U2k3aExEeVVEQXRnRUptVjQ1TkZhbDNtdU1OR0NmSmNjVVFuWT0ifQ%3D%3D.xtn5HLQQG1crd0dRxmg7YF--nrlPNcu0oOSypoIfrBOQf2lsKh9CZFIHKFJ3PR_CQh8Ux8_gUYTMERpdoYUosg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:08:12+00:00	twilight-user	{%22authToken%22:%227bjaol7yero44fmlhtzk82ho1xkzij%22%2C%22displayName%22:%22f_mia77n_u%22%2C%22id%22:%22214825655%22%2C%22login%22:%22f_mia77n_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:08:12+00:00	auth-token	7bjaol7yero44fmlhtzk82ho1xkzij

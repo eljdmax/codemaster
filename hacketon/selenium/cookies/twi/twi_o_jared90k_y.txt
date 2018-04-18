@@ -1,0 +1,14 @@
+#o_jared90k_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Un%2Bpm6L2LzwCBzougCZ3xr%2Bxphk23HVVA2nBugl%2FUEk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:14:01+00:00	unique_id	694fffc8f745cb17
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:14:01+00:00	_twitch_session_id	8b56e29c0916c568259f32a54ce554ba
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:14:01+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:14:22+00:00	persistent	214592009%3A%3A7f7ntjreqoj9fmg6wc3ya7w0vcphyl
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:14:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTIwMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1MjYyLCJpYXQiOjE1MjM4MzA0NjJ9.Qbg0n0J--hZl0U-jnO3mgT5XwWPbnfH5rGKKOad_p-KYjvRlobfhpBYVFl2krLzkJrPlpBZ2OvErwLQ0T4zRaA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:14:22+00:00	login	o_jared90k_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:14:22+00:00	name	o_jared90k_y
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:14:22+00:00	last_login	2018-04-15T22:14:22Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:14:22+00:00	api_token	1f7dbda123fc23e8d8e9e7132916d8f7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:14:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famFyZWQ5MGtfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODI0NjIsImlhdCI6MTUyMzgzMDQ2Miwibm9uY2UiOiIyMmZ3OF9vNTZEeUYyc212VFhhY3NkTjE3Tlg0bkJjVGVDN2c5bHFQRnNjPSJ9.GB5RXXInOZed7xK5QboATGqtP4aTGqWmOKFH2sjPDzXQGR4mcR5q-NCk0pgSgjG1oTSv92Wp7nzjOwS-ahhtVg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:15:02+00:00	twilight-user	{%22authToken%22:%22xd8iwawr9m7iusc69wmzah4h21xaer%22%2C%22displayName%22:%22o_jared90k_y%22%2C%22id%22:%22214592009%22%2C%22login%22:%22o_jared90k_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:15:02+00:00	auth-token	xd8iwawr9m7iusc69wmzah4h21xaer

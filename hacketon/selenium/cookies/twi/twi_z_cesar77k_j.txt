@@ -1,0 +1,13 @@
+#z_cesar77k_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kWxC6lHRk%2BDWrrzFdPiiTAZ3mWZ4FWO6Ku2j%2FEIIFx0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:31:37+00:00	unique_id	3fe4a733c487e1fa
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:31:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:31:55+00:00	persistent	214583726%3A%3Aguk5bfyayxd9vzusyeqes5qbas5gjj
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:31:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODM3MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyNzE1LCJpYXQiOjE1MjM4Mjc5MTV9.wYHIaZnSJA99n1qDZ7FWcsTqEW1tqgLJGOmzu39WfNk0-gniRwIk1gomN9BuUY_pPHZoyfqROeAP1X3E31dFDA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:31:55+00:00	login	z_cesar77k_j
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:31:55+00:00	name	z_cesar77k_j
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:31:55+00:00	last_login	2018-04-15T21:31:55Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:31:55+00:00	api_token	236a9de610aa580f9d1143dd6c6168b6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:31:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY2VzYXI3N2tfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzk5MTUsImlhdCI6MTUyMzgyNzkxNSwibm9uY2UiOiIzNXlBYVN6cjhoWHA2R3FrUUtONVIwNC1VWUtwWlZEeDQyZGpWbGdveDcwPSJ9.2IzOBfLDja6ZQhsK6aGiC1iipfaorpN8tAcdEfIeZX-KPYvtHdal_g-o66toddLPBebmy8ZfVs-LCZ1_k4yZdA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:32:33+00:00	twilight-user	{%22authToken%22:%224uo9xc7p7hm0rhn7hanz6rndrhebbd%22%2C%22displayName%22:%22z_cesar77k_j%22%2C%22id%22:%22214583726%22%2C%22login%22:%22z_cesar77k_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:32:33+00:00	auth-token	4uo9xc7p7hm0rhn7hanz6rndrhebbd

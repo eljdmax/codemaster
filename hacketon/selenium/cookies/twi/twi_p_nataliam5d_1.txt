@@ -1,0 +1,14 @@
+#p_nataliam5d_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lSsaSHCiwesvWzwpqpX07bu27uv3pmwvF03d83Y7llI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:08:52+00:00	unique_id	e461946f0de7fd91
+.twitch.tv	TRUE	/	TRUE	2018-04-16T10:08:52+00:00	_twitch_session_id	08de650730b5f705df4f6a50d306a9dd
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:08:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:09:19+00:00	persistent	214591039%3A%3Aousp9bpyun5p9sm1jjl0glj4xbihpc
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:09:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTEwMzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0OTU5LCJpYXQiOjE1MjM4MzAxNTl9.nC20N3LUNUNvb3S7WjYFTOv6Aemr1BEj7w6mPg5r-jRb1gGMPCtoNVH3uCDkJCetzBs6-cPMqAWYAWqaGSP1rg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:09:19+00:00	login	p_nataliam5d_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:09:19+00:00	name	p_nataliam5d_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:09:19+00:00	last_login	2018-04-15T22:09:19Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:09:19+00:00	api_token	d8afee668dc8edc005803ac3c69fd558
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:09:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbmF0YWxpYW01ZF8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MjE1OSwiaWF0IjoxNTIzODMwMTU5LCJub25jZSI6Ilk5dl9EUGJwdkZPLThYQ1d2MHVOcTZWWTFFWTlNYkF0QWhlNkNYZ1FzbHc9In0%3D.sGOM3Ua7C1kQ30yn-eA3RYLxjNIurw1X6o94oUkY2Xv6fIW-ajLaeA408N6BquEyRqb1eYltXvNd3kOL27L6ww%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:09:58+00:00	twilight-user	{%22authToken%22:%22cb6lry57wxbtpcc3unsbi2664fsiov%22%2C%22displayName%22:%22p_nataliam5d_1%22%2C%22id%22:%22214591039%22%2C%22login%22:%22p_nataliam5d_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:09:58+00:00	auth-token	cb6lry57wxbtpcc3unsbi2664fsiov

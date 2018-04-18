@@ -1,0 +1,14 @@
+#n_sergioo2f_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	M%2BftAHGZr%2Fntc8sQUQ4fJcWQHtkGtDjncQOxKZp4WlM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:19:34+00:00	unique_id	64b666791949eced
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:19:34+00:00	_twitch_session_id	b217e9e7a793fe7b6abc7ee3f6ed1e6f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:19:34+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:20:02+00:00	persistent	214581238%3A%3A9iwpd6p6jemcs15boyuhftk9p773qg
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:20:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODEyMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMyMDAzLCJpYXQiOjE1MjM4MjcyMDN9.SyhXRcF2LLXb1hoteQ_X-fm0l3nlEC3nFBI1KkbpSNo4GuEHKpeBgsgC6ZmtcUC1Wi76Un_tb_K6rUpNv8lvEw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:20:02+00:00	login	n_sergioo2f_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:20:02+00:00	name	n_sergioo2f_h
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:20:02+00:00	last_login	2018-04-15T21:20:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:20:02+00:00	api_token	a6cba5275d6522228bf37cc3dfe0056c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:20:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fc2VyZ2lvbzJmX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc5MjAzLCJpYXQiOjE1MjM4MjcyMDMsIm5vbmNlIjoiS0d0SVBjYmxTQjlxLW5LQ3pnNkNiaWFHa2FUSzFyVU1ib3FxVmhlLTBBWT0ifQ%3D%3D.y16R2TS2-7yzauGtPLhIJesPEDsi9HMqX5Onl1f3Gw1DikwGHx-24j-DiQ63xca9Nf7nM2q5tkcXRXSTKu2FCA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:20:42+00:00	twilight-user	{%22authToken%22:%2246dw5s00xiy4q2w8i3ijqwxch7lurk%22%2C%22displayName%22:%22n_sergioo2f_h%22%2C%22id%22:%22214581238%22%2C%22login%22:%22n_sergioo2f_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:20:42+00:00	auth-token	46dw5s00xiy4q2w8i3ijqwxch7lurk

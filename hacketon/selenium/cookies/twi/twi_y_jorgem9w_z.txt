@@ -1,0 +1,14 @@
+#y_jorgem9w_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BnFRfTxcwEACWAWiuWFtghGVD1a1AnzI31mgm%2BUG5Js%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:57:06+00:00	unique_id	8fec588d77ff2184
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:57:06+00:00	_twitch_session_id	d2b0b336eec41991e422e2ece24d3506
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:57:06+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:57:30+00:00	persistent	215084584%3A%3Al04c7b4utvpsgjtg1ip7ripeii2hb1
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:57:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODQ1ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3MDUxLCJpYXQiOjE1MjQwMDIyNTF9.PafdogS9coXVDVLJCj5FZesjVtHFf8i_wpl9iimzZxWJ-7MHJn_iqkNZ9n9PGFucZ5a_MR0mm-SObldYUwNyiQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:57:30+00:00	login	y_jorgem9w_z
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:57:30+00:00	name	y_jorgem9w_z
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:57:30+00:00	last_login	2018-04-17T21:57:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:57:30+00:00	api_token	1af4be9f66e3d25fcb114819edd76d79
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:57:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfam9yZ2VtOXdfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTQyNTEsImlhdCI6MTUyNDAwMjI1MSwibm9uY2UiOiJmczktQ0ptODAtNEhsTGZVWUc4WVRxNG93TUExakxWQkZqejBhbC1ZQXRjPSJ9.C5xYkWy7xX9mMnDsxzsJKMns-GFSaCRqp-gVC0Xj_j5gOK-4-qICwkWNA05N0XL-J2nHohE9GXsw74olJi81Jw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:58:21+00:00	twilight-user	{%22authToken%22:%22cf743xhbftk6sfdjblhqpdokz8h3fo%22%2C%22displayName%22:%22y_jorgem9w_z%22%2C%22id%22:%22215084584%22%2C%22login%22:%22y_jorgem9w_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:58:21+00:00	auth-token	cf743xhbftk6sfdjblhqpdokz8h3fo

@@ -1,0 +1,13 @@
+#g_jesseb70_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0ZGfr0NMsUU%2BEDGPFh8Edvx2l7YXW54s60vHHs5E7Co%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:18:08+00:00	unique_id	f6659912ad4e0291
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:18:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:18:37+00:00	persistent	214804522%3A%3A4is7h6w9iowz0jlx2cqdqxmy30vwnk
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:18:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDQ1MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxOTE3LCJpYXQiOjE1MjM5MTcxMTd9.6pqOhyORQDmpmuv8ChbeZW8WeHfm6TLp2cS-V_j26aWhYDeJxKY_SzA5lO9NtOihR38Xyzn4zt4hi6r8DqjijQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:18:37+00:00	login	g_jesseb70_7
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:18:37+00:00	name	g_jesseb70_7
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:18:37+00:00	last_login	2018-04-16T22:18:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:18:37+00:00	api_token	1752cdf1d77cbf0af3b3da00cc51e4a1
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:18:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamVzc2ViNzBfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjkxMTcsImlhdCI6MTUyMzkxNzExNywibm9uY2UiOiJmUzBVbkVWSXBoN3RHdWZabUc1Zmh6SmI2OHVEZUhKN0szOFhxR0dPSHVJPSJ9.VrjCRqGshaZ2nu37zWajYIpkGYom8HG2DtuvAlMWp5YE9uWCfqlHkZUInhc6yvjRSbvvgHlcpgCYXWdTE-mjzQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:19:21+00:00	twilight-user	{%22authToken%22:%22p1f2gvat11i2vko334huhnfqq2v6tn%22%2C%22displayName%22:%22g_jesseb70_7%22%2C%22id%22:%22214804522%22%2C%22login%22:%22g_jesseb70_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:19:21+00:00	auth-token	p1f2gvat11i2vko334huhnfqq2v6tn

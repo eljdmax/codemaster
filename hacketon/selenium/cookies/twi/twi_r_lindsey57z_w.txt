@@ -1,0 +1,14 @@
+#r_lindsey57z_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SI%2BLyd4bu6H0X6T70hbhUTOtU%2BYJYv7XbNMI0WVRpIA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:16:10+00:00	unique_id	51732827bac16019
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:16:10+00:00	_twitch_session_id	0022aaf266479d1b3c0dfb0f55308970
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:16:10+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:16:29+00:00	persistent	214567119%3A%3Ald71j4tlpczqhu9at0emrhzbj3xazw
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:16:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjcxMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4MTkwLCJpYXQiOjE1MjM4MjMzOTB9._22ay1akW1sscylBNcWLT9eZWILS9dWAc9mOWY0VPTq1-0lcEN059RleyIk7Lqwh1T0GatF3Bhzo3i8ooN7CYA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:16:29+00:00	login	r_lindsey57z_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:16:29+00:00	name	r_lindsey57z_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:16:29+00:00	last_login	2018-04-15T20:16:30Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:16:29+00:00	api_token	0dce20dcc74c47b8505d44b6be3a3343
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:16:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbGluZHNleTU3el93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTM5MCwiaWF0IjoxNTIzODIzMzkwLCJub25jZSI6IjdDS1JpZlUxTTZmQlRFNEk3bWotbFZzQzdrX2laTVlTc203TGtONmxuWHM9In0%3D.IuIHI-EaW9XnqIsIUSEXgFZOjDi_gHQckvSGzfSlRXhczdEcZX7SlIJmJYbzG72Lt-YH1-6SdzrTiehhxdlysQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:17:09+00:00	twilight-user	{%22authToken%22:%22ruip5k55igf1d1pgtzb2f0w67f23ms%22%2C%22displayName%22:%22r_lindsey57z_w%22%2C%22id%22:%22214567119%22%2C%22login%22:%22r_lindsey57z_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:17:09+00:00	auth-token	ruip5k55igf1d1pgtzb2f0w67f23ms

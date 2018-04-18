@@ -1,0 +1,13 @@
+#w_emmanuel695_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gEaksWUBDx2qj33MJbDf8A%2BhtSUOJeo7GPr8rkxqIHQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:28:50+00:00	unique_id	0c90ff7666b77e1b
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:28:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:29:05+00:00	persistent	214781801%3A%3Aj6a4n7zbyl2vofcei2flj9t1mhdpgj
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:29:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODE4MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1MzQ1LCJpYXQiOjE1MjM5MTA1NDV9.EEf3XZ5BkWijvWndUoKf7ZicghTxlFhFok4_4Ak2M1JBgoksl8oU4vqbtBUqE5_lUboEsPrJ2Ak8P7PQ6zV6Fw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:29:05+00:00	login	w_emmanuel695_t
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:29:05+00:00	name	w_emmanuel695_t
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:29:05+00:00	last_login	2018-04-16T20:29:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:29:05+00:00	api_token	0e66fbd333d23789bdd849477c3e9bd0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:29:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZW1tYW51ZWw2OTVfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjI1NDUsImlhdCI6MTUyMzkxMDU0NSwibm9uY2UiOiJMZFAyeXFUZnJzOUpOOE15ZENZTzZ5SXdtSGtQMjhHZC1KUU02a3VwaVk0PSJ9.-iV0XxMpUiMd6PN2DBedsSLT_6idQXByIsrJ7UKPT6DWL3z-gAOGNVki_ne7ZCngtxFZiSAcWqw5WJs0Icm1Tw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:29:47+00:00	twilight-user	{%22authToken%22:%22uf2cf33jtv88v3nbn3h3kk0y2nfq41%22%2C%22displayName%22:%22w_emmanuel695_t%22%2C%22id%22:%22214781801%22%2C%22login%22:%22w_emmanuel695_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:29:47+00:00	auth-token	uf2cf33jtv88v3nbn3h3kk0y2nfq41

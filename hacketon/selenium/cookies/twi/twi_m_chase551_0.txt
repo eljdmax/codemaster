@@ -1,0 +1,13 @@
+#m_chase551_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kYDXpKta3xeO6X9yS%2BNtDk7vrwDoVAD2d0gpVcyka88%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:52:57+00:00	unique_id	34102ecf7f910cbb
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:52:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:53:32+00:00	persistent	214561440%3A%3Ab3kgtgp1px7uesgu6fjwxhkzp76kgx
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:53:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjE0NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2ODEzLCJpYXQiOjE1MjM4MjIwMTN9.whZhz0dOqW1-VwK8HQV-n4WuTvQQPDahpcKE-5XCcbjoK5xYyLKJlfH0TPhg2g_Zl9KZ-cKYtyOP-ZDChY6BbA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:53:32+00:00	login	m_chase551_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:53:32+00:00	name	m_chase551_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:53:32+00:00	last_login	2018-04-15T19:53:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:53:32+00:00	api_token	78403eb95cdb1cf4fa20ef1f9cf0a5f0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:53:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fY2hhc2U1NTFfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzQwMTMsImlhdCI6MTUyMzgyMjAxMywibm9uY2UiOiJXekVmRWo4UEpiMU5ZMktKb0RuRXUtUmVVaEpjQmpwUVAxajBCSFc5X3JzPSJ9.-m8x_BXJPCQEwS0XMBTb1fzrURRUte93GkOU0rArZhsSvEviD6rWt5pz5kqtVhGsDUPHZXI9c5mjjezhfHwizg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:13+00:00	twilight-user	{%22authToken%22:%22ftqomqjmmbcmny0yw3s2ept7puvau6%22%2C%22displayName%22:%22m_chase551_0%22%2C%22id%22:%22214561440%22%2C%22login%22:%22m_chase551_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:54:13+00:00	auth-token	ftqomqjmmbcmny0yw3s2ept7puvau6

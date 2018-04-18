@@ -1,0 +1,14 @@
+#r_cesar08k_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yFJBgxnB9TRMXTKvdfmknFvutFXy3KdTYF3Mh1YCRNs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:44:40+00:00	unique_id	23256dc5931e9adf
+.twitch.tv	TRUE	/	TRUE	2018-04-16T09:44:40+00:00	_twitch_session_id	6d493d00ce655d06b3cd586ac2501301
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:44:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:45:00+00:00	persistent	214586314%3A%3Aikic72i35mm7nmdszhv347juek8g12
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:45:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODYzMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzNTAwLCJpYXQiOjE1MjM4Mjg3MDB9.ZlD293LbHQse0vLghrzbu3qDC-JUrgi_Y4ZOI2RVM8C4Ev-dLxNik4QEYUx4q8XKEAVOS2o1R0M5nESd0AlEVg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:45:00+00:00	login	r_cesar08k_5
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:45:00+00:00	name	r_cesar08k_5
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:45:00+00:00	last_login	2018-04-15T21:45:00Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:45:00+00:00	api_token	03d8ca5acd59fd1a6f92ff9ebaab4bf0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:45:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2VzYXIwOGtfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODA3MDAsImlhdCI6MTUyMzgyODcwMCwibm9uY2UiOiJtc2dKWTA2TnpaS01FdDRhV3EzVkFJMzR4WFA1d3E4bFZUN0F2eV9qTkVVPSJ9.ZM7bXbWlCp1hxXleEDa2xduk6YRL6LpO97-SfhCFyNREE6SfcSKH2ZPYGF3ikh6yToyLZS4KTqMnWBn_un2BOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:45:40+00:00	twilight-user	{%22authToken%22:%22pk1jh2z2oi8fxk30karvd2bho9g7va%22%2C%22displayName%22:%22r_cesar08k_5%22%2C%22id%22:%22214586314%22%2C%22login%22:%22r_cesar08k_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:45:40+00:00	auth-token	pk1jh2z2oi8fxk30karvd2bho9g7va

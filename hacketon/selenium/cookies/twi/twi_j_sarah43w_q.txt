@@ -1,0 +1,14 @@
+#j_sarah43w_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PAOGmEVImobZtAhhjKF1aINfFhkpIaRMMMTpt7Q0GvI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:33:31+00:00	unique_id	6f449e8f8d5adac3
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:33:31+00:00	_twitch_session_id	b800263bd58b817babae0828b42c4c37
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:33:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:33:47+00:00	persistent	214812658%3A%3Aau46ckfkjzrxn3nd83tau9ewyfwiyq
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:33:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTI2NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyODI4LCJpYXQiOjE1MjM5MTgwMjh9.lqDXFHFz9cFdpz9DboZZEELGJG3ZRsWAp6hPk3B3Dc1Lf16Nrl-AYCcATXA7ybx8U09OOrK4vyL4slOfljjeCQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:33:47+00:00	login	j_sarah43w_q
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:33:47+00:00	name	j_sarah43w_q
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:33:47+00:00	last_login	2018-04-16T22:33:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:33:47+00:00	api_token	3da047caea318f9457429771ae3af708
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:33:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfc2FyYWg0M3dfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzAwMjgsImlhdCI6MTUyMzkxODAyOCwibm9uY2UiOiJCLWxMcTRfX3dwSEhZazRPSFhQZVVnZ1FXVURfRWNRT3Z3cGp2YW0talowPSJ9.zo31-ct4ChcOgMeXvJ5B1Eknwo2mFGpbM1UuSI4qsJ6I0RnW73iIwcSp3FhdnOAT9zEx6nwSnah9ZsY4UkkQFg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:34:33+00:00	twilight-user	{%22authToken%22:%228j34lee35nis966zpg011hrkhdcm3j%22%2C%22displayName%22:%22j_sarah43w_q%22%2C%22id%22:%22214812658%22%2C%22login%22:%22j_sarah43w_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:34:33+00:00	auth-token	8j34lee35nis966zpg011hrkhdcm3j

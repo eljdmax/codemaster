@@ -1,0 +1,13 @@
+#j_levi84l_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FLqGRL9v19YLEJLxjM2YWbu%2BkB9ZgYZaWah9LidD8Kw%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:05:32+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2028-04-16T22:05:32+00:00	unique_id	610e0105432737ab
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:05:56+00:00	persistent	214801264%3A%3Ag1yptu96f8w6ffxwiiphka32ifix22
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:05:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDEyNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxMTU2LCJpYXQiOjE1MjM5MTYzNTZ9._X-axtHHV14UAwDykEkfSBNGOPdY62u2GvsWDBEPz_-nK61OJnQ3js7uiBbCiptvfM5hbwSY9wCoz0xBvXWuPg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:05:56+00:00	login	j_levi84l_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:05:56+00:00	name	j_levi84l_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:05:56+00:00	last_login	2018-04-16T22:05:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:05:56+00:00	api_token	4ff9d397b340d901224e56f8977d3fe1
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:05:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbGV2aTg0bF8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2ODM1NiwiaWF0IjoxNTIzOTE2MzU2LCJub25jZSI6IjB6Q21kZXRiVV8ycWlVNk53YUU5aXJaMDlfTHBfSWhvdU9DME40c0ZkMVU9In0%3D.YwMBpNujYIaHAIl5pyA2nzgKtxmPOe6J2K3dOV8rxf5wZtt7zuRX2uX5gW3Abt80NEoDZbLyfyHuF5qHdkZ3XA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:06:40+00:00	twilight-user	{%22authToken%22:%22prifzh6lj6n6lfi9b79ivj7tly24ip%22%2C%22displayName%22:%22j_levi84l_0%22%2C%22id%22:%22214801264%22%2C%22login%22:%22j_levi84l_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:06:40+00:00	auth-token	prifzh6lj6n6lfi9b79ivj7tly24ip

@@ -1,0 +1,13 @@
+#k_lauren01r_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	oY9YuK7rbL8HY9BfZ8dDyCPrdXREB4z7W88Bk5KmgAY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:12:18+00:00	unique_id	298bb06bbfdbbb43
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:12:18+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:12:35+00:00	persistent	214579764%3A%3Ac88us6hd7xq5g3i0xke58djnevv9zd
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:12:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Nzk3NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMxNTU1LCJpYXQiOjE1MjM4MjY3NTV9.erF2QZGwnRlsLf995JTEdb3Cw4_7Migc1aaevoNT6uIqN-IoBANyRv1cXczTza6hVl1frWxfkVJLwfTymtAykA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:12:35+00:00	login	k_lauren01r_9
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:12:35+00:00	name	k_lauren01r_9
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:12:35+00:00	last_login	2018-04-15T21:12:35Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:12:35+00:00	api_token	18f21f8d13c16083d547f345c9afae66
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:12:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbGF1cmVuMDFyXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc4NzU1LCJpYXQiOjE1MjM4MjY3NTUsIm5vbmNlIjoiU1RoV2ROOEN2QXJnS2VucGFvNTdSVWJ5d2tJU0ZtbGNPX3ZvbE1sWE1NST0ifQ%3D%3D.FNNv3EzPsGV8_81ZdoD5-bcLSJarSYlkZY04nXZBGAjjfssogm8rWhRm9eOorfmIz6Siffs5_TnT_8alR3Ez-Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:13:16+00:00	twilight-user	{%22authToken%22:%222cnnufrfrcsx2jh3a2axesuijnl1b8%22%2C%22displayName%22:%22k_lauren01r_9%22%2C%22id%22:%22214579764%22%2C%22login%22:%22k_lauren01r_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:13:16+00:00	auth-token	2cnnufrfrcsx2jh3a2axesuijnl1b8

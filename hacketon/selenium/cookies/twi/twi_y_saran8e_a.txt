@@ -1,0 +1,15 @@
+#y_saran8e_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LjjuBlL48Ama9IJIhUCBZt8nuHBNgFnZSgZnuOqgcr0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:55:28+00:00	unique_id	dca00f71f219ba92
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:55:28+00:00	_twitch_session_id	302d361d9df9666633f8f61d090d7c03
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:55:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:55:43+00:00	persistent	214799422%3A%3Aem4yegz6dh24v1tcxujrtrj9c63pk4
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:55:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTk0MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNTQ0LCJpYXQiOjE1MjM5MTU3NDR9.G6rYKir_5f7BMT6uUCOSgFmB-Mjv8cqtAzTWUlAVyizHiOcE2C8jLJg4yIT673wuStnzq9YS6Q9lD1_yOR8K8A==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:55:43+00:00	login	y_saran8e_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:55:43+00:00	name	y_saran8e_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:55:43+00:00	last_login	2018-04-16T21:55:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:55:43+00:00	api_token	bea8fd4026a1c1e5c43a5fb49f489093
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:55:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc2FyYW44ZV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2Nzc0NCwiaWF0IjoxNTIzOTE1NzQ0LCJub25jZSI6IkhqY2VBM3M4Zk9MZlZPa2ZvYTJnOVVEczJXSHdkY2k2MzQtYkJ4WFl1Q1E9In0%3D.rnXdC9YDSJiKl-LS6xvYbKloIbhqQrleUelhlVpgZU-8PoFjFxYzW9CetXixUY8b8Z7QC859exQTYlX9De-raw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:56:28+00:00	twilight-user	{%22authToken%22:%22fcleklaf3koo9rbfgdc0z4564di2ef%22%2C%22displayName%22:%22y_saran8e_a%22%2C%22id%22:%22214799422%22%2C%22login%22:%22y_saran8e_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:56:28+00:00	auth-token	fcleklaf3koo9rbfgdc0z4564di2ef
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:56:30+00:00	twilight_onboarding	true

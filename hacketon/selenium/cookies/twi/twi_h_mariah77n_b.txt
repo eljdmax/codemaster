@@ -1,0 +1,13 @@
+#h_mariah77n_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nIAdnTzvVA5a49PE%2BY5ZDIVGTeOEcjGxzB7FvEHpTsg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:59:30+00:00	unique_id	47293d0d8c033177
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:59:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:59:58+00:00	persistent	214823064%3A%3A9mvacp19r3n1u0qnck5x5xzq36uh1v
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:59:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjMwNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0Mzk4LCJpYXQiOjE1MjM5MTk1OTh9.jKmHsn0mpX7hvMfkpTQkLpawxIk7aCPT8W5niuGU7JtWgqtmCF56TfK6gQ967-Qjf680FdAGloCsVwFeIuhrfA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:58+00:00	login	h_mariah77n_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:58+00:00	name	h_mariah77n_b
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:59:58+00:00	last_login	2018-04-16T22:59:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:59:58+00:00	api_token	cd3a6024818b680cbfbc3fd018cc1f87
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:59:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFyaWFoNzduX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcxNTk4LCJpYXQiOjE1MjM5MTk1OTgsIm5vbmNlIjoic19UMk5LTkZFM3NZdFB1VExSTk1fdDJBMl9lVGtGVDZrLUJ2Z2hJUXhEVT0ifQ%3D%3D.j2x0n6xyFiIzNT9_SOtO1nNM3neaxef-kV8fsZXI5yVmprK9D3WwvOCm-Tz7NXOIpBcrWcmQ_YV54QKLnz2Qlg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:00:42+00:00	twilight-user	{%22authToken%22:%22xazopsleimtxtp2xilk1hku71hhv55%22%2C%22displayName%22:%22h_mariah77n_b%22%2C%22id%22:%22214823064%22%2C%22login%22:%22h_mariah77n_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T00:00:42+00:00	auth-token	xazopsleimtxtp2xilk1hku71hhv55

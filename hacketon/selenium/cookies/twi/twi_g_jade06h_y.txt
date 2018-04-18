@@ -1,0 +1,14 @@
+#g_jade06h_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4hRshxsuHDNtJQyZKp561SpFPfWULM1lpqgZz9VLHHk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:15:22+00:00	unique_id	50a7226190db6f4b
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:15:22+00:00	_twitch_session_id	a9b1f6cc690d3107475124f0d791de97
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:15:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:15:45+00:00	persistent	214803414%3A%3A38386n5rk4djvppj5kozrt553n0gjc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:15:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDM0MTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNzQ2LCJpYXQiOjE1MjM5MTY5NDZ9.xxeK_2Ppyz_WypM3xI60U0afwfiDjJ3zLeyaxizdm6Hngxe6zRNGTttwo3WGQyvQasKwbC3Je6_nobgJVQ2lFw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:15:45+00:00	login	g_jade06h_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:15:45+00:00	name	g_jade06h_y
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:15:45+00:00	last_login	2018-04-16T22:15:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:15:45+00:00	api_token	4ba59c500179c75bed63d469b10de98d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:15:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamFkZTA2aF95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2ODk0NiwiaWF0IjoxNTIzOTE2OTQ2LCJub25jZSI6InpJdDJNTE1JMVFJZ1hCRHVlZkJpV2VnZ3dfbnVXUi1FX1I0YXgtZ1Y1S1U9In0%3D.lMgbFVBNEYvkSWBtmrKam0AfXWqiND254DyUjs8mAvs3smAPwsW3G5YM25o5mBC3VUKFOAQaS2_ApjgcRDygew%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:16:29+00:00	twilight-user	{%22authToken%22:%224e607sjk8l3dle1cfssa0zilblfff2%22%2C%22displayName%22:%22g_jade06h_y%22%2C%22id%22:%22214803414%22%2C%22login%22:%22g_jade06h_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:16:29+00:00	auth-token	4e607sjk8l3dle1cfssa0zilblfff2

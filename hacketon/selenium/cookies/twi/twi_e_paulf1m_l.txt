@@ -1,0 +1,13 @@
+#e_paulf1m_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3gDj4eS5vX6lM2ho5FExPMck3jUViOfm3xEjVBOOnPk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:36:42+00:00	unique_id	86ba4b9c273c3037
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:36:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:37:10+00:00	persistent	214557216%3A%3Abw1rd5gdbo9kx898mp2sa0xsfu5tax
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:37:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTcyMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1ODMxLCJpYXQiOjE1MjM4MjEwMzF9.R0H2GYCcZNxflyuekLd_j76QlLBgGdgHW2Z7JFgIp9qTHijJ723sfc6Jv51Z5B53PiKGBSRKmStaTkWKdgW77Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:37:10+00:00	login	e_paulf1m_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:37:10+00:00	name	e_paulf1m_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:37:10+00:00	last_login	2018-04-15T19:37:11Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:37:10+00:00	api_token	44b35a60d2191926078c3cb450068da5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:37:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfcGF1bGYxbV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzAzMSwiaWF0IjoxNTIzODIxMDMxLCJub25jZSI6Ik14WktCN0EtekhpLTVrWS1YSzBhNHVtbWNjTGhkd1VKT2Q1V0VsTUlTbU09In0%3D.9QoOdYvEc0T0ICqNaHQHPVNXn_DasIieUSEIf5jVJZt93PxVN0J6uCWrFs6B-rCzdkN8hnObwX5P_xfRPIpcng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:37:52+00:00	twilight-user	{%22authToken%22:%224uz7tup9ec6jx95dv74gf7d4yn3zva%22%2C%22displayName%22:%22e_paulf1m_l%22%2C%22id%22:%22214557216%22%2C%22login%22:%22e_paulf1m_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:37:52+00:00	auth-token	4uz7tup9ec6jx95dv74gf7d4yn3zva

@@ -1,0 +1,13 @@
+#o_kaitlyna9t_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Idecdtn%2FLMCEAY%2F2pfv6bj6GNEmdM21kgUymwH8XIhI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:38:12+00:00	unique_id	daf48cfc5135ed12
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:38:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:38:39+00:00	persistent	214557616%3A%3Am936g9pkkqb3se8bmv6php77n0sef7
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:38:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTc2MTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1OTIwLCJpYXQiOjE1MjM4MjExMjB9.EMTRpEWpLI7rFhGQkf2vDqdxTy0s4WTAjd9Uf1KcUaKeu3Nx67O6ACTQolvHwshUVdUy6f3U-Ams7chgyOU09A==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:38:39+00:00	login	o_kaitlyna9t_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:38:39+00:00	name	o_kaitlyna9t_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:38:39+00:00	last_login	2018-04-15T19:38:40Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:38:39+00:00	api_token	d99666bcbf00e1464527170596a7bf63
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:38:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fa2FpdGx5bmE5dF8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzEyMCwiaWF0IjoxNTIzODIxMTIwLCJub25jZSI6IjlZUWw1MFhnN01sb21Ndm02UG1reVZYUXJZQkdYYkhFblZrWThNR24tOHM9In0%3D.f3KXPijDSml6WvBGqVk1oeHNoEql8bj4n1rkb2snmEVH-q6UX9mys8UsggCDWDuhM-xX_c_79I0er3hH7Vvy5w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:39:19+00:00	twilight-user	{%22authToken%22:%22vhpsmgyh62xeiv6uof7fvaa0rrp8iv%22%2C%22displayName%22:%22o_kaitlyna9t_0%22%2C%22id%22:%22214557616%22%2C%22login%22:%22o_kaitlyna9t_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:39:19+00:00	auth-token	vhpsmgyh62xeiv6uof7fvaa0rrp8iv

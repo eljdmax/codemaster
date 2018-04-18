@@ -1,0 +1,14 @@
+#r_dylanc3a_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mIERhVBdJMNYXCtdxds%2FTQXwm2ZbiEQ3JRB4Dg2pwmk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T19:56:31+00:00	unique_id	01d9723f8b227d69
+.twitch.tv	TRUE	/	TRUE	2018-04-18T07:56:31+00:00	_twitch_session_id	60e743cb5b4118ee7bbbb56e22170292
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:56:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T19:56:59+00:00	persistent	215055477%3A%3Aml0dcbluzwockxzdzf4fgx2uk6ef0w
+.twitch.tv	TRUE	/	TRUE	2018-04-24T19:56:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTU0NzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTk5ODIwLCJpYXQiOjE1MjM5OTUwMjB9.EXyxTHjx-hgMeKBjYo7OnwSnm7jdIEpwDzwKtLs2zAjjkjv8wies7xtpYy7BvGlqkIG0HZVK6mKKTVJJgVoheA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:56:59+00:00	login	r_dylanc3a_m
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:56:59+00:00	name	r_dylanc3a_m
+.twitch.tv	TRUE	/	FALSE	2018-10-02T19:56:59+00:00	last_login	2018-04-17T19:57:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T19:56:59+00:00	api_token	f22773ba63a9776cb4439372a40052c0
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:56:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZHlsYW5jM2FfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDcwMjAsImlhdCI6MTUyMzk5NTAyMCwibm9uY2UiOiJwNkRRbWdsUnB3ZUVHdWJIcHhaTEZjMGNiMzlkMUlMaF9tTTlKcWdDM0tRPSJ9.nmnppALUCDfhvEv8q1LyTZujsI01SM7L_vrxa1ljJxUqMS83qax-NIYATVZI-xOM7xoKjHe0Qs0d8Z_zM4CCnQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:57:50+00:00	twilight-user	{%22authToken%22:%22n78t8lrc9u7q7pb73es645j72z8sqb%22%2C%22displayName%22:%22r_dylanc3a_m%22%2C%22id%22:%22215055477%22%2C%22login%22:%22r_dylanc3a_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T20:57:50+00:00	auth-token	n78t8lrc9u7q7pb73es645j72z8sqb

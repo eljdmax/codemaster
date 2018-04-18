@@ -1,0 +1,14 @@
+#h_amanda20m_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	o4t40kAotqEc0QiCXeEcMAfCgHCgcttmaU%2FgobVeTeE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:46:13+00:00	unique_id	86475930d4466804
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:46:13+00:00	_twitch_session_id	30c178391d85390f5386687cef3b50c8
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:46:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:46:39+00:00	persistent	214785279%3A%3A5npfyulim1sm491yovif8i1dkike1c
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:46:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODUyNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2Mzk5LCJpYXQiOjE1MjM5MTE1OTl9.rF1Kd-PlTgu2xag_sPdScsY4KYDi-wWXD52frk6fnyNNo909IWy4nRwKfO-t5tTJyp-DBFdZAfRFXKvmvg8moA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:46:39+00:00	login	h_amanda20m_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:46:39+00:00	name	h_amanda20m_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:46:39+00:00	last_login	2018-04-16T20:46:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:46:39+00:00	api_token	e5b9cecc45c9086875b4ba73c99314ba
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:46:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYW1hbmRhMjBtXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYzNTk5LCJpYXQiOjE1MjM5MTE1OTksIm5vbmNlIjoiazhJODl1ak03RkY1SXp3NUZaRm5wWGU0NnBaYkdMMFdfajFidVIzdllNdz0ifQ%3D%3D.wMyB-IPFCPSemjWBe9tcqnimFF_ubdWKtkfXKKdeps8_C82qVFDwSYl9WKx4lD_CMWqY641CN6hLcbvqO5We_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:47:23+00:00	twilight-user	{%22authToken%22:%22mtq3fifqxj1hnf1khxk2b6ail4zute%22%2C%22displayName%22:%22h_amanda20m_0%22%2C%22id%22:%22214785279%22%2C%22login%22:%22h_amanda20m_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:47:23+00:00	auth-token	mtq3fifqxj1hnf1khxk2b6ail4zute

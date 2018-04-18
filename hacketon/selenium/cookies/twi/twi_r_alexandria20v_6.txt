@@ -1,0 +1,14 @@
+#r_alexandria20v_6
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:56:27+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ugQfbaTo7ASUjzaOzR8nIqo5m7PhEOrQoZG6Dj%2FVV20%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:56:27+00:00	unique_id	3fc4801bc1f9f179
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:56:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:56:49+00:00	persistent	214799607%3A%3Audpz0shlvxz7go5gfyko4exjhgbmr1
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:56:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTk2MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwNjA5LCJpYXQiOjE1MjM5MTU4MDl9.of-THXkS-76iMy0qU691fhA9Hd6rvKJLuZ5YTeqGb3IgXic-4CpijP64_Sou3BtK32HidK3hEAlFyswMBJuG9w==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:56:49+00:00	login	r_alexandria20v_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:56:49+00:00	name	r_alexandria20v_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:56:49+00:00	last_login	2018-04-16T21:56:49Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:56:49+00:00	api_token	ac39d243d1e55f7927de0628ac7e4c41
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:56:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYWxleGFuZHJpYTIwdl82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NzgwOSwiaWF0IjoxNTIzOTE1ODA5LCJub25jZSI6IlN5S1VNSXdtd3VadE9ENmY3eERNOS1WdnVQUVdoT0F5R1FwUU1HdF92ZGs9In0%3D.syEYjq6zU0vufrS3sq9TgtfmPhDR3v-1_wlpauFFBILlDeu3hiXbqsThpGHXRTGPxo29gTfnpGStgWWKWjmlQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:57:34+00:00	twilight-user	{%22authToken%22:%22y03ggi3zdt2ec9r1qxeigh51ylcjz8%22%2C%22displayName%22:%22r_alexandria20v_6%22%2C%22id%22:%22214799607%22%2C%22login%22:%22r_alexandria20v_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:57:34+00:00	auth-token	y03ggi3zdt2ec9r1qxeigh51ylcjz8

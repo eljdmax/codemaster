@@ -1,0 +1,14 @@
+#q_javiera1m_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ne9eWbjatggxXbXVePQsp2%2FQ2MpjlVEjBcFME5ZCLow%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:19:51+00:00	unique_id	937227e775f85103
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:19:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:20:10+00:00	persistent	214805315%3A%3Abkug1emjl5giwboded5omnib9v8djz
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:20:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDUzMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIyMDEwLCJpYXQiOjE1MjM5MTcyMTB9.CS7nY9rb5VdFjuvCuON5lTW6EsSL-BDogGTjVJIiiKVz1327_prDeBcX6-MFjZrSokfI_7cntUZz-x4ZNCX6tg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:20:10+00:00	login	q_javiera1m_k
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:20:10+00:00	name	q_javiera1m_k
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:20:10+00:00	last_login	2018-04-16T22:20:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:20:10+00:00	api_token	ee79a93ef9641337cedc0661fb42e522
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:20:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfamF2aWVyYTFtX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY5MjEwLCJpYXQiOjE1MjM5MTcyMTAsIm5vbmNlIjoidnBydkpCNUhTRGFaOWhqM1Z6RVdxYU9YdWFnQURCRUxIUjhjM0htZmFSVT0ifQ%3D%3D.9730DHYyuAb7onFhL27nBLOK8-74LyewGytduY-DYq9fe4e1ID9n83yKRSG6PTOJZGF1jYt9ezA2_4rWOp1shA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:20:54+00:00	twilight-user	{%22authToken%22:%225l3tybcjmme2uexxv83wzfk0wttqmk%22%2C%22displayName%22:%22q_javiera1m_k%22%2C%22id%22:%22214805315%22%2C%22login%22:%22q_javiera1m_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:20:54+00:00	auth-token	5l3tybcjmme2uexxv83wzfk0wttqmk
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:20:56+00:00	twilight_onboarding	true

@@ -1,0 +1,15 @@
+#k_alexw74_1
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:51:52+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-16T22:51:11+00:00	unique_id	d9b73862f376c7fc
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:51:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Y1N57ziDoH%2FYHzTWmGUaqAeaQsZ6ZZeRTXUTPFIxrH4%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:54:43+00:00	_twitch_session_id	7a9493f5dad9544666ffcef366fa7337
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:55:02+00:00	persistent	214821149%3A%3An7hd0oflcam3cbe5x2oddaq23zoefc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:55:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MjExNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTI0MTAzLCJpYXQiOjE1MjM5MTkzMDN9.7YjDSrLYzsHkiTU01aXOBVkjeysNoSg5ChzTAz7dW0rbv3ht_33I2qXW9DkvcqUINVAOzY1FaD9yEVUy2u5G8g==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:55:02+00:00	login	k_alexw74_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:55:02+00:00	name	k_alexw74_1
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:55:02+00:00	last_login	2018-04-16T22:55:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:55:02+00:00	api_token	85520a8e6b87c80caf373fa67722545e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:55:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYWxleHc3NF8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ3MTMwMywiaWF0IjoxNTIzOTE5MzAzLCJub25jZSI6Im8yc2FMRVdNdG5JZjZQQVlObVpYeTNpMkJNS09VblcxSXgtMDhrZ3JiMjQ9In0%3D.6XsQZdYnh6zUDfy9K2Lm9LvCchrLw3o0elRSuQzluOGuGidMsKXsp-ecs19rJoN2ShM6Aqcl0TdLnbJs-jtAAg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:55:47+00:00	twilight-user	{%22authToken%22:%22hoibxbo4g3d0rh88192hqrs8ukk2xf%22%2C%22displayName%22:%22k_alexw74_1%22%2C%22id%22:%22214821149%22%2C%22login%22:%22k_alexw74_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:55:49+00:00	auth-token	hoibxbo4g3d0rh88192hqrs8ukk2xf

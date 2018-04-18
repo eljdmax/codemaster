@@ -1,0 +1,13 @@
+#m_hope98w_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7FZog%2F52TjwXzU%2F6U%2FuFi2UC%2FAlEn2RfcP1hKUKrTJU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:01:15+00:00	unique_id	97c07faf8d331ed0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:01:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:01:41+00:00	persistent	214563514%3A%3At8sbpba317queao90okv8yfn5ljype
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:01:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjM1MTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MzAyLCJpYXQiOjE1MjM4MjI1MDJ9.QU-kI-buIGkhyf2lDAjZi77kj7yk0-A2iFlm7TICEMF_MCwwbKfi2SAZAdEA7kDZ36Vwbst4rP39acUg337X5w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:01:41+00:00	login	m_hope98w_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:01:41+00:00	name	m_hope98w_x
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:01:41+00:00	last_login	2018-04-15T20:01:42Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:01:41+00:00	api_token	22ac2e287a44883a031e82f5f2e27eac
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:01:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1faG9wZTk4d194IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDUwMiwiaWF0IjoxNTIzODIyNTAyLCJub25jZSI6InlpVTh2WkZraDhqbW1HX1Z4T1pXRHVWTDdrTkdDdEpmTzlaWENRMl96X289In0%3D.yyadHX0k70WMwzimRea0ek0L5i4jTHXIkOzpocKF4CMZEP_ViAwxAAEytDYgmPqD9cb2iOV52zAZKJc6c-RXVA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:02:21+00:00	twilight-user	{%22authToken%22:%22ekgtn3a0kb7ii7q0rkvtt5baxc4423%22%2C%22displayName%22:%22m_hope98w_x%22%2C%22id%22:%22214563514%22%2C%22login%22:%22m_hope98w_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:02:21+00:00	auth-token	ekgtn3a0kb7ii7q0rkvtt5baxc4423

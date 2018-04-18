@@ -1,0 +1,14 @@
+#i_ariannaa7s_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cI20HLt3%2BZSFMFVGnkaJk8RVztgtRkNiyllHHsOVwZs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:15:03+00:00	unique_id	1e02f38debc26d56
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:15:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:15:24+00:00	persistent	214566861%3A%3Ag2ehtd2x1uff7up7i1go09zo0z0tex
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:15:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjY4NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4MTI1LCJpYXQiOjE1MjM4MjMzMjV9.pirFwpJz9GT_CO5vcOqQb2HvQZ2ryTYNgvzf1U_xEd7Lq8Nge8-R-OotiiUKwvevUDOmu843vHStUNzGLjajzQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:15:24+00:00	login	i_ariannaa7s_q
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:15:24+00:00	name	i_ariannaa7s_q
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:15:24+00:00	last_login	2018-04-15T20:15:25Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:15:24+00:00	api_token	3f8a98f2dbc543036f80072d45ed65c3
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:15:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYXJpYW5uYWE3c19xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTMyNSwiaWF0IjoxNTIzODIzMzI1LCJub25jZSI6Ii0zb1NKdm1yVTdzREE3RU5xWUwxM19TdFAyU3cwX3lXV1FoTkhSM1FFbmc9In0%3D.6wfjr_4hryQAzia95Hf9ZQFO7_wPlOoM5LH09-C0c6NWUBWU_5ZbVZRf2BSUUU4lNRTQyrKYQ6Gi6RI_VPDmnA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:16:03+00:00	twilight-user	{%22authToken%22:%22a1b4tb9s3zw6qv082997klwiazrtv7%22%2C%22displayName%22:%22i_ariannaa7s_q%22%2C%22id%22:%22214566861%22%2C%22login%22:%22i_ariannaa7s_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:16:03+00:00	auth-token	a1b4tb9s3zw6qv082997klwiazrtv7
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:16:06+00:00	twilight_onboarding	true

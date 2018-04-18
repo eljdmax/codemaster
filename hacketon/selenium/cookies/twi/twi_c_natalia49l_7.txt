@@ -1,0 +1,15 @@
+#c_natalia49l_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PCD0LnPhcevtih5lKNMXZWeR6QYrFK%2BLItkXs%2FaKq3Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:07:57+00:00	unique_id	739a26f3c331ec56
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:07:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:08:23+00:00	persistent	214590856%3A%3Awmeda68ntxjuve7lu5qnl8qacdkfo1
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:08:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTA4NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0OTAzLCJpYXQiOjE1MjM4MzAxMDN9.heBWRN3SW1t267CuEx1aN8pjQ9tkpyCO81plJBHLO6xSK-elOfWmMRssM5afFi2WivCNLpMpQK47mp9_LIv9fg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:08:23+00:00	login	c_natalia49l_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:08:23+00:00	name	c_natalia49l_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:08:23+00:00	last_login	2018-04-15T22:08:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:08:23+00:00	api_token	b793143a6b71397afb9cec91c424187d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:08:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbmF0YWxpYTQ5bF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MjEwMywiaWF0IjoxNTIzODMwMTAzLCJub25jZSI6ImxUaHRHNU8yOVNWdkplNU5pTmhaTTl4dGxTbFQxV093VVZQTEZHTWZobVk9In0%3D.o89hyakcSLniVGeaNseNkIuFNgputBL_FE327r0oVkEWQ4eM_KJbiYJRRPEDqfxrfM8ILy4qRA3RdMrFLQW9PA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	D3UpdpUg4WyZLg90Mf3TB4xhdXdxtQYT
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM4MzM3NDksIm52IjowLCJ1cHQiOjE1MjM4MzM3NDEsImx0IjoxNTIzODMzNzQxfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:09:09+00:00	twilight-user	{%22authToken%22:%22lz5gts7r9ph4or7ogbulth9uuwe4f8%22%2C%22displayName%22:%22c_natalia49l_7%22%2C%22id%22:%22214590856%22%2C%22login%22:%22c_natalia49l_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:09:09+00:00	auth-token	lz5gts7r9ph4or7ogbulth9uuwe4f8

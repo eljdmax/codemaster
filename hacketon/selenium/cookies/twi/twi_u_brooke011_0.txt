@@ -1,0 +1,14 @@
+#u_brooke011_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QzEPyahqbWSCm90qy6ihRu5uDA22igrZ27eu8%2BE%2F1hg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:05:07+00:00	unique_id	c3703aadee7dcca3
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:05:07+00:00	_twitch_session_id	7c28a687e810b8306790204abf7c9596
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:05:08+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:05:36+00:00	persistent	215072600%3A%3A41hri1rx6jhk4lzshrnqzjgs3chmka
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:05:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzI2MDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzOTM3LCJpYXQiOjE1MjM5OTkxMzd9.7cGvt2C8D_alkTHpnGWWiGXrhN8ERkA1IcADGs2HUdlNIGop0c91Hz5FkKayvukJcoI2dqcV8LLvcnAhv-YLng==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:05:36+00:00	login	u_brooke011_0
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:05:36+00:00	name	u_brooke011_0
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:05:36+00:00	last_login	2018-04-17T21:05:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:05:36+00:00	api_token	8a9b6ace9a30c2da4fc372f5b726f739
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:05:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYnJvb2tlMDExXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTUxMTM3LCJpYXQiOjE1MjM5OTkxMzcsIm5vbmNlIjoiZ2REWi1lU1B1MkVsa2RIbkxfbUllMmV4Vnp5bTFYODNvSmt4dXBiVldYMD0ifQ%3D%3D.fQleK8xukNa5X0UfaZIrGxm3OsZsfFUnKXPKk6SphY8YQqKWY93ZFA_p9eeKwhRdOBHVaagPHAvJkhy2fkGpug%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:06:27+00:00	twilight-user	{%22authToken%22:%22ymhj2t6rvfkvcm13au106p99dhhtph%22%2C%22displayName%22:%22u_brooke011_0%22%2C%22id%22:%22215072600%22%2C%22login%22:%22u_brooke011_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:06:27+00:00	auth-token	ymhj2t6rvfkvcm13au106p99dhhtph

@@ -1,0 +1,14 @@
+#n_vanessaz35_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7%2BX5jxz6kSWugjiB9HGUOuRkI1O9V1ax1osXAiRX56Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:03:28+00:00	unique_id	4302da9413a5cd65
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:03:28+00:00	_twitch_session_id	02f1dfdef2226a58a016ef935fd3747e
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:03:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:03:50+00:00	persistent	214800880%3A%3Ad6nfk1dhg4k01vszyiecolne65awn9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:03:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDA4ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxMDMwLCJpYXQiOjE1MjM5MTYyMzB9.WXMcDrXKIBCVVmPtjnJpJK_nZaUyJ4hOFHMT-XFc8uPornZqly40Wy73OQWckKRzdOBUmvYKxaa-mAakHUCl6Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:03:50+00:00	login	n_vanessaz35_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:03:50+00:00	name	n_vanessaz35_g
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:03:50+00:00	last_login	2018-04-16T22:03:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:03:50+00:00	api_token	07624e26bd5c4862d158170af103574c
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:03:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fdmFuZXNzYXozNV9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2ODIzMCwiaWF0IjoxNTIzOTE2MjMwLCJub25jZSI6IjJmT2JQdFNFZlB6Y2FDVTZZSG1yZGItVU50RTJvTUp0V1pFN3R6ZXg4dHM9In0%3D._l1AT8w3343l1RCeeE94C225DKWa-sj2hZ6zY-G3fZF7fXDw9SBycxJUUnNe27UmJRvXDweTH6IL0TLjNZS5bw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:04:32+00:00	twilight-user	{%22authToken%22:%226du1dqxo7bxr94han9gt340s2upj7r%22%2C%22displayName%22:%22n_vanessaz35_g%22%2C%22id%22:%22214800880%22%2C%22login%22:%22n_vanessaz35_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:04:32+00:00	auth-token	6du1dqxo7bxr94han9gt340s2upj7r

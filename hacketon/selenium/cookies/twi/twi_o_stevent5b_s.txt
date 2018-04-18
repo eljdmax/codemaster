@@ -1,0 +1,13 @@
+#o_stevent5b_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	W0JVFRgq%2Bk8tRBd7rPjTMJ9nrBL8RwcM3vDXnLQK2KU%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:09:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2028-04-16T22:09:38+00:00	unique_id	5325949f0159f3d8
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:10:06+00:00	persistent	214802067%3A%3Aw3g1d27584s5nybceqszegey3r7esx
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:10:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDIwNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNDA2LCJpYXQiOjE1MjM5MTY2MDZ9.ZrE5-dqltfaxotyMZyNTbMFZ-QaUTCJTPWe72csxp8SwjJt_1M5H3iVWiSW8doXtgM5p9Hrs-KJhkuUDxqW7iA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:10:06+00:00	login	o_stevent5b_s
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:10:06+00:00	name	o_stevent5b_s
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:10:06+00:00	last_login	2018-04-16T22:10:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:10:06+00:00	api_token	4ee82c34f053dcf829acebad665b8523
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:10:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fc3RldmVudDViX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY4NjA2LCJpYXQiOjE1MjM5MTY2MDYsIm5vbmNlIjoieFhPd0Jfem9ObWt5NlduR0JYbGRFdGtneElUdXNickRvSFZZdl9YNVpHaz0ifQ%3D%3D.xK8oSIqQVbHvOaXK5if74eP-jaxEaHop62AoXLrOh8ie7_XHGXD8nBv5Kvx_g06SJpU3LPRbNOuiGT6xjqCoGw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:10:50+00:00	twilight-user	{%22authToken%22:%22njq8ara84llf9iddhwmydejm1tfpa5%22%2C%22displayName%22:%22o_stevent5b_s%22%2C%22id%22:%22214802067%22%2C%22login%22:%22o_stevent5b_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:10:50+00:00	auth-token	njq8ara84llf9iddhwmydejm1tfpa5

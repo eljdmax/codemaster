@@ -1,0 +1,14 @@
+#c_cameronk3d_n
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM5OTkxOTIsIm52IjowLCJ1cHQiOjE1MjM5OTkxODMsImx0IjoxNTIzOTk5MTgzfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Qi2ONaWJ1xfZCQBH58RmY1VIyQsrsiH1DUyL3YFJDW8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:09:16+00:00	unique_id	48b53d3555c6c04b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:09:36+00:00	persistent	215058642%3A%3Acvhwmx6httstodlonn5n7wajwskz1y
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:09:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTg2NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNTc2LCJpYXQiOjE1MjM5OTU3NzZ9.Lpk4owjbbMsZBDmXiGH-0o2M1euTwEvYmz5vbfbsaOGvNqzchp87zywEEnlRSIvmwEwBJNBtXYy126-4HFTWCg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:36+00:00	login	c_cameronk3d_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:36+00:00	name	c_cameronk3d_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:36+00:00	last_login	2018-04-17T20:09:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:09:36+00:00	api_token	89c3a6276970a9f407b1eed1a8b7f0fe
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfY2FtZXJvbmszZF9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0Nzc3NiwiaWF0IjoxNTIzOTk1Nzc2LCJub25jZSI6IkVBdkxKbWtpMmNISDB6N2M1YlZTeTM0bDR4R1JnalZud25ubDRyWW1TWTA9In0%3D.lG0pd3Unf6DeftW9a1xbFgU5vWKvTblWtjlOS3ztiMJB2vpKsrBAoSZMR2w9EpzBvm0ud0dK7BEGJnwrebHC9A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:10:24+00:00	twilight-user	{%22authToken%22:%22lywqibx9flkzrld409zzwyha03tj0i%22%2C%22displayName%22:%22c_cameronk3d_n%22%2C%22id%22:%22215058642%22%2C%22login%22:%22c_cameronk3d_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:10:24+00:00	auth-token	lywqibx9flkzrld409zzwyha03tj0i

@@ -1,0 +1,14 @@
+#b_sydney984_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BQ6AlG1ncHMKTHu94eOFDocbrvb3%2BNBg6Iypf3M3A5E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:14:07+00:00	unique_id	84ce031e09d9686d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:14:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:14:26+00:00	persistent	214802993%3A%3A4ia2alguzb5pz1h1n3eb5w5oxgu6ur
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:14:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MDI5OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIxNjY2LCJpYXQiOjE1MjM5MTY4NjZ9.10adJ1m9Bi7Y3AuGTvXLtUxd8YYDD_UwISCjh0dwza8dYVz0rkScx2R_rlBeJj_LkduJ8cWNKutsBtsPLoH8Ww==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:14:26+00:00	login	b_sydney984_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:14:26+00:00	name	b_sydney984_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:14:26+00:00	last_login	2018-04-16T22:14:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:14:26+00:00	api_token	a325e6335b99bbe5a8a640fd7c8d3be0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:14:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc3lkbmV5OTg0X3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY4ODY2LCJpYXQiOjE1MjM5MTY4NjYsIm5vbmNlIjoiR2YwYmRBWUx0eUZJOHJhcV95dWpnYzFnbS1WOGxubEZWaXJyVzhZSmhWMD0ifQ%3D%3D.748bZIxVuv_8K48L1_1mhhw-HyqhnWepRKfD8-oLuHWE85QVMC_fxzklF-tGPHm7gAz4Kn8CyCJhKZ_TH97qxA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:15:11+00:00	twilight-user	{%22authToken%22:%22ruq3ec8hr3v91dr07ve5debbk07ow9%22%2C%22displayName%22:%22b_sydney984_u%22%2C%22id%22:%22214802993%22%2C%22login%22:%22b_sydney984_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:15:11+00:00	auth-token	ruq3ec8hr3v91dr07ve5debbk07ow9
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:15:12+00:00	twilight_onboarding	true

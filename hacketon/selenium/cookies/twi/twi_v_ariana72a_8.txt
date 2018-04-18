@@ -1,0 +1,13 @@
+#v_ariana72a_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	h7B6tVKc33xciBr%2BYIjd8t6%2BvgClPtUQzK%2FPFEXnWjc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:22:04+00:00	unique_id	ab722f520825ce86
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:22:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:22:19+00:00	persistent	214593543%3A%3Akyjtk3ltbl1854b7j188oyjsv0hbgt
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:22:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTM1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1NzQwLCJpYXQiOjE1MjM4MzA5NDB9.CQ9HDy3KsIW8Wxv4tl-set1oeWRPjO8jDFemGvtDh88utjXWtfuzwC57DMDVHmiCmn_v5HTIYGhyeDdzmRJUow==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:22:19+00:00	login	v_ariana72a_8
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:22:19+00:00	name	v_ariana72a_8
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:22:19+00:00	last_login	2018-04-15T22:22:20Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:22:19+00:00	api_token	afc765d3f4f716141a8d09f9336f367a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:22:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYXJpYW5hNzJhXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgyOTQwLCJpYXQiOjE1MjM4MzA5NDAsIm5vbmNlIjoiSDRFN1ZJdE5KSXMyYko4YXZjQURfVmhKUjlPMGQwOVpzNG9pT0xJSE9sQT0ifQ%3D%3D.jlCuFKL1kFENS98qHJTesfJR1epUgr_XAQyTmo4H0GDdmJ4edk4RCgRdwQNwUqWPUb4TKYk6wwuYeTzK9xceoQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:22:59+00:00	twilight-user	{%22authToken%22:%22qepgpledoli2lidzai6ynnmbqinu1m%22%2C%22displayName%22:%22v_ariana72a_8%22%2C%22id%22:%22214593543%22%2C%22login%22:%22v_ariana72a_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:22:59+00:00	auth-token	qepgpledoli2lidzai6ynnmbqinu1m

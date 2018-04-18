@@ -1,0 +1,13 @@
+#q_bradley14d_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Sm8XFpUmdzTB3iA1gWWvzXPV5gq2FcFal20OuQtqUi0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:28:16+00:00	unique_id	905563cd3cc7f0f7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:28:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:28:48+00:00	persistent	214569997%3A%3A70mj9wezzff6tada2unhrwcknk51xf
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:28:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njk5OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4OTI5LCJpYXQiOjE1MjM4MjQxMjl9.l7naJKvIYY0n_V-FeQnEI1zAh-Se7PDq8T0rpAZ_4wt7IVbnHU00zzwXTq_kb60jwUcdli7XCaatb5Vl5ZO4XQ==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:28:48+00:00	login	q_bradley14d_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:28:48+00:00	name	q_bradley14d_1
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:28:48+00:00	last_login	2018-04-15T20:28:49Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:28:48+00:00	api_token	f3df98f04b1486f29c436e5cbdf16867
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:28:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYnJhZGxleTE0ZF8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NjEyOSwiaWF0IjoxNTIzODI0MTI5LCJub25jZSI6IkxsdU51bU9iQmZvUXVjOC1uelJjZ2NqS25JdWRJdmd2TzE3N3ZXZlRIejg9In0%3D.pOn27MdnBjdUxTjE8I1cBGBZJyG5owwIHZR0DXvNNt4pzUPmMl4d8E7Y3q_NlwAFAqyaCWfilhnjGJRTUQuedA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:29:27+00:00	twilight-user	{%22authToken%22:%22arvgav8arbdydnm7r19k2wqam8v6oj%22%2C%22displayName%22:%22q_bradley14d_1%22%2C%22id%22:%22214569997%22%2C%22login%22:%22q_bradley14d_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:29:27+00:00	auth-token	arvgav8arbdydnm7r19k2wqam8v6oj

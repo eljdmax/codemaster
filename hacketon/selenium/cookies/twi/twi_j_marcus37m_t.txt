@@ -1,0 +1,13 @@
+#j_marcus37m_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IZac6j2etNfHGgEPtS5dRFY1PHw6OIk14zX11pfGtY4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:11:37+00:00	unique_id	dba6422a4bf7cb39
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:11:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:12:01+00:00	persistent	214566023%3A%3Awmwp50y5r9r84wzt0ka3tysm4uodt6
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:12:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjYwMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3OTIyLCJpYXQiOjE1MjM4MjMxMjJ9.hSVEwwk5MqcP7Tw9TbLjUftf0Ktg5JdWp-6MRy8ZKxl_7szYZEkfp6LeoCrxp-GmCtrYz8CFH9jaubgBsPIp9Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:12:01+00:00	login	j_marcus37m_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:12:01+00:00	name	j_marcus37m_t
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:12:01+00:00	last_login	2018-04-15T20:12:02Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:12:01+00:00	api_token	c644f5ec800e8186fff6473a556b94fe
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:12:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFyY3VzMzdtX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc1MTIyLCJpYXQiOjE1MjM4MjMxMjIsIm5vbmNlIjoiempsR3docmFfYnFjaFNsbUdUM09qdmphWU14NzJQMkUzZnpaQ2o5RktnTT0ifQ%3D%3D.uwvgxgK0kwEFjdHiAkeMJBR_GjaK88txFtKoEMi6DdnA11LC4CPvkB0_dEeOC6Ab-TKAKEXOqpwNmqsrMKTp5g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:12:43+00:00	twilight-user	{%22authToken%22:%22sy2cmamuyrtza0is71gg02l6lbgeta%22%2C%22displayName%22:%22j_marcus37m_t%22%2C%22id%22:%22214566023%22%2C%22login%22:%22j_marcus37m_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:12:43+00:00	auth-token	sy2cmamuyrtza0is71gg02l6lbgeta

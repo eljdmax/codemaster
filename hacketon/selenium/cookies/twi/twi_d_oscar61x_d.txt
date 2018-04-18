@@ -1,0 +1,14 @@
+#d_oscar61x_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	30EF%2F%2FjCDgAsVA6WB9Gvvf85Wdj4be96cm1WjykCH0I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:52:36+00:00	unique_id	4a38569ecec19771
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:52:36+00:00	_twitch_session_id	fc51400e9869c4d083a8725bb9c29814
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:52:36+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:52:51+00:00	persistent	214575491%3A%3Atjk4logg166tqk3r2vpfz5fpqnjblz
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:52:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzU0OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwMzcyLCJpYXQiOjE1MjM4MjU1NzJ9.7JN7faUYJk3o2v24sKqxIMG0Q9qdXgIYR-hyZTKrODgbsIMKssIzJI93OTkdLDIJDNLrNpur72XigrPFO-OoBw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:52:51+00:00	login	d_oscar61x_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:52:51+00:00	name	d_oscar61x_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:52:51+00:00	last_login	2018-04-15T20:52:52Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:52:51+00:00	api_token	1d1d754ed795ba6e4c1515936ac53a84
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:52:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfb3NjYXI2MXhfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzc1NzIsImlhdCI6MTUyMzgyNTU3Miwibm9uY2UiOiJQWHBDdTRoRTU0YTZXaTgyTHVROXFfLWNfWVRUMUt0a1prYy1hMHUyVjFVPSJ9.vwr1dncx4t-E79XDz7OfzgjsNIbCoHqCA2MbDaQHSCnLV6Qm1kfnuu3eN2s4OT0D8mhO8KlTwog2jh2d5pRGqg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:53:31+00:00	twilight-user	{%22authToken%22:%22c4q82425szfwdmhtr7jxx3dcpbacee%22%2C%22displayName%22:%22d_oscar61x_d%22%2C%22id%22:%22214575491%22%2C%22login%22:%22d_oscar61x_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:53:31+00:00	auth-token	c4q82425szfwdmhtr7jxx3dcpbacee

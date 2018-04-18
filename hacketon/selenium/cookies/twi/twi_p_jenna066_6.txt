@@ -1,0 +1,13 @@
+#p_jenna066_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YzkF4hnhCrRR7dD1aZLk6UblZjepbbuNtgJcU%2FQT%2FKc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:31:21+00:00	unique_id	f2533769068ca5d1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:31:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:31:46+00:00	persistent	214555782%3A%3Ajgpx8kjmidw6bpbbsc773os24aslnf
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:31:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTU3ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI1NTA3LCJpYXQiOjE1MjM4MjA3MDd9.JXDT6jEvKGEnjzLpuq07LClSUEq7TRTBJctdnm3fupXx7byJz9RsNLLzqBCmktP06lzbMmhaZ_iGstpAEnl2ag==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:31:46+00:00	login	p_jenna066_6
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:31:46+00:00	name	p_jenna066_6
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:31:46+00:00	last_login	2018-04-15T19:31:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:31:46+00:00	api_token	bbf416de3317cdda8adf04b6d892f591
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:31:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfamVubmEwNjZfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzI3MDcsImlhdCI6MTUyMzgyMDcwNywibm9uY2UiOiItdlhINkhfTzIzelRYSzR5UnVYSTIyRnR4YnlkNnVjM1BXR0tIMEs4NWhVPSJ9.8HJytjD4F9ql2ERQGGpw-KxMLYC9d3xAzV6aWXIaU9N084yuP9MeaacZ3SwmQwiIrwVyYSWsAVRfaPTcygGLdQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:32:25+00:00	twilight-user	{%22authToken%22:%22xtk5gemuhetaqpz95nib3jl1wat4kl%22%2C%22displayName%22:%22p_jenna066_6%22%2C%22id%22:%22214555782%22%2C%22login%22:%22p_jenna066_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:32:25+00:00	auth-token	xtk5gemuhetaqpz95nib3jl1wat4kl

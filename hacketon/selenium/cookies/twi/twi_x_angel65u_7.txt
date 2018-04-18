@@ -1,0 +1,13 @@
+#x_angel65u_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5E0Kbf8sVSCNv6527WTSpu6VrPwkgJVk%2B3hnib%2B4nCI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:42:47+00:00	unique_id	bd4c8ce1c2fce2c0
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:42:47+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:43:02+00:00	persistent	214585910%3A%3Altsgod6q66iaqzo2iq79b3kb5fdj31
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:43:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODU5MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzMzgzLCJpYXQiOjE1MjM4Mjg1ODN9.9dZsTVJgCC1IKGYsKyePpZ9UZ1TYc52C-PPPax5Cndel_moCQ73nLQVWdarSQ582VS2YI_Apa1UNMmGRVhzOhw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:43:02+00:00	login	x_angel65u_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:43:02+00:00	name	x_angel65u_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:43:02+00:00	last_login	2018-04-15T21:43:03Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:43:02+00:00	api_token	eb5c82877c9efbc9403a9cf36e29661c
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:43:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYW5nZWw2NXVfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzODA1ODMsImlhdCI6MTUyMzgyODU4Mywibm9uY2UiOiJZMF92TldBdUlOU3gtazhWMGM5N1ltcHBZVFNkQ0h5ZXVwaVgtRHExWVZvPSJ9.QHwzaFDoN3McH83c-DwZse04V5VcMrdcN4wxXrcZgXCibfCgLmHq9WyMDTpY7H5XltS_0bE0elwKtmRiVcd-Gw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:43:40+00:00	twilight-user	{%22authToken%22:%22hbdi4govpsqkwrxxr3mhu1wuc3oqw8%22%2C%22displayName%22:%22x_angel65u_7%22%2C%22id%22:%22214585910%22%2C%22login%22:%22x_angel65u_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:43:40+00:00	auth-token	hbdi4govpsqkwrxxr3mhu1wuc3oqw8

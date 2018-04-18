@@ -1,0 +1,13 @@
+#b_alana16d_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WivXQWq3SDkJyVe00SRYNdrAGUR5OIA7e%2F3%2FNcRkgpo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:30:17+00:00	unique_id	a0d25638dcd188ac
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:30:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:30:47+00:00	persistent	214570468%3A%3Aljxevoazyc0rr6bmmzd206rvus934y
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:30:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzA0NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5MDQ3LCJpYXQiOjE1MjM4MjQyNDd9.Cgrg8JSnBhxPSqDLFRlwWRztxCtZDulCO81cIY5LyxlRhit6goQuuUD-r8a-v72tZx8_x5MhPryH941ewSgxbg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:47+00:00	login	b_alana16d_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:47+00:00	name	b_alana16d_g
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:47+00:00	last_login	2018-04-15T20:30:47Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:30:47+00:00	api_token	787598bfb445a701ae1bc48b01877bab
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:30:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYWxhbmExNmRfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzYyNDcsImlhdCI6MTUyMzgyNDI0Nywibm9uY2UiOiJWSkFueWhsMFg3STFXT3ZjdDBiSUZNemVfU1ZvTG8wZ1VBNk8wMG5QUVJjPSJ9.ZPJQiY1qAldmiGet8FX7M8N8NdoW0NyWURITc2XEsznZiKpm2_BBDA8TeEwweHSqpGcQPnsxTXTX4o2Ggmd6xA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:31:25+00:00	twilight-user	{%22authToken%22:%22rjvkoxicj07f468dz3vkzmlxpdhrg1%22%2C%22displayName%22:%22b_alana16d_g%22%2C%22id%22:%22214570468%22%2C%22login%22:%22b_alana16d_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:31:25+00:00	auth-token	rjvkoxicj07f468dz3vkzmlxpdhrg1

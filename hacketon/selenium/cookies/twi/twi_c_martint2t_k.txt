@@ -1,0 +1,14 @@
+#c_martint2t_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WO8fLJN%2B%2Fg6tj3O75zoECzO91VpLt80QPhhIqEazD3A%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:12:07+00:00	unique_id	35a979f2abc23f40
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:12:07+00:00	_twitch_session_id	e1e273f84a07bba20641592d628320b6
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:12:07+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:12:21+00:00	persistent	215087946%3A%3Acqto43qf888s1fvmtgr9x3d4v7lhgv
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:12:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODc5NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3OTQxLCJpYXQiOjE1MjQwMDMxNDF9.RBnuzYB208kXx6WYGMxYaQrW8otn10Rs6eUVqjMVSsjy8dUw86jl8RMwQCvJFU5RxPiWA-Etxa9CaT282Nxzww==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:12:21+00:00	login	c_martint2t_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:12:21+00:00	name	c_martint2t_k
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:12:21+00:00	last_login	2018-04-17T22:12:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:12:21+00:00	api_token	20ee2a8608e4adf4c6e87dd4020b038f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:12:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbWFydGludDJ0X2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU1MTQxLCJpYXQiOjE1MjQwMDMxNDEsIm5vbmNlIjoiNVdZdHFubHJQYU1FdjBITk1ocEtza0hncl9OOVI3NUZLQS1pX3FmblUwUT0ifQ%3D%3D.-2H4hDb0e7vQojDLk7-jixYbOu4NxiFJitMG6igigYPYSeef2OuigbTvuosh82lbCXAVGHk-KQfngkOQScI8JA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:13:09+00:00	twilight-user	{%22authToken%22:%22bzcypvdy2j49q9ys9lr5mx9b6igaca%22%2C%22displayName%22:%22c_martint2t_k%22%2C%22id%22:%22215087946%22%2C%22login%22:%22c_martint2t_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:13:09+00:00	auth-token	bzcypvdy2j49q9ys9lr5mx9b6igaca

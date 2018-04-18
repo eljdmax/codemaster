@@ -1,0 +1,13 @@
+#w_miguelw0i_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9ZTnjcx1zt1awAHh9IndHCcHGQ5AxUbi7fdaMbuF7Lk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:04:50+00:00	unique_id	c35108dc03201e33
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:04:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:05:13+00:00	persistent	214590257%3A%3An4sdubv6zrhic26ydezadjlcjq7ita
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:05:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTAyNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0NzEzLCJpYXQiOjE1MjM4Mjk5MTN9.24ONzkYS7kXymEs-tHqCrUFjhcK1FL8PgVSaKLlnOx8Tsad8GpuBaQstvgxa0O2TWSVK6dxnlFPHY-2VWqVQ8Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:05:13+00:00	login	w_miguelw0i_4
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:05:13+00:00	name	w_miguelw0i_4
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:05:13+00:00	last_login	2018-04-15T22:05:13Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:05:13+00:00	api_token	795b440dac8921554b66b49c29c20243
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:05:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbWlndWVsdzBpXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxOTEzLCJpYXQiOjE1MjM4Mjk5MTMsIm5vbmNlIjoiZGMwb21VMmFpMUJ1OG5BY0M4MENZMTFTakllT19VSk1kaFVoaFNPVzgzVT0ifQ%3D%3D.Lnuh9--hqb9P2yFlrkR1OlhHLJUj_QLoZEq1EBNfu4tLJDlBi0BBKqdQy8iYBO6vJZKMm5PXQeSMv5BwVG2h3A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:05:52+00:00	twilight-user	{%22authToken%22:%22mt9s576723x57y98okhcx3dgf2oa64%22%2C%22displayName%22:%22w_miguelw0i_4%22%2C%22id%22:%22214590257%22%2C%22login%22:%22w_miguelw0i_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:05:52+00:00	auth-token	mt9s576723x57y98okhcx3dgf2oa64

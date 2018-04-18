@@ -1,0 +1,14 @@
+#d_ariannam1c_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IhShXzWhgzs%2FjHErGdHQekfYJr18qZHZGENHgicpfi8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:33:02+00:00	unique_id	8b7ad4be5bdc920f
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:33:02+00:00	_twitch_session_id	0f491a87b37ff321badf6e0aff914fd6
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:33:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:33:29+00:00	persistent	215079163%3A%3Athqio22s64s1ybqjc5xgvgig4pieaj
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:33:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzkxNjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1NjA5LCJpYXQiOjE1MjQwMDA4MDl9.wxdBqsqxX1kANzbcK-OKJR_96_Mw-vLFu8hJWxSI5wed6fc6U_d8sFhu00G_WV2IZ_wI1c-ujRo9P76oBCSorw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:33:29+00:00	login	d_ariannam1c_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:33:29+00:00	name	d_ariannam1c_8
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:33:29+00:00	last_login	2018-04-17T21:33:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:33:29+00:00	api_token	16eff2281a98e2dd050ab9ffdb3010eb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:33:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYXJpYW5uYW0xY184IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MjgwOSwiaWF0IjoxNTI0MDAwODA5LCJub25jZSI6IjRBSXdpX3RRcVFTQm0xU3F5ZTVveV9KTUZhUGxWVHNydFhCVS1mNUVVLVk9In0%3D.zuUkM2AXEFw7r6-RGNofcaZl9xU7ReeGz-vvQJG-iDx5OF95_t1Nw-cJDEfFQOaD8-_L3onJqBOh5IgC01mgng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:34:20+00:00	twilight-user	{%22authToken%22:%22unxdqar7cqa7p9l5splirrc67zdhn7%22%2C%22displayName%22:%22d_ariannam1c_8%22%2C%22id%22:%22215079163%22%2C%22login%22:%22d_ariannam1c_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:34:20+00:00	auth-token	unxdqar7cqa7p9l5splirrc67zdhn7

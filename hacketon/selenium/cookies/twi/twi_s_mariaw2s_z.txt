@@ -1,0 +1,14 @@
+#s_mariaw2s_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rlhEkz%2FW784dQmj%2BLCVxHpEegFUgaNwqMkwRJhEs1ZQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:39:11+00:00	unique_id	d775537658b50a82
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:39:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:39:27+00:00	persistent	214572454%3A%3Aahj0y5mxswu0ze7pdimop3s5tz35op
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:39:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzI0NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5NTY3LCJpYXQiOjE1MjM4MjQ3Njd9._fSA2cBgK7IkSztDWASTSZJTUgbizqn8M_JAsBmi5dS22rAmNhLz5MdD2wj-e9_9ONmooZJVQG-68DPX8Ue_TA==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:39:27+00:00	login	s_mariaw2s_z
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:39:27+00:00	name	s_mariaw2s_z
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:39:27+00:00	last_login	2018-04-15T20:39:27Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:39:27+00:00	api_token	09beff7b4dd5e9a490a67a7b1962aa91
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:39:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWFyaWF3MnNfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzY3NjcsImlhdCI6MTUyMzgyNDc2Nywibm9uY2UiOiIyUGd4X190LUxKekFTZl9GMFdUNjR3aVVoN3N4V3R6VkM1OGV0anFGZzRrPSJ9.wlns9PXHPYxSGKZWpCk_Rkm9LG0lxC_BFOs7_mTbLszjM4jpSfJgfv-LuSOGbmalx0a5ILVXptSXYRp4-9UaRw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:40:06+00:00	twilight-user	{%22authToken%22:%227bmqrosohrpk4l7cbtutytd9ludgh7%22%2C%22displayName%22:%22s_mariaw2s_z%22%2C%22id%22:%22214572454%22%2C%22login%22:%22s_mariaw2s_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:40:06+00:00	auth-token	7bmqrosohrpk4l7cbtutytd9ludgh7
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:40:07+00:00	twilight_onboarding	true

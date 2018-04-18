@@ -1,0 +1,13 @@
+#d_danielb2m_o
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:55:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1fV3Tabqy65haT53kbwpcv8RPcZfIwbL5DEj2ISJ%2Bnw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:58:34+00:00	unique_id	2c989f10e0f4fa03
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:59:13+00:00	persistent	214788034%3A%3Af7bncltf7eit934w2dy5i9bgeb8g64
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:59:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODgwMzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3MTU0LCJpYXQiOjE1MjM5MTIzNTR9.RCpEKrLenaYKe5WDshZ8sWogG0igJfLMwllegkREehwl1_Vc761Ys5Wfw1W56IIqDMzOWMSmFsMZuEr5rx1KOQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:59:13+00:00	login	d_danielb2m_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:59:13+00:00	name	d_danielb2m_o
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:59:13+00:00	last_login	2018-04-16T20:59:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:59:13+00:00	api_token	1812e4d6b7cdc35ef582e6effb776b5d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:59:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfZGFuaWVsYjJtX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY0MzU0LCJpYXQiOjE1MjM5MTIzNTQsIm5vbmNlIjoiOTMtbUl5V3h2bUJEbllsZmhMQmNrZ0pOMmFURl93VlNqZHBzaE1QSC01ST0ifQ%3D%3D.w-qIEYix4VeUNFFT6Y5Ip_vQV1OSD1ueHNKrs-W_f48K9sfk3KY3vAPKFbDyQ5T8n25r8YvZ64COj8W5KZCylQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:00:02+00:00	twilight-user	{%22authToken%22:%22n1wk2q65yaygu2bqcckokxo9954yoz%22%2C%22displayName%22:%22d_danielb2m_o%22%2C%22id%22:%22214788034%22%2C%22login%22:%22d_danielb2m_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:00:02+00:00	auth-token	n1wk2q65yaygu2bqcckokxo9954yoz

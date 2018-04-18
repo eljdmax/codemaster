@@ -1,0 +1,13 @@
+#v_josee5f_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rWrClmYn1Hrmst6aBq%2FM3mLKJg0mB85rDV8JA%2BhYifk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T22:12:21+00:00	unique_id	3e91c92c72920ac7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:12:21+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:12:42+00:00	persistent	214591681%3A%3Aao5rltprexuvzvn0sqw7sr3gr6fyc8
+.twitch.tv	TRUE	/	TRUE	2018-04-22T22:12:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1OTE2ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM1MTYzLCJpYXQiOjE1MjM4MzAzNjN9.OheRQZueInzXNPAuZO31GkGOaKjXytrm808vzmsP-hmrtOVxxB0r0ar_Qx_V4LBKtbovvf0boAaMWvt057lU-w==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:12:42+00:00	login	v_josee5f_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:12:42+00:00	name	v_josee5f_e
+.twitch.tv	TRUE	/	FALSE	2018-09-30T22:12:42+00:00	last_login	2018-04-15T22:12:43Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T22:12:42+00:00	api_token	b5ac9d44fbb9288f2d253d9c9ccde6c5
+.twitch.tv	TRUE	/	TRUE	2018-10-12T22:12:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfam9zZWU1Zl9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MjM2MywiaWF0IjoxNTIzODMwMzYzLCJub25jZSI6IjVlSC1SSGNmU1dralBwM2lKLUNWM3J4MkRwWjNGTWNXOTVoQnJlajZpd0k9In0%3D.25gxD6sIoFtlOLgEwPFm9F8JQTNw770h9jr3BG3_9WIL80Ij1H2rypm8hS6L10CCIVqlyQI9NriUa62hl36fRw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:13:22+00:00	twilight-user	{%22authToken%22:%225m05hple8017pfzfqqrtzv5lz1pkm2%22%2C%22displayName%22:%22v_josee5f_e%22%2C%22id%22:%22214591681%22%2C%22login%22:%22v_josee5f_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T23:13:22+00:00	auth-token	5m05hple8017pfzfqqrtzv5lz1pkm2

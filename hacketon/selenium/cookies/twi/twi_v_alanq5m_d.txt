@@ -1,0 +1,15 @@
+#v_alanq5m_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ko9AlER4KThL53uRVx5znm7JorX%2FVmc1JaGF6Kq6SoA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:46:20+00:00	unique_id	de954411e8e57d8a
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:46:20+00:00	_twitch_session_id	0309c754c7695b05e61633aa8479bf89
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:46:20+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:46:46+00:00	persistent	214559717%3A%3Aumjha1adbilrfqrqu8oiimfqduyioj
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:46:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTk3MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2NDA2LCJpYXQiOjE1MjM4MjE2MDZ9.V6PhRTIL0LAqz9w8u3TtN7bAnZ2tC0nkPMx-mDCMHT6QCeglPm0WXym06LVTSqS-yAUCRsM4WkVLr3i5vONedw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:46:46+00:00	login	v_alanq5m_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:46:46+00:00	name	v_alanq5m_d
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:46:46+00:00	last_login	2018-04-15T19:46:46Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:46:46+00:00	api_token	0a0626a354db50c019e9a80fa584554f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:46:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYWxhbnE1bV9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MzYwNiwiaWF0IjoxNTIzODIxNjA2LCJub25jZSI6IlM1N2NpWEZHZTdONnBTOHlOdHBlWmRjUU1YQUdRdEt2QVhPOW9jNzdPWG89In0%3D.2_FdS1n_6Wpfc35LOJR9ZwpAlWIqqZigWQVnGsqQx0ax-WpPeJStoWAtmhp9SQBeNlOgAQrX4ny6CHrkNJPQWw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:47:24+00:00	twilight-user	{%22authToken%22:%22dx7m1w3lbw9f8879jptt4r4vcipj9r%22%2C%22displayName%22:%22v_alanq5m_d%22%2C%22id%22:%22214559717%22%2C%22login%22:%22v_alanq5m_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:47:24+00:00	auth-token	dx7m1w3lbw9f8879jptt4r4vcipj9r
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:47:27+00:00	twilight_onboarding	true

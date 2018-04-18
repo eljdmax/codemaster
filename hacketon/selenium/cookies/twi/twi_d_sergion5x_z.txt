@@ -1,0 +1,14 @@
+#d_sergion5x_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FGm3qJEwozfnz%2Fw0bqLh67wnH1vsARFGvQRuZNyouPE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:37:53+00:00	unique_id	6a2430a5874319c2
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:37:53+00:00	_twitch_session_id	97bb372c3d2dd9f6e2a888f4edc4ed64
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:37:53+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:38:17+00:00	persistent	214783595%3A%3Ay29qvy087eyshjp9a909096gu0vls9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:38:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODM1OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1ODk4LCJpYXQiOjE1MjM5MTEwOTh9.Bcn5lZarNQA95UOOHpWudk2J6YQaf6PjFdQXZGYefXxVitAvJMoYfWHqvGUH9tR8DzmxgTiuC9XsIWW0wAsraw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:38:17+00:00	login	d_sergion5x_z
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:38:17+00:00	name	d_sergion5x_z
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:38:17+00:00	last_login	2018-04-16T20:38:18Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:38:17+00:00	api_token	9985c77e8d9cc961b1760df9fec8c278
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:38:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfc2VyZ2lvbjV4X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYzMDk4LCJpYXQiOjE1MjM5MTEwOTgsIm5vbmNlIjoiMXVaWDVxc2dzUE5XTW5Ya1MwaU5aSjZTUkdkMDBNTWZ3RFR2WE53cnlsTT0ifQ%3D%3D.N_FgDX6eMpXm3PEP80p6JjazFtXiNJeOyXGWW4JsWNSZiNX5wOXj9I1EbAYzVI85tzs0hZf4H8bSJzbuzOwq5g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:39:03+00:00	twilight-user	{%22authToken%22:%22ncn2k9srd73yxw5p2qzcco3q4ehueh%22%2C%22displayName%22:%22d_sergion5x_z%22%2C%22id%22:%22214783595%22%2C%22login%22:%22d_sergion5x_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:39:03+00:00	auth-token	ncn2k9srd73yxw5p2qzcco3q4ehueh

@@ -1,0 +1,13 @@
+#o_morgan25u_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8B0h3jWO3GkRJkIHlXGqKzWTnTmqiqFu%2FG6gf3FSpbU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:22:17+00:00	unique_id	bb838bfbcc39ffd6
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:22:19+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:22:33+00:00	persistent	214568537%3A%3A0m57fgeywyxnbbans2t68gu5db05l4
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:22:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1Njg1MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI4NTU0LCJpYXQiOjE1MjM4MjM3NTR9.d4FhHvKBNFN1Y5oI6w8ZP5RsADmAIACPXBRHtjOEFkn99azFj_HxytP67D0dV95R8xJTntpYswkXbsJWrL2lKg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:22:33+00:00	login	o_morgan25u_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:22:33+00:00	name	o_morgan25u_3
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:22:33+00:00	last_login	2018-04-15T20:22:34Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:22:33+00:00	api_token	d034cbe039cebf87dd4c58f521c73a04
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:22:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbW9yZ2FuMjV1XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc1NzU0LCJpYXQiOjE1MjM4MjM3NTQsIm5vbmNlIjoiQ1ZiMXZFTjJ0WkZOZmRiTEF1eGpaQTdhNTduZFRzSFU5NTZETnk2TGtSUT0ifQ%3D%3D.k6-iNop5VuwG7Xq7bg_OpyUW9e0mOsaKKdk-NbzRKLTYe8sqp515GM8Yrtl-Mj8bC0wfmA1PRg9ecv1YnWVgcQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:23:13+00:00	twilight-user	{%22authToken%22:%22p3o8u57wxrk2yjocy520060d2w8aou%22%2C%22displayName%22:%22o_morgan25u_3%22%2C%22id%22:%22214568537%22%2C%22login%22:%22o_morgan25u_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:23:13+00:00	auth-token	p3o8u57wxrk2yjocy520060d2w8aou

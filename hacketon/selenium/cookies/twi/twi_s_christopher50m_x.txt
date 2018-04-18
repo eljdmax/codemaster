@@ -1,0 +1,14 @@
+#s_christopher50m_x
+.twitch.tv	TRUE	/	TRUE	2028-04-13T23:39:23+00:00	unique_id	ffebd5e1adc0b8ef
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	R1QmMnyIFlqXUFuGgNKo3gXP8nIcfOQmoMr1IL9dttY%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:42:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:42:13+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:42:33+00:00	persistent	214816417%3A%3A2py8dxbobqqmwng3f8c6cn3j715j2j
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:42:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTY0MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzMzUzLCJpYXQiOjE1MjM5MTg1NTN9.Rp1J1uqJj20aQfUPVY9XrH1Cp5wTgRXZkT4bC0nlNlLeH7zoIIlI1bWfJAPK8myLDfflfBAuhbvgu-uN0gv-4w==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:42:33+00:00	login	s_christopher50m_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:42:33+00:00	name	s_christopher50m_x
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:42:33+00:00	last_login	2018-04-16T22:42:33Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:42:33+00:00	api_token	f015e4c86d743183f61ebacace61c595
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:42:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfY2hyaXN0b3BoZXI1MG1feCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzA1NTMsImlhdCI6MTUyMzkxODU1Mywibm9uY2UiOiJkWkd3X1R3UHc3NzFDR0NGdkNxeXdTdFVNOXJuN0JrMWt3SDByM3JHTTNvPSJ9.RFrKGZQM4ExUnovmMaxFkhC5Ej3BxizwBIFXbP_6rGtSHsPpZTOBdXir-PotrZ6ZR9bQkQ5SYWZtQazgUD7yiw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:43:20+00:00	twilight-user	{%22authToken%22:%222o64ld0w2cmfgjp4zxbghw88c0exci%22%2C%22displayName%22:%22s_christopher50m_x%22%2C%22id%22:%22214816417%22%2C%22login%22:%22s_christopher50m_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:43:20+00:00	auth-token	2o64ld0w2cmfgjp4zxbghw88c0exci

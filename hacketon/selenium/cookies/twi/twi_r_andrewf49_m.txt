@@ -1,0 +1,14 @@
+#r_andrewf49_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hHxxXtgYepHsMWyTzx8et3U%2BC9C5RR4biRxyurzzVL8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:55:53+00:00	unique_id	3284978d4917fdc3
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:55:53+00:00	_twitch_session_id	5cd6c3b83427cef1e86a5e45ab953dba
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:55:53+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:56:26+00:00	persistent	215070386%3A%3Aclyr377iill7wcbs5difzjx52xwvj8
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:56:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzAzODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzMzg3LCJpYXQiOjE1MjM5OTg1ODd9.gBX5dWP08ml1veqrAbez8hj6sJDtuKgJKPbfzkKpc1KENzEo8fGhB1-_upG_loIwZlxeyjIzDP8qJ4JlgGLcDg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:56:26+00:00	login	r_andrewf9_m
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:56:26+00:00	name	r_andrewf9_m
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:56:26+00:00	last_login	2018-04-17T20:56:27Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:56:26+00:00	api_token	f26a750bfcb03a46d27b6e211768a209
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:56:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYW5kcmV3ZjlfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTA1ODcsImlhdCI6MTUyMzk5ODU4Nywibm9uY2UiOiJ0ekZHMFhiZmF0M1MxVlZseGlrMmItbjVnb2hSelF5Y1Z3Y2RXSmo1eW00PSJ9.d5kahsLNMUZLb7wpplbCgWJJ7hrIn7EFDpzLZ_5pNCi5qyVEHspm9RbfA6meDVXXUrrJA6RaRsqFpR7YzN97Cg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:57:14+00:00	twilight-user	{%22authToken%22:%2257zptzf5fhdzun2hxvvz601vqmbede%22%2C%22displayName%22:%22r_andrewf9_m%22%2C%22id%22:%22215070386%22%2C%22login%22:%22r_andrewf9_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:57:14+00:00	auth-token	57zptzf5fhdzun2hxvvz601vqmbede

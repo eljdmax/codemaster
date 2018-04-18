@@ -1,0 +1,14 @@
+#w_nathans1t_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Z0HWg%2F9NBU2wpDyaIQvdXNxAhLYZvxrrG1E%2Bfwn%2FfEc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:27:01+00:00	unique_id	dddb3b6e95b26d5a
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:27:01+00:00	_twitch_session_id	fa885cd5ddff5a483f825ad760e15c52
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:27:01+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:27:25+00:00	persistent	215063332%3A%3Akobn87h2h43qleeb3r08iw867vb6m8
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:27:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjMzMzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxNjQ1LCJpYXQiOjE1MjM5OTY4NDV9.KwixNH78Ornuf2Y6v1ZsWphQ_OGFGRWRMKFu7zlX_WJCpfBl9MVdQ_DUydQEizplUsjFL2MZvIVXBJk6T7jS3A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:27:25+00:00	login	w_nathans1t_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:27:25+00:00	name	w_nathans1t_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:27:25+00:00	last_login	2018-04-17T20:27:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:27:25+00:00	api_token	5268c53de32e7fe7ab74668915a0e2aa
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:27:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbmF0aGFuczF0XzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTQ4ODQ1LCJpYXQiOjE1MjM5OTY4NDUsIm5vbmNlIjoiOTFFU1d2R2Z6THR5cjlLS29iQVQya3U0VDJYOUhleDdOWFZxSGVUcFlJbz0ifQ%3D%3D.xjg2SYoGixXsLTlK0uGpz1waV-bI2lSjwAFzNntS0Z0ZBt7RTFqgeFLjzErhqrTIYiWU6UvdHHwMUmEXTw3mbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:28:13+00:00	twilight-user	{%22authToken%22:%22beocjvda2boh0i2t2sw2pr94clflyo%22%2C%22displayName%22:%22w_nathans1t_9%22%2C%22id%22:%22215063332%22%2C%22login%22:%22w_nathans1t_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:28:13+00:00	auth-token	beocjvda2boh0i2t2sw2pr94clflyo

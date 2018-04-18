@@ -1,0 +1,14 @@
+#z_cristian023_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0N1ylmWLtzfTrD%2BMfD7naTSpZbkKIi7Oa9XvfP6qxGE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:07:54+00:00	unique_id	1d4d9edb247881e3
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:07:54+00:00	_twitch_session_id	2cbc153531960207a28396b1ae8c29b1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:07:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:08:22+00:00	persistent	214565161%3A%3A5u0w00pjmjbjqot44k3l04xw5z4o9s
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:08:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjUxNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3NzAzLCJpYXQiOjE1MjM4MjI5MDN9.-jcVyJb4Wcs8UNFvYfvARskX3d8DnU4yKr6iZuTaIqcKtAq4htaV1b0YHI7h4qR2YOcX-Wx10y7cMXAlrWoXng==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:08:22+00:00	login	z_cristian023_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:08:22+00:00	name	z_cristian023_r
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:08:22+00:00	last_login	2018-04-15T20:08:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:08:22+00:00	api_token	a9774e27e0680533f8b792a7dea6586a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:08:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY3Jpc3RpYW4wMjNfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzQ5MDMsImlhdCI6MTUyMzgyMjkwMywibm9uY2UiOiJYSVpQYmIzZnp4ZXFDTEJlWVQycEFMY2xDWGQzbzRWb3hFREJhVjdIN2pzPSJ9.OKsRcJQCms5nKkL0yKWryFzElK5l4zJGwiW-MXCEmSwGDtnfE0EVWS1eZLMQCdMpoo5UMKFWSQ5Qkirwc95gUA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:09:02+00:00	twilight-user	{%22authToken%22:%22f3yybt04423mdrtc3pxxvb91qtua7n%22%2C%22displayName%22:%22z_cristian023_r%22%2C%22id%22:%22214565161%22%2C%22login%22:%22z_cristian023_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:09:02+00:00	auth-token	f3yybt04423mdrtc3pxxvb91qtua7n

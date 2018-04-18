@@ -1,0 +1,14 @@
+#w_vincents5f_n
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:05:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dFmsTGUHVUnZYU4Ew97yl8%2FieCbSMzNVtsxDIARNwuw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:08:59+00:00	unique_id	241127fe82e14f5b
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:08:59+00:00	_twitch_session_id	94a2c3b36d0015ebeec66af3b4426bfb
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:09:24+00:00	persistent	214790199%3A%3Akz5kulyt2tfpjfeu38r74mug0zpckc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:09:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTAxOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3NzY0LCJpYXQiOjE1MjM5MTI5NjR9.HfRQY5O3TtdDVHP_43ik3pOxc6UjoyxYPKTo5ZneNmp_Viab-51Ek_DVp7uSePSvs-xrNsDiHXcUxyr8-JAFEg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:09:24+00:00	login	w_vincents5f_n
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:09:24+00:00	name	w_vincents5f_n
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:09:24+00:00	last_login	2018-04-16T21:09:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:09:24+00:00	api_token	d8f9c8905aaccd22a3bf7ca5fade068f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:09:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfdmluY2VudHM1Zl9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NDk2NCwiaWF0IjoxNTIzOTEyOTY0LCJub25jZSI6Imtna0xERjhFZkF6eHRVbWcxUlpQYzhsUjg2S19YNVRzOThnSXJmNGI1clE9In0%3D.n_CwIo9LjxJGa0tw0N5wbKM4n2EGXRzLAwrvpD67e3R3dfEF14sVJALBoOy_90DLgB-15Fs0lV68HI-BMh1ORA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:10:07+00:00	twilight-user	{%22authToken%22:%22yakrpj5as3lh5rxoalyhov83yyvgu4%22%2C%22displayName%22:%22w_vincents5f_n%22%2C%22id%22:%22214790199%22%2C%22login%22:%22w_vincents5f_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:10:07+00:00	auth-token	yakrpj5as3lh5rxoalyhov83yyvgu4

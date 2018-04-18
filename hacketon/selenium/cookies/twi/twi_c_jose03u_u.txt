@@ -1,0 +1,13 @@
+#c_jose03u_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4sN2w1UEVmq2%2Fd5ShCv5L2%2BYWp5hiZEkr%2FBOJQKdE9Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:11:15+00:00	unique_id	00b20bba746afa57
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:11:15+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:11:37+00:00	persistent	214790699%3A%3A1qji5lxuj6gulgs3cyei62jk7v67yf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:11:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTA2OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE3ODk3LCJpYXQiOjE1MjM5MTMwOTd9.7eBY-Ms4xEfJGCXyKMiVV-u3ngZPxjTgDpX4WqthdIBHhZMCW4LU68A2vw4QsT4X-XcePFB6Q_m1BcXs3oC6QA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:37+00:00	login	c_jose03u_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:37+00:00	name	c_jose03u_u
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:11:37+00:00	last_login	2018-04-16T21:11:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:11:37+00:00	api_token	863245860da74654b91a2bc0451bf0b0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:11:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfam9zZTAzdV91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2NTA5NywiaWF0IjoxNTIzOTEzMDk3LCJub25jZSI6IjItZEJoRHUxdDlfTThjd3FMWHpTaHh5SVNUQnlKb0U1ZEt5RkFGcU54TWs9In0%3D.YIRKlspjIymIRISgt9t1hr5agvj9NgTwYTnlW3w2p7FeKIBWpzEetaQm2x44WcHBRhQ-8EOh1KRC4tpwoFq2aA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:12:23+00:00	twilight-user	{%22authToken%22:%22isitymssg5typwleuq69x5fbc45bd8%22%2C%22displayName%22:%22c_jose03u_u%22%2C%22id%22:%22214790699%22%2C%22login%22:%22c_jose03u_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:12:23+00:00	auth-token	isitymssg5typwleuq69x5fbc45bd8

@@ -1,0 +1,13 @@
+#h_francisco24q_t
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:19:31+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	v%2FSI7ia8qoBKJVH1bAhuNOPVinByOSiNHtye9EvVMtM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:19:31+00:00	unique_id	8e27e62cd775e15c
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:20:13+00:00	persistent	214792576%3A%3Av9whjgptxbhfg7jbg86rvs8mm0bren
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:20:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTI1NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4NDE0LCJpYXQiOjE1MjM5MTM2MTR9.4iz-kn3orAe045-snJWPdVivnVCd7vv2zkNGwPdlPP2968d1XYHdL_zw2SswZ4IiU6QOajwJlk5eDAlyQziFPg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:20:13+00:00	login	h_francisco24q_t
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:20:13+00:00	name	h_francisco24q_t
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:20:13+00:00	last_login	2018-04-16T21:20:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:20:13+00:00	api_token	800cd32c28fee2a4e299c514690a63e2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:20:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZnJhbmNpc2NvMjRxX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY1NjE0LCJpYXQiOjE1MjM5MTM2MTQsIm5vbmNlIjoiM0k0cW9kRGNLSFY3MEI4WHZqZG1hYVlwZWxoU1JtMENKU1BEM2g2Y2lnaz0ifQ%3D%3D.1-5Lsymg_s47ypW9oI7qy-wNTH7pvTD6VQtZT3q0YzkfOOycV9MtGeTd8HYv7qLfMmUWVb3KyWNmJpGviNqKkw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:21:01+00:00	twilight-user	{%22authToken%22:%225sp0cpn2xe1qemm0hdbhxwcv08s8uu%22%2C%22displayName%22:%22h_francisco24q_t%22%2C%22id%22:%22214792576%22%2C%22login%22:%22h_francisco24q_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:21:01+00:00	auth-token	5sp0cpn2xe1qemm0hdbhxwcv08s8uu

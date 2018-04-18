@@ -1,0 +1,13 @@
+#w_sophie57b_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fs9kweQCAAYewfaI74b8llsNc2K6tpKsQCrAFefDMzs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:21:55+00:00	unique_id	09d7d06d3ab754ab
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:21:55+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:22:33+00:00	persistent	214793041%3A%3Axug22ysgpzb5ekb3zhhadn7owqz0ca
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:22:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTMwNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4NTU0LCJpYXQiOjE1MjM5MTM3NTR9.C3LfHOqDCZIDd8YyuDUCwNV7wcSXbnfkoxZS775WY8YrBDVZCVJL8rNvFS0OYd21OYC63cA-wz2zHUjBvKb_fw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:22:33+00:00	login	w_sophie57b_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:22:33+00:00	name	w_sophie57b_p
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:22:33+00:00	last_login	2018-04-16T21:22:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:22:33+00:00	api_token	ecd9c5b33d213ab96dcd0f6b528c91dd
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:22:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfc29waGllNTdiX3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDY1NzU0LCJpYXQiOjE1MjM5MTM3NTQsIm5vbmNlIjoiaTBBMlA0SnZYSU9rdnJaT05mb1NUS1pqMmM1cUJISHBBa0w2ZWlZTVBfWT0ifQ%3D%3D.UMJkzztFLzgqinVWNonguc61AodzueHi7vVKtUXdkAXYtAxm-BMeN23RHv1ncQbR7d86j3nM2wcabL0pS4LJbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:23:22+00:00	twilight-user	{%22authToken%22:%22l0olgwv4ozfhust6upqu9rjijk19o5%22%2C%22displayName%22:%22w_sophie57b_p%22%2C%22id%22:%22214793041%22%2C%22login%22:%22w_sophie57b_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:23:22+00:00	auth-token	l0olgwv4ozfhust6upqu9rjijk19o5

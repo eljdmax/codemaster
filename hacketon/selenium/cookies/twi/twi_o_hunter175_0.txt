@@ -1,0 +1,14 @@
+#o_hunter175_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SduNryYakrq3y89bmHOUWlWUqZU05Rht3LGhucrQ%2BLY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:43:57+00:00	unique_id	63307b2a4a15b18d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:43:58+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:44:22+00:00	persistent	214817084%3A%3Az3l4nvvqxswgim006fetf4czgv94z6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:44:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTcwODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzNDYyLCJpYXQiOjE1MjM5MTg2NjJ9.KBTL0MarmnlLFyN-efw-LrUZl4xOI0nhQssYtb8BSGfaCf37tZLduu-0yRrEOeDtFWtSjnWHJXrH_esosfhhxA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:44:22+00:00	login	o_hunter175_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:44:22+00:00	name	o_hunter175_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:44:22+00:00	last_login	2018-04-16T22:44:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:44:22+00:00	api_token	72705342243cc96ad593c3d9c5ef894f
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:44:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9faHVudGVyMTc1XzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcwNjYyLCJpYXQiOjE1MjM5MTg2NjIsIm5vbmNlIjoiZ0djSjcxR2luMGU4UFZOVnJNSTNIbDhvSGh6Rm1YWDlkT3VjNl9NeWVZcz0ifQ%3D%3D.I8ME0h-YN_gQP6UpkxWuKh38yy9DMUxFT69GOgNtH5qgZea-TwuiRhv_LPsKS46a4ook7r0YCWETdF63TTANyw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:45:06+00:00	twilight-user	{%22authToken%22:%22tp4eu0cf3b55dbybyaimu9p5un4fwv%22%2C%22displayName%22:%22o_hunter175_0%22%2C%22id%22:%22214817084%22%2C%22login%22:%22o_hunter175_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:45:06+00:00	auth-token	tp4eu0cf3b55dbybyaimu9p5un4fwv
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:45:07+00:00	twilight_onboarding	true

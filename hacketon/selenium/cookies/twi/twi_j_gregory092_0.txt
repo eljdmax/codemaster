@@ -1,0 +1,13 @@
+#j_gregory092_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kHi6pcol%2BNMS83c54UUsz0FyNlwtXpHVZR4ohAElwPs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:10:11+00:00	unique_id	f4436e309d713555
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:10:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:10:33+00:00	persistent	214565681%3A%3Apzfscg1mqeiq21wkf3p7aprjydc00r
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:10:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjU2ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3ODMzLCJpYXQiOjE1MjM4MjMwMzN9.EASaLSey8R4BqOi9Rm0E-AvBz7C8zgo_Gcc0EzZRMyHgcKSznSEQmFH4DlZbr1CjnfB_gZwbTzKWRDru-8IbZg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:10:33+00:00	login	j_gregory092_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:10:33+00:00	name	j_gregory092_0
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:10:33+00:00	last_login	2018-04-15T20:10:33Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:10:33+00:00	api_token	8a0d83ef0ae1df09826c70da90a0a68f
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:10:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZ3JlZ29yeTA5Ml8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NTAzMywiaWF0IjoxNTIzODIzMDMzLCJub25jZSI6ImQtb1RPbHpOWk5xd28tT2J2emdvUU5UVjlTSFVnWmxMTDdiRGc5b0hpN3c9In0%3D.SugyhuetNGYs0MpHIxH6mS557uJNd26xnmFCXx_mf7pdCrhbAKrfdAvYu9E0OCZXeOXf1kQjQj_zTVPMhFneKA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:11:12+00:00	twilight-user	{%22authToken%22:%226krma2va8lpxsyd5fphmkoegzfx1sl%22%2C%22displayName%22:%22j_gregory092_0%22%2C%22id%22:%22214565681%22%2C%22login%22:%22j_gregory092_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:11:12+00:00	auth-token	6krma2va8lpxsyd5fphmkoegzfx1sl

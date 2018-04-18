@@ -1,0 +1,15 @@
+#c_giovanni16f_s
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:21:09+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-16T21:20:28+00:00	unique_id	4bb706dca6f70d0a
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:20:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	guOq6rPlGMazSpOjizBDHzQhniRBmmhreV76M0CqK1o%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-17T09:48:37+00:00	_twitch_session_id	a84976508c45844ff5bf7a9c5e3d1c1b
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:48:58+00:00	persistent	214798228%3A%3Aa5rbwn60egphhe75j2shmst0ixqlxf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:48:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTgyMjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMTM4LCJpYXQiOjE1MjM5MTUzMzh9.rFlm-SHedXWv__KDQz7iRdcLSOvmsuPU0xYKyr0uXeEhIAgYSB9UfuLcgUV6-Sh554pdcDLy9SYX84GAmUf0OQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:48:58+00:00	login	c_giovanni16f_s
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:48:58+00:00	name	c_giovanni16f_s
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:48:58+00:00	last_login	2018-04-16T21:48:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:48:58+00:00	api_token	c9f685613305401c079d92d0a4d8df4d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:48:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfZ2lvdmFubmkxNmZfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjczMzgsImlhdCI6MTUyMzkxNTMzOCwibm9uY2UiOiJfUE9BeWQ3ZlRLQl9zQTBRdDY3cXY0cHlhWEdLR3FCZWFQVnJWMUVUa0hZPSJ9.iRRfyfAAm8NbvJTLX5mPJ6QAgHnbZAMVMj55f9rpuY-G2_pUAIR5J1Tb-FEcWS90WDAE0hd3eDnhcZNZeCcWaA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:49:45+00:00	twilight-user	{%22authToken%22:%22r6ndvajevsly4i58d2jb7rpjwlvekc%22%2C%22displayName%22:%22c_giovanni16f_s%22%2C%22id%22:%22214798228%22%2C%22login%22:%22c_giovanni16f_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:49:45+00:00	auth-token	r6ndvajevsly4i58d2jb7rpjwlvekc

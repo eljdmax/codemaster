@@ -1,0 +1,14 @@
+#a_jason14i_a
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:52:20+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gxG%2B9sxQkMuRvpg5JYINWY8FbkGoSQZqAq7Pfst5PQo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:55:35+00:00	unique_id	b0167fbc34996b93
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:55:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:56:09+00:00	persistent	215070309%3A%3Arlqjj9yyvov3yqemip7l60wsblc6bs
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:56:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNzAzMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAzMzY5LCJpYXQiOjE1MjM5OTg1Njl9.KvEo2jk5Lv0d2pbFnf0JIcJyiNXYcHp17Nsof7bERhqVGG-cnyYvoPToqSjUfQtQZ3oU0wHCde-7Pq2PD-RuhQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:56:09+00:00	login	a_jason14i_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:56:09+00:00	name	a_jason14i_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:56:09+00:00	last_login	2018-04-17T20:56:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:56:09+00:00	api_token	6d500079c062032817011b15c960098c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:56:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamFzb24xNGlfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTA1NjksImlhdCI6MTUyMzk5ODU2OSwibm9uY2UiOiJ0SzBULUV6SkNjcFhyZ21LZnhwVGNNMUNhZDFnWUZCR1ViZ1dLN3dKMzlrPSJ9.w-DcoCHWf5z1GEZtWEOvRS1TrJTN9gc5p8UgXdqJdrzHwHiH__BYZ0yVwsaRGaVmE6Fgzd1ioSYMkrOw6LYmzg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:56:58+00:00	twilight-user	{%22authToken%22:%22ywdndt440m6ihefc5v976uwnpkj0p8%22%2C%22displayName%22:%22a_jason14i_a%22%2C%22id%22:%22215070309%22%2C%22login%22:%22a_jason14i_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:56:58+00:00	auth-token	ywdndt440m6ihefc5v976uwnpkj0p8

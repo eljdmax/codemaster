@@ -1,0 +1,14 @@
+#u_gabrielar1h_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	irIzieaKkKOIxLefop1iFNVeSGWIdqm3Z%2Fl0UGdJDZM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:02:49+00:00	unique_id	ba220abf5ef9deed
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:02:49+00:00	_twitch_session_id	bbe952887b83e1d33e31c57b9d954957
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:02:49+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:03:11+00:00	persistent	215085861%3A%3Al50fnoq5jl04cp1afvb9i35hurv40d
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:03:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODU4NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3MzkxLCJpYXQiOjE1MjQwMDI1OTF9.FwwfEDdh94I3xrR4rfsuj6GC2BDOKAbR11E12-2POfLsuwENw-JOxGGERhRFIcsGaXhzWPmMhWiiVHtkaHnSXg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:03:11+00:00	login	u_gabrielar1h_y
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:03:11+00:00	name	u_gabrielar1h_y
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:03:11+00:00	last_login	2018-04-17T22:03:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:03:11+00:00	api_token	a26195879e54ab8659f777458dc39713
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:03:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZ2FicmllbGFyMWhfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTQ1OTEsImlhdCI6MTUyNDAwMjU5MSwibm9uY2UiOiJvUnZqRG5RVnlZeTZGSVctZ3EydDFlVTNxYmVaNmU1alhHeFgyem9EVmMwPSJ9.qjl19QkGfStWEVOvfoZ3Mk7M2D5iLreCu4vbJSCrKqRxgnRSQM0mBtyG1tD-_pQjfUDmHIjmOLnIsaIAzXdTfA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:04:00+00:00	twilight-user	{%22authToken%22:%224ux6hqp52rxfevschukcakdwlburp2%22%2C%22displayName%22:%22u_gabrielar1h_y%22%2C%22id%22:%22215085861%22%2C%22login%22:%22u_gabrielar1h_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:04:00+00:00	auth-token	4ux6hqp52rxfevschukcakdwlburp2

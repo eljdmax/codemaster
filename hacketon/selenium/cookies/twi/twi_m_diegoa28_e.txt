@@ -1,0 +1,13 @@
+#m_diegoa28_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pwU9xLVHXmZi5LJ%2FCDfDcS5J42eDl3e%2FAQW7bFEYy3c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:30:00+00:00	unique_id	4cff95e26693a430
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:30:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:30:22+00:00	persistent	215091882%3A%3Ax7rupm008rqyq3h8upbnm9z9sdiqkh
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:30:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTE4ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA5MDIyLCJpYXQiOjE1MjQwMDQyMjJ9.Dyd_dGMXKn3yaJm2cTkrnqY4sZIU3gSPFtPDSW9pfUG_KqIbidrQ_RXKNVwJ5iKTfnthheofs02yoly4RtcpBg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:30:22+00:00	login	m_diegoa28_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:30:22+00:00	name	m_diegoa28_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:30:22+00:00	last_login	2018-04-17T22:30:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:30:22+00:00	api_token	4ff4543204a7cf24616e8d66fdaf1eeb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:30:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGllZ29hMjhfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NTYyMjIsImlhdCI6MTUyNDAwNDIyMiwibm9uY2UiOiJYTUFZMFFvQk54YjVSUEZsTklZVF9OcHNaQXMzbXFtTFlZcktmM0F1aGYwPSJ9.g6YQ02hypNMEHzyMnfKoiMHmhkfpABEs9-K-F41Amg0i_c4gkYnh8LnzaLIf7DAiAkhHQ9C2TfqZ1lROSBbHXw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:31:14+00:00	twilight-user	{%22authToken%22:%22auov2q9s6rxczjtx1y8wiwvmsx5fbl%22%2C%22displayName%22:%22m_diegoa28_e%22%2C%22id%22:%22215091882%22%2C%22login%22:%22m_diegoa28_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:31:14+00:00	auth-token	auov2q9s6rxczjtx1y8wiwvmsx5fbl

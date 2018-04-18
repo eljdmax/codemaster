@@ -1,0 +1,13 @@
+#g_luke64u_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ps4ELs9ndkaAjuE%2FofdPIDUBigDLduArVWbRJdgFwHk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:49:18+00:00	unique_id	932c573fac8f95d4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:49:18+00:00	impact_included	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:49:52+00:00	persistent	214587258%3A%3Ak4sc0ohmajqo9tv0x8rijl2s0y1f2r
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:49:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODcyNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMzNzkzLCJpYXQiOjE1MjM4Mjg5OTN9.CDS1T7gQb-9sCtVSXpfXbt319nwb39C9mqZLdmOmt6G2V4W_Bd3pmqzVZ4OGq9dWv_GY9D-gCawPRVbZNE9znw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:49:52+00:00	login	g_luke64u_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:49:52+00:00	name	g_luke64u_w
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:49:52+00:00	last_login	2018-04-15T21:49:53Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:49:52+00:00	api_token	7bb07c1956068ac95d27fb8ee287e734
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:49:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbHVrZTY0dV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM4MDk5MywiaWF0IjoxNTIzODI4OTkzLCJub25jZSI6IldHelE3RkZQa3J5dDdIWFZudzVpanV3UGNrODkwazFaNVR3Ti1pbFRTc0E9In0%3D.4QcxlohyykqFHqp2nVju8YVbup84Pr_hG4ZsyQEC_IVfJ16Bkwp9adkM2bagqfK1I3pAliOJnT1KQhoFR8TCfg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:50:32+00:00	twilight-user	{%22authToken%22:%22ijn5649bldcpkbm75bvaz0011mjlcr%22%2C%22displayName%22:%22g_luke64u_w%22%2C%22id%22:%22214587258%22%2C%22login%22:%22g_luke64u_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:50:32+00:00	auth-token	ijn5649bldcpkbm75bvaz0011mjlcr

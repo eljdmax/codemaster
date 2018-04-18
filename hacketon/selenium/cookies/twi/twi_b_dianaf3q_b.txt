@@ -1,0 +1,13 @@
+#b_dianaf3q_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	aV1FSvjobInr%2BHu9t%2FKblR%2B9hYQuzE0sYOZrB3IFkuQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:48:51+00:00	unique_id	3eb4d686f164301d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:48:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:49:14+00:00	persistent	214560377%3A%3Abwe864ceq5axc87bx09mry9nkubthv
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:49:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjAzNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI2NTU0LCJpYXQiOjE1MjM4MjE3NTR9.RCB9FyZUC8IPX3U_3KZXmyIszEwz2iGECMjczpuLPpsnRBwKxjHopsflJhtiQeCy9wIXKxOqNvIaAO1U0G1Odw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:49:14+00:00	login	b_dianaf3q_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:49:14+00:00	name	b_dianaf3q_b
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:49:14+00:00	last_login	2018-04-15T19:49:14Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:49:14+00:00	api_token	5828eae6c44f7a1787b20784b7179f90
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:49:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZGlhbmFmM3FfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1MzkzNzM3NTQsImlhdCI6MTUyMzgyMTc1NCwibm9uY2UiOiJnVFZ1RWpFakpLYTJXQjRHNmtjUEJqak04T25Ec0RGaHdrd3c0THFQZGFFPSJ9.Ip2r1RV_6VbbQCcYYeRaJFVSi3b7NPeyr6SwzfgX0aauAtyLG1IWnG2PoyjeD5_e-PjvvQ7RlQGEdaUaVxDwuA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:49:55+00:00	twilight-user	{%22authToken%22:%22lylr1grp2jrlmq1xnbyezp3ifttysf%22%2C%22displayName%22:%22b_dianaf3q_b%22%2C%22id%22:%22214560377%22%2C%22login%22:%22b_dianaf3q_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:49:55+00:00	auth-token	lylr1grp2jrlmq1xnbyezp3ifttysf

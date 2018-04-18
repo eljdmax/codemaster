@@ -1,0 +1,16 @@
+#l_carlosv8g_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	E%2Fw34dRz%2F63g%2B7LYCqyNZQGN4ytPBJijhndvbtuvDf8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:54:40+00:00	unique_id	5f9aacdc1795e46a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:54:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:55:05+00:00	persistent	214588264%3A%3A7rt8dtzt2oc0wq0fprzcqqmynml4eg
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:55:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODgyNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0MTA2LCJpYXQiOjE1MjM4MjkzMDZ9.WCj2f7ObJZ2lLkbcMVwWJwECl35oBvGLAAiZ0XxXpRVeloQVoUB462z2Iq8rhX-fiPPopKtswNCjXyKic5qg2Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:55:05+00:00	login	l_carlosv8g_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:55:05+00:00	name	l_carlosv8g_k
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:55:05+00:00	last_login	2018-04-15T21:55:06Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:55:05+00:00	api_token	01b2b10cc847a5854bb5040b85fd9ff2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:55:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfY2FybG9zdjhnX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxMzA2LCJpYXQiOjE1MjM4MjkzMDYsIm5vbmNlIjoiTWdWeG05aEcxS1AtOFUwNnlZU3FFclBhQjdzQlJOc0xYNk4tdVhGX0tIST0ifQ%3D%3D.6-wzv3GZ4OcLNUGtV4jRuoVbcIlaxu5woHIwLSZPfk520LlmZAUi4VN9l_h7GSgubkRmgnaot7I0Nt2fsS_9tA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	kPqkr062jFVeCktH7AiteQOhMLHzlOBP
+.twitch.tv	TRUE	/	FALSE	2020-04-14T21:55:11+00:00	__gads	ID=3334057000e226ba:T=1523829311:S=ALNI_MapnpNmPGmb-wWNUG1mT7sftM1byw
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjM4MzI5NTMsIm52IjoxLCJ1cHQiOjE1MjM4MzI5NDQsImx0IjoxNTIzODMyOTUyfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:55:52+00:00	twilight-user	{%22authToken%22:%220yrscxir1zlxip748qc4ock9swcmaq%22%2C%22displayName%22:%22l_carlosv8g_k%22%2C%22id%22:%22214588264%22%2C%22login%22:%22l_carlosv8g_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:55:52+00:00	auth-token	0yrscxir1zlxip748qc4ock9swcmaq

@@ -1,0 +1,15 @@
+#h_lauren23j_0
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:21:53+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-16T20:21:11+00:00	unique_id	450bd9d897c91e4d
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:21:11+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gHO094eQgUDEgn07S9D9F%2BIZYEwkz6t5me8K0gUtQCc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-17T08:29:15+00:00	_twitch_session_id	a61426a00fcbfcb187f5b90878f3c0d3
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:30:05+00:00	persistent	214782008%3A%3A1c6445harr5xf7tykqn5rpcspd5nhq
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:30:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODIwMDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE1NDA1LCJpYXQiOjE1MjM5MTA2MDV9.SkhRddJCt1xgDnQRjrIertbYF9L3xsM6CG83WOzmMGNEg_iG2SOYN9QOxIvCvrORYLheCS6sf-NeDH6vmohOhw==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:30:05+00:00	login	h_lauren23j_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:30:05+00:00	name	h_lauren23j_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:30:05+00:00	last_login	2018-04-16T20:30:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:30:05+00:00	api_token	ca97761b13a6654203e61e6cee4586d7
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:30:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbGF1cmVuMjNqXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDYyNjA1LCJpYXQiOjE1MjM5MTA2MDUsIm5vbmNlIjoiel9VdXN3RzZQU21hNnR2eEJfSDJBN0VCX01LaWZDcExlemNCMmh6OFJnMD0ifQ%3D%3D.ibAUxxbgTnr2AALRwtr1fG1gxf_shy2f9bn6ttSK4x5OlfEWt8ZMWee_LD0CABzp7YJ1hy-R1hlZwFggP3Cy6w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:30:49+00:00	twilight-user	{%22authToken%22:%22fqzrd1aav7k12mocqv9165zkq0kirv%22%2C%22displayName%22:%22h_lauren23j_0%22%2C%22id%22:%22214782008%22%2C%22login%22:%22h_lauren23j_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:30:49+00:00	auth-token	fqzrd1aav7k12mocqv9165zkq0kirv

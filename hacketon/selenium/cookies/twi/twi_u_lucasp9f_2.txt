@@ -1,0 +1,14 @@
+#u_lucasp9f_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	flT%2FLoXpNXducT0YoVnF8%2FqmojhELgHj4yc%2FTH51DA0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:42:33+00:00	unique_id	21cf70830a39fed3
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:42:33+00:00	_twitch_session_id	960f9c917eb3b110285bfd8d3fd2ebd0
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:42:33+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:42:52+00:00	persistent	214816546%3A%3A9tnq5fplwy0xoknro9l37dav8x6obs
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:42:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTY1NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzMzczLCJpYXQiOjE1MjM5MTg1NzN9.e6Ag56RTba4HipEFOtTF48seu-w9RYPEEFM8qYj4f2a2pORH2pLrAvqTdVIpOTh1IlZap2OqzbvDv8OFr732rQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:42:52+00:00	login	u_lucasp9f_2
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:42:52+00:00	name	u_lucasp9f_2
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:42:52+00:00	last_login	2018-04-16T22:42:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:42:52+00:00	api_token	74cf85e51327a8a4bce255b0d977a768
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:42:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbHVjYXNwOWZfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NzA1NzMsImlhdCI6MTUyMzkxODU3Mywibm9uY2UiOiJYbmoyVkhSTlNDb2pOXzBCMjkxYWp4VmllZzhvS1NQamxHdFlHLTlaN1hjPSJ9.59sD9-LdXcEN6XLovHtl-frs3aPQnV6BGDy194wdpf-Mm6bORp7WjLXe84IM7LgdQnw_KJ6nld36VdQM16PFtQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:43:37+00:00	twilight-user	{%22authToken%22:%22ghr1l0lidwqgch65i4thweyqv153w8%22%2C%22displayName%22:%22u_lucasp9f_2%22%2C%22id%22:%22214816546%22%2C%22login%22:%22u_lucasp9f_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:43:37+00:00	auth-token	ghr1l0lidwqgch65i4thweyqv153w8

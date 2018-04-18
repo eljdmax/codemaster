@@ -1,0 +1,13 @@
+#r_richardp1p_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fk8H0zcoPr0ZPFwpPQs57PNxSIfJSNCC9n9MQYlaIvc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:38:01+00:00	unique_id	36937f278ae2443d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:38:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:38:21+00:00	persistent	215080267%3A%3Af8mg88pba6p74bz0mf7ohot6qh6yfn
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:38:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODAyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA1OTAxLCJpYXQiOjE1MjQwMDExMDF9.F68UAYAulwFP7AGcGwL7LD4aVuYGTElR9u-bNyta9hsiWBTWmR92Q4FEKVlnKkuy9bTUquTz99kyI8BEITrbmA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:38:21+00:00	login	r_richardp1p_g
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:38:21+00:00	name	r_richardp1p_g
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:38:21+00:00	last_login	2018-04-17T21:38:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:38:21+00:00	api_token	4c6aa5159faeb7103b2b819177be690f
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:38:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfcmljaGFyZHAxcF9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1MzEwMSwiaWF0IjoxNTI0MDAxMTAxLCJub25jZSI6IklXRE5wZVcyY1BkWU91bWo3R0VuMmxlM1JQYjVJTVFtU3dZYV91SnpLakk9In0%3D.eDBdy1q_LeYm6dHLBlUKcndFjdi0j01sZ299Liarx0Khv0Hci6djHWejJyMyUJvXx9H2sJTKqdQ6gKWhpMxojw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:39:09+00:00	twilight-user	{%22authToken%22:%22mo40lz4xq2j5c8f6zb9oe1qmctw600%22%2C%22displayName%22:%22r_richardp1p_g%22%2C%22id%22:%22215080267%22%2C%22login%22:%22r_richardp1p_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:39:09+00:00	auth-token	mo40lz4xq2j5c8f6zb9oe1qmctw600

@@ -1,0 +1,14 @@
+#z_maya738_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Om1dXr8xg%2FqpFfEPDJpTzghvVxTK2tN3cG4DYLeiB%2FY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T19:59:46+00:00	unique_id	c033e1095d6fc4df
+.twitch.tv	TRUE	/	TRUE	2018-04-16T07:59:46+00:00	_twitch_session_id	e2a8a42e4fe0f8116bf77741d5b0e7c1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:59:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:00:09+00:00	persistent	214563129%3A%3Ablc9ijmau6phj8r6mulcdudi5zcgq8
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:00:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NjMxMjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI3MjA5LCJpYXQiOjE1MjM4MjI0MDl9.8w-wFj6D8kvR2S1tUrP4thfjfmNLQsmoToxg1gyJXdIq2_cNKj6pv-6OaZq1rlnETdLAyRPQOYWrU4PhQ5El-Q==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:00:09+00:00	login	z_maya738_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:00:09+00:00	name	z_maya738_l
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:00:09+00:00	last_login	2018-04-15T20:00:09Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:00:09+00:00	api_token	d6cc47658e0dcfa765568f0580b72a97
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:00:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbWF5YTczOF9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3NDQwOSwiaWF0IjoxNTIzODIyNDA5LCJub25jZSI6IkVQb2pmSE14WnBtVUlseV8xYXplWU1aN2cwOFhHYWYtNE5raEtzeWNSUU09In0%3D.w-w03ajet0KJfX6fyGKqR_mlZID4bG5veujhIyIGq669voXWkZ-_JitMsn4aftVrkKkVALBnZvywRIN-Uu0p3Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:00:49+00:00	twilight-user	{%22authToken%22:%22595t330jzi7tp80gur9s2d3gq7lwbq%22%2C%22displayName%22:%22z_maya738_l%22%2C%22id%22:%22214563129%22%2C%22login%22:%22z_maya738_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:00:49+00:00	auth-token	595t330jzi7tp80gur9s2d3gq7lwbq

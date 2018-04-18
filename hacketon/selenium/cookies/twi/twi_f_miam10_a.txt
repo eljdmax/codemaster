@@ -1,0 +1,14 @@
+#f_miam10_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RV1RUa1t4fjf%2FBb8K43sMVPxL%2B4fCZ3ZLT%2Bep0ezEDo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T21:56:30+00:00	unique_id	4d02a6b4522462f5
+.twitch.tv	TRUE	/	TRUE	2018-04-18T09:56:30+00:00	_twitch_session_id	afa503a8f133c08bc7464b33dff9abff
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:56:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:56:53+00:00	persistent	215084441%3A%3A09s2rj59m89j54t67fv7fd93hxqdv6
+.twitch.tv	TRUE	/	TRUE	2018-04-24T21:56:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODQ0NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA3MDEzLCJpYXQiOjE1MjQwMDIyMTN9.kb5B2JwFO3QJwyjOyhD7jCqNRXWuneKbqyJ0Vrd4lPU4VbGDQi610J9VCA2UoHV6MJwNp9ltt830DHhrgwwG1A==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:56:53+00:00	login	f_miam10_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:56:53+00:00	name	f_miam10_a
+.twitch.tv	TRUE	/	FALSE	2018-10-02T21:56:53+00:00	last_login	2018-04-17T21:56:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T21:56:53+00:00	api_token	c9b82eb5fa09299eb5c0766af2e973a3
+.twitch.tv	TRUE	/	TRUE	2018-10-14T21:56:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWlhbTEwX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU0MjEzLCJpYXQiOjE1MjQwMDIyMTMsIm5vbmNlIjoiOUsyQkpYbU0wVUNEX1NKbzBvbTVSMjhuZnVWWVpMSmhMbV9KdUlMUy02QT0ifQ%3D%3D.H_IlZFVr4FMhIQFBP2G3IoqUoPXaTSzL9kJaqle3L6DxW2k1ikD1yMBcZAfx7eW5K3Z7rGih2HP8Tc-O3VBlPg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:57:41+00:00	twilight-user	{%22authToken%22:%22s8g4ow3hyr7cskeetdc207y661c84r%22%2C%22displayName%22:%22f_miam10_a%22%2C%22id%22:%22215084441%22%2C%22login%22:%22f_miam10_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T22:57:41+00:00	auth-token	s8g4ow3hyr7cskeetdc207y661c84r

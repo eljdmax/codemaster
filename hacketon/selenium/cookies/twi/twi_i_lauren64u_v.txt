@@ -1,0 +1,13 @@
+#i_lauren64u_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	x7UJ7I0Dbma6nJVvTd4GbNtJgR91%2FX9xiGpCDKUbp%2FI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T21:58:54+00:00	unique_id	f6d9ea0d4c73f08b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:58:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:59:11+00:00	persistent	214589048%3A%3Aidd2aewh8ha54rif6s7ft1pyaq4w3t
+.twitch.tv	TRUE	/	TRUE	2018-04-22T21:59:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1ODkwNDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDM0MzUyLCJpYXQiOjE1MjM4Mjk1NTJ9.65-FTuwSx2ww0H_WQoFhwfIOMGv0Nt0hZRMY-MxJWNewJVoeP6uJi_JQXnz3TZUkSSOhFiKDbNuf8QHd_J_0Bw==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:59:11+00:00	login	i_lauren64u_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:59:11+00:00	name	i_lauren64u_v
+.twitch.tv	TRUE	/	FALSE	2018-09-30T21:59:11+00:00	last_login	2018-04-15T21:59:12Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T21:59:11+00:00	api_token	2aea90c6f3c552efa845adbe403b4646
+.twitch.tv	TRUE	/	TRUE	2018-10-12T21:59:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbGF1cmVuNjR1X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5MzgxNTUyLCJpYXQiOjE1MjM4Mjk1NTIsIm5vbmNlIjoiR1ZtWEpDeTNXOGZSZllKTUJDQ2tNWXpZMjBwMEFMMnQ1UGxkUHotcDl2TT0ifQ%3D%3D.YvScnZ_Rd6vcTwe_rIdruSqQiI_pDuWYNgY5CqcKj3t37aYhgACEPX9KD6gCzWfK8vbrqMIepgvScJcA3u6dsQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:59:50+00:00	twilight-user	{%22authToken%22:%22kvmkh2ssgpbykvafyyv69twctjxznf%22%2C%22displayName%22:%22i_lauren64u_v%22%2C%22id%22:%22214589048%22%2C%22login%22:%22i_lauren64u_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T22:59:50+00:00	auth-token	kvmkh2ssgpbykvafyyv69twctjxznf

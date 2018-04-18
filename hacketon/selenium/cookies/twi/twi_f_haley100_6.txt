@@ -1,0 +1,13 @@
+#f_haley100_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kMYDLehu50QFNQ0LhKL8zz97IxdC8MW6Xl5KR%2B8TLZY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:19:41+00:00	unique_id	0bcf8d916fafc0db
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:19:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:20:05+00:00	persistent	214792554%3A%3A4jd17nd022wddqr05xcmhdp8jpqa4v
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:20:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTI1NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE4NDA1LCJpYXQiOjE1MjM5MTM2MDV9.gKhHWV8nhECokoAYbHFdE08ZouzY3WcYVbRiD9tlQYf58XmFeEWUcDHljsEiwJNoCfAqBtbhC8YM3Ah5346XlA==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:20:05+00:00	login	f_haley100_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:20:05+00:00	name	f_haley100_6
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:20:05+00:00	last_login	2018-04-16T21:20:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:20:05+00:00	api_token	39f4bebcb025d07ae71dbda5c7e4b454
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:20:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfaGFsZXkxMDBfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0NjU2MDUsImlhdCI6MTUyMzkxMzYwNSwibm9uY2UiOiJrV1U1WFVWd0x5UkV4Sjdyc3FjcGVHQ1BvRk5Fd1RrWTFMYVBuWHNQTWVzPSJ9.zSDVl3q9WT-NK-jNQCJB-AR72v8X8B9iN_nPjkllDH28vdX8R-QpQQ4hZ3mojgmB1ExPsFtuTTCAYut-peixbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:20:50+00:00	twilight-user	{%22authToken%22:%22v5qdway5hf1q8r3ynwgndoa18midwj%22%2C%22displayName%22:%22f_haley100_6%22%2C%22id%22:%22214792554%22%2C%22login%22:%22f_haley100_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:20:50+00:00	auth-token	v5qdway5hf1q8r3ynwgndoa18midwj

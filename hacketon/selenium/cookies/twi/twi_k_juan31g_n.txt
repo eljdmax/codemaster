@@ -1,0 +1,13 @@
+#k_juan31g_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YmwEiB%2BPeJIhk5Q2BZ1KSw8RpYdmAZcLOLvm320CNsY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:15:30+00:00	unique_id	f3bbd358d011428c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:15:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:15:50+00:00	persistent	215088726%3A%3Axlm2j6rknpxkrnhic9q2obmnnlywhn
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:15:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwODg3MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4MTUxLCJpYXQiOjE1MjQwMDMzNTF9.1wMpM2ZN8NRhaYpTcDh0J6Hz0_rbuzKZ4aggc5qLdvqFIwTsHaP3ePyafuSLo1byWwcyfk66ECKNft27lEYAcw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:15:50+00:00	login	k_juan31g_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:15:50+00:00	name	k_juan31g_n
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:15:50+00:00	last_login	2018-04-17T22:15:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:15:50+00:00	api_token	82699ea3d4584f85bb44a40c7435e7d0
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:15:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfanVhbjMxZ19uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU1NTM1MSwiaWF0IjoxNTI0MDAzMzUxLCJub25jZSI6Ik50OVJGN3dybzlfR0FEaGo4ZzE4LXhkS3hyd0EwN3NiVXNtUVczNDl5S2c9In0%3D.TKjmq1MiuNFnHBss-7Eaq9yBGZ3-IaXPSaUayWu7JDxAa8hP5c64ZkIPyL_8On4AY_TWVEwmtv9zMGCn9oziFg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:16:41+00:00	twilight-user	{%22authToken%22:%22n2gaa3fp45p1qkutaudwku3ew01p1e%22%2C%22displayName%22:%22k_juan31g_n%22%2C%22id%22:%22215088726%22%2C%22login%22:%22k_juan31g_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:16:41+00:00	auth-token	n2gaa3fp45p1qkutaudwku3ew01p1e

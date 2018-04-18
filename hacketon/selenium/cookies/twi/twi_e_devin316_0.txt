@@ -1,0 +1,13 @@
+#e_devin316_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Thw97IVqkfWP2e3hJISlN3dqHHTsncVbwzlxXl56%2BBM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T21:51:29+00:00	unique_id	b7ef950cefde8eed
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:51:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:51:48+00:00	persistent	214798754%3A%3Aj1gg1097oj6so067i6v1fyqnokv0ll
+.twitch.tv	TRUE	/	TRUE	2018-04-23T21:51:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3OTg3NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIwMzA4LCJpYXQiOjE1MjM5MTU1MDh9.-j5HP4dgwn-s4diRObQbOJ71qNa6QhonpJwlE7xhd1MouTizd3Op6OkK2Svcj6CDxPQKabc9H4FXMElCxvDrjg==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:51:48+00:00	login	e_devin316_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:51:48+00:00	name	e_devin316_0
+.twitch.tv	TRUE	/	FALSE	2018-10-01T21:51:48+00:00	last_login	2018-04-16T21:51:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T21:51:48+00:00	api_token	1da9b799b5c2c8e24c5c28bf84c59afe
+.twitch.tv	TRUE	/	TRUE	2018-10-13T21:51:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZGV2aW4zMTZfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk0Njc1MDgsImlhdCI6MTUyMzkxNTUwOCwibm9uY2UiOiIzYzRvY3c3VXZmcG85SENERG9vTnFBWDNVYkhUMm5naGZOellKQjVnSzJvPSJ9.xce8YCOXfER4WBGXT8yroUcrmp3iYWA1bkkXmqLqvgEzA6ZjHRn_z5NsT6dtirVMaUUye88El_12crsPDWxscA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:52:30+00:00	twilight-user	{%22authToken%22:%22rkyxrlq21smq4gdho9ui36e8elmgjl%22%2C%22displayName%22:%22e_devin316_0%22%2C%22id%22:%22214798754%22%2C%22login%22:%22e_devin316_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T22:52:30+00:00	auth-token	rkyxrlq21smq4gdho9ui36e8elmgjl

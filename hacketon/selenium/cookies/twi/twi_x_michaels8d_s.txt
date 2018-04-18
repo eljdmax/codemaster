@@ -1,0 +1,14 @@
+#x_michaels8d_s
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-06T18:41:41+00:00	_twitch_session_id	a4249bea7690423a0f1b1c8964befc0e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5dQ8%2F5TAb3WLxo626Y4GP4g1BIHR6wQmPdu1NwYtOug%3D
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:21:48+00:00	persistent	214553110%3A%3Ad8cv98ouxz9t7nvdn0wg8sgjwy4fsv
+.twitch.tv	TRUE	/	TRUE	2018-04-22T19:21:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NTMxMTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI0OTA4LCJpYXQiOjE1MjM4MjAxMDh9.qHPlWfGXI9NUvIQcGR3q_6mk4V-tlI78FAkQ3UGZNDV_Un-m0-bAl9iaVXmmaiEZ0p1JKsiCqkN6CNZ-YRG9tg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:21:48+00:00	login	x_michaels8d_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:21:48+00:00	name	x_michaels8d_s
+.twitch.tv	TRUE	/	FALSE	2018-09-30T19:21:48+00:00	last_login	2018-04-15T19:21:48Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T19:21:48+00:00	api_token	2e3817bca8644d8d35dd8d173a610ad4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T19:21:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbWljaGFlbHM4ZF9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3MjEwOCwiaWF0IjoxNTIzODIwMTA4LCJub25jZSI6ImthNTNXSmRZMDVHRVRTcXZ2aG1IQjgtWVQ0a3pxeVQtN1dMdkJ5N01uRTA9In0%3D.XyNQQzqMX8Pds7RPk3HnPH50cQcCGA8tPJidU1kCJMl7NGYny8Jb2ajdGiizCC9SpKxPHQY2VPGQMU1ICTbTYA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:22:29+00:00	twilight-user	{%22authToken%22:%227fwz4dtsthlcz3dcz91k9au6vacesd%22%2C%22displayName%22:%22x_michaels8d_s%22%2C%22id%22:%22214553110%22%2C%22login%22:%22x_michaels8d_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T20:22:29+00:00	auth-token	7fwz4dtsthlcz3dcz91k9au6vacesd

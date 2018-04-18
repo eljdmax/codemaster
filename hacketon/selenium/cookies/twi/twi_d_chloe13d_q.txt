@@ -1,0 +1,13 @@
+#d_chloe13d_q
+.twitch.tv	TRUE	/	TRUE	2028-04-14T21:06:09+00:00	unique_id	c5ac7f9b617fb970
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mtQSLeJurPhnPvzD3V%2FydFrbtuslKHGfdhQUCWa8ZVI%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:08:54+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:09:15+00:00	persistent	215058556%3A%3A4qv4vsqvkfe042ffs7d96rhoyqe894
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:09:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTg1NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwNTU1LCJpYXQiOjE1MjM5OTU3NTV9.ZdjhNq6_bL67CLNKMW5mi3WSi0k6KXVDZjA9Ks-qMZ1psoec8grXycdz_ql1_Awwf-5faXFEkYME12j18a6jAQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:15+00:00	login	d_chloe13d_q
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:15+00:00	name	d_chloe13d_q
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:09:15+00:00	last_login	2018-04-17T20:09:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:09:15+00:00	api_token	3e1f900bfa053b7aa5e99ed5ae332c84
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfY2hsb2UxM2RfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDc3NTUsImlhdCI6MTUyMzk5NTc1NSwibm9uY2UiOiIwak9NQ3JGZldaTVU0MjdJM0dqdjZnODJTWFdURGIzejE4LTdjSzJ5UHRZPSJ9.tW7tGbVW-hWB6LmLi-Mr_uFT1xSVkUlnvUCBonwYl6CK9dG2orG3hjov1Zip40fwN38CLpf3fE8_iIatGBnlUg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:10:07+00:00	twilight-user	{%22authToken%22:%22c94izlzonb3z7ft2iw8ujg6vvl49fs%22%2C%22displayName%22:%22d_chloe13d_q%22%2C%22id%22:%22215058556%22%2C%22login%22:%22d_chloe13d_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:10:07+00:00	auth-token	c94izlzonb3z7ft2iw8ujg6vvl49fs

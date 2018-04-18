@@ -1,0 +1,14 @@
+#q_claire869_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wXDKaVKFVWRjls6kRzP%2F9IMHjz5YJsi7bhil2LwBXAc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T22:29:23+00:00	unique_id	2261ff4750b6cd97
+.twitch.tv	TRUE	/	TRUE	2018-04-18T10:29:23+00:00	_twitch_session_id	e06a14c980c5c6bcff2b8557c66246d1
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:29:23+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:29:55+00:00	persistent	215091771%3A%3A3nkz6magba0yz0gsw3mh5ut9azfrxs
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:29:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwOTE3NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjA4OTk1LCJpYXQiOjE1MjQwMDQxOTV9.57TDTh36nA9mfsVEYN1K5K3D4tWAD4-M0tZTtrjEyI_c66yo6mBzHhFdqo7XpZBiW1psjrIyRlat4Jdta4CNCg==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:29:55+00:00	login	q_claire869_t
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:29:55+00:00	name	q_claire869_t
+.twitch.tv	TRUE	/	FALSE	2018-10-02T22:29:55+00:00	last_login	2018-04-17T22:29:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T22:29:55+00:00	api_token	0252102cca70584b4df43b7a67315cdb
+.twitch.tv	TRUE	/	TRUE	2018-10-14T22:29:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfY2xhaXJlODY5X3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NTU2MTk1LCJpYXQiOjE1MjQwMDQxOTUsIm5vbmNlIjoiRThlZ3l4OVhCcXgxODNxUEZsb3M3Q2tGN1BhMDE0YVBsbFR5MVJNVGZHZz0ifQ%3D%3D.si0QVp_Jkq9DvKtDYiwnkX-B4sVDDXtG2-M2r5jABaaCBo3K2Clp3AVkWVCNOddBGqU0nnq5usZalDAjQenJoQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:30:44+00:00	twilight-user	{%22authToken%22:%225j7ytcsv4bhf82oa9a95i8e44i65u1%22%2C%22displayName%22:%22q_claire869_t%22%2C%22id%22:%22215091771%22%2C%22login%22:%22q_claire869_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T23:30:44+00:00	auth-token	5j7ytcsv4bhf82oa9a95i8e44i65u1

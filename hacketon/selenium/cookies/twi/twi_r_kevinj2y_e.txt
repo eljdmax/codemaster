@@ -1,0 +1,14 @@
+#r_kevinj2y_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	81k%2FTLyDNPHQgO2UBXkWfXqFOrTHyv%2B38Y8l1ACf0BE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:19:00+00:00	unique_id	84e1c987306218b7
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:19:00+00:00	_twitch_session_id	2ad28759198f66808f2308ef91e9a9d3
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:19:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:19:39+00:00	persistent	215061167%3A%3Aq4ht3nxq618aduvobiwjru9p6ps2sb
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:19:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjExNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxMTc5LCJpYXQiOjE1MjM5OTYzNzl9.MoEC2r-55jLAkhHEPVOewEcQFgQjvWBdrBENiEhCYvtQEH3TmP8-3ks6xYwkMesuDOWBwNpsdgLCJKjV7s69jQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:19:39+00:00	login	r_kevinj2y_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:19:39+00:00	name	r_kevinj2y_e
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:19:39+00:00	last_login	2018-04-17T20:19:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:19:39+00:00	api_token	94cc721062ac77e0541ed653d34c9ce8
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:19:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfa2V2aW5qMnlfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDgzNzksImlhdCI6MTUyMzk5NjM3OSwibm9uY2UiOiJTTHdGTl9INDFraU5KRVVvX3BnLVY4M2M1bGs5czB2QmNoMVVmcFRjRFo0PSJ9.jQHT9HBDvlnHybnvjoz8ISw7tzGsNBzkAVOscEKq5KbQsvO2F558vgqO8QrtrrrXECZ0DsNb1e3aeY2SJdXePA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:20:28+00:00	twilight-user	{%22authToken%22:%22mpl9kefrwfjvb28zcoqpf241sp22ys%22%2C%22displayName%22:%22r_kevinj2y_e%22%2C%22id%22:%22215061167%22%2C%22login%22:%22r_kevinj2y_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:20:28+00:00	auth-token	mpl9kefrwfjvb28zcoqpf241sp22ys

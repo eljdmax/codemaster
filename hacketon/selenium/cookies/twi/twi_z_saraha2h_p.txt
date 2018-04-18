@@ -1,0 +1,13 @@
+#z_saraha2h_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6OLw2d5fmf8UAgPTdnLRYIjSpIoJLf3fcnMoGxq%2Fqdo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:03:42+00:00	unique_id	e47382a8a9d479e3
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:03:42+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:04:03+00:00	persistent	215057231%3A%3Ayxt6od5pwamv304s1c1jayf3wgtkhv
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:04:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNTcyMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAwMjQzLCJpYXQiOjE1MjM5OTU0NDN9.sBJfVb7jjlkCL-JKGw54Ssb74ub8ozqey1sg3m4m-5nelODxI1qCRKjVqVFlsvSwTmhDsdYTLxRAMYOxIgocSA==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:04:03+00:00	login	z_saraha2h_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:04:03+00:00	name	z_saraha2h_p
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:04:03+00:00	last_login	2018-04-17T20:04:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:04:03+00:00	api_token	dc2226cdff2b929c42c59ac0c6e5622e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:04:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc2FyYWhhMmhfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk1NDc0NDMsImlhdCI6MTUyMzk5NTQ0Mywibm9uY2UiOiJoNEVILThnV2p3Y0R1UXZEN1ExekxWTEtIZFNONU1BZlJrV2dKVDhWVkRNPSJ9.FKA5ej0r83z-7gg7e9pSih88DWmpK4L3DE7OXY6_BKW75mObqheqNaNSa4ACxzZKMsIkEvjn1wi80ntqyuP8zA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:04:51+00:00	twilight-user	{%22authToken%22:%22u40km3fmihdori70f9o9m7rcjig72g%22%2C%22displayName%22:%22z_saraha2h_p%22%2C%22id%22:%22215057231%22%2C%22login%22:%22z_saraha2h_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:04:51+00:00	auth-token	u40km3fmihdori70f9o9m7rcjig72g

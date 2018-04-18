@@ -1,0 +1,14 @@
+#u_brendan820_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vRPwYwbsudKMIoEmWGKU7FxPaMjsXGcNSuEaElqSb4Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:55:14+00:00	unique_id	5202ededfc5e2322
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:55:14+00:00	_twitch_session_id	205a270a6954bf4cfff52b04052dce6b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:55:14+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:55:45+00:00	persistent	214576109%3A%3Az9601s86isz0hb984wiy6mwecjp7hl
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:55:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzYxMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDMwNTQ1LCJpYXQiOjE1MjM4MjU3NDV9.lcXOze_dqSRKaYtzoAdX6bvUlGuDBaAp2nDrUz1Y9DkfXuQwXzU0aCG7hQE7Rm0YLtg3OkK1CfmsIGkyDU7tbg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:45+00:00	login	u_brendan820_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:45+00:00	name	u_brendan820_7
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:55:45+00:00	last_login	2018-04-15T20:55:45Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:55:45+00:00	api_token	51e5ddb9dbe08d10eda6279eef109a8b
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:55:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYnJlbmRhbjgyMF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTM3Nzc0NSwiaWF0IjoxNTIzODI1NzQ1LCJub25jZSI6IkVieWFmOWd5MXkyTFRJTThrZjVzTUlWcnZMRU9tc1NLcExwcmxkYlRaV0k9In0%3D.SUKkjk1k6N8U7EoP6L0wAhn84ebcNeQkIIA8AhsZVVHmd1_olsALjRLE_Oc1r93cnmA69rPDCJlUoC7nCTa-hQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:56:23+00:00	twilight-user	{%22authToken%22:%22hjx865fjfc7auzl6nljndz0ih7g290%22%2C%22displayName%22:%22u_brendan820_7%22%2C%22id%22:%22214576109%22%2C%22login%22:%22u_brendan820_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:56:23+00:00	auth-token	hjx865fjfc7auzl6nljndz0ih7g290

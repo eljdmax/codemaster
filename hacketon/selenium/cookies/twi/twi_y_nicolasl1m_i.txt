@@ -1,0 +1,13 @@
+#y_nicolasl1m_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1nPNoazh8oKDFJkJxrMteqkrfc1QNRZfneHEUEncdVM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T20:44:50+00:00	unique_id	93f152c9d6ffbce9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:44:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:45:10+00:00	persistent	214784958%3A%3Ar5xiokfhexk80vjjg8trhef7bprfm7
+.twitch.tv	TRUE	/	TRUE	2018-04-23T20:45:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ3ODQ5NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTE2MzEwLCJpYXQiOjE1MjM5MTE1MTB9.g_Wr-zlelfLN8L1i2TZ8xWo92MlmStc4KNPrWFCxwBhapRACDj-fq26VLfmsz16V2r6zp-srJi4BUcUhJF-D-Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:45:10+00:00	login	y_nicolasl1m_i
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:45:10+00:00	name	y_nicolasl1m_i
+.twitch.tv	TRUE	/	FALSE	2018-10-01T20:45:10+00:00	last_login	2018-04-16T20:45:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T20:45:10+00:00	api_token	7f68c6798b26298c7a57059df9dba7b9
+.twitch.tv	TRUE	/	TRUE	2018-10-13T20:45:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfbmljb2xhc2wxbV9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTQ2MzUxMCwiaWF0IjoxNTIzOTExNTEwLCJub25jZSI6Im0zSlJsX3JONVpPbThMdFUxYU8zU0NaTU1zUjJtUktZdFlHRE9qQzRwU1E9In0%3D.8wn2T9KwJJC6s35bVdTWZI-lXVLVS5QsSV_akLnVqz8zQYqpW0hZPPuGlynZcAGtntfpQ-HWkodw2yVAlqlSPg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:45:54+00:00	twilight-user	{%22authToken%22:%22g824zgtu0dvewydf4jc5j7h3502pit%22%2C%22displayName%22:%22y_nicolasl1m_i%22%2C%22id%22:%22214784958%22%2C%22login%22:%22y_nicolasl1m_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T21:45:54+00:00	auth-token	g824zgtu0dvewydf4jc5j7h3502pit

@@ -1,0 +1,14 @@
+#w_ashley04o_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Iji1dzG1RVXvb6adLqtckVn9CL%2B%2BPUVbzRj6gynoA%2Fw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-16T22:50:13+00:00	unique_id	0317cdbb8630d9d8
+.twitch.tv	TRUE	/	TRUE	2018-04-17T10:50:13+00:00	_twitch_session_id	710b7c4faac0446a09f5e95cccfdd9ae
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:50:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:50:32+00:00	persistent	214819401%3A%3Abdwvykaso2ds5a3pvtno8dbbwmgj04
+.twitch.tv	TRUE	/	TRUE	2018-04-23T22:50:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ4MTk0MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NTIzODMyLCJpYXQiOjE1MjM5MTkwMzJ9.D9FL1-JJFLD5Qa0ytXbv9Iv6d6Q1U4NbZwsbJCqR9a7UD8xdvHZBs47osVcE0zIPKfnJX3L9FFQB1BsoGtAK1w==
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:50:32+00:00	login	w_ashley04o_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:50:32+00:00	name	w_ashley04o_a
+.twitch.tv	TRUE	/	FALSE	2018-10-01T22:50:32+00:00	last_login	2018-04-16T22:50:32Z
+.twitch.tv	TRUE	/	TRUE	2018-10-01T22:50:32+00:00	api_token	5701d9f7ab2bcb0bd4817b79074961e2
+.twitch.tv	TRUE	/	TRUE	2018-10-13T22:50:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYXNobGV5MDRvX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NDcxMDMyLCJpYXQiOjE1MjM5MTkwMzIsIm5vbmNlIjoiRW9Fa2FMUElfcnllTE1yV1dZOGJEbTUwQTNneEIzME9FblNkc3FpY2VWVT0ifQ%3D%3D.ZH6e-vhJWkirOIjoVXPtbecHwY6e0OTmLr491Q-QjEjUhZojel-PWi2di7Bi70oUm0pzGI10xZ1ph_PShryD6A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:51:17+00:00	twilight-user	{%22authToken%22:%22i52ar7ve3lhf8cy58sjerctycvf53u%22%2C%22displayName%22:%22w_ashley04o_a%22%2C%22id%22:%22214819401%22%2C%22login%22:%22w_ashley04o_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-16T23:51:17+00:00	auth-token	i52ar7ve3lhf8cy58sjerctycvf53u

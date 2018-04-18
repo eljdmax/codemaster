@@ -1,0 +1,14 @@
+#q_hannah356_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	We7a1gsQC9jgjAgdKwUAL8BUsndwnFvvdEAoTK7zsLE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-15T20:29:57+00:00	unique_id	41a4fbfd8d1baedf
+.twitch.tv	TRUE	/	TRUE	2018-04-16T08:29:57+00:00	_twitch_session_id	04defdb11b66858857a0427113cd5e05
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:29:57+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:30:23+00:00	persistent	214570358%3A%3Atx3iewv8c8mlknx9l8cwmn6jo8cflr
+.twitch.tv	TRUE	/	TRUE	2018-04-22T20:30:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTQ1NzAzNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NDI5MDIzLCJpYXQiOjE1MjM4MjQyMjN9.Pgr65O5lqMpMyMk73Cy2pqNH9ZPwkZebumLMVDUsfnDkbNGTYz7VmYZ24QPKbqRDXk4eiSlJbjdxDKGX2mICQg==
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:23+00:00	login	q_hannah356_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:23+00:00	name	q_hannah356_u
+.twitch.tv	TRUE	/	FALSE	2018-09-30T20:30:23+00:00	last_login	2018-04-15T20:30:23Z
+.twitch.tv	TRUE	/	TRUE	2018-09-30T20:30:23+00:00	api_token	61f9e2a010a748bc26a93b5da6248158
+.twitch.tv	TRUE	/	TRUE	2018-10-12T20:30:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfaGFubmFoMzU2X3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5Mzc2MjIzLCJpYXQiOjE1MjM4MjQyMjMsIm5vbmNlIjoiX3R3S2drSVFaNjJVZ2E3NmVsekVyUlVkX0FVOW5KWERiNkhXN0dpdEx6ST0ifQ%3D%3D.JujJgUMSFvaBsxcLHA6wy8oOaCfaQYr8D_x1mBdTmz44jdIzhABU5taRSoeLicpd3i6PCukxS4Xuykpn2eUkvw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:31:01+00:00	twilight-user	{%22authToken%22:%221c3em3y48m67d0onfb7g5pfokcc774%22%2C%22displayName%22:%22q_hannah356_u%22%2C%22id%22:%22214570358%22%2C%22login%22:%22q_hannah356_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-15T21:31:01+00:00	auth-token	1c3em3y48m67d0onfb7g5pfokcc774

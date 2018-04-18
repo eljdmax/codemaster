@@ -1,0 +1,14 @@
+#i_chelsea93o_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	w9JIekH6j3%2B7056eEq1BT05V5ViY6I%2F1TFZsSOLAuaQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-17T20:22:56+00:00	unique_id	a443fd3e23d635a7
+.twitch.tv	TRUE	/	TRUE	2018-04-18T08:22:56+00:00	_twitch_session_id	e80b022917a0b3ce85bfdae54161fd98
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:22:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:23:19+00:00	persistent	215062086%3A%3Ar8m5w9o402c2kc14pe7axo451iza5l
+.twitch.tv	TRUE	/	TRUE	2018-04-24T20:23:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUwNjIwODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjAxMzk5LCJpYXQiOjE1MjM5OTY1OTl9.rGMFTDrDmPudjditsD1I_MpQ2Ftf9Hbeoa5CVR5qCZuFofg4Ew_VzoO7ZVe_VGtBUmLeTcElOXZ2DgyZeo44jw==
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:23:19+00:00	login	i_chelsea93o_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:23:19+00:00	name	i_chelsea93o_9
+.twitch.tv	TRUE	/	FALSE	2018-10-02T20:23:19+00:00	last_login	2018-04-17T20:23:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-02T20:23:19+00:00	api_token	99eb3646a5bab350ea3b5130501862c4
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:23:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfY2hlbHNlYTkzb185IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTU0ODU5OSwiaWF0IjoxNTIzOTk2NTk5LCJub25jZSI6ImlOMDVDbjFxNFdVZElfQnIzS3VoT0lRVHV3LUhMdy1zREtGUDU1MlZGRVE9In0%3D.6ySPwq9wqbUXsLWanq71VMk-uy-ReJQhn-vK4j8VXk6A73yXfetM-5Hgdk3bX8qBPIroSoz29WAvkmAvkkqHHw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:24:07+00:00	twilight-user	{%22authToken%22:%22ddw1k3zjet65gtwcqlllubhfy3ftf7%22%2C%22displayName%22:%22i_chelsea93o_9%22%2C%22id%22:%22215062086%22%2C%22login%22:%22i_chelsea93o_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-17T21:24:07+00:00	auth-token	ddw1k3zjet65gtwcqlllubhfy3ftf7
