@@ -1,0 +1,17 @@
+#o_abigailr7e_w
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	-K67eZo5anlgCiK7xukZ8UohkaUoOPESMppX0jyuXwsdZl0unGBVJf4oq2YrGhLGDSaAN7jzz5hp16FnKyBvMgxBp8rBbQMuwA-0gbgqX8g1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	umnipdhcyjcmpd11xhv24klw
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	q2IoesSZ6Jra3fTngpkvmVghndTqknEOxMm9bj-bCI6nVtAeJf1zxFof3PZ4hPZ4AyPRRs5rEZscPplXCtC0vmmU8bxl63anjab58N0_Wmhgl7axYAo71dyDv_hXKuLuxM1sS6J7yT-x805tTFU8QVs1RdkUeuLZbrjyFKJXL6wQ-xasu4zaESbWqhEvo3u9z0zFoMZMsOcr8Cn0RloVgUubjUU6m8oAjwB-ga2MdEKHlIcxuXpD41AweVzQXd0b-Oq_m8CCYSiqREjv6JJWmwtlRmIi7Hpsq5ddzmGyVA0sW7_pTTP1hZ5kpocIXyIlCn-KNB4n3b-7U88cS2a9Mpvcc-37V_5-ShsI5s9I41eVxEAnMSXpmxCkwRdP9yUBLQ0cnmP1FvXq62asVYzDwDLIn6On8xAMB6oFDzZ4AmwGwnFLzAC-v0Mr_I7_Y4dHkK1FdfZkPKxkSG3WuRO0pHC-Isy6Hc8BR0fEEoFz0wkNpA2BdI79yG29VtBSmlFk
+refereum.com	TRUE	/	FALSE	0	ai_session	oJVBW|1524834197985|1524834297816.04
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524834191248%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%223462545656325691%22%2C%22sessionId%22%3A%221337484939338488%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1116327153.1524834189

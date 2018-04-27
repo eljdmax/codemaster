@@ -1,0 +1,17 @@
+#p_jacke7y_i
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	Jbw_1c0kJD1JvmKFrWsniFyR6SHAF1xIsI9mPrW0kSBIZjSGl7G60xTXmYUOEgBseG0hUPOtrI11bU3c3cqp_rHenpGka3IvMsSZV-mGhx41
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	mqntdt5imywobe1emuvebh3j
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	lkvPnI6O3rxZqL0Y0HsfA84UQVvyBb3T5o0Am7fZQt7W1leopUKUkaBI57ORQ7tFEjFVnW-4sY3VUsE9Jx7tklVpdhYpKDUiP8V4SdnJ4lnD3KFcvwDPX0xzJxu3k0HRU4NmzbrRY3oAtostD-Z67y_yHnQ_baDDMhei4ewqysZhZo2DAKRF9-eOBbAZ7Vei1I2iXNsmjxR6ZoOetp4-3ubo8GWkEHsL26hvrZ8miIAihxkXN3xoBNlnassmM9p3DFYWwjsZSeeQnsX3AnAxCrI6df_erdbY3JjiR0p5CN2XEx7CaQJ0h0qh-UtsBEXuEk9sbqf_IKsN-6YUyialm4DYMkshwhN2fxH5YQXk2TnnKwrNvvb1D-Ls3UoZEV7CX06aXy-TKGyj3Rr_WTJUvnTKxwpJgmizZQIjTTEoLOKPEE9JYAV5w9pgghX3EQFViDz-9SsrBc8ZiZQMCLxfhjglULVI7xW8pArrruXvuXuqj71_3Z9UTcWvT4iozcin
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.625376105.1524831467
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524831479796%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%226170779041822328%22%2C%22sessionId%22%3A%220895895783851200%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	1N3QH|1524831484329|1524831513724.075

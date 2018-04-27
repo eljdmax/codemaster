@@ -1,0 +1,17 @@
+#f_manuele4o_9
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	iYV3DqNxarJHA3y7UtLO4VAz1i_hO50GFIDYaCt_VkGo7uxt5rfneQ8ap9HOOvivSrSz10SNCbGbS4YM98NS4xmWLAWDK2G8pFFSo9zTM301
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	ocr03ypump3qgqmip1a2vkfx
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	0HsHQjF58lwD5hyvEEnLr_cqvhhOoy6n9ty4y6W_nX9wjLjsH5konTiu-uxj0dL5e-V_-_LLSdKXGg8yV2rLNyiBuC9hZQxX5sU1rvt5XQlzAaJV6i13MWrtV5QQX_pTUKsqWgR6zIUg37HgcbgttohHTC8892m4ywU4iZngPAJ_8MQHO34BmzXUyP8Lyn2DATWHx3xJpuoMLkX3bRbySFIrWERd9g0D-guOree9ErAeFgdl9_utXIDEZ3TUcBpwRZ3tN223KGrE6JjcIrDvtK0jWwswfq4_3ZYyk4ffKw5KfWpHDDEktIpEYDMkL-QvsA5oQowgXYMY2t3zTacAfC7qTPQDSMQEpZIOaqKaBEJUqF_2H02Fc8V_X-BraKCriOqEeSUWi7BYlJO3iccuv3J4Phy9JHb76ymYcEqjlYCSnTAossl_WgtkmrVAtrpn3pdbMdKJkFYIJwoSYkp9rn-mgQo9pHdAgz4GQjP-MSWY89EfOpYGQ_3lKPcjivHq
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1419765702.1524837303
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524837309599%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%223540476293766803%22%2C%22sessionId%22%3A%228581455725866446%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	DDAeX|1524837310771|1524837341285.165

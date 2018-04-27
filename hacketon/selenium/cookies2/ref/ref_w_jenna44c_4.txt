@@ -1,0 +1,17 @@
+#w_jenna44c_4
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	tWrFIFSvWTQwOyoBBK1az0mazcFlNiGhEwoOm2pvJEcZCeWJK-klV_E9NQDR7Q0uytqDPSbxUXc_-n1e5gGTu-8KKejf1anMZIVgCVaciZY1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	lvaovvbj02zi3um4qd4jlsci
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	PXUGkamCPY9muWTJIkAhmIrjZ6GQUqPtDsds5wXaKHhmNEBaNA50LxhKxr_cQb8EK90HeHf8IQkJZcU24C22twNcMmScyfK-j-clCaAlXRwiNlrPyVLxQwtbv5TLXsyUfyG1vtt1A09Avvx8DKULT5z50wRBE9aFBs7m77noCBDb3wnp_hjpjbr2Id75r61iGjsk61X2NJv2jLS9CgGyT4bouW3_mezzE-fC62EWLIHck-zjaWiFzfR8RVxGRgaNCtwNaOuULtmcPuuicnerkaZ9J5Ha1Pq-Ywdm12ZvDn7luZ4fSSJn_bbsJr29cwQwtDP29qQmLdYwAF08SIzUFes_9HFfNufjiR9ag0yc1_b8EKt7GE8RXrQYMOPsRYM38URm8bHvatwqIBLyk6GgdJoXjE2E4UCf7bJnHHv6LM3VJz417y0kTcsAJ1qhwP15Rzf9lWb2JkqeQ8WjmvyFypDNpanbfKFVbfImf2I4VID8NHRlJLgvGcM7cBiMAPIC
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524836621419%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%228368235445318790%22%2C%22sessionId%22%3A%223757523904051415%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.196760336.1524836620
+refereum.com	TRUE	/	FALSE	0	ai_session	BO3pg|1524836625887|1524836718428.465

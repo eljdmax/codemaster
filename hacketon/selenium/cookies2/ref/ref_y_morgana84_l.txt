@@ -1,0 +1,17 @@
+#y_morgana84_l
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	nJE9-Au8m47Dt3FObyNkfQ1NNg0XphIcsjoCO2v_O6X3SKS-HkX2hH7dMOssTuhX3XHmBqAi95k4UTCFrA_hQZaz7byn27WaGM2tUSCgms81
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	5sriiu5evho1n3qvfqaysfke
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	nP5eImEcCoSw8_hp3xvzgvZrnM7mNVaARrC_pkqUMsXSvfQ7BMeX1XwfgiI8vKeW9ANvrUf1PhwSQhagm7yG1lP-gSyHmSbKa2W65UjfK5VlE0Bmy5mBPJSbixcvOo2V9tdgIJLTmnMGk3eeSK8uPGGG2YTtwCYsrCGXwBOI8r20V8p_kMX_BP0_kl3fWynxjaxiUAvX-8DsuwZSG4ed5QDGKI1SRONjEm07Df-fZHj983kJNvPWDgU1BPA_aP9iMxRpK3E1GSCOb9rpf5FlF77prO6qKpNQrXN37TMnEakrKmZLiBw7RdXHMhk3hJ90oLkVhudEHWo4N2e7NP3sCXunPlQJBHLQeY_UAAK7mY1JM26OBFNKZi1_IgvaE3B7czV-4h6taOHl4CJD58I6hCAhFbSven0A_8Ajp55mvp6vyc_YdbrC8eUOs0eA6lmXG4Nc9VogQcynxqL6DcNzkmRWiLiDneDIAIBR70DYVsKgDFu1Roq0L2A4SYMZiBJR
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.664514032.1524828937
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524828941671%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%220333244635122506%22%2C%22sessionId%22%3A%228338053922526592%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	DL8TE|1524828947860|1524828976786.375

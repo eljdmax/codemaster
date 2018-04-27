@@ -1,0 +1,17 @@
+#x_melissa267_7
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	W9iUOMJhA5cJkUVP7Lxr7q6uH-ArarR0-UN0NfVQ_TOhVdaY6fP4_FmfSMPPk2MAMYP6IvFXcVkqwiFVML0mjIp3u8LLY8rnUHMvMfqmtOE1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	vnbjnoiyk5mhocmq3kcpad3t
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	O2WtG2RMLAI8NUsG4EAt7Sguk1DBIfSJRtcoytgn93LHoylusuwgeuXTUJGNHBJeXrkzaiPBUCQmlbuLK2ikpvXIxzZ4ANxubdy1g6xEo3HpIqUW6UPM5cfTtCzOpAETt3w2IgGI2D25aWeADP7YA8Pa4zAL4FCBRcXCahyDrOyIsyO_D_yifEr75RSV9NmK184DOXtlNirx-jgnMvpfvnNkSAcWCDhO7WTIfVp32eOroH72hwPGcc3fq-V0vDKE1jkVyVHGE8QNyKzX_2vTlPjcyAJNLr7fosrIGNioUXsN1xgKKwFUZj7kU0lMO1hs3ZXzOQO5Bst2vBvhkdjHIl8F8YZKf7T6Y-IPt5NGeWAEkHepwjyP5miAY-_KEXEnt2Y00ob-53RUgQ4D1fpCK_p30hS_0v_-VZd-Qag7eRHlln_BNmrHvqBadj0S11wBj-wqCLwNBjFzNGUDiMxm4xPLX_UrD2_cRT7rO7RF3s8gT8M0ABUtIqHHGOxe0yxJ
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.2072826660.1524828275
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524828277565%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%225308916422738587%22%2C%22sessionId%22%3A%220861643148493067%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	XQuLL|1524828281434|1524828310007.38
