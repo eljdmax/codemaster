@@ -1,0 +1,14 @@
+#e_alexander03d_s
+.twitch.tv	TRUE	/	FALSE	0	unique_id	361d5ebd8d0a80e2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	iZQZXpsOLQkHMmJBVFVjv19p6rWIdqnEO41AkwCinE4%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	452b8e9c3b80d25364e628fd305eec87
+.twitch.tv	TRUE	/	FALSE	0	persistent	217442705%3A%3A9ppqv9qlea5hy6o1lu6vwtu4ycwh94
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDI3MDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTU5MDQsImlhdCI6MTUyNDk5MjMwNH0=.S8wmqxJ5WYeNq8Rx5uicn7eA8B_G2Fy7Kc4AzjLK30KSPqlo3ClkYsGZTFCoTqjDb8y3Myw266QKqYoCw-j1Fg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDI3MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3MTA0LCJpYXQiOjE1MjQ5OTIzMDR9.EZroOwncWwagWOBCMGkzyKknPVoDP3drJzNhqi0iy_EXXnk-NdDAgMK7GcXfph2ykaeSEnwwlFSydxzegtkyug==
+.twitch.tv	TRUE	/	FALSE	0	login	e_alexander03d_s
+.twitch.tv	TRUE	/	FALSE	0	name	e_alexander03d_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T08:58:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3b6b8f4c20ce2480b13309e52a51c979
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYWxleGFuZGVyMDNkX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ0MzA0LCJpYXQiOjE1MjQ5OTIzMDQsIm5vbmNlIjoiMGFJbjRZN052Z3dwSWRfYXNOVUxYaGRTZDBLZUZ4WGRQdGxWV0RCVWJUbz0ifQ%3D%3D.PInPdl-8wIYWIW3QIOnGkflupkctK-qx3fiVCWudOdWi5DbZ47sPjS1v49P4W7fCfBD5kFnAZPAbOB48zchMwg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2250kfs6f00zc19yszz5ldshkkyuldss%22%2C%22displayName%22:%22e_alexander03d_s%22%2C%22id%22:%22217442705%22%2C%22login%22:%22e_alexander03d_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	50kfs6f00zc19yszz5ldshkkyuldss

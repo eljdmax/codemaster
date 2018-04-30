@@ -1,0 +1,14 @@
+#l_danielle018_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fOpfJLh26zDDxTjTlyxfC%2FVBdtqysSBJnG7Owiu3CUU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	160a4726812202ed
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4a8aa80d5e70976b78fa66e6a645b2f2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217270261%3A%3Aklblsj5p7ne22mt8jwxoufrk01cba4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzAyNjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzMwMzIsImlhdCI6MTUyNDkyOTQzMn0=.tuMiX813EuyTH2_87dcwZ47u2rxvlT40sVkn7EZJ-cdkPb_F1uCfR7JxljJZDy2Lt51naTZ8mDON7MZKjJVIdw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzAyNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0MjMyLCJpYXQiOjE1MjQ5Mjk0MzJ9.1c1suUo_WYITHs74W9tDpjJyzSl0lXrl4QJ83dm0Xc_Fj84RQi41DaSRcdAOW0cPjdBXnBRInl-0hv9rlRErnQ==
+.twitch.tv	TRUE	/	FALSE	0	login	l_danielle018_0
+.twitch.tv	TRUE	/	FALSE	0	name	l_danielle018_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:30:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	13847fd565992a70231e59c365bd3437
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfZGFuaWVsbGUwMThfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODE0MzIsImlhdCI6MTUyNDkyOTQzMiwibm9uY2UiOiJBU254UFVfUmN4ZXg5VXYyaXFyVGpFY2dkS21BVFdSM1BNTEtYWW5UM1dNPSJ9.x-dOOeOqpCLEapWfnqjYW_qFR82biZTvwamgAkBrpPn1CbQOm5SnIhyUXl6R_CGOjSvaRcyo_Xu3qnu0ijfuyg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228zv2ku1luww35dfa00j2eacs96zi1j%22%2C%22displayName%22:%22l_danielle018_0%22%2C%22id%22:%22217270261%22%2C%22login%22:%22l_danielle018_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8zv2ku1luww35dfa00j2eacs96zi1j

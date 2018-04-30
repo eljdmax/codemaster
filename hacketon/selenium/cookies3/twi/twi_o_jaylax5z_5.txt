@@ -1,0 +1,14 @@
+#o_jaylax5z_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yJYBMlo39P2WTWZv0GorUIUaYULzthI6CTHnQhvCnvo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ae4bf2efdd1b8d2b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f02e32d8eec4342dfa1478194af8e8ea
+.twitch.tv	TRUE	/	FALSE	0	persistent	217485410%3A%3Aivxpeoy5pts1sxop1auywh7f98v33f
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU0MTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTUxNzgsImlhdCI6MTUyNTAxMTU3OH0=.aBxIKKaAd0S5oI_0bmwBhibdshtVttk5xoBevUfT8hRpGE6oVqVa7Baa5Fyz17W8wiC6CKPJeY7KMw90NTpATg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU0MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2Mzc4LCJpYXQiOjE1MjUwMTE1Nzh9.wofHPXADaEwVivUgG3HdwmdTyzAI-gSd1w1FjlhKa_Jvyg_gIVV0yJ3-LjK41UBdHJgyJ7AGXNRv-jQFF9aI-Q==
+.twitch.tv	TRUE	/	FALSE	0	login	o_jaylax5z_5
+.twitch.tv	TRUE	/	FALSE	0	name	o_jaylax5z_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:19:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9359617d3b88e8bd4bd74166d530a4b2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famF5bGF4NXpfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjM1NzgsImlhdCI6MTUyNTAxMTU3OCwibm9uY2UiOiI5WXVJM0RUSHd1d3pMUE5ZOEl4MUtoTUhsem9xWmUxRzBRZXdZeXREcEhZPSJ9.x40dW9tsU8yRs2KsoitGl_3LLtwxE8rQLthexB0KcBoWVya8E0gtf0IFkQWhCahWiw8gafjCeGgmzjsdQNPG9g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22656em49z5r90gyj14eut5okfp0faaf%22%2C%22displayName%22:%22o_jaylax5z_5%22%2C%22id%22:%22217485410%22%2C%22login%22:%22o_jaylax5z_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	656em49z5r90gyj14eut5okfp0faaf

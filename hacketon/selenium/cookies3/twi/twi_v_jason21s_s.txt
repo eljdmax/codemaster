@@ -1,0 +1,14 @@
+#v_jason21s_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ZfE6CH2xeVXxIh1S6rno4ILi8KNNoFiGQmZM8a0eOIo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	23d61244cfc6243a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	13e48c41fbb3d06670cbc8fc6c123f5b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217447606%3A%3Aqv0lqk6a0bjxuo3c95vc2a3fx7f7kx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDc2MDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTg2OTYsImlhdCI6MTUyNDk5NTA5Nn0=.0YojcTEb0j-t1bnzbGPwDOPtI4v0hQD-S3gigcGuj_R_fc-2Tg0p7QiCFg5VbQrczbUqd27W50qZesIbqjTATg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDc2MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk5ODk2LCJpYXQiOjE1MjQ5OTUwOTZ9.s4x1tE7PzAyw_0xzVCx9MKBL8GlyoeDAdDFAa516dfJ_2J1NjdQ-MfZW-35nXd7g6U8HMMC7pklV12-C4etOrA==
+.twitch.tv	TRUE	/	FALSE	0	login	v_jason21s_s
+.twitch.tv	TRUE	/	FALSE	0	name	v_jason21s_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:44:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5d3b7032917449cb3d0784db53770a5a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfamFzb24yMXNfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDcwOTYsImlhdCI6MTUyNDk5NTA5Niwibm9uY2UiOiJBbTJIMUlKZ0ZyUV9YQ0tkSkxLWHNkZXVmMkNZNlVySnVaS2U0QlFJQTFvPSJ9.4gGHOcYVtOeXElpqyF8icBrUfJg7pDlRaWr0BLypOGVPAFjASDqXWIZ-nzbzTzrjre9Opi6dtLf5LYFJ2PISTw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gadwctcx3489wy1zo1sk0v72zuv38p%22%2C%22displayName%22:%22v_jason21s_s%22%2C%22id%22:%22217447606%22%2C%22login%22:%22v_jason21s_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gadwctcx3489wy1zo1sk0v72zuv38p

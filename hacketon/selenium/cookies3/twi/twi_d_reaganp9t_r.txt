@@ -1,0 +1,13 @@
+#d_reaganp9t_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5sI%2BFmfkY22kQE1YfguowiW3%2BMTkUkCmUPz9BSAhLmA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	60150e4947b2eb48
+.twitch.tv	TRUE	/	FALSE	0	persistent	217551094%3A%3A98qcy9wh15vdr3559ff5pl11k5hurh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTEwOTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzMzNTEsImlhdCI6MTUyNTAyOTc1MX0=.R52XQalnAYP74Jj4m-qkNbug5zsFh9RJE1B1z2_V42y45ziMQWX4qh66Lye9be9IyY0q4XMlRz5ty1gx81pcTw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTEwOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0NTUxLCJpYXQiOjE1MjUwMjk3NTF9.mqeSq3PvQzefgduyqLeLvK2VAFGEXLg_SkO-y_zEYjWMZRJnX-RAnz2thBvobOtUg0KCQC2Jjxx24FK5Gva9PA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_reaganp9t_r
+.twitch.tv	TRUE	/	FALSE	0	name	d_reaganp9t_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:22:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2019fbf1607735c8ac185e970a4d8c05
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfcmVhZ2FucDl0X3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgxNzUxLCJpYXQiOjE1MjUwMjk3NTEsIm5vbmNlIjoiVDFybEZXenphWmxMVWVDcUt2dW9tMUJHV08wV3pJYTBVR1dKMXBFQURQND0ifQ%3D%3D.R8NjonMwV2Hqwfu-oxgMx_mFcRlN9-2sPY9D2DfTrkoUP8EA_2vDel6-WBNnUH0Cl0FEW3wRBN8hFq2QVV5zqA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m6m8029cok2z0hb6kgpvflciddq5w9%22%2C%22displayName%22:%22d_reaganp9t_r%22%2C%22id%22:%22217551094%22%2C%22login%22:%22d_reaganp9t_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m6m8029cok2z0hb6kgpvflciddq5w9

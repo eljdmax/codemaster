@@ -1,0 +1,13 @@
+#v_mariahm6q_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Ewh11W5%2BvIxPoTB1vjCenOWCgh2e20ZnTnlksU%2BMoPQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	26f69bd9746b0399
+.twitch.tv	TRUE	/	FALSE	0	persistent	217551368%3A%3At5otx0emitao5pvdi1nw84li4h23x0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTEzNjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzM0MjIsImlhdCI6MTUyNTAyOTgyMn0=.g6jB2AbbAU1_4VtwbXjxvdFnRj0VMc9trVUgkb5HYFL-Z3R7CkY1a-gn9gODRowmI3fFl5CmFRYy_Tp_QMmvxA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTEzNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0NjIyLCJpYXQiOjE1MjUwMjk4MjJ9.uVDzVWwj54Vs0HCSPin7XZgArj43TUSPnlvBotzcn5lKZV_FN7NZ6FARMWwgNs9HDQAzLaJbY5HcTgQDgeTEZQ==
+.twitch.tv	TRUE	/	FALSE	0	login	v_mariahm6q_g
+.twitch.tv	TRUE	/	FALSE	0	name	v_mariahm6q_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:23:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	55015a9da086c02e137e299f43955bc4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFyaWFobTZxX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgxODIyLCJpYXQiOjE1MjUwMjk4MjIsIm5vbmNlIjoiUmpRVHZpLXpMNEJubm04bXRqS0h4UC1RdF9sYkd6WVZ4TWQxMmQzamFGYz0ifQ%3D%3D.Lq-9rfbA4CeLiiBJ_c7L6FgOhiTPJog_lRZtQVpv5y8mAWkuXggdCGOl4ahvIXAlvRDFKvzycT5LkKJKVjEhgg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kz6ixxatabyz93ug6mfiqp0ibyl45p%22%2C%22displayName%22:%22v_mariahm6q_g%22%2C%22id%22:%22217551368%22%2C%22login%22:%22v_mariahm6q_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kz6ixxatabyz93ug6mfiqp0ibyl45p

@@ -1,0 +1,14 @@
+#g_christophern9p_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kletIPsP%2FmSxHLnzWAljmZXETtdiVW82Q5G1Y1ykC3E%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2774f40176432288
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	35340dfc5aa093d092aaf45020597bd7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217499888%3A%3Aqgk67han06g0eq0m8y10j4ijteut26
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTk4ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTk2NzIsImlhdCI6MTUyNTAxNjA3Mn0=.-Avoe_jRjDtE-9D6ZjEiDjaKMkyT-W-iMh-5Nr_2ViFHr023eiXfPQVRAb3per_eKtsULE5zptVQ96PfXosyZA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTk4ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIwODcyLCJpYXQiOjE1MjUwMTYwNzJ9.K1PcC_q6kZIYZfOf-zFZlhPKe4rjwoUectj4NDbCR4eUwXMtBz1hwJun2yu8S5RXlt0I16Hmgr9v_41HTvOPcw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_christophern9p_v
+.twitch.tv	TRUE	/	FALSE	0	name	g_christophern9p_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:34:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	da71a146a3ae17eeee7060009bd866fd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfY2hyaXN0b3BoZXJuOXBfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjgwNzIsImlhdCI6MTUyNTAxNjA3Miwibm9uY2UiOiJKT3ljRnIyd2F3ajdQbXZ1QmIxNVZwOXN2anlKa3JLOHlVSm5ULWp1Nlk0PSJ9.nmsfXSMMz5RFVpyvXCm35mL2iODX6Xi3wuVKbRXeKqzyJ24nGhNP9llnoFwn-qQfmoDCJhvSlCHk9pinqJgl8A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22d7jrllz4ir3rc96e5q7qqbbhcrvmq6%22%2C%22displayName%22:%22g_christophern9p_v%22%2C%22id%22:%22217499888%22%2C%22login%22:%22g_christophern9p_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	d7jrllz4ir3rc96e5q7qqbbhcrvmq6

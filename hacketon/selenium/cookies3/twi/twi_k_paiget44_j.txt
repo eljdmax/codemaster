@@ -1,0 +1,14 @@
+#k_paiget44_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kE%2FgMJSTDqeXCbQDgMZ7jy3nbpuEVNavGTf2wOFC2fI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e55fca7e771acc95
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a01387bbaf53cfcfb21f8f5e2163d3cc
+.twitch.tv	TRUE	/	FALSE	0	persistent	217294703%3A%3Ahsvjk54cvub2116dps63lveynykxkg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTQ3MDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzk3MTYsImlhdCI6MTUyNDkzNjExNn0=.zxPH67F4sDu-PX57cIX62HEsSeDpQEBWa0jQLnS2skadUy79TX7YtPYsFrv-82Qdp3zQv6iIeH40nfobJScLMw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTQ3MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwOTE2LCJpYXQiOjE1MjQ5MzYxMTZ9.likkur9JHvYdDCTLGLk0WcvdjgtzkB2C4PSKP3fVeLE-y5DlRqFAtFtIyYGRBDJmHjmVkJhuIvRu27LPpkHEMw==
+.twitch.tv	TRUE	/	FALSE	0	login	k_paiget44_j
+.twitch.tv	TRUE	/	FALSE	0	name	k_paiget44_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:21:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	88afd40890fef9f0e7be5819e2c23006
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcGFpZ2V0NDRfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODgxMTYsImlhdCI6MTUyNDkzNjExNiwibm9uY2UiOiJJYTRFMVpEYXd5ZG40dzlCQ3RhWDBjNWxfbXQ1VnNEUWpvXzdBSzc5OWJFPSJ9.2Z85V3MCSAxEnXp7FvaYV5mShE75znOJy12GY257HuRREOvAn2SRBceHSKCItGHW97htm2Iq25i6krdhSJ2J4A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ideu6hip91rykg8c5389dlbwzc1bua%22%2C%22displayName%22:%22k_paiget44_j%22%2C%22id%22:%22217294703%22%2C%22login%22:%22k_paiget44_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ideu6hip91rykg8c5389dlbwzc1bua

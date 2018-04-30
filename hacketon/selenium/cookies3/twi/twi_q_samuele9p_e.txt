@@ -1,0 +1,14 @@
+#q_samuele9p_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	AE20s4qRG6P0xkjK6rKEYR%2BM2p8NCERt%2BJneP2pwl3Q%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	15fd0513e6b7fa2d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	33a37df2b28427c77daf4f39907e3458
+.twitch.tv	TRUE	/	FALSE	0	persistent	217252541%3A%3Axw20yzgetcvbkmjj4m7h8z5j5l4vxn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTI1NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjc2MjAsImlhdCI6MTUyNDkyNDAyMH0=.dsw80YIDZElrtXjaqh1xe-b9xzbOe2L1r8oIM9WeGBBevUOuiYvP6zRLW76WHvjPuhgt062Vu4NEQtU86-0Niw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTI1NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4ODIwLCJpYXQiOjE1MjQ5MjQwMjB9.h-ju62pGFbvbszVKMNfDqvtUGZwg1ulfcrlHh1Bkp4waHV8R1FXZxN7tygnANCMksma02nK7N5ZmpWsii5IS0g==
+.twitch.tv	TRUE	/	FALSE	0	login	q_samuele9p_e
+.twitch.tv	TRUE	/	FALSE	0	name	q_samuele9p_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:00:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	24084359a20b5294a9900c1231f3a732
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfc2FtdWVsZTlwX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc2MDIwLCJpYXQiOjE1MjQ5MjQwMjAsIm5vbmNlIjoid2o0MWNRNXRCYjRXTEsxSmpXbG1OMjdTMWliZmlyX0FyVG8teTRock9XOD0ifQ%3D%3D.ClA8auEpauM6quyCyAL6ja1p2qcGjklPm8z0KXtFOjHshkk9YMghsfs_cryjtwUL9NrmCxaxePVAqakQ6YkC_g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rl2g6rthaeqahbdytf4rmv9w47hdh1%22%2C%22displayName%22:%22q_samuele9p_e%22%2C%22id%22:%22217252541%22%2C%22login%22:%22q_samuele9p_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rl2g6rthaeqahbdytf4rmv9w47hdh1

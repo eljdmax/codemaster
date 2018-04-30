@@ -1,0 +1,14 @@
+#l_alicia43q_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	rfQkEJPbmiwjhGkHm9PzyKDNrG8kqxjU9SjV3Qzx5HU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2ea1df6035ecb86a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	dac43c440ab72b45d7c88571e15902da
+.twitch.tv	TRUE	/	FALSE	0	persistent	217490099%3A%3Ae6cs6evjs7wqnkuf85xim86tltwnua
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTAwOTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTY2NDEsImlhdCI6MTUyNTAxMzA0MX0=.frAcU7Jf_24C7pvPGJbxrZERBXZ0htmooRtdMbzaKd8EQy_uJKTIzbXQ7Rg_OFYCzD3se6X_DvDzrSArdn-XnQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTAwOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3ODQxLCJpYXQiOjE1MjUwMTMwNDF9.ilxZsKKX9uJwr0SISyhkSWq-0QvTh_p_L_qtbzFT33RxONDTsMNa9BnIs9-Nd6hjWytY9OfHPOMJjmEJtRiLGQ==
+.twitch.tv	TRUE	/	FALSE	0	login	l_alicia43q_6
+.twitch.tv	TRUE	/	FALSE	0	name	l_alicia43q_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:44:01Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ecbe986563b18b827e9fb05b18d02914
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYWxpY2lhNDNxXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY1MDQxLCJpYXQiOjE1MjUwMTMwNDEsIm5vbmNlIjoiUmRTTmFfLVFza1RUbE9iX1J1elJDallrbUVYT1ExbHZ2WkFic1dZZU0wST0ifQ%3D%3D.dWZXAoJ-s5sPIPySDBs39j6NnuAfwMb7G96ExrhFiubsuK-4ZbUQ_79HmKU-EoBJPxAMkLXt6hhNq2jXdcXkZQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227fh8ngyvfpt44y60z9bbx49r3vc2ja%22%2C%22displayName%22:%22l_alicia43q_6%22%2C%22id%22:%22217490099%22%2C%22login%22:%22l_alicia43q_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7fh8ngyvfpt44y60z9bbx49r3vc2ja

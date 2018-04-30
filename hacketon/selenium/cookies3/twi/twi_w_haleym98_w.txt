@@ -1,0 +1,14 @@
+#w_haleym98_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kE%2BfdfVkjgETMqalCNFqsJVjCtcQmjy9yelBMzynGx4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	702167d02c174e21
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7f5357cc5a05793271af2de3d7ba3563
+.twitch.tv	TRUE	/	FALSE	0	persistent	217485576%3A%3Atn3km2u7g5phvragz1n4s2eqw3optq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU1NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTUyMzksImlhdCI6MTUyNTAxMTYzOX0=.Q-RwFMXfc1v5NALZQPdFfF7iffyLV-8swGjChzSCVd-hRzi2hH87pK7H5N1mr63_rtOIi1QgtfmOfz1LEb9qoQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU1NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2NDM5LCJpYXQiOjE1MjUwMTE2Mzl9.J8iXsNH-q1Wk5Hzwt0UqAxL6ZeNwhI4yv1rqj8AVY1HaPpyrbQA71OlyEaebCVPVpklsOY_xPYz6cRHwmTBopg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_haleym98_w
+.twitch.tv	TRUE	/	FALSE	0	name	w_haleym98_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:20:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	084910a34ddd0ab0cc6c18c6a0a1f831
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfaGFsZXltOThfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjM2MzksImlhdCI6MTUyNTAxMTYzOSwibm9uY2UiOiJjd2NTS0FIOEdlOTFzNFhYb2xFTy1BQTJGVXpMT1Q2SmtnM3N4VjBGMU9JPSJ9.cm3xnGvlhaZD968kPCumD0gVJgslF_oEeJL5QrwXVCjZtyQu7skxhXPGzjGUio-pwEelQW0B54hIPGYIs-0sKA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tpgjgecczwxf5w38sbeg18ktmi4mgw%22%2C%22displayName%22:%22w_haleym98_w%22%2C%22id%22:%22217485576%22%2C%22login%22:%22w_haleym98_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tpgjgecczwxf5w38sbeg18ktmi4mgw

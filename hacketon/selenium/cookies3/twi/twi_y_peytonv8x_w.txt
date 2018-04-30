@@ -1,0 +1,13 @@
+#y_peytonv8x_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2F067ADmfbkg%2BmpCYMxwZNuJxrGszHqajcEdZAKA%2F00M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3cd21147f793edab
+.twitch.tv	TRUE	/	FALSE	0	persistent	217500864%3A%3Ayoxhhwplkgwhqcrday3snuv85hcf3s
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDA4NjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTk5NzEsImlhdCI6MTUyNTAxNjM3MX0=.cwBl-5Y0p_NCS3ExHAtMuQZ2GbDb2LQdSxqDt0c9NCmZFmK5jzfhCtiN08L1UTumiTFu6dtSj39TsgJtz4RRrQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDA4NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIxMTcxLCJpYXQiOjE1MjUwMTYzNzF9.JS6B5qzCq5few1lybQ8wGDwr2XucPyVCtwme50M8N6dYRZu7hi9wAR70a-Mv9udXWGdVuFAjtTvJHzOp54df2g==
+.twitch.tv	TRUE	/	FALSE	0	login	y_peytonv8x_w
+.twitch.tv	TRUE	/	FALSE	0	name	y_peytonv8x_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:39:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a236b2a00053f3e4607d8686a412dc7b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfcGV5dG9udjh4X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY4MzcxLCJpYXQiOjE1MjUwMTYzNzEsIm5vbmNlIjoieVpjZm1IblpleFRJM013Q2VRSVJGNzNyLUF6ZXZIQjlvQi1yX0M1b09NOD0ifQ%3D%3D.MBl7ZKRRkVqe6tx9j4ChesntWP-X738zf7S8FPvVjRFyBMnyY7yhd4DF9i0FF7Ho0L0B2ZoVQe_poOKcmIA2AQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ihikfi7z7g8kb8xi28albkp2totfu5%22%2C%22displayName%22:%22y_peytonv8x_w%22%2C%22id%22:%22217500864%22%2C%22login%22:%22y_peytonv8x_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ihikfi7z7g8kb8xi28albkp2totfu5

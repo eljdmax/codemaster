@@ -1,0 +1,13 @@
+#t_chasem4h_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EJusmB%2F%2FFGCsOqAxUQYMXk2DUDxKVcqIG3XH2%2B32KOg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	94872fa60e63fa9c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453267%3A%3A31rn1ptjfhc4gj89ybm854w5klkyyl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTMyNjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDEzNzcsImlhdCI6MTUyNDk5Nzc3N30=.j--E5CBFiS85BzLjNQjiFW-cV9B5bYyfpmTjvusodfvM_x4xg0_9NFmaOQ_m7miBkOkKxxq1CjszqCeB7PSGEQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTMyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyNTc3LCJpYXQiOjE1MjQ5OTc3Nzd9.TjAmgd-CeUsZKsFWfnordjMIiafWodMikhWizuVSuZx662FySbQSSJY5lHVFKGZqbltV0uQNU7PaV2j9KK_wCQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_chasem4h_h
+.twitch.tv	TRUE	/	FALSE	0	name	t_chasem4h_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:29:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2adc47de1e620aaface4a8d4b823e7c4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfY2hhc2VtNGhfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDk3NzcsImlhdCI6MTUyNDk5Nzc3Nywibm9uY2UiOiJVeHhJZjlHTFgxSmxweVladXp0aG95RjJpdHFjbGs4ZjdqSGNmXzZJMi1ZPSJ9._0PoxA7NSJ9WufcDFtIDPcujkYxiNvjHgDDbOkDrp6l8Vaqw7EJRxcjPK14OysyBVgOquZxt56sLK6JI9RGw0w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m5wlzmic27vdpytveza6e6ztdjq0c2%22%2C%22displayName%22:%22t_chasem4h_h%22%2C%22id%22:%22217453267%22%2C%22login%22:%22t_chasem4h_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m5wlzmic27vdpytveza6e6ztdjq0c2

@@ -1,0 +1,13 @@
+#i_katheriney3t_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2Fy8h9ZW5MLR6CkGR1oLWtevXotIONmcDLxKA08JC%2Bak%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e5ce9af42b6872bd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217499735%3A%3Aswq30dbd9jy239oaexjlg20sjp0n5w
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTk3MzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTk2MjUsImlhdCI6MTUyNTAxNjAyNX0=.Icw4Rjf5ZJtkA5UkqQ6OtFgTG8wBUoeW6Y0H4lmk8Zeo9xgdOxZ0KujM4DxnlrC_Umi-8-0Fq8mOkewxp33wFw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTk3MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIwODI1LCJpYXQiOjE1MjUwMTYwMjV9.lFA3IOFT3apgHN2LI0W4oebWYoj2_FulA8TxRdNxxjYhSRAMcC4h8LdU_XFaAHUBqXLDygv_dLIITp9hGOzJBA==
+.twitch.tv	TRUE	/	FALSE	0	login	i_katheriney3t_c
+.twitch.tv	TRUE	/	FALSE	0	name	i_katheriney3t_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:33:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fa54968f5e6e806eb60f9d834d28c347
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfa2F0aGVyaW5leTN0X2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY4MDI1LCJpYXQiOjE1MjUwMTYwMjUsIm5vbmNlIjoiNUZsdm9IcnRMdkthNUFLeU5rMExrQWRMWWNSUm84RGhwZkhEZVVfeDdiYz0ifQ%3D%3D.zI0pRGGSBz7nSfbhvIQW93zo-zMj4G-GCFUxDb4_HGrgSbfD8IYyuvEEDkSXYPl4cQ7jWnaEwXJL4Kgdz7k87A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z6qman2xytci6rildevw8mgvakij2b%22%2C%22displayName%22:%22i_katheriney3t_c%22%2C%22id%22:%22217499735%22%2C%22login%22:%22i_katheriney3t_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z6qman2xytci6rildevw8mgvakij2b

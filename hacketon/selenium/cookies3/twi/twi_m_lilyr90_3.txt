@@ -1,0 +1,14 @@
+#m_lilyr90_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yBMeg0%2B0qE6Ggo%2FSGMvQ%2B2rBxxr2F64zMIypcRGE3qM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	943b65e77f19ed71
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c021bdc032bc0a1c8f7e822f98434867
+.twitch.tv	TRUE	/	FALSE	0	persistent	217488150%3A%3Acnq14t97g6c4f2w6m9lnufs06vyk1z
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODgxNTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTYwODksImlhdCI6MTUyNTAxMjQ4OX0=.1AW5j_a1vRIjO4S3q7agS-yVaBbl5Ps_pGqH7v3Ldd6pIo1K5y3gmjf5cwu9CTLueg1F9b3BTUdnEfU2nuPaug==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODgxNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3Mjg5LCJpYXQiOjE1MjUwMTI0ODl9.u_xkmv5-yjcVerJ6fcJQCRBfG10_UsnOqZ1TkKYgxXxpPbx6a4G9h2zbnBUVTpSkiG-6w_sj9i2MT6XohyRGCg==
+.twitch.tv	TRUE	/	FALSE	0	login	m_lilyr90_3
+.twitch.tv	TRUE	/	FALSE	0	name	m_lilyr90_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:34:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3dfd8437f7a2a0ca37119dd93b7c2079
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbGlseXI5MF8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2NDQ4OSwiaWF0IjoxNTI1MDEyNDg5LCJub25jZSI6IkowNE5hRU15Mml2a1N0NmVnQjA0VGJBQXV5VzRaYXdPQXlIV0d3VExmMDg9In0%3D.ZzbS2k-RiDkvu7GirysblYe2TCgMeHMDO-WKDHhIJFy8ug36a3OgzIyeF0Cba7YW8_JMpHWdq8Q1upPhPn9_fg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227obckd2f2ggx1w0pqrqmxp9tgiucvw%22%2C%22displayName%22:%22m_lilyr90_3%22%2C%22id%22:%22217488150%22%2C%22login%22:%22m_lilyr90_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7obckd2f2ggx1w0pqrqmxp9tgiucvw

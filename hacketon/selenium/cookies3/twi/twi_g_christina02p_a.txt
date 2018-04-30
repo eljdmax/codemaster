@@ -1,0 +1,15 @@
+#g_christina02p_a
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=4b64d00a1bc79cb7:T=1525008430:S=ALNI_MYvkXQncmTFId3OTuXFTyYQDedHjw
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ereivdQjYzHqdDKdd%2B3mS0iASwKtwaLABBagJABBKFI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	049ba6972ed5a73b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8c8d460b2764340438058cb3ce126858
+.twitch.tv	TRUE	/	FALSE	0	persistent	217477261%3A%3A2gqb1brgy32k5pvq9lpfn0rrm5hnk3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzcyNjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTIzMDgsImlhdCI6MTUyNTAwODcwOH0=.A7pntdnuTOch02Qv4_X47JNcf6soUGy041EPqmAs2u6R9O_D_J2R4G8EXhINbllcdeRadXsT9R0Xnn88LpaGOg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzcyNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjEzNTA4LCJpYXQiOjE1MjUwMDg3MDh9.sVg_xXHA52iFry34SbRuzX3NQ19W50tniMY0vm9NcEBnrbwO5n5sn3KwUnPCUTp3fUgDcmA65IBPbr_l-bianQ==
+.twitch.tv	TRUE	/	FALSE	0	login	g_christina02p_a
+.twitch.tv	TRUE	/	FALSE	0	name	g_christina02p_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T13:31:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4f7fdfba3d62cb66a8c1751da84af5a3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfY2hyaXN0aW5hMDJwX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYwNzA4LCJpYXQiOjE1MjUwMDg3MDgsIm5vbmNlIjoiNUdzVDlYRUdyTDVYSnpvMXFiLVhrTWs5Mkh0SEpHUVRIQXF3Y1pkU3JqUT0ifQ%3D%3D.kIQW_mrz7eZEYmNpA2qtDUK2r5A-vkWqyaZAO8lvKu2W4mC85U0zZMBU9cCxbE1Bo1BiOeI1uq5xfxTo18PzhA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jkcnoz6djs40qua9u1rwwzx78cyxl0%22%2C%22displayName%22:%22g_christina02p_a%22%2C%22id%22:%22217477261%22%2C%22login%22:%22g_christina02p_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jkcnoz6djs40qua9u1rwwzx78cyxl0

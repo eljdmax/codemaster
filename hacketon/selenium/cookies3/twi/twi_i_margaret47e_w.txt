@@ -1,0 +1,13 @@
+#i_margaret47e_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zzVPBylcqRandaJtnpG51TDVE4Z4hFsyMu4QKlFRGH8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5dbac36563817007
+.twitch.tv	TRUE	/	FALSE	0	persistent	217451323%3A%3A4c1fpnrr5owgwkjr3gpbvqwcfqy13f
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTEzMjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDAyNzksImlhdCI6MTUyNDk5NjY3OX0=.b3GWajEVGYfU8Al9fL2r6Kz43cdrpBipk9Cke2dhAXLeur6M6nRMECjYoYGnEFsVAWAe9wNcz3dDW9CgaIy8jA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTEzMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAxNDc5LCJpYXQiOjE1MjQ5OTY2Nzl9.aKOsabx5Dm8KnXCE7FZ2Q1QsQ8NueROlQNipGtFV8HxuSMSuyhVQVfsicySkJmnpPk7icGLiEgLT6Hc25hhhoQ==
+.twitch.tv	TRUE	/	FALSE	0	login	i_margaret47e_w
+.twitch.tv	TRUE	/	FALSE	0	name	i_margaret47e_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:11:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a82f8255b18ed91b80e3318b514ffba0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFyZ2FyZXQ0N2VfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDg2NzksImlhdCI6MTUyNDk5NjY3OSwibm9uY2UiOiJfbFdoTTZZblJ0aHJyLTRZMWt5RTVkT3d4a1YwU0xjNVBfZ3ZiN2hQd0NvPSJ9.VmUi7mJbEqERv-qB86uhSMab4fagbPfEcfYcdI9PhXrDgz1usFdSsOi3WZ0ipLBdURBuTCs9DxfGxmtF1uvHCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vjpxmgi60xh3anpctapuh9bpkavxi7%22%2C%22displayName%22:%22i_margaret47e_w%22%2C%22id%22:%22217451323%22%2C%22login%22:%22i_margaret47e_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vjpxmgi60xh3anpctapuh9bpkavxi7

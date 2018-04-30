@@ -1,0 +1,13 @@
+#v_chloeg7s_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8wL1oc5k4VnxgJDwtBI2ra0YxzwjpxTwP2C7gsaxv%2BM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e5116abf822331be
+.twitch.tv	TRUE	/	FALSE	0	persistent	217443094%3A%3Agpkttu8fhld7yfiy7hkal68tqoiye2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDMwOTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTYxMzYsImlhdCI6MTUyNDk5MjUzNn0=.JoTLJmyun1PrwUrDMFmm8zzE2AozO3gMsPmV1AIUFqNelcij4q9bAvdXW7VeHrymdfm2dTPkUjxMPSSUfY1mrA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDMwOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3MzM2LCJpYXQiOjE1MjQ5OTI1MzZ9.e0J5p1MwtuvenLgMCCxlZOdrEyDtaW-UyO6Q0onEPmByDJoys3Ej33lHvW-m56qNmR6ml0ABaKK5zmipFZQilw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_chloeg7s_r
+.twitch.tv	TRUE	/	FALSE	0	name	v_chloeg7s_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:02:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a5229ec9cbd918e9521aaaad26024093
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2hsb2VnN3NfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDQ1MzYsImlhdCI6MTUyNDk5MjUzNiwibm9uY2UiOiJuRDFOUTQzLVlaNzRUWGJhUkdjRlNfOEV0TzhuNHBxNFJvSnVXNlFBNkNFPSJ9.3kDlrRA49h4hqRW4YyNyY7b6Z6Ugg-tGeKBiMAxB3p44yGKi08FalaoDxf-IjkaFzz3zoM1KZ8i4lkuS5Pgilw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rtbpp03i5uffedmarm5argpugwcl4a%22%2C%22displayName%22:%22v_chloeg7s_r%22%2C%22id%22:%22217443094%22%2C%22login%22:%22v_chloeg7s_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rtbpp03i5uffedmarm5argpugwcl4a

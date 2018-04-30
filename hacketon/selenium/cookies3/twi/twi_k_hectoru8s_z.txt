@@ -1,0 +1,14 @@
+#k_hectoru8s_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zwlGqKe3Yn7MR%2FEU9sMLDxeKZ9iTMBHlk0M2zvlODJU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	016ecc0aa42333b2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c5adff675b98eb1ab42944b1b710d8b7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217489308%3A%3Avih7p3oafb9soxq214e2lcx2q364ho
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODkzMDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTY0NDksImlhdCI6MTUyNTAxMjg0OX0=.UXoXXtKz1_19XzA1PQJLG8EMvazLoiMVBtnnMJk-Ft9bPaHr10LwIrYNSXNxSq_BanqCwZzdnz_Mv83gWHxH8Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODkzMDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3NjQ5LCJpYXQiOjE1MjUwMTI4NDl9.QjHgNTkTr3C-DDFMTJ0Z9RzD6uooxLSpeYyWWcV7tyLxAAD308Wya1ngUUiJJ5QJjAB8y_mou6LRCxUGelkp2w==
+.twitch.tv	TRUE	/	FALSE	0	login	k_hectoru8s_z
+.twitch.tv	TRUE	/	FALSE	0	name	k_hectoru8s_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:40:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9faca993d47a661b20a984b46446613f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfaGVjdG9ydThzX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY0ODQ5LCJpYXQiOjE1MjUwMTI4NDksIm5vbmNlIjoiOHZhMHZ2eUZIem5JMTlIN0pETVlhYkZRY3NsSm1HeVV6RUF4TU1ZQmtwVT0ifQ%3D%3D.GN0izAbuZInN7wjXQKd7NsL4Y7sYwN4nezQ-RhJkFU0Lx0gGqeF52LVYkt1wNLqsWyQvmP03Mtobm1uiN-tAhw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220ze2rszgxxpf45bjwhnbrsbuj793db%22%2C%22displayName%22:%22k_hectoru8s_z%22%2C%22id%22:%22217489308%22%2C%22login%22:%22k_hectoru8s_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0ze2rszgxxpf45bjwhnbrsbuj793db

@@ -1,0 +1,13 @@
+#w_spencer26m_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	mM2v8cg2%2BULwOja5wwKsYctw7foqEAKAj9nkgQ6TuwE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e63192b89dd05d78
+.twitch.tv	TRUE	/	FALSE	0	persistent	217486795%3A%3Av3u5f37s830971y9mrbukguf2y4425
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODY3OTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTU2NTQsImlhdCI6MTUyNTAxMjA1NH0=.L_WcnIoOs5S9OtUXi8fCy1hLwMSn0NF_S4UqtKYT1lw_-jXYmhdzbz89iqOM2F9SURDs1lcrGf637yvY43f4sQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODY3OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2ODU0LCJpYXQiOjE1MjUwMTIwNTR9.u7_Fu0jjWaDL0_F6pzQ_K9bY-K_f6g7HUCsdG25WHKzOuuK5M3lBFeb1vLxs4KADqnnXjco9OCp7vG77jyPdSg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_spencer26m_6
+.twitch.tv	TRUE	/	FALSE	0	name	w_spencer26m_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:27:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7880852a3e3e9eb85b50bd22ab77533c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfc3BlbmNlcjI2bV82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2NDA1NCwiaWF0IjoxNTI1MDEyMDU0LCJub25jZSI6Inh5REdQYTByRlE2cmlPcGl4WG0zU1NZSUtIb1ZPVmVkNkFMN2ctd3BfcEE9In0%3D.xuCPXMwlUb8kLk5Vdxvvz9lnkF9raUovTkLFcGw6CucH8A4vPKevkMNMyIbOYhIXF-6aqkqB3XuP0owrzRYLDg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rn1kyj2ff6xjwvfsq7lycmif6l46a0%22%2C%22displayName%22:%22w_spencer26m_6%22%2C%22id%22:%22217486795%22%2C%22login%22:%22w_spencer26m_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rn1kyj2ff6xjwvfsq7lycmif6l46a0

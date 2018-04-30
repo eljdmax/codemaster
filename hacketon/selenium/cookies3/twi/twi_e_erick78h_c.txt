@@ -1,0 +1,15 @@
+#e_erick78h_c
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=0334881840686dca:T=1524997539:S=ALNI_MZu04BevhAClHG5Qsms6fGV8-mdZw
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3yeyV3tssUtue44tz8CgFE8Q5T8YdIzocwiIsxzoxVs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	813d6b3060a01da3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c115f2cf28fc29be8997018fdf475bc3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453332%3A%3Aoibqh0486whkeqiasbetxfojii62i3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTMzMzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE0MDgsImlhdCI6MTUyNDk5NzgwOH0=.yA-0ZF9WuhvbtdTLn5cZBO5gSnIgmrlRnYvhTeelaErF7uXqeg_EV1W3cLfR25mxLniMKqtR-qQRcNG3qhdKjw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTMzMzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyNjA4LCJpYXQiOjE1MjQ5OTc4MDh9.VeYvBVxKhSqQ5Ok_-tMu_g-HzrSehD6JnF6L_dwxHRs7-9weXXqai_dwM3TAHof87lrHQxN654fYu2v2ap6tDA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_erick78h_c
+.twitch.tv	TRUE	/	FALSE	0	name	e_erick78h_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:30:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5a7c9328ddc66de6251b1724a74d1823
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZXJpY2s3OGhfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDk4MDgsImlhdCI6MTUyNDk5NzgwOCwibm9uY2UiOiJLc0tDbjZCemhvcW1wb0o1OWdsME5hWDBxZjFSXzJiNXFPbmowSk5DZjJvPSJ9.QB6svzyjcYg3zOWmL8Us_w_xxeTWifkoGs80nLN-FtUmU1D8UuolOSSxlr21UzSedENrwqs0bS0sIJ_nSDsfnA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22km269z5bbfmxgcqzkjet2i8898oi2z%22%2C%22displayName%22:%22e_erick78h_c%22%2C%22id%22:%22217453332%22%2C%22login%22:%22e_erick78h_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	km269z5bbfmxgcqzkjet2i8898oi2z

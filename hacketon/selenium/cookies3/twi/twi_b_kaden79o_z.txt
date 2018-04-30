@@ -1,0 +1,13 @@
+#b_kaden79o_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	oL%2FY4opgKIzKvgcXWIdMpSjmeqW8NIFLM%2BBF0AmiX5s%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c3249d6122f310a3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217265273%3A%3Avrdaddjlb9zt6u8q0386fz5rgna1hc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjUyNzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzE1NDcsImlhdCI6MTUyNDkyNzk0N30=.1jJmsCAnAAhBPFq9g05wKG0C8F5lPjGYj_lbZnsZRRppVpfvFT33YeEw0uyb8wZq2WlPd2KcELp8HIlns4cD9g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjUyNzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMyNzQ3LCJpYXQiOjE1MjQ5Mjc5NDd9.uzjsI0oY17QiIEC8AvCx4sKBH-h7hLPX8LYoJZn1OhCVHFndZaKExX-pDBC8lAtbu9F51sfy2v9kIXBCem-YzQ==
+.twitch.tv	TRUE	/	FALSE	0	login	b_kaden79o_z
+.twitch.tv	TRUE	/	FALSE	0	name	b_kaden79o_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:05:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b106861ea6bd433015e27db7ff600c14
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa2FkZW43OW9feiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0Nzk5NDcsImlhdCI6MTUyNDkyNzk0Nywibm9uY2UiOiJUb2tiVlBVb0hiNHFlRVNTYmMtU0FjdlJqWXNxYWd4dmt2T2xvdENGQ0lZPSJ9.sxuMe81AtGp55xsw1mLEFrU-WcpleIKoZIDXgqX5bLDy6z08mRDMxZVCenDxDrDWYk5xrqIo835_irf3ji5q_A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ifuldplr01nyd5hrkcxa1bpzk3737s%22%2C%22displayName%22:%22b_kaden79o_z%22%2C%22id%22:%22217265273%22%2C%22login%22:%22b_kaden79o_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ifuldplr01nyd5hrkcxa1bpzk3737s

@@ -1,0 +1,13 @@
+#b_migueld8j_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5SQpKI34lcjNNQRF2xGhCZY7E%2BLl5nLOhpsPkknw4tY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	acab99a24c52c7b1
+.twitch.tv	TRUE	/	FALSE	0	persistent	217489016%3A%3Asz2zxb2fsihu8tlbe0uvzp4jqx5auw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODkwMTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTYzNjIsImlhdCI6MTUyNTAxMjc2Mn0=.M8Kw6nuuCHA3Iw7WypE_AjL1pvbQK_mcfi-VXCQ4VRoW1ZCvU4YYii2Zu3eoN2hfBKCvdKV-5VqAexYF2yQEZw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODkwMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3NTYyLCJpYXQiOjE1MjUwMTI3NjJ9.LyJTzGsMvKQRg2Q_EGyMEWznUhTWj2U6tV3y20sruGaYSXq-ydgl4qe4ubdUbrLBZlfPsa5CulcU76ESZ56EOg==
+.twitch.tv	TRUE	/	FALSE	0	login	b_migueld8j_q
+.twitch.tv	TRUE	/	FALSE	0	name	b_migueld8j_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:39:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4628a73c79fa11293cc3ceffb9549193
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbWlndWVsZDhqX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY0NzYyLCJpYXQiOjE1MjUwMTI3NjIsIm5vbmNlIjoiejhJeXJjUU1oQnpXV05YNE5wMTl2XzRJQ0E3UEFTa1k2b3JSOElsRVViTT0ifQ%3D%3D.EcBYtPRkTn3ePD_a2U3NAQBN4IqTSjvVqdtTKdr_HQXKaDQbf36W9xNKeuUp6PEqztXyXSWk9n9V_2_LEoyDZA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22efo7zflxo6avuijb5y127uu9my7hqn%22%2C%22displayName%22:%22b_migueld8j_q%22%2C%22id%22:%22217489016%22%2C%22login%22:%22b_migueld8j_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	efo7zflxo6avuijb5y127uu9my7hqn

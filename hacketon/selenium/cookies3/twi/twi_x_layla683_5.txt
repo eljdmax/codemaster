@@ -1,0 +1,13 @@
+#x_layla683_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2F0MwYt%2BvHcudqOjtXYO2uZ%2FUIJC56eM0VbqdDFDEPXU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	281f0ea73d14db89
+.twitch.tv	TRUE	/	FALSE	0	persistent	217444021%3A%3Afz0637yotb4sbsewcezfuxq46ujdcw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDQwMjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTY3MDksImlhdCI6MTUyNDk5MzEwOX0=.hpVxZWIEVGjEunwm1_4Kc5hlcflLNs5V7iAMhPSHec18NIyPPV_AiBNmnufr9rXgku_7i7YAK5g_4b4OpmQ1ZA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDQwMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3OTA5LCJpYXQiOjE1MjQ5OTMxMDl9.iA0BRH_iHOHVDI5ELWd3LgHfmh-RZlW_p1lLm1tsAu01fGFLnt5E2OntBJu6Ucgsamey1tRHu70bQWcvu4a9LQ==
+.twitch.tv	TRUE	/	FALSE	0	login	x_layla683_5
+.twitch.tv	TRUE	/	FALSE	0	name	x_layla683_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:11:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1ab24608820b01f4cffa4c05f7b70d9d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbGF5bGE2ODNfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDUxMDksImlhdCI6MTUyNDk5MzEwOSwibm9uY2UiOiJTWVA1NW50azBsTG1CVWl6WFhqYXNWZnp0Vm5ZQVdGbFQ4WXZfaVN5QV84PSJ9.3-IuEeBqRBUQUpPDPls7a844cVOFzqmE9ANFcnm-I7AbtPe5yjjnRleyHMHJd6tMF8OsSFMtR22kuoFn2dKh-A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221q2v87mx2ykemtxd7s0fjwm5q1slly%22%2C%22displayName%22:%22x_layla683_5%22%2C%22id%22:%22217444021%22%2C%22login%22:%22x_layla683_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1q2v87mx2ykemtxd7s0fjwm5q1slly

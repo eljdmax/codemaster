@@ -1,0 +1,14 @@
+#z_summerp71_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	PClWBQZxI7cF9ckgnlK142srTbmgGndbScVHwliY6B4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2318814887f110e0
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	771f416f3df7cf263e869b32d1ba1534
+.twitch.tv	TRUE	/	FALSE	0	persistent	217460591%3A%3A87dj24wzwexf89c7y368sgdw7jhwcj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjA1OTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDUyMTIsImlhdCI6MTUyNTAwMTYxMn0=.fIzyslkg45_HIvKpVMg0fzJIfSnETuSOGWT-eKT28ZNat-9RIm-c02Zb_9Ra9pXX5yZAz5UNhUx-ifnsCZJxNQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjA1OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA2NDEyLCJpYXQiOjE1MjUwMDE2MTJ9.sse6hpEQd2cTFRTNtx09du51jP5XVJVbilm-nkwGF1efto3L--sKA5njiyHKggZuwNGdSewcuEkd5U4GAWTWfg==
+.twitch.tv	TRUE	/	FALSE	0	login	z_summerp71_8
+.twitch.tv	TRUE	/	FALSE	0	name	z_summerp71_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:33:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5a5352021ad9ba92fb2fed0a99e77c5a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc3VtbWVycDcxXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTUzNjEyLCJpYXQiOjE1MjUwMDE2MTIsIm5vbmNlIjoidFNqQ1UybERnekttME40NmtMbEdtZjN0M19zMVgyVWdqNVRWdC1YakRHTT0ifQ%3D%3D.Jcy9iGZjza5prlq670WtjyT-uDLz9cHBnWM901_bwivbaKV51E6XpaNnPwBW71rmvpESo0OwyMCHJO8EoXMgDw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xu56ybmdrbsvm3afpqf6h64ogb5mw8%22%2C%22displayName%22:%22z_summerp71_8%22%2C%22id%22:%22217460591%22%2C%22login%22:%22z_summerp71_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xu56ybmdrbsvm3afpqf6h64ogb5mw8

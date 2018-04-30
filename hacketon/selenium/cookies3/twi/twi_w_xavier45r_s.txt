@@ -1,0 +1,14 @@
+#w_xavier45r_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eXy7rR1wLXR6ZLVVya5gDRqjDsp4NpJgNqoeGIoTRNU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9aea68ec1b46a92b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1aece7079aaebbbebe6fff66b19a1cb2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217477820%3A%3Av0xpf3o5rew2yh0bslo7xb5mjc6zq8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0Nzc4MjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTI1MTgsImlhdCI6MTUyNTAwODkxOH0=.wbai4tCRj9gq8qHeOQ66Fw302U5FvPEuSHOCAQlw6FGw8_Hbf-xtjhfNEuF7v3MwsVg3I059BnzU9ZQCwAb4DQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0Nzc4MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjEzNzE4LCJpYXQiOjE1MjUwMDg5MTh9.86EKjFMQVLkfNy35JS85Uc0VHTxs33P77fONvWJh7l1R7Cq9x4cyOQPe7sL0L2KpxRQcIGaWYIDDuiSF-yobcg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_xavier45r_s
+.twitch.tv	TRUE	/	FALSE	0	name	w_xavier45r_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T13:35:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b975245160c5f7a5983058f0808088a8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfeGF2aWVyNDVyX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYwOTE4LCJpYXQiOjE1MjUwMDg5MTgsIm5vbmNlIjoiZDB4NVlSRTI5Q211Sm8yNnprcGxpTWRVRy1OR2dFVDRMZVhUR3dZZEdKQT0ifQ%3D%3D.V_KaPqeUPiFmVUKICxT_tBbk9zSrz5neO5h-YxWv7FjtM3B0mWyqxCbYQGXqvQIYGfUMqdOgsPr_NPIJSIg7zw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zmn4u8r2robji33gj5ngt1xkd40e5d%22%2C%22displayName%22:%22w_xavier45r_s%22%2C%22id%22:%22217477820%22%2C%22login%22:%22w_xavier45r_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zmn4u8r2robji33gj5ngt1xkd40e5d

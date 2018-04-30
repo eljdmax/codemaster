@@ -1,0 +1,13 @@
+#y_katelynn4o_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	TL%2FAgdrPTeXPb3Afc2ZvFuBr9gDeJW0Pksp%2BjoOpE9A%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	28fc2a6af8928411
+.twitch.tv	TRUE	/	FALSE	0	persistent	217288275%3A%3Adcur7nb8y7np4wowyk5scjadq9p7dl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyODgyNzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzgyNjgsImlhdCI6MTUyNDkzNDY2OH0=.jVGOXlrhUGdNJtCDoOeoX1Jm37mNTdjUJtjGJERuwnVtnqbT9nsJT-aKEkbMZH2Qme2oaDN-Jmll70bZkGyQSg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyODgyNzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM5NDY4LCJpYXQiOjE1MjQ5MzQ2Njh9.4Bu8ycm_3rucEqlGfklM_55UWoFw4-eugeooVeXUHwstB8U30Him8swfKWVRAnXwZldGvAxICCQJilg6Vb1RiQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_katelynn4o_p
+.twitch.tv	TRUE	/	FALSE	0	name	y_katelynn4o_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T16:57:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b46365d7c79bd6f3e98b98b3bd85bb5f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfa2F0ZWx5bm40b19wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4NjY2OCwiaWF0IjoxNTI0OTM0NjY4LCJub25jZSI6IjVVX0dZeW1WendQTzA2azAzazNzTDB3cHdpOEM3ckFfcUpBWkxfZm9VaTA9In0%3D.T3wuB84_OGmNprIINxOi1852I-qlMYcxJ-i36na0uusvJR4Q2cqm2E7kBzikRLIpmQIvW9FdBdEwy6gLnq6ksQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ms0k9vjtu70cv4qj58txy3qhq4nmmq%22%2C%22displayName%22:%22y_katelynn4o_p%22%2C%22id%22:%22217288275%22%2C%22login%22:%22y_katelynn4o_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ms0k9vjtu70cv4qj58txy3qhq4nmmq

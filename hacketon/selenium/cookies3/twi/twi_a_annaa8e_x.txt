@@ -1,0 +1,13 @@
+#a_annaa8e_x
+.twitch.tv	TRUE	/	FALSE	0	unique_id	03872d4096494aa7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	jovivOmpbMFJG6EjHphzcAmfGeiuELSbSF3rhVSbPSE%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217234085%3A%3Ar7we2xjwla5w9cjzm0ej24w1wv4shx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzQwODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjE3NjAsImlhdCI6MTUyNDkxODE2MH0=.NmLuzpM0hALC3yg9NEGNpMdpn_A_tn2P2MujhgAwnisA968kIicz2fQHDL-6yddcAkq5I6kys-02t2tBDuy1Fw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzQwODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyOTYwLCJpYXQiOjE1MjQ5MTgxNjB9.uxgVUwAJz1PdQGapgCxPAz0QOU_zLd3058rkKRMlh3mtB9DAo7LP_EJO-scZpudXCU33Esq2t0fKkR5arnoy3w==
+.twitch.tv	TRUE	/	FALSE	0	login	a_annaa8e_x
+.twitch.tv	TRUE	/	FALSE	0	name	a_annaa8e_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:22:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5e337cee1c3593d860fb9f39af79c0c4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW5uYWE4ZV94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MDE2MCwiaWF0IjoxNTI0OTE4MTYwLCJub25jZSI6ImxHTVh4SDAyb1VvVlNsajRVTHA1QzQ1OU5NdmFMYTNIQmt1bkx6UWZMN1k9In0%3D.V1iAv4F96Ny25mccCLl-17VUjWv-PAv5suI1GXmeGsyRlzAYA9cIZgDVowRlJaU4uq0UB_JIpVww7blr1bMQug%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22w63ptburo9dyyldyvhdi8rnz4dlaa1%22%2C%22displayName%22:%22a_annaa8e_x%22%2C%22id%22:%22217234085%22%2C%22login%22:%22a_annaa8e_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	w63ptburo9dyyldyvhdi8rnz4dlaa1

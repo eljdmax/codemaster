@@ -1,0 +1,14 @@
+#f_chloe997_o
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Li6RjNq521YxUYypaMI15OAXf1qiEKv8WayQtqA4wCg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cf1935c823bf637a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	365f46a3508b525833b05d3713dc2b1b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217242738%3A%3Aoniei90guadom45ejudb0v8w5gsyun
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDI3MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjQ1MDQsImlhdCI6MTUyNDkyMDkwNH0=.Mr7kZXBXwbTnQsZ7KqwRBAfmfNMCI-HPAU6TZs9zJtoMRqpG5JxJwV1yG0-728ARNKeYsQzkgaZHVXXnARYARQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDI3MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI1NzA0LCJpYXQiOjE1MjQ5MjA5MDR9.ozmvG-OgLbiSKYNbChNdkCIGx97I8_K7vYylgifm_4Aed3I_X2ArG5yoO-IaH2lqyvw5RdOdvb_PevkAfIo3Zg==
+.twitch.tv	TRUE	/	FALSE	0	login	f_chloe997_o
+.twitch.tv	TRUE	/	FALSE	0	name	f_chloe997_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:08:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ef902d3db9cec89b3fc827c82834c03b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfY2hsb2U5OTdfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzI5MDQsImlhdCI6MTUyNDkyMDkwNCwibm9uY2UiOiJDSDh2OW1nWk5ia2lNRmctNVF5WlBZb3p2aWpORk5qODNIQmV4LUQ5RnBBPSJ9.5tl-T0fdGHz2v1RIwfHNlojR_tYCdntA1qqfxdxfqQs5TUMYaV3-ReDgaWRUA7Ee4fHiE9c_pPl_KL_YE216CQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s358ty8dh7i4ahrofeyswaanzcktyg%22%2C%22displayName%22:%22f_chloe997_o%22%2C%22id%22:%22217242738%22%2C%22login%22:%22f_chloe997_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s358ty8dh7i4ahrofeyswaanzcktyg

@@ -1,0 +1,14 @@
+#o_carter63l_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nIQCWMQzFtWpFcCgZUYFwosQA%2FiT6VNo4XF20soLzhg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a9567bd2e048bcbb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c8935f8937ae16eb245952a57c01655e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453934%3A%3Adtfnu4ilvf3yuxo28k790ihn1wjp9j
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM5MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE3NTgsImlhdCI6MTUyNDk5ODE1OH0=.OFF3qZ_APDPKFgyPqJHnUI-WkCX81habboxqFxjeWT_F6tDXThAwc5bizhR_idkk3-Wt9Y6AVN7W5EKDP8ewKg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM5MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyOTU4LCJpYXQiOjE1MjQ5OTgxNTh9.T_jd8fd-Weg26TxXi0wGQtXKdmILRLh77TYWNRIWJe4LgugPFXUelrRJm0EskWpAgGdwIHk5cY-u-Uk9rVE4xg==
+.twitch.tv	TRUE	/	FALSE	0	login	o_carter63l_h
+.twitch.tv	TRUE	/	FALSE	0	name	o_carter63l_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:35:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b754439d86ffa7d7fc4f280073c37ed1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2FydGVyNjNsX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTUwMTU4LCJpYXQiOjE1MjQ5OTgxNTgsIm5vbmNlIjoiSGgyYmh4bDFRQjZyNkI2SkxOdmhYblNXbzZyY01TQUp1TW9ObTE3UGw5ND0ifQ%3D%3D.ztHALQJcnyZvKUBb9kBXuwc8nxK2gwJoYqQrggW_9uhDKM-7xZSQTPwywlF_uK_uJ5qqI5nP3ycOSEkgZ0pTBw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rj8tg6do5fozlq8e384p77jy68x9tg%22%2C%22displayName%22:%22o_carter63l_h%22%2C%22id%22:%22217453934%22%2C%22login%22:%22o_carter63l_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rj8tg6do5fozlq8e384p77jy68x9tg

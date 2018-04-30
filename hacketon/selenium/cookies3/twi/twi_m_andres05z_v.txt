@@ -1,0 +1,14 @@
+#m_andres05z_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	YiLfqWZGcpH7CfIyQRXPy6AYrT6MenZTRUbEn6bppUc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f3364a7e3f7f728b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	334e4cc42a0de4cc73d0dc152e0d0722
+.twitch.tv	TRUE	/	FALSE	0	persistent	217249295%3A%3A5eswd4c0wfqm04qzhtilp349w5ytim
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDkyOTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjY1NzEsImlhdCI6MTUyNDkyMjk3MX0=.8R5tbUsG7x15RFC50M2feZMiHfANgHIN5QEKedSKygXY6tLKqkFa6HjLBpFiPEe69rjlQmbrTXtARJIKRvWWHw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDkyOTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI3NzcxLCJpYXQiOjE1MjQ5MjI5NzF9.FP7CL-B3nz_TK9VBeT_T-_QyAS-vVDbeOGS6OafrguZwL1eRZmM6n3-U06dcKKj14iDnvseqvgNMeVfPzlD1kw==
+.twitch.tv	TRUE	/	FALSE	0	login	m_andres05z_v
+.twitch.tv	TRUE	/	FALSE	0	name	m_andres05z_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:42:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f0c27acfd83a61f304a17764181559ec
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYW5kcmVzMDV6X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc0OTcxLCJpYXQiOjE1MjQ5MjI5NzEsIm5vbmNlIjoiUVFFazF2bG53ajltVWJjMk5aWWpoVllmNEhzZWIyWC1rdzRqZnRPbWliQT0ifQ%3D%3D.izW6MdbQbalO2dCGtLtl3WP3f_3Lef8RZWlc1L_xNRIUvksAhr7kHv-7DG22z5nycFk4RnY4FfKaqRV23huw5g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222seseaq83boqkvzujpq99efkv4ncea%22%2C%22displayName%22:%22m_andres05z_v%22%2C%22id%22:%22217249295%22%2C%22login%22:%22m_andres05z_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2seseaq83boqkvzujpq99efkv4ncea

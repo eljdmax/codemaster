@@ -1,0 +1,13 @@
+#o_ethan34o_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LQw31kez89i3DQFDDYhKB0RDnz2AyfMmKt7puR374eM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b90ce8399b340604
+.twitch.tv	TRUE	/	FALSE	0	persistent	217261937%3A%3Amx47fo0r5k2a5ibs93zrajfsho3rfa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjE5MzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzA1NDIsImlhdCI6MTUyNDkyNjk0Mn0=.DbVkmKaZ1Z2ihaqTLPL0LcdIq7fxdcNR6ONZDm7SxVmtWtrvWaSKQcqMYWsll6D9MmAoOqJYMGdfzqjwr4OqWQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjE5MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMxNzQyLCJpYXQiOjE1MjQ5MjY5NDJ9.w7GQ8e3fYJI9ruvcPSddg_WhxnS1ov8jdIbG4gPCkBKq3KOEpMHV3d9IwPw6w7CCQ4SNOyfdzNeU2KRoTUdaRw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_ethan34o_g
+.twitch.tv	TRUE	/	FALSE	0	name	o_ethan34o_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:49:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	affd3259c4097afaccd9b5de314b71ed
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZXRoYW4zNG9fZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0Nzg5NDIsImlhdCI6MTUyNDkyNjk0Miwibm9uY2UiOiJ0aTN0WFBhLTZSbEdFTzFYS3B5c0R1dDYwdFdaV3JQUHlHU3VtNmtmY0N3PSJ9.KC0DMvAnswlwtc8e8SyK3qHxNTI91nIrSbzZIdhP-aaZr8aHsBfHNDy7ZeLpM6ZtJImz8dU211-0rstHS0m61Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22t1qf1ukkdy1u4472ln7sqx0grvj042%22%2C%22displayName%22:%22o_ethan34o_g%22%2C%22id%22:%22217261937%22%2C%22login%22:%22o_ethan34o_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	t1qf1ukkdy1u4472ln7sqx0grvj042

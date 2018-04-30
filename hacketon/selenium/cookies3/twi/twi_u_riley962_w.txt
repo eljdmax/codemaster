@@ -1,0 +1,14 @@
+#u_riley962_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cb73907a56ab9b60
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zh6pRF2KIGyAfMFbY8iYQ4%2BejuzmLimqjwntDuCvyOo%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c1cdabe964a03218007780d718ef00bf
+.twitch.tv	TRUE	/	FALSE	0	persistent	217229621%3A%3Azrnwi9vxdvzki38g34cu7v6esecqp1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjk2MjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTk5MDYsImlhdCI6MTUyNDkxNjMwNn0=.sXVZ937zZhrww26YT10wltluVMUYdO2qwu0gnvpByXdbsWGqbCGS8vhJyf0Q-pjFUrH0v0jdcqhtGgXk6DWCFw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjk2MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIxMTA2LCJpYXQiOjE1MjQ5MTYzMDZ9.7_3FaIPL4_hR98NvhYrwfLByWjvkwcesOuj1BqlRGW7BAbze-fyza3PIbJeg748W_5Lo0RaC97MAJDefqxtzoQ==
+.twitch.tv	TRUE	/	FALSE	0	login	u_riley962_w
+.twitch.tv	TRUE	/	FALSE	0	name	u_riley962_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:51:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f548bf97e566e5d0aba73d961ffdd038
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfcmlsZXk5NjJfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NjgzMDYsImlhdCI6MTUyNDkxNjMwNiwibm9uY2UiOiJWcjFKRXJ3aXFLOUYzeXRWeFYwUFNlamFiM002UEI0OVVhcm53ekxuZElzPSJ9.BQB-2HGg_LqFksLXOrEs2FF-SJWbq0ScSwXrNa0Gtsop6upFJgZFl9w-I9SAUXnDIa0RjovWKyOaMLgkhNGBIA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22k9ll8tlgewn29mk17pbnwnwp60lm89%22%2C%22displayName%22:%22u_riley962_w%22%2C%22id%22:%22217229621%22%2C%22login%22:%22u_riley962_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	k9ll8tlgewn29mk17pbnwnwp60lm89

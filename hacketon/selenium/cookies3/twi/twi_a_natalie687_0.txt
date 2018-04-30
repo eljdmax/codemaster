@@ -1,0 +1,14 @@
+#a_natalie687_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	rjifYPuW7WQwYepwqGYGtC3xuZnymkJxR9%2B8uBAnYrk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	210dbb5228c86737
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	744b86b67c4e9ab276c36181d503e3cd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217255285%3A%3A7prwqr1eq3i5vuo06a4qsmw6uy3yl7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTUyODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjg0NjksImlhdCI6MTUyNDkyNDg2OX0=.Ogflc0lYxeQ1w9VN3LzsSjSushSRaMPACUbrjtg70t4uKwPpsVfdNDfhDYKctbnUZNWcsvq2ndmxRhafVMcJ7A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTUyODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5NjY5LCJpYXQiOjE1MjQ5MjQ4Njl9.cbbhfiVLfQvspvB_YZe5wfMFfgkF9LSBU-T4nj8vnYU3TQ5cCIvHMQpkmFKzh7GTxRkJ9Dn4D6NBssPC3NIuEw==
+.twitch.tv	TRUE	/	FALSE	0	login	a_natalie687_0
+.twitch.tv	TRUE	/	FALSE	0	name	a_natalie687_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:14:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2904f4653b01f2db5a5e823e2ae83905
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0YWxpZTY4N18wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3Njg2OSwiaWF0IjoxNTI0OTI0ODY5LCJub25jZSI6IjJHLXpBT0NMSUZvelVPeFhxUEE0d0Voc0Rha3VuQjVrTHFEaWhiZUtrWGM9In0%3D.FejzXO3C28GK1u25kXTvds0B5mTOfStQ8oIGvC7PP6f_FHeSW2OA8Lj6BHk_tanh2AoB15asBto6GjR2imlLow%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qqpx2mhsrkxj78sgze484oa2t4cobr%22%2C%22displayName%22:%22a_natalie687_0%22%2C%22id%22:%22217255285%22%2C%22login%22:%22a_natalie687_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qqpx2mhsrkxj78sgze484oa2t4cobr

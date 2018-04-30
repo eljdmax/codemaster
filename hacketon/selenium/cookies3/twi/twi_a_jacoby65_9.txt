@@ -1,0 +1,13 @@
+#a_jacoby65_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1Mnl2oBqSGU7gNUz6n5EUeBn3SMxWa4SnS07Dqsqmyg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	524de6a4975d3635
+.twitch.tv	TRUE	/	FALSE	0	persistent	217500005%3A%3Asw1dogmvka9tt7uv877vvl9hc89b9o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDAwMDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTk3MDksImlhdCI6MTUyNTAxNjEwOX0=.t7NbSaFXKlmsUkm3OJIVZ47CZpIfV7zimbV6dPgSgNnvhACvILypvjFWzxwQuLI4VGVl7KtnvNHkzxLBhbqiNQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDAwMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIwOTA5LCJpYXQiOjE1MjUwMTYxMDl9.PAZC8cpx-_K0_dgqUfVKwqOPZ7eGxQOxMxoU_Kj3nYczAkGbVSRti2tGM9G7ZyuPIBlGsrY_RMs2epozC39TUA==
+.twitch.tv	TRUE	/	FALSE	0	login	a_jacoby65_9
+.twitch.tv	TRUE	/	FALSE	0	name	a_jacoby65_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:35:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	384889dab2b3d10936df06948e25c597
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamFjb2J5NjVfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjgxMDksImlhdCI6MTUyNTAxNjEwOSwibm9uY2UiOiJpUHFLMkFjZmlCX3VnMllZRmo5QndnQjRGMGxUdFRyQjFFclJyUWwyM0JNPSJ9.JG4cjPScb59SL49joZNh6XF0JAEq1W79Zuthp7p8CgND5kMWt3pjWehe6le_Eqeh6dGUSZCYlx7djZjFlToyjw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p2xho5xna3li2xjuf4sqb09m2im207%22%2C%22displayName%22:%22a_jacoby65_9%22%2C%22id%22:%22217500005%22%2C%22login%22:%22a_jacoby65_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p2xho5xna3li2xjuf4sqb09m2im207

@@ -1,0 +1,14 @@
+#f_sofia47y_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	hiM5aRzodLciGt97KAgZrPRW%2BV4tuSNluLzRNlgpcYk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	eb90d6b45fdec64e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a6fd983a8c62cb4d02781f8290f3ddf1
+.twitch.tv	TRUE	/	FALSE	0	persistent	217559027%3A%3A591h21u9oqcskk7wcgt2594j8c0ap7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTkwMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzU0MzgsImlhdCI6MTUyNTAzMTgzOH0=.MBhFQtGlq8hGwYpbqazBavqUih13sYaMT232PSAkTtR9bSlDmzxJU-m56spTyk2Y_IbejkltaBAsQrmUBcCdJg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTkwMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NjM4LCJpYXQiOjE1MjUwMzE4Mzh9.1hngrYvUxFwfkWd1h88NVxYQSBxCJALRaAFrezYQ1nZ5IEZlLBS6BqVMRhORSfmkEMAD_DBaAFZFOAVsIoZVJg==
+.twitch.tv	TRUE	/	FALSE	0	login	f_sofia47y_e
+.twitch.tv	TRUE	/	FALSE	0	name	f_sofia47y_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:57:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b86d94a1f63015d3bd3eb27a2bfa0b58
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfc29maWE0N3lfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODM4MzgsImlhdCI6MTUyNTAzMTgzOCwibm9uY2UiOiJ2eDRqWUxvOGdhdkc1UTF4Q3lQbm1fWU1GZlBPdjd3ZlpuVUdnWkttZ0R3PSJ9.9EEgnT8GQLFdP8ehkAEr9UZGSLKYoH-ujrt6BSZgwIh4EbgGBfAud_QKAZPJ_8QjnhO279SKBvVZxSwYz692bg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22geuemstwt8i40zyleuvareblqre2se%22%2C%22displayName%22:%22f_sofia47y_e%22%2C%22id%22:%22217559027%22%2C%22login%22:%22f_sofia47y_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	geuemstwt8i40zyleuvareblqre2se

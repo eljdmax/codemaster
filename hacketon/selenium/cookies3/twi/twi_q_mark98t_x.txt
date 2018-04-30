@@ -1,0 +1,14 @@
+#q_mark98t_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	m7A1vc8bbmYTTbnvPTLhGcsW34UPJ9bz0pP2HwFNQRg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d3d680bd9e5b5ca7
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4aff97fc6e9ea600316261f579018175
+.twitch.tv	TRUE	/	FALSE	0	persistent	217224884%3A%3Ax62ah3wuouy1u9bxyjr3txnhe7umrf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQ4ODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTc2MjgsImlhdCI6MTUyNDkxNDAyOH0=.ZQwCmOgIdxtyqR9u0IMT-WF4eGdt2Uk-uTN2xmhgTGSkA4v2Fzpqw0DsnG37FY7zVm2MiTlSGbze4LAGUxmCzw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQ4ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE4ODI4LCJpYXQiOjE1MjQ5MTQwMjh9.dNm_DXBuM760ZBugEIv3TBB3qnDjijxtJIPwjWd3Jr7w1hota7SgCE5L-FE5TG0CAx_xP_dy1sA_UdF2AVTZTA==
+.twitch.tv	TRUE	/	FALSE	0	login	q_mark98t_x
+.twitch.tv	TRUE	/	FALSE	0	name	q_mark98t_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:13:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6deb360e124e0d412bc15c96bab026f0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFyazk4dF94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ2NjAyOCwiaWF0IjoxNTI0OTE0MDI4LCJub25jZSI6InpHdmhvb3pieXdVLXJmc0ZZalk4NUNNOWVZRlQxZXN1blhDTUNrUnYweVE9In0%3D.qBKCWYgKvrLE5O10i5k07Kp_DWhZ1nI6bJkF8u9WQTXzE835pQM7h-EgZi8s9gFBO71rTegjsu9WHTnEr5rplw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223wh43a7esotmkkko2w9zv8jnoy6ma6%22%2C%22displayName%22:%22q_mark98t_x%22%2C%22id%22:%22217224884%22%2C%22login%22:%22q_mark98t_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3wh43a7esotmkkko2w9zv8jnoy6ma6

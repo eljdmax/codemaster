@@ -1,0 +1,14 @@
+#x_allisonk9y_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	G2dJOWdakrX%2BSbufFX%2F4GbwTNZQfVsYlzq3To1nyb0U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cad931e1f4430815
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	617ea66911580da9e928e03dd3f1da9c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217502483%3A%3Agltgi0x5zdbjjcz97k8fzlo5o1e69b
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDI0ODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMjA0MzgsImlhdCI6MTUyNTAxNjgzOH0=.lFHli_J-zt9AMQXvwRGZ6m1Aoi5aNCQ8hKlCFyvGSUCyk60JvR4hTlEkpxjMWHCv1EfmQAaUVTVkAcFx0EKmQQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDI0ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIxNjM4LCJpYXQiOjE1MjUwMTY4Mzh9.7D09q2hnnrQIXgC8pqSzxqtzOrY7MKV0rX0k1gl4VbJ0GEAGr971qVLLOFLpTd3rInvzM5oC6pPCd5DBSxicSQ==
+.twitch.tv	TRUE	/	FALSE	0	login	x_allisonk9y_9
+.twitch.tv	TRUE	/	FALSE	0	name	x_allisonk9y_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:47:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ba1a17c138bf813e2c52cbd1336edfe0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYWxsaXNvbms5eV85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2ODgzOCwiaWF0IjoxNTI1MDE2ODM4LCJub25jZSI6InE4UGd4YWhiQk9sX3YyVXBrT3o3OFZGWWZxNFNvWmpRLW9GOFNuZWpZV0U9In0%3D.buP2RVQiMDAzhEl0tRyKGQkuDsuRn9qbFYQ9n0LqrTfYPlHvxnc2PLFz2_5Ge8YUDXQIiMvpLIjWFyb3Qu7gNQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22drkhak1gxnk2t51xf5x7ccehgc166q%22%2C%22displayName%22:%22x_allisonk9y_9%22%2C%22id%22:%22217502483%22%2C%22login%22:%22x_allisonk9y_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	drkhak1gxnk2t51xf5x7ccehgc166q

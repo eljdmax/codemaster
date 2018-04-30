@@ -1,0 +1,13 @@
+#f_gabriellem9s_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4nAbGogz6u35uspndRup4Fq5Ik6SDvgtPT0JcPVdfqQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	abeea244aa0d8ede
+.twitch.tv	TRUE	/	FALSE	0	persistent	217490588%3A%3Aa5iyt577sgw17v38stfuuusukxk2mo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTA1ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTY3ODEsImlhdCI6MTUyNTAxMzE4MX0=.MxDAVmV8cqVExBDO0ChN62pBGooRsrnVZnwuPxAT8KUGBW5i61--Ze6s3CcjjE9EjHwqpJWNFyFWMX_7IPcseg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTA1ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3OTgxLCJpYXQiOjE1MjUwMTMxODF9.kRoo_8M0nGGEDHyWw_xZ_nIIGT6Cip-d-HyH2dIExJxld0IW_cYbwUbyLzl3GP7ixe1c1yU6t-4XEq1m8H_xZg==
+.twitch.tv	TRUE	/	FALSE	0	login	f_gabriellem9s_a
+.twitch.tv	TRUE	/	FALSE	0	name	f_gabriellem9s_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:46:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	12e8aee7ce8a5fa3d1d9f6820ce8cf0b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfZ2FicmllbGxlbTlzX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY1MTgxLCJpYXQiOjE1MjUwMTMxODEsIm5vbmNlIjoiS0RfbmVsZFNpQURFYnk1OGE2dTJiQTUwbTJCS2lmTGNWSjVDeUVtUlNSTT0ifQ%3D%3D.aI0haH5hQ3f-MH9i6coBzq-5AcaoTnOIuxvW3quiHPUCDW4TO6P5RzZYZ5iS8quRgV9iMeP_l2kjP4LCIa4YXg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2205xqli2m4xzfnqsso56ea6m77bco7f%22%2C%22displayName%22:%22f_gabriellem9s_a%22%2C%22id%22:%22217490588%22%2C%22login%22:%22f_gabriellem9s_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	05xqli2m4xzfnqsso56ea6m77bco7f

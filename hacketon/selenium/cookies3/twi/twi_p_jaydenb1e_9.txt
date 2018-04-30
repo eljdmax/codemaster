@@ -1,0 +1,13 @@
+#p_jaydenb1e_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	bBmFlStedPoLpt0m8XKvPkMTVG%2Ft%2F94EI9JfK4T%2BOP0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	966896d7e7f5ae84
+.twitch.tv	TRUE	/	FALSE	0	persistent	217268717%3A%3A2t02ub00qhk8h00rt2q7b0lyf0vax7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjg3MTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzI1NjMsImlhdCI6MTUyNDkyODk2M30=.O5nCrhQPj3YqczlJIsouLJpxGWFFpdHA5IR_mSqGbLqMmDPXowePCTBIHWL5QpO_iV1HEyka28Qds45Fe0dz_w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjg3MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMzNzYzLCJpYXQiOjE1MjQ5Mjg5NjN9.vnQEhYIw-LHkLGINVXnC4qPbOYKs4k7lY2U-QAahj-gZE-fp0xaFKD7ckBUVDl5IA0oBOGE7WbRu9E5EV8AbBg==
+.twitch.tv	TRUE	/	FALSE	0	login	p_jaydenb1e_9
+.twitch.tv	TRUE	/	FALSE	0	name	p_jaydenb1e_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:22:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b536cd270ae28d4700cac979977ef254
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfamF5ZGVuYjFlXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDgwOTYzLCJpYXQiOjE1MjQ5Mjg5NjMsIm5vbmNlIjoiRFRBNW5mbjJBaUVuMWlqZ2VSMG5faXpyT0h4Wk1lT0c4d2ZKazdwRkYyWT0ifQ%3D%3D.TLQ-15078I1XLXuK2q3dZg-jf8KAN2zHnSAwpX1ZJZSKfX2lkrUvS5bbQjGQqFBx4EmLugBwyFx63o5lwKPN9w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22a7vooayhapthpy4krttknwmqbla0h5%22%2C%22displayName%22:%22p_jaydenb1e_9%22%2C%22id%22:%22217268717%22%2C%22login%22:%22p_jaydenb1e_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	a7vooayhapthpy4krttknwmqbla0h5

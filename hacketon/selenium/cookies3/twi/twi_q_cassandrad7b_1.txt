@@ -1,0 +1,14 @@
+#q_cassandrad7b_1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	mRApRBTdgi4VklcVqAObcFNKSBDTXvIdg%2BeXzuRr%2FLw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	445abb09de058603
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	9c5a38d03094b8afdbe818615ed56b61
+.twitch.tv	TRUE	/	FALSE	0	persistent	217237481%3A%3Aw1inrbcyics8jnybmpvni733ezz6i2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzc0ODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjI4OTksImlhdCI6MTUyNDkxOTI5OX0=.tblywjzDz0HKa-CHmyZn3R-bEx0llcP_QFZvX3pzE-SyOYMIyuwdJS4gonWbq4ur7VCVrQVnZ97zQOR0HmFAsw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzc0ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI0MDk5LCJpYXQiOjE1MjQ5MTkyOTl9.ZaDpNEgGklS3eoZyX4zdal3UxxSxVN5smhtIFeez68Oce_3M7C4da2jRZ4mOpA_DByURSx_lPrvfGP7LuMV32A==
+.twitch.tv	TRUE	/	FALSE	0	login	q_cassandrad7b_1
+.twitch.tv	TRUE	/	FALSE	0	name	q_cassandrad7b_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:41:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3de609ff6fdebc7c1f949049a6757900
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfY2Fzc2FuZHJhZDdiXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDcxMjk5LCJpYXQiOjE1MjQ5MTkyOTksIm5vbmNlIjoiNmU3RlV3bmUtZlJOWG55cjZxa2RVSGlhbnpSRzYwSnY1TEZySThGSU01TT0ifQ%3D%3D.6228pSI52SGGcpb7uhBeh7soWib-hnJdnGzmWaCX1co0drJu6mpvmH_9VnKZJBhI2tIoK30HIx9AM56DB0lP7w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%226ssxzj63am87kqsj7dqif7hpjfprr2%22%2C%22displayName%22:%22q_cassandrad7b_1%22%2C%22id%22:%22217237481%22%2C%22login%22:%22q_cassandrad7b_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	6ssxzj63am87kqsj7dqif7hpjfprr2

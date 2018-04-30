@@ -1,0 +1,13 @@
+#i_jalen10j_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	n4sbvSdNNVpe51FVVDP5zAxqBj83ROQq0AdyiPlIEn0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9b155d5d6f4055bd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217552146%3A%3Aklr3yr5u9xomg2tmqf6ql1f6sc3r00
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTIxNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzM2MjMsImlhdCI6MTUyNTAzMDAyM30=.k9nAp8TxqYM2G8nxN0XisFrdy_DgtCRmTLRW690phOTjBptbE4WxasgZDCsRiezpyDNAM6V85aIVu89zp5GX-g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTIxNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0ODIzLCJpYXQiOjE1MjUwMzAwMjN9.QGvqgcAPhvcG6StluTtGhJwggsw9xyToEbbzAl9khoHSi9rMpUrxS0alv6xbNpf8tp2mBKjovjICdvmScK0Qaw==
+.twitch.tv	TRUE	/	FALSE	0	login	i_jalen10j_i
+.twitch.tv	TRUE	/	FALSE	0	name	i_jalen10j_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:27:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	357ed7f069083998c8be156fe3995079
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfamFsZW4xMGpfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODIwMjMsImlhdCI6MTUyNTAzMDAyMywibm9uY2UiOiJXM3lHaHFKVG5QNDVaZzI3VE4xeUFHZUVsbzJQZUxjV25ya19EbVFIQmJZPSJ9.nKAIjhdNRkgao8WQwdym1PGEmiBvBuEJIzEnUHy9F19C-HpO0p6Jh68CIQC8URQQprtw6_DUm9HvQPxNknHFZw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gsoe4qrjdfeimx83dbc8waai196znr%22%2C%22displayName%22:%22i_jalen10j_i%22%2C%22id%22:%22217552146%22%2C%22login%22:%22i_jalen10j_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gsoe4qrjdfeimx83dbc8waai196znr

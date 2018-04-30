@@ -1,0 +1,14 @@
+#r_johnc9n_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pTX7xoWjwk9OrgDZbHxJOGMjL6UWY2Va0b%2BcpVLzToI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	10986789690bfaf4
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f2502be3da83f8cdd7fb6050412bb36a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217563334%3A%3A8utvd8p1iatf89gnvtaixe2u06xjwm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjMzMzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzY0ODEsImlhdCI6MTUyNTAzMjg4MX0=.i8okemQKLdXsAD0FI-RcrNhFXygrRtaMNauoNaWZJkAc5VsuN_GhGVncNB3K8Q8fAOrJEzyZCDuIfkZ2OFTyPg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjMzMzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3NjgxLCJpYXQiOjE1MjUwMzI4ODF9.raei_GwiMnjp3O1bzJ-5K6hz_yWLYTkObpadJqRQlfj1YeITFthwuMKpbgl7GiNTKjcaLxV5d7vFppzhk3-xyA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_johnc9n_x
+.twitch.tv	TRUE	/	FALSE	0	name	r_johnc9n_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:14:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1ce543bf36742b5783671970fa126b11
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfam9obmM5bl94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDg4MSwiaWF0IjoxNTI1MDMyODgxLCJub25jZSI6IkRtOFdMQ3A0RkNEOWpoT3UyTmlUNVl4MmJKeVZFOWxLdm1JWEhYVFFGVU09In0%3D.2eABaRyxncCUX13ZhEcRfSSZUO1SE9eZi7YkFpRS9gnyzCTIT9ZnVb_ObUizXkt_Ax_xCYu8Avbi7HhZKYFlfw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22yfbipr92m7j770nkybfnulb2e2ugnw%22%2C%22displayName%22:%22r_johnc9n_x%22%2C%22id%22:%22217563334%22%2C%22login%22:%22r_johnc9n_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	yfbipr92m7j770nkybfnulb2e2ugnw

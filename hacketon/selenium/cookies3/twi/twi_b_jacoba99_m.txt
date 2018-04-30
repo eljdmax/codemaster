@@ -1,0 +1,14 @@
+#b_jacoba99_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	h0bz3CZ5z058SAwdFMNe4KxS0Mo%2BwswGa%2Ftouz5zLs4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	40aa598cd7330daf
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cd8edc6b4e4839f42242aa7260c42358
+.twitch.tv	TRUE	/	FALSE	0	persistent	217573247%3A%3A1aw89cypr1x2a3hbn2i0gbnvzos0oe
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzMyNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzkwNzQsImlhdCI6MTUyNTAzNTQ3NH0=.EkJc99bTV061RxSB4fWpnHrtohc8rFwulDEHttEDw3vd5MfVMcoNhrlqAou48zitKUdJrA982J197vl1mOan1g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzMyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjQwMjc0LCJpYXQiOjE1MjUwMzU0NzR9.9caIUP6DHwK8tLeW2yHOjYgIrWTUH5KHkm8bkmCd2zIlGjhJy8QscBrCGG6vZL1SiX70MPFE8PJ6Z4CJO6aI4w==
+.twitch.tv	TRUE	/	FALSE	0	login	b_jacoba99_m
+.twitch.tv	TRUE	/	FALSE	0	name	b_jacoba99_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:57:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	932a805d9d48aec6a43a49199f6568dd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfamFjb2JhOTlfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODc0NzQsImlhdCI6MTUyNTAzNTQ3NCwibm9uY2UiOiJURk5WZXFnMFFQYngtZ3hWUXo5Q3R5RGctSi1FSWlyRVZ1ZktkQVk3RmpjPSJ9.9WfZfdgvW9a_MHA8Qexu6ddpd2fXJ_Ju3oo9Zw-JLtZh-vH7B1VUPfnDKVhfbG3PQUC1VQLrxCPRUdRZb6acVg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ulg2y337f56z9df8qxz9s2mubzgngm%22%2C%22displayName%22:%22b_jacoba99_m%22%2C%22id%22:%22217573247%22%2C%22login%22:%22b_jacoba99_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ulg2y337f56z9df8qxz9s2mubzgngm

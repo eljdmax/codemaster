@@ -1,0 +1,15 @@
+#m_oweng42_g
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	unique_id	134570f10b26f388
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	JECIAL8bhPk17afXR1nBopsZmVq89hNqUu8m4hVGHl8%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4696652ef694480e24875451289a6f63
+.twitch.tv	TRUE	/	FALSE	0	persistent	217478384%3A%3A3t72sesrywzb3000qegyrb4b08rbhe
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzgzODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTI3MDgsImlhdCI6MTUyNTAwOTEwOH0=.iOqqBrxJMREhpB1qaD-x-DVyP-zGX8MeffHxoVg2rTgp4dkOrBuVOWmDJA9HZ87rPPgtmm1ZIirSxOsq5Lpgmg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzgzODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjEzOTA4LCJpYXQiOjE1MjUwMDkxMDh9.FEKhC3gu_zWFt95VOSsUJF2h7tSwkQGnSkFeoY9qwlPkJZKhxba9hW5kCWVf9NgKhQbxsWS_KHSixNvXA0E_fQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_oweng42_g
+.twitch.tv	TRUE	/	FALSE	0	name	m_oweng42_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T13:38:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	561bf7d1354dbd1ded1ec34df517d1e9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fb3dlbmc0Ml9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2MTEwOCwiaWF0IjoxNTI1MDA5MTA4LCJub25jZSI6IllLVllMNVFSeXdlRUdkNmFFN3Fiam5oSUY4ZlNPYzJicUdWMkVtZjhuNnM9In0%3D.tGBIAsLsYM-SVl-ajU4-kn4D2u8i_-xQbN1qII_DPsblFUQ_C4UR0D11F3j6fXbbmmUm7kbEzvz4VtD390ejnw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224c3hhimvf7qdjc3qijpg9saguy2496%22%2C%22displayName%22:%22m_oweng42_g%22%2C%22id%22:%22217478384%22%2C%22login%22:%22m_oweng42_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4c3hhimvf7qdjc3qijpg9saguy2496

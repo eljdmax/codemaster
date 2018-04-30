@@ -1,0 +1,14 @@
+#c_joshuax33_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DwG0olVCrGk%2BvXo4orgvBpdomIPWVlIuEbYN0w%2FXWo4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7eab617def57aa2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	441524521eb280b53753af3bb0e98599
+.twitch.tv	TRUE	/	FALSE	0	persistent	217238927%3A%3Anhlxfrf7v6addmt91yiy7ujx2dl3jc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzg5MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjMzNDgsImlhdCI6MTUyNDkxOTc0OH0=.AB2j8dFjwm7ir0_lMjePPAEspEtWIlCfAIIiDqf5rN8u7Qujtoelyo77SVx12_7D6RAeojy_BSjCKmYi4VvIVQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzg5MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI0NTQ4LCJpYXQiOjE1MjQ5MTk3NDh9.n-sou0PgIgLWUGHQB-cqMav8ntWuiIZWlpz2iHa2RRmhy6KMGqlJqO2g2Ncf3bs9fhxcBHycgm06O-RIB1HgbA==
+.twitch.tv	TRUE	/	FALSE	0	login	c_joshuax33_e
+.twitch.tv	TRUE	/	FALSE	0	name	c_joshuax33_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:49:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	230c1c7e3c911dba72a941d962a9c9a7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfam9zaHVheDMzX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDcxNzQ4LCJpYXQiOjE1MjQ5MTk3NDgsIm5vbmNlIjoiNUhDNDdTRmMteFlCMGJPZWpLYnF0WXBmSzJaX2o5cWtCejFNM3NNY0psQT0ifQ%3D%3D.hdVGtE5hpvHwAKaIHyPuXbJXtBV-2ogvdqJGRoB2HHE0WrZHoKLiYbnxLLI3AKUirKO_YznCAQl8gkcPhm8UOQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22yidx6caeewslihsmppkcw41y4m23qh%22%2C%22displayName%22:%22c_joshuax33_e%22%2C%22id%22:%22217238927%22%2C%22login%22:%22c_joshuax33_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	yidx6caeewslihsmppkcw41y4m23qh

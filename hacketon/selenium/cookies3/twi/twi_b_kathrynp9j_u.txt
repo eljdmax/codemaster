@@ -1,0 +1,16 @@
+#b_kathrynp9j_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ciKLC4FQ0Nv5z5CoNEJpz0TPinZF1zCs5XjNiM%2BsY98%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6c58f6e546605324
+.twitch.tv	TRUE	/	FALSE	0	persistent	217294639%3A%3Atyqn6483vgm7ivvxzb3fjkbahmbcoa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTQ2MzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzk2OTgsImlhdCI6MTUyNDkzNjA5OH0=.B_ScSLwvGIhFa8Vu7C0Ay6pkP6QqEIMYbNZ8GpYsRfo92yodDiTE0Zkr-Lh48sveiCNmAvLb6jXjxszmED2pEg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTQ2MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwODk4LCJpYXQiOjE1MjQ5MzYwOTh9.I5OBJP0KcG_IIKDJJs7MO0Z2ZHqGKXOAYXIl4Xl2z-UbmggD4YtoaCnC-_1cyJdmU2aZ1dWQAKGeBIIvMi2vxw==
+.twitch.tv	TRUE	/	FALSE	0	login	b_kathrynp9j_u
+.twitch.tv	TRUE	/	FALSE	0	name	b_kathrynp9j_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:21:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a554dfa1bdcd09c731037573976797b0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa2F0aHJ5bnA5al91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4ODA5OCwiaWF0IjoxNTI0OTM2MDk4LCJub25jZSI6IkpIUnpPeURLVWc2UFRwNVJ4NVBJVkFKWmJsN1JXNVBJU25pQ2p0dWR3Y2M9In0%3D.UaQ3JrKJhCOxMor8rbxiUpO1qRUqXP29_isvCYTRx9mFPp21MiofEeFpkepufJXke3voOqyibvZAATuk5xe2Hw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=bf23d0ba5476fa33:T=1524936103:S=ALNI_MZIr1mzlAyHp3R3-H19gVWr63hcKg
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	6CEszQK5WsQzCGtiNY2ZFahAjgVqe1LB
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ5MzYxMzAsIm52IjoxLCJ1cHQiOjE1MjQ5MzYwOTksImx0IjoxNTI0OTM2MTI5fV0.
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22g12y13andh48oew8xwien9y70aeqm3%22%2C%22displayName%22:%22b_kathrynp9j_u%22%2C%22id%22:%22217294639%22%2C%22login%22:%22b_kathrynp9j_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	g12y13andh48oew8xwien9y70aeqm3

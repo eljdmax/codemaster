@@ -1,0 +1,14 @@
+#g_jocelyn177_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Nm4SMtaMLVSgy3aBRLySA16DHkYA%2FZd1g2%2BxZmxqXPA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	643199589e67e8ee
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e23ae40b6e8ff9ba75ef143197c629a4
+.twitch.tv	TRUE	/	FALSE	0	persistent	217257968%3A%3Arifbjpitd7f9t19l6ueu83w1d564h6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTc5NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjkzMjMsImlhdCI6MTUyNDkyNTcyM30=.MRWLq8fk_RFmHz36glN60ONHdumG86rVZqOhXkHDHs9vyxE-HpyK_ZwD6XW_OIvt6rlvpwlU9_h2au24fg4DiQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTc5NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMwNTIzLCJpYXQiOjE1MjQ5MjU3MjN9.x-oFOyVrNn0u1dyJb_FL53xVA8yu5CvDOGy6IrWXoNOkEwIvzkmVDgg4JgxeNGanwDwP4bLURS7fkQIjoLUCWA==
+.twitch.tv	TRUE	/	FALSE	0	login	g_jocelyn177_n
+.twitch.tv	TRUE	/	FALSE	0	name	g_jocelyn177_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:28:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3aaf7f6253a69c7bfd4dfd29de3c02e7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfam9jZWx5bjE3N19uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3NzcyMywiaWF0IjoxNTI0OTI1NzIzLCJub25jZSI6IllwWU55WXNUeFJMWnBTNGRtb2ZFWm1MckNRMU9oVjRoX3hkMTItalBDQ009In0%3D.w40Jmvc-rpxj-fQHi06ZnN1-6ew7KvS7DJtvxfryMkCo6JrMHVj5KKFASlJi8gNVySLM26gKGv0oUx5LvPf7-w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lxd35xk1pitdecuugfc6mcerve0aa9%22%2C%22displayName%22:%22g_jocelyn177_n%22%2C%22id%22:%22217257968%22%2C%22login%22:%22g_jocelyn177_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	lxd35xk1pitdecuugfc6mcerve0aa9

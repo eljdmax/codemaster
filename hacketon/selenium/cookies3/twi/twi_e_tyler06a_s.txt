@@ -1,0 +1,14 @@
+#e_tyler06a_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FeTvH8cALEiq9Mrik0DmubPCxdAPgmlH7eB1inHNv1c%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	62d5bf31caebc2aa
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	5f02c388c2071cad6e3d4eebc916bec7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217571650%3A%3Ae7qpn0tvncg26t32b7bwqty3feqkhf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzE2NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzg2MjMsImlhdCI6MTUyNTAzNTAyM30=.0-jLRCGuzayGfg8PGedSLa53v-2PiCDi7IqkNmyqHzGUXPfIehU7cXfvoXStSZUElN9G2X2CiQVMPQDpR-6U0Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzE2NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5ODIzLCJpYXQiOjE1MjUwMzUwMjN9._iqUB2Q2kTaxkhozUQ8pq2ySL6U8vIL1wK7RB0Zl4X6H-XGdokVEX2NpM2f2njsi313syzBTECB3CSdgPvoqKA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_tyler06a_s
+.twitch.tv	TRUE	/	FALSE	0	name	e_tyler06a_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:50:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	228062bde3cccf7faac3296a5fe6a00e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfdHlsZXIwNmFfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODcwMjMsImlhdCI6MTUyNTAzNTAyMywibm9uY2UiOiJMZm9SNWFzOGlxQktpckRfcXMwSlVQM2xHcWlpdHJNZ3RnM1l1ZTItbThFPSJ9.M4BSkrLMV5nt3LwPmFcKxSVlIDJlTNskzoK4AuDq306O2h0celGZqN646LcpEq87mfUlBDkGkh2y4RCi-G4cOA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227jcvbqjqprh2fn6stdn192p2tt7jt6%22%2C%22displayName%22:%22e_tyler06a_s%22%2C%22id%22:%22217571650%22%2C%22login%22:%22e_tyler06a_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7jcvbqjqprh2fn6stdn192p2tt7jt6

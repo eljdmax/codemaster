@@ -1,0 +1,14 @@
+#k_gaving7e_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	oF13ROkJEXceSIVOJh4b1YMxTxwqrtkNrAey7vfY7GQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	93419048888ef1fb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0542e4a5858eabcae118695e0088639a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217253928%3A%3Aq26l5auwde3gsrppc7k4h9pnu68tux
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTM5MjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjgwNDUsImlhdCI6MTUyNDkyNDQ0NX0=.gJqYMgiSE1wSsD8_moIfZllqkLDC00vOcFIsl7r8vlUoE_YkSe7N-dVa0FyzwwQShEa_7VvnAHMKAioieKmWkQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTM5MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5MjQ1LCJpYXQiOjE1MjQ5MjQ0NDV9.e7hNhOTl3jh6Rw_pN3uU-ylrQDCEARk29mMjHeXA9cY_laYRcqNswSvIyHs01fb6ZUXaFsJDrT7go4XtPrNtlg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_gaving7e_8
+.twitch.tv	TRUE	/	FALSE	0	name	k_gaving7e_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:07:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b76303a156c70e53ff7a5c1438bf6732
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZ2F2aW5nN2VfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzY0NDUsImlhdCI6MTUyNDkyNDQ0NSwibm9uY2UiOiItSWxFV3hfMW15NkY1enpLcXdhNDRTV1NrX19fb3ZEd1hIaWVOQzhBVVM0PSJ9.fDdIQHGuJuJR27xHvfCD-GvRog5g_BrkLvM04iAk4KEygaOTdU1zUn8EXnsFJe-r69eOuSGB04anCqlgdn0zDQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22muzvub08rgxav6dubboufli7g7q7u6%22%2C%22displayName%22:%22k_gaving7e_8%22%2C%22id%22:%22217253928%22%2C%22login%22:%22k_gaving7e_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	muzvub08rgxav6dubboufli7g7q7u6

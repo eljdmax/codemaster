@@ -1,0 +1,14 @@
+#p_cole724_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tOK%2BI0GoI0mMjcddS%2FdxMu9%2FGJzOcANpIQSVsxYmCTc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7876b2b3c785421a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e981dbd6f3eb5d6e70da021c065e8e7d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217456945%3A%3Amqhau4hwh3v51cdts55mtcihbk9jq6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTY5NDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDMzOTQsImlhdCI6MTUyNDk5OTc5NH0=.n6TchpMZfvTZHQSGZ65PnOviTCfOVoLNY-dAPrx3J-vOpA1pUy0bYjzbqJme0y8FRc-lAOxufn94Dr3YSTLxlQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTY5NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA0NTk0LCJpYXQiOjE1MjQ5OTk3OTR9.Q3w8-Q3GVz--8eoTm6BTNgTWkfZqI3Hfvj_yKDEJvOz0R--SXM_ThU7xOken0RT2wvwwlxnC98Y39s3818mT9w==
+.twitch.tv	TRUE	/	FALSE	0	login	p_cole724_m
+.twitch.tv	TRUE	/	FALSE	0	name	p_cole724_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:03:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f9b2e565c391cea11d3b7fdc4c1a58af
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfY29sZTcyNF9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MTc5NCwiaWF0IjoxNTI0OTk5Nzk0LCJub25jZSI6IndGSEJJNy1RS0VMS2lXdXZydWVxWk9ZcmxGdDdKZ0tUVUJBbUxmN3c2aUU9In0%3D.rOzdxjr4EjZKjZC7A0mbAB8VOP5efTM3zYgguK3--SJ0KPzMrvtwOoHxr-f_dZmsamOhfgDQTJKazUKSiAA9ag%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22aq2m2dcif1g18dc9lmtola4ygcvqr9%22%2C%22displayName%22:%22p_cole724_m%22%2C%22id%22:%22217456945%22%2C%22login%22:%22p_cole724_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	aq2m2dcif1g18dc9lmtola4ygcvqr9

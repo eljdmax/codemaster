@@ -1,0 +1,14 @@
+#k_genesism7k_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2F3%2BauJZEK6IGPgnojEFY5X4Y5AfZD9iK%2FJ3JbEyHisA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0d3ae61f6d2f0cca
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2a7fbe4e6622f5a5dc7a0f76c61abd0d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217241178%3A%3Ajtzm6jyredi249vh7inw63oay4g2os
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDExNzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjQwNDUsImlhdCI6MTUyNDkyMDQ0NX0=.vunbQwR49briuL1AI_s3JdSDWd5AgxTlPP47noZu1cSjQhg_fz6GdD27cnNx4LFcclB9PzFy5OKAxddHYlaa1w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDExNzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI1MjQ1LCJpYXQiOjE1MjQ5MjA0NDV9.nrJMGZpQMDeKLr-D4N3HvsQmQ6ZcUpJWETmsRjGXv2P5fYqECl5jd4ssovUEX26lj_r5P43J0shxpHHInhFIYg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_genesism7k_5
+.twitch.tv	TRUE	/	FALSE	0	name	k_genesism7k_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:00:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	64d6566e2ee85e65c667b1886f5acba3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZ2VuZXNpc203a181IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MjQ0NSwiaWF0IjoxNTI0OTIwNDQ1LCJub25jZSI6ImZwM2U5VzFoTFZWN0FDUlhXOFVJaTZOR3pwYVdTckJrcEl3dnVVWElzSkk9In0%3D.zANQ0QS0c947UoRmdXJPxOodJxY9AU8eXVfZ4U0CfXkFz30_X45Demjp3HQo-hBvABoW4muWqdNKfTAG-lfLGg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qioaeaocw8yzgs5nspinjfi39ffsiw%22%2C%22displayName%22:%22k_genesism7k_5%22%2C%22id%22:%22217241178%22%2C%22login%22:%22k_genesism7k_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qioaeaocw8yzgs5nspinjfi39ffsiw

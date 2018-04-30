@@ -1,0 +1,13 @@
+#r_james29a_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9bsQfsRllWjvNjCWHv%2B2hsZ6rcwhZ6T%2BT%2BqO0eIa%2FZ8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a06bb4f48170a92d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217239739%3A%3Aoxsp4d5qx4xzyobczyc2rzsaxzrw5a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzk3MzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjM1OTgsImlhdCI6MTUyNDkxOTk5OH0=.1TWWjw24CT_UJX6bA3T4qistop4_c3hOPWEdvUS7qCJTJNBfYO3lpepKLxqWzJVcZKAOAOgCUUKoD2Fo5ZZc6A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzk3MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI0Nzk4LCJpYXQiOjE1MjQ5MTk5OTh9.0IUNA350gRcQ5LeThitG7LuBQT9Nkq6QtAA0kMkFWy7AGFtYY2ecgBPOQ4-fd54_WWyQPkruByQeLXtdjs04XA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_james29a_q
+.twitch.tv	TRUE	/	FALSE	0	name	r_james29a_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:53:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3f34a61aef30389edec88be8bbadcede
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfamFtZXMyOWFfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzE5OTgsImlhdCI6MTUyNDkxOTk5OCwibm9uY2UiOiItQ1FBUUZTUHVNUFhUOXVVYnhGOUJCbjRPaTMxWWt3aFJlcVBoSzZOZWNrPSJ9.bSIuiltRShy_778oA-35AMjVOUdAZPCOybKH90Det126Y7UeQ_L9hj6kGnEpOoY_4ZeV4wulJRpKauBP39qHZg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z6yszpe8yigff656nar20y7xnqejr3%22%2C%22displayName%22:%22r_james29a_q%22%2C%22id%22:%22217239739%22%2C%22login%22:%22r_james29a_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z6yszpe8yigff656nar20y7xnqejr3

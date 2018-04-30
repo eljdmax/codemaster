@@ -1,0 +1,13 @@
+#j_evanr4m_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DJwqgkclTalW86g2yhB67B95w8aUXhViCoWgGcn8loU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	33d5b60c0e391916
+.twitch.tv	TRUE	/	FALSE	0	persistent	217270184%3A%3Attsswrtg3al08a51aklro2rcromoze
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzAxODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzMwMDgsImlhdCI6MTUyNDkyOTQwOH0=.5y1-tZnuT-VQuFXpwPK8Ccfh7axjVXmScttdBs9gKtg1WBYJFqPzZ3EHREnDt5Fwr3RfmRtJzBngHCIEBrI0ww==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzAxODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0MjA4LCJpYXQiOjE1MjQ5Mjk0MDh9.Nv5JZxVuH1fEu_aTRdttTJWQXInIzWprWE3-FD-o-MfSXyjSfwiUttUblcbSXaCafoSMFEBjWCxHTZftD9-gwA==
+.twitch.tv	TRUE	/	FALSE	0	login	j_evanr4m_i
+.twitch.tv	TRUE	/	FALSE	0	name	j_evanr4m_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:30:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1cdddc32fc391c1767438838531b9328
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZXZhbnI0bV9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4MTQwOCwiaWF0IjoxNTI0OTI5NDA4LCJub25jZSI6IjRsZFk4WWtEV0FzUklva1FqNkRSanQ5cmJPQl9jSmZhVnVJM1hIS0Fmcnc9In0%3D.1kR1x6AsxDxEpsXgtktoarK5EK4TcFy1DEm2GkIuP1pyl1p6x1cCiZppJyYFwS83GHDvDHRuodFFpexPNjrZCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220f4515e3tn1vyz2xu9d92proowsyx1%22%2C%22displayName%22:%22j_evanr4m_i%22%2C%22id%22:%22217270184%22%2C%22login%22:%22j_evanr4m_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0f4515e3tn1vyz2xu9d92proowsyx1

@@ -1,0 +1,13 @@
+#a_jackson32k_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4IsHpnYFy0BqM9zi6SpCsdCIiH9TNfTPnJ4hjewPel4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b3c3b3c7a07689db
+.twitch.tv	TRUE	/	FALSE	0	persistent	217451991%3A%3Arxffodyjkm66wx9l9w5j8va1fsv7ie
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE5OTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDA2MzYsImlhdCI6MTUyNDk5NzAzNn0=.wdxrHJlceSoUYGkXGMArAkZix3KSIFfR4-qDXFUAza4x4OcaORCMv6uRvs0SvMivmp0xaCjgcneeM5IAHnDPtQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE5OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAxODM2LCJpYXQiOjE1MjQ5OTcwMzZ9.gNh9flPSIItrXP29JBx86kyzkMXwwGZ8PIynT34RyegHDCMVpMrWvylj9ryO2aD8U0JfZr28gVYn2c0p7OV8Zw==
+.twitch.tv	TRUE	/	FALSE	0	login	a_jackson32k_w
+.twitch.tv	TRUE	/	FALSE	0	name	a_jackson32k_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:17:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7fd868ecf0ee18f609f5b6f74f557184
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamFja3NvbjMya193IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU0OTAzNiwiaWF0IjoxNTI0OTk3MDM2LCJub25jZSI6IlJxeFMwdUxDZXNGUGFxVkV0SzU4dUNIa25IZEVvak02YmwwQUFieUZsUjg9In0%3D.iZ2TSku3mYVtwtwpi-qEYrlRM2oWsKlG3D1TzChovMfhuvwRLCg3FKmg1NF4GH0PfL0qTU4C3ujdufh6cX2Q1g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gtkkyakqvnbn3pf0vo4m63v45i8ime%22%2C%22displayName%22:%22a_jackson32k_w%22%2C%22id%22:%22217451991%22%2C%22login%22:%22a_jackson32k_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gtkkyakqvnbn3pf0vo4m63v45i8ime

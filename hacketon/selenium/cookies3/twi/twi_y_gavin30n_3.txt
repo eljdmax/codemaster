@@ -1,0 +1,14 @@
+#y_gavin30n_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	i%2Fblwn3vnezUS5C%2FVM30qc9Gl9Is%2FcqLz6SsdDj%2BoSQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	63dd9d529d9e1a46
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	bd8f617e13253edf41d07303e8392fd7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217443638%3A%3Akggr7dq4i9iu3p1d07okodduca7ei0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDM2MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTY0NzQsImlhdCI6MTUyNDk5Mjg3NH0=.sFz_GpgZ66F12nm068DvoYRfA6wvAhmXqtbkPZQJVqND3CGERvWu26VWqhA84X52uOpwL_VxThzNl-GIy7Wapg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDM2MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3Njc0LCJpYXQiOjE1MjQ5OTI4NzR9.wWFfXkuOeibastYXilGbOIXvN4vydCcgvHMQWkfQ1SfwbkI4Vlxlx0n04bZm5pkT-S3iUf8tUe3M6cjmDMQmAA==
+.twitch.tv	TRUE	/	FALSE	0	login	y_gavin30n_3
+.twitch.tv	TRUE	/	FALSE	0	name	y_gavin30n_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:07:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2f316b7d798442172ffc81a179fea62d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZ2F2aW4zMG5fMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDQ4NzQsImlhdCI6MTUyNDk5Mjg3NCwibm9uY2UiOiJuZVNad0tSRVpzMWVSYV9TZHVYTk1TQ1gtUEN2Y3prZVVYaklqellhSklNPSJ9.a9AudTLWkwqdY-FEDDg935A2wPTLzhaRZBXAK3WcT46rJzJGxcmzABbwcadn_mt2SXHsZtGRUFHoOuJYMam3wA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22uvih82yxhdqzf75bskll3nhvgpqs1d%22%2C%22displayName%22:%22y_gavin30n_3%22%2C%22id%22:%22217443638%22%2C%22login%22:%22y_gavin30n_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	uvih82yxhdqzf75bskll3nhvgpqs1d

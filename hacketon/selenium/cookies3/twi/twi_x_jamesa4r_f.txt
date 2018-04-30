@@ -1,0 +1,17 @@
+#x_jamesa4r_f
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a97120025c1496c0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	2sQ1NYOZO6WVqnY72LHSKnFNd%2F55utvW0wv3l6Jayvg%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7c6e5b6c5cc94dd2aacb39323f8feef0
+.twitch.tv	TRUE	/	FALSE	0	persistent	217486737%3A%3Ancihs4bpqebfunlxarsuobpquvguyz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODY3MzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTU2MzYsImlhdCI6MTUyNTAxMjAzNn0=.ZeOQSj5U8y0OP74z4tYO6b8mfg6kkjPOO559CPiq35jb0n2H-ukf9WL0hGtHuizrFO1UuXtGgZiOefTORgjHfg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODY3MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2ODM2LCJpYXQiOjE1MjUwMTIwMzZ9.8I4YNrAtgqUhPXtHi2O_ycriAx5L5WVSDEaw1q3R9QTQKlaHrcCIV99T7bdU_XzV_gKx4FSfUI2qIlotiRYJWw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_jamesa4r_f
+.twitch.tv	TRUE	/	FALSE	0	name	x_jamesa4r_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:27:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0ad0a59e474a192d8b8c8c66217dfde9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfamFtZXNhNHJfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjQwMzYsImlhdCI6MTUyNTAxMjAzNiwibm9uY2UiOiJlamUwM3BZc2RmbU9zTk9wZmRJZnFTeVdzcDNyUEU5T3RTTlN5Q21mczJvPSJ9.NYhcBVsIVTMP244KgBNFQIpb_CgrudAA23JNlThL6pf-CSlFBkrLfYqCYTcpc7aoNz3qHKrFP7T-tbln8_AZnQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	Tq8zelR2PDpMPbT001NvzIh9bLjpUlfK
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=0720e34b058bd957:T=1525012045:S=ALNI_MZdnqkAEwKIdfl2oK1Uqu1aR2NWCA
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjUwMTIwNjcsIm52IjoxLCJ1cHQiOjE1MjUwMTIwMzcsImx0IjoxNTI1MDEyMDY3fV0.
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zccxbyiamfanol47zfcsz1wbraf89e%22%2C%22displayName%22:%22x_jamesa4r_f%22%2C%22id%22:%22217486737%22%2C%22login%22:%22x_jamesa4r_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zccxbyiamfanol47zfcsz1wbraf89e

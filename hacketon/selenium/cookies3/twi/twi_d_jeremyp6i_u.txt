@@ -1,0 +1,13 @@
+#d_jeremyp6i_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nbnXhk0U8Ahwx0dT8gM%2FYyO0VpwOVrFFbOGBFPq%2F%2FFc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	962c67123a9b5bc1
+.twitch.tv	TRUE	/	FALSE	0	persistent	217232445%3A%3Aq8i4oz2qvay2s1t4pn6dilhf0oc27o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzI0NDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjExMjAsImlhdCI6MTUyNDkxNzUyMH0=.Jzeek8hPsApkeYDDpLP-aFf1Dee-bcr-OjWjBodcjQrSeuodfFtjLUVpTBdo0Rcg_8x_WpKR1ra-hytlLEvJoA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzI0NDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyMzIwLCJpYXQiOjE1MjQ5MTc1MjB9.KJLAI9tTnd90r3u8trf6YdnaP_xStAk9H_M6_QIpRISc-BV80L-wZVzTzlnFr3TNkTgXtPFMhTsxqsqnvZwZBA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_jeremyp6i_u
+.twitch.tv	TRUE	/	FALSE	0	name	d_jeremyp6i_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:12:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	acca7c38d0f7f19eb727260ee1fc478c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamVyZW15cDZpX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY5NTIwLCJpYXQiOjE1MjQ5MTc1MjAsIm5vbmNlIjoiVXlUcmRWdk1TZ1FIQ0lyM3hyR2h6bjlzd25Pcm1WS0tRZk1zU2F3U0VtST0ifQ%3D%3D.R4_QlOgGo3TxLZZCyAnXF1TvhCXb4WECYcoXzPuOkn0bYm--qvTrVM2AjrpKbd7_LFAP9I2E8Lk9zkmbGwgoKw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22851tedfsapue3zpc7fctcz9hyyikt6%22%2C%22displayName%22:%22d_jeremyp6i_u%22%2C%22id%22:%22217232445%22%2C%22login%22:%22d_jeremyp6i_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	851tedfsapue3zpc7fctcz9hyyikt6

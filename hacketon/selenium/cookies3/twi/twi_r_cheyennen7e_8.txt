@@ -1,0 +1,13 @@
+#r_cheyennen7e_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4Q4Wp9h4qGmnCFh%2BkyztYYIZW%2F0n3ljZ0xvfpNpMVVE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	29e8e364e7f21866
+.twitch.tv	TRUE	/	FALSE	0	persistent	217447732%3A%3Arzvo8tx5mn6ckpbunnx3f2uvnxy0il
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDc3MzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTg3NzEsImlhdCI6MTUyNDk5NTE3MX0=.PLdrjtIg9FGZMuWVpfw5LIeUypBU2-nwjhxmqWJdvCCvN-ww3K3hVyZkYlP8COkwh4_rbDEJlyVNQz9cbm39ug==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDc3MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk5OTcxLCJpYXQiOjE1MjQ5OTUxNzF9.uoi6o-SdqOr-rGUHGH5INHtna6J8oqRyycBVwF3JDffRuFBC4JK1PWngXQWpNwZFS39MM1QK-AJ6Dby2xS5LFw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_cheyennen7e_8
+.twitch.tv	TRUE	/	FALSE	0	name	r_cheyennen7e_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:46:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	00d5bd2f600ccc84e397492945533310
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2hleWVubmVuN2VfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDcxNzEsImlhdCI6MTUyNDk5NTE3MSwibm9uY2UiOiI4cV9ITUE0WmtIN0Nhdkt0TFFtc3ZPU3BDcVpoanlHTm1ZamZkQ194YkhRPSJ9.mrFcN5TGqIOP2dKvqCJVTBvkg5Tvxm3Acew7Tuqo2t0_HN8j03k7cQ-UsSmCIxL7x8ZEUDzMD35PelVtZmmj_A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ym6k8pviszo7hz82ll5drv86zhxonr%22%2C%22displayName%22:%22r_cheyennen7e_8%22%2C%22id%22:%22217447732%22%2C%22login%22:%22r_cheyennen7e_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ym6k8pviszo7hz82ll5drv86zhxonr

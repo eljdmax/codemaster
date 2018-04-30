@@ -1,0 +1,14 @@
+#j_trevorx4n_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	IAohzXrN75YJuMKxSmtpzVKQ6C88m%2FnOCtub8EpW8yk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a344bd7b5ae1fd1c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a8fcf1e2b44bebc5be6e08b7f986b64e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217496021%3A%3A0486iolqkqt52v8tomecy6589zk97r
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTYwMjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTg1MDUsImlhdCI6MTUyNTAxNDkwNX0=.64KGkt6J9YBaR9Pg1a0u7amGf76oHuWAg6NCZLUpV8xm-RXK-s54ZrZFq_v3L1bvJmmMHwuRSc0-6NSFPrKUuw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTYwMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE5NzA1LCJpYXQiOjE1MjUwMTQ5MDV9.z3r-aSiswysfIXXza_E2xAcBWdkm687R-rJ1nEl3C7ecgqDm0Dv7gNZqJW2a4D605eNgUdnqPkIbt0xBi2Dtxw==
+.twitch.tv	TRUE	/	FALSE	0	login	j_trevorx4n_r
+.twitch.tv	TRUE	/	FALSE	0	name	j_trevorx4n_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:15:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d126aa81bc37d7cc199d4111b63ed664
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfdHJldm9yeDRuX3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY2OTA1LCJpYXQiOjE1MjUwMTQ5MDUsIm5vbmNlIjoiaFVEOTZVSjB1ZS1kVFZmNndzSVhtYWpLVklkSUx1eTF5am9Bd3c4VHFKRT0ifQ%3D%3D.n_aQiFazc2F9rqoSn6EIvy85M-r2km7VhFluzySxDoizhX2X9Pxavhq4qV2-u6voIAVHrLe5K2BG1nAfn15iKQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mlejom6xaj3iglnqrnpvn57vsyq0tq%22%2C%22displayName%22:%22j_trevorx4n_r%22%2C%22id%22:%22217496021%22%2C%22login%22:%22j_trevorx4n_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mlejom6xaj3iglnqrnpvn57vsyq0tq

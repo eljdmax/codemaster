@@ -1,0 +1,13 @@
+#m_aaronw6j_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UEi%2BbBCoCbU0BQHEDmpJtknJgyn2F5gQ9dDfYPt7QQ8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3484f7be98df3233
+.twitch.tv	TRUE	/	FALSE	0	persistent	217253826%3A%3A6nffcvecroycohz7f3mrcu47qa977a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTM4MjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjgwMTMsImlhdCI6MTUyNDkyNDQxM30=.0SUodTlut0vKgimsdY-jcyZ57DpgUGtKM59eofhjQvGUYnNeMNLojJmKlEnMGH_NM4HAPO09tF6ZmkyFe0ayHA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTM4MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5MjEzLCJpYXQiOjE1MjQ5MjQ0MTN9.LwNLtH997hAA7l35tCqyt2N1yoctqnNEq70H7ajFPQTFEbSJEPwLZbQ3-RCj6OzMJ105SKv7Y4DgPQucSHD1Cg==
+.twitch.tv	TRUE	/	FALSE	0	login	m_aaronw6j_l
+.twitch.tv	TRUE	/	FALSE	0	name	m_aaronw6j_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:06:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4d805e63d2586ff4d595b5f82878793c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWFyb253NmpfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzY0MTMsImlhdCI6MTUyNDkyNDQxMywibm9uY2UiOiJuTWo1cTRidFZjUkExblEtMDJWRHM2SDgzeklsdU8zbmFZSG9wN2lSdk40PSJ9.OhsitdLDeVScpgfmW7VRdbu1M4YjG1AnY7toqNFs2qkxlz4fFe6v06QxyONIxSbtJm8QE76Q3MS0hIkFCkAsXw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2267gzrbecf5kxkr8uv9ih7lzw72xo2z%22%2C%22displayName%22:%22m_aaronw6j_l%22%2C%22id%22:%22217253826%22%2C%22login%22:%22m_aaronw6j_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	67gzrbecf5kxkr8uv9ih7lzw72xo2z

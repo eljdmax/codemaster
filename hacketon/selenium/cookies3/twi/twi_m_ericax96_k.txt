@@ -1,0 +1,14 @@
+#m_ericax96_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	W8%2FS9b94XppuLDwZzY0MBBW95rPbcS5zlpQjrLIg634%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	939f0a5b15d2d684
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d22e2f826f32e98f9e8be01be3abe8af
+.twitch.tv	TRUE	/	FALSE	0	persistent	217443162%3A%3A5x2mp3jg3li8j59w8cawitq0chykkp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDMxNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTYxODcsImlhdCI6MTUyNDk5MjU4N30=.0rREj09mAhyTmmUygGmQGLhgA6qqk1V0kPKb3AVQsFXo1WmekDBh70mdp45bVvwaF5T6UaYG8ZIJLGK1yIPGQQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDMxNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3Mzg3LCJpYXQiOjE1MjQ5OTI1ODd9.yOb2eMI1s_ZMp9bklD-tSALYuG8YCk15UgHGv7xjL9xzXVl0hecJmMi8DZ6C32LAY_OKhlZOELWcMkcmZnD1yw==
+.twitch.tv	TRUE	/	FALSE	0	login	m_ericax96_k
+.twitch.tv	TRUE	/	FALSE	0	name	m_ericax96_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:03:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ffef4eafa22b574751cbd3a5cd7d76f8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZXJpY2F4OTZfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDQ1ODcsImlhdCI6MTUyNDk5MjU4Nywibm9uY2UiOiJBUjdDNXg2QzVzM0V4Q1NaUWdaV1FPQmFZUXRnWGtKSGFHdXF3eWJEV044PSJ9.RoSBfi7QxJ0BAMAD-te-3qgNn8s6Hr4OsxmXPtkDE7RHcFTzx_iIfFLeVyFRtYTi8l5-l2AJAToE2bMR96lRMA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22a6va8ynr5qt7672xi9p0uiwoh7h3b8%22%2C%22displayName%22:%22m_ericax96_k%22%2C%22id%22:%22217443162%22%2C%22login%22:%22m_ericax96_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	a6va8ynr5qt7672xi9p0uiwoh7h3b8

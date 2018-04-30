@@ -1,0 +1,14 @@
+#f_kate78p_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NuYL7RAG8bR%2FSUk0euhFOlFBZbMNtIrMQMYKmb8NF2k%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6fa84c91923c3fd3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	fe3efe9a96240078b40503fd7e34b78c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217444647%3A%3As1nxb1m0ns4vfrj9r2897afgmsgfty
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDQ2NDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTcwNzgsImlhdCI6MTUyNDk5MzQ3OH0=.2grcaMYm6D0c3H-O4MS-6x6W95iLygOn81LfHwJQhVfskRc1lFXTGJFJAe5eFjH7vhLH_9b7kQRH2s0t0ok5Dg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDQ2NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk4Mjc4LCJpYXQiOjE1MjQ5OTM0Nzh9.SGUdaLavJQYCh3pDnzl6ZZmdiKIBKET3ng2p4gnZ9iSXgmthJ7-6kZtbGM7oG8PuO90z1b9fZe9ZJ82qQO7t5Q==
+.twitch.tv	TRUE	/	FALSE	0	login	f_kate78p_7
+.twitch.tv	TRUE	/	FALSE	0	name	f_kate78p_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:17:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d5149ad231c32f9d5b9e6191597d345c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfa2F0ZTc4cF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU0NTQ3OCwiaWF0IjoxNTI0OTkzNDc4LCJub25jZSI6Ikp4MHVRUThsOHRRLXNmUFZiN2NyT0doWC1hV3JwZWVXNEVfQ3h5R1ZMcXM9In0%3D.jE2qo998JI7n7gPKNUcSKEmrdxpJhlbetlXX5aqAfvD7mihyAVMTSb_8xNINQ12KXzaLzZQS4X75OJ-0_KQiKA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224687slcmrxd38xx8nz5nv3vtnug4t4%22%2C%22displayName%22:%22f_kate78p_7%22%2C%22id%22:%22217444647%22%2C%22login%22:%22f_kate78p_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4687slcmrxd38xx8nz5nv3vtnug4t4

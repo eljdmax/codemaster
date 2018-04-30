@@ -1,0 +1,13 @@
+#r_carlosr80_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0YxoRl5UQIHYcUbVvVQ2%2FFZ2CdiDNg38sAyLd9uqkn0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7a100320b188d799
+.twitch.tv	TRUE	/	FALSE	0	persistent	217554841%3A%3Azwhbrmcg5oho3n5j0ld4xd6fdqxitc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQ4NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQzMDUsImlhdCI6MTUyNTAzMDcwNX0=.XOlibDt-VTZbRJ90ne0kYS9n0iYgdqcDh-ZlG-XG_W5i-4ACb7ka7EC9hxUBZxE2W98nTBuuNjfTFisN8squWw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQ4NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1NTA1LCJpYXQiOjE1MjUwMzA3MDV9.Qapyjo70ewu1mxSYolsdYKZVGvSpo_kmHoCdPtFlZ6lL9M_pZH32jOk7KTjAvQ4-bDMjsKxPwaoII-WxhUW1jw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_carlosr80_u
+.twitch.tv	TRUE	/	FALSE	0	name	r_carlosr80_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:38:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	df6907bf8aa27423dfc45f675de03870
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2FybG9zcjgwX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgyNzA1LCJpYXQiOjE1MjUwMzA3MDUsIm5vbmNlIjoiOW5uNS00bFRSWGZoOWR3aHVtcWhDOTdydkJBWkRfSWlndF9Nb1ZMRFJvMD0ifQ%3D%3D.D6qYXS-f6wICOQSjzxTuTSr7iXeuvk4qTR23AVkmhNFMwyVtppqRpwMPPQ02jsI-Tt7BmqCsHfyElc046ND_Qw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hwya4hkyvqzmq6opks3uwh9vxo676d%22%2C%22displayName%22:%22r_carlosr80_u%22%2C%22id%22:%22217554841%22%2C%22login%22:%22r_carlosr80_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hwya4hkyvqzmq6opks3uwh9vxo676d

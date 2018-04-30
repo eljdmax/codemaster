@@ -1,0 +1,13 @@
+#i_jordyn37d_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dyEIn9HNicU6k9hYQiiI01VDUn%2FiICd1eW6Xz7dcQbw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	eb628379475b3112
+.twitch.tv	TRUE	/	FALSE	0	persistent	217240728%3A%3Adwaspp143y3fgr9c74x3n8ka21b3fv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDA3MjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjM5MTAsImlhdCI6MTUyNDkyMDMxMH0=.dLBT8qDnO_Sevy1ayUfQ0GYUOlPmJicRgLeomaKYBq2Q6KUD0yAIFbo8YWfHbakDH_k_G8uy_61KvJKUDEq1tQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDA3MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI1MTEwLCJpYXQiOjE1MjQ5MjAzMTB9.YcJmCsE6D5dosneFjIOHgTMQAWqrd_vX3tn1GjnzJ90QQZZE74k28acZZxQiNVGfeS_4_wdFce3oCKQet590qg==
+.twitch.tv	TRUE	/	FALSE	0	login	i_jordyn37d_0
+.twitch.tv	TRUE	/	FALSE	0	name	i_jordyn37d_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:58:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b5b83d20af9ffb561f7c254c2598b1a3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfam9yZHluMzdkXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDcyMzEwLCJpYXQiOjE1MjQ5MjAzMTAsIm5vbmNlIjoieXJWdF9UNnktSkM3a3pXSEJtU3JtcFpJVkFvQnBsQWRSVDNXbnE2RFNnRT0ifQ%3D%3D.kIiDEGteHHRqk3Vn5KirHJBt7LbRXZhkD7G50VB9n33yhicj3Gl5BaFIiK5FJdu29cx9bkNZ3WKXlaRuRBwNKA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ehee31u1z0ax7cumrp6ise28mp9xpg%22%2C%22displayName%22:%22i_jordyn37d_0%22%2C%22id%22:%22217240728%22%2C%22login%22:%22i_jordyn37d_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ehee31u1z0ax7cumrp6ise28mp9xpg

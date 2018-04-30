@@ -1,0 +1,14 @@
+#w_laura13f_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ZPnOn2xYnqoMyv22NmOan8OiTHjyVLzi2csZ9qeFbwM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6a4511e7a20be799
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cc2ed36727ee68d7cb4d37597edddf6b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217491417%3A%3Az3sfmukw2lcp9pmuultqxkeeafyjk4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTE0MTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTcwNTgsImlhdCI6MTUyNTAxMzQ1OH0=.sYEyUQBlL7gl_WgVuXwam-ZWt6aJ42fTOMM6s1cNoG7YUmPubzfNhwioodUBui9LPMZZn2mqRfas180_9VxWmg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTE0MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE4MjU4LCJpYXQiOjE1MjUwMTM0NTh9.7Z5PXzBnNvr7z-kTX-UbjuX0kJZcs7wSsMOOsqnydAUiwnsX8d_IHM0WRODnGIRRao6BFZ8tYAX6o5rgSWgrBA==
+.twitch.tv	TRUE	/	FALSE	0	login	w_laura13f_w
+.twitch.tv	TRUE	/	FALSE	0	name	w_laura13f_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:50:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	67bb1896fde3f923c3dace6582668b00
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbGF1cmExM2ZfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjU0NTgsImlhdCI6MTUyNTAxMzQ1OCwibm9uY2UiOiJ3UWJfX3poU0tWREFTWTBkZ0ZTUUYwUVBFWnhZVzRMb2YyUF9WeUlyOUcwPSJ9.-EpnVXgVnR8HoY5XcMFXkBYpdrIr4rbtbfda4ICDZVb7KhmBvB_PJTiN3K5qi515pUIDftkjamDNUz1ErTmQ_w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f0615jc6qfyc4z4mgr9nzxmf1aotmf%22%2C%22displayName%22:%22w_laura13f_w%22%2C%22id%22:%22217491417%22%2C%22login%22:%22w_laura13f_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f0615jc6qfyc4z4mgr9nzxmf1aotmf

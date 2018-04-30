@@ -1,0 +1,13 @@
+#i_haileyn9r_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	f6FyFINXdArj6L6Vwc0zuVHINVhuPzomHBv2nShtilU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	891b4af82c78aa5c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217445386%3A%3A5v5uolt3nku3x709kyd45av0q03cqh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDUzODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTc0NjgsImlhdCI6MTUyNDk5Mzg2OH0=.YjVS7uKot1WJ0Crt8rwxrl1u_qvBy1f-ssXienGbksT1GrFZiqX1ZWq_I3iIBAzRWV5II_JL0j1XMfrZZdmdAA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDUzODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk4NjY4LCJpYXQiOjE1MjQ5OTM4Njh9.UZhKrJuB5QfErIlZnTUfIf4WjguhLt5Yl8yyVUrvV50Kqg9yz0C8SxCuf7bTPJmVcfVxe3NBbAwm0P_YnRecdg==
+.twitch.tv	TRUE	/	FALSE	0	login	i_haileyn9r_n
+.twitch.tv	TRUE	/	FALSE	0	name	i_haileyn9r_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:24:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	827869d15976b7ca958b846338c7fbf4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfaGFpbGV5bjlyX24iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ1ODY4LCJpYXQiOjE1MjQ5OTM4NjgsIm5vbmNlIjoiWEJPWVV3REl1NFVmYmR4bkZxZkI4aHBMejRWM0xuWTBLTXR0ZVVZUGVxZz0ifQ%3D%3D.02KXqNPUoYeLVUIt0ypbaiCAKTY_f4dzFS2Sz-75G4azM87h_oXxaY6GzwRhfqeU3EFOvaj4DSMyfHz1X60u9Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22iqwiqv2gowjo3dhr6oq4t2ecex6jp3%22%2C%22displayName%22:%22i_haileyn9r_n%22%2C%22id%22:%22217445386%22%2C%22login%22:%22i_haileyn9r_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	iqwiqv2gowjo3dhr6oq4t2ecex6jp3

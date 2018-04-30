@@ -1,0 +1,13 @@
+#h_laurenk6v_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	duKYJtDmOsJ4ZVkcEIILdehL7bIScigafOMTC%2BV%2FeU4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	620d97084e0ac50a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217449654%3A%3Afj06nbwtogfv09ewnqda1y84mlwuqp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk2NTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTk3MDMsImlhdCI6MTUyNDk5NjEwM30=.lnKSog_Vvruvc_rWUg00nNMKyzWuYieuENSFr3uHyMYFTd2k-7xSEw-vpeWUdBIZmClH8LJiiUADB43jb61u1g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk2NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAwOTAzLCJpYXQiOjE1MjQ5OTYxMDN9.5FMfiBH1EbAg85B54kYu2GWCY9qwPXga3ULCJD8fh6Q6Fr0dfngImGRJrqM-f_aPFzwk5ADBUl-ytuZrdmBZaQ==
+.twitch.tv	TRUE	/	FALSE	0	login	h_laurenk6v_q
+.twitch.tv	TRUE	/	FALSE	0	name	h_laurenk6v_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:01:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	00a3ff8277ced50e9d1b74bd0317a337
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbGF1cmVuazZ2X3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ4MTAzLCJpYXQiOjE1MjQ5OTYxMDMsIm5vbmNlIjoiRWo2Sy1Id3h0SmVOaWs5czgxLWpRdnE0TlR5Zm8wYXdpaHhRME5Fa3Y1ND0ifQ%3D%3D.-fAnOAc5g9NRM5WmVMhG_-J1s8nhkfJIhfG-5tV6qbOyaAZk8fJ-0_o0QggLTexDmO0fDfVD2hsfw7QdPbGm9A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f8k4ygefedc8n851gesswkbaaujzyb%22%2C%22displayName%22:%22h_laurenk6v_q%22%2C%22id%22:%22217449654%22%2C%22login%22:%22h_laurenk6v_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f8k4ygefedc8n851gesswkbaaujzyb

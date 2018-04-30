@@ -1,0 +1,13 @@
+#z_paige08t_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DWcp7IUNafNTEUO5RrSpIfvVUQueFH3adOz4QlK0YEU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6f3836d83f6995e4
+.twitch.tv	TRUE	/	FALSE	0	persistent	217273372%3A%3Ad6a10gnhis8ny21udw1dtjuysewqn1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzMzNzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzM5NzUsImlhdCI6MTUyNDkzMDM3NX0=.eyBd3IzQWRGRVwygHPAQCMTANaltWYWvIrBJfk2FNjV07ENVGwcBsl6e2HWdEcyQxnCr8zlmhUe2QcnUIkc_aA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzMzNzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM1MTc1LCJpYXQiOjE1MjQ5MzAzNzV9.CAsjBJJJaVrBmQpNWZS2dOqFccN7HHGL-xRSVqNqfIUhIhF998O6glhQebhtG0x12gJ1c1QREKgXQCcBTXAFzw==
+.twitch.tv	TRUE	/	FALSE	0	login	z_paige08t_4
+.twitch.tv	TRUE	/	FALSE	0	name	z_paige08t_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:46:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c6de9551db81f406b7e839b1e959d68d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfcGFpZ2UwOHRfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODIzNzUsImlhdCI6MTUyNDkzMDM3NSwibm9uY2UiOiJEWDVaMDFSWm9JOWpqeEozMXliQk5HcHZlNTRucWJGcGx6NEk1azRUNUlnPSJ9.fX5-F-rrNExAFQ8wncisG5ZV0iJbR4C5mKkR2a_BtDlFQ6jQgeVLajZfV1z_lzT5r1aBdzc4KDR-T5HJYZki4g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220s5o2fa1dy9tgx41g0wmoo6j60pvo1%22%2C%22displayName%22:%22z_paige08t_4%22%2C%22id%22:%22217273372%22%2C%22login%22:%22z_paige08t_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0s5o2fa1dy9tgx41g0wmoo6j60pvo1

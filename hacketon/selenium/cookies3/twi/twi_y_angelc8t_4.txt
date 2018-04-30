@@ -1,0 +1,13 @@
+#y_angelc8t_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	L%2FRXgC3oETIuqNUPg%2FhjQdrwqG%2F7jidB91NoGmZO%2BJI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	31c2d699c3c3c64c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217293936%3A%3Aj329fhivpay9gda4ffafqwci2et95p
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTM5MzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzk1MzYsImlhdCI6MTUyNDkzNTkzNn0=.qfgqIeGumzALyLYkIxurYSE1vb8xa9mWg_wgJadHuK4K2owfiKEiEHBtdhNEmTdGsX_l6b_ojVT4OjLxUhCo7g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTM5MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwNzM2LCJpYXQiOjE1MjQ5MzU5MzZ9.y8hm1Uz2xzRBOBBduSUcYJLMVqtET2vaLEBHBKvrWXjOW0BX8wjOAskZt6F6EMFPm7kR8Hbks1iU8k0antUtig==
+.twitch.tv	TRUE	/	FALSE	0	login	y_angelc8t_4
+.twitch.tv	TRUE	/	FALSE	0	name	y_angelc8t_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:18:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7ff9ce47e40205fe5894772a22b89c0d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYW5nZWxjOHRfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODc5MzYsImlhdCI6MTUyNDkzNTkzNiwibm9uY2UiOiJDSFNzTVpOZVB0RVJ1ZGJ2bGI4cW5FekRqdVVoR1h6cWZiUWc5cGpBUUhJPSJ9.yGTz8WuXQilb_GxBDclAcRnHTxq_IWDwrKhb6n3Aefn-wkwz7K4M9VJ5hJ-P7O9yFqeBtaWP8KgUi-94l5Gj-A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2287ow2q3d77gacdf6beecx4s2w6oywe%22%2C%22displayName%22:%22y_angelc8t_4%22%2C%22id%22:%22217293936%22%2C%22login%22:%22y_angelc8t_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	87ow2q3d77gacdf6beecx4s2w6oywe

@@ -1,0 +1,14 @@
+#f_chloek66_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LpVIc%2BwYJSBeLK%2B9mkcJqQAj76P6crSGgTb6hMs7fFM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	28e861646dfc5fe1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7d7f0ef49bc4ea9ad0e5645c746e1d37
+.twitch.tv	TRUE	/	FALSE	0	persistent	217233088%3A%3A4ajld65a090vocime2n2450ljhh6l7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzMwODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjEzNzIsImlhdCI6MTUyNDkxNzc3Mn0=.u8ON9VyMY5gjAEknS2PwZlv1oD33gulfmVxf6sKrpRA3FdbXVjZOvyY76N72N1L-D8xWBT2hV5v1a3g1180dYQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzMwODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyNTcyLCJpYXQiOjE1MjQ5MTc3NzJ9.Ha1XyIaE8eHRZ3vlJUzSjgbSy6uV7bupgKLM0n0RN9tAyr_v3EZODQLU5wtajTptbN5sZPknZb-C-rTM3hQfMA==
+.twitch.tv	TRUE	/	FALSE	0	login	f_chloek66_u
+.twitch.tv	TRUE	/	FALSE	0	name	f_chloek66_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:16:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	146e4a14505fad7acc644e513da9cb17
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfY2hsb2VrNjZfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0Njk3NzIsImlhdCI6MTUyNDkxNzc3Miwibm9uY2UiOiJLYWZqa0hCMkx0RnpHRFRjN19qWlVPaThDTWhRSDFYV2M3WHlqR0ZZMnZvPSJ9.OPdroU8wR8tF4xg4TMPiI0kKgFaVOtzRbjR0vDRIguYyyIW0wxtUNoIKPi0Qtjm7nOajcDITp_6EsiMpIcE62g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xub9lorbv6pesza0aafe7gqysbwozw%22%2C%22displayName%22:%22f_chloek66_u%22%2C%22id%22:%22217233088%22%2C%22login%22:%22f_chloek66_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xub9lorbv6pesza0aafe7gqysbwozw

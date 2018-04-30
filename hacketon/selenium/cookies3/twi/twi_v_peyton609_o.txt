@@ -1,0 +1,14 @@
+#v_peyton609_o
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Zv5%2BHibUcmmmczdpMYQBMgqUPLqS%2BLpLSuqiXW8q2bI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c75bc40718513ccc
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	73a833e49852bf2ded246f0a6cf7cf10
+.twitch.tv	TRUE	/	FALSE	0	persistent	217232857%3A%3Awnoia4tei66cacjv3al4ijkk6zts1t
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzI4NTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjEyNzksImlhdCI6MTUyNDkxNzY3OX0=.wLqyq7nwiuQLyv6S8OK3t9vnMiYGsMfx6isW-U8qZvjsXnew_p0ZHts-_NlYf7phqKqFv83P0kIPVyzUOKF6WQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzI4NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyNDc5LCJpYXQiOjE1MjQ5MTc2Nzl9.lg3TD2Lflx0FA3vumJggJ-djh9pBSzslzF9KXUu7WElwqXGZNMlbkQS1j7gVcqDu1FXYi3b4_cjn6RZMUF6Plw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_peyton609_o
+.twitch.tv	TRUE	/	FALSE	0	name	v_peyton609_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:14:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1c54d999e34f212ee689ae14a73bb95f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfcGV5dG9uNjA5X28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY5Njc5LCJpYXQiOjE1MjQ5MTc2NzksIm5vbmNlIjoiZU9KblVBaU9RQlR0S3N4Mlc3RTNQUFlTYWgtbHEwbC1Yb2lhZVpRanpqVT0ifQ%3D%3D.oggADQV1v7HePqnB_PCMn2N5L5tpOM-YUzWNlkDGnUeXg9-_3IlWDN7m9tlnHvWtxFx4YOu-o0kpfncw_ZOQOw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hz85iprlll6t4dwj20ndgmti983wb9%22%2C%22displayName%22:%22v_peyton609_o%22%2C%22id%22:%22217232857%22%2C%22login%22:%22v_peyton609_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hz85iprlll6t4dwj20ndgmti983wb9

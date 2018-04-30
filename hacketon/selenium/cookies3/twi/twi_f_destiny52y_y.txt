@@ -1,0 +1,14 @@
+#f_destiny52y_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VAoPfVxh7dfUVxKxflqcYFogst8cecgY3q%2F4F16wAA4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	453717bea6026cb8
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e427ecc00bfaa05b456bc5df8125d20d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217489780%3A%3A9avk6j8fl1vponwy0d72rqsb81jgk5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODk3ODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTY1ODEsImlhdCI6MTUyNTAxMjk4MX0=.7xNA6CCgx0Zb8-5kCb_nnh5R1dZaSCtTxjPGL0dxoXw-o4tv4gGo3jVFPGnbdjPhlNKMDk8axqepMTAkDVRTTg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODk3ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3NzgxLCJpYXQiOjE1MjUwMTI5ODF9.Hpwck-Z3TwR1p87I0uoI4qCCqBPnYyRbrVra19IfyL1vLw0Hp6ff552gDTdCMfPSKw-SFqx4N_MkwjfCKykQZg==
+.twitch.tv	TRUE	/	FALSE	0	login	f_destiny52y_y
+.twitch.tv	TRUE	/	FALSE	0	name	f_destiny52y_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:43:01Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b741cd7894a86086ac91edec944b2151
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfZGVzdGlueTUyeV95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2NDk4MSwiaWF0IjoxNTI1MDEyOTgxLCJub25jZSI6IjdhU1NaZks0cDc2ekR5eHNuektPdDhDOWl1ck9ON2Y0YzVmb3ZaM2M1bnM9In0%3D.SBM2eOBm5TQRlSrkVodZlRYivg3ccOoDXeN7tI97oR6O27Kn23TSwcw4-X_liPMBMevhVKP-iXlYo_kk5QIZIQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mzsf3ilht3n9v18izc92032575yj98%22%2C%22displayName%22:%22f_destiny52y_y%22%2C%22id%22:%22217489780%22%2C%22login%22:%22f_destiny52y_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mzsf3ilht3n9v18izc92032575yj98

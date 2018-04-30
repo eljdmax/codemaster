@@ -1,0 +1,14 @@
+#m_alexis64p_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EXT7l9g6QJ%2ByxIY%2FBd5atxlWPFt4T6rVxD4pTuBDLTQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	85944bc002d9139a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f5f6c4e7a01e0ebe08bbb88a7e365d72
+.twitch.tv	TRUE	/	FALSE	0	persistent	217445894%3A%3Ajg52jqf3emzpfovt5t0sklgmwaagug
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDU4OTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTc3NjEsImlhdCI6MTUyNDk5NDE2MX0=.hnTohWkLXW4bZsOCjgDOZAPoRcMXnvTPmjLN4J1hw3ucgbpULI9WKLqtPTIhU_-5sM0tr9Oz2pvwaFOgFbD7EQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDU4OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk4OTYxLCJpYXQiOjE1MjQ5OTQxNjF9.82xEUqshKziA8Bzzzaq8pACo_WB6JMou2VeYsdhFc8rRmbywA5WGr_YbzW1bbkaK0KRGjTjLi0G-koiXwjFiyg==
+.twitch.tv	TRUE	/	FALSE	0	login	m_alexis64p_2
+.twitch.tv	TRUE	/	FALSE	0	name	m_alexis64p_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:29:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ba1497115e4012e4c77271ca9506574d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWxleGlzNjRwXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ2MTYxLCJpYXQiOjE1MjQ5OTQxNjEsIm5vbmNlIjoibWlwdC03SHU1WlN1bGQtQWQ3T2hzaEtycElSbVBxNmJFTVhwMHhqbFNVYz0ifQ%3D%3D.oeJ2hV3l1LwqGcGTuvfB5SpjEsFNVn5YeXNHVxBblzLU4981GW_8vkDyyAQc-VfpGe-9BEV8XAm1rG16We994Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xqlzsh7qbiikg0bomyykpmtscdm289%22%2C%22displayName%22:%22m_alexis64p_2%22%2C%22id%22:%22217445894%22%2C%22login%22:%22m_alexis64p_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xqlzsh7qbiikg0bomyykpmtscdm289

@@ -1,0 +1,14 @@
+#u_jacquelineq62_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7D4aI8g0TGIxg2Yi36qociEt1u6GhaaJnlOykNugj%2FY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8f856fecc49cb413
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d1e93a7a5384a4c8d61b961c28662870
+.twitch.tv	TRUE	/	FALSE	0	persistent	217230215%3A%3Agv8rt15f9ohkopg8o6zo3iuu7wzaj7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzAyMTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjAxODQsImlhdCI6MTUyNDkxNjU4NH0=.vP9TIWjxoatZmXVdli40A82eTLSd-f6fSZlAyVjU2VwyAdSZd3HQEc0zGqfDah_WaHCdQR44oty7ZOHMuCDXHQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzAyMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIxMzg0LCJpYXQiOjE1MjQ5MTY1ODR9.eBQGO-KIU5D5raqnKIYhVRnFSgxWf0_yoWPC7bIzR-Dtg6nqz4xwvCafDg8WmZld8m2BWwtB7BuxUUhFKbxXgA==
+.twitch.tv	TRUE	/	FALSE	0	login	u_jacquelineq62_y
+.twitch.tv	TRUE	/	FALSE	0	name	u_jacquelineq62_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:56:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f6b99922a8c537d2a5769453619bdd2d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamFjcXVlbGluZXE2Ml95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ2ODU4NCwiaWF0IjoxNTI0OTE2NTg0LCJub25jZSI6ImNoWmJOejRyYkh4N3VLVG5MTDFJd1pXaXRRNWJSdmtYdUNyOS1TOWQwWFU9In0%3D.U1gUQ-1ae7y0UQLXesfMX8cw54LHrmhPeJ5qprAOCT_JiXdKyPvdh-p74TGHWkyZsRa8I00Er5C905Muk0ezsQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lsonbtcxadnanrf1522a84vpv63y7w%22%2C%22displayName%22:%22u_jacquelineq62_y%22%2C%22id%22:%22217230215%22%2C%22login%22:%22u_jacquelineq62_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	lsonbtcxadnanrf1522a84vpv63y7w
