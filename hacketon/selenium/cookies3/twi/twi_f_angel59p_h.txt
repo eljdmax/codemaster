@@ -1,0 +1,14 @@
+#f_angel59p_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ZYa0RAywccM%2BAF0Q8T%2F3AosSA7%2BLLpuFo1mPw%2Fp8Z70%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	bde4addde487b33a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1cab14524d524cc7499b885a5b51b263
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895090%3A%3A84h77wb15q6ntsga8vicblpr4mjyie
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTUwOTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzkxOTEsImlhdCI6MTUyNTE3NTU5MX0=.825OJlmMb4PZ_ZXjTLPYI6SyI8RyaX0InkMYOuz5krxYfoTKCwugZ7e_R7EuP12dZllE8q18WRIn5yQ3Wzm-SA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTUwOTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMzkxLCJpYXQiOjE1MjUxNzU1OTF9.FFWldpd-heCGBesrWRhi9kNh0owUQAuCjseQWyWd8htc2X3MTMUvAd9aziM8w_zOlSJcgkUe0aBBD88SK5dwKg==
+.twitch.tv	TRUE	/	FALSE	0	login	f_angel59p_h
+.twitch.tv	TRUE	/	FALSE	0	name	f_angel59p_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:53:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bddb5cf391e3efafb1d0d6a2372da4fe
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfYW5nZWw1OXBfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mjc1OTEsImlhdCI6MTUyNTE3NTU5MSwibm9uY2UiOiJ5WWxuRTlydnhWWDFNSHlLQ2RId0RVSjhxMEV5dzJaMHgtVzRZY1p2Z0pFPSJ9.qBCcYZ31QvFdf7bnJrgfA7NpiB4ejr3gH7HuYLhyoXYYA6PNw6jF0DTh6x_pKVR1kvERA29rJ6NfOz3atf3gCg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220jshkvepdqergifn0rzqr5mu7dizhp%22%2C%22displayName%22:%22f_angel59p_h%22%2C%22id%22:%22217895090%22%2C%22login%22:%22f_angel59p_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0jshkvepdqergifn0rzqr5mu7dizhp

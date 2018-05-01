@@ -1,0 +1,13 @@
+#a_taylor12u_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GxDYQbgBxKvnrm9LihFP5766zdRC%2B67wbnO8os7EQfU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e4c7edd0278f18cf
+.twitch.tv	TRUE	/	FALSE	0	persistent	217928040%3A%3A7vp45lwt3hn097l9q36itwbcx5bw6l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgwNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE0OTcsImlhdCI6MTUyNTE4Nzg5N30=.Idn4h44VAOOcXrUOBIS-oMaILv6nJPZNypB5aP6m8J-yAzddqEc1kVaRtM7J5AogJPrKYL1NQrW8ka_waHDrZQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgwNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNjk3LCJpYXQiOjE1MjUxODc4OTd9.Qoua3Sy-qrcv9Od1UJCjFYepVjKyiyv5-0N7oWWXG530t-VORwetNTEX97Rce98IpEiPA18iXIhgCzLf3EhB4Q==
+.twitch.tv	TRUE	/	FALSE	0	login	a_taylor12u_k
+.twitch.tv	TRUE	/	FALSE	0	name	a_taylor12u_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:18:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	13d98f6a7ce675e3172cfd207afbba19
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfdGF5bG9yMTJ1X2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzM5ODk3LCJpYXQiOjE1MjUxODc4OTcsIm5vbmNlIjoibmNKY1cyQjJKdWYxRG01V0QxYlVXYUlBVURYNlRETl9wcGMzLWFGYlVHcz0ifQ%3D%3D.QA87RqrjNzo2UF-DTvc4YhCk9spv5OrOrm3kDNadq-hTfMYc9ZYcJt7NSVfrPxuHsBxqePOiokV1mznSjhvElg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22um74uevmnyqu4hkj2ikyo642gcubia%22%2C%22displayName%22:%22a_taylor12u_k%22%2C%22id%22:%22217928040%22%2C%22login%22:%22a_taylor12u_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	um74uevmnyqu4hkj2ikyo642gcubia

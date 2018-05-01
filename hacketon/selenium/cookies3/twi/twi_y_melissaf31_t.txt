@@ -1,0 +1,14 @@
+#y_melissaf31_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nSV0tulz5tvqH5NBIA8q%2FTl8vJXuZzV3ZT8vct0%2FiPY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8b38e34b48306081
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a12e776769ee190a561fc84e0d90d958
+.twitch.tv	TRUE	/	FALSE	0	persistent	217946639%3A%3Aa2s5e7kjpwtudzwxw7fbh9ysirup6e
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY2MzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTcyMjYsImlhdCI6MTUyNTE5MzYyNn0=.XiYm3SyJ7UJquycEMH9mw2p-dlbmqBapVWO2JbKYZSbyGyBijGtRGOh31lq_b8GyUjPsWze9t9lLS2Jm746wvQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY2MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NDI2LCJpYXQiOjE1MjUxOTM2MjZ9.oUfTfJIFdnKz_kEt0ZnInFRh6ifAH5IyKQ3iYe9XyEtNj1kfoEjrtgn9RmHctYYWHgzLaleZrZm84ds_8wJqRg==
+.twitch.tv	TRUE	/	FALSE	0	login	y_melissaf31_t
+.twitch.tv	TRUE	/	FALSE	0	name	y_melissaf31_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:53:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	67fed4aaf222a982ba8f4e67a183441f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWVsaXNzYWYzMV90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NTYyNiwiaWF0IjoxNTI1MTkzNjI2LCJub25jZSI6InZSeGZaSVdReklyUTlTdVNueEpENFZWOEhoeVRrak95YkU4bWJEdDBLem89In0%3D.hg7R2yElg3_bS01xyQfNt6F14Y2kpvc7DX0RTHyA41bof1nPe11dOjLNobgYI2Rfuwpib1r0tz3vtX88ixbWIw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22g14sumymuihyyeh58llwld1djr8sd1%22%2C%22displayName%22:%22y_melissaf31_t%22%2C%22id%22:%22217946639%22%2C%22login%22:%22y_melissaf31_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	g14sumymuihyyeh58llwld1djr8sd1

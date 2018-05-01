@@ -1,0 +1,13 @@
+#m_paytonp79_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	KkMvCh3RxDYTY63KoLLGFaT4X%2FYT0vNBAJsFy%2FsPi04%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cb2fc9547a172da2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217928543%3A%3Amq8efkif8sgzz03jepfpfs1isx1uag
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjg1NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE2NjAsImlhdCI6MTUyNTE4ODA2MH0=.Zxf7HWoGj2meN_FRxx6z9x4WaR-QjI6FjivznGMpef3c_HcpVs00MhXNU3duTzAzsIMeSXJWjh0ul_v5XHewKA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjg1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyODYwLCJpYXQiOjE1MjUxODgwNjB9.-h6Iu_8R_-3eza4YNY2oRwAB_8d6MyfjafdB9xuE81CI5XhPuRiRjG5waHnwU7T2gpwGIEIpZpkEqxbaF6OmoQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_paytonp79_q
+.twitch.tv	TRUE	/	FALSE	0	name	m_paytonp79_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:21:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fe1c7260848f75f57233c0db625512a6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fcGF5dG9ucDc5X3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQwMDYwLCJpYXQiOjE1MjUxODgwNjAsIm5vbmNlIjoiXy1fMTBkV2ZfRUdHaks4TDQ4elFZQk5mcTZlaC1fTzlvaElSZ1VmajdtYz0ifQ%3D%3D.TzmhcGSvmhg03Tb9TEf-ZVUfqW0chh7E5vLp-JD4iJ5tiAr3MLjC-_1dOiM3j4WAYToWdNvLWqR3gvkIhJdbDw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22uej8k8zi30m8sk1iyv88xcawpg4okk%22%2C%22displayName%22:%22m_paytonp79_q%22%2C%22id%22:%22217928543%22%2C%22login%22:%22m_paytonp79_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	uej8k8zi30m8sk1iyv88xcawpg4okk

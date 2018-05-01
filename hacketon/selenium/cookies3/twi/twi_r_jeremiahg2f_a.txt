@@ -1,0 +1,14 @@
+#r_jeremiahg2f_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	663933add93bfa10
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vdjN%2FvDOn4I3Hln%2ByPMinQ7TMqMnvgUrQU8aoKAedh0%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	27586046a1b84a51b2e3e36e0067276a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893358%3A%3Ahcx12ef16ar3ze430xsyth553gxn1i
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMzNTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg0MTUsImlhdCI6MTUyNTE3NDgxNX0=.cM57xstjrt3dj5axmy1ckqQX4Spg_JNIFNKKJRQKaLfdz39cRt0nlJpu5_ttIIOLUkQCvTJgtQnqNBs9BmIYMg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMzNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5NjE1LCJpYXQiOjE1MjUxNzQ4MTV9.1ZBwZuxWK-eLg_RWu0Dtm967w2MOC73oB4HQh3lbrBZmUtV4ZPepIJ9otjUnktQPvtXaTm0BpofHFLESysIbHg==
+.twitch.tv	TRUE	/	FALSE	0	login	r_jeremiahg2f_a
+.twitch.tv	TRUE	/	FALSE	0	name	r_jeremiahg2f_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:40:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8df69cec5d60fd3a46b74bdcf7a3ef77
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfamVyZW1pYWhnMmZfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3MjY4MTUsImlhdCI6MTUyNTE3NDgxNSwibm9uY2UiOiJjUTZhQWdNYVlfX3dwQm5qVHJLcmZ6RmlEWHRpU3BfOGt0eDc5WlVuN2QwPSJ9.zjSNWfgkol5oNrielqNweeo02Lz8RiFz4bEySy7iCtO3Xcb2gbyP-Fr81_0f05mLy-1cPts_vxj76JxteksBSw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223k8egm75ibhnoslody46th12eu36f1%22%2C%22displayName%22:%22r_jeremiahg2f_a%22%2C%22id%22:%22217893358%22%2C%22login%22:%22r_jeremiahg2f_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3k8egm75ibhnoslody46th12eu36f1

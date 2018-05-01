@@ -1,0 +1,13 @@
+#k_jayla05p_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	O2H7pILFWeax%2By18l9%2FJHlsC1YjkJXPKqFhYJnmPdso%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5b9e1495075672fa
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895130%3A%3Ady1a6bgc9u32ldg78dpxc0ovqcdna3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTUxMzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzkyMDksImlhdCI6MTUyNTE3NTYwOX0=.12SiTRmsftbBQ2eMybv3eigemAmFLJ3kvsqqmUsgN2F3JculIPsZZs8Go6H0f6gnX2kBKScGgXfmZ44D6spHPw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTUxMzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwNDA5LCJpYXQiOjE1MjUxNzU2MDl9.Td0J4tHifS2fTNICXy5CreTOsvFrGHs7nYgb8DsmVdBC1UgPHwvWFKzXHkZLXuI27DUQEeZn8qSekwcalj18Cg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_jayla05p_g
+.twitch.tv	TRUE	/	FALSE	0	name	k_jayla05p_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:53:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c587f25304ae98036f4a83b9d8ae479c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamF5bGEwNXBfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mjc2MDksImlhdCI6MTUyNTE3NTYwOSwibm9uY2UiOiJkWWVZNXhSSUF0UDJiNDFpZzktOF83WEMyYklhVmh2R2pVdWo0aWZYYllFPSJ9.jCkfhrx1FMOUUPyvw5xRODxbT4SVjL0EIGuBxeHI2w4McEViVDvPzzRo0owVI_Cqgyb_x0zmlpUwQl80gN7oBg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227z91k44lge6jk7mfibfjz29kmjxj1j%22%2C%22displayName%22:%22k_jayla05p_g%22%2C%22id%22:%22217895130%22%2C%22login%22:%22k_jayla05p_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7z91k44lge6jk7mfibfjz29kmjxj1j

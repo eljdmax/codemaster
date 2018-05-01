@@ -1,0 +1,15 @@
+#f_angela942_s
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjUxODc1MDAsIm52IjowLCJ1cHQiOjE1MjUxODc0ODYsImx0IjoxNTI1MTg3NDg2fV0.
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	TGYT55gfPxcPE6C7dckZDTs9jOjcjErg7q6wPaMnQ3M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d2615d213a02eab6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cef4ef8d680a10d7a0ec6f73b61c5e4b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217927641%3A%3A99ik5le5x2xdwx1y2gqke3zmu1mx61
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjc2NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTEzNzQsImlhdCI6MTUyNTE4Nzc3NH0=.DoTLadgjiXmYuz7CdUBzu85fIK2_h07-KDdLt4X86NaKCZ_nUB_Yx9f0FiF7rbmLktp30sMs5IFurYXAr9lwwg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjc2NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNTc0LCJpYXQiOjE1MjUxODc3NzR9.xOUu8q3sGUy59eT5C5uXIjlaqQ2ZUWKykyr9QkNmE7uCfEtd7PZkMqyemVK0jLV0kXPao6h8c5dcYYTCbhz-Jw==
+.twitch.tv	TRUE	/	FALSE	0	login	f_angela942_s
+.twitch.tv	TRUE	/	FALSE	0	name	f_angela942_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:16:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0138374463c57f8c5d4603210be00838
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfYW5nZWxhOTQyX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzM5Nzc0LCJpYXQiOjE1MjUxODc3NzQsIm5vbmNlIjoiOGZxOXdBcEpYRFZpZC1kTTlNZGttb1EwYk5JSXQ4MjRjTWxtWWZGMUdXRT0ifQ%3D%3D.GovwFv_QAacWGkQZBU8jSRs6HxytTMdFGNxluYjmnNcpcHxO2-_4NbESixTHfyvI8li9jTgPnF39n7nGLI8OJA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vk4yjh0sc9bgxkw02hy6zbwbt9k1wr%22%2C%22displayName%22:%22f_angela942_s%22%2C%22id%22:%22217927641%22%2C%22login%22:%22f_angela942_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vk4yjh0sc9bgxkw02hy6zbwbt9k1wr

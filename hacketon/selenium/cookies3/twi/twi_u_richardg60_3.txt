@@ -1,0 +1,15 @@
+#u_richardg60_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d6b68dbd776c40c
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7ecbc75806ead7f95145f87998033c0f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	wNC3%2BUP0VPsfwgcWIKlTav3KlhmLNDjW4NH0TmCcHf8%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893074%3A%3Ap5lgwc6vcklaj3ev6hbpd1jqxr6z32
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMwNzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzgyOTMsImlhdCI6MTUyNTE3NDY5M30=.6Qqa7iLChP3DIcKUymGiqXvesl7sWoI5y431B6eRRqL13jLstmz5VAbeRYKKl9Zz4ewmxOSrSK4FA4TCxlxzfg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMwNzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5NDkzLCJpYXQiOjE1MjUxNzQ2OTN9.2XEu0EJuCpCMzCOXSbv0_e89gpC9TqFrVp6XxPDQtjqjEGwC34CR3jop7gjAzQmNfTqldfnIQt-1h7ACzoMipg==
+.twitch.tv	TRUE	/	FALSE	0	login	u_richardg60_3
+.twitch.tv	TRUE	/	FALSE	0	name	u_richardg60_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:38:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	38850aed79434fc4006e81e378e2c605
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfcmljaGFyZGc2MF8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNjY5MywiaWF0IjoxNTI1MTc0NjkzLCJub25jZSI6InpZY2hyV0dpLXFoRnptdl9UTHBLSnhQT1N5SzdJUE1WdW1Kd3ktUXBOSDg9In0%3D.6ySf67RBiCjQ3LTVmunHzV49lDwMjctec-pOIyW3xVv40zySmGYbdhZYaOmjo78NjkA479alvTZjU1EC2m0Veg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p3h947omrf2vfl9xub285eeihmgvvu%22%2C%22displayName%22:%22u_richardg60_3%22%2C%22id%22:%22217893074%22%2C%22login%22:%22u_richardg60_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p3h947omrf2vfl9xub285eeihmgvvu

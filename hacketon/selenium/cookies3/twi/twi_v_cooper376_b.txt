@@ -1,0 +1,13 @@
+#v_cooper376_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	y4G6UWipIeNo%2FBK0m4fi%2Fj01Yb8Pz%2B0JdOi%2FhWV8PLo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3ee54798267bfb37
+.twitch.tv	TRUE	/	FALSE	0	persistent	217896414%3A%3Axkntrkuqgalunetxhcs7adpusoblef
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTY0MTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk3OTQsImlhdCI6MTUyNTE3NjE5NH0=.rNwsceUwVMiu2Le1-NDEPUDEnpWZPdA5ZNl2coAZz9yRb1DTAqLm5Q6CUQOga1DiFVC_VHmesnBFMfzlBwKrcA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTY0MTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwOTk0LCJpYXQiOjE1MjUxNzYxOTR9.WszoA90259wXdgq_BOU8EeEalHzQ2aXRkV1AkJwhYR52OBxMwrv-1L0oKqTRLdyiwwl4uZbdQNEX8AX5ecaufQ==
+.twitch.tv	TRUE	/	FALSE	0	login	v_cooper376_b
+.twitch.tv	TRUE	/	FALSE	0	name	v_cooper376_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:03:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ffd307283f8441faad69a924548a0162
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY29vcGVyMzc2X2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzI4MTk0LCJpYXQiOjE1MjUxNzYxOTQsIm5vbmNlIjoiU3UtX29ZZVRWWDhYMEdqeDl4TzhCTFg5VTNHR3Rtb09xR0hMLXdEalBfZz0ifQ%3D%3D.-c-VTFNI1NdQUaNqIZWAbwsnBXmtco7Ba1AHs38uptySzDIrwjxEYpDNtqwcrBgcETeNn-jL29G6mE1tTbkDQw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22da17wpjsu686uuvu6kr2mo0a4ciqxd%22%2C%22displayName%22:%22v_cooper376_b%22%2C%22id%22:%22217896414%22%2C%22login%22:%22v_cooper376_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	da17wpjsu686uuvu6kr2mo0a4ciqxd

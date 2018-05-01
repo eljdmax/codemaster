@@ -1,0 +1,13 @@
+#a_lillian37a_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xOTD5IW%2FbnR44QHkvcQ1xE5Gx31g5cK0RRgvU7AvWKs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f431827c9bacc723
+.twitch.tv	TRUE	/	FALSE	0	persistent	217952354%3A%3Au8r5o28bdualys3ix2wp416q1q19x6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTIzNTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg5MzEsImlhdCI6MTUyNTE5NTMzMX0=.Q8N7CjFedX9c8i88oemVBaa0gAEb-BApRM6-e3b-OwHIbXk4FPNcG_T0l7UVT0GDtwKDdd1SY6QWyXRy3tpwrQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTIzNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAwMTMxLCJpYXQiOjE1MjUxOTUzMzF9.ZQpnlgMwNphdevjAR-KDF_Yyw6whs5N4MmHPhsIS2qHEnW84zCaLwMhqdZG4IfV9JQt53w4jr7BLoH5jG4Apfg==
+.twitch.tv	TRUE	/	FALSE	0	login	a_lillian37a_e
+.twitch.tv	TRUE	/	FALSE	0	name	a_lillian37a_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:22:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	71143e589b8e6a4ddc7ee8b86743736c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbGlsbGlhbjM3YV9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NzMzMSwiaWF0IjoxNTI1MTk1MzMxLCJub25jZSI6IjN2ZGVpVzhablE4WmtwOENmdVlscE1paHBHN3BEWmRJek5TcEdITXFUa289In0%3D.-fbb-Q0_nwcilbpCqiOOUlKUyaTmvgePYT27aRPNFJ10S11A_9eHQOqgEQtODnP8PXDjaC_STWEEPQABiLFIgg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22krud5ilg1je608sjycaotppa4fecwx%22%2C%22displayName%22:%22a_lillian37a_e%22%2C%22id%22:%22217952354%22%2C%22login%22:%22a_lillian37a_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	krud5ilg1je608sjycaotppa4fecwx

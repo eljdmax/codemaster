@@ -1,0 +1,13 @@
+#c_peterc7p_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Xfk51XCQ40DCpRCxFh%2FfsIwfzmUCygxbrA1mECFOOXs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	721c7e6789c8dbe5
+.twitch.tv	TRUE	/	FALSE	0	persistent	217938906%3A%3Avy86tknk36v2sw23423qp8tb1op1hj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzg5MDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTUwMDIsImlhdCI6MTUyNTE5MTQwMn0=.uqoroQqVToZJLbdMmY9piLppkF0LStueWr304BGprYR8t7UDPtF-yHbkQ2tV-934Yzm6LHUT6KpFh2CoTSvtvQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzg5MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk2MjAyLCJpYXQiOjE1MjUxOTE0MDJ9.eGKkOEilf6-yybH1CRYrxENjxwEigwrZW_Tx2eZfLcAjeHI8Bgu1ht46VlUz2O3ZPnCI-EN_SM_l1kU8EMtw2A==
+.twitch.tv	TRUE	/	FALSE	0	login	c_peterc7p_6
+.twitch.tv	TRUE	/	FALSE	0	name	c_peterc7p_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:16:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ea14d41e864dd7b3b3e64134d03aff7e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfcGV0ZXJjN3BfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDM0MDIsImlhdCI6MTUyNTE5MTQwMiwibm9uY2UiOiJfZ1dYalhvaVhISUl1S3RvUDV5TXBFcV9vZ25JZjFvX0kyOGZtRFJfc29FPSJ9.1sQBwzpA12pVxM0-DHk_0DvhrVoxqYduP4r1E1WrWEjqPzDPuTmLieZW3VQrxLWVmoKLMKOwGMjnM2pVfHNiUA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lyfmtfe9jplp533ou3psscwbuztxb1%22%2C%22displayName%22:%22c_peterc7p_6%22%2C%22id%22:%22217938906%22%2C%22login%22:%22c_peterc7p_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	lyfmtfe9jplp533ou3psscwbuztxb1

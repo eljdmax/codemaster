@@ -1,0 +1,14 @@
+#v_malachi96y_1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zg1oAABny2nb41jQp0IpQxDs8aKoA%2FbE0iq6lUteUCs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	93c00ce4e8530797
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	89e30c9df3d4c72be52d66241fb46572
+.twitch.tv	TRUE	/	FALSE	0	persistent	217927743%3A%3Ag7c6769w88zgxkpz86ljtnixkxe6qm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjc3NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE0MDQsImlhdCI6MTUyNTE4NzgwNH0=.LQV2WQyGnrDkcotBtvFa98JccSG6m05MqmnL-8kHL8xDoo8s2Kq8pLO_hH51BIwy4qptQwmyJftbvFp8f8uvjQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjc3NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNjA0LCJpYXQiOjE1MjUxODc4MDR9.3JMbp21IsISGVa4X74HMKeGJcculpVOk1h2UCzR8ko5aoR5qODS-MH-xMW0GKawzjxsgIw9h71bGBSVq39bDXg==
+.twitch.tv	TRUE	/	FALSE	0	login	v_malachi96y_1
+.twitch.tv	TRUE	/	FALSE	0	name	v_malachi96y_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:16:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b7e2e7b61e89094443901b3a6d3fc00c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFsYWNoaTk2eV8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDczOTgwNCwiaWF0IjoxNTI1MTg3ODA0LCJub25jZSI6IlN0SkFXT1pVTXlFd1FvZ1NUeDc2R20wbnJxVnpZelI2V1Y5UGt0WHE1Rms9In0%3D.XgR09Wp3yQQKLTZ3tJIo60HDEUDkCzrSUdWIFVzYHwW8kYcX-jc4j-OSo5AJKXA6xzNvpMhOrqjh1NrDi1B7WQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n7pzjks97o7spom8suxyi4h13hz9v6%22%2C%22displayName%22:%22v_malachi96y_1%22%2C%22id%22:%22217927743%22%2C%22login%22:%22v_malachi96y_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n7pzjks97o7spom8suxyi4h13hz9v6

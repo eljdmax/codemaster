@@ -1,0 +1,14 @@
+#x_angelinax46_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	98YcMXhq5rc0O20mLPZdY2H8RQMNkU5u6zmuPd4ORWM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f21a7ddd9e8f6850
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	39a04ea3a0d47ea922a0d8ed171afc31
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895965%3A%3Akqpyw89ovk90sqeq1v7vjf4kczjua0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU5NjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk1OTQsImlhdCI6MTUyNTE3NTk5NH0=.pv2b5a40an62wp3EpHxNXwbXP4e2w9b4ZwL3khP06yHK6pEtUUOXiM4zfzOgREPHZk-Qb3ll_VLudYgKJAkPNA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU5NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwNzk0LCJpYXQiOjE1MjUxNzU5OTR9.m1-Yx2HQUmiL_X8l2FoEfxZwfe1Ux8uPjyrNj4okPZECIUUBvriLJkSho1oKTtup1GQeyBXteWRpRSCQYyBYkg==
+.twitch.tv	TRUE	/	FALSE	0	login	x_angelinax46_4
+.twitch.tv	TRUE	/	FALSE	0	name	x_angelinax46_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:59:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4ce95f94fe387f507fab74768e228c61
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYW5nZWxpbmF4NDZfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mjc5OTQsImlhdCI6MTUyNTE3NTk5NCwibm9uY2UiOiJtbVFiZ1ZHQkkyT3ZuRFB3RUc3QnVZWDA4NldOcDFiOE9CdlJnaEdBSzBvPSJ9.gpVSVUYrIaSN-9AvQSa_3-_8zWx8zGPiezzwaFgkeUS_pxSaQmYZtr9S4akDlcVRZVBPPP06o8so9Ma1Nq0CtQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nnel2ajr4oa577yujecv44f2v7cqb4%22%2C%22displayName%22:%22x_angelinax46_4%22%2C%22id%22:%22217895965%22%2C%22login%22:%22x_angelinax46_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nnel2ajr4oa577yujecv44f2v7cqb4

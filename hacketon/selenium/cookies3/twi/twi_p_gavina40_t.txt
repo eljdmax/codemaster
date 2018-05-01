@@ -1,0 +1,14 @@
+#p_gavina40_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4pv6MWS8QJMvwFPoGPF%2FLaBoI%2BZtq3jzQ1hUoBc8DsU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a2b4b87d2c9f0002
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2eb309daddbe3498f82ef0b571bcdfe5
+.twitch.tv	TRUE	/	FALSE	0	persistent	217952419%3A%3Azw551ye4yeiljj8mjy31gpafkdtbkj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTI0MTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg5NDksImlhdCI6MTUyNTE5NTM0OX0=.ua5Gl03z17NMdQ9toU3tkw3uiNodJNgme79UQ0P9cleVXXM7CLNd5v46Yi9oiILwGOdoPjq9lvDVmVrMRndgQQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTI0MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAwMTQ5LCJpYXQiOjE1MjUxOTUzNDl9.yJTczIw1gyC5S7R9_5IseNZD-hzUseSQpdQpXT8kWthpshNqeZbA3-q_OIPZUTiLS5ur0n4SJ2YF5BcZ4FRT5Q==
+.twitch.tv	TRUE	/	FALSE	0	login	p_gavina40_t
+.twitch.tv	TRUE	/	FALSE	0	name	p_gavina40_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:22:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bdea94c60d8a2bf687c358ff7eae2ceb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZ2F2aW5hNDBfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDczNDksImlhdCI6MTUyNTE5NTM0OSwibm9uY2UiOiI4TXpLb2tlMUlKajhhdy1UdTBJUGxrRFJRRnVhODJCNFo2UmlheVdfeEF3PSJ9.E2wr5Q37pstli1m8jyGFF123_wDVfGsYQhsHdBLmQ68GP4G6aaTxnZ-1IaSHJ24l2cDaM-LgHuTUnJNU8ruirA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mh8jzhyhfz4iybg4a3fomf0s28jq4r%22%2C%22displayName%22:%22p_gavina40_t%22%2C%22id%22:%22217952419%22%2C%22login%22:%22p_gavina40_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mh8jzhyhfz4iybg4a3fomf0s28jq4r

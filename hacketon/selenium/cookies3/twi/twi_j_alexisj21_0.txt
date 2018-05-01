@@ -1,0 +1,13 @@
+#j_alexisj21_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	MifMnsx6lG9JIu%2FjCopvpZtY3gv%2B4oCNeu2SunNennc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f5001adf738dc1fb
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895827%3A%3Assnclya8nvl647qodwh047iqvung0v
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU4MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk1MzMsImlhdCI6MTUyNTE3NTkzM30=.zDV7BlESjxPtqcww2oBkjUbScoOEqtcnOJy-hVopbL4eGOi7woS-7NLPLJT0yGMC4ZhMqUWQLu937Egc0uvKpg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU4MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwNzMzLCJpYXQiOjE1MjUxNzU5MzN9.jldN05Gd6uOKRQ_h2jQint43h2iFm-zT41rsKuooI0eKOsHOzFIosWAELHz9QgqyPLb7jTAr4naK0FPWe_2kEg==
+.twitch.tv	TRUE	/	FALSE	0	login	j_alexisj21_0
+.twitch.tv	TRUE	/	FALSE	0	name	j_alexisj21_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:58:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d9508cfcca89d31c3f02726b793b6527
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWxleGlzajIxXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzI3OTMzLCJpYXQiOjE1MjUxNzU5MzMsIm5vbmNlIjoiZ2sxZ1plUzc2TEtfVjc4QWN4S2RxT05xY1NmUWJlVk4tQ0d1emVPTEk3TT0ifQ%3D%3D.Z1dpNELnMagpAkVLoGXmNIpMBnoyG5sDgoU3rnW3-qjzFUpyeYROpX7Pz68uXq-LH573ejEMVPf5m2oKWYTaOg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nlsh65yvlnvgwkmyhfrms6t7am1rgr%22%2C%22displayName%22:%22j_alexisj21_0%22%2C%22id%22:%22217895827%22%2C%22login%22:%22j_alexisj21_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nlsh65yvlnvgwkmyhfrms6t7am1rgr

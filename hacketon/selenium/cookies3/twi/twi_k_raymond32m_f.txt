@@ -1,0 +1,14 @@
+#k_raymond32m_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Z2jPr9s0Zg9bdiPvOVZYW8lxIyE3nu2IWiNLjbqiEjI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	392fde868e126835
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8716d5ec60ff3f1ef6c5116baee8c7ef
+.twitch.tv	TRUE	/	FALSE	0	persistent	217926384%3A%3A2bb7mnzn9088x3rkoc06sz02bhm87t
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjYzODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTA5NTQsImlhdCI6MTUyNTE4NzM1NH0=.Skeu5z6KrKKmhuyaZkxRKxQ1Wz9a6LUIvvwjQSDTHwsr8w0Yh8JiNDZChbEPbPJ19EWFwznOJRqkOE9QFKOveQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjYzODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyMTU0LCJpYXQiOjE1MjUxODczNTR9.6gQIqBnWiDKJX1lzw1fEWT8Jm1G-GJVUNY1uRxHwB9207cEgWj2W6U_1B6K7jxUAysbvr1Y5dEFRpHGnhnXfXg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_raymond32m_f
+.twitch.tv	TRUE	/	FALSE	0	name	k_raymond32m_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:09:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f6a3a1fba1bf22e82a4667d4280d89fa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcmF5bW9uZDMybV9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDczOTM1NCwiaWF0IjoxNTI1MTg3MzU0LCJub25jZSI6Inh1dDV2OWVPTC05TU9lNGNkZklzU3d3UmtvMlFuRnFPZzBWMEttZXdTeTg9In0%3D.A-_Wes9lGU9-Sc9ZL1CSCcvkqWJE7t3wheM3LIPN1DVg_JW1iZQBpy7Ygq3IQMNYBfDAGkHk13PV4jzGsKyIDw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229bw3fjrh093lbv6l75wphnjug1y5er%22%2C%22displayName%22:%22k_raymond32m_f%22%2C%22id%22:%22217926384%22%2C%22login%22:%22k_raymond32m_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9bw3fjrh093lbv6l75wphnjug1y5er

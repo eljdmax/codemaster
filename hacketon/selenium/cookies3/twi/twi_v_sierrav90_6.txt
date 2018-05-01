@@ -1,0 +1,13 @@
+#v_sierrav90_6
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5a5cc862d8750a67
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VHtmUFr8pU%2Bks8gJ9RmsOT3jIb9ZiM2nJotpxjhzvwA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217952369%3A%3A9rdtnjya5f515znhjslwkfnnab5gc9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTIzNjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg5MzYsImlhdCI6MTUyNTE5NTMzNn0=.OV84EGtDaByBVXQFgGmKfDVY3s8mRm7JC1eyans1UyzgiPvaJzPJwCS3HNS7wYPlL0qHXPbz62lsE9xPrhxrXA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTIzNjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAwMTM2LCJpYXQiOjE1MjUxOTUzMzZ9.IcU_8YyI0lUVsfRyumwWI8eWkvst3-PthHhouh-mLQIukoEFWmR2nSLNPwse5qQS0uNQMRq-Lr7v3-ZbowINJA==
+.twitch.tv	TRUE	/	FALSE	0	login	v_sierrav90_6
+.twitch.tv	TRUE	/	FALSE	0	name	v_sierrav90_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:22:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d23575f80acfe86521eef18932d44180
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfc2llcnJhdjkwXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ3MzM2LCJpYXQiOjE1MjUxOTUzMzYsIm5vbmNlIjoiNHFRQTVtN1YtbXRpcERVblp3MnIxaGpFS2NMUWRRc1F6b2JTVXJFNDFnaz0ifQ%3D%3D.rOc5X1kUsZC5UCiXx9CxCJNrcVwYvEoVXAL365J2VOfs1DBLc-pI7krs10PY6iqtEDh1ySKLBJRXpvgGCx2lLA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2233op9be0o55qsd9oguu0f771qqwpm5%22%2C%22displayName%22:%22v_sierrav90_6%22%2C%22id%22:%22217952369%22%2C%22login%22:%22v_sierrav90_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	33op9be0o55qsd9oguu0f771qqwpm5

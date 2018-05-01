@@ -1,0 +1,13 @@
+#t_kadeny8p_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BpNBA23BINTrDQQ6him3222X%2BtRkTFxIWBFrMUNWeKo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	18a38a0cc62a6d97
+.twitch.tv	TRUE	/	FALSE	0	persistent	217928387%3A%3Ais2iz69phdfw2n4y3t3p1us1dkht3s
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgzODciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE2MTIsImlhdCI6MTUyNTE4ODAxMn0=.nbk4wqWZpne97hA11TmC2SM4c_E0W-Urg1-WsBKTg-eWqlJeO8umYHmx37unnbGVZfwCF0jifRcmfPxJjoWkZA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgzODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyODEyLCJpYXQiOjE1MjUxODgwMTJ9.8kiNPPXrPwULo-knEYQSj2k2VdCuwN9L13wDEusXQw1X9NumvHIeSz0wZOtpkVUaTWXp7o7tKl90p31UlXOuNA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_kadeny8p_a
+.twitch.tv	TRUE	/	FALSE	0	name	t_kadeny8p_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:20:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	20b91298d7bed6f0f1c1a9696427e2cf
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfa2FkZW55OHBfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDAwMTIsImlhdCI6MTUyNTE4ODAxMiwibm9uY2UiOiJqQ01pazZITlE1TFhLLVRQeF9QUEFvR0JHLTFrVjA3ZS1fS3hSSmhSVnFZPSJ9.YRz0RtVChrpWE2Xz2AHw05s3qS3WN59olHfWpERND3j9j9G3RTfPoumpDhC0xeA3eBLwmw__duVb_E1hZZl5Sw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p1wpyy1seqr5qm5wgcw8wm0fs0zzls%22%2C%22displayName%22:%22t_kadeny8p_a%22%2C%22id%22:%22217928387%22%2C%22login%22:%22t_kadeny8p_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p1wpyy1seqr5qm5wgcw8wm0fs0zzls

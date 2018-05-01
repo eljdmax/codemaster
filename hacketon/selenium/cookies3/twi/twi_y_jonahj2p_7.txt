@@ -1,0 +1,13 @@
+#y_jonahj2p_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LwShbs8Iz8UvJoh6KcRQmFHlnDzzm1h5lJp1oTnQEog%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ea8bc4bc29cfb27a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217947419%3A%3Aivx4llri0iv4hz9f9i8we2oq9pdfpx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc0MTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc0NzAsImlhdCI6MTUyNTE5Mzg3MH0=.G-Z1d1-35dPLo0g5dZUa0mOdDd_8zsltssJdZtOiGBqXL75tOCbPJsRyHVfBLKa_JUeHT8MGP2AaV4OcJLRnGg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc0MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NjcwLCJpYXQiOjE1MjUxOTM4NzB9.ZzFsfF4j2KFdOokt5_DW3pcNc2CBf_MQIKI6VDGvqF_5xrpoERq0KXQl5LdrVZ5pZSUQFyyKy7k-EcXEsZLltQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_jonahj2p_7
+.twitch.tv	TRUE	/	FALSE	0	name	y_jonahj2p_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:57:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	abbc6d18901e7becd57f3c54603cf57a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfam9uYWhqMnBfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDU4NzAsImlhdCI6MTUyNTE5Mzg3MCwibm9uY2UiOiIxMUNSRTNhaUJFQ1BIYmx1UkE5Z3ZyeTd1SENIZk11WGNDdU5tNFVfQmJzPSJ9.heWwMPzD7Gca2faX9TEhdlEyLfUhG6M028FFle_EHqFVjGxSrwcc92y4nJYqZw1Vht4x_0iU1vvi9TBFeo7ewg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ornpc91dgz3i1am7gex76yo5gu48qy%22%2C%22displayName%22:%22y_jonahj2p_7%22%2C%22id%22:%22217947419%22%2C%22login%22:%22y_jonahj2p_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ornpc91dgz3i1am7gex76yo5gu48qy

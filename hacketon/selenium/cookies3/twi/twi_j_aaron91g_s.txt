@@ -1,0 +1,13 @@
+#j_aaron91g_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	665ayXfmJiuaTp3fPdr13cUcGCKgzQVvS8bGAlxJhMY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7db5de596a1e7525
+.twitch.tv	TRUE	/	FALSE	0	persistent	217947140%3A%3Awsbjm1ym35yqu8om3zpgmii7eags8g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDcxNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTczODksImlhdCI6MTUyNTE5Mzc4OX0=.GD5EE7j8Z8cmoYDTOkhPHRaa14QsEgg2gE--6gHrgwVxatNs5Qwhkyim7Pl8Ch2opm94-GnbKyRnqM1W6HYA9Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDcxNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NTg5LCJpYXQiOjE1MjUxOTM3ODl9.PDAhZ0OCrTkzLk-Paur4iFcV1x8FkIySL0rculeQSU8yzHRX64qOeIkidnjeF6fcYxBUZYrVKtDCQ_TDN4RiYw==
+.twitch.tv	TRUE	/	FALSE	0	login	j_aaron91g_s
+.twitch.tv	TRUE	/	FALSE	0	name	j_aaron91g_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:56:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e5bb4382b5e774c6c6743d8ef9a7877c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYWFyb245MWdfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDU3ODksImlhdCI6MTUyNTE5Mzc4OSwibm9uY2UiOiJ5d0Z6STItN0pOWk5LaWJ1ZXBoM3JsOFNtMWFsbVg4NlVYdV9XbzVScGRRPSJ9.ETbK4uWyubvWdfs1j2BRMsVA3QGcp5E8oE2g8TCo6BCoor2NvTKFD564_0y3ip7Iq2TSAwo2Cb3-sFodbnVrGw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228vc5przq15uijqjie93egc28mi6a0z%22%2C%22displayName%22:%22j_aaron91g_s%22%2C%22id%22:%22217947140%22%2C%22login%22:%22j_aaron91g_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8vc5przq15uijqjie93egc28mi6a0z

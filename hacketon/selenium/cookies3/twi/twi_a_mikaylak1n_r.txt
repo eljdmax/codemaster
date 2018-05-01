@@ -1,0 +1,14 @@
+#a_mikaylak1n_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	OPRaiH%2Filmw3qUH0EQXddW%2BgVHi8L%2FOqAONMAZQaVU0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0c0e2310a10fe04c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	01c67e5a908f1a0ee2d7076e0c7a0589
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893966%3A%3A1lhnki4878voo0wx43bm72gq34291v
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM5NjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg2OTcsImlhdCI6MTUyNTE3NTA5N30=.fbQ0jsdCA2jU6hFMsIb3m8babYMR-CwrrbR1GrKDaDgnBm7FyJ3WXzjHFzq1QJQ41BGcYHzuvMNz_a1Vpl32_w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM5NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5ODk3LCJpYXQiOjE1MjUxNzUwOTd9._Itn05gO-op-xLM_3hE3ASST5AzqVEo6MeFCotHu5GAI7L897VoCnv5-EHofU4dn8Qv82HRQgu3cWgYjldYrmA==
+.twitch.tv	TRUE	/	FALSE	0	login	a_mikaylak1n_r
+.twitch.tv	TRUE	/	FALSE	0	name	a_mikaylak1n_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:44:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d52f42fa128f5b38ce8f10834b4acc2e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWlrYXlsYWsxbl9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNzA5NywiaWF0IjoxNTI1MTc1MDk3LCJub25jZSI6IlRZdTlTNEIzUVpGYzEtNmw1LU0zSC1wZHpOZXpTdVBMTFFzSjhFYmRScUE9In0%3D.xtCgazlREyjkoz22WVG5TfIiYw4Qc2IvfnQiqxCP-G36ywIzy_rmqKeLVhSdSzpYJMcT7hJFvSfkzru0LeigzQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ssz624ldgpeyjos2273998pqwors2a%22%2C%22displayName%22:%22a_mikaylak1n_r%22%2C%22id%22:%22217893966%22%2C%22login%22:%22a_mikaylak1n_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ssz624ldgpeyjos2273998pqwors2a

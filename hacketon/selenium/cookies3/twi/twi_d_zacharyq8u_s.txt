@@ -1,0 +1,14 @@
+#d_zacharyq8u_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pH0%2BhNn5qyfwYHm1A7juwJNDTtqYdxJDR2hRgZAfaIE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	52d0882e8470e956
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1cb9b1db6663c151852aa31d39f9a865
+.twitch.tv	TRUE	/	FALSE	0	persistent	217894529%3A%3Aacnch1m8kmc7puel1txm1r8nrus54g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ1MjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg5NDQsImlhdCI6MTUyNTE3NTM0NH0=.lLluT3c3pw3E2xeu0l2OdsRuTUsWBK_4jLGgtefmPDa0sMCMXUO_HBbO8CvD5qIxedDFEEwVgbGZyy8lkDAQ4g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ1MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMTQ0LCJpYXQiOjE1MjUxNzUzNDR9.AMNb9l0KNbMFNQPa6VdRmH9k3ak9ARXUiLjQ8R0GIak7NiKYHLlur9WemjJhZNXJUAHyocl6SfcVdlY_jmPVoA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_zacharyq8u_s
+.twitch.tv	TRUE	/	FALSE	0	name	d_zacharyq8u_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:49:04Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	68d5a3de3a1073e2e333c04525435de1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfemFjaGFyeXE4dV9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNzM0NCwiaWF0IjoxNTI1MTc1MzQ0LCJub25jZSI6IkpOWUwwTkhoX3NucVhUUURRMGJtS2NuM05fcDk3VTFYY1dqOU8zcjNzTU09In0%3D.qQGkkhj0Ogob_Hknd7F6D9mQzyCaHoDHrZz-vkRLgtYs7MaQKK7Uu7WDtSqexq4Ez--HJZRGeOQyxQjpVBqjDQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22o12lqt0qfnib60geb3s1cu83yooyrm%22%2C%22displayName%22:%22d_zacharyq8u_s%22%2C%22id%22:%22217894529%22%2C%22login%22:%22d_zacharyq8u_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	o12lqt0qfnib60geb3s1cu83yooyrm
