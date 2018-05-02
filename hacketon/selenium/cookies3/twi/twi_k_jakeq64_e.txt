@@ -1,0 +1,13 @@
+#k_jakeq64_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	F3ul8v4kSC%2FFMzUI6N3VHYrdZj0NLbworhtky6BnpG0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	05bd327c3aff1763
+.twitch.tv	TRUE	/	FALSE	0	persistent	217936479%3A%3A3f4r4tnbyea4mnc8z265uml9piha9n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzY0NzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQyNzcsImlhdCI6MTUyNTE5MDY3N30=._5VdhxLq8YajkDug_bqcnkfNbMr1AT-3Gj2UFEE0SP3ddtaysLkEUEH21R1xPs6cPim0M04NTfTDpNMiEzS7HA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzY0NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1NDc3LCJpYXQiOjE1MjUxOTA2Nzd9.xOJjd5TK_HF3J23rJTrX_zTmHIh6i5p-XYu9oTiDxaVMV0Hdr97ZNzruoqGIzXCi_XM0ugGd43th2xFqWJUbAg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_jakeq64_e
+.twitch.tv	TRUE	/	FALSE	0	name	k_jakeq64_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:04:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c7858c79271c83f1ed02be3f03eb9795
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamFrZXE2NF9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0MjY3NywiaWF0IjoxNTI1MTkwNjc3LCJub25jZSI6IlBHSkx1SjVBS2lITEo4OTdid1RrUFZCR1hkQk1mOGdnSDdMUGxESVFRSlk9In0%3D.3CC21Ls0W7OTKJCIjAhZ66i_BuKtph9IUGMKgLnsqPUZt3pXCcIKNBEvOsPuAAlQOOsGvRWgGu7-LOjttsecYg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ulawoax2t884ioekz15s6boxmon7nr%22%2C%22displayName%22:%22k_jakeq64_e%22%2C%22id%22:%22217936479%22%2C%22login%22:%22k_jakeq64_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ulawoax2t884ioekz15s6boxmon7nr

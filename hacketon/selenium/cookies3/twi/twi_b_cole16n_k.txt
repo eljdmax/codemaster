@@ -1,0 +1,13 @@
+#b_cole16n_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	MkcGsxJXIS7i21JyZ5ntuMqsmeszxoGacTWqIgbxjTY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b3b7b01da52f6414
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893683%3A%3A3kdn9g6r13xgvluy0mkqttvs7cvy26
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM2ODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg1ODIsImlhdCI6MTUyNTE3NDk4Mn0=.oKZxWMumOfpxEGv5iC_UGHMd39ptCAtu-dMopkdMHlWE8cPiVaUHHyaogiLf6it8AkaiModaveh524B4HDE6Vg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM2ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5NzgyLCJpYXQiOjE1MjUxNzQ5ODJ9.nfm1v1igQwJlZZbU8eJnwBVvHO4ZEU6TuXMb5zKtAajtMMu6EelZx1HyTB8yZ3iSCLA8SPR5Sb-Lh0n0mBg1hQ==
+.twitch.tv	TRUE	/	FALSE	0	login	b_cole16n_k
+.twitch.tv	TRUE	/	FALSE	0	name	b_cole16n_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:43:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8ca82eaf9fef561f9ec39cc93085f84e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfY29sZTE2bl9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNjk4MiwiaWF0IjoxNTI1MTc0OTgyLCJub25jZSI6InhIM2prTHFvakFNQTlnOV9QbzdsSm1sMmJONllrbm9hS2g2VGlIME40Ujg9In0%3D.ikA2qLLF4tff55pjmroMawocP-iwvq804K2Mc-_kjirqutBXL_SncYAAr_K_-wc96xvZaaK3EpWXbORYJJmDYw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mrqx5bu6tqxyamgt1mh6so4x0r4elo%22%2C%22displayName%22:%22b_cole16n_k%22%2C%22id%22:%22217893683%22%2C%22login%22:%22b_cole16n_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mrqx5bu6tqxyamgt1mh6so4x0r4elo

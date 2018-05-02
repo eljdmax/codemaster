@@ -1,0 +1,14 @@
+#k_aubrey63q_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qc%2BavUQWyaRZUwKjxNZg5eAph%2FoCGUb24WCDzu3eZZo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	81f2ef11bde4da27
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7c20286b6ec05c6d847fad526e2b7b8b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893786%3A%3Atq224my9wlrpxw9q7aggqk6q8890mo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM3ODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg2MjYsImlhdCI6MTUyNTE3NTAyNn0=.mG2X1SFovKLW__OpORS7gkJUAFyTFE8sDEZBDw3v5wCiUrn-ZNzWCDg1lkyefC6Z7XtvudRdNylEyYmJ4TAYpA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM3ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5ODI2LCJpYXQiOjE1MjUxNzUwMjZ9.sSym_GA4GDl-PmVXGQR_V40Q63shRYyNFtiT-_K5Wmd0oDEIFKEepOycVU-UPSiCj0EhQ3oYNPZsnrt4t-x60A==
+.twitch.tv	TRUE	/	FALSE	0	login	k_aubrey63q_l
+.twitch.tv	TRUE	/	FALSE	0	name	k_aubrey63q_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:43:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f93f0dacc29a1d07429ecba5eeeb9869
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYXVicmV5NjNxX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzI3MDI2LCJpYXQiOjE1MjUxNzUwMjYsIm5vbmNlIjoiMEIwbjBxTXFmVm5SNkZoMHktcHZtNWQxZzRua1c0NzN6ZVBheTNha2MyYz0ifQ%3D%3D.JbQzQLewv98ultXGWTEoGwGgGk-cvXFaHS5NxRezcuF9ffmTZSdYfFNjFxgwmXOrV_BWUGFSashU4Eoz-I1GAw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2220x918vnpnkkndcvepn4rmdv59rj1l%22%2C%22displayName%22:%22k_aubrey63q_l%22%2C%22id%22:%22217893786%22%2C%22login%22:%22k_aubrey63q_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	20x918vnpnkkndcvepn4rmdv59rj1l

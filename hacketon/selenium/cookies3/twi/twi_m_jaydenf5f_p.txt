@@ -1,0 +1,13 @@
+#m_jaydenf5f_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	MUgukaCdW8Y0f6Tgxghas3gvTnCLAUk4Wzu1yNxp0lU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a14201bd8bb9d5c9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217949646%3A%3Aj5ksk8pnjz5efyl5re8fd3dg3n04mw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDk2NDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTgxNDQsImlhdCI6MTUyNTE5NDU0NH0=.umgBgzO7hpmyrEiTi0O8uvIMet5Etiq_7EDRpcZvdJ0HT2ppCsypwfsF5Svt-YrdF3j3F0N9YzAuCg1wtw5VJg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDk2NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5MzQ0LCJpYXQiOjE1MjUxOTQ1NDR9.xK_M1pYOaFIlEs0iQsqFzuXsayTgi3KIH0kajgQRP3_qKD7CGB8172honAdTFAsT46dlj4IKuGjLN2EOFywdyw==
+.twitch.tv	TRUE	/	FALSE	0	login	m_jaydenf5f_p
+.twitch.tv	TRUE	/	FALSE	0	name	m_jaydenf5f_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:09:04Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7c23f2db9440f4b7998fab4ad01e485d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1famF5ZGVuZjVmX3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ2NTQ0LCJpYXQiOjE1MjUxOTQ1NDQsIm5vbmNlIjoiTW9SXzBmQXVmdzVqLU9jekFGMnlIQzlSNjhYZ1RZMVp6STJNV3ZWazVYTT0ifQ%3D%3D.rEapXN5xN7QygzejCuCui0DYFkhgsAxMjHS0wMcsG0xZbLwaFSkZSepoYdEx_3uoc8nJ-PZsBoP6rKRogLW4qw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223hhc65vjmqywpl1owuz0ay98k9jl41%22%2C%22displayName%22:%22m_jaydenf5f_p%22%2C%22id%22:%22217949646%22%2C%22login%22:%22m_jaydenf5f_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3hhc65vjmqywpl1owuz0ay98k9jl41

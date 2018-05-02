@@ -1,0 +1,13 @@
+#y_angel55o_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	HsCSGKJA0mSevIu43nybVc5ZqhNqfVa%2FnXiJfA03eqs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8e8244490b1cb79a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217952567%3A%3Ayqla6es1pa3z81g68fvej14gfbnmxs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTI1NjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg5ODksImlhdCI6MTUyNTE5NTM4OX0=.e4UDi-aZAi_QSU8lWTGPsUEWGgieM_BZeIxVi8uy96ns6rZXwtGK-jU4vhf_rrobYAU6Hj_bKzRw-IY-rxeEiw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTI1NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAwMTg5LCJpYXQiOjE1MjUxOTUzODl9.yzbWlE5cRlKTqVvQ8-cMLI_FpXmKjBRWe1acnqZ5sDt1WtdxPE7g6tTZNWP4yXA_q0rYwOtYxBTl3x25Yj4tTQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_angel55o_z
+.twitch.tv	TRUE	/	FALSE	0	name	y_angel55o_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:23:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5b5bcae54e76d96cd54daa7224ec2bae
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYW5nZWw1NW9feiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDczODksImlhdCI6MTUyNTE5NTM4OSwibm9uY2UiOiItVzYxN3dGZ04xRFBGZGRJZDRRdjZpdzlWUmItdGQwcWFJN3FJd0o2S2hjPSJ9.hdJVcsYJ6ajiL7JQK42JSB6nZgxYEyqtldBW_WsppFVTBl8erkas7pJUVSuFkxZWFANygKV-7kqIx2xgK5Cb3Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nsipqh8oy1a0onq2nw5dtijhvgkir7%22%2C%22displayName%22:%22y_angel55o_z%22%2C%22id%22:%22217952567%22%2C%22login%22:%22y_angel55o_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nsipqh8oy1a0onq2nw5dtijhvgkir7

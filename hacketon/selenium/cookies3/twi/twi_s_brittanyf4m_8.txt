@@ -1,0 +1,13 @@
+#s_brittanyf4m_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ne%2BSG3sJZGY%2Fdew7rXxdpJqVAh%2F9CbLJwvsRc1T9Y7w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4fa31ab54e3fef63
+.twitch.tv	TRUE	/	FALSE	0	persistent	217946888%3A%3A47ldose3eliyg2j5kyt49sk89xhwnh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY4ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTczMDcsImlhdCI6MTUyNTE5MzcwN30=.Or0rUrG7CUxWdmeN3OCTPgGOigBnhj829wVhuPgzNLfLCSBdkPhLYDzAQUrxJ6c70YYJGCQnbdG_ALVpsqG9_Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY4ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NTA3LCJpYXQiOjE1MjUxOTM3MDd9.9puRLCbr7o8Q1WPBB36FuaXbbh0mw7eDecEOa8miH1G1Lh0g2G1TtAxUbpscrB_biQ-b4Hiyz7CpkaT1DzmrfQ==
+.twitch.tv	TRUE	/	FALSE	0	login	s_brittanyf4m_8
+.twitch.tv	TRUE	/	FALSE	0	name	s_brittanyf4m_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:55:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1e7dc0bae1b9afc09ea0ab5e253e44e3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYnJpdHRhbnlmNG1fOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDU3MDcsImlhdCI6MTUyNTE5MzcwNywibm9uY2UiOiJjQktjdDNBTndnTjRuTXA1dzhpamJaNWtROFdvdXZUQ2VhRGEtYzRfU2tjPSJ9.bbYKHqP1gKaDJAhmd3cXRVry69KBN4dsM-BGkEcYNT04FzyOYoEq6rgyGSDnnNaE5mF-9_FlOcRQbi90AcR1-g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22k04ei707dyasz8tn2k4wb278vp15ro%22%2C%22displayName%22:%22s_brittanyf4m_8%22%2C%22id%22:%22217946888%22%2C%22login%22:%22s_brittanyf4m_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	k04ei707dyasz8tn2k4wb278vp15ro

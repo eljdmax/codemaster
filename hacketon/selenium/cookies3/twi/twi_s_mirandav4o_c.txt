@@ -1,0 +1,14 @@
+#s_mirandav4o_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DaMbWBM5XvyMw31OGq2b33lpcqCuazjn9sNA7FX8Qqc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	24747a24fd518356
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f3618bf2921ab09617e8d0cc1a26e986
+.twitch.tv	TRUE	/	FALSE	0	persistent	217926513%3A%3A2xtag1amj935kfcr2vrouv60o8pvuc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjY1MTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTA5OTksImlhdCI6MTUyNTE4NzM5OX0=.kgbp6kqZR2KiDdUwE_JArTmDFKXHPyjoFheseeyueGTzfuHqoYEQw5d2Ps7_5aA65ivmIMhzMWqiNykNDakthA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjY1MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyMTk5LCJpYXQiOjE1MjUxODczOTl9.w-4r7hEyVH9_z6MMLXvlyj3B0V4v0iM9kYbboHt-i-n3mNtTByYTPeSX9Phe5T_1X6s4AQYguYBgQGzdnuk4fg==
+.twitch.tv	TRUE	/	FALSE	0	login	s_mirandav4o_c
+.twitch.tv	TRUE	/	FALSE	0	name	s_mirandav4o_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:09:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bf653bc00ac1b02b1d64489ee6bfff49
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWlyYW5kYXY0b19jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDczOTM5OSwiaWF0IjoxNTI1MTg3Mzk5LCJub25jZSI6IlZ6VGVYSjJKR2J2S1hLMXdfeUQ2cmd6VUo3MTFHdlUyU0dENlNUODVFSmc9In0%3D.Hk5OWUgmlSVQr2DnEhi-QCRrDCnIkSlMPvf5Vu8YJbM3iWlroFVoAPIO_ZKIuIvKO3Gip2uyaspFJyNCUh7Jpw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229wmm33c858h0kpqsmw6reb48ei5xvs%22%2C%22displayName%22:%22s_mirandav4o_c%22%2C%22id%22:%22217926513%22%2C%22login%22:%22s_mirandav4o_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9wmm33c858h0kpqsmw6reb48ei5xvs

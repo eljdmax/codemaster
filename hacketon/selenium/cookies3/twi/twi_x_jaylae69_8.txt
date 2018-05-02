@@ -1,0 +1,14 @@
+#x_jaylae69_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ZOOWwPoEbBuHdgb0OEvBQA%2FLKjHxt3Z8hTlbkNKdW2Y%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c10f86982cbada79
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e65553da08188c1381ed1d9458c6af04
+.twitch.tv	TRUE	/	FALSE	0	persistent	217894636%3A%3A8vlklimf8vjss85ioym9ll64ksm84z
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ2MzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg5OTAsImlhdCI6MTUyNTE3NTM5MH0=.wA5LxjhRFtF7ez3dFcTuAi3v4ErdIo0bQnYX_ZEyz8zw1eWWLOzgL6-BpRi76XHGAdQexHCcvdRHW-pr0_ZCrQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ2MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMTkwLCJpYXQiOjE1MjUxNzUzOTB9.qBeRYbwAwr30NkAupzJCE3aCjWm5bYmRLj6OJEPacx-HGA5zo6y1U7McFWkXTLgxCNpeEOMY2U8jTrRC_ME2Jg==
+.twitch.tv	TRUE	/	FALSE	0	login	x_jaylae69_8
+.twitch.tv	TRUE	/	FALSE	0	name	x_jaylae69_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:49:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e2980cc37af2ded5ca0bf454317efce4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfamF5bGFlNjlfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3MjczOTAsImlhdCI6MTUyNTE3NTM5MCwibm9uY2UiOiJFMzV0cEpKVHBXSlhxdGdyN3J3U3MyWWpJZnNWRG1VS0FmMFdHbWUzMWRvPSJ9.8nAausCzA5U2j1WjlWfe-LVnneyRSa2jEIpv2PH0CKfG9adlR7owRtoAgubENhHVORHsGEkcA2DP_4fN5l_UEA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m8r7icxlixh0v2r6n9yunx4f123cca%22%2C%22displayName%22:%22x_jaylae69_8%22%2C%22id%22:%22217894636%22%2C%22login%22:%22x_jaylae69_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m8r7icxlixh0v2r6n9yunx4f123cca

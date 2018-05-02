@@ -1,0 +1,13 @@
+#e_jordand6g_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	2YD%2FpqB%2B0Zp%2BB7z4eK%2F4S9att%2BImuXU5haOIzdsUaW8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e32e8d0bc1b8031f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217947650%3A%3Acyr2iaiwjlhjq4vnd8krk7ih4sebez
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc2NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc1MzksImlhdCI6MTUyNTE5MzkzOX0=.ihZrKtX5Jdf1guZiSCGbyEtTO2d253TRqF_gHM3Ahiss9CikHlGReF4yDSirGqIhyOVy8goLlbP1xa_UCnCMqw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc2NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NzM5LCJpYXQiOjE1MjUxOTM5Mzl9.vfhvtfpcoTriM32uDYVuDKkQBQLL6gN2oOuZtn9nS-lEd2vzDo-3v2Gn0h6Fs4c-MFp_y7FMjoZ1W8mW3z04qA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_jordand6g_k
+.twitch.tv	TRUE	/	FALSE	0	name	e_jordand6g_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:58:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8b1e62687e1a6b64c6402475e517950f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfam9yZGFuZDZnX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ1OTM5LCJpYXQiOjE1MjUxOTM5MzksIm5vbmNlIjoiSWlQUjNrY24weHVYSVE1RDN5RG44RC1oeldRYlk5eWV0VGJGWVU0LUs2ND0ifQ%3D%3D.r6FBPL0lIMWfYdxWLcGdmcgo0kgFy4daSHE7R_iX7RwkvGvsYOnTkquwmz8WbCWqJzw1QWSYHeJvaHcB92VpDQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zu4s3uqt0qnb0sog3nhkf6ibnarbe8%22%2C%22displayName%22:%22e_jordand6g_k%22%2C%22id%22:%22217947650%22%2C%22login%22:%22e_jordand6g_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zu4s3uqt0qnb0sog3nhkf6ibnarbe8

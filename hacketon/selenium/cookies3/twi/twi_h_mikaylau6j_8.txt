@@ -1,0 +1,14 @@
+#h_mikaylau6j_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cOByCLbh%2Bz8cuUr1heTFJBFENcYJJBhoDuoMb6xisMM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	42e210af09d875d5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4b965e292ce46da8e1b7454ba1ad6f71
+.twitch.tv	TRUE	/	FALSE	0	persistent	217897270%3A%3Ac56h69mbqyh975em772r0jjt53cn6a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTcyNzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxODAxNzgsImlhdCI6MTUyNTE3NjU3OH0=.9mvenw1LxQ32cT1hKwt06nBBPYQ4hB4R0l1MfJ_RlB0PP1GbzPJKDtrlkUb-2eZiZGe1JxxHIM-zYNdQr_SDCg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTcyNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgxMzc4LCJpYXQiOjE1MjUxNzY1Nzh9.hFPKyM_u7aghrHblc6032fHq8CVqs0Lx_nWPGruLwyWoMCPoB9U-u74flI0h5FjkNehtROkv1mMvYa6HIWlqFw==
+.twitch.tv	TRUE	/	FALSE	0	login	h_mikaylau6j_8
+.twitch.tv	TRUE	/	FALSE	0	name	h_mikaylau6j_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:09:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	919b1d0cd834c508891deae08e31d511
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWlrYXlsYXU2al84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyODU3OCwiaWF0IjoxNTI1MTc2NTc4LCJub25jZSI6ImQ0RUtIRklNcEl1eVFhUXVqQzFYeTFfQ1ZES0hRcko3anVsaDJHaTdJdzA9In0%3D.-ffYFQyMVAuhCdarz6d7TVyogXWt8dyNuq-yt6C4XXJn6aGYUmEYIo3CDQSvtP3bBhZut4ieEmbeVg6tWUo49w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cwlq7utk1wva77k2njivid2g9cdt6l%22%2C%22displayName%22:%22h_mikaylau6j_8%22%2C%22id%22:%22217897270%22%2C%22login%22:%22h_mikaylau6j_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cwlq7utk1wva77k2njivid2g9cdt6l

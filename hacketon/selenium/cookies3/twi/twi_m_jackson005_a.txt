@@ -1,0 +1,14 @@
+#m_jackson005_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kgKeGc3AHI%2B26evknH%2FjUBavAQMXJNkxm02wFleIrCY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d1157a1dd9c00289
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a957b69b5ec40408d38fa86fd3b22469
+.twitch.tv	TRUE	/	FALSE	0	persistent	217928077%3A%3A643poolgd90oo0u8t9k70snsa7bxc0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgwNzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE1MTEsImlhdCI6MTUyNTE4NzkxMX0=.B3gI5CY2nZ-xsIJ5StBWcNUsv0E9B74GM6A4mQUpu-gaA-ncvwqD9shWYN682YNAZr8dLTTjKCM0HfwXY_ZSIg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgwNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNzExLCJpYXQiOjE1MjUxODc5MTF9.lKqwhGmYOkmtOccbucsdqVUunrz5lXOvULvYe0ihUvYFgbWDKFzX2GhU68NXPsuiwANjR573YyCBbHxBmcg7YA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_jackson005_a
+.twitch.tv	TRUE	/	FALSE	0	name	m_jackson005_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:18:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2a4080ba331327d1d1d05fd1521d630f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1famFja3NvbjAwNV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDczOTkxMSwiaWF0IjoxNTI1MTg3OTExLCJub25jZSI6IlhzZU92VkpaM0t3ejREYlowSDhDVWdSdjhNOWROMk9iWW9PbUEtbHh4SW89In0%3D.KRgtJ-6yD6EdfsmYCwOhapONIZA-ZDLN-REkJB8jkRHHLnPe24c7n6Ervl8Yc8zij0YVFYC2hmcXrLMg6O7kAw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22808cfg95tsqp33ilkqpuxkqa3w1mey%22%2C%22displayName%22:%22m_jackson005_a%22%2C%22id%22:%22217928077%22%2C%22login%22:%22m_jackson005_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	808cfg95tsqp33ilkqpuxkqa3w1mey

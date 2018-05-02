@@ -1,0 +1,13 @@
+#y_haileyv92_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dhQxs74dZu5nHPgsDyWhDay9bpfg%2F42IjSnLjhuJ6mU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3266559a379134af
+.twitch.tv	TRUE	/	FALSE	0	persistent	217946480%3A%3Ayidlwfaxtlmz5ivaz4fb30bmbp32bg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY0ODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTcxNzcsImlhdCI6MTUyNTE5MzU3N30=.H6tmeYq8CMPLH0XSyRVt_35Bw28PfCPJFAUKnfhZKnD0P_pzv_ZBoSIW55ZCFU0hsSWtbFvLFx5baTmZ-SyoXQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY0ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4Mzc3LCJpYXQiOjE1MjUxOTM1Nzd9.28WSNbH99DY3oKmJzsIXR15of46kRZ6NbMObiF5BZ5Y7KBSwu0O-XGiJrCdcmF8eeyXBkkM5HeMa2GaW6UywaQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_haileyv92_u
+.twitch.tv	TRUE	/	FALSE	0	name	y_haileyv92_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:52:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ad5d6a2e8653208d772c541c56665de6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfaGFpbGV5djkyX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ1NTc3LCJpYXQiOjE1MjUxOTM1NzcsIm5vbmNlIjoiRGJWaWktMDVPcVhVRU5wdEQ4aFM3Y0N1eGU5RllSTEZ4ejVybk5teFlRaz0ifQ%3D%3D.RGhMKZ0JC2WmM4yBJdPUMuU2s0IfEE8_YtWkQCJ_dIYGNHxERIkA51GaDXoVrIGkj6tlCWlt6BjU-1pUHZfl0Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hdg50fb50dqgq449en9schn4pr115u%22%2C%22displayName%22:%22y_haileyv92_u%22%2C%22id%22:%22217946480%22%2C%22login%22:%22y_haileyv92_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hdg50fb50dqgq449en9schn4pr115u

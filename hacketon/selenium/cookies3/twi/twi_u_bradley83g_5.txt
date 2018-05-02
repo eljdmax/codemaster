@@ -1,0 +1,13 @@
+#u_bradley83g_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RPRiGxnVHJdYg9F0yU89%2BEu%2FZLEw8cu7UL2bMDVbZKU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c4bd36000fae2ad7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217952066%3A%3Aqy9u6pjwuhxq0vdcwbpuesudywdhx2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTIwNjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg4NDUsImlhdCI6MTUyNTE5NTI0NX0=.FzSG4jyoy0y_ePowsH2peKNUA-R-QxIEFCJCdSmKNiWct2FmOZFCM61WUqBWlxMb28qjCrx8Qio8DQxZ8u54TQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTIwNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAwMDQ1LCJpYXQiOjE1MjUxOTUyNDV9.DpiPs6c0KLwIIB3j8jACONVlpnAD-ky4hU6f-wuKHOHZFXMZiM831KVHVEcquea2MsiU3N-LrqtHSb_hbwawEA==
+.twitch.tv	TRUE	/	FALSE	0	login	u_bradley83g_5
+.twitch.tv	TRUE	/	FALSE	0	name	u_bradley83g_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:20:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	800d3a66dd4f6b19b11bf2a896ba974c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYnJhZGxleTgzZ181IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NzI0NSwiaWF0IjoxNTI1MTk1MjQ1LCJub25jZSI6IjBtOTB4ZnVCQ0VKRnlqUHAzZnU5eE54R3c0RUVRQTNwZkp0dnJ0TXRuU1U9In0%3D.3xu39AIt8Ys2b7BrjLA_ITQHncd2bSEQpt5i3uMGaxCfrXLEF6Cnmdgaox4PhE93a9vWVrBUEan16atcJ7n90g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22y27ovzhs9u75e7vi7k0q4hhbh20483%22%2C%22displayName%22:%22u_bradley83g_5%22%2C%22id%22:%22217952066%22%2C%22login%22:%22u_bradley83g_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	y27ovzhs9u75e7vi7k0q4hhbh20483

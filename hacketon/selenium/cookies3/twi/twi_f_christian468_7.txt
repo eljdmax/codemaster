@@ -1,0 +1,13 @@
+#f_christian468_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	HejLkZrl13tw%2FPvMP%2F%2FAFlFZBDhHIosfGDDc0TW58ag%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	18070d01aeb304ea
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895286%3A%3A7zmqrefvcem9b8pf335a09vpapvdzg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTUyODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzkyODcsImlhdCI6MTUyNTE3NTY4N30=.L_H8HAyaDRawpllWqQnXQrdm0oNZ-T12yGCr_K7GDVZL5au7zI0ULo5LchYHT82vpHa_e6Bix8iAzgBK_oZD7Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTUyODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwNDg3LCJpYXQiOjE1MjUxNzU2ODd9.w7kdlxygYuUUIk2WEyh3UTC6G-qWhBDnz_ESk2T7dw3SRWk9q0nfFVuh_5XHjhjQeJKkll2WH4JruShVRHp4aQ==
+.twitch.tv	TRUE	/	FALSE	0	login	f_christian468_7
+.twitch.tv	TRUE	/	FALSE	0	name	f_christian468_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:54:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	16690872a2c38a40bbe4c96503218b8a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfY2hyaXN0aWFuNDY4XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzI3Njg3LCJpYXQiOjE1MjUxNzU2ODcsIm5vbmNlIjoiclJpMzhqSzQzQUdEMS1jaUZxM2psOEEtWkRMV3lyMVRWS3N5bTVldlVmUT0ifQ%3D%3D.6ljyOzFIOCBGrktZZZDJOcUDAFPEpOCXZdp2XzR5PBcB1U_QFwjsP_a9ixS__lN_0y-pv6ghLq1Em2EZ5F3qoQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%226249wa09que98hqk0ukekm2zmviehk%22%2C%22displayName%22:%22f_christian468_7%22%2C%22id%22:%22217895286%22%2C%22login%22:%22f_christian468_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	6249wa09que98hqk0ukekm2zmviehk

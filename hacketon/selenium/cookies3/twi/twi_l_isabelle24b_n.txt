@@ -1,0 +1,14 @@
+#l_isabelle24b_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GWqSIXPsUyCIWjSjsaJnMPVc%2FrsTnpCfniVxyKNNNOQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f56258de1802380f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a39dd6189925f8fb813226fb53032ce5
+.twitch.tv	TRUE	/	FALSE	0	persistent	217936825%3A%3Atry1jod6x1jrule8lnxd5ongt48y8y
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzY4MjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQzODIsImlhdCI6MTUyNTE5MDc4Mn0=.CGunOnjherlvQ4tp0cWwNBnDCCTkEALU7klyexj40gZPYOa4Klf_pgRfphHvoPzJOcwsftkyjBklMU9rcAD2lA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzY4MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1NTgyLCJpYXQiOjE1MjUxOTA3ODJ9.KR8nSGqFAkcd-eKplo5g6Jh2js6j-bmTmArybhIhWhfnRmx2NTbXH4rtswZ9mZ17yw3Ii06G8UhE1L8_fI5deA==
+.twitch.tv	TRUE	/	FALSE	0	login	l_isabelle24b_n
+.twitch.tv	TRUE	/	FALSE	0	name	l_isabelle24b_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:06:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cf2bbf2d835347d2153ea0d1348788d7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfaXNhYmVsbGUyNGJfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDI3ODIsImlhdCI6MTUyNTE5MDc4Miwibm9uY2UiOiJrdkRnSW5oY2JWVENEajhvRVdzbUlIX3Qwa1k4ZURMTng4ZzNEMjMxZ1VJPSJ9.3RGdOKrvISoMuJmR6s-uvbA8mUF6JLEuw6SYtrrPUW9pRK0ZLYi0x-tJS1y26oPw0W-Jejy7Y1MXFPOej1Jqpg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22unx2cxcgx7iuhwln7129ni7u9xmh28%22%2C%22displayName%22:%22l_isabelle24b_n%22%2C%22id%22:%22217936825%22%2C%22login%22:%22l_isabelle24b_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	unx2cxcgx7iuhwln7129ni7u9xmh28

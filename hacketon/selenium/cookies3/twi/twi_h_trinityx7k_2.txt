@@ -1,0 +1,14 @@
+#h_trinityx7k_2
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjUxNzY1MjgsIm52IjowLCJ1cHQiOjE1MjUxNzY1MTMsImx0IjoxNTI1MTc2NTEzfV0.
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cyWvdAEXEuo%2BtaGjt2FQ6JzoCN1xN8CO%2BtnqN3jsq60%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f40dc6d09b1d8f2c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217897864%3A%3A7naamslrly9s8zsdjyyxp9cyat0lkh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTc4NjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxODA0MjQsImlhdCI6MTUyNTE3NjgyNH0=.QeKqON7754ruXyTzTEFEclP3TB2hoiznnfM5M6H30QffAF-rJny6v5Z5M6bsj2qXpJPYvLUNU7infdYflGlmeg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTc4NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgxNjI0LCJpYXQiOjE1MjUxNzY4MjR9.XcmpvQeYyyWp_Dp5CGoR1zZgxGlUE8XjLhPNDjCjck_7UZZOIgdD7uGIiEHGxo6s7N5k0kv_g61ZfiktV4CYiw==
+.twitch.tv	TRUE	/	FALSE	0	login	h_trinityx7k_2
+.twitch.tv	TRUE	/	FALSE	0	name	h_trinityx7k_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:13:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d4dd095dd7585f23c9d037b7f3f40704
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfdHJpbml0eXg3a18yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyODgyNCwiaWF0IjoxNTI1MTc2ODI0LCJub25jZSI6ImlQSDY4Z3FqT0xDOENhRjNOWjF3WlJMV3lBbVY0ZGp0V2k0blpfMjRqdzg9In0%3D.29TWQiN2xKLfSRofvoLx6zCdAB4Cf6QFcgsmW36imMAbPrdhLxh3dwr0GiQxA3HxuFfqc3mPxFoXH5jOD1RXmw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ekujqt8adn9m1kqk6xojtijd53r87b%22%2C%22displayName%22:%22h_trinityx7k_2%22%2C%22id%22:%22217897864%22%2C%22login%22:%22h_trinityx7k_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ekujqt8adn9m1kqk6xojtijd53r87b

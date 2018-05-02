@@ -1,0 +1,14 @@
+#w_maya88t_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LJxDsJPB5Wtg11tcHk2h8cBJ46q1M9jj5YBL9rqLUXw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	477496e5e4c2e8eb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f9f71a5fb6de92d7409f7db1f5deb9fa
+.twitch.tv	TRUE	/	FALSE	0	persistent	217928618%3A%3Akchx3ocdw6whshzjs7bxhtk7enxjtt
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjg2MTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE2ODgsImlhdCI6MTUyNTE4ODA4OH0=.rzr9XDaTCGR4dwK559ouMvJg6atvvey25RF95Dlf-qcYrum4_QH3kMZcwewQ40KnbwONYZqTOZT4E0k1sBSnMw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjg2MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyODg4LCJpYXQiOjE1MjUxODgwODh9.k2IN1MleilK_M_GED8sZ-QYTGeKp_yR1pv_i7jIFpss22SsOER0dg_DdPZjgl85NX7rkoveB56xz0TPsFjkUKg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_maya88t_2
+.twitch.tv	TRUE	/	FALSE	0	name	w_maya88t_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:21:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	31cb0356d308963061f56b63d1d6e0ad
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbWF5YTg4dF8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0MDA4OCwiaWF0IjoxNTI1MTg4MDg4LCJub25jZSI6ImwyeGVNUVhFLVphR0hYRml4YjM3S1k3b0lFMGplMExCREltMzhaenUtOHc9In0%3D.j21TBt8Dd50c0vmba9TFICA9TD1nCOJ71_xrLyM_gXSAacCObGdFC_-p_SuyeorcbysEazVa9WzeYcgY0XQ4mQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229f7gio4ra2i7x82gjw8z7186dq0qbh%22%2C%22displayName%22:%22w_maya88t_2%22%2C%22id%22:%22217928618%22%2C%22login%22:%22w_maya88t_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9f7gio4ra2i7x82gjw8z7186dq0qbh

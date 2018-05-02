@@ -1,0 +1,14 @@
+#y_cristianr9q_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2FJeVhzMn%2BC6Avpi%2FjOUrhZnjGA82%2BKabhw750DE3QeU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f877c28898c017a2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e93d2fe58d1843cb6e31a14e379c4570
+.twitch.tv	TRUE	/	FALSE	0	persistent	217928206%3A%3Abb82vrnwa8cgnl2vdx3twnk3qt6llp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgyMDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTE1NTIsImlhdCI6MTUyNTE4Nzk1Mn0=.-Z1kSl26AIkkvCHI2WfGT104s1swAPnL24_qjen_j7fj0r9nFa3ukOlInpzrM5TukS2W02OC9pj9BF6usJr6ZQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjgyMDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNzUyLCJpYXQiOjE1MjUxODc5NTJ9.2wbn2IUQ4wc3ZJoKWeoCW1tyPZtrGkfg3CTNYUsbT7FuSSXMNprbBHNFggupd7LFY9mKfzYQUJZQc7FctUsrzw==
+.twitch.tv	TRUE	/	FALSE	0	login	y_cristianr9q_l
+.twitch.tv	TRUE	/	FALSE	0	name	y_cristianr9q_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:19:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	32d4d27874dfd845fccd630d6ce504fe
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfY3Jpc3RpYW5yOXFfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mzk5NTIsImlhdCI6MTUyNTE4Nzk1Miwibm9uY2UiOiJFVWJXWG5xR2E1TVRmQ3ZUVUxSaVdEaUZXbXF5eHJqTXBpemlHbFd2X0pnPSJ9.uLwKcgsHOWbl2qH9HW2Jk-pUoVDokGmToFmDrCjSm4hG6DG_CViPkU5zg84ooW9b1bSalWLTvAAOBSQpzR2a5g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224dfidruc7teyjog1asaed1nmerooyd%22%2C%22displayName%22:%22y_cristianr9q_l%22%2C%22id%22:%22217928206%22%2C%22login%22:%22y_cristianr9q_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4dfidruc7teyjog1asaed1nmerooyd

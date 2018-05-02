@@ -1,0 +1,14 @@
+#y_kiara295_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	trFwo2ZkZianMzfGa7taURJ2lJ00XRG%2F76PTW%2B7Bcls%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	019881c9b8e04a40
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	de9dc0c8c627d68e62f49504b96227e2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217948527%3A%3A8nwxvyfen9uh6xuw2t6xj1n8xnp88c
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDg1MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc4MTYsImlhdCI6MTUyNTE5NDIxNn0=.VpYbtZkVMcP-C0uPuFuuaG8BD5wDZyGfUyR2mvpuYgxdbWH1NpsquPhz0bSBE4OuLJ_dk2UMG6mG8GGCoZNHew==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDg1MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5MDE2LCJpYXQiOjE1MjUxOTQyMTZ9.2V-TZK2190ajo_yMjrEZC5Tiyt9_ABJB_6Lvarmlp8b4A4olmC4rcpAgnqKS1puj49_j8E4vU_f5nHRdeS3b_w==
+.twitch.tv	TRUE	/	FALSE	0	login	y_kiara295_p
+.twitch.tv	TRUE	/	FALSE	0	name	y_kiara295_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:03:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9b743d8e9f449a19245eb64b1525e5ae
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfa2lhcmEyOTVfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDYyMTYsImlhdCI6MTUyNTE5NDIxNiwibm9uY2UiOiJZYjNBZ0JGYzRodmdNUWJabWxZWnBwZjM2R3FfOEhuZXlQRkhNM2h5Q3prPSJ9.6N7BLfnXN4_2YGBDHTV157s8ZqRMboz6vZwkvxFZnbyFqPqppUZRzFDDthx6F-j7c497nzRQ2Ombpu5SrM_Yyw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220sepqp1sl9by61islnxxcxh3oslvdz%22%2C%22displayName%22:%22y_kiara295_p%22%2C%22id%22:%22217948527%22%2C%22login%22:%22y_kiara295_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0sepqp1sl9by61islnxxcxh3oslvdz
