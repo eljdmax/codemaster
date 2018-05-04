@@ -1,0 +1,14 @@
+#e_angelq6q_i
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ3Nzk0MDMsIm52IjowLCJ1cHQiOjE1MjQ3NzkzOTMsImx0IjoxNTI0Nzc5MzkzfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Nd2jgT%2Bp1sTilDm1uhN9BBRr4w8aSGoo6fWxEu6ru%2FI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:52:34+00:00	unique_id	21d232a477003d84
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:52:34+00:00	_twitch_session_id	ab369a1cc50474243bd898d2486ccf57
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:52:53+00:00	persistent	216938981%3A%3A6x3qkmtftpai1lkrm46aoashw4g4q8
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:52:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzg5ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwNzczLCJpYXQiOjE1MjQ3NzU5NzN9.-wgacwr1SuqizaJMwge--MgKbcLO-T7lEirx7-6BXGQ_T-cf-wM7rAvW8J0etvbHTO1eMQnwodZgKxp63QvVLQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:52:53+00:00	login	e_angelq6q_i
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:52:53+00:00	name	e_angelq6q_i
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:52:53+00:00	last_login	2018-04-26T20:52:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:52:53+00:00	api_token	1538994267ea8cbfcf0ef6e63a1a6b52
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:52:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYW5nZWxxNnFfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjc5NzMsImlhdCI6MTUyNDc3NTk3Mywibm9uY2UiOiIzSzFiRzhxeDB4OERlSUxYbXZFM2lFbUtwVzk0Z3FwZWI0N1REMGExalBvPSJ9.ZhR8kfpJsFDByU4qwO2WbLgaB4n0TJkJLOZtgiyIhFkK3SnGoD0wYw_hiiT_HjBy-gVQmALDjmISdPI8TWVXWw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:54:22+00:00	twilight-user	{%22authToken%22:%22ek8kqx1lx69ovsjxb089b7o9uhy4yn%22%2C%22displayName%22:%22e_angelq6q_i%22%2C%22id%22:%22216938981%22%2C%22login%22:%22e_angelq6q_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:54:22+00:00	auth-token	ek8kqx1lx69ovsjxb089b7o9uhy4yn

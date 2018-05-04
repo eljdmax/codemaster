@@ -1,0 +1,14 @@
+#u_giannax5o_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ImSdc6hFEUbbW%2BKzDP%2B77K4Wt8OdkvwUT%2BpnX1BldHo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:07:48+00:00	unique_id	dbc87559d5b1ebd8
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:07:48+00:00	_twitch_session_id	566fa41b46b5e93ef2864c4c6082ea02
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:08:19+00:00	persistent	216484448%3A%3Acjip3cwpmr0zkgwa2l0qnggpswgdqe
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:08:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQ0NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NDk5LCJpYXQiOjE1MjQ1NzE2OTl9.LsACSfPiQ6wxuCT4dzJODShuMBf8nivC4UAZKChwLnX3XTQptBZTZI1mL7AeFwlVc_c9InjGO5W5FwPE9h7YjQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:08:19+00:00	login	u_giannax5o_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:08:19+00:00	name	u_giannax5o_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:08:19+00:00	last_login	2018-04-24T12:08:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:08:19+00:00	api_token	a7138ec69ef5e50bc6b6fde406a24425
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:08:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZ2lhbm5heDVvX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIzNjk5LCJpYXQiOjE1MjQ1NzE2OTksIm5vbmNlIjoiRElKTm1kM2UzNUZma0dPNHg3N3ktZWVlS1pTMXowX1o5NnNjWVFkVzFFVT0ifQ%3D%3D.0kMvzaUiKGFk4DLfz5EM8HWIb1mBIddEj8uSiCneR42-a-z08x8INLyn12esXbat1FLDD67dyX-dhfoHdFWDIQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	DjbW9A0bU8b9tYOZ5SpsZ0Y4CAzs9mRH
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:09:51+00:00	twilight-user	{%22authToken%22:%2205wyw4mdp9g7ixwuomva717xnohsr6%22%2C%22displayName%22:%22u_giannax5o_c%22%2C%22id%22:%22216484448%22%2C%22login%22:%22u_giannax5o_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:09:51+00:00	auth-token	05wyw4mdp9g7ixwuomva717xnohsr6

@@ -1,0 +1,14 @@
+#m_jillianw4x_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zFP82gFhoZCU3q55XncQpKYXzc5IKtWtOE7jQEgisb4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7cef156162be4de5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	853624c28564f04d3c05876c241caeb6
+.twitch.tv	TRUE	/	FALSE	0	persistent	217945835%3A%3A6ec215v7hyh6rzucmghvdqzqzpqpah
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDU4MzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTY5NzAsImlhdCI6MTUyNTE5MzM3MH0=.UiTsPfM0jRseKePsyXBWY_j05js0FfBe4GKvu-frfJG5GYg7svtscuJTBvDi646caNhX4ipJNyjaYd000spU3A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDU4MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4MTcwLCJpYXQiOjE1MjUxOTMzNzB9.3x_NsufB0tzV-OfHUjjYukEjkXFFGnEjZPhOI_T3CkkyN016sQOcMA8UCXWomgM-8Mfl0yy3LglaqF-JPzESqQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_jillianw4x_j
+.twitch.tv	TRUE	/	FALSE	0	name	m_jillianw4x_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:49:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3a497fa67236406f74770ee0e71b1412
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1famlsbGlhbnc0eF9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NTM3MCwiaWF0IjoxNTI1MTkzMzcwLCJub25jZSI6IkxPcU9hRTRTdnYyUnpWX3BnSXJFSHIwR2lKQzdMU2VHS0xWV1o5bTlJS1U9In0%3D.HczSmVvn2CKM8YUlmsmjMjXV91EsRT3qCCFh8-XDiqzVa8n_Y_avUl9XRwS4NW5heP7DO2e05qCZ4nzLaj8_hw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xix1o6kx18std254lymn5s1h2gucwj%22%2C%22displayName%22:%22m_jillianw4x_j%22%2C%22id%22:%22217945835%22%2C%22login%22:%22m_jillianw4x_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xix1o6kx18std254lymn5s1h2gucwj

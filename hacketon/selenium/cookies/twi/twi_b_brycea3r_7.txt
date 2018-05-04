@@ -1,0 +1,13 @@
+#b_brycea3r_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	awke4Hy2GROLzE0ACvTx5wwBqIDELXp6l2slIDZxqaU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:42:03+00:00	unique_id	e4f3e71a8863caf2
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:42:03+00:00	_twitch_session_id	aff3b71cd92cacc44a8328434a1ea8f3
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:42:22+00:00	persistent	216937107%3A%3Aqasncvumu31bc27ijg0dbfjhfqqu4i
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:42:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzcxMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMTQzLCJpYXQiOjE1MjQ3NzUzNDN9.el-QgVVd1lojua0WeT3t45awb1XaMXD6E5uRt5O8mh_ftJ5Aok-_n9sPQ3wi5Mva07i44ITjM21ztIPoa7HDqQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:42:22+00:00	login	b_brycea3r_7
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:42:22+00:00	name	b_brycea3r_7
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:42:22+00:00	last_login	2018-04-26T20:42:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:42:22+00:00	api_token	6f21541574a3039622be78fdb32419b7
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:42:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYnJ5Y2VhM3JfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjczNDMsImlhdCI6MTUyNDc3NTM0Mywibm9uY2UiOiJGSW1YRm1vS1NXRFpYSVlfdkMtTU9pYnI5MTdsQmUxT2VZX2hzYnVwcmU4PSJ9.Flj5gYqjpNFcZ2AtjeZSxkvsCDKuk-eJycXTyqDoJqrEjo4Jo0tbCBxYcHlBiQdRvj3OZ0px7CVgvMZ_mo8kAQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:43:57+00:00	twilight-user	{%22authToken%22:%22nmt486pos25b0cxrnop17086boey3g%22%2C%22displayName%22:%22b_brycea3r_7%22%2C%22id%22:%22216937107%22%2C%22login%22:%22b_brycea3r_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:43:57+00:00	auth-token	nmt486pos25b0cxrnop17086boey3g

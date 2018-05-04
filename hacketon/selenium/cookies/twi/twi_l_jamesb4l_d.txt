@@ -1,0 +1,14 @@
+#l_jamesb4l_d
+.twitch.tv	TRUE	/	FALSE	0	unique_id	96ecf54699502151
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5de432KzLQDuw4%2FeP%2BhKVqTSPZI964QeWgAx4Xinsu8%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d5aac370e1ce23b97a02f4f2f788a9f3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217267971%3A%3Arznle72fr7hmrreveye5450s0x4rma
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjc5NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzIzMzAsImlhdCI6MTUyNDkyODczMH0=.bp8Dwb5YrGqR2-DKCGcrEthm4B0R9xSUJw1WO7xeWpqI2VEQ7yMk3jssdlAzxVARQXn6kCJDPDPBTIuAHAihpA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjc5NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMzNTMwLCJpYXQiOjE1MjQ5Mjg3MzB9.rB8pdCgLwLYXRvsoJ1nOJ9Yw8NxqZ8GkrNEzWa542JCCe_16jZwmcin-t6Ykcw5UduNf_nuF_6nR0cAty6EqOw==
+.twitch.tv	TRUE	/	FALSE	0	login	l_jamesb4l_d
+.twitch.tv	TRUE	/	FALSE	0	name	l_jamesb4l_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:18:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	eb93479b6739ee304930d8eaddaafe97
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfamFtZXNiNGxfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODA3MzAsImlhdCI6MTUyNDkyODczMCwibm9uY2UiOiJiX3RxUUtZODBXRmlVMkgxTnB1a05jU2kwZVNfUnRMX2RrV0FPUThhMW5vPSJ9.Ayms3p76qsHQkW0JeGtSrDqrdL5grcs66iAuF5GBkbBc45Fp4WWYCScsruMYfit7QGZzgvXS2zCvcGFSgFlNyw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tfy1e7ul4gbpznh9wcenmadb7wmnkz%22%2C%22displayName%22:%22l_jamesb4l_d%22%2C%22id%22:%22217267971%22%2C%22login%22:%22l_jamesb4l_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tfy1e7ul4gbpznh9wcenmadb7wmnkz

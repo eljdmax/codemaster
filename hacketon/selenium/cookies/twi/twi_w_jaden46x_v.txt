@@ -1,0 +1,13 @@
+#w_jaden46x_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xa9EW4aOcKKeH7azbxZNmCu7QbrDH%2B9pd%2BaScPAN3lw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:22:40+00:00	unique_id	a90d2256a877a1b6
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:22:40+00:00	_twitch_session_id	9bbb176126696968b5b6b23d552fca32
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:23:31+00:00	persistent	217565456%3A%3A0s4y2pingrqmqhnsm7j2snguau3rco
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:23:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjU0NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4MjExLCJpYXQiOjE1MjUwMzM0MTF9.asMGhLveL9NobSY10umyVv9nCTt8iP8QzAcP_8MI0LVWSLjooRT540rOwzEStHQIA821pYL0n30-a6AW_thumw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:23:31+00:00	login	w_jaden46x_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:23:31+00:00	name	w_jaden46x_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:23:31+00:00	last_login	2018-04-29T20:23:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:23:31+00:00	api_token	b5d38953b359170d268ae77f03f69f0a
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:23:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamFkZW40NnhfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODU0MTEsImlhdCI6MTUyNTAzMzQxMSwibm9uY2UiOiJkWlNhdjNaZmEzQmRqSGZ2UjR2RHZJMDhHcVpLX2VSbWtJYy0yellYU3hrPSJ9.JYveZwQPkYn2DG9WW9n46DiP0cxpASKf-ocJ9DkrKb7SeTIRHmIVhgm6TKauzfIxQE9yZHa1e-JJTk2WPvDfbg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:25:14+00:00	twilight-user	{%22authToken%22:%22ndt4kbm1isfhezgiav9cc1vy2jzncc%22%2C%22displayName%22:%22w_jaden46x_v%22%2C%22id%22:%22217565456%22%2C%22login%22:%22w_jaden46x_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:25:14+00:00	auth-token	ndt4kbm1isfhezgiav9cc1vy2jzncc

@@ -1,0 +1,14 @@
+#p_jessicav90_a
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pMP6UteNUAnXUzOV1HNtp2NZ%2FzhKScjp5GxdWMMeFcc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-19T05:31:19+00:00	_twitch_session_id	4414836489eced3773bdd00b7fda6486
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:31:43+00:00	persistent	215235662%3A%3Awdkgguhfzca4xtribq3zcnp5yal5zb
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:31:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzU2NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc3NTA0LCJpYXQiOjE1MjQwNzI3MDR9.W-O6SOg0xPD2nBb4C8WtlBDz5urS8eFMVeXbxiFj8SS773SsrnIVVNiuLLHKWtIOubharkwzRmgutjdnPuME4A==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:31:43+00:00	login	p_jessicav90_a
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:31:43+00:00	name	p_jessicav90_a
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:31:43+00:00	last_login	2018-04-18T17:31:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:31:43+00:00	api_token	18d573cbfdd45311d53e1ce5b1dc12e4
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:31:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfamVzc2ljYXY5MF9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNDcwNCwiaWF0IjoxNTI0MDcyNzA0LCJub25jZSI6Im1xUUFkN2tTbTlXZTdDaWloY0NnV1F1ZUtNUXUzM0xfenRadFQ3bWphV1k9In0%3D.InUXwp4pyZmLH_T7vocji0kGIh7T3v_4kcqUD75xwI9ffLoym1UIJRc46m5lhYa5ixLk7XUAam4IAjiCT3NzgQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:32:42+00:00	twilight-user	{%22authToken%22:%225a0qv6nbiu5jisdk0uennlumwq6hfl%22%2C%22displayName%22:%22p_jessicav90_a%22%2C%22id%22:%22215235662%22%2C%22login%22:%22p_jessicav90_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:32:42+00:00	auth-token	5a0qv6nbiu5jisdk0uennlumwq6hfl

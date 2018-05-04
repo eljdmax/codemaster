@@ -1,0 +1,14 @@
+#q_edwin05x_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GlFcsHlBOD%2BmDnaeITT9mZ6cEopS8HbldlTvGUQ7Lgw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	68bd7383622ce928
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d46747300876761038c0f4effa97d380
+.twitch.tv	TRUE	/	FALSE	0	persistent	217226365%3A%3A2ftmmnzj4u7cglk7hhrr8mwc2as8r3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjYzNjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTgzNjIsImlhdCI6MTUyNDkxNDc2Mn0=.p9pw5hUAyeROzumt2iAgDs5gDMhkHoOSw5MWf3wb1sAA1rDNzKDhGaW5MRSGIwO3KX9j3GTeXYQGLNwNni83vg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjYzNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE5NTYyLCJpYXQiOjE1MjQ5MTQ3NjJ9.evcEuvZCgzJ9VWQf8qzgsjy7a7KKc_iI10JDBHAj4rt5hcqxH-n9y7r1XplkCdzra2uv_uU_tX3P2P4splWCuw==
+.twitch.tv	TRUE	/	FALSE	0	login	q_edwin05x_k
+.twitch.tv	TRUE	/	FALSE	0	name	q_edwin05x_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:26:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e6bd75dbbe78514c57de2c016c0ecbff
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfZWR3aW4wNXhfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NjY3NjIsImlhdCI6MTUyNDkxNDc2Miwibm9uY2UiOiJlTktrZUZhMXVyZnVHRHhWZlhGYWVPdExPbjZBTkJrbjl4RHo0WmxZbzlnPSJ9.R5597rp4overWGW7-e0VJsk3kldR_BLglBvCvsWyiFVJtB1TlS068reiMXk0w6TWUFXEwsNJtfdHFNgcYIK-og%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n258s4vmb41auod1wh4m96y6r50t1g%22%2C%22displayName%22:%22q_edwin05x_k%22%2C%22id%22:%22217226365%22%2C%22login%22:%22q_edwin05x_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n258s4vmb41auod1wh4m96y6r50t1g

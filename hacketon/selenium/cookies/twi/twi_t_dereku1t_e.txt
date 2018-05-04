@@ -1,0 +1,14 @@
+#t_dereku1t_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	bOKmWLGQUY72YE3Ln0EW2v5oOsqyUM30OB5Xl2mClJM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	66430d5efbb441ee
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7af36ab8638a1cba03c48229840cc185
+.twitch.tv	TRUE	/	FALSE	0	persistent	217485499%3A%3A9tfeezubnh6a1jvxdvjf4r0uudetrj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU0OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTUyMTEsImlhdCI6MTUyNTAxMTYxMX0=.rOwqj6Hi7LAoLQit8w_OenMBklob6wcyRykX6axWQRe9Yi0s-Cfv-RiNaP2qXz3xbBqBDr6Vb039wuDsNTu8dQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU0OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2NDExLCJpYXQiOjE1MjUwMTE2MTF9.j9vsmNBQDwI4WuEpzXLAG2wADM-laIpYCbDzoFuNLGL1mF8rzS_y9T__eWNrN9baNwqErAd0Gs-tW1Goelc5QA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_dereku1t_e
+.twitch.tv	TRUE	/	FALSE	0	name	t_dereku1t_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:20:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f87afc86956f5e38f0f2d975ef159dcb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZGVyZWt1MXRfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjM2MTEsImlhdCI6MTUyNTAxMTYxMSwibm9uY2UiOiJra0syTW9hc3oxSjJQR2ZkZldfYU50ZG82ckNNb0M4dXltOFVtOU8wb0FnPSJ9.lHzqX1jet6zkHPiqSVOvF4VMd2Up8yiZgg2BeOO2uixTe7Msw6JGxIp_9g_0w5ja3YfHNFL773l3pBQuwYR8uQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22d4mdpza2u5w5n3soq79guht905ypua%22%2C%22displayName%22:%22t_dereku1t_e%22%2C%22id%22:%22217485499%22%2C%22login%22:%22t_dereku1t_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	d4mdpza2u5w5n3soq79guht905ypua

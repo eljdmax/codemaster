@@ -1,0 +1,13 @@
+#t_tiffanye2i_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	q9aRERZ0IjICVdfN4R%2Fqlk88LAdKkmNmaDgcyuqIy60%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	68e05d22cf631e2f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217951402%3A%3Aswzc2vp2adue3e9vf2t2m25ha7lfej
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTE0MDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg2NTAsImlhdCI6MTUyNTE5NTA1MH0=.IpRqOL6x2ocKRWRd_RoWy2BdOjR_zNflSp3mo_krxqmiMV11ySf7tX-4DWdooshwM1KrJrnjdyxO2g6dzRYRyA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTE0MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5ODUwLCJpYXQiOjE1MjUxOTUwNTB9.uT0e8itGxfygP_Qv8FXEmdHIp1KKKb5mwOFNHYIzlwXsF3JwdVxD1lFvzDMcj4wQsrcuWyU44wpZ7RFhVBVsow==
+.twitch.tv	TRUE	/	FALSE	0	login	t_tiffanye2i_2
+.twitch.tv	TRUE	/	FALSE	0	name	t_tiffanye2i_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:17:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fa4d815375cd83dfe6366155581caa7c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfdGlmZmFueWUyaV8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NzA1MCwiaWF0IjoxNTI1MTk1MDUwLCJub25jZSI6IlFCVVJGanJUWWRtNFFZdnQ0Zm1kUjJXNk1rLURhelFpV1NFRWhGRUVFUmc9In0%3D.q3UBPYDQOPj-dtyNj8fR-0etpW-yHQVMacn-ND635th9R02vzS6BZahaCCk8U2WZGM08fOTkPZF0f8DuiHDcGw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wcmrd42323bcjv9h1hsq6pihyrn892%22%2C%22displayName%22:%22t_tiffanye2i_2%22%2C%22id%22:%22217951402%22%2C%22login%22:%22t_tiffanye2i_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wcmrd42323bcjv9h1hsq6pihyrn892

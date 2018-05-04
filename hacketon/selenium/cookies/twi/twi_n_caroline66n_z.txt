@@ -1,0 +1,12 @@
+#n_caroline66n_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gnsVxEoozDo2BEU%2BvpgfuzB%2FQyuIVPnu%2Fakt2GO8yWk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:09:37+00:00	unique_id	95986aa1f4b96869
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:10:06+00:00	persistent	216491478%3A%3Aww94zfv45uzmi665b0gdsog8u7w8s2
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:10:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTE0NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMjA3LCJpYXQiOjE1MjQ1NzU0MDd9.h931NO7HvvoSOPKx30FUb1PftdqGlF7ac_o4NT8WtE7tov8YRvwJdPQxiamAQ5Lj1np4mUDg8zmJxvyJ0_NDwA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:06+00:00	login	n_caroline66n_z
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:06+00:00	name	n_caroline66n_z
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:06+00:00	last_login	2018-04-24T13:10:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:10:06+00:00	api_token	3e2efc113c1962438a767a2cd0de6119
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:10:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fY2Fyb2xpbmU2Nm5feiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjc0MDcsImlhdCI6MTUyNDU3NTQwNywibm9uY2UiOiJyZU1WSmVtbVJGLWtsNjhpMTczdHR3TFVlZGJLVmpZNDNhV09obnlIUTI4PSJ9.CKn7CjTA4_zva0Q_lSudSys-ev7Sz5cyF7x_BvF2kLT3PvYimUyRkIgF3ysgOiXCp6kD5IpbiZEDl3AH4rr-eg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:11:28+00:00	twilight-user	{%22authToken%22:%22o51awqzxorkdve43x5oonufbro7b8p%22%2C%22displayName%22:%22n_caroline66n_z%22%2C%22id%22:%22216491478%22%2C%22login%22:%22n_caroline66n_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:11:28+00:00	auth-token	o51awqzxorkdve43x5oonufbro7b8p

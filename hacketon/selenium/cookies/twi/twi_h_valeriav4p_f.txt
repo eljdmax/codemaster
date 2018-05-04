@@ -1,0 +1,13 @@
+#h_valeriav4p_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ZaQYfSH82jI7ewbObVn4KV7dWQZYTwikCMbYx2aQuUo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:17:24+00:00	unique_id	e64db68e155ce47c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:17:46+00:00	persistent	216485361%3A%3Asava0vk02gm1ztfjnbg0yqvvdj2wqr
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:17:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODUzNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3MDY3LCJpYXQiOjE1MjQ1NzIyNjd9.j9OzNb4j1ViPfWnP79RMY_V56bLG47zZ6k0k5XKKGmmHkCMxYEPdMokwM9o_L9zZ3y5ZkagkzXLTTFSeoYr9sw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:17:46+00:00	login	h_valeriav4p_f
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:17:46+00:00	name	h_valeriav4p_f
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:17:46+00:00	last_login	2018-04-24T12:17:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:17:46+00:00	api_token	a55a851a5ee6902bf505b4569c84dfb2
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:17:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfdmFsZXJpYXY0cF9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNDI2NywiaWF0IjoxNTI0NTcyMjY3LCJub25jZSI6Im5rYU53Y1ZtTW1TbG5KZFdteUxPYm1MTUg4cVVDeGVCM0JWenZsWnFDV2c9In0%3D.6W3lWkRGo4mQ828FlbXyEocuduaYkMyFqQNIaaLT2MbhGU6WidnZv_XJa1cyA5yvXI7eKYC2JDD-QFRdHurZAw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	kb79StmQEHef6XeThnsWt3RsOHAZwsvf
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:19:16+00:00	twilight-user	{%22authToken%22:%22fepsd50ax9b1dhhw8pd4fsj5ud1fbo%22%2C%22displayName%22:%22h_valeriav4p_f%22%2C%22id%22:%22216485361%22%2C%22login%22:%22h_valeriav4p_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:19:16+00:00	auth-token	fepsd50ax9b1dhhw8pd4fsj5ud1fbo

@@ -1,0 +1,12 @@
+#a_eliasw7l_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FkEc2Nm0Ev51je4pahkQBclVAg9RBovZ%2Bwr3uaqpjQs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:30:27+00:00	unique_id	b079a38ddf37bb2d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:30:46+00:00	persistent	216476001%3A%3A7twg7xzurtnvvln3nieh5a8t668gsv
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:30:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzYwMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwNjQ3LCJpYXQiOjE1MjQ1NjU4NDd9.Z1vd2geF2kW3zzVbJSpDparszhsN3AaMq07lOF_6IdbS2zaEMXhq7Jhx-dSK9_K8fIWbMoLK3ViShzh67gJ7Vg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:30:46+00:00	login	a_eliasw7l_q
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:30:46+00:00	name	a_eliasw7l_q
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:30:46+00:00	last_login	2018-04-24T10:30:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:30:46+00:00	api_token	f049fdca674acaa742efd4f29c7528a1
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:30:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfZWxpYXN3N2xfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTc4NDcsImlhdCI6MTUyNDU2NTg0Nywibm9uY2UiOiJ4RzR5UWtDTGNVOWlpZDd5MnhlaGNjSThJa3R3aURoSTNxVmtwMWVnY2UwPSJ9.QS1YXgOxCFBjfiMDnRvGWev0BjrYEzMCFBaUiqWDER2kIbRkKQQ4YqmNy5nHtTAXpM5Y6OjxbjoQWz9XexR9JQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:32:06+00:00	twilight-user	{%22authToken%22:%22u0hdjrkmgidy36uwykj8wogtsp25oi%22%2C%22displayName%22:%22a_eliasw7l_q%22%2C%22id%22:%22216476001%22%2C%22login%22:%22a_eliasw7l_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:32:06+00:00	auth-token	u0hdjrkmgidy36uwykj8wogtsp25oi

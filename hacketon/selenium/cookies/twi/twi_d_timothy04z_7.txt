@@ -1,0 +1,13 @@
+#d_timothy04z_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ljbotbR8TeAVyob6Pvxx0Qj1DcAXYDazA9v1zjOSQfw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:54:59+00:00	unique_id	1db661d0ba4f2e7e
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:54:59+00:00	_twitch_session_id	f68eac4519d666f1aec8f52952c485e4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:55:26+00:00	persistent	217080810%3A%3Aukce1d5dinkham9srfs247xyaf1v3c
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:55:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwODA4MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2NTI2LCJpYXQiOjE1MjQ4NTE3MjZ9.Hz-iTZS_AEHnBr1zkafyua31nfK_pCSiDVe1GnSZwWykyHlTKOxQc8cMj7zr1wxMxI2ZPzYGXoJtcdW5FFLmrQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:55:26+00:00	login	d_timothy04z_7
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:55:26+00:00	name	d_timothy04z_7
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:55:26+00:00	last_login	2018-04-27T17:55:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:55:26+00:00	api_token	3a98e0888f4e8bc4e847edcaa407c411
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:55:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfdGltb3RoeTA0el83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMzcyNiwiaWF0IjoxNTI0ODUxNzI2LCJub25jZSI6InFqeXlYSmpUNFE5d3RsRXc5UXBrSGhmMjVSTnh4Rk1Pdk81LV9VOVlJLUU9In0%3D.Z6A-aomNlkk6h1e8jl663wrRXwYU-sG1J9HsG1SAoJX-TdY9iIvlUmwMKyGheeUgJN10rfaF-cr8HH8FzXmTjw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:57:01+00:00	twilight-user	{%22authToken%22:%22kgupqk5q7j58mmfiqeh9yrxpawapk9%22%2C%22displayName%22:%22d_timothy04z_7%22%2C%22id%22:%22217080810%22%2C%22login%22:%22d_timothy04z_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:57:01+00:00	auth-token	kgupqk5q7j58mmfiqeh9yrxpawapk9

@@ -1,0 +1,14 @@
+#m_alexia420_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9P29bMD1hLyQWfHjfWs6q2B7FWHIw9LBFJVZ4wRwpVM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:04:51+00:00	unique_id	6f4139c963811f32
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:04:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:05:15+00:00	persistent	215241922%3A%3Ahq0eoi51cfz3zbkeqpco71kchpv2ju
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:05:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDE5MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5NTE1LCJpYXQiOjE1MjQwNzQ3MTV9.w99p4HsrwL1xusTCrpm1YnE7qVGsFmqlMd4RdLl2fOn8YYEKWoCbC6NgnTLvgRCcyc9o1f-hkV77xqcmgM3RPQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:05:15+00:00	login	m_alexia420_w
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:05:15+00:00	name	m_alexia420_w
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:05:15+00:00	last_login	2018-04-18T18:05:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:05:15+00:00	api_token	6f0473038fb72d13171f18f0ebbd91b3
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:05:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWxleGlhNDIwX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI2NzE1LCJpYXQiOjE1MjQwNzQ3MTUsIm5vbmNlIjoiZmMwTEkwTjhid054NEI3UEtlaDd0VXIwbF9KSEdxSmlWel9ZTUZMeTNIaz0ifQ%3D%3D.Dho9MDbfdhpcUT_VPY16X9iO0hCtyJX0-bbn7lji_Ub-OOYY0xnK9VHWVprWMHiXhnNzM2wS_IJHO6gmAyQy4w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:06:07+00:00	twilight-user	{%22authToken%22:%22cqbixxc1n9d2j82kms3ygcbsxe7kon%22%2C%22displayName%22:%22m_alexia420_w%22%2C%22id%22:%22215241922%22%2C%22login%22:%22m_alexia420_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:06:07+00:00	auth-token	cqbixxc1n9d2j82kms3ygcbsxe7kon
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:06:09+00:00	twilight_onboarding	true

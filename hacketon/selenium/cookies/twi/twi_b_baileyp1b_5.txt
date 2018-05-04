@@ -1,0 +1,22 @@
+#b_baileyp1b_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kc4eA8FcYfn0TGhyDPZJHggJzg2NWjAm12ty0jofDwY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218080241%3A%3Az0gk8uc1tjkmdk38wdvgsociy66eym
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTgwODAyNDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUyNjIxMDEsImlhdCI6MTUyNTI1ODUwMX0=.kJxf8UyWXvTbDwnB-eanHNVPTLW2zJw-XaUrfcKJBXcwY_3ZGG2f1yGrtoZ4bo-xwKDKf7qWH-luQoGdl1KCnQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTgwODAyNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODYzMzAxLCJpYXQiOjE1MjUyNTg1MDF9.v0YVyltLlvIK09gPPeMsDfS0ef90ktc8lYv-Ieg0CdEfZK4QhcYM1RUoD4FkMNe0_lhOAHBFBHCPG5C8_fhoMQ==
+.twitch.tv	TRUE	/	FALSE	0	login	b_baileyp1b_5
+.twitch.tv	TRUE	/	FALSE	0	name	b_baileyp1b_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-02T10:55:01Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c8c9106ce76c34d69a767e52caaa84f9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYmFpbGV5cDFiXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwODEwNTAxLCJpYXQiOjE1MjUyNTg1MDEsIm5vbmNlIjoib19WclFWa0xDV1FBekZ0UmdZdDRickRUbWRaOGVLY2hFUWNhTWVkWnB3Yz0ifQ%3D%3D.MwGchp1DvlHDy9RzQ3tz4K72RITndroOFhScfEIvok5VqI9SjKfH4gVSUZrDD5JPk9QYIMfZpozFsIHT-pycFQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dy77e2potvfggz02b4u5wwpxe3sql5%22%2C%22displayName%22:%22b_baileyp1b_5%22%2C%22id%22:%22218080241%22%2C%22login%22:%22b_baileyp1b_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dy77e2potvfggz02b4u5wwpxe3sql5

@@ -1,0 +1,13 @@
+#m_jada358_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qmYMYPxjiLTqqR6tfw6CF9DNgiKXb%2FKc4qbtcXVMRH8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:52:03+00:00	unique_id	e40c563b6383e16f
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:52:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:52:26+00:00	persistent	215239499%3A%3Asw9dxc1kzuw5e6jxk58bqwsqqomoet
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:52:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzk0OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4NzQ2LCJpYXQiOjE1MjQwNzM5NDZ9.NKrfRKLC66ChtpL-dFm46vZpoDNZPaWF642gWlDcVyA_yd5k3zN8Qj9ZhRHaEp9JrVJjCjYKrPYJIG2nKukSYQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:52:26+00:00	login	m_jada358_h
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:52:26+00:00	name	m_jada358_h
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:52:26+00:00	last_login	2018-04-18T17:52:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:52:26+00:00	api_token	9b8c5d3bd22df97418d030bebe34cf17
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:52:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1famFkYTM1OF9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNTk0NiwiaWF0IjoxNTI0MDczOTQ2LCJub25jZSI6IlNOSGlZNUY4QTVwS05qbGY1a0lyYjRFMDU3ZFZzUU43QTZBQ0hKV2kybkU9In0%3D.HUJ_c2rnyWeKu-K3IcTUc3g3IIdNpD2HYerJ2CFU2E0X4Wtuq2GHqLQ8KiyCpI3SLAmHfahPOhQaVaaXU_ls0g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:53:19+00:00	twilight-user	{%22authToken%22:%22hlohusu1v0j4rcpeabq5luf7ptegot%22%2C%22displayName%22:%22m_jada358_h%22%2C%22id%22:%22215239499%22%2C%22login%22:%22m_jada358_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:53:19+00:00	auth-token	hlohusu1v0j4rcpeabq5luf7ptegot

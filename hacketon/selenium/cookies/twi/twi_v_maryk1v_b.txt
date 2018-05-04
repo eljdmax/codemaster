@@ -1,0 +1,13 @@
+#v_maryk1v_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	lotum2tj%2F3UDIwARmGrqhVnrsElEUrICdmYCWZUVRII%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f49a37083d49a103
+.twitch.tv	TRUE	/	FALSE	0	persistent	217230377%3A%3Az3oenk8107eh2prhth3jqeakia4s4f
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzAzNzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjAyNTYsImlhdCI6MTUyNDkxNjY1Nn0=.xJ8tbBKRe5cM6MWKXc0v08zh4ID3dk1Y476NTcR1Ej6br0hsfjVZfKia5MQg9in6WEqk2cOb0W7uFOejSyf1gQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzAzNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIxNDU2LCJpYXQiOjE1MjQ5MTY2NTZ9.nXepRa8KVIBTr4QZPqzhVVpFP_1xi4mmLG-PlhmfDgrVuBrwun4CuUe27bIdizL3SZsW3cTQreQ4sJ5-P76FPQ==
+.twitch.tv	TRUE	/	FALSE	0	login	v_maryk1v_b
+.twitch.tv	TRUE	/	FALSE	0	name	v_maryk1v_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:57:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	10e6b3ff1db557f7d1792c85ccae0bb9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFyeWsxdl9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ2ODY1NiwiaWF0IjoxNTI0OTE2NjU2LCJub25jZSI6IlYyOHloY2kwamFhcnpSQmFRaW54RmNkcGp1RFFwY1Q1T2R1Vnlrb0xqMDQ9In0%3D.sfCKdbwBX5wxIWTGIUYTJ_0E3hLUs7MC1tS1qubg_Eolur8j8my96ddIngg1HSBtuYFhBOQbxmALTSGk-mQPwQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tpat737kiks2ha1v7d1056egho0icr%22%2C%22displayName%22:%22v_maryk1v_b%22%2C%22id%22:%22217230377%22%2C%22login%22:%22v_maryk1v_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tpat737kiks2ha1v7d1056egho0icr

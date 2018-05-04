@@ -1,0 +1,12 @@
+#j_erickf70_n
+.twitch.tv	TRUE	/	TRUE	2028-04-24T11:49:19+00:00	unique_id	c3e63b9ca1ec09ec
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tplVeaHh1jVfoZePapo0KLtpOy8igOLLmpZ1Ij%2B8QCw%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:57:55+00:00	persistent	216483419%3A%3A3lf36fhxcddpy4u42fbh9x99x9vr70
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:57:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODM0MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1ODc2LCJpYXQiOjE1MjQ1NzEwNzZ9.vM2tTp4N4XieUNR815E_dWH-jeXB5mHmR9dkSrurItnFvuGkauqozcdUeYBsk2w8PiiwKQKjOaYBuVsew1sDpA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:57:55+00:00	login	j_erickf70_n
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:57:55+00:00	name	j_erickf70_n
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:57:55+00:00	last_login	2018-04-24T11:57:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:57:55+00:00	api_token	1449f906a99940e4a22e9f46ca6b395e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:57:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZXJpY2tmNzBfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjMwNzYsImlhdCI6MTUyNDU3MTA3Niwibm9uY2UiOiJQMGVfQWlnaWwtYkRrb2hzYkNhTzFNZUhZcG9PcERhY1JKOXR1V3FDVHFrPSJ9.7rVf-kfdCNjxNEvEvV3mT1XvGT4twHCTVhGGNxuwn9bK4qr5ML1tK_IWfy58PEmNOf6GnUCVfZOB3vJUigATFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:59:15+00:00	twilight-user	{%22authToken%22:%22mj3g22andyep52eea1grgvsylhok2l%22%2C%22displayName%22:%22j_erickf70_n%22%2C%22id%22:%22216483419%22%2C%22login%22:%22j_erickf70_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:59:15+00:00	auth-token	mj3g22andyep52eea1grgvsylhok2l

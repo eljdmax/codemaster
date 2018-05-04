@@ -1,0 +1,12 @@
+#h_carterp6l_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wlykzapQhlnP4zRR7rrpFOLJacjRLx1AmuKXjAQOQzQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:44:50+00:00	unique_id	c19003cc2364863f
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:45:11+00:00	persistent	216937814%3A%3Akhpey6dx8y6xo0plf9skyugofnqswm
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:45:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzc4MTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMzEyLCJpYXQiOjE1MjQ3NzU1MTJ9.o0HT0xZ9pH8iG5qmPFmVl2d9sPiBahklyrsOzAiFacyD0NWM49BBwLdeX-9dKvT5wRihPRpFnYCemNrdwmN7Dw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:45:11+00:00	login	h_carterp6l_w
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:45:11+00:00	name	h_carterp6l_w
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:45:11+00:00	last_login	2018-04-26T20:45:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:45:11+00:00	api_token	8c20b1eca946cc74ca64685914ce0d19
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:45:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfY2FydGVycDZsX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI3NTEyLCJpYXQiOjE1MjQ3NzU1MTIsIm5vbmNlIjoicFJnWHNmTFM3OUNkLU93UEVXSFBQbU1jdTNHVGhzTFRLRzZrdFlFRjZPbz0ifQ%3D%3D.KP1shCuWr0SwYNlqoeuQT3F3n0S2S8OYx5B4kGPxBWDgWuaDv1ZBMU8mO8j2lypcelkeyheqwz0Elf2E-yV-bQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:46:42+00:00	twilight-user	{%22authToken%22:%225yu29irs0tre7ftqm9o45aaqs3igqv%22%2C%22displayName%22:%22h_carterp6l_w%22%2C%22id%22:%22216937814%22%2C%22login%22:%22h_carterp6l_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:46:42+00:00	auth-token	5yu29irs0tre7ftqm9o45aaqs3igqv

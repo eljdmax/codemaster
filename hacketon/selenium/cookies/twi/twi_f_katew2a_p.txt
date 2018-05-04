@@ -1,0 +1,13 @@
+#f_katew2a_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	93YzOTwxTjAg1%2FinhbYoVZ0gDcaFCaeEg8hIi3PxxAw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	289a029d1bce4eeb
+.twitch.tv	TRUE	/	FALSE	0	persistent	217485959%3A%3A3i2uharcywiz9gjy2oggmuegh1eak2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU5NTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTUzNjcsImlhdCI6MTUyNTAxMTc2N30=.h1smkMNbu9NhhoewmCVrbczRxWsZdPXWw5-SGyoeK7CsBzVA1PLsGbNFdpZhtfPQQroBu4MBARElsLYY3LRSQw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU5NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2NTY3LCJpYXQiOjE1MjUwMTE3Njd9.t4FcdWMBvlx5l1g-obRAVExUPSv2OSrjY42hEqopa4ZdC2OsCFhpohYReuLF7FRoAWcWjQi8oBsho_lE-Qevew==
+.twitch.tv	TRUE	/	FALSE	0	login	f_katew2a_p
+.twitch.tv	TRUE	/	FALSE	0	name	f_katew2a_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:22:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7d48a24a93be757b14f8b4bcfb2e0b91
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfa2F0ZXcyYV9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2Mzc2NywiaWF0IjoxNTI1MDExNzY3LCJub25jZSI6IkR1OENVYVlFcUFONWY4Nm5Vc0dnSVRnallFaTNDQjZ4NlhmWGRITE5QeUE9In0%3D.aJyB94swY1h9r8nECjTN_zd9EZJAcl6QaJQ9IpFrQzfgJChlavSdgLluSzME7BcGpGkBzInw5dCBO02syAuyoQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kqia6nd34lab9vmcr0pra39p5lqatc%22%2C%22displayName%22:%22f_katew2a_p%22%2C%22id%22:%22217485959%22%2C%22login%22:%22f_katew2a_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kqia6nd34lab9vmcr0pra39p5lqatc

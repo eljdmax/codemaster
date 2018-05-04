@@ -1,0 +1,13 @@
+#n_migueln7c_u
+.twitch.tv	TRUE	/	TRUE	2028-04-21T13:02:55+00:00	unique_id	6223a8c91c479a0f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wRgt9P2ECyfexuowdPQ%2BiT%2F40Ccgz%2Biq5o73QfysE8A%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:05:39+00:00	_twitch_session_id	94df981acdea9bafe2fb986ca467c62e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:05:55+00:00	persistent	216484189%3A%3Aci3lkwzgu7g6l7aduwmuagcqsvj6gq
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:05:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQxODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2MzU2LCJpYXQiOjE1MjQ1NzE1NTZ9.x_pY887Hg7p8KgpDtop53Es3lF13-l2yf1SvvJyfX5wMBl9B3Sze7nEqD8R31WjpV2nfjXAWtHiUN7RFcGD8DA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:05:55+00:00	login	n_migueln7c_u
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:05:55+00:00	name	n_migueln7c_u
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:05:55+00:00	last_login	2018-04-24T12:05:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:05:55+00:00	api_token	21c5d9b6533a83d2ccb944a3e370be42
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:05:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbWlndWVsbjdjX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIzNTU2LCJpYXQiOjE1MjQ1NzE1NTYsIm5vbmNlIjoiZkhNVTh4ZHpRejRVVUpyYTdoVmFQUmx2Vk5GVGVwY2hZTkxid0Uwc1kzTT0ifQ%3D%3D.87VBBTJjjga4z4w0k1bd7MUrM5wPO9Tm8MZFKyvGiwSvGZt7ZHu2H64FcyxeWUh3AHzKi4zq2i4_I1Tab6K0Ow%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:07:14+00:00	twilight-user	{%22authToken%22:%22wj78tnnfucfm501uwkk7ew78fkcduc%22%2C%22displayName%22:%22n_migueln7c_u%22%2C%22id%22:%22216484189%22%2C%22login%22:%22n_migueln7c_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:07:14+00:00	auth-token	wj78tnnfucfm501uwkk7ew78fkcduc

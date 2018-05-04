@@ -1,0 +1,14 @@
+#h_natalie621_y
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:05:16+00:00	_twitch_session_id	1339618c195ccdc26e8d9228c45202f8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	MLSl34bXNt3AhR9P%2BVKjVH0CZMhHQ6ZjMI9%2FJzvTgEU%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:05:33+00:00	persistent	216474023%3A%3A4w36olzrw6pw1xrbptnbvkm6mqvh9s
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:05:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQwMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5MTM0LCJpYXQiOjE1MjQ1NjQzMzR9.z54XA-Fck8YFGnNsaE5F-ar8Ya6nP9GVrCLq2Z7ENtCbOU1Pdj5yW07eW1drAxOAEEJTyUZYIdYAnsULUZAuNQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:05:33+00:00	login	h_natalie621_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:05:33+00:00	name	h_natalie621_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:05:33+00:00	last_login	2018-04-24T10:05:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:05:33+00:00	api_token	eaa239bc4fdc81386616ba27e8995e3d
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:05:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbmF0YWxpZTYyMV95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExNjMzNCwiaWF0IjoxNTI0NTY0MzM0LCJub25jZSI6IjVDaWlGYkFtSE1lT1RDODZ1RUlPZW5uRmM4RkRMR09BWWFya1pFSmwzX289In0%3D.m_mg7K_F1JNgzJo6ewTzpmI1CAdlYpYC3xz56CPDKZNHLzL0tptV1ZBpN36qTqQU6aF_0JD7_ms4yLe33TbeHA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:06:55+00:00	twilight-user	{%22authToken%22:%22p4la6ax7zh271slnbyzxgmyv0ivuru%22%2C%22displayName%22:%22h_natalie621_y%22%2C%22id%22:%22216474023%22%2C%22login%22:%22h_natalie621_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:06:55+00:00	auth-token	p4la6ax7zh271slnbyzxgmyv0ivuru

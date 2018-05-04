@@ -1,0 +1,22 @@
+#j_angelinar35_y
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Vm%2Bn4Yl0iQvryAbknrNRzh9M7XPS8h36neHWwPWShhM%3D
+passport.twitch.tv	TRUE	/signup/	FALSE	0	_goji_csrf	MTUyNDg0ODI1NnxJbGhoWW04M1preEdTemd5TUd4SWN5OHdWVlowY1RGV2JXOHlZVVJZV21KamNuRndUMnM0Y0dZd05HczlJZ289fMkDwgwAbUiRDa39aglApsWQyiHym-icaUBqZ1KSfxFF
+passport.twitch.tv	TRUE	/	FALSE	0	passport_cookies_allowed	
+.twitch.tv	TRUE	/	FALSE	0	persistent	217070120%3A%3A6rxuvcqd32mqs6flahuvual3jlp500
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzAxMjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4NTE5MTQsImlhdCI6MTUyNDg0ODMxNH0=.a1wQHkZVwlNq09BObwd9DBUjTNH57Blc3GvTSV-yKmL0GcfeJ7xzx4qT-4GNZeuFuiREzone89IItR7aiCyiCw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzAxMjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDUzMTE0LCJpYXQiOjE1MjQ4NDgzMTR9.y71I3HM8LXAj0CYpEV5Uqm0Afv-gCUip9wo7pxdHwDPsB98YJEuGDZjKfXk4sy1YGsNG8dc8iU1HX00iYSSRNQ==
+.twitch.tv	TRUE	/	FALSE	0	login	j_angelinar35_y
+.twitch.tv	TRUE	/	FALSE	0	name	j_angelinar35_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T16:58:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	589c78dabe6057b3432b8843cd33054b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYW5nZWxpbmFyMzVfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDAzMTQsImlhdCI6MTUyNDg0ODMxNCwibm9uY2UiOiJiMzlNMWZ0M2ZSR2lYUFV6ZWlBbk1NekxUZjFEUC0zTDFiemxucjlVWHlrPSJ9.ndDSTbc9xxVcj_0cviwcvE7GtSBR3Uu1ZyY8hJY2SYjC1nkK3WCivT_P-7WlerMm2gpnAbfqL5sQwIxqPoweTA%3D%3D

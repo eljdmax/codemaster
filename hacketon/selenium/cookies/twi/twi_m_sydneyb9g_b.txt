@@ -1,0 +1,14 @@
+#m_sydneyb9g_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	N3O%2B%2Fx9HQVO5iQUSkvwL%2FBUffVvezNp%2BFVMYW8oSTfs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	84c3c62b9d01f335
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	17ac7e0e3731f4372b3186296735503a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217263904%3A%3A391x4ebqh5ah2t9k85rg7l9iuoeguj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjM5MDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzExMzksImlhdCI6MTUyNDkyNzUzOX0=.8mvbK_E9GCRHKwQM0Ca87sWTLau189-DeLNwoeKs4fj3FtI66vXyc6Z9xcj61k07i21_bdznEbMWXRPUuYIK8Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjM5MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMyMzM5LCJpYXQiOjE1MjQ5Mjc1Mzl9.oMF3fqXDSXJsMzRTlCEBJay2NclHnoTaxHHIOlTlk1mIpxt8fJSewW3__XQVNLnoOihKHqlne6Hl0nvSzPk9iQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_sydneyb9g_b
+.twitch.tv	TRUE	/	FALSE	0	name	m_sydneyb9g_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:58:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c15410eca452f267142a6502123f2091
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fc3lkbmV5YjlnX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc5NTM5LCJpYXQiOjE1MjQ5Mjc1MzksIm5vbmNlIjoiU1ZKWUZQRkdhZFE1dkJibzV4Qk1zUTRGa3o3X3ZHM215VkZkOXRsZFhOND0ifQ%3D%3D.EX2SgVGNOkpHirmWY7jU3b9e9M5aOxqQ39vZ0sc1Z32jzbcGhjq_XAUIK-tEZryMQG_BBCf3sRDYgaU3hMNr-w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zfmkxr97sfpr7ya2aknktxrs6a9sd3%22%2C%22displayName%22:%22m_sydneyb9g_b%22%2C%22id%22:%22217263904%22%2C%22login%22:%22m_sydneyb9g_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zfmkxr97sfpr7ya2aknktxrs6a9sd3

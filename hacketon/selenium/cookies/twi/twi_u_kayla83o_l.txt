@@ -1,0 +1,17 @@
+#u_kayla83o_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WiE5fxyiEYSpjUdQQgCLUktAabxzhk8YfaEZw20P%2Fy8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8470a83e57d58f9e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	075c5154ff168e0bd89151ba7776bfb0
+.twitch.tv	TRUE	/	FALSE	0	persistent	217231283%3A%3Agdr0lv5hufgod4rylau8c1hbwvee4l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzEyODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjA2NDEsImlhdCI6MTUyNDkxNzA0MX0=.MuHYX1ExXX-HokseyIcGLtlLEbVr_hEloy3wLctrrtLE2wEUTcsztSmoa7Horh0okO_5DLBG0xw3-iuTNZlelA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzEyODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIxODQxLCJpYXQiOjE1MjQ5MTcwNDF9.Hb8fE2LJ4gAYZ1SqzMiBRAEhmQuHqLC70enDJkOIs6vQOdpWGXmw4uqL4OOB-LgM3iubt6t9msrMBoOQUzle5Q==
+.twitch.tv	TRUE	/	FALSE	0	login	u_kayla83o_l
+.twitch.tv	TRUE	/	FALSE	0	name	u_kayla83o_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:04:01Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	afebb78e21fa046f3639496bec115555
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfa2F5bGE4M29fbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NjkwNDEsImlhdCI6MTUyNDkxNzA0MSwibm9uY2UiOiJQTFlONGpQbG11ZWd5dl9CRVR6STZFMzJqZlRNRmE4ay1obDN2YUtycTFZPSJ9.y3OerDBdDZeCvwjuqksJvKfhnTvNSYMyczDA5fzuqfYjiMpgpt9DpIbwTCbP4Irfwp3HCGR2-5hoMyvXjss_ZQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=312e9ec7ca7d0c66:T=1524917046:S=ALNI_MbFAedVxPlB4FT94jiPDw4C3DRqdA
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	eK1aUiauVgMqXrJkuyv0akEp02rhM88J
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ5MTcwNDksIm52IjowLCJ1cHQiOjE1MjQ5MTcwNDEsImx0IjoxNTI0OTE3MDQxfV0.
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mryyaj3z8nx0fcd2s1bn3b8q2zngqd%22%2C%22displayName%22:%22u_kayla83o_l%22%2C%22id%22:%22217231283%22%2C%22login%22:%22u_kayla83o_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mryyaj3z8nx0fcd2s1bn3b8q2zngqd

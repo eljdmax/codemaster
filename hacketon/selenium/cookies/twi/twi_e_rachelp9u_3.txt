@@ -1,0 +1,14 @@
+#e_rachelp9u_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qIoGJh5aHmpuMz7LMKGvmAOyHC1oAH%2BQFERriWfxvaY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2d087f984464aa91
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1fb9451157ec0afcaefd3b4960ca86d9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217947802%3A%3Aqqj28pppuk7pa410a2moycn0yhkygt
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc4MDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc1ODQsImlhdCI6MTUyNTE5Mzk4NH0=.XX1gweAfN9_FKpB7I2YpiveQHAUBCx4EK4_cWqd-nSJMDZv5kgR78g-lZo6YYy4ZpCBC3pCTasuLqctb7c5AIw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc4MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4Nzg0LCJpYXQiOjE1MjUxOTM5ODR9.1oW3p7PpchXPNsMjjt67IE9LtsTEQWCcknvUsWYqQDrqlkd7FYVn8HfwoP10C2BvWgJMbD6rCGSGarbvU5k6Aw==
+.twitch.tv	TRUE	/	FALSE	0	login	e_rachelp9u_3
+.twitch.tv	TRUE	/	FALSE	0	name	e_rachelp9u_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:59:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f4061fccc664a76e7547b4d3ebbc378a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfcmFjaGVscDl1XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ1OTg0LCJpYXQiOjE1MjUxOTM5ODQsIm5vbmNlIjoiNVk4N0tJY2NxMlVEb3pqYWRtS3BUR3NXbXFwcDBfUWl1Y0dfMnZIbU9hND0ifQ%3D%3D.SbMQItTTeewK0wfhOogJUFi3oa2HMZBvv1tr85_a9aOwtUKPtyNvPpdRGPPJHMaK7vyL2yYzXtybWdaCGxQxZg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22oawbyqm3bsp2f79cecym9439qy2t79%22%2C%22displayName%22:%22e_rachelp9u_3%22%2C%22id%22:%22217947802%22%2C%22login%22:%22e_rachelp9u_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	oawbyqm3bsp2f79cecym9439qy2t79

@@ -1,0 +1,12 @@
+#n_jaker74_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NyT256m3mRq92uqQ192fpfEM8tCq5Z2zmcEAzZOd3l0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:06:42+00:00	unique_id	3b104666d8dc6b02
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:07:23+00:00	persistent	216491114%3A%3Amdensot48fhamo8n2eubra6aow7ktk
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:07:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTExMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMDQ0LCJpYXQiOjE1MjQ1NzUyNDR9.iYDQh-7JAiU9XIiIrzHgxcMhBF_X_QRbadUVSc5K4QOqONWyIa7y7nY6rqCpo3HosYZHXcb99mzrPXPYbKncAg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:07:23+00:00	login	n_jaker74_e
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:07:23+00:00	name	n_jaker74_e
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:07:23+00:00	last_login	2018-04-24T13:07:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:07:23+00:00	api_token	5611c1710d2a5845f66e653b509bc29e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:07:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5famFrZXI3NF9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNzI0NCwiaWF0IjoxNTI0NTc1MjQ0LCJub25jZSI6IkxuZHdDSGFQYnN3S1VvQmhfXzc5Sk5sUDc2eFg2dUE2MnJ3WGJocV83WjQ9In0%3D.pk6oe03L_9CEJChmQ_YHmrrMuWM3Axzt6syrF3CT20kI0J69zr0VKVeWp0TSWITPtxtC3R3bHd5uaKUbqZl4Sg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:08:44+00:00	twilight-user	{%22authToken%22:%22pxtt80nlxo47g6iajkwutfvbj1tf2m%22%2C%22displayName%22:%22n_jaker74_e%22%2C%22id%22:%22216491114%22%2C%22login%22:%22n_jaker74_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:08:44+00:00	auth-token	pxtt80nlxo47g6iajkwutfvbj1tf2m

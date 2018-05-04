@@ -1,0 +1,14 @@
+#x_mary38h_1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0SZIlZuH5YoxhgjjVdq0Abs5TMDG8Qwm%2BBPndEKQHlQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0d2907a718376662
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	26d5c7f6d83164eefbf4c2f9f348c699
+.twitch.tv	TRUE	/	FALSE	0	persistent	217938633%3A%3Azx3511n86l5qxyjn4sk7h7j1u07gt1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzg2MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQ5MjAsImlhdCI6MTUyNTE5MTMyMH0=.sTisWL_0fW0MpYN77_9mrUs0lNKPzr_clWvOubREOTytr8Jd0Qs8vwyFGh92R2LbIq2PXpTBgNMF-zwBhDEf9w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzg2MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk2MTIwLCJpYXQiOjE1MjUxOTEzMjB9.PaKrqGupETXj5_vB35GflLUm7rXSBCR5fyQnHz79rdrjCgJK0mg01fS3kKtvlbcGHl2pRdF60WMnLKq8dbFu8A==
+.twitch.tv	TRUE	/	FALSE	0	login	x_mary38h_1
+.twitch.tv	TRUE	/	FALSE	0	name	x_mary38h_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:15:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	adc173aae85e90696f8696f06b891de2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbWFyeTM4aF8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0MzMyMCwiaWF0IjoxNTI1MTkxMzIwLCJub25jZSI6InFHVXR2aXBvRHY1M3dKXzlNRlpfeU9nLUhBbU5JTGdNSUkyNVhENEFNcmM9In0%3D.wkrwRc0ylYIfRsj9tgWvsZDnz2XQcHOYNZHXj7QgZrPbWfkosDWP2fsZPEj_vERHUghsVA3oFjk3jIUnEumO4w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22d7avqe13veu1wvzodslfxmtsop37w3%22%2C%22displayName%22:%22x_mary38h_1%22%2C%22id%22:%22217938633%22%2C%22login%22:%22x_mary38h_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	d7avqe13veu1wvzodslfxmtsop37w3

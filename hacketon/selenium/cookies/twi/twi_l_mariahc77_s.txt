@@ -1,0 +1,13 @@
+#l_mariahc77_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NLn6WR0e9IIH8nxAFx9rmN%2Bet%2FpxyR%2FTtVoMamjoDOQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1f43fed4aeacafd4
+.twitch.tv	TRUE	/	FALSE	0	persistent	217254864%3A%3Awgyme5dbdegsrii9qqkvsp5mxpeikn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTQ4NjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjgzMzUsImlhdCI6MTUyNDkyNDczNX0=.tvqBgU5LKn1btiI0PCUdeR_Mr1F_u9-urj_4rKDRt4RYRrDZOhS5UF2RniL-f5iE7BMYSw5PiBvrO6vghtAcIA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTQ4NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5NTM1LCJpYXQiOjE1MjQ5MjQ3MzV9.qMqV9yiCuGJmoDgKEopXXD3_mO0T799H3ZogPzmoqUyshCnDGXP67BzSn0pcjcRDAEP5Id9_9xPk74lwBt7YxA==
+.twitch.tv	TRUE	/	FALSE	0	login	l_mariahc77_s
+.twitch.tv	TRUE	/	FALSE	0	name	l_mariahc77_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:12:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5c84e4fdbcd3cee093823a1e3871dc42
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbWFyaWFoYzc3X3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc2NzM1LCJpYXQiOjE1MjQ5MjQ3MzUsIm5vbmNlIjoiNkZFYVl4OVdMaGxzSjNaQUJvdXdCSEp5SFpZNE9ReDdmcE9PM0s4SDRvTT0ifQ%3D%3D.aE5z8QkzM8h7eE7m2Kw48QVJ41plI7DLIKa-K01MK0D6QM1WL-fPh7gOn8bjBs-fTHKI_d0WHVTEN18wGzA55w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2248muk2ulqtia0iz9cuz7sri4d20x42%22%2C%22displayName%22:%22l_mariahc77_s%22%2C%22id%22:%22217254864%22%2C%22login%22:%22l_mariahc77_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	48muk2ulqtia0iz9cuz7sri4d20x42

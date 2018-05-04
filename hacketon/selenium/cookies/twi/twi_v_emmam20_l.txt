@@ -1,0 +1,13 @@
+#v_emmam20_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wK5irzKYbiXtw5VuR%2B%2FWrDnEUazVGdl9RMYRAh1ndkQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:44:33+00:00	unique_id	078b23d58905af85
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:44:33+00:00	_twitch_session_id	190f62d2b33287f8f1d812faa124c5b5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:45:06+00:00	persistent	216477160%3A%3A8zhgn15v7tucurmhk7fu5841gvfiuh
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:45:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzcxNjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNTA3LCJpYXQiOjE1MjQ1NjY3MDd9.L0gSLMzpyOHLq99BZs4_TX9LvSuUar99tQ--lEz-DVOkL-tOrIdwQ9_SQT_h8fuH8pOE97Qbtdo0lJDaiyZuCg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:45:06+00:00	login	v_emmam20_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:45:06+00:00	name	v_emmam20_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:45:06+00:00	last_login	2018-04-24T10:45:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:45:06+00:00	api_token	ff207d6144fd7e319c4939e438ac99a3
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:45:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZW1tYW0yMF9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODcwNywiaWF0IjoxNTI0NTY2NzA3LCJub25jZSI6InJyREJvXzN2ZmFoRjRxdTdIM3BNV3dKbHVISkFlNUFhdnZhNmpYWlNwRkk9In0%3D.6h8VLY6poIFMmOnkkBQ9tYd-y6Vrimgk62ZhnYWnElHejjgu0qebyOmnJkYyG6owQb9k_0zIgheXUPPqOt9syw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:46:27+00:00	twilight-user	{%22authToken%22:%22sz775hx3yrh411ap408gh2xpo3rvl8%22%2C%22displayName%22:%22v_emmam20_l%22%2C%22id%22:%22216477160%22%2C%22login%22:%22v_emmam20_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:46:27+00:00	auth-token	sz775hx3yrh411ap408gh2xpo3rvl8

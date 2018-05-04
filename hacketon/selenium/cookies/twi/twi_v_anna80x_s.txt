@@ -1,0 +1,14 @@
+#v_anna80x_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EDhFqc9JXrMWATuE9nVZ%2FTILGTCkzJSXzJzcK9%2BvdeQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	12f97799ab6d5938
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e6a82fe86c7123fbb9f4176656bab14e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217896353%3A%3A4usctky2qiz81pp5ph01nsl2dt6zlc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTYzNTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk3NjMsImlhdCI6MTUyNTE3NjE2M30=.oLZMXbg9yufakm-Sqh8-0Xxf039AI7rFmJJ85ejtJBrZbRd0jGSrYw69O4CJm4sAXp3OY8iWg52btWGnLr3Zew==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTYzNTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwOTYzLCJpYXQiOjE1MjUxNzYxNjN9.kSzdRr2HI1cxK1fp5sAy4RxaXoRXo298G7Q9r4O1-1hSS_xwQl_O043EV4HetrgDGk4ps8d_kQJ3tUvc7qGgCw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_anna80x_s
+.twitch.tv	TRUE	/	FALSE	0	name	v_anna80x_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:02:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2e2dbed481b9d7dd1ff374789f75ca9b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYW5uYTgweF9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyODE2MywiaWF0IjoxNTI1MTc2MTYzLCJub25jZSI6IjBIR2JvbVE2anY2YnJPemlILXJrMzRYU25RdE54SkJHLXd4VWllTFViR1k9In0%3D.hkSV0qVMZF92z1yhS1EWTT_oOST26yzBajOaEdUjaLu9SwywCtK1aaiKalm8Q9W5lV_ZXIPmVwAi-t1oYjnFQg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2298hkp131bzdle4edelkcxpags63glf%22%2C%22displayName%22:%22v_anna80x_s%22%2C%22id%22:%22217896353%22%2C%22login%22:%22v_anna80x_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	98hkp131bzdle4edelkcxpags63glf

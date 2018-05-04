@@ -1,0 +1,14 @@
+#z_joseph349_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5820ee6f5a9cf0d5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xSoiporoB8odh9ybIEuYt6fo7UtsxQPBMlKw9PSXxjY%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	550bb9290d2055cab43a87c3055ec679
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893015%3A%3Atrkcco3ycaarkexkw121eayyaijee7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMwMTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzgyNzAsImlhdCI6MTUyNTE3NDY3MH0=.roNNg0RtNHLCWxNY1ZprYffT7NJZz9s8RDD62wJa7d97jw-Cp-y7b4tDCNOmOp8gBg_Y59IpKGey69XipicaZg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMwMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5NDcwLCJpYXQiOjE1MjUxNzQ2NzB9.Q7Uwu1Coaz2Ez60QQz-cWsZErehA7mq-7584zvRxiGlejALhrvuvN4pKOLyj8UiIddwTNNQrB7GZfRGufrojMw==
+.twitch.tv	TRUE	/	FALSE	0	login	z_joseph349_1
+.twitch.tv	TRUE	/	FALSE	0	name	z_joseph349_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:37:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a15a1b2267ee3d179b2ded911ad0a049
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfam9zZXBoMzQ5XzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzI2NjcwLCJpYXQiOjE1MjUxNzQ2NzAsIm5vbmNlIjoiT2pkZmZLZnNDUlBRU2E0SFFzQ1dld1B3VVpXOVpKMDRhbkJ3X2Q0dk9scz0ifQ%3D%3D.Yo-jWmd4mxp74VP2cCuqP6vmGkXZBIXUjLsz1GYCc3VhKG_-iroRa5H9-F20iOPjGCf9CiN53jzqAdA6iVtQEg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22um0jktv4z5eu7h543sbxbv6fm8m43c%22%2C%22displayName%22:%22z_joseph349_1%22%2C%22id%22:%22217893015%22%2C%22login%22:%22z_joseph349_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	um0jktv4z5eu7h543sbxbv6fm8m43c

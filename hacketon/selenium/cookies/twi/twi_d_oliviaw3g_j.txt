@@ -1,0 +1,13 @@
+#d_oliviaw3g_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GLnztXtrVCfZPIupaBoeYr6vPCMYIHDh%2BjfiMp1J6Zw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:27:13+00:00	unique_id	a78b31958b9d8af9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:27:13+00:00	_twitch_session_id	41fefac47b08b2054ae82c554a405152
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:27:35+00:00	persistent	216135620%3A%3Atlrwwk1j6mbxj8aeb29ajg439yklon
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:27:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzU2MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3MjU2LCJpYXQiOjE1MjQ0MzI0NTZ9.WGAsjXhx1k34nTGwY7ok7TmIgKfLYG4l2RKddPwf9KRK4Dn9ZBzgBVHvFJqgpWsn5TK7Oqe7Rq7JwiwnR1_FYQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:27:35+00:00	login	d_oliviaw3g_j
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:27:35+00:00	name	d_oliviaw3g_j
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:27:35+00:00	last_login	2018-04-22T21:27:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:27:35+00:00	api_token	9689c7ab179d2907e66195cb2faa85ce
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:27:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfb2xpdmlhdzNnX2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg0NDU2LCJpYXQiOjE1MjQ0MzI0NTYsIm5vbmNlIjoiTTdnd3k4dlZpRHN2MUhobGFheFRNVk5Vb2pISUNtd0IxVlNHT2VscDYwRT0ifQ%3D%3D.c2DxHa5BTrl0xmgF7XV9GF0VQp09X25BryOvOhrvO6a7Krizmid6vQJ690yf5mKkpRt7TgGxYAr9I17O4nC3-w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:28:48+00:00	twilight-user	{%22authToken%22:%22i06eg0lunb4gqdxh44r0xmw6j7ac3g%22%2C%22displayName%22:%22d_oliviaw3g_j%22%2C%22id%22:%22216135620%22%2C%22login%22:%22d_oliviaw3g_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:28:48+00:00	auth-token	i06eg0lunb4gqdxh44r0xmw6j7ac3g

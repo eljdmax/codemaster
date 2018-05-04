@@ -1,0 +1,14 @@
+#h_donovane16_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	OVX5%2FXrIt4Ly5UZy%2Fwx1Xqh%2FjrfIlJb3Lh5L8%2FfPa80%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	460f8b94b4623600
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c7f6390a60b10c5cc722f827e8456ecd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895736%3A%3A6t8vbg4gxm3tc60nacgc752h3h5bit
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU3MzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk0OTAsImlhdCI6MTUyNTE3NTg5MH0=.qPze40FTLqDogrVjs7M-v-2CAkRwZF4nQXJqCu5b7p7tf5ES3O9VSvoEjjcNRheLjedBWs62iGnr-Mexh_maKA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU3MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwNjkwLCJpYXQiOjE1MjUxNzU4OTB9.dUgf3-iPEzQ2FgO_3SZhKXJWBGO9_3T6QRIoqakIWnlFCPpFQLRCMX6g74a-Wdgff276ALJ4-K84YWAumvJF3g==
+.twitch.tv	TRUE	/	FALSE	0	login	h_donovane16_k
+.twitch.tv	TRUE	/	FALSE	0	name	h_donovane16_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:58:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d4b4d92fac47d98a2bfc437d1297d474
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZG9ub3ZhbmUxNl9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNzg5MCwiaWF0IjoxNTI1MTc1ODkwLCJub25jZSI6InBCZDNCMHRpR2Z2eHRfTk5Ma1A0VDljSHZvN1FBOU9nYkY3cEZnQl96QzA9In0%3D.3DmTMHGEd9AkPt73Yhml0aKwN_S8avB8V1W2Bl2NON4DDtihGBVFnorQbV90t8A5iv7ogDCJ-BQOjMvMZKU1Eg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ksm87xrkgvepq5pxvbvpcppu8uxntf%22%2C%22displayName%22:%22h_donovane16_k%22%2C%22id%22:%22217895736%22%2C%22login%22:%22h_donovane16_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ksm87xrkgvepq5pxvbvpcppu8uxntf

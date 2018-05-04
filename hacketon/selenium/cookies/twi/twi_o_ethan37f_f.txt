@@ -1,0 +1,13 @@
+#o_ethan37f_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pDKFFJKGb3FXkQs%2ByISI6w%2FrTsxzQaaKds6ZkufXSK8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:09:25+00:00	unique_id	68daad3f4174f535
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:09:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:09:40+00:00	persistent	215242793%3A%3Apwk39woiajbeckzw0zhddzva7a4phz
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:09:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDI3OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5NzgwLCJpYXQiOjE1MjQwNzQ5ODB9.OfHKTL1FR1c2s9SbPfS1BA_Plwn2Ay0_6oTlqsY65-91JvjUeXVqEmJNNNBg-dccN6IeV-k8AZ7gJCr7WzAqvA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:09:40+00:00	login	o_ethan37f_f
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:09:40+00:00	name	o_ethan37f_f
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:09:40+00:00	last_login	2018-04-18T18:09:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:09:40+00:00	api_token	29c1542dba0441faed818d598469da7a
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:09:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZXRoYW4zN2ZfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjY5ODAsImlhdCI6MTUyNDA3NDk4MCwibm9uY2UiOiI1THhtdFlXRTBPWVpXWXlQdXZxWXB5bEtBQUt2ejRDLUtUMjltd3pQeS0wPSJ9._aWxkxrp4r2y7vcA0Pb-M1HXMAb1m2ntI-vWmGoZIsOWPrmzJDanNixQwN2a864JSQhg3A2B31y2xrNrG2xsLg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:10:33+00:00	twilight-user	{%22authToken%22:%22zbx6te2bsewy91a4ek35wqtcn7bl3u%22%2C%22displayName%22:%22o_ethan37f_f%22%2C%22id%22:%22215242793%22%2C%22login%22:%22o_ethan37f_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:10:33+00:00	auth-token	zbx6te2bsewy91a4ek35wqtcn7bl3u

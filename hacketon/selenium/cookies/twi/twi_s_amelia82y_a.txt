@@ -1,0 +1,13 @@
+#s_amelia82y_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4Yzlrh6sGYTzPCmO64Tcd5hTwdXRQ7fueGWEQksFsMo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:33:44+00:00	unique_id	a4d9aa1b235610a0
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:33:44+00:00	_twitch_session_id	991673b40880197613d404f363ffa643
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:33:59+00:00	persistent	216935606%3A%3A8xowcj36e9wfnrffuowb42b77jnrf9
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:33:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzU2MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5NjM5LCJpYXQiOjE1MjQ3NzQ4Mzl9.NqHL7RZR9E5F10fC_bfJfzUFxO5k6XVTDsQiya14VbCBQdrcXyNO6MzfvwLWP0hE3pj8ukOzI91cpFjnkuouHg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:33:59+00:00	login	s_amelia82y_a
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:33:59+00:00	name	s_amelia82y_a
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:33:59+00:00	last_login	2018-04-26T20:33:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:33:59+00:00	api_token	5b35e70fb919e9354945c3330584ff41
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:33:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYW1lbGlhODJ5X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI2ODM5LCJpYXQiOjE1MjQ3NzQ4MzksIm5vbmNlIjoiMnlwVDVBQmtheFA0eHNxWWVXazdYNmJ4eGxzZE92WUxIUmhzSmhNUWR2TT0ifQ%3D%3D.O8gjZqE7ATU-hrm971cprtMXjIfAyu23QEWZMwID2wrh_VTwCEMYQ5jVBtKu4qJfkI-kJPRBXf0vUVQd4RvSyQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:35:30+00:00	twilight-user	{%22authToken%22:%22uc7qpy9lqhotxr7o61tgidd7c7ou34%22%2C%22displayName%22:%22s_amelia82y_a%22%2C%22id%22:%22216935606%22%2C%22login%22:%22s_amelia82y_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:35:30+00:00	auth-token	uc7qpy9lqhotxr7o61tgidd7c7ou34

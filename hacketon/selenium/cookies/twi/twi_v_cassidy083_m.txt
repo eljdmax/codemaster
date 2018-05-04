@@ -1,0 +1,13 @@
+#v_cassidy083_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GeiAPvfY9bpv3i640%2FgeDZeX1AC8tqFFAbYm7WZNzFc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:24:47+00:00	unique_id	cb6a205232298363
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:24:47+00:00	_twitch_session_id	82587fbe57e4d2ca09e31efcfe4e0c2a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:25:07+00:00	persistent	216475509%3A%3Arowjfjjr08g9s3tr33fiay1m29ro9k
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:25:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzU1MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwMzA4LCJpYXQiOjE1MjQ1NjU1MDh9.sBBOWmvhfchv_W9-UvpVXmNgLDwV68AJWRKm7rhcW3MnNjCrZ95wpe19W5Z251un8Mc7eEs6gHSs7llqyFUSdQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:25:07+00:00	login	v_cassidy083_m
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:25:07+00:00	name	v_cassidy083_m
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:25:07+00:00	last_login	2018-04-24T10:25:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:25:07+00:00	api_token	51edce35c1407ddb342c98c271cc2e1b
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:25:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2Fzc2lkeTA4M19tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExNzUwOCwiaWF0IjoxNTI0NTY1NTA4LCJub25jZSI6InVCakJqd0o1RVlYNUQ4a1E5WUZGMzFOS0RTUXNTZ0RSUjNqX1pQTXBwV289In0%3D.SFveMzLH5DQjLlxh9wSwyN3WfRWAi6ZJD6VMeeevje9lQ4LfIXXl9FEmM1UO2dvbXrSIPSYbPFlBbOse-dVQJQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:26:26+00:00	twilight-user	{%22authToken%22:%22gz40gxh4znqrpehxhh39sm11l3wq7y%22%2C%22displayName%22:%22v_cassidy083_m%22%2C%22id%22:%22216475509%22%2C%22login%22:%22v_cassidy083_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:26:26+00:00	auth-token	gz40gxh4znqrpehxhh39sm11l3wq7y

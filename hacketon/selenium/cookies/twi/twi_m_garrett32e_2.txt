@@ -1,0 +1,13 @@
+#m_garrett32e_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JJpXLOuscJe4OmqsvPFDc2sDsGOwQjBbci5g%2BQrnmr4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:14:15+00:00	unique_id	bbf57f32ec4c272c
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:14:16+00:00	_twitch_session_id	ee214f9f66757449800cd96479daff78
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:14:31+00:00	persistent	216144368%3A%3Ailhnn0bq7za09bgxjfc1ryj9m7nb0q
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:14:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDQzNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwMDcxLCJpYXQiOjE1MjQ0MzUyNzF9.QZEWgM3e0zig86WyPVePGSpJ-Ivms_g-072gmN0jQTO8kXtE_KTSU9MFRJLwDUAE4smzCMZE9lYMZPZ_r0z1cQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:14:31+00:00	login	m_garrett32e_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:14:31+00:00	name	m_garrett32e_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:14:31+00:00	last_login	2018-04-22T22:14:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:14:31+00:00	api_token	0d90501a6835fe563c320f7835fea7be
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:14:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZ2FycmV0dDMyZV8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NzI3MSwiaWF0IjoxNTI0NDM1MjcxLCJub25jZSI6IlA5YnA5cjVwaE1KZVZHNXJobTJlRzVnT3E1eks0ZkRua0pTLXdSNXRZS2s9In0%3D.ojaznU3TobvoBNNPwiY_EBFjUSTBkfOmYjanekewngRkWjFCjpr4esR4tTeiewBGFfJJmRuz3NZ0m19eKEsGdg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:15:42+00:00	twilight-user	{%22authToken%22:%226yxohixgvh5rgjfibwlys0chgwzo5d%22%2C%22displayName%22:%22m_garrett32e_2%22%2C%22id%22:%22216144368%22%2C%22login%22:%22m_garrett32e_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:15:42+00:00	auth-token	6yxohixgvh5rgjfibwlys0chgwzo5d

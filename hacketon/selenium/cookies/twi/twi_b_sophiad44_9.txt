@@ -1,0 +1,12 @@
+#b_sophiad44_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nJ3ABg5qCwdveJkwLroiZllQvgMPArgX4QG%2B6RINlJw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:12:13+00:00	unique_id	e2090b198501778d
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:12:40+00:00	persistent	216942435%3A%3A87f0uu4axej9e1ki3vxuskpiu8uol0
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:12:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDI0MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxOTYwLCJpYXQiOjE1MjQ3NzcxNjB9.S5ubCSzbH9u939PTbA3-FRA3Q64h_QNn7JvDstjlvkMVFi-VFAMPD-Kn_HNTR2Fp4Xyjz_X4hWyFHjJaOln9zA==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:12:40+00:00	login	b_sophiad44_9
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:12:40+00:00	name	b_sophiad44_9
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:12:40+00:00	last_login	2018-04-26T21:12:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:12:40+00:00	api_token	df226f2ecabacc939d8f6ee5775e3802
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:12:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc29waGlhZDQ0XzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI5MTYwLCJpYXQiOjE1MjQ3NzcxNjAsIm5vbmNlIjoiU1hGSC1CdmN5RDFXenl6RzNhYXNSaEFwbmJpY0haZ3ZGU1dWWi1HNHk5RT0ifQ%3D%3D.LFtrCDj9EE0uPUhQaPJyO3ZaK4af2cCU-nV3P30qM5ozCImlxeVLA3sicjj5Da5Yc9NVJuKZsaPonikoOzx61g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:14:11+00:00	twilight-user	{%22authToken%22:%22oxclcne8e46gz90wcsf0hg0k3xozcu%22%2C%22displayName%22:%22b_sophiad44_9%22%2C%22id%22:%22216942435%22%2C%22login%22:%22b_sophiad44_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:14:11+00:00	auth-token	oxclcne8e46gz90wcsf0hg0k3xozcu

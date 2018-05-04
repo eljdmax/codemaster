@@ -1,0 +1,14 @@
+#h_kendallw94_2
+.twitch.tv	TRUE	/	FALSE	2028-04-24T17:33:40+00:00	unique_id	iGq8rAvPPeQb7Y9t77LQDrdbUkne0aii
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IfphRboWESekPSUVSkiEh3odHuIbsMGvg8cBVEzZq1c%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:37:33+00:00	_twitch_session_id	2103ba4b018e43ba4cf78dfff76c7ee2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:38:01+00:00	persistent	217077623%3A%3A0gbew8quzw7dsd3njbkbhuj71fd0vv
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:38:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzc2MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NDgyLCJpYXQiOjE1MjQ4NTA2ODJ9.WrQQcsa2jELYTLP5lKX-GBMwisSNgp5fFjiWMwLVr3GN2hLK5KBhe2qlWyXHj8uDAIzaxpEix2PbrF4e6Zxjmg==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:38:01+00:00	login	h_kendallw94_2
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:38:01+00:00	name	h_kendallw94_2
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:38:01+00:00	last_login	2018-04-27T17:38:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:38:01+00:00	api_token	f42e9c06a7bc84397f639476e2bc1e10
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:38:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfa2VuZGFsbHc5NF8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMjY4MiwiaWF0IjoxNTI0ODUwNjgyLCJub25jZSI6Ik5aZ3dtYWVLeGdtZ3JEVndNZlZfNTZTTkxCd0V3WkNzcDdqVVpONExtNm89In0%3D.Him8sQ689GU_IdZYDe1b2Ln20EcbiSbgwW-jQu_J4rSbsQkGMvxTf_r8Te5Viq-rlg6dLod1KRVFFHpP8bYEgw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:39:36+00:00	twilight-user	{%22authToken%22:%228xmpau4qvh1pe2m74kjvle8j1s8dom%22%2C%22displayName%22:%22h_kendallw94_2%22%2C%22id%22:%22217077623%22%2C%22login%22:%22h_kendallw94_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:39:36+00:00	auth-token	8xmpau4qvh1pe2m74kjvle8j1s8dom
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:39:39+00:00	twilight_onboarding	true

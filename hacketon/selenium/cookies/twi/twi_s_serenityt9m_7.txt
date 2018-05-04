@@ -1,0 +1,14 @@
+#s_serenityt9m_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EmvuYTc%2BVD8hDz8xKOAzWL%2BwZ0C3zmuqvYYkJmjjA0U%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:46:13+00:00	unique_id	c47b1b15ec54484b
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:46:13+00:00	_twitch_session_id	550715bdc775902ad5dc97dd94363874
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:46:45+00:00	persistent	216488557%3A%3A3maeb0pucgve4ueefkqhf7ifxg6o5u
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:46:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODg1NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4ODA1LCJpYXQiOjE1MjQ1NzQwMDV9.53lCI8QEUCNr4X2Y7E4ap_lAoAf8Yf6U1iHy4wPIvuP33B48T3LhgmnjcgSkR6-vUkLNew7OC26N7Maj6ODGOQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:46:45+00:00	login	s_serenityt9m_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:46:45+00:00	name	s_serenityt9m_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:46:45+00:00	last_login	2018-04-24T12:46:45Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:46:45+00:00	api_token	edc5207adeb7804b0fd328a1689f139f
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:46:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfc2VyZW5pdHl0OW1fNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjYwMDUsImlhdCI6MTUyNDU3NDAwNSwibm9uY2UiOiJvV2htalNkdE9YS09mOXRaMjJNU3drNkt4ZlVMMVNDZWF2UWVHTTB3RjlrPSJ9.5I64tnHE8MHFW_G9q6C9tC4jpKGGDLwAbDuQQ8tYAKlpcl5jcDDOc6R3j8U-naiR-gTnnyq0j4NBUSFNnfBclg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	rjdJhcz1TbSiO55afa0nQaEGO7J0inPO
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:48:51+00:00	twilight-user	{%22authToken%22:%22d8snppm0gghzfwazgdlxqmjs7624q8%22%2C%22displayName%22:%22s_serenityt9m_7%22%2C%22id%22:%22216488557%22%2C%22login%22:%22s_serenityt9m_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:48:51+00:00	auth-token	d8snppm0gghzfwazgdlxqmjs7624q8

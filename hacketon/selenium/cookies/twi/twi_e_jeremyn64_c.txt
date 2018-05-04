@@ -1,0 +1,13 @@
+#e_jeremyn64_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	N%2B7TDFYpCzTMZQH59NMqayxmPeej0NYvRdzjSPsh9uo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:55:39+00:00	unique_id	07999ef03493c4bf
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:55:39+00:00	_twitch_session_id	10a6c986c7dd6c6fa8cb72503afd3e48
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:56:07+00:00	persistent	216141019%3A%3A04d0y4fvcjw89gpopmbqg4qji36yp6
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:56:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDEwMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4OTY4LCJpYXQiOjE1MjQ0MzQxNjh9.l7hs1PYgciebPbe6GB3B4P2LhldrtbMjYGLi-ec8FBM6a7RiMJAfpvPXpQT2A0HNmZYfQTuvsl5ctQYyM25uWQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:56:07+00:00	login	e_jeremyn64_c
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:56:07+00:00	name	e_jeremyn64_c
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:56:07+00:00	last_login	2018-04-22T21:56:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:56:07+00:00	api_token	b76bb8dc1d1343d29503bc4555892946
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:56:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfamVyZW15bjY0X2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg2MTY4LCJpYXQiOjE1MjQ0MzQxNjgsIm5vbmNlIjoibllBTEUxMXZZc2hYbnNKUDg1UlZnTHpaUk5qRlJpZ1NTVGk4dXNJR1lFRT0ifQ%3D%3D.IPE9sc4ShHzxxPY1Jn6l0vwRtzKOAVJStrDb8TDFasD8xColgQYjHbr_xA3jzMfOdloTL5b3V8X1IzxiWyF7xQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:57:19+00:00	twilight-user	{%22authToken%22:%225ck4f3pwjhzb4y6g1lhlocm62tf82a%22%2C%22displayName%22:%22e_jeremyn64_c%22%2C%22id%22:%22216141019%22%2C%22login%22:%22e_jeremyn64_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:57:19+00:00	auth-token	5ck4f3pwjhzb4y6g1lhlocm62tf82a

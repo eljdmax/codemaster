@@ -1,0 +1,12 @@
+#d_jack28y_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rYdvxXoFHEnlomKyVYReqQb6RLj3qnEoCkYTbFw5adU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:39:10+00:00	unique_id	33a1d9c9ede2dda0
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:39:29+00:00	persistent	216476682%3A%3A2a77d7q893302imf2v2veur30co4q9
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:39:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzY2ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxMTcwLCJpYXQiOjE1MjQ1NjYzNzB9.01Tpu3H3U5x0vCP9bMK_KxgOdeNenI88tECA_qrRNqcHcIvkqvNBANm366fo3A88YBt_vuKT0C_yfDUjXRRpQA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:39:29+00:00	login	d_jack28y_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:39:29+00:00	name	d_jack28y_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:39:29+00:00	last_login	2018-04-24T10:39:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:39:29+00:00	api_token	80c09227cd4456d240b84cb3830f9f54
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:39:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamFjazI4eV9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODM3MCwiaWF0IjoxNTI0NTY2MzcwLCJub25jZSI6ImFPSzF5eXA3YVRKeGczcEV1QU1md19ieGp0dmhobWwzcXE1czlUR1BwNjg9In0%3D.w_gWkaIMDfqwO5A3NChDqXtH-ul8W85TLI8xrGH--KPuH5yE_NhO7j1mtltA7cUBznWV1D9KF5C9FAn6COzr9Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:40:51+00:00	twilight-user	{%22authToken%22:%22k9eovi1wplw9rkq34bl025r1q6ct00%22%2C%22displayName%22:%22d_jack28y_d%22%2C%22id%22:%22216476682%22%2C%22login%22:%22d_jack28y_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:40:51+00:00	auth-token	k9eovi1wplw9rkq34bl025r1q6ct00

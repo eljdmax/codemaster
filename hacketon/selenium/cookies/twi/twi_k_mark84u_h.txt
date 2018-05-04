@@ -1,0 +1,14 @@
+#k_mark84u_h
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WlWv0Rejs3t%2F6xb3N3%2BSqs8%2FDqIy3l0F10t4r3waouE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	41170d210e2cd4a4
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453776%3A%3Ax0ee71cm5xqnpo06e1o2au2ccmwiav
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM3NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE2NjgsImlhdCI6MTUyNDk5ODA2OH0=.8DXYLGmgyO_1CzWGs10b6lIhXmekx6xKLkgZ5pgZ9xrmetrtQQa9e9_wnNOpI0QWKVDm4nNF_HT7GOAl2MeLyg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM3NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyODY4LCJpYXQiOjE1MjQ5OTgwNjh9.lqbk2XVtZnixfJuKpCdRW98G79Empxzo0HXypf3TCxtVU1K5fspCoXHMnlWcWP9zB4N1JOWS1YTcSxWuoDU35w==
+.twitch.tv	TRUE	/	FALSE	0	login	k_mark84u_h
+.twitch.tv	TRUE	/	FALSE	0	name	k_mark84u_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:34:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4cd46a811c40f00f82a96cc0edf2b292
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbWFyazg0dV9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MDA2OCwiaWF0IjoxNTI0OTk4MDY4LCJub25jZSI6Ink5U2dVOHBUejd4WkJrUnE0elBaelJ6bjh1WWFzdGxZdGNIMXQ0MVNEQWs9In0%3D.YiTb6XuMyH6WIYiVLuD4M0F14Hnp_amhe4t_djyqNROGGQT8GFW90DIiEX2CVdbpeFwUaiMO2DjrSNRKFRwULg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22auz4kuf1s305810pt60idha4gagdvj%22%2C%22displayName%22:%22k_mark84u_h%22%2C%22id%22:%22217453776%22%2C%22login%22:%22k_mark84u_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	auz4kuf1s305810pt60idha4gagdvj

@@ -1,0 +1,12 @@
+#r_hunterk62_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	z2GWjw%2BQUCxbzHxw3G0mH3XUmXefMDh04B%2F3%2BIC0%2Bdg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:32:03+00:00	unique_id	29905bfee2ce9f03
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:32:25+00:00	persistent	216935321%3A%3Atpi6mfrw9jicmlxko11hpke7ll5b5v
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:32:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzUzMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5NTQ2LCJpYXQiOjE1MjQ3NzQ3NDZ9.exK8zBN-dcF04KX0u28YKs7DuHunQxs6aphcf52mYEqnzNLVixborsDs1gpNnAU1JX-1fa08KWoHyuTI_eAFJQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:32:25+00:00	login	r_hunterk62_2
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:32:25+00:00	name	r_hunterk62_2
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:32:25+00:00	last_login	2018-04-26T20:32:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:32:25+00:00	api_token	34faa1242add14cea99c1fe5b0dc7c30
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:32:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfaHVudGVyazYyXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI2NzQ2LCJpYXQiOjE1MjQ3NzQ3NDYsIm5vbmNlIjoiTDVWSUdYY0FoY21rbjIzcDczXzE0eWl4OHJZQkJTeFFNZkFTZmxIbC04Zz0ifQ%3D%3D.cf4ijY_paac1cQJEWX7v5UtQg2lFJV6p4gWAtJzQIQLyZNajLjOpALT3Av1Hn8mehUF34CNtkGXkx156Yh_qtA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:33:56+00:00	twilight-user	{%22authToken%22:%22effhivw5mc4v7clm9sb77ezumvkklk%22%2C%22displayName%22:%22r_hunterk62_2%22%2C%22id%22:%22216935321%22%2C%22login%22:%22r_hunterk62_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:33:56+00:00	auth-token	effhivw5mc4v7clm9sb77ezumvkklk

@@ -1,0 +1,13 @@
+#f_danielah6b_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9Iae%2F6VHh7O%2BEhEn9b6K8hAt2FPllyH7YhFWDMcHY0E%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:39:34+00:00	unique_id	2c473e618326ebea
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:39:34+00:00	_twitch_session_id	e23d850679ebc8ae2c3582db7a1ae458
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:40:03+00:00	persistent	216476732%3A%3A2iuhp50m0427m0c4rl1hdc2mdmqnfo
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:40:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzY3MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxMjAzLCJpYXQiOjE1MjQ1NjY0MDN9.q0uJZQCV8JwaMiGKUIFvRfCVhl-GXbnaCnG7NONhKSgAAkwF8R-9Dn6wkcj0y5YrIRHemcYgXUjHiHyLY1oyUA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:40:03+00:00	login	f_danielah6b_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:40:03+00:00	name	f_danielah6b_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:40:03+00:00	last_login	2018-04-24T10:40:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:40:03+00:00	api_token	99b7e304616474643818c4ee9315289c
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:40:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfZGFuaWVsYWg2Yl92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODQwMywiaWF0IjoxNTI0NTY2NDAzLCJub25jZSI6IjF2WGpnTjlLT1drRXZ2Nk1jbWQ5NUpDWkllT1JTTVpZSDhoY2lxWnhoSjQ9In0%3D.CxcdXm1ucH87WZzwT-z_eYlw_c_cC5p2GQI9uNN87-qUuElXn6qv2tRpkFPo5KDlAv0KODD5dZnZry2jrvKquQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:41:23+00:00	twilight-user	{%22authToken%22:%22sthdg98ntppxb52v94h0b7xqng1mme%22%2C%22displayName%22:%22f_danielah6b_v%22%2C%22id%22:%22216476732%22%2C%22login%22:%22f_danielah6b_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:41:23+00:00	auth-token	sthdg98ntppxb52v94h0b7xqng1mme

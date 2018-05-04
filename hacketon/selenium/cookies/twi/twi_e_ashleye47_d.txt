@@ -1,0 +1,13 @@
+#e_ashleye47_d
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:22:06+00:00	unique_id	85eac9f9f205350b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	uVnzT7yS4eJ5dljk5cRdIJX470JmsvWk94DsIG5XG%2Fc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:55:22+00:00	_twitch_session_id	6ee4b1da048377e6de0952364c104dcc
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:56:04+00:00	persistent	216483260%3A%3Aktvklt0qw4nrq4lwt8qs9gamwnqwbj
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:56:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODMyNjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1NzY0LCJpYXQiOjE1MjQ1NzA5NjR9._oYjXbQZQKkzjJ6vC3jzIxBJ23g3lVLr8Ucl8p0LLIc60OLw6eVETRg9UwLSUCLweF76v6F_NfbEskREjy91fQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:56:04+00:00	login	e_ashleye47_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:56:04+00:00	name	e_ashleye47_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:56:04+00:00	last_login	2018-04-24T11:56:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:56:04+00:00	api_token	dd99be441cd14a861f286c35519ac8b2
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:56:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYXNobGV5ZTQ3X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIyOTY0LCJpYXQiOjE1MjQ1NzA5NjQsIm5vbmNlIjoiR2I5NFljRjhITEdPeU5CWi1GVnVFQmlYNmktX3hOTVlTZ0ZYMUdrTHVtST0ifQ%3D%3D.V6attPROtv6625sBm4t2lZLopGDGgqD3WFC3FE3LWPSnV6RvrjjLg5oy7id5z7HfWuJY_hgRyQ-8_bCCKEqKPw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:57:47+00:00	twilight-user	{%22authToken%22:%22pkp748kmnhv0s910xtegswrhd6tbex%22%2C%22displayName%22:%22e_ashleye47_d%22%2C%22id%22:%22216483260%22%2C%22login%22:%22e_ashleye47_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:57:47+00:00	auth-token	pkp748kmnhv0s910xtegswrhd6tbex

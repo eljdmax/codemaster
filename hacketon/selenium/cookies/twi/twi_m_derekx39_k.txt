@@ -1,0 +1,13 @@
+#m_derekx39_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5qIp85%2Fye2jK0OfaJ63AfFlWMW251Yhpx%2F%2FqMktu2xQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:49:13+00:00	unique_id	0b1345f20dc0c1bb
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:49:13+00:00	_twitch_session_id	fa5ab749868c4ac561467a8f19477af9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:49:30+00:00	persistent	216477512%3A%3Akuewi0qzw80mqri6lrfi7dne29jx8y
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:49:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzc1MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNzcxLCJpYXQiOjE1MjQ1NjY5NzF9.vI078OY10TQY4_n9LDRK7GUdAmQbAlo-FVOqCpPjZrFEBU1HC2Y9-s-cVDKOZpbNYxmkQf7pjPXBmcsGN_XStg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:30+00:00	login	m_derekx39_k
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:30+00:00	name	m_derekx39_k
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:30+00:00	last_login	2018-04-24T10:49:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:49:30+00:00	api_token	74a1de905b5fe6bb3cc5aeaae4035916
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:49:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGVyZWt4MzlfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTg5NzEsImlhdCI6MTUyNDU2Njk3MSwibm9uY2UiOiJfSjlmeThCMUdBcE40TDNkMW1rOXdVWGY2aXdYYnR6eTVzTTgyb1J5VkpnPSJ9.9uO2tGUELTKeB8bK7m8bEBa2zTe4w2uqDUZB2NzsIqLC3p28Zu3mg6okFl7c2uAeFIsg-muGoBUpyjh-1HNCQw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:50:50+00:00	twilight-user	{%22authToken%22:%22wqc7ygd4bxedrgm2ivgq3k998ymzum%22%2C%22displayName%22:%22m_derekx39_k%22%2C%22id%22:%22216477512%22%2C%22login%22:%22m_derekx39_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:50:50+00:00	auth-token	wqc7ygd4bxedrgm2ivgq3k998ymzum

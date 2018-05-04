@@ -1,0 +1,13 @@
+#v_natalia43r_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Z1miNWhOdvjCI8lpzHZkVS7lgQ8p1e8sFOmtuhh29rQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e632ee6cd201ba7c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217237731%3A%3A3hj2qk2rmt2qdbj9n7tm8y8pqd3m4x
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzc3MzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjI5NzUsImlhdCI6MTUyNDkxOTM3NX0=.h0w5UUaCU3yCkHDAVQC1nSd5BZMl6ZdrKFA84i2q5VUrXZHgWqlRcbR_0egApkEv8URkZmF7U0CEQBULanaPAQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzc3MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI0MTc1LCJpYXQiOjE1MjQ5MTkzNzV9.vGLCnN-xAkJ35HKesrV-illpTICv5hEKaG7kn4nPcVuh9zFsEV-M2U9f4rTvr0Ym-DWviVFR62BR1JhSQEFhIw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_natalia43r_i
+.twitch.tv	TRUE	/	FALSE	0	name	v_natalia43r_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:42:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b2563fb0f27cde4734570ff5e1cfb90a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbmF0YWxpYTQzcl9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MTM3NSwiaWF0IjoxNTI0OTE5Mzc1LCJub25jZSI6Ik92VGJFdVE3TWd2OGJMRVNnM2h3S1JlMVFaQWhMbFFOclh6b2NHTVBpc009In0%3D.W75XafsNQ9Gf_KC17B5geSipcJGl1sWok9DzDHJYvdfJSkGN2my0xSU3CqGJu99PD1ivQnrZ8lJMP8FhNlPw8A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xrzqi08mm2vqy6l6sz2ch3dxp5fsaf%22%2C%22displayName%22:%22v_natalia43r_i%22%2C%22id%22:%22217237731%22%2C%22login%22:%22v_natalia43r_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xrzqi08mm2vqy6l6sz2ch3dxp5fsaf

@@ -1,0 +1,13 @@
+#k_kellyu1a_f
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:22:06+00:00	unique_id	85eac9f9f205350b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CqcGj4sPLxnlInjpRyjhn%2BdtETbEjg8c0g1i1SbztxQ%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:32:22+00:00	_twitch_session_id	5f7153b4841f4539702a1de5350d9aa2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:32:55+00:00	persistent	217076711%3A%3A03r43u610uzjbaou48l2n1gj2ez5s0
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:32:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzY3MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1MTc1LCJpYXQiOjE1MjQ4NTAzNzV9.ZhbLdPc_65W2m089BN5Dg4fDzOWSwIt8iJ67ie0pzNkrAHhOdU2drgzq3pjBu5-4c7zD95ViqJRI5pTelUe0Uw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:32:55+00:00	login	k_kellyu1a_f
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:32:55+00:00	name	k_kellyu1a_f
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:32:55+00:00	last_login	2018-04-27T17:32:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:32:55+00:00	api_token	68d2efba6aa1ee933f38489219a33aab
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:32:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfa2VsbHl1MWFfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDIzNzUsImlhdCI6MTUyNDg1MDM3NSwibm9uY2UiOiI2V1dLZ2ZteVJvM1Q0emdZcXlfZjRHZnBVLXNDQ0hoX0p1elVhYWlKRDJRPSJ9.1gRhl7qE3HwtO8gazizcPEJ0yHVQyIbnIC53iPuNHpUmGDgcvydoihW7rDJBC5CjK7vBqmcKRhC18xZ5SIiScA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:34:31+00:00	twilight-user	{%22authToken%22:%22wsbby7tpli7dqlnz1ysqv6cr8t6g3h%22%2C%22displayName%22:%22k_kellyu1a_f%22%2C%22id%22:%22217076711%22%2C%22login%22:%22k_kellyu1a_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:34:31+00:00	auth-token	wsbby7tpli7dqlnz1ysqv6cr8t6g3h

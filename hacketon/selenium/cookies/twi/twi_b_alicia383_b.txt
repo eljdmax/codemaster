@@ -1,0 +1,12 @@
+#b_alicia383_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FuDLzyo90u%2FF4F1l7Ps4myw0yDUZEL1CAekcelzMzJk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:51:09+00:00	unique_id	7c714bf875f89600
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:51:40+00:00	persistent	217080116%3A%3Avon3ginz6yfu956xk2s6xsrs6bllju
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:51:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwODAxMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2MzAxLCJpYXQiOjE1MjQ4NTE1MDF9.p6WDYNtNrqcxyhR6stC7vUR0IOBsRNpHYyv2R_XFCWVrADiRjlWBuLUbnlClGjQcX0_Ph6WodHr-L7TbHmGv4A==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:51:40+00:00	login	b_alicia383_b
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:51:40+00:00	name	b_alicia383_b
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:51:40+00:00	last_login	2018-04-27T17:51:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:51:40+00:00	api_token	3b20cbe2f99d24ce051b2d595682b39a
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:51:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYWxpY2lhMzgzX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAzNTAxLCJpYXQiOjE1MjQ4NTE1MDEsIm5vbmNlIjoiOEZFRksyNG9HM19RYlJlUGVPUEZOVFNXa1oxOG1KQmZYbVdTeGxMclprOD0ifQ%3D%3D.b7F7TJWU0uKGmc7aT-Flu3Wjay7K_C8j9n6gh5HsPHnDSA6dW9r--PO3xHKqwktkfWw9g85rDu_nsvlXBbIpmg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:53:23+00:00	twilight-user	{%22authToken%22:%22lzu2c5zurdpcp5ob18zjn3ypkm98oj%22%2C%22displayName%22:%22b_alicia383_b%22%2C%22id%22:%22217080116%22%2C%22login%22:%22b_alicia383_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:53:23+00:00	auth-token	lzu2c5zurdpcp5ob18zjn3ypkm98oj

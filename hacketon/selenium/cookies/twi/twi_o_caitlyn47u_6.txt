@@ -1,0 +1,13 @@
+#o_caitlyn47u_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	jyBVI8rJFlKu1B3WNIrnQoo2HxGXt74YOIc502SCzD4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	500c90c24e30354e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217268999%3A%3Abwntj2chrne2tnlobjol6dvqxw2fsq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjg5OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzI2NDksImlhdCI6MTUyNDkyOTA0OX0=.uGRVHJLyd8xZL_2MRBROp2dXL1YeSl4Iiy8vFuZ6KHfmcmQEHp5ANPrSkNyMfqIy9SMVWwOR1ARR28FymSiK7w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjg5OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMzODQ5LCJpYXQiOjE1MjQ5MjkwNDl9.3mlRGKK43XYFj6NzobQRRM7wAMGTvG6P8wxi2qqA4CdClp_nLaYpkqJczacs5PDelsDqhcUg-V9kXHeOHuTIlQ==
+.twitch.tv	TRUE	/	FALSE	0	login	o_caitlyn47u_6
+.twitch.tv	TRUE	/	FALSE	0	name	o_caitlyn47u_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:24:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cc837fccda6d751945fba9530853008b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2FpdGx5bjQ3dV82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4MTA0OSwiaWF0IjoxNTI0OTI5MDQ5LCJub25jZSI6IlNvYm96andXX1ZnempTM3VlaXdhYW9vbGZ6SDA4cnJURHYyNGw4OXpkRTg9In0%3D.jmU77WI6sxuS5dh0IYF-tku863v9hBd0pP5Vx1Vb-xYhiK9HPjwTPUBAnSShTHtr_xNyMraQD0DiQtfNBX3w9g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22d42tk7pkdogqz2rlqgi3y7uxndvzsa%22%2C%22displayName%22:%22o_caitlyn47u_6%22%2C%22id%22:%22217268999%22%2C%22login%22:%22o_caitlyn47u_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	d42tk7pkdogqz2rlqgi3y7uxndvzsa

@@ -1,0 +1,14 @@
+#a_paule3f_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vcNg9mCGb%2BwaJJLP752Kj5OeLkWx%2F%2FBmcbqP3pJ784Q%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5d48f54cbae8dd21
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	19ef917def4698b92149e2ffe03bebb5
+.twitch.tv	TRUE	/	FALSE	0	persistent	217248155%3A%3Algmxmsfe6vwfy889rl0glpg967dz69
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDgxNTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjYyMTYsImlhdCI6MTUyNDkyMjYxNn0=.f36kEqo5aTFQgaDBfJ7yK7QuI_6UbPJd5UQ8ov7dbSES4ZFs3ZLTxMkVy2V8lhq1gbMLl-jBg-TC1ZX8oOzs8w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDgxNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI3NDE2LCJpYXQiOjE1MjQ5MjI2MTZ9.ympB_MzS9S7vOk1GgR20eVpzqAFwDN90YNU-3Zh_wjBxgsgHdSLhEfw8siXgNbZ1c1g21aI0UlCTCo--dCABiQ==
+.twitch.tv	TRUE	/	FALSE	0	login	a_paule3f_p
+.twitch.tv	TRUE	/	FALSE	0	name	a_paule3f_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:36:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	af01025c51a832dbfe910fceb341d976
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfcGF1bGUzZl9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3NDYxNiwiaWF0IjoxNTI0OTIyNjE2LCJub25jZSI6Ik1HZEN3a2RNWTh5eDBaMFlFaGxlRWRYamtEZTBfYXpsY0Y5anNIbENNRmc9In0%3D.0yRF0DhQDB9ZaBtOlJ0GhUKSia0H_P_CAvditvTe6vmxAKWbmpP-WRZ8D3t7KAgqZUgexpIjsmpBN2YhO0xd1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22esqalql24faxgvlql5kxmy6fq09ip6%22%2C%22displayName%22:%22a_paule3f_p%22%2C%22id%22:%22217248155%22%2C%22login%22:%22a_paule3f_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	esqalql24faxgvlql5kxmy6fq09ip6

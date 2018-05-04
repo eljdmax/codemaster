@@ -1,0 +1,13 @@
+#h_kaylau92_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6hYR7qIbBhkwoWtg1cKZpWOQ%2BI27pcx2ApZtmqVhzWA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:43:16+00:00	unique_id	452b46a55c6dd17a
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:43:16+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:43:29+00:00	persistent	215237792%3A%3Awm7iprry3ie23u5zdo9rdm4x4ioi9v
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:43:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzc3OTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4MjEwLCJpYXQiOjE1MjQwNzM0MTB9.u4C2DS0RS56QActrgPfba9VF3GRxNY_th-RlVcI3iuTRQW_Ey2-njRbwombOcZEFrt-ksn5XO0gM5w1W5vhWLw==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:43:29+00:00	login	h_kaylau92_7
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:43:29+00:00	name	h_kaylau92_7
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:43:29+00:00	last_login	2018-04-18T17:43:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:43:29+00:00	api_token	3055adaebd99bb14f7525fc0fd967433
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:43:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfa2F5bGF1OTJfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjU0MTAsImlhdCI6MTUyNDA3MzQxMCwibm9uY2UiOiJBRVBXVjcyV3puNlFYQjg4MGRFdUM5cE0wTVUtbEtnZGpQX0Z1YTQtM2VrPSJ9.2yGfEbw1A2nyby5FVpofChUFwk34ENjss51d02e2d_5GphXxUzcQ9nFH1Y7ElqLusNWWsdxH8v-J9qiz0YcwPQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:44:21+00:00	twilight-user	{%22authToken%22:%22n33qu5319j6id87pl3lm0141syranu%22%2C%22displayName%22:%22h_kaylau92_7%22%2C%22id%22:%22215237792%22%2C%22login%22:%22h_kaylau92_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:44:21+00:00	auth-token	n33qu5319j6id87pl3lm0141syranu

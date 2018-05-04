@@ -1,0 +1,14 @@
+#n_alanb92_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	MBeynzCQ76p0hHOrGbUxUn2cCOUTV9JcTLXA8Nv574w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c082894b2805b357
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	bcf3130cf52ad5c1ad44aaaec8cc6fcc
+.twitch.tv	TRUE	/	FALSE	0	persistent	217443894%3A%3Axvbphg8d9agv5gie1df25vi9viycch
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDM4OTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTY2MzQsImlhdCI6MTUyNDk5MzAzNH0=.BH8aUU1IpIDJ4Je7CmESR8KH-gorb_TblE1aSsWpFaUddXJDI5o5iyJHgK_Wj1-Cg7XLVY6OfPNtypTCSm-8tQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDM4OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3ODM0LCJpYXQiOjE1MjQ5OTMwMzR9.EGTPazJkwXj32snDAv5uTEFefUtIaWC2oR0dq1smHDJ0avMOVMmYRIeWwTDl2HDXCIt1wPe9r9vZQ6DwIz3Xog==
+.twitch.tv	TRUE	/	FALSE	0	login	n_alanb92_4
+.twitch.tv	TRUE	/	FALSE	0	name	n_alanb92_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:10:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7c4179b8c83ddc8ab9d36c1b57073cec
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYWxhbmI5Ml80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU0NTAzNCwiaWF0IjoxNTI0OTkzMDM0LCJub25jZSI6InNNMDB5dHpqbkVrRUZEbUwwT1JJbUhmSk9rU01CeHJkcWsyamdFeElQRGM9In0%3D.OWokaSNjRWpdFZ6olcHQDAPMS_XTwTI5sWXndc2nz4Hy9tM2O47IUj972Ktb8kf-k3zGeVDhY1hScX1GaMq87Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2296wlpg24w1mmrrh00kv0myw8r54vvx%22%2C%22displayName%22:%22n_alanb92_4%22%2C%22id%22:%22217443894%22%2C%22login%22:%22n_alanb92_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	96wlpg24w1mmrrh00kv0myw8r54vvx

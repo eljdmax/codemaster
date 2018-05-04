@@ -1,0 +1,13 @@
+#d_sydney05x_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jAg1lJ9m67MoxA9JkDvriuhn37G9fdQv5OskA1ymPWA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:38:07+00:00	unique_id	e229f90769cd92f6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:38:07+00:00	_twitch_session_id	51a697bd7019c9a886195a24d689fe50
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:38:22+00:00	persistent	216137803%3A%3A02xld0qqj4toh4jaogdugwbfp0f7mz
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:38:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzc4MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3OTAzLCJpYXQiOjE1MjQ0MzMxMDN9.X1rpDiBPmRbUTGH81qZRLI80osQbamHkhXTnG0M2AfDg89o8tk5YMwZlh3s95KGcWcZiAC33XMegoVsWjwFc0w==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:38:22+00:00	login	d_sydney05x_8
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:38:22+00:00	name	d_sydney05x_8
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:38:22+00:00	last_login	2018-04-22T21:38:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:38:22+00:00	api_token	14c1607ea9a184a89fb1a08df6b093e2
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:38:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfc3lkbmV5MDV4XzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg1MTAzLCJpYXQiOjE1MjQ0MzMxMDMsIm5vbmNlIjoiLWpPVE9Zbkp1RGtZX3Q3eEU2blhtOTZlbWZ3aXk1YWhuZVk2X3NpZ0RxTT0ifQ%3D%3D.HZafzPDKHcUb_hdTFLUerfmwFD7SvrIo7WjHY-KGynsMgBbac9AYMQ-HGxQvgxLCx8U_1Uje03xru0bPD74MvA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:39:34+00:00	twilight-user	{%22authToken%22:%22af3rinomt36mykpus8pe92qlxtxk3i%22%2C%22displayName%22:%22d_sydney05x_8%22%2C%22id%22:%22216137803%22%2C%22login%22:%22d_sydney05x_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:39:34+00:00	auth-token	af3rinomt36mykpus8pe92qlxtxk3i

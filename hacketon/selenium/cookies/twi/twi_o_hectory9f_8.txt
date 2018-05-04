@@ -1,0 +1,14 @@
+#o_hectory9f_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5WM7gqCo9drexzoWQE3%2F6dq9LtlZGz6xfkzzI2WDw68%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6c0bee4a9d981770
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1962a0de3800719df3f5e236331bc655
+.twitch.tv	TRUE	/	FALSE	0	persistent	217568688%3A%3Ax8lh1j9p5jb1fhxuynl7g009jd8lph
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njg2ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzc4MzAsImlhdCI6MTUyNTAzNDIzMH0=.tYxIU3Dzy2JhF1dVZy-zY1CnD_2qXRa-ZhgdQ8NQAal1kGsOqFJ3TkofAIqx1UT-gqnG6Op9pA8T6XAz1P9kSA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njg2ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5MDMwLCJpYXQiOjE1MjUwMzQyMzB9.Th70T1G-LHLXF9RfrgS4Ob_T8vNuW2GWy-rC-9cb7TRIdqhKAkzJ4B1GvDxTjJGkkebRshEfsTY-egWgH5UdKw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_hectory9f_8
+.twitch.tv	TRUE	/	FALSE	0	name	o_hectory9f_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:37:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a6589d51af0fc17bccb7f819d118b3d0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9faGVjdG9yeTlmXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg2MjMwLCJpYXQiOjE1MjUwMzQyMzAsIm5vbmNlIjoieDlOUTVXdFVNblpGSWRzdzZkTnlUS3A4a05zZWg5RXd2ZVB3eWZwNnFzMD0ifQ%3D%3D.PiZcPnjYr4rxLdFRe1At-C1bj23U4sNwPl3LUkfVQ9fXggQynTJV0gMnK5G8RQe_kFzc5gLx8OPtRHeJy17mrg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22852wdm4dso285qyx9evff1qjt7gk47%22%2C%22displayName%22:%22o_hectory9f_8%22%2C%22id%22:%22217568688%22%2C%22login%22:%22o_hectory9f_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	852wdm4dso285qyx9evff1qjt7gk47

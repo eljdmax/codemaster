@@ -1,0 +1,14 @@
+#h_ashlyny61_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	imFVuTtvVUsPojlhA5awL5HwXDG9tsbXr88Q%2BdAELUc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	edea74d2be502b4d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	70786692121412a926c2dea13f219c92
+.twitch.tv	TRUE	/	FALSE	0	persistent	217230153%3A%3Ak0y8ljebrnmbszu1g2y8smltvz8gif
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzAxNTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjAxNTIsImlhdCI6MTUyNDkxNjU1Mn0=.1ZwcJ-ABLri-Hwf04joNM3Jdq9pgqi6A9dbdU3eOxaDIbY-Guz2GbA-VEAxLUKQ_v9gSZmxFDxEiBYUPjiPt6Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzAxNTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIxMzUyLCJpYXQiOjE1MjQ5MTY1NTJ9.e72TQjv7_hhTEAQztP9ZOnl1CaDTjOP4MXvk-iUm_f1x6_xWHNJcmLj_zMLZ-F8400qHZMzkew1nGbnAdF2iiA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_ashlyny61_b
+.twitch.tv	TRUE	/	FALSE	0	name	h_ashlyny61_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:55:52Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	866ba3b3407a962fa4dff8133ffa6307
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYXNobHlueTYxX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY4NTUyLCJpYXQiOjE1MjQ5MTY1NTIsIm5vbmNlIjoiRENodWE5d3BpZVlvSGx3N2kzV3NpZ0JJWHg2bnFIdVUzbkZpM3liaTlicz0ifQ%3D%3D.AqVdF2waapFhqIQMAB1fUwdvsRrxAY-xakJUDUpDycUKF5d170L1zykeSyKykcwW8GI3oQfuu37zlGxIs00jAQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221rsbc6zhd2ffpuwzyftfr5kplo1j4k%22%2C%22displayName%22:%22h_ashlyny61_b%22%2C%22id%22:%22217230153%22%2C%22login%22:%22h_ashlyny61_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1rsbc6zhd2ffpuwzyftfr5kplo1j4k

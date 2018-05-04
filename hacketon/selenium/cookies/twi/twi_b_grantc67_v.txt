@@ -1,0 +1,14 @@
+#b_grantc67_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pLjKy3uLM3dZDbesacq29XuO1KwMojfdYWsBk4SYYsc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3a2b11b3bf132f13
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	77b5be92b2aa59cc7694bef2b996b1a9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217897763%3A%3A9o4f0ul33fswwxpdewcdlgxyznz0xi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTc3NjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxODAzODMsImlhdCI6MTUyNTE3Njc4M30=._ZPBH0_tMxblLnBPkp4nR0RDp3mlvFKpNnW5bOHsxDM771HDR3dmRhE-VmKQ4JnJS__f7PtNPbWb-wzdmkm5eQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTc3NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgxNTgzLCJpYXQiOjE1MjUxNzY3ODN9.wBNb2i-u1L0FvqGzIvD09sJP1nrSBCmOE7Ohstg4ZUeEABSnHpkg4l3UQ3ig-aCTHIMbtUnx7hOLB3AtyWiZhA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_grantc67_v
+.twitch.tv	TRUE	/	FALSE	0	name	b_grantc67_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:13:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c3e8c8ab0b586a92e484cac6c9673b54
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZ3JhbnRjNjdfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mjg3ODMsImlhdCI6MTUyNTE3Njc4Mywibm9uY2UiOiJpUVEtSl9sOHpYT3Znc0JrSnc3MFBiSW5CRFlxYVdpM0tfUVlJQUh1c0tzPSJ9.-mI74Fa_K3J6om2ZER23zp38oHsGEDF4cfhA3P1ng4hnOZdkDznDcXCWGCidnvXGqP9p5wQU_BkqsolsgS3H-w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dmxebczsawafyygojcibqxp6byj1kv%22%2C%22displayName%22:%22b_grantc67_v%22%2C%22id%22:%22217897763%22%2C%22login%22:%22b_grantc67_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dmxebczsawafyygojcibqxp6byj1kv

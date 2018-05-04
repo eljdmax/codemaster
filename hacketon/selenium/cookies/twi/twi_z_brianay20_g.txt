@@ -1,0 +1,14 @@
+#z_brianay20_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9nK%2FchLFBal6%2FXgBEL4gZDUA%2B%2Bn0M0g%2FREP%2BN0MKKEc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8da9627a450e62a6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b49a3a0528cbf64432940f6a32d21a78
+.twitch.tv	TRUE	/	FALSE	0	persistent	217233031%3A%3A7nc6vwpk2c9pzaiivf9rgj71n8mwac
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzMwMzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjEzNTEsImlhdCI6MTUyNDkxNzc1MX0=.7PfLWk-Vy5ZP0AbqU-HegQuVNKshNEs3hhxgoSfU_Hq5E_2dxPUuZnC9lB85MpXMTT2FDncZJC-t0wWSEP30YQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzMwMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyNTUxLCJpYXQiOjE1MjQ5MTc3NTF9.TL2fXGamutUHDWF2__xNNl1-lcIsrDzq_vGEsBd8k0nLuRWp9wjzbOjhiBCgiSLB7AGaj77QFBM1IPwZkxxCaQ==
+.twitch.tv	TRUE	/	FALSE	0	login	z_brianay20_g
+.twitch.tv	TRUE	/	FALSE	0	name	z_brianay20_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:15:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4fc9c248e2d2f5c72a0be0d32476c54a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfYnJpYW5heTIwX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY5NzUxLCJpYXQiOjE1MjQ5MTc3NTEsIm5vbmNlIjoiN3RXMVBuUnBBanhYRFAyS0RfcFRobHBncUdPOElHVUJDZHh3RXBqTlVoZz0ifQ%3D%3D.HAoFDEOEDsJ44jWgLSZTSzBvjODCWgL7MJaHUPcIRaYGYIj0fdTB4ksJ2KtdI6ivm7bX7rJhEXPMSwOlHyqzBA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22586tqoxdum4mvk38hcvbzenaxtx8eq%22%2C%22displayName%22:%22z_brianay20_g%22%2C%22id%22:%22217233031%22%2C%22login%22:%22z_brianay20_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	586tqoxdum4mvk38hcvbzenaxtx8eq

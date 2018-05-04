@@ -1,0 +1,12 @@
+#n_brianna174_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zycSYLLYHebgJpCmyvl9EQe2QzYO5AkyMWsKIopbyWM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:30:05+00:00	unique_id	1f0ac3f7488a0c67
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:30:23+00:00	persistent	216136205%3A%3Aa8ccry3ma3ofxays8lk7mfcakxsfm0
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:30:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzYyMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3NDI0LCJpYXQiOjE1MjQ0MzI2MjR9.UhldPgwJgtQ8ReCX_4r2oVrHlmHKZazOpYjGJz965mRvdiP_Ry0JEjLH8PTsVN5kLpWkSpYtdCvmFLhpCD9OdQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:30:23+00:00	login	n_brianna174_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:30:23+00:00	name	n_brianna174_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:30:23+00:00	last_login	2018-04-22T21:30:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:30:23+00:00	api_token	fbbd1bce78d21d1e1b72db3795179619
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:30:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYnJpYW5uYTE3NF9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NDYyNCwiaWF0IjoxNTI0NDMyNjI0LCJub25jZSI6Ii1lS0dJM2pOUU9EMTJEN0JhZ3ctUFdZQlRFWklYenJSTzAwdWd1djQ4ZU09In0%3D.4Kl89XFcSBdMAcKtBMs_F8eHuJ_m8fN8zOgVOrYM-7OmRYTmqoGmgZRYLk_ef04pxvcchgH5tkgFR7AKa6djOQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:31:37+00:00	twilight-user	{%22authToken%22:%220zk03yfjvyakuo24d1ejjffz7aw9kd%22%2C%22displayName%22:%22n_brianna174_h%22%2C%22id%22:%22216136205%22%2C%22login%22:%22n_brianna174_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:31:37+00:00	auth-token	0zk03yfjvyakuo24d1ejjffz7aw9kd

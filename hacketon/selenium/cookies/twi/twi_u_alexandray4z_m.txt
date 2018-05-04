@@ -1,0 +1,14 @@
+#u_alexandray4z_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2Bi28gfrlI1b%2FtgmZKuht5iaq6I3fbVyjSq0uVObVF1Y%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	dd7d18fa860c52f9
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2f498eba7d45a97d6995da9832c6af8d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217233780%3A%3Agjmt9oopfhx6kx077yyih8zxgs18yb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzM3ODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjE2NTQsImlhdCI6MTUyNDkxODA1NH0=.HgaJ4-UUmTWkCAXB1LU_ghcfC5tF7CqNoEWpSR58P8jg5c1lyGrm8dcsFxyVPfXXXkhs90uW1EocF5ROGiRZGw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzM3ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyODU0LCJpYXQiOjE1MjQ5MTgwNTR9.77mQpawQ-UjujFORu0HXeSBr3gktTsDN2Q8sRKXjzOBTDFmPcyOWtoNhUlrGCxFYO1-KKg0ouB5tX8Txi74UyQ==
+.twitch.tv	TRUE	/	FALSE	0	login	u_alexandray4z_m
+.twitch.tv	TRUE	/	FALSE	0	name	u_alexandray4z_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:20:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3c15cd15457ed833e0de1b6e3daaf4df
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYWxleGFuZHJheTR6X20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDcwMDU0LCJpYXQiOjE1MjQ5MTgwNTQsIm5vbmNlIjoiaE1ZLWtyamFvTTNmQlQydHV1NnM0N3ZLelZzUUFjMDR0X1YwN2VfcXNOVT0ifQ%3D%3D.KomXiRP-DX85B6dQzb2JV-vtDJFkXWMAfsQ-7NwQQ7zw4SXJrvpyJMJUkRgDLscECOnTdClHeW41AnvneC7msA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2204vlwbu3m253l34zsobqcutf3y4yzs%22%2C%22displayName%22:%22u_alexandray4z_m%22%2C%22id%22:%22217233780%22%2C%22login%22:%22u_alexandray4z_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	04vlwbu3m253l34zsobqcutf3y4yzs

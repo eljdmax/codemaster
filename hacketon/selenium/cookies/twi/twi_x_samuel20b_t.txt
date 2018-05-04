@@ -1,0 +1,13 @@
+#x_samuel20b_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	J3NRjLMQeiOdikSgGnBWGEI9LAEfr%2Bs4t%2FWmRHj%2B1aA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:37:19+00:00	unique_id	808bae9376d7f613
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:37:19+00:00	_twitch_session_id	1e209e4ea9b074ab0c31b17d736da795
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:37:39+00:00	persistent	216487550%3A%3Ahtr181togyu1ggas084c57x2utgqb4
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:37:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODc1NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4MjU5LCJpYXQiOjE1MjQ1NzM0NTl9.E6p0MrD-5rrxgtNMBM2zE-UgpmG3htKbdPAXcCMCCz8qdZ-xIdXZyDYK9ra0E1gzV6PtR_vXlSZ1JYEVau-QTg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:39+00:00	login	x_samuel20b_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:39+00:00	name	x_samuel20b_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:39+00:00	last_login	2018-04-24T12:37:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:37:39+00:00	api_token	58d0250e4ef520302134c0fbab3ba78f
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:37:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfc2FtdWVsMjBiX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI1NDU5LCJpYXQiOjE1MjQ1NzM0NTksIm5vbmNlIjoiMFlDV1VRN2xpTjQ2VVZYWXRNZFRSVk1VTTN6UW5Jd0V3M3JsV2xhZDU1QT0ifQ%3D%3D.atdO_F1S-HZ69L6lxb0lRSFkso2n6JpHxxhvyBW0LO80-EhmjVSUw9e8n-nY9ag83rPQuUDmm-zGH_QCNUE6ng%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:58+00:00	twilight-user	{%22authToken%22:%22mnc7v9jkwr6datgmg73b2jjo1oxwzn%22%2C%22displayName%22:%22x_samuel20b_t%22%2C%22id%22:%22216487550%22%2C%22login%22:%22x_samuel20b_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:58+00:00	auth-token	mnc7v9jkwr6datgmg73b2jjo1oxwzn

@@ -1,0 +1,12 @@
+#v_zoeym7v_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	U8MbKOweqmeOtG8m14RBfDJKV4T9WrE2uA1LUkXUG90%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:07:48+00:00	unique_id	ede836f400e5a483
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:08:11+00:00	persistent	216941716%3A%3Ayyt4pev51ct6119t0t4aycqtybqpip
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:08:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDE3MTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNjkyLCJpYXQiOjE1MjQ3NzY4OTJ9.PIDLNyZnWpF4FfTK_eUTXZCryjA3Ma1il3Zpcc9laHTaWh1Otr3My8rUrGbznlkfAemAFWX8m95LaVhas7-sFQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:08:11+00:00	login	v_zoeym7v_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:08:11+00:00	name	v_zoeym7v_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:08:11+00:00	last_login	2018-04-26T21:08:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:08:11+00:00	api_token	819ddda11ce1c98b4a0e979e27ad3157
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:08:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfem9leW03dl90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyODg5MiwiaWF0IjoxNTI0Nzc2ODkyLCJub25jZSI6Im9XU25vd3pydmJaS3VIbS1BNTduNk1HcEJzcmdzemVUTlZDV3ZSRzNJWUE9In0%3D.u4HbgXql7HlMt_R9vtEqzTv9a57gAjqkSdkJ-aw_KmI1tcmgGbXnBcZ6AlPuFgiADMz5y3M4ae9DOiYOmSyCew%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:09:42+00:00	twilight-user	{%22authToken%22:%22xyloafc16ggovz36gw67sem6p2vjsu%22%2C%22displayName%22:%22v_zoeym7v_t%22%2C%22id%22:%22216941716%22%2C%22login%22:%22v_zoeym7v_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:09:42+00:00	auth-token	xyloafc16ggovz36gw67sem6p2vjsu

@@ -1,0 +1,12 @@
+#g_jacobb35_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B3QAh%2F5GM27K%2FuV4V3968dlB0eDd1CPYQuL3uVvNFZw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:47:47+00:00	unique_id	778d5cd6bb2e7bdc
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:48:06+00:00	persistent	217079456%3A%3Aa64yxto7nzuc28b56x2q8k84b6fgno
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:48:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzk0NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2MDg3LCJpYXQiOjE1MjQ4NTEyODd9.M-JfZhq8T7AH6yGIqBXCqozRfjPvCHy7Ze2Lm_4OBbo5iN_WZ9IDmBwWAFvQosc_GQcjcRN78FNNk_W4TqXoZw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:48:06+00:00	login	g_jacobb35_1
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:48:06+00:00	name	g_jacobb35_1
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:48:06+00:00	last_login	2018-04-27T17:48:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:48:06+00:00	api_token	a95ee4701f890f1ffe938905a1193935
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:48:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamFjb2JiMzVfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDMyODcsImlhdCI6MTUyNDg1MTI4Nywibm9uY2UiOiJKVFRoS3B5N1ljT3ZfRDZrc1dtOUxHc2xwVGktdzBiVkhrdVRYd3NXN2ZzPSJ9.3NE4Mzcqv4ow7SriVqVTgpr421aVjOhYT0YGw3BzmV4mdBaC_jG7EvZJ5KNZ8U3x9CV3n1KCi0ONK7wlnAHpvA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:49:40+00:00	twilight-user	{%22authToken%22:%22tajqn5k1t4u95qflbsnjoj7ol1pe1g%22%2C%22displayName%22:%22g_jacobb35_1%22%2C%22id%22:%22217079456%22%2C%22login%22:%22g_jacobb35_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:49:40+00:00	auth-token	tajqn5k1t4u95qflbsnjoj7ol1pe1g

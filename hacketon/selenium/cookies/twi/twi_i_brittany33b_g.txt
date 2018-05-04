@@ -1,0 +1,12 @@
+#i_brittany33b_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Ir01u%2Foa4wO%2F2VVqQVbc7qwqB7v7%2BYHAwdGfF0rXyTg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:32:33+00:00	unique_id	261d03cec8e64bac
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:32:57+00:00	persistent	217567721%3A%3A8j63jfwdwxu3541f2n7wrdbdkx819d
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:32:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njc3MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4Nzc4LCJpYXQiOjE1MjUwMzM5Nzh9.PEOS7p6H2FKlX-4A7C4qepRKlcXsxp_uPdGlum2C3MTnvnNTEKGGVX8DbfdD4QO9KYHac2QEEKz84HYSXQA97w==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:32:57+00:00	login	i_brittany33b_g
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:32:57+00:00	name	i_brittany33b_g
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:32:57+00:00	last_login	2018-04-29T20:32:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:32:57+00:00	api_token	4f8b5f557170096521bc46acf85ab6f8
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:32:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYnJpdHRhbnkzM2JfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODU5NzgsImlhdCI6MTUyNTAzMzk3OCwibm9uY2UiOiJwSno0R3NXanhFaXRReUJ0REcwRlFYRVlnb2JGbktwZWtMM1lmcGMzOE4wPSJ9.5ozf8bS10g2hCJoxbKGZzCBs49rvkYlizTsdnZR-_S8Uj1crVGmmftn2cCwqMfi1--RBQFNg46EHZbIV579ZWQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:34:43+00:00	twilight-user	{%22authToken%22:%22fnezfwxy0fdacs4jgicx2aglv6ugcz%22%2C%22displayName%22:%22i_brittany33b_g%22%2C%22id%22:%22217567721%22%2C%22login%22:%22i_brittany33b_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:34:43+00:00	auth-token	fnezfwxy0fdacs4jgicx2aglv6ugcz

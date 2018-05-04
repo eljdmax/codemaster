@@ -1,0 +1,12 @@
+#a_sergio70u_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cKmVBBk2pc9SQtbizjdnShCoJVcuh2gQnxp4yUoRLmU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:26:35+00:00	unique_id	d3347eb6853d4ac3
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:26:58+00:00	persistent	216135477%3A%3A70l45r3pcbwnai7c4r1uj6lyy1f9ew
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:26:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzU0NzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3MjE4LCJpYXQiOjE1MjQ0MzI0MTh9.uo4ehaYHq_ecXow1ft91-qEAEf0b2kpW1yMvle2IbSJUklnMc-IM9RJ5WF_cuaRvdMDOK5p4KWC2Bpr5-08dtg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:26:58+00:00	login	a_sergio70u_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:26:58+00:00	name	a_sergio70u_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:26:58+00:00	last_login	2018-04-22T21:26:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:26:58+00:00	api_token	f62f7aa1c94b84b98cf6557b78d9d954
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:26:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfc2VyZ2lvNzB1X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg0NDE4LCJpYXQiOjE1MjQ0MzI0MTgsIm5vbmNlIjoidkpiUHRZY0RqNkh0ZWcwV3NYYWVSU0lfS05ORXNYQ0ZOUXB0RktiS0FZQT0ifQ%3D%3D.xuohV1TRsKUeSdbyFam01OmjJ-lcwBST4ts_4N2DTIgTc8dGLx8KA_aRocfg2tXXHrd4mihveacaB7yZlMU8Jw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:28:10+00:00	twilight-user	{%22authToken%22:%224wxk2b9g4bl3ra16vy0guidtr4ymje%22%2C%22displayName%22:%22a_sergio70u_w%22%2C%22id%22:%22216135477%22%2C%22login%22:%22a_sergio70u_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:28:10+00:00	auth-token	4wxk2b9g4bl3ra16vy0guidtr4ymje

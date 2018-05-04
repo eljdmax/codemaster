@@ -1,0 +1,13 @@
+#y_abigail54t_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WK1ZormNLJpSRREolIvCMHJv0JCn%2F15%2BYjfzvonVI0o%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b9179b60826a5b79
+.twitch.tv	TRUE	/	FALSE	0	persistent	217951513%3A%3Aavvumd30sjdadbt4tqsbhzf9gu3uoq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTE1MTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg2ODcsImlhdCI6MTUyNTE5NTA4N30=.dXxNXgBRZlXrWFUxXeyIoQcW5P5EVzmu3XpxmuFvaEOrAlG6y8mmH3HyLM4zb7YFSc3doc5U2-YoA647u3MBRQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTE1MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5ODg3LCJpYXQiOjE1MjUxOTUwODd9.RUW4dLcdwSLW3_6UQfcv_ItM53ZX9LHWWzkPS12T4Y_vBK-iF6_D6SRmGI9b7M1B42cnZ8cCOot86cEAPTrhiQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_abigail54t_w
+.twitch.tv	TRUE	/	FALSE	0	name	y_abigail54t_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:18:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c310d32959002cb9443ab5dd12bc3366
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYWJpZ2FpbDU0dF93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NzA4NywiaWF0IjoxNTI1MTk1MDg3LCJub25jZSI6IjVWMTQ0QkU2enpZLW0xRTR0T095WE05UVBQM0ZERUJ3VGtxRl91bzNpcGc9In0%3D.kVh8me20R4BAcABCeQnnwdk9OpsZZHVhmXAD3iytGalAyMweob4Fqo8RL60ramFiDr7NM74QkrnUhL9ycu_HlQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227afgw4i9it6jz575f8mkmad3ctiv5n%22%2C%22displayName%22:%22y_abigail54t_w%22%2C%22id%22:%22217951513%22%2C%22login%22:%22y_abigail54t_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7afgw4i9it6jz575f8mkmad3ctiv5n

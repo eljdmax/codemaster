@@ -1,0 +1,12 @@
+#g_jaylaw4k_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qXnhe6M75EzfngttErDJWPaMFgpN1ZBeKyeMMVwwagc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:30:15+00:00	unique_id	fc996da15b6f9046
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:30:50+00:00	persistent	216486811%3A%3Azlxd585idu45iu7lpplnn7jmbqhbmm
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:30:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODY4MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3ODUxLCJpYXQiOjE1MjQ1NzMwNTF9.O2VLxv-GERR-Ji2oFmYxL3jw7Eym0x6nXKKaXRjgKj70tifPlg3mkPZjVPoz4bPSSPJkOKNM4jGDCDktkvMTnQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:30:50+00:00	login	g_jaylaw4k_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:30:50+00:00	name	g_jaylaw4k_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:30:50+00:00	last_login	2018-04-24T12:30:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:30:50+00:00	api_token	c6fb7fe9e3feb973f1cd404f082dbd1e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:30:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamF5bGF3NGtfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjUwNTEsImlhdCI6MTUyNDU3MzA1MSwibm9uY2UiOiJVSmw1YTVMVGZKRk8wdzRsMVpDSkxYeHNoenhrTVd5Y0l3bW9kSWRjLUFVPSJ9.vyqOC93R3nNxYu1QrHjLBsCLyHguixMPjZc1u3r7naAuYvljCabqImZY5vnxFpAkwe6xfpJwFZpxpe0Pv59oIw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:32:12+00:00	twilight-user	{%22authToken%22:%22t3aki9pjtskvweuu4s0fplnskf9sly%22%2C%22displayName%22:%22g_jaylaw4k_l%22%2C%22id%22:%22216486811%22%2C%22login%22:%22g_jaylaw4k_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:32:12+00:00	auth-token	t3aki9pjtskvweuu4s0fplnskf9sly

@@ -1,0 +1,13 @@
+#i_eduardo142_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xaRN8DJrUar368uR5Xvjp73P3JONhq%2FIf2c2Pn0BLmg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:04:54+00:00	unique_id	4bb415dfea36419e
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:04:54+00:00	_twitch_session_id	9bd68a789f4ac020e2a817bc5dcf6eb4
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:05:13+00:00	persistent	216142705%3A%3Ariula7m6bqngqhuygcw5d1f3xlylpt
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:05:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDI3MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5NTE0LCJpYXQiOjE1MjQ0MzQ3MTR9.AAQ6OcbAS6V8XpaK-KDV7uBczRnyoxS3B2BHA2LOWEfz2JsUe1Uvh6PHbujFPHahdyuX1IkZlFGQgT9py6NSTA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:05:13+00:00	login	i_eduardo142_z
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:05:13+00:00	name	i_eduardo142_z
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:05:13+00:00	last_login	2018-04-22T22:05:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:05:13+00:00	api_token	ea0773022c05c6c224bc4aa1155e913e
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:05:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfZWR1YXJkbzE0Ml96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NjcxNCwiaWF0IjoxNTI0NDM0NzE0LCJub25jZSI6IlZHVVVPV28xcTBTQUpXMXVpazBfVE5ocjQwYy1Dcko5bW1Sc0xfdmE0dk09In0%3D.kzuKL1U_QD4zmc1CCiUY90dlfFq4Ny4cF9XMMDyt5fyBfVw7V2zwnoPFWf_KJcif6qNzO48bIyKV_UZLCKUapQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:06:25+00:00	twilight-user	{%22authToken%22:%2216zza81yqghe2xvl2oxqgk0ukaxubp%22%2C%22displayName%22:%22i_eduardo142_z%22%2C%22id%22:%22216142705%22%2C%22login%22:%22i_eduardo142_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:06:25+00:00	auth-token	16zza81yqghe2xvl2oxqgk0ukaxubp

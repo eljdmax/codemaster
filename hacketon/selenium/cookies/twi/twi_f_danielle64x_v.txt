@@ -1,0 +1,13 @@
+#f_danielle64x_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	88NqtDpJWTsmX96z%2BjTUZ6QRS5pX8wSALwzb9zOd2uc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:06:30+00:00	unique_id	ed5ac676a930c5d2
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:06:30+00:00	_twitch_session_id	b1d7509b0e3370bf29c90f9ef70df4a6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:06:55+00:00	persistent	216491056%3A%3Aijcra97iepmplxje9q58jrmut73hzx
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:06:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTEwNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMDE2LCJpYXQiOjE1MjQ1NzUyMTZ9.CJ53RCYruKu5ZhRhp8JkoA3FGDa9bntUsqfHIdGIKfuLXT3PjELhniodPgUTRX8gi6FTJYZDtOD7pfdBjS0VVw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:06:55+00:00	login	f_danielle64x_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:06:55+00:00	name	f_danielle64x_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:06:55+00:00	last_login	2018-04-24T13:06:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:06:55+00:00	api_token	2eaa3e7bc8442aff7fb334e7b25f2400
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:06:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfZGFuaWVsbGU2NHhfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjcyMTYsImlhdCI6MTUyNDU3NTIxNiwibm9uY2UiOiI4SHJuUjFuSzFIMnVTb2VnQUUzeWhzdGdocnU0azFLZ1ZUeUsyQXF6YjJvPSJ9.HDzi2IKg92faLD7Nsq8gr5SgyAUyThP0vS0kBJ3HZZTEmnoA_7xEt270QDKQR79Dg9nqUNpaYiF8DgUZyaGkaA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:08:17+00:00	twilight-user	{%22authToken%22:%22twnlkwlbhjjo8xqgxsijkdpjawx334%22%2C%22displayName%22:%22f_danielle64x_v%22%2C%22id%22:%22216491056%22%2C%22login%22:%22f_danielle64x_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:08:17+00:00	auth-token	twnlkwlbhjjo8xqgxsijkdpjawx334

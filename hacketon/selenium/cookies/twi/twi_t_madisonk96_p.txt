@@ -1,0 +1,13 @@
+#t_madisonk96_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8DqhHn5kIWUxtkKvjEzPGZkEMImCH1f3XDj9R9vCX2w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:10:25+00:00	unique_id	120560639c1a30b8
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:10:25+00:00	_twitch_session_id	fd054ac12eb1eeabb4735fcab3d559ca
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:10:57+00:00	persistent	216491597%3A%3A1rkgwyj0mjpxuhs97560ltomfex32k
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:10:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTE1OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMjU4LCJpYXQiOjE1MjQ1NzU0NTh9.6HEpQrgd_PdXutTWnwaWLX0I_d_T3NBkBIS9vqGaRBV0X6BEVZD0RTvOws7CVg8WRkdmjMmRGjVCp9gbuMpvgQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:57+00:00	login	t_madisonk96_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:57+00:00	name	t_madisonk96_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:57+00:00	last_login	2018-04-24T13:10:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:10:57+00:00	api_token	0a53263a7663d7b5b8dd227980e036f6
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:10:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbWFkaXNvbms5Nl9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNzQ1OCwiaWF0IjoxNTI0NTc1NDU4LCJub25jZSI6IlhVdG5ZMXJFSlRTZTkyVWg3OGxUa3p6XzRsZk5RTVVFbE5FSDdxdm9wVEk9In0%3D.yCzESZ-FHmrOhh-1L6g1IxoxqNf-g5HbzI-QcCLWm2JnN5onVOAdgFD5GEVHvBqy7k_S2jFU5LQqw1rQGlGQcw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:12:17+00:00	twilight-user	{%22authToken%22:%22fn87zfvz12tunis7vayohvrno2guid%22%2C%22displayName%22:%22t_madisonk96_p%22%2C%22id%22:%22216491597%22%2C%22login%22:%22t_madisonk96_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:12:17+00:00	auth-token	fn87zfvz12tunis7vayohvrno2guid

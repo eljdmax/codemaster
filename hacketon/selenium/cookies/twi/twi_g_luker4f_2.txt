@@ -1,0 +1,12 @@
+#g_luker4f_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5JHo%2F5P8fsMtonq2LG9ujTvsKnoAiWSjNuc4fA5E4AY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:08:11+00:00	unique_id	b18ed27a05b0e165
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:08:24+00:00	persistent	216143282%3A%3Anrgavtixfw67hoqandq0pcbc5h0plg
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:08:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDMyODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5NzA1LCJpYXQiOjE1MjQ0MzQ5MDV9.tk8WT3RBOCzfmks7zYnSNwQFjWY71wk6nOQ8oPBiBordbcGx6U5GLj1X4SMpV0Xa7obyBroqRuOAlDLj_392pw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:08:24+00:00	login	g_luker4f_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:08:24+00:00	name	g_luker4f_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:08:24+00:00	last_login	2018-04-22T22:08:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:08:24+00:00	api_token	1e2344f242859be7c0b5e46cd025c9dc
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:08:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbHVrZXI0Zl8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NjkwNSwiaWF0IjoxNTI0NDM0OTA1LCJub25jZSI6Ik53QXBMNFBtTGp6QzdkbVAxZEpiQmVfY3prcGlDWWxxcUFqNGxYeTR3MXc9In0%3D.wqkpMMdXTVakIrT6bgocVIOZiiTgtR9GBOPgvWQqyQ3XCBKBu2oaetWfVl0fy7lcRc5UIHs3BXJ0y-hq2xrbow%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:09:36+00:00	twilight-user	{%22authToken%22:%22nwltj87jqijevi2h4p5yhjp9an6d70%22%2C%22displayName%22:%22g_luker4f_2%22%2C%22id%22:%22216143282%22%2C%22login%22:%22g_luker4f_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:09:36+00:00	auth-token	nwltj87jqijevi2h4p5yhjp9an6d70

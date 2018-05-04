@@ -1,0 +1,13 @@
+#e_danield46_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IOANyI22LzhtPxYUBvt%2BsQ8%2FcfjPikxB2kQ3TWiedlE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:15:48+00:00	unique_id	1db9bc1872870193
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:15:48+00:00	_twitch_session_id	2c36d82fff3de75e886be237585234cd
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:16:08+00:00	persistent	216474787%3A%3A3ja2gn7kezdmq0vhztv7cr4rh75qhl
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:16:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQ3ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5NzY4LCJpYXQiOjE1MjQ1NjQ5Njh9.utuDJqZ_Q3OPBub0nhoJjZgpP3UD10ogJmr7hCMkHmZ6u48Yb3RA5_SPBguuc9S9yPKqYTi7zcN-oY8pXn4Y4A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:16:08+00:00	login	e_danield46_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:16:08+00:00	name	e_danield46_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:16:08+00:00	last_login	2018-04-24T10:16:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:16:08+00:00	api_token	6fe337f95d542048b9d7ab1d2c3aac5b
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:16:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZGFuaWVsZDQ2X3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE2OTY4LCJpYXQiOjE1MjQ1NjQ5NjgsIm5vbmNlIjoidVo3Q1M3TlRodkRXcXEwbEV2UkR5QWhxU01HSWZIWTEyZVpTTHBFUkdHRT0ifQ%3D%3D.D671QgCQ1ZimFhZCasvvruemYoSdVKCUqfKxoTzpxpulZW5CQpTc_sL-5AQWNd0jDZBqh1e8LDItTuRUQ2rT0w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:17:27+00:00	twilight-user	{%22authToken%22:%22cruu0z98ijyfzk4pydsdpzvqvnrpy1%22%2C%22displayName%22:%22e_danield46_p%22%2C%22id%22:%22216474787%22%2C%22login%22:%22e_danield46_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:17:27+00:00	auth-token	cruu0z98ijyfzk4pydsdpzvqvnrpy1

@@ -1,0 +1,22 @@
+#g_dianac7d_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eagoX5LopAVmPWdLdor5hS7d4jnbvTzdtzekAeOgBR8%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217713503%3A%3A35vz43ngpnaf76f13zcqzz9okzwgx3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc3MTM1MDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxMDcxNzIsImlhdCI6MTUyNTEwMzU3Mn0=.BFVGccF_eiYuwkrBvt8dHpJquTtmn_MiyenM_lwOfO1ehPxW3gEXTBQRYGZRO-G3uzGd-2I13AvVPMRmWohXhQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc3MTM1MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzA4MzcyLCJpYXQiOjE1MjUxMDM1NzJ9.J12xOHA1OzmYUImym_tQfOf7tTzFLQmis-K7fei2hJTd0IIUiCinh7oI8i2sBvf-OSLHFvfG18Wjs-YIrhdWTw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_dianac7d_w
+.twitch.tv	TRUE	/	FALSE	0	name	g_dianac7d_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-30T15:52:52Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e4c42b33446f2cc2854d92a34600eaa9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZGlhbmFjN2RfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA2NTU1NzIsImlhdCI6MTUyNTEwMzU3Miwibm9uY2UiOiJrbkE4SGlmQjNlZlNXenBZRzluZGZ3QUplQVNQV1hWQ3BYX2ZLd2U4UTJ3PSJ9.Xl494mfaZJVCt_bWXwp9CQ7XETf2Ok_3q31aEEZNRU5WGX1YjC-K9JIIuxO5Vzo8PPHfedsAhmfKRxhTLI6DtQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s1l5iut1qhdfog9no3r45h5b72mgkx%22%2C%22displayName%22:%22g_dianac7d_w%22%2C%22id%22:%22217713503%22%2C%22login%22:%22g_dianac7d_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s1l5iut1qhdfog9no3r45h5b72mgkx

@@ -1,0 +1,14 @@
+#q_valerieb6p_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	k045Q0LQ3nu8KM4UOhyZtAzixZAUpb%2FSxkZyvq9ipQg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f422b27d5d4f0d80
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2daa77cb9d4c526214a355cc1c9c73c5
+.twitch.tv	TRUE	/	FALSE	0	persistent	217272227%3A%3Ar6u30z2cwanpw89ewtuiafscw7waml
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzIyMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzM2MjEsImlhdCI6MTUyNDkzMDAyMX0=.9A72joeO2kRRlrI_R5YZvxIpJVq0s6kQfpTbIbj3uxyN8GMD2WNWLh-T0SHAa0hGCeLNbGobK77DHtIFSRcb9w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzIyMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0ODIxLCJpYXQiOjE1MjQ5MzAwMjF9.EZdB-40AY88a7t5ZQuWrQzXFW5BXNYkF16mR1-AT-NLiXEPj1ajdqVBUvKotyF1b-xWpoyyBcq08zdv0LOawOQ==
+.twitch.tv	TRUE	/	FALSE	0	login	q_valerieb6p_r
+.twitch.tv	TRUE	/	FALSE	0	name	q_valerieb6p_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:40:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7376adf299068351b97045d5239a38a3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfdmFsZXJpZWI2cF9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4MjAyMSwiaWF0IjoxNTI0OTMwMDIxLCJub25jZSI6Ik9YLXhJX29ZMUo4eGltZ3hvaVJnM1B0bzR3R0FCNnNURWNCY3JlMGZjVTQ9In0%3D.FNSsoFEbCJsUc2BPVYRZ3954l4oAtoYw4goV7qeowxmaoSuUxxMgR5LawQjqXlDdCWWO1cNoDfFYW0VSl3xgZw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2287n5ni3zh03n8k6n6yo7zahw7zlznp%22%2C%22displayName%22:%22q_valerieb6p_r%22%2C%22id%22:%22217272227%22%2C%22login%22:%22q_valerieb6p_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	87n5ni3zh03n8k6n6yo7zahw7zlznp

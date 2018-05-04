@@ -1,0 +1,12 @@
+#o_evva59l_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6dB4iqkXkyPQ6Te%2BM7lrRQBWnZEzSR7uR8bvHu6J3nE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:13:52+00:00	unique_id	eeb063dc78d933e9
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:14:08+00:00	persistent	216144303%3A%3Aksndhhwm0jqt9ii69yrp18diw5zpv4
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:14:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDQzMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwMDQ5LCJpYXQiOjE1MjQ0MzUyNDl9.mIob1HkYpPV2cWiyY6w97dQVhPRXG_VhKkFYj3Hpt4EBTH83FBJzFsy-F45KeeKEiU-3GULB1kKvorXy2ZPqEw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:14:08+00:00	login	o_evva59l_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:14:08+00:00	name	o_evva59l_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:14:08+00:00	last_login	2018-04-22T22:14:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:14:08+00:00	api_token	65d04b774b40c672ccd685ae63d4ac5a
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:14:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZXZ2YTU5bF93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NzI0OSwiaWF0IjoxNTI0NDM1MjQ5LCJub25jZSI6ImNmX18zWlNZa3U4NTFHdllSbmR3Ry1LUU45dG9iTlNvNHlwSzJraTJaNjQ9In0%3D.hi0a9oFmXJ3XlJLddLcmhTVmMmylBpSap8AFRDjKML84gxCcPXUloBy5H3hq1qH-V1Mv35vKbe6sYvDGYcuLZA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:15:22+00:00	twilight-user	{%22authToken%22:%227el9bur415r5t9cmd49v4yr1uo7vnt%22%2C%22displayName%22:%22o_evva59l_w%22%2C%22id%22:%22216144303%22%2C%22login%22:%22o_evva59l_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:15:22+00:00	auth-token	7el9bur415r5t9cmd49v4yr1uo7vnt

@@ -1,0 +1,14 @@
+#u_jack29e_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EeCS%2BFBUa%2BiVCvx6D8dFPE%2F3R35UBERecnwRTwsSjQo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e25627b07213eb94
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	39d3411af74aa475dd3fe007818b3c45
+.twitch.tv	TRUE	/	FALSE	0	persistent	217951046%3A%3Als5b4o7tkphzm5ikbe93b7xs6scg2f
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTEwNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg1NTIsImlhdCI6MTUyNTE5NDk1Mn0=.k30SkwGEk413OEvdCpe581RdF_To0EvFR33Hi4C2YCfT-LtyOYLF78jT80jSF-O__fDdNHrOoe6gpCtahuecHg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTEwNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5NzUyLCJpYXQiOjE1MjUxOTQ5NTJ9.bzVEIWQHJDbL3WQQSUHKN_O97Ws5Xhul5w2bRNc3T1v1nrc7bHK1T_FbyjFuye-9Acsang33f7A9o5MyS7e0Bw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_jack29e_z
+.twitch.tv	TRUE	/	FALSE	0	name	u_jack29e_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:15:52Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a97889250db921e6ac63e0254441c11c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamFjazI5ZV96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0Njk1MiwiaWF0IjoxNTI1MTk0OTUyLCJub25jZSI6IlhSYmFMVERHczNlQ3NRRWdZTEMta1g4dTVsOFpFZlJueENjZEtrRWUyT0k9In0%3D.XURxZqOIXiHZGWpJYc12ibKYMqC8cTO-8JNvEZZcxJFH18PiqWGUaBBPRyxtmmSgwC1iQpGWfh6XfEAbCnsBlw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ps4b91fod2lr8atjxlcgmp2rou4m17%22%2C%22displayName%22:%22u_jack29e_z%22%2C%22id%22:%22217951046%22%2C%22login%22:%22u_jack29e_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ps4b91fod2lr8atjxlcgmp2rou4m17

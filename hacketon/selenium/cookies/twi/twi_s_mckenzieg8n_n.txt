@@ -1,0 +1,14 @@
+#s_mckenzieg8n_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8FnwHHrkExvZTGUs3PuQpBF11vM1g%2BEgItQUnL8Wd8c%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ff372505926e16f3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	881158ddf1cecf81b09af432c593c03a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217937558%3A%3Au9nuxgc4tijwgiwd1b03svob2iqyb6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzc1NTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQ1OTUsImlhdCI6MTUyNTE5MDk5NX0=.fqv2gHz9D_3yjJ2mXijP6Dsd9eCpJ1APlJSnN--HfQA5ELiSQwrRlTm0esUwswXOmtV6wrjCtqZ1DkvBkrkdlg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzc1NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1Nzk1LCJpYXQiOjE1MjUxOTA5OTV9.ULs2VfBWea8YgL6Twe4yYKNAylyFUypoT7dHQoYoda82r_wfyglPoap6J2vqltanuFSsh688XzWA2a7eimlN4Q==
+.twitch.tv	TRUE	/	FALSE	0	login	s_mckenzieg8n_n
+.twitch.tv	TRUE	/	FALSE	0	name	s_mckenzieg8n_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:09:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d992164205e31cfc9522309e51e5c074
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWNrZW56aWVnOG5fbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDI5OTUsImlhdCI6MTUyNTE5MDk5NSwibm9uY2UiOiJJRXRyWG93bDVEdWk4MlRUbkNjdDZmVW8taDhmM1E1WEV5dGpETlFOclhJPSJ9.6BdP6l6eNMxvUjihI3ZHpsBCObcIolsIzNUQmLjlghP4hPgHkPhlmPQNg1hveZohYFyWtdKRw-Yos-wgJVMzPg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223nouliza0j07foc5bpxqtofm800xsc%22%2C%22displayName%22:%22s_mckenzieg8n_n%22%2C%22id%22:%22217937558%22%2C%22login%22:%22s_mckenzieg8n_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3nouliza0j07foc5bpxqtofm800xsc

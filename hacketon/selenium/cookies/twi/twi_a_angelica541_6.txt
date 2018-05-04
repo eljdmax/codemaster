@@ -1,0 +1,13 @@
+#a_angelica541_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NfsQ0hKv823V5Trr5sDNzrdJLnX0niUhPPcpTB4NpFw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c65a6a3231b5ef8d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217224518%3A%3Alxmigi9s92lweui2tybon9x5r6jvhy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQ1MTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTc0NDYsImlhdCI6MTUyNDkxMzg0Nn0=.3W2e7h6ak-XO0M1GgNnQRUkyuBchCaErAItLkcvpazeQzGVxzNYNatNihC7uCSOAgJCQIL_EwSb8xrPNBY_kIg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQ1MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE4NjQ2LCJpYXQiOjE1MjQ5MTM4NDZ9.gnPqEDOv51mpRHtluxKpnNPS6RmuB3sOFJSySHXPVMEtCoOQRog78BTASGFHlTEjgfCUzMBPACBYgx5jqPf3Gg==
+.twitch.tv	TRUE	/	FALSE	0	login	a_angelica541_6
+.twitch.tv	TRUE	/	FALSE	0	name	a_angelica541_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:10:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	16f40f3dd08f89c80e4941dc4726d7ca
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW5nZWxpY2E1NDFfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NjU4NDYsImlhdCI6MTUyNDkxMzg0Niwibm9uY2UiOiJUMk0xZWlVQjRfejlkd0wzWTNySlUzb25BWjlsRk82LXJ0YmQ3MFF6NnE4PSJ9.wsoVhncvB0zF9AkAjYPR8LzeKkQcs7iHbXEwT88lrJPWH_LcwdPkd5E8dn4Bl4A0Z67OFZ8HSPinz16YUfd1GA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:null%2C%22displayName%22:%22a_angelica541_6%22%2C%22id%22:%22217224518%22%2C%22login%22:%22a_angelica541_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	null

@@ -1,0 +1,14 @@
+#o_camilay9t_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QbD6NU54eBUjW1xXNmttLIuI47uEMC66BnvHmhmtF0w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f5dcfa31d042b8e6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b65631f750620d4e5cb882963d2c1c84
+.twitch.tv	TRUE	/	FALSE	0	persistent	217478817%3A%3Apymt28otz97ji67bdjcnwv0xv09ove
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0Nzg4MTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTI4NjUsImlhdCI6MTUyNTAwOTI2NX0=.Z1EaYigcAyaU1i58xdD3ktpiaHC7utk7ztP_v4lUc4jqidXmisoYil55i3IPZv2jT_Ydf13HENpKG6AlnfKXSg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0Nzg4MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE0MDY1LCJpYXQiOjE1MjUwMDkyNjV9.k3flBbbflxhDtkpH5JaEXjUxuxN5_gtZm2WI6gi5KsW-KFbT2rkJZzASk0XHajDek2F5TWZbsTK3fnni0RdBSA==
+.twitch.tv	TRUE	/	FALSE	0	login	o_camilay9t_y
+.twitch.tv	TRUE	/	FALSE	0	name	o_camilay9t_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T13:41:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	746e681af8b12b44ce29cb36c633e5b2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2FtaWxheTl0X3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYxMjY1LCJpYXQiOjE1MjUwMDkyNjUsIm5vbmNlIjoiYWFEYWllb2RpRmU0YlMyYUh6dmZxZlhsbmJST2FYRlF4QzFreUpleHBIaz0ifQ%3D%3D.g836Bp2cPXILBAxM8rGCYpe6_HdxDS2NzJIhzaGbT-9lAGfIA6yQ2cbqHm1rkyB_42k9gKuhYFJSx2Mrg367Nw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22q3bhdzessqk146h1cdb8q4ri1x92ac%22%2C%22displayName%22:%22o_camilay9t_y%22%2C%22id%22:%22217478817%22%2C%22login%22:%22o_camilay9t_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	q3bhdzessqk146h1cdb8q4ri1x92ac

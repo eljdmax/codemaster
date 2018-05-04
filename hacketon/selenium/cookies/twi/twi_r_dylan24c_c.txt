@@ -1,0 +1,13 @@
+#r_dylan24c_c
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjUwMzQ2NzcsIm52IjowLCJ1cHQiOjE1MjUwMzQ2NjgsImx0IjoxNTI1MDM0NjY4fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tBPS12lWJu19Fhd5ipBwDUlEhzn26oe6A0tN30pw5sk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:46:54+00:00	unique_id	a7dad50348ec62f7
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:47:13+00:00	persistent	217556760%3A%3A04x9kp45nz50kvcuhtg0yk6dzqubjr
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:47:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTY3NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2MDMzLCJpYXQiOjE1MjUwMzEyMzN9.NcwdqiyG9r57NhTnLfoAKOYPlTwZb1AR1uBW5uhdFpgnhTLC1VWQlI2h0OYTpAuO-vNiUu39_bWFk_YTNwO88A==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:47:13+00:00	login	r_dylan24c_c
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:47:13+00:00	name	r_dylan24c_c
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:47:13+00:00	last_login	2018-04-29T19:47:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:47:13+00:00	api_token	73eaa84b357bae25d81cc492b56aa5ae
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:47:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZHlsYW4yNGNfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODMyMzMsImlhdCI6MTUyNTAzMTIzMywibm9uY2UiOiJVY0ZtTkh2VFFQanlvUFpPWWpTM0pTYkhrUl9qR2hOQk9DcDVjcENLREkwPSJ9.Ivo3ehWQIAKj3DOoNULqIEJte6-nbiUqcVWIQCvddw2vvnLs9FBXYc7EbwDa_Vd615sNi5jSSICZ_gDZsBAFFA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:48:57+00:00	twilight-user	{%22authToken%22:%22nbvorwkz1g2oe55ctgo2a91mjmtafs%22%2C%22displayName%22:%22r_dylan24c_c%22%2C%22id%22:%22217556760%22%2C%22login%22:%22r_dylan24c_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:48:57+00:00	auth-token	nbvorwkz1g2oe55ctgo2a91mjmtafs

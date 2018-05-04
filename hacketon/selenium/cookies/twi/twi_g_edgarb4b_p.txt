@@ -1,0 +1,13 @@
+#g_edgarb4b_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	quURyE79oV8yi6EnrQ%2BlGSQ%2FSZ4ZgxaTWtK6%2Fl9JOzU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:44:11+00:00	unique_id	4ecd5ca3a1107eb0
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:44:11+00:00	_twitch_session_id	2cabb33b1cc4dbbdae3e7edc99157ea8
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:44:36+00:00	persistent	217078800%3A%3Am71shm293aefs3teybjpaxsp6ce6kp
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:44:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzg4MDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1ODc3LCJpYXQiOjE1MjQ4NTEwNzd9._HTy5wIUo30Gz6ogf_8Bxr-FZEvJqT1-D_Od-ZMvv4kRP22b0aGIdeuME4jNWn1GgsW4h4VuylZuOvCKnsSJLg==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:44:36+00:00	login	g_edgarb4b_p
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:44:36+00:00	name	g_edgarb4b_p
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:44:36+00:00	last_login	2018-04-27T17:44:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:44:36+00:00	api_token	c922f1b81b0b557e992855a7b773c85a
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:44:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZWRnYXJiNGJfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDMwNzcsImlhdCI6MTUyNDg1MTA3Nywibm9uY2UiOiJmTGxQUzUtZHExbTU2SGJJZ2o2MGFXS1BqcC02aHNNUXVYQkJoaDBxclpZPSJ9.ecYorSV3bOCFleGRYef_ALRtjvq0lvy2H56RrJq9lUCOVDL7boJSgTahRs4nPsCwOu2fftaj7TRbgrFxvgj_MA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:46:14+00:00	twilight-user	{%22authToken%22:%22uhhp94ozho5m1xk1s30o2c9syv7bhv%22%2C%22displayName%22:%22g_edgarb4b_p%22%2C%22id%22:%22217078800%22%2C%22login%22:%22g_edgarb4b_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:46:14+00:00	auth-token	uhhp94ozho5m1xk1s30o2c9syv7bhv

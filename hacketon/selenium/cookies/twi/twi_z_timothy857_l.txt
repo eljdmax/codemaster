@@ -1,0 +1,14 @@
+#z_timothy857_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DlO10gO5aKVPPY3a272niZObcKjArdHo4R4O8uopx1k%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7afcd43d9da6ed9a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0c2c37a5f2faac3f3166c862303038d4
+.twitch.tv	TRUE	/	FALSE	0	persistent	217263245%3A%3Acvw8xgnfho7q1ngmzkib9fdhmf0wzl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjMyNDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzA5NDMsImlhdCI6MTUyNDkyNzM0M30=.0Oew-49vhalZgxWtKznSkNmYw036PPJJgwn26WYl_9GrxVwZS2lJaJPVSPFlX0ZaJM5bQB8SBed-NTF0P7noRA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjMyNDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMyMTQzLCJpYXQiOjE1MjQ5MjczNDN9.7isSp9KqrhCtR_ueFLX0RxnfMUFxkAJ4n38n046fNGtTo15k0AGGE33UJcXwzW7er3MvHOzkRW-o-Jgxv2CWLw==
+.twitch.tv	TRUE	/	FALSE	0	login	z_timothy857_l
+.twitch.tv	TRUE	/	FALSE	0	name	z_timothy857_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:55:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b0183c1071872e72980c82cccd47354c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfdGltb3RoeTg1N19sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3OTM0MywiaWF0IjoxNTI0OTI3MzQzLCJub25jZSI6IkNTT2V4MUNKaGlaWkFfUEMxYlZhN0lhOVE0d25hdXNmUm9pQVdsUDBoU289In0%3D.5Em5I1FSeRFMPIuOvkylQ5CxaTp3rFDhQOVtw-m9Fkiol5GDlNdrtJj6oEEp3Z4BF3OyEUjoKemnQDgxXPdoAw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224l8uexpardrfr1getzuspgzm42qigh%22%2C%22displayName%22:%22z_timothy857_l%22%2C%22id%22:%22217263245%22%2C%22login%22:%22z_timothy857_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4l8uexpardrfr1getzuspgzm42qigh

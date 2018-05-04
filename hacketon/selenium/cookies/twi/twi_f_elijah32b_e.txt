@@ -1,0 +1,12 @@
+#f_elijah32b_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JCoHSEsY73wAEnQn395dUKlgp4vLkYoGbhY6ms5TlX8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:14:15+00:00	unique_id	675544a358987d6a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:14:34+00:00	persistent	216474671%3A%3A69m0a6an83jjsmap2cpi6ovnn00ie5
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:14:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQ2NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5Njc0LCJpYXQiOjE1MjQ1NjQ4NzR9.BCZ3akGDc5o25h771xrBp3DoT4I7R86q9Rt6OcZpyo3Hfb9rJEqI22VrLR11igZTX4rYxRItV2_j-lLI2DvDrQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:14:34+00:00	login	f_elijah32b_e
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:14:34+00:00	name	f_elijah32b_e
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:14:34+00:00	last_login	2018-04-24T10:14:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:14:34+00:00	api_token	bbf92b772bfa6c0fa17c4d20311c7db1
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:14:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfZWxpamFoMzJiX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE2ODc0LCJpYXQiOjE1MjQ1NjQ4NzQsIm5vbmNlIjoiT2UzNWNDdlpkbG00a0lVMXVWbUVKTjFjaVZLV3VRRnJhNFpuU0FDQVBYaz0ifQ%3D%3D.TjVAE1eozGYMRxSI9U2lRQt8kVd8hgZt-OW0u7E7VMelJDw8Y11gCrSQKqj2G6tT06UGUj71_1pRgggWWRrBfA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:15:54+00:00	twilight-user	{%22authToken%22:%22r73ukfl7y6uxt4k7te09x2zai53geg%22%2C%22displayName%22:%22f_elijah32b_e%22%2C%22id%22:%22216474671%22%2C%22login%22:%22f_elijah32b_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:15:54+00:00	auth-token	r73ukfl7y6uxt4k7te09x2zai53geg

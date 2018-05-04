@@ -1,0 +1,13 @@
+#d_pauln31_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LQBzgDl%2BDvgpmD9wIz7rQeBegeFDYBQ5woMCmEV1aCg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	849c639724789929
+.twitch.tv	TRUE	/	FALSE	0	persistent	217455339%3A%3A7js504ikt12mh5iafgpk3ios6kj1vs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTUzMzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDI1MjksImlhdCI6MTUyNDk5ODkyOX0=.a877tjsIjGaM5ziCQQfSUZuFzZd4QcX3KNMlZIbz8f9NtE2f8XKHD8VdPUaCv8fMqdrFBOZlcZgvAOgBUbvSQA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTUzMzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAzNzI5LCJpYXQiOjE1MjQ5OTg5Mjl9.bjX-bEh-RPZQuKBMMtJ1xbZZNDc_R6niYW4eILqje0DJAZitPizqOJOyGm1z-U-CmSa5phbt6nyKIkocAgGuNA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_pauln31_y
+.twitch.tv	TRUE	/	FALSE	0	name	d_pauln31_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:48:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6f0acc791a479047a4cef5f00e5f6208
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfcGF1bG4zMV95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MDkyOSwiaWF0IjoxNTI0OTk4OTI5LCJub25jZSI6IjE0dnVBMF9meGpkRHRWUk9wR3FjQjFYLVB0MTJ4cmsxamY0UlVlVWRGTmc9In0%3D.QvuozbU3lHoK0Cnh6u35zmOULDZicLGkSA96fHPeANaJTAxBXMBbRfex-AlOgQDQYjq6Wrnh5j8nWKi85I2N2Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rgc7wz4c3xnji16296naq9yy6qajql%22%2C%22displayName%22:%22d_pauln31_y%22%2C%22id%22:%22217455339%22%2C%22login%22:%22d_pauln31_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rgc7wz4c3xnji16296naq9yy6qajql

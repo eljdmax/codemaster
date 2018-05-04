@@ -1,0 +1,13 @@
+#r_raymondv27_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	lTH9dxogIK57%2BOy%2BlvCUWITpcL%2Ff6XYZeAHlF5BFti0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	30d9eaa17a5c26c7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217458815%3A%3Axsu9sk2li1qvns3rccgg76jfgctvey
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTg4MTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDQzNDksImlhdCI6MTUyNTAwMDc0OX0=.HMN7PmdI5fu42HyGpP7Z1JIzDs8W2WPgjsvYA_ddMgOeWe1aldT3KQCux2ZA2VVTiX34O_6ChAw6lVeLh6tuGw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTg4MTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA1NTQ5LCJpYXQiOjE1MjUwMDA3NDl9.fUfK4Gjrs2Lid0gXMyyvgniG5StjMQOkITN7Y-rFBtSBFkPztPIu5oN3RiyVHV8hCBi0xWxG0VlK6zmC4qntsA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_raymondv27_f
+.twitch.tv	TRUE	/	FALSE	0	name	r_raymondv27_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:19:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0e4cc3dfbf34f19dda6499a79f02b790
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfcmF5bW9uZHYyN19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1Mjc0OSwiaWF0IjoxNTI1MDAwNzQ5LCJub25jZSI6IjFRS0d3U2dqbHBJMUxaRkxUS3hDalhrNjVLY2l0WTlnQ1pQdUpWTWR5QWs9In0%3D.kAOH3HTmwNycnSjeTokT7JqCw_o8HSkVzNEEjWMlnM4oJEiUM7n_k0io2hriNQeIsnSt2jIqjMfhXIUhv5uGSg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xw6l1smecb9hj97dbcf0fbhnmglq2v%22%2C%22displayName%22:%22r_raymondv27_f%22%2C%22id%22:%22217458815%22%2C%22login%22:%22r_raymondv27_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xw6l1smecb9hj97dbcf0fbhnmglq2v

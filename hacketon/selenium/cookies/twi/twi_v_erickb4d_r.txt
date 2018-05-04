@@ -1,0 +1,14 @@
+#v_erickb4d_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nKQZVZ0%2BpS5hvOS3jWL%2BDJBgWNzOl%2FdrjtxAwbaGTfE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:29:41+00:00	unique_id	a98b2e7e7b513469
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:29:41+00:00	_twitch_session_id	7beb5f5288c271077e367d26e3e5661a
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:30:04+00:00	persistent	217567069%3A%3Akw7yzrqqhraf9lxyh0ui1oer0tsbhw
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:30:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjcwNjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4NjA0LCJpYXQiOjE1MjUwMzM4MDR9.OtxggzBHUB9IgXLKZbSb0HD5TqUXBoLfG33jYswHaMoV_5SfRhCYkDe6HYQsmFbTsKSI3YzbNCDCAWRXTu490w==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:30:04+00:00	login	v_erickb4d_r
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:30:04+00:00	name	v_erickb4d_r
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:30:04+00:00	last_login	2018-04-29T20:30:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:30:04+00:00	api_token	b6e89e860d0abe3c8ad1670be02c266d
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:30:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZXJpY2tiNGRfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODU4MDQsImlhdCI6MTUyNTAzMzgwNCwibm9uY2UiOiJxUmVtSV9HUTA0bXB1blcwSDFnTXZCaVFkYjIzUTQ5YXFBZzEwVFRfNEhvPSJ9.-uDl7_2l_8d_JTjYWLKfTV_Q6pUMy4Py17giEF3MYWi4nTRPv8LjWek8N9Dgg5lwyNszFwzluajrVMnIRBq2Mg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:31:47+00:00	twilight-user	{%22authToken%22:%22eyzk9q8bjy4wzt414q6vb6rwjaonmc%22%2C%22displayName%22:%22v_erickb4d_r%22%2C%22id%22:%22217567069%22%2C%22login%22:%22v_erickb4d_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:31:47+00:00	auth-token	eyzk9q8bjy4wzt414q6vb6rwjaonmc
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:31:51+00:00	twilight_onboarding	true

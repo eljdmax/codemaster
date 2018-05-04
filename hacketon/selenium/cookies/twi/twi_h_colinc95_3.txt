@@ -1,0 +1,12 @@
+#h_colinc95_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0Ggmgwynyx9ZHmXt%2FPU3PNytA5UkDxNteBbxBUbLoDo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:46:17+00:00	unique_id	bd6c42a5058ef278
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:47:08+00:00	persistent	216488594%3A%3A794lwwo3pzj66p38fhvef4wniduisb
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:47:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODg1OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4ODI4LCJpYXQiOjE1MjQ1NzQwMjh9._yyNf0Te5P2eHAp8XCtDnIW5y-w4a4AkL9YoeXQu34yk5EMckDOsELPUuK5R_0VnY3nQw8gmPxk23BVWSLWBsw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:47:08+00:00	login	h_colinc95_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:47:08+00:00	name	h_colinc95_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:47:08+00:00	last_login	2018-04-24T12:47:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:47:08+00:00	api_token	b520211c741841f6a0fb62ebb24d7c3e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:47:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfY29saW5jOTVfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjYwMjgsImlhdCI6MTUyNDU3NDAyOCwibm9uY2UiOiJQaDdHVFlod1ZSd0NDUXNjeXZKYzItazFnaklJTFEtQU52b0RQUUNBT2lBPSJ9.1evR2wBjTWZqlBNR_wOtjw4EoYDM3WVm0EsOC-kRMx6pVb1JRaIVKoxPQisHirt2_EovYv-bxVO2fz6BMg2K5Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:48:28+00:00	twilight-user	{%22authToken%22:%2205hlskxgylnm6yxpsjfvpmq2slpyv2%22%2C%22displayName%22:%22h_colinc95_3%22%2C%22id%22:%22216488594%22%2C%22login%22:%22h_colinc95_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:48:28+00:00	auth-token	05hlskxgylnm6yxpsjfvpmq2slpyv2

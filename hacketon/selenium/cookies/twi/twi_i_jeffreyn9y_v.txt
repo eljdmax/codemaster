@@ -1,0 +1,13 @@
+#i_jeffreyn9y_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	js%2BdkyyCXXwkJlmSSXNHUCQ2onzs7sFQZOie3IDMht4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8d893dff055de227
+.twitch.tv	TRUE	/	FALSE	0	persistent	217457011%3A%3Asre5nmgb92euoez71cc0bene0aok85
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTcwMTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDM0MzgsImlhdCI6MTUyNDk5OTgzOH0=.5pDaVlFuCqlvV8VXNYBVvblcDvgnb17u-BDU9sXnuu12hx9B4XeOvFryupv0_ramdfeTdkqWnTxJEQbA89f26w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTcwMTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA0NjM4LCJpYXQiOjE1MjQ5OTk4Mzh9.a4PjPglEvZtWHsipxTuNayO4SaEGRT8p2c7rCOCp_S6Y-hvlnHjvX1EvYN5pgUcS5CmhBk_Gl4RZfuKjUK0l8A==
+.twitch.tv	TRUE	/	FALSE	0	login	i_jeffreyn9y_v
+.twitch.tv	TRUE	/	FALSE	0	name	i_jeffreyn9y_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:03:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	74f6b97deaab00ab5a799b07575c96a7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfamVmZnJleW45eV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MTgzOCwiaWF0IjoxNTI0OTk5ODM4LCJub25jZSI6Iks5V2FGTFg3TzJ1elprOUI0VENMQzc3RGVMTHJDaWY4LXlKNTRvc3hzQ009In0%3D.ZGiVfKROz2_SD-f-njnmO4dP77c7luDMoVxD6Fv7I-Bi2-FYNjHTCZxXndTyYxYJoIbGM52JDhRl27T9uSNplQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223206lhqqgwy1zyt9xtkrbgipm327ns%22%2C%22displayName%22:%22i_jeffreyn9y_v%22%2C%22id%22:%22217457011%22%2C%22login%22:%22i_jeffreyn9y_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3206lhqqgwy1zyt9xtkrbgipm327ns

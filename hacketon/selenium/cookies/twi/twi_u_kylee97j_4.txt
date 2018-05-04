@@ -1,0 +1,13 @@
+#u_kylee97j_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B%2FwpGu3JmBgSNCuxEHhhf0Z9hucph8l44m6E%2B7KKOOk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:43:22+00:00	unique_id	2cf027f26bb2e278
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:43:22+00:00	_twitch_session_id	936bada847cbbb67c2b1d1a972c5e955
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:43:42+00:00	persistent	216488232%3A%3Acqgbvs4fv4cty88ivpfdsa6z7o4lsu
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:43:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODgyMzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NjIzLCJpYXQiOjE1MjQ1NzM4MjN9.iXux6YyYePOxQpuEgauyyFuWyShRGaNmICZKlD--WbMnk5hQMBp4dMzyWdsX9Hv7YBVLqSHImocQOmaxX5jvqw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:43:42+00:00	login	u_kylee97j_4
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:43:42+00:00	name	u_kylee97j_4
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:43:42+00:00	last_login	2018-04-24T12:43:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:43:42+00:00	api_token	7835933248affe50f8d4e7e5249364bb
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:43:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfa3lsZWU5N2pfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjU4MjMsImlhdCI6MTUyNDU3MzgyMywibm9uY2UiOiJMNS10RDlOdzlVMVdBRlo4WnVUSVlUbXhWazNRNnVndDZITVBlTFJJOUx3PSJ9.ZRprDlsFasB5QTaKDD8Z4P16YtYVCE4SlWPDZm-C6pfwZ1Q5BMjPjNd9uq4z3VVcuH50pp9-kBPfvsqTm6ILwg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:45:02+00:00	twilight-user	{%22authToken%22:%22r8evnhi2j6fuis6ckjjpvmirah07yc%22%2C%22displayName%22:%22u_kylee97j_4%22%2C%22id%22:%22216488232%22%2C%22login%22:%22u_kylee97j_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:45:02+00:00	auth-token	r8evnhi2j6fuis6ckjjpvmirah07yc

@@ -1,0 +1,13 @@
+#u_jesusj3f_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Yd1jG%2BCR4uz1n4%2Fytk2H1azW4a7GkfHaaAf6sDkRJuQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:56:14+00:00	unique_id	bcd8fc6f50914160
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:56:14+00:00	_twitch_session_id	3c7298a7e4bc343022dcf7b8d0d5901c
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:56:29+00:00	persistent	216141086%3A%3Antbacc7u8hxgjgq0cqii0kdzllf2l3
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:56:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDEwODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4OTg5LCJpYXQiOjE1MjQ0MzQxODl9.GouQj3P3tlqh-sB66EH2CkcxDUJb2Gv1TJqekr8QweHoAL4nmddPDIAwbdFnuZIyzDv2nJ7F0G-yUGIxl6IcmQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:56:29+00:00	login	u_jesusj3f_p
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:56:29+00:00	name	u_jesusj3f_p
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:56:29+00:00	last_login	2018-04-22T21:56:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:56:29+00:00	api_token	e5cc8f6da635c0be7259ac27a2150aa0
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:56:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamVzdXNqM2ZfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODYxODksImlhdCI6MTUyNDQzNDE4OSwibm9uY2UiOiI0QzVIUmNQMGp2ZkdYRndHQlhkbGtRTFNGSXdsNXpHNlAyWVBpRFQzZ3BZPSJ9.zx2iBjlGAy4VwKB8osG8rYVtmOa_yBefpN5gEeluUCLMMZ3a1oheaOBtiO3QxcNVgCqTcQYTPBZXr8C1eGnoFw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:57:41+00:00	twilight-user	{%22authToken%22:%22ekim7lw8tkon2m18lxyjaqlxcntqjt%22%2C%22displayName%22:%22u_jesusj3f_p%22%2C%22id%22:%22216141086%22%2C%22login%22:%22u_jesusj3f_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:57:41+00:00	auth-token	ekim7lw8tkon2m18lxyjaqlxcntqjt

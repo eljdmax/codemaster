@@ -1,0 +1,14 @@
+#a_sergioj7q_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	hQH0%2BdhFWzOC5AoZPczpDvEuQX3aKN6Xy387cQDUoD8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a25caca9d7b497d8
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b790aee99aa7c68ddaabc89bf06826ae
+.twitch.tv	TRUE	/	FALSE	0	persistent	217295187%3A%3A5kcwr3a4wg1u60or0ozif421vbxq0m
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTUxODciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzk4MzYsImlhdCI6MTUyNDkzNjIzNn0=.n-b3skmye4t5DCOCwFTZ2ei6a6vMZwzBxiVc3r-aDqnpn2s5LQ5qYskus16Rn-q6sTmppZYTgMyiUrKBgJKKlw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTUxODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQxMDM2LCJpYXQiOjE1MjQ5MzYyMzZ9.l8z-65RJAWzvzAI3HKWHc2mcx0cwModl5NeBA03LOIXYLHFvNRjX9NXsHq2jCd4a2baDq5EwSerWU0r5BvI20A==
+.twitch.tv	TRUE	/	FALSE	0	login	a_sergioj7q_r
+.twitch.tv	TRUE	/	FALSE	0	name	a_sergioj7q_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:23:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e8ce36348197e9c7518533030199653e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfc2VyZ2lvajdxX3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDg4MjM2LCJpYXQiOjE1MjQ5MzYyMzYsIm5vbmNlIjoiRjcwenhXOVhNWHBkeHA3bHRtV3k3cVB0ZV9mcTF3UXg2TkVFY1QzQ0Nicz0ifQ%3D%3D.pYzQUlqXlMLHUv9NFoQn4IwRAV82T1MyFkk8IinJyj41raEZOkkAuw1BlCcBObd5VZbmUGSqD3-AGyA9wNCGFQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224tboe0v53yxg01vnl4gnv0ei5vpp0h%22%2C%22displayName%22:%22a_sergioj7q_r%22%2C%22id%22:%22217295187%22%2C%22login%22:%22a_sergioj7q_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4tboe0v53yxg01vnl4gnv0ei5vpp0h

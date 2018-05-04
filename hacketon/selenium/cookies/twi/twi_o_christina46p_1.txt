@@ -1,0 +1,13 @@
+#o_christina46p_1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zhYgI84vV8IA88aDCOohhTHdrIqUpvjLmI2b2Houw0I%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fb0dcfddd5d03644
+.twitch.tv	TRUE	/	FALSE	0	persistent	217455455%3A%3Aty66n4c7b3a55o73vik9sk1guyq8vk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTU0NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDI1ODcsImlhdCI6MTUyNDk5ODk4N30=.XqRjiblQ7IkvvzC-thEeDYxsAVmQ63P-hAQzdmsb-h_lPxq1vcJkWDyq-Eq1io904hKQZV1Vv6CJh54VPcu7xw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTU0NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAzNzg3LCJpYXQiOjE1MjQ5OTg5ODd9.UNXEtanIXFuKTt2x3ZTjrnk1fWZ3ScLNeetbjzEbxWrnGGmpvDHxo80UOmfPEw_kKX5hOtN9ut4P7mSNT7t0-g==
+.twitch.tv	TRUE	/	FALSE	0	login	o_christina46p_1
+.twitch.tv	TRUE	/	FALSE	0	name	o_christina46p_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:49:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9cd5fcc6e74f56fef5254e6cacaf3652
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2hyaXN0aW5hNDZwXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTUwOTg3LCJpYXQiOjE1MjQ5OTg5ODcsIm5vbmNlIjoiOEx4cGYyOHI3SElwOEF3Vkw3QWd2ZlQ2bGtwYi05eFlJMHJyRVVCZ3NwND0ifQ%3D%3D.CDEkJJjYJKcGlxwd0X4eBOth9dKrQo6UMsx66c04dZQV4rxTlDQgEasbt9b7DVD6cTh3Gw6JFmWm10zEmDPUrA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wmogkgp48b2ath5frd5gkyfw9aqybu%22%2C%22displayName%22:%22o_christina46p_1%22%2C%22id%22:%22217455455%22%2C%22login%22:%22o_christina46p_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wmogkgp48b2ath5frd5gkyfw9aqybu

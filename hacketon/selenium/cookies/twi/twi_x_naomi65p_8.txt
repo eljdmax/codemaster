@@ -1,0 +1,13 @@
+#x_naomi65p_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NFiIySNufumYrDuJM0OhNSV24bbRss0nBnl4WKDasT8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	47b814eb3c6fc801
+.twitch.tv	TRUE	/	FALSE	0	persistent	217266186%3A%3Apzxf05ykaye6csp7n3gp6l8eeps39b
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjYxODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzE4MzUsImlhdCI6MTUyNDkyODIzNX0=.Ri8CgrIdvf3ZKfqbngOrsjS1W79deOgsOQsxg3BfUaauy6bDN94K4Mrg1zVU0-ZuVraPT67_UU0Bv8-FOZ00jQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjYxODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMzMDM1LCJpYXQiOjE1MjQ5MjgyMzV9.KM9VnpQq7sqdbx_WOpxM-DJRiLB4S2235R4bVp3eWfNEEGQ25TBVfv_JDvJVsSMbVdVeeeMIhZPDfffonguK4w==
+.twitch.tv	TRUE	/	FALSE	0	login	x_naomi65p_8
+.twitch.tv	TRUE	/	FALSE	0	name	x_naomi65p_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:10:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	64fabba9c923ee3adbdf083f1f7e2e45
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbmFvbWk2NXBfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODAyMzUsImlhdCI6MTUyNDkyODIzNSwibm9uY2UiOiJuazV5Wl9rc25uSW91OUYyZGpDMmwtbEdURlV3dndZZUtvTk01NDdrZXlNPSJ9.q_BMkXIS89qkii-godiU6jZ6oiyTbBcj_InMqckKGA-pXayj5qZ-ODODAsSNZT62q-c6NzLeQ4XD2fluKKIhNA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ut8mffuz9e8v5ynngoq7e9n087o3ly%22%2C%22displayName%22:%22x_naomi65p_8%22%2C%22id%22:%22217266186%22%2C%22login%22:%22x_naomi65p_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ut8mffuz9e8v5ynngoq7e9n087o3ly

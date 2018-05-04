@@ -1,0 +1,14 @@
+#y_vanessap4g_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	k1%2BbDR0qHMOLPOevUnqXL6Xjrfv1JreIPTZB6ZJYdZ4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3a33e85d71409f91
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f9265ecd047b48bd08d1570598f0b23a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217250656%3A%3Aa94ajrt47ju18bw01bo99lz8ktd47j
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTA2NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjcwMDYsImlhdCI6MTUyNDkyMzQwNn0=.HuEVAhslTfwEjy-soBk-MAshr4Gsh4q9ShqnMDWZfTn0mrWBbgTBOm0AWZSYg-jRatAUfGWl0w7iDsIC2YcswA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTA2NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4MjA2LCJpYXQiOjE1MjQ5MjM0MDZ9.aPaCtJTL6SpJb-G0VunfXI2eEQyppjna7qr862NxAqdwqATXYbwJpv7oo4wGBQwiUvJ2BHT9mzetyyoTAmTBpA==
+.twitch.tv	TRUE	/	FALSE	0	login	y_vanessap4g_x
+.twitch.tv	TRUE	/	FALSE	0	name	y_vanessap4g_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:50:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f3dc6e9f7772e60792b2b14b3a693644
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfdmFuZXNzYXA0Z194IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3NTQwNiwiaWF0IjoxNTI0OTIzNDA2LCJub25jZSI6IkE1Uk84RXFENDJHRml0Z3hscExQaDVncUNPX3VncWUzNVdsd0I1eFRmVmc9In0%3D.FSJTDBLcCmBGsLFWhn2Kv5TefybWpgA097IJSiIc_RnrEshWVOPn2NrVlaQx1bjjQinh9YhTA-o1bXK67_K-Zg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f7zhz0aj6nzznnr0jg5nfvm2h07hzr%22%2C%22displayName%22:%22y_vanessap4g_x%22%2C%22id%22:%22217250656%22%2C%22login%22:%22y_vanessap4g_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f7zhz0aj6nzznnr0jg5nfvm2h07hzr

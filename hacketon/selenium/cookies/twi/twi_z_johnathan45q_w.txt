@@ -1,0 +1,14 @@
+#z_johnathan45q_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IoFR8P4Iz4e9MQSeNWaZN9UzKkm5gX5hQ6GcMlUvtzg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:36:36+00:00	unique_id	76174d2594d17d3d
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:36:36+00:00	_twitch_session_id	663c14ca0eabd0b4eee1fcf4e510fb39
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:37:19+00:00	persistent	216487521%3A%3Acdjn7lhedfxj2c7tovvxmoq9p9ppjr
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:37:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODc1MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4MjQwLCJpYXQiOjE1MjQ1NzM0NDB9.pZT0fuFaQ0RTphsc1tOk-q3bbJSf5GpCyTe86TxqhYKB6h_DiJPeIZdZ_87UDVLI2LKiGVgymmeyqm-AzNwU7g==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:19+00:00	login	z_johnathan45q_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:19+00:00	name	z_johnathan45q_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:19+00:00	last_login	2018-04-24T12:37:20Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:37:19+00:00	api_token	551e2a6996c5a2c9646e9aa1f0d20dda
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:37:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfam9obmF0aGFuNDVxX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI1NDQwLCJpYXQiOjE1MjQ1NzM0NDAsIm5vbmNlIjoiYWx1OGZPNl9IXzlwYlNkdkxJRWxoVTFBeXhudUtsUE5UTUNSNDBWVHctRT0ifQ%3D%3D.0bFQf19DgipG6yO7cJh-9iMK2YwidU-4cbJPmRspIDcrh3StYNGghElSlmGHuVmpZX4j15ov0n226kXDpJRKbw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:39+00:00	twilight-user	{%22authToken%22:%22xpt6t1tww07pomh19xd7htxoe8t41m%22%2C%22displayName%22:%22z_johnathan45q_w%22%2C%22id%22:%22216487521%22%2C%22login%22:%22z_johnathan45q_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:39+00:00	auth-token	xpt6t1tww07pomh19xd7htxoe8t41m
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:42+00:00	twilight_onboarding	true

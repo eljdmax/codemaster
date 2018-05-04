@@ -1,0 +1,14 @@
+#o_michelle88y_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	JXYWmVwfr%2B2xBldJioUCblnFQjO%2Fafb%2FZVnTdTAq1Pk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ccfddac6dda0dbcf
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4168f8f9852aa3e6cf3f4871c0aa9259
+.twitch.tv	TRUE	/	FALSE	0	persistent	217490543%3A%3A1z2gm221kv9d45fhi4i2o2b6s88481
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTA1NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTY3NjcsImlhdCI6MTUyNTAxMzE2N30=.KTJSifk6G9QRR6AjjokQLWdImDwGyQNb1-lRxM1i8uWuJ9Au6tzNUAdDVNpAwmbdld4tCqtJSIrCs4QBt9NBpg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTA1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3OTY3LCJpYXQiOjE1MjUwMTMxNjd9.GJLmxdAkrHaOzBmX63aflzZETk9v521T7ywQ3KAFF69J9Nhx40CEt3eGCVoxvT4WDmFIpMmyGUJ3zFuKvwYkxw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_michelle88y_i
+.twitch.tv	TRUE	/	FALSE	0	name	o_michelle88y_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:46:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	691d20c27f93657d51a0e6d265a7e39c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbWljaGVsbGU4OHlfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NjUxNjcsImlhdCI6MTUyNTAxMzE2Nywibm9uY2UiOiI0SVZIa1p0TlNQa05yQ3lIanlWM2FKRzlYOURGZjE1S0JnMTN2Mi15VG5nPSJ9.Ts7qinaX2w-pZxd_kXySkRwtIU5C-WvDrLwY7T_CRr-f0LiKsk2C_n2YbFc6U4vkEl4SR-vC21gpCWRnN0NRCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225h09dv38iag2jh7n9a76bhcx84eo4o%22%2C%22displayName%22:%22o_michelle88y_i%22%2C%22id%22:%22217490543%22%2C%22login%22:%22o_michelle88y_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5h09dv38iag2jh7n9a76bhcx84eo4o

@@ -1,0 +1,12 @@
+#w_katelynv7f_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	27I5SK4FOan4UVLdTBwP3V%2BozgNbwS0h7z2XWN2pwGk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:44:27+00:00	unique_id	e50b04a068f1a0ba
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:44:54+00:00	persistent	216937760%3A%3Akg76j18i07pq8hv055lg75i92fvr5f
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:44:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzc3NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMjk1LCJpYXQiOjE1MjQ3NzU0OTV9.cGtOX5I9jnqvEYP1JJHcv3Wu4gkHim7G4UUJekprX7Cdh3gtdencE7TR4TobSDbd4JhfhjJ2YhMXY0Aox6rAFw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:44:54+00:00	login	w_katelynv7f_o
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:44:54+00:00	name	w_katelynv7f_o
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:44:54+00:00	last_login	2018-04-26T20:44:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:44:54+00:00	api_token	f15635c67e098865925825d86d0300bc
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:44:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2F0ZWx5bnY3Zl9vIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNzQ5NSwiaWF0IjoxNTI0Nzc1NDk1LCJub25jZSI6Il9tZEtTS1pXVTM4R1JKb2Z5c0c0LVNHUGNJeFl4bV8zOXU0NnB6cGZTdzg9In0%3D.AuRergRZMcG2LWcN0yKBjHktPPeycCtp6zJw2-KTGTKZnntIz4GEDMUi9LT9xkqTP-Tq7mLpz8NM_X_gyAtL2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:46:26+00:00	twilight-user	{%22authToken%22:%22aa5wcuu77zqvc0x99m8ca14oinsenv%22%2C%22displayName%22:%22w_katelynv7f_o%22%2C%22id%22:%22216937760%22%2C%22login%22:%22w_katelynv7f_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:46:26+00:00	auth-token	aa5wcuu77zqvc0x99m8ca14oinsenv

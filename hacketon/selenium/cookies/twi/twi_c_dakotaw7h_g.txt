@@ -1,0 +1,14 @@
+#c_dakotaw7h_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	d0Bz35qHwEMVs4ZRvAVDm1d1XoJnAJlNCz%2BvpneMHbA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	289a275ce9639787
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c4109ae66545ce93f8aa7a711da28f2b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217570093%3A%3Args52owfo9w570qj1a9fnct6cqfq1n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzAwOTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzgyMDQsImlhdCI6MTUyNTAzNDYwNH0=.jPpya4PNmHfi5cPdc4bUnd3Dmxwdu8d_TaVSWHiun8vAeYSUMpV_1pLVrdlwx3B_faxi1krUGu1BBfJ51bt8fQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzAwOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5NDA0LCJpYXQiOjE1MjUwMzQ2MDR9.FaZzbDcWdbgkoPNbae_F1KPRLUS0CQO5ilr5bw8JlfkFx3djka7EvIrv3Vg4xtw07Asl9QJHyJAnCmzOEz3SlA==
+.twitch.tv	TRUE	/	FALSE	0	login	c_dakotaw7h_g
+.twitch.tv	TRUE	/	FALSE	0	name	c_dakotaw7h_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:43:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	67d0528db88bac9911284f924e59b11f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfZGFrb3RhdzdoX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg2NjA0LCJpYXQiOjE1MjUwMzQ2MDQsIm5vbmNlIjoiTHVCWV9ISjh0Y1Q0cUFFZ2lhZ1hjQmlkVnlJYU5SSVBTT0x6SUhSemVBZz0ifQ%3D%3D.3T3gspZA9qnSaG_Bk6knlYfm_ofpWseS5lbFSx_ZmA3D_QZI7f_K6tXtc0emu0aTKFV-s27tuR86avqixBpn3g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2242rgwa7y0ibmvlt99lakmcew6xewsb%22%2C%22displayName%22:%22c_dakotaw7h_g%22%2C%22id%22:%22217570093%22%2C%22login%22:%22c_dakotaw7h_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	42rgwa7y0ibmvlt99lakmcew6xewsb

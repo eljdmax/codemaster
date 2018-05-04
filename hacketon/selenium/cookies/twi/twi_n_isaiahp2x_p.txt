@@ -1,0 +1,13 @@
+#n_isaiahp2x_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9bnZpPP%2FzZU06JHKgB5yBX25lAr76WXUarHWiLndlB8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:25:24+00:00	unique_id	81391420a7b842e6
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:25:24+00:00	_twitch_session_id	392a64d313568ff348f9e380f5941410
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:25:52+00:00	persistent	216486244%3A%3Ausr5hfhgqkuu74d4wrifyoqtlcgave
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:25:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODYyNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3NTUyLCJpYXQiOjE1MjQ1NzI3NTJ9._7TqjtUvnjvWX9oKXJ5mGTPtBdOm9FvtrpJUVdhc0hmeyKk7GNz5xpFAn2gEc605e4FbpfD3W7klXf03DoDdVA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:25:52+00:00	login	n_isaiahp2x_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:25:52+00:00	name	n_isaiahp2x_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:25:52+00:00	last_login	2018-04-24T12:25:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:25:52+00:00	api_token	f6a35aa0f6efb4061fc54bf6d4689aa5
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:25:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5faXNhaWFocDJ4X3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI0NzUyLCJpYXQiOjE1MjQ1NzI3NTIsIm5vbmNlIjoiZmxhSlJCYnFOSnd6QkQyUWNUSWxwNzRQampFeW5uTVJrNXlqQ2oxcjZTWT0ifQ%3D%3D.ipiI70Z2iuHEm-CA6KzywJorMNO5eniosm7elkBU-tni--EJXtruQE72ri3kYi3kcOVcrtItE8VPNshyejyy7w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:27:20+00:00	twilight-user	{%22authToken%22:%22i1atl0wfj63a9xtw9ejy2a739fh6sm%22%2C%22displayName%22:%22n_isaiahp2x_p%22%2C%22id%22:%22216486244%22%2C%22login%22:%22n_isaiahp2x_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:27:20+00:00	auth-token	i1atl0wfj63a9xtw9ejy2a739fh6sm

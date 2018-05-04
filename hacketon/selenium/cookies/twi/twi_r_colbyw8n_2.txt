@@ -1,0 +1,12 @@
+#r_colbyw8n_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	n9MbEVLKIrFpUPjNRiij3XlfV%2B8Wpozc6885ma9eiVA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:17:07+00:00	unique_id	5bfe43d274cf7318
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:17:30+00:00	persistent	216144897%3A%3A1cs27ohib49mdj5gicfzidor5x4vwo
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:17:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDQ4OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwMjUwLCJpYXQiOjE1MjQ0MzU0NTB9.5vdD3q2Y4a58L1nm50Q6dUty4kWDZaKy22rcsGozqZd1K4TckZw0KoZrdyHmd3ohknqkbu0ssQBd0E0Q-S95Ag==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:17:30+00:00	login	r_colbyw8n_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:17:30+00:00	name	r_colbyw8n_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:17:30+00:00	last_login	2018-04-22T22:17:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:17:30+00:00	api_token	b3037d6d5bb69a623d16346edb2f0483
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:17:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY29sYnl3OG5fMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODc0NTAsImlhdCI6MTUyNDQzNTQ1MCwibm9uY2UiOiJJQV9MMDJIVzhINkZMYmxXVWRaZHJjWTk0dlN0YkpmXzJGTXlJbE5XSVA0PSJ9.mI9yBkUMyL1tszPNmqSHjVQHLf5MaV2I1r6eB72i6naFHjDNmzA0s02nde_mMRTyZiB9mhyi4zpWDosW0vR3Pw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:18:42+00:00	twilight-user	{%22authToken%22:%22c6qt6od8bct59uwilx4zxqqtnmwfy2%22%2C%22displayName%22:%22r_colbyw8n_2%22%2C%22id%22:%22216144897%22%2C%22login%22:%22r_colbyw8n_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:18:42+00:00	auth-token	c6qt6od8bct59uwilx4zxqqtnmwfy2

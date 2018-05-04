@@ -1,0 +1,13 @@
+#t_genesisr7i_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8RD1w%2BSRo3lW%2FzwFEoD1KHNDcdUSTnW3eMhJyELEBQw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3b822c1e94c2948e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217559656%3A%3A7t96fulgteybke0f5jam5zfv1smpdp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTk2NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzU1OTgsImlhdCI6MTUyNTAzMTk5OH0=.ccsjHqiKy4n9Pd2P2lpR9V-CgWHwwkRoIs-madHd6ixk3MK9LLBXaVigSrWkLQCZbVY6kjjQ9eKRITTdyH-dTQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTk2NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2Nzk4LCJpYXQiOjE1MjUwMzE5OTh9.0734_Ru__zRhARL2rZkP_EG2Q66dfU_4xOKBSOco9_uNmBS444Y_bSsRnVLZxnJNUj9VjT6PBac1HxMsHbFFTQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_genesisr7i_b
+.twitch.tv	TRUE	/	FALSE	0	name	t_genesisr7i_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:59:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e234acaee1d9ce9dbc0a954309ad9f41
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZ2VuZXNpc3I3aV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4Mzk5OCwiaWF0IjoxNTI1MDMxOTk4LCJub25jZSI6IkZZZGhrcHEzSXE5TlNCYmtJbTdjcHVDRlVvZEpqM2g5TGdNWFpUa0VKZHc9In0%3D.exobn2EBJHO_FvSjQtMq2tGBmde1AssNp1JPPSSpRqHoCsGvA11ulFCrL9RPOOravlhlHUiSbaFYnwEbBnUiIw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22flvvcp5nnw1gqnpnvuh8qmq9kj56bh%22%2C%22displayName%22:%22t_genesisr7i_b%22%2C%22id%22:%22217559656%22%2C%22login%22:%22t_genesisr7i_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	flvvcp5nnw1gqnpnvuh8qmq9kj56bh

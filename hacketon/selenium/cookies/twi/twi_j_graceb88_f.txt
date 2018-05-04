@@ -1,0 +1,12 @@
+#j_graceb88_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Uc7Mo4rBrMJvO1OtcqzAjAcHC66lh9n872ZVMPdCJU8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:17:33+00:00	unique_id	8bc9d5ad9230b72e
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:17:59+00:00	persistent	216943288%3A%3At2pjxchgrznt2p5fi64j36reysltcb
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:17:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDMyODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgyMjc5LCJpYXQiOjE1MjQ3Nzc0Nzl9.T3DAjvC3F7a7CPcrowkj98_j2WNzoF2YoNEIgEDztydAqABMo03Y0ao6wdfA_i_MaOcMEkQmxJnJQZG2o-B5Zg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:17:59+00:00	login	j_graceb88_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:17:59+00:00	name	j_graceb88_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:17:59+00:00	last_login	2018-04-26T21:17:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:17:59+00:00	api_token	30245539d7047921423b93813937618c
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:17:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZ3JhY2ViODhfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjk0NzksImlhdCI6MTUyNDc3NzQ3OSwibm9uY2UiOiJXb1JOcFNfbFRCWUwzOE9DN002TUp2RlA4V1FiZzhfbkZnVzg2VFNWYlI4PSJ9.nW-5JGbOVHKIpzMc6HO76vdE8CQjRJPfPgPT6DuwAWzYnEFIOYYvJ_dQ4ZcZD0iBeDwJ5YYfDPy7a7CnGaLwiw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:19:30+00:00	twilight-user	{%22authToken%22:%22zgvdqmnnue3puntmhyz2rd9foa7pvu%22%2C%22displayName%22:%22j_graceb88_f%22%2C%22id%22:%22216943288%22%2C%22login%22:%22j_graceb88_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:19:30+00:00	auth-token	zgvdqmnnue3puntmhyz2rd9foa7pvu

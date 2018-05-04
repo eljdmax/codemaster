@@ -1,0 +1,14 @@
+#g_valerie32a_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NQtOMrckunGKkZe%2BeQzKSczQfZLBaF6OIMJPjsNz%2BXk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c17a4196d19eb859
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a8a6acc9b907a35e630fb2ff69c0045a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217235619%3A%3A04caxj6uoxymejkaykan2jfaw9hkkm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzU2MTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjIzMjIsImlhdCI6MTUyNDkxODcyMn0=.T_KWzAM8aKr6E6MASAgEX0mUHaF5KuN_dKdngVvQqh3J9jxoH12fS9aBnZardWRwBX67FdpEb4k4YZV57zmXYA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzU2MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIzNTIyLCJpYXQiOjE1MjQ5MTg3MjJ9.ylksrxH_nproIw3rd1_FN9o2L_6ne49TIrsWJXyVt4UNQoMinuwckrgnf3PIzuhpajbBTdxjf5VbzQBSSESk4g==
+.twitch.tv	TRUE	/	FALSE	0	login	g_valerie32a_c
+.twitch.tv	TRUE	/	FALSE	0	name	g_valerie32a_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:32:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8c08a582e6da63a0876195555ce2a481
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfdmFsZXJpZTMyYV9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MDcyMiwiaWF0IjoxNTI0OTE4NzIyLCJub25jZSI6ImZDbkxuUGIyQ2FLM2Y0dGQyWUp1a1U5QXpaVFlJcUVYcmN2Ykw1MTdwVFU9In0%3D.4gGHFUA6c3cal8np0_C6VAWybHW0HZymiKyHfQkanetvlmhadPe6kjeagJQnEg3c6zBaZPAD0Nfk8873YWYs7A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22oyymjhomzzqtxz9ziavv47moxbv5ck%22%2C%22displayName%22:%22g_valerie32a_c%22%2C%22id%22:%22217235619%22%2C%22login%22:%22g_valerie32a_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	oyymjhomzzqtxz9ziavv47moxbv5ck

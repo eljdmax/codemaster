@@ -1,0 +1,13 @@
+#c_jasminh9r_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	n7CnVCZYxHYzx4XsoTKuV2QjMWLCO%2BpcWz4jBEFODrE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e6b9ab339dd16589
+.twitch.tv	TRUE	/	FALSE	0	persistent	217250385%3A%3Ae0jbsjw8sif2awq2waz5tfmrurprpq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTAzODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjY5MjIsImlhdCI6MTUyNDkyMzMyMn0=.d6LOvcvCWmo9AnBOwPgUUlXeC69BnSOU-I2H8JK6WgQApQGKedA6eC-mAe_i4_R0_w1aLzSJF9jdHLJZl9Pc-g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTAzODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4MTIyLCJpYXQiOjE1MjQ5MjMzMjJ9.20w9CIA6hgYBE4ilxNFtVIpC8HYDUEv4jo0akLcb9dQxgRhXYPaQTYKkL_NkbCi69sgCE3DIYQKaGXTC-Ryv7A==
+.twitch.tv	TRUE	/	FALSE	0	login	c_jasminh9r_8
+.twitch.tv	TRUE	/	FALSE	0	name	c_jasminh9r_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:48:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	dd91d8cdb626f3705db7d11ee52fd9fc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfamFzbWluaDlyXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc1MzIyLCJpYXQiOjE1MjQ5MjMzMjIsIm5vbmNlIjoiTlhpc1JHX3FmcEdHajRJUEVNZzJMeXB0Y2t6S3pQQkpJQWUwVHJyS1lXQT0ifQ%3D%3D.Ov36DiSd_KvJ2EyWXlopF9DjP92IS17zMCqm3oH6MiLBXJBVvV2PossycsTaB2n9FapgWHb6uNbF2xyqsnYR5Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sttrrlxrbi3njttf1h8jcn8t04hym8%22%2C%22displayName%22:%22c_jasminh9r_8%22%2C%22id%22:%22217250385%22%2C%22login%22:%22c_jasminh9r_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sttrrlxrbi3njttf1h8jcn8t04hym8

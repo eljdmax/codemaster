@@ -1,0 +1,13 @@
+#l_leah54e_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	l3xn6vKPwQfk7rOcqZaYdS03Zs2LolZyuJ6wk1t4Abc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fe48de9013d817f2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217455709%3A%3Anaeeizj7sx4i7hnqz1s1iibjo36ump
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTU3MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDI3MzUsImlhdCI6MTUyNDk5OTEzNX0=.ijkl5tYzlJGAVrjLycGogKQKnH1kAjzOBzTa5MUwQTgnr5t3t3IZfQX_OFiu8v-0G2t5kwmyM8VPtV74Yg3VVg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTU3MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAzOTM1LCJpYXQiOjE1MjQ5OTkxMzV9.oqO8mVfVRPB37mRKWFo_Ulmd_ZVhWtCYNPiFGoj7uYNeFybTkvLO6tNPwYrrykrMICI9ilF-YCNhxxf2fdCJBg==
+.twitch.tv	TRUE	/	FALSE	0	login	l_leah54e_0
+.twitch.tv	TRUE	/	FALSE	0	name	l_leah54e_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:52:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1d04dc86f1cc16a8ac8613222a07706a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbGVhaDU0ZV8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MTEzNSwiaWF0IjoxNTI0OTk5MTM1LCJub25jZSI6ImVLeDVCenB0R1h4S0gzVHliTUFTVGk2UzV4NWw0b2hRVF8wdElhd0Mzak09In0%3D.GFqJGH63UPHzKa_Y1ZWI8n0yU3qOOZfY_-C0DCVbjuJnFTLx1C4ANvd4DLrDenwi0sxuLE4JMR5LcpK7a-pbEA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22u4s5cxj8nbwrh0fey4me15h0i8a8ro%22%2C%22displayName%22:%22l_leah54e_0%22%2C%22id%22:%22217455709%22%2C%22login%22:%22l_leah54e_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	u4s5cxj8nbwrh0fey4me15h0i8a8ro

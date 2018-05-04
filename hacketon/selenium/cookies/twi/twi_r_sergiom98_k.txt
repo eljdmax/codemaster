@@ -1,0 +1,13 @@
+#r_sergiom98_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	S7ZLa3PuRQUrAhu%2BfWXIqonNFG%2FeAN7EuI9ghtLFF0Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:12:44+00:00	unique_id	f4442e39af24b51d
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:12:44+00:00	_twitch_session_id	c754392e5769da4973fe0b89b601d676
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:13:23+00:00	persistent	216942578%3A%3A2l50ihcs0jxlviux55gsqg3oigpory
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:13:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDI1NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgyMDA0LCJpYXQiOjE1MjQ3NzcyMDR9._VCqFYv8cwkv9uBbHPbfY37yhWa52vC0W9Th-bTFy1cXgfafLr9CVjAg3GAS1w2MJTNrP9Gr0ez2UqqtAFYShw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:13:23+00:00	login	r_sergiom98_k
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:13:23+00:00	name	r_sergiom98_k
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:13:23+00:00	last_login	2018-04-26T21:13:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:13:23+00:00	api_token	af0a7e0a915b7806c9e1c7b39f8ff423
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:13:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc2VyZ2lvbTk4X2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI5MjA0LCJpYXQiOjE1MjQ3NzcyMDQsIm5vbmNlIjoiY29STUVreUdwWjVnNmh1MllyOU9yNzNWWWZhekxvbHEzUFJVcWpDUE1YMD0ifQ%3D%3D.VnwjJMofxlJgdN8VC_fselJh_gQCGTXNRPgay6_Z5QSOAnSeQZ19IntiTtuq4Gm9IabBH_h-siH6TRIBMxztDQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:14:54+00:00	twilight-user	{%22authToken%22:%22hut2uqy7vl5lehpght5hvpzrr1p1k6%22%2C%22displayName%22:%22r_sergiom98_k%22%2C%22id%22:%22216942578%22%2C%22login%22:%22r_sergiom98_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:14:54+00:00	auth-token	hut2uqy7vl5lehpght5hvpzrr1p1k6

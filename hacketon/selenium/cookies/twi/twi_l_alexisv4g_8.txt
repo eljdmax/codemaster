@@ -1,0 +1,12 @@
+#l_alexisv4g_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gV4DUZevsOk%2B4aH57nklmy9VDytwVb0bVh9CIPkGtlY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:18:45+00:00	unique_id	10983456a1316b79
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:19:04+00:00	persistent	216475026%3A%3Acflf5dwt3ni3mquaesv7b0iwakibr5
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:19:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzUwMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5OTQ0LCJpYXQiOjE1MjQ1NjUxNDR9.u2Ii3WpRFU5HwGw5TwgMgIdYpmhKgfISLHlb3gOh4zNtq4BHvFnn9oMymPg91fBYtdIG-NDaUpvStdHMLXa1Ow==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:19:04+00:00	login	l_alexisv4g_8
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:19:04+00:00	name	l_alexisv4g_8
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:19:04+00:00	last_login	2018-04-24T10:19:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:19:04+00:00	api_token	5721de8d22c7efc249dbc528847b9cd9
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:19:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYWxleGlzdjRnXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE3MTQ0LCJpYXQiOjE1MjQ1NjUxNDQsIm5vbmNlIjoiRFB2bVlzZFVYV2FvbGstcDhvdlg5aFlUYkJNMnZBNXFyZU9VdlFKS3RNdz0ifQ%3D%3D.h1fRCQhftTIossJF_pNVCKj4Q1Yc3sAdI2j-SH8wZPQfyunpvupq-FEh6s-Q1uYrOnmsxGy1ji5M2c-VZz32KA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:20:23+00:00	twilight-user	{%22authToken%22:%22jjim2fvgb7cb9397v2mrgovd0e0z69%22%2C%22displayName%22:%22l_alexisv4g_8%22%2C%22id%22:%22216475026%22%2C%22login%22:%22l_alexisv4g_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:20:23+00:00	auth-token	jjim2fvgb7cb9397v2mrgovd0e0z69

@@ -1,0 +1,13 @@
+#t_mason968_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0FAwpg4xtEaOj%2Fsqbl%2BBtwmFmOKZmWUmnAOgGCKSGwg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:03:39+00:00	unique_id	33c48b5c69586fe0
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:04:17+00:00	persistent	216484039%3A%3A32qtj7p80egepek4gz3lk8d1p8jpuo
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:04:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQwMzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2MjU3LCJpYXQiOjE1MjQ1NzE0NTd9.IWEssZRuTXdA4d902P5vcdxogdSwjHlxv3-6p8uGwwRsycHyfa_g4CyGKdJy-uOixUAnhSpglI-av_Sl4VQUhA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:04:17+00:00	login	t_mason968_i
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:04:17+00:00	name	t_mason968_i
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:04:17+00:00	last_login	2018-04-24T12:04:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:04:17+00:00	api_token	d4a769de4aa15c34327aca4e0803a169
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:04:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbWFzb245NjhfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjM0NTcsImlhdCI6MTUyNDU3MTQ1Nywibm9uY2UiOiJkbU5SOXZUdDVPVGlkbVlOV1RVN0ZLV1l1V3RkemRpQlZYQzdOYmVEZ2g4PSJ9.2rLOu0lk7Ahkwi3sTiUYKQMgCg11yNBoAex1Gi4sorNiieKMtoi5s53xKagtAoSvzBedPtvZw-3-tn0Tianivw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:05:36+00:00	twilight-user	{%22authToken%22:%22nig7i8yk0fsgqzeqynhx3u2nx2cj3v%22%2C%22displayName%22:%22t_mason968_i%22%2C%22id%22:%22216484039%22%2C%22login%22:%22t_mason968_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:05:36+00:00	auth-token	nig7i8yk0fsgqzeqynhx3u2nx2cj3v
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:05:40+00:00	twilight_onboarding	true

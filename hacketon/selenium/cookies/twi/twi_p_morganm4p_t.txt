@@ -1,0 +1,14 @@
+#p_morganm4p_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Jdm25%2BgBWKtg%2Bb3g5Bb1Zr6yTlcPMtlck5qVL1Ejfe0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	acb23caa0804dd52
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	993ad672d1fc56aca66f6133120416f6
+.twitch.tv	TRUE	/	FALSE	0	persistent	217478110%3A%3Axao5jbjsqe0tt1zogaii05f7syu21k
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzgxMTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTI2MjAsImlhdCI6MTUyNTAwOTAyMH0=.UyJLhXkNil2Wkiq5EWzG54mvvB3em3VfdQsOl9vBdaD58VZdAEmysdlIyyFqan5TOjBnGgIYw_MSvdx5v8zx6w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzgxMTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjEzODIwLCJpYXQiOjE1MjUwMDkwMjB9.bt3P_m_31HOLEfmypNEHY3ZZ2KTjKuLViytsyfj-YpfOzBanBPcDam55mzv42nTwwV9EhQi836xo2bPCFxChqA==
+.twitch.tv	TRUE	/	FALSE	0	login	p_morganm4p_t
+.twitch.tv	TRUE	/	FALSE	0	name	p_morganm4p_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T13:37:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e15f6e8ddf12954a67eb9bbfdfa64065
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbW9yZ2FubTRwX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYxMDIwLCJpYXQiOjE1MjUwMDkwMjAsIm5vbmNlIjoiekFiYWQ4U3d2YTRfdzExUDY4U2Vrb0FJWV9FbFh1dm84ZW1Ha2R6NWdpUT0ifQ%3D%3D.3oink0NdwQz4vSKK7TmTk_0U0--tZ_hofFe4zxbOK3WYdxvoOyn1zD1Z1nON3vjc9Jxd32xJOgoOSoN2oWrqkQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2207ee5af6rqv05ifg7lnrojeiq732m4%22%2C%22displayName%22:%22p_morganm4p_t%22%2C%22id%22:%22217478110%22%2C%22login%22:%22p_morganm4p_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	07ee5af6rqv05ifg7lnrojeiq732m4

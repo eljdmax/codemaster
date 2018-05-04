@@ -1,0 +1,12 @@
+#i_kadene3h_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	TRFqg5SFkpVp29ELIJsN6pStNC7is8g1hKh0lVlz520%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:48:59+00:00	unique_id	7d83423e47068cee
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:49:37+00:00	persistent	217557291%3A%3Aziinpisow5s5m2mg15671ab8qf3hho
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:49:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTcyOTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2MTc3LCJpYXQiOjE1MjUwMzEzNzd9.bCanRYfxo-sUsmchC5fiJszFTp5BDtiNTLwRWxSiHh_6K37TkrMPM_2_l4ympJwAk68G-kx5zw6c27W7SCsHaA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:49:37+00:00	login	i_kadene3h_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:49:37+00:00	name	i_kadene3h_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:49:37+00:00	last_login	2018-04-29T19:49:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:49:37+00:00	api_token	522e3984133c42d29b177ba9862966d3
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:49:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfa2FkZW5lM2hfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODMzNzcsImlhdCI6MTUyNTAzMTM3Nywibm9uY2UiOiJGN2M1X2R1QXBEeEpwd3dKUXhWbnpMdVpzTWN1YzdENjk0T1lONmJJUlpZPSJ9.o6I6TBuVKRVMrNk9oJLDZBEu7WKR5AmRwZFwwz8dyKb0wMVlGVQWLr-42zsbqAU7CQXE5ythFa0Zt1mtbCzwWA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:51:21+00:00	twilight-user	{%22authToken%22:%22v1t4jrd9a0n87cimvnnry94bhugy5p%22%2C%22displayName%22:%22i_kadene3h_0%22%2C%22id%22:%22217557291%22%2C%22login%22:%22i_kadene3h_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:51:21+00:00	auth-token	v1t4jrd9a0n87cimvnnry94bhugy5p

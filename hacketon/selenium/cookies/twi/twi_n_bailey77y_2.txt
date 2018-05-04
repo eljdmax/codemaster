@@ -1,0 +1,12 @@
+#n_bailey77y_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xOf2Z89TCRp%2BYoSQHLNOlXWlyUcbf8odjjbPTpLlRkE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:43:46+00:00	unique_id	9c193956272828df
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:44:28+00:00	persistent	216138890%3A%3A2rfz00eu7zcg928dr6ugbzx06fiweg
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:44:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzg4OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MjY5LCJpYXQiOjE1MjQ0MzM0Njl9.cvT2UQ50JXMIQ5a0RyNo613qVvR0LyZPdiaUwLV5h24odWFwk4Zqx9NKAqtQdcOGSPU6BGr9Eth-cc69gWGb7g==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:44:28+00:00	login	n_bailey77y_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:44:28+00:00	name	n_bailey77y_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:44:28+00:00	last_login	2018-04-22T21:44:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:44:28+00:00	api_token	3c43b9a22ad6cbb53f891f469b55a64a
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:44:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYmFpbGV5Nzd5XzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg1NDY5LCJpYXQiOjE1MjQ0MzM0NjksIm5vbmNlIjoiZ0p6emJsT3hFZVR1RnI0LW1nQWxDLTd5NTFkTlJGcFBzM2hCdms3V0N1UT0ifQ%3D%3D.EbrMVGfCCy7laQoSfCsXmgcKwcN4nefCCB5mdPlw5nrTsgN9dQTrMcVCjvebqmvUEqxuX7q9Jh7aZlsHkkaqZw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:45:44+00:00	twilight-user	{%22authToken%22:%22vjhteylfildviqt6edcs8qzji7grav%22%2C%22displayName%22:%22n_bailey77y_2%22%2C%22id%22:%22216138890%22%2C%22login%22:%22n_bailey77y_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:45:44+00:00	auth-token	vjhteylfildviqt6edcs8qzji7grav

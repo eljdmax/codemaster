@@ -1,0 +1,12 @@
+#a_cassidyy9g_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kmQhwDv0R12aM1olUjUqoJy0k5Rb257%2BUjJj9b0NiPE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:23:14+00:00	unique_id	46cddd4b224b7dd5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:23:34+00:00	persistent	216475394%3A%3Aianjrfmdxfvwedt5y4vcjl19iz4c7f
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:23:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzUzOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwMjE1LCJpYXQiOjE1MjQ1NjU0MTV9.DuFqgdu0xXrRaXXjCZdfImov8fBquURvzAll-MD8itJBSB5P_XJImCp_CY2KD1ZplxSXGPPHGKyWiTFTNgPJuw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:23:34+00:00	login	a_cassidyy9g_n
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:23:34+00:00	name	a_cassidyy9g_n
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:23:34+00:00	last_login	2018-04-24T10:23:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:23:34+00:00	api_token	0086021aede9662d099aac69ead620bb
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:23:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfY2Fzc2lkeXk5Z19uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExNzQxNSwiaWF0IjoxNTI0NTY1NDE1LCJub25jZSI6IjNaSzg3WkgxMDlhY2NpS3YxUi1LcEh2LThNXzhWY2NwNVJHQVRWamR0cDQ9In0%3D.I157CV9Xf3gJw_99nuI7-6QhXNpE2_JCJnPGPXFS9LLOlyzK90M_9SJvmJUYh6qIMqfjbL4I7XEL_2KVzaaSjg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:24:53+00:00	twilight-user	{%22authToken%22:%221nt6k8pa46jnou6vgz8j4dujzvojeq%22%2C%22displayName%22:%22a_cassidyy9g_n%22%2C%22id%22:%22216475394%22%2C%22login%22:%22a_cassidyy9g_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:24:53+00:00	auth-token	1nt6k8pa46jnou6vgz8j4dujzvojeq

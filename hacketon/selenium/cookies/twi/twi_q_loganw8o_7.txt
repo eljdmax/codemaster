@@ -1,0 +1,12 @@
+#q_loganw8o_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3bN840YU1xgni7%2B9L1yQIT3kF53kOpfXPt7rc974E2g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:45:33+00:00	unique_id	2b0238fb67b41ba2
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:45:58+00:00	persistent	216937974%3A%3A9ul1qd4wmvtgoywo69lfnonwgfiavy
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:45:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzc5NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMzU5LCJpYXQiOjE1MjQ3NzU1NTl9.RtdIwcqwZLUeH3JzQ8NGCXe8D5fELcxrmqslxVtYXSblGyvDjBrvk-QyZpYlo59YRDZX4XrpCggS_YrZdLZd0Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:45:58+00:00	login	q_loganw8o_7
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:45:58+00:00	name	q_loganw8o_7
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:45:58+00:00	last_login	2018-04-26T20:45:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:45:58+00:00	api_token	322f1a06f6060e404d8873280c751c05
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:45:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbG9nYW53OG9fNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjc1NTksImlhdCI6MTUyNDc3NTU1OSwibm9uY2UiOiJhVzUtV0ltYzZPZ1Q1Nnd2MHpYNzROOFAyRFJPYm9yUWU2bkljb1dnNVRRPSJ9.E9bg1L62eLZMGgkNY-CC1zi2leY5qfWJixN8TRa8wyDluC78q8RY5khAUH2VwGaBWvTNcjlBMtxLZQV1kvhExQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:47:28+00:00	twilight-user	{%22authToken%22:%22jwf2ywccahw3cy2g1esmbauxtrs0q5%22%2C%22displayName%22:%22q_loganw8o_7%22%2C%22id%22:%22216937974%22%2C%22login%22:%22q_loganw8o_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:47:28+00:00	auth-token	jwf2ywccahw3cy2g1esmbauxtrs0q5

@@ -1,0 +1,12 @@
+#n_raymond71e_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3ygZUFK1JTO08bsQwL9UollpHcZEKzuxDE%2FGzbcjVO8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:39:41+00:00	unique_id	83e7b58aabd5b69f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:40:16+00:00	persistent	216487854%3A%3A6ayvtcjjbvduldbchccz31qvzlntob
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:40:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODc4NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NDE3LCJpYXQiOjE1MjQ1NzM2MTd9.0FqoMPxEd1e1w9kqpsBl3LyAuyXK_lZHbwLV7vNNZCb6TzgODnte7yDzmlktt5jvO_u_IPWGRyIxcobcHV-X_Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:40:16+00:00	login	n_raymond71e_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:40:16+00:00	name	n_raymond71e_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:40:16+00:00	last_login	2018-04-24T12:40:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:40:16+00:00	api_token	1c96f34f3bb5010dd5234b030419a275
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:40:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcmF5bW9uZDcxZV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTYxNywiaWF0IjoxNTI0NTczNjE3LCJub25jZSI6ImxERllFVGtBdWdSaTlLT0JLc1ZnSmZPVklDQzFlMTBXOGgtZExyVmNYVVE9In0%3D.op-kAPk6Ffxvi_oPG7-P406Y1tvBPsGx7WuvA_1uvsCFXHgAHbPBw7iKbUS6Kixb3ZdsQBpZ3fY_8nwW9vN9bw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:41:38+00:00	twilight-user	{%22authToken%22:%22ogopeppc4u34pb68nr5i2xaswia2ai%22%2C%22displayName%22:%22n_raymond71e_b%22%2C%22id%22:%22216487854%22%2C%22login%22:%22n_raymond71e_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:41:38+00:00	auth-token	ogopeppc4u34pb68nr5i2xaswia2ai

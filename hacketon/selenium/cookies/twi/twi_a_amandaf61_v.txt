@@ -1,0 +1,12 @@
+#a_amandaf61_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4uxoHZFnZOHomTHxdtZbDxmgZ13gJbxWJQ3SYEhXFDU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:12:57+00:00	unique_id	268a088f8733857b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:13:18+00:00	persistent	216474572%3A%3A5ajg8ep1zuydfe99njad0ws0723t0m
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:13:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQ1NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5NTk5LCJpYXQiOjE1MjQ1NjQ3OTl9.CZRZBUr7GnyxOpbEl2nhtqWwA455GHo5Jwghte6YGB3X9Mjd_w5gFCGAOB-GnvR05gI8h_RUJxfVBYO33URd4A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:13:18+00:00	login	a_amandaf61_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:13:18+00:00	name	a_amandaf61_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:13:18+00:00	last_login	2018-04-24T10:13:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:13:18+00:00	api_token	0165afe44edafb3aa43428af25c59f37
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:13:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW1hbmRhZjYxX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE2Nzk5LCJpYXQiOjE1MjQ1NjQ3OTksIm5vbmNlIjoiWkFNcUlvVlFLazdKSkNLempDRHp1NFBBWU1wZmxkWDBtelVRSHNvTzA0bz0ifQ%3D%3D.084jmIGbsWi8U2weaO5714lAvDLWVsDCczwdRtTu2S7sO3zZziGaEM6Yx6kRJ3tpIuZMgT2dRPYLmiXhYzMTMA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:14:39+00:00	twilight-user	{%22authToken%22:%2256n2vpr95emdl4odbj7cdelwcwbq6v%22%2C%22displayName%22:%22a_amandaf61_v%22%2C%22id%22:%22216474572%22%2C%22login%22:%22a_amandaf61_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:14:39+00:00	auth-token	56n2vpr95emdl4odbj7cdelwcwbq6v

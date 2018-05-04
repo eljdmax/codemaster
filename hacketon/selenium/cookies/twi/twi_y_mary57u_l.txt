@@ -1,0 +1,13 @@
+#y_mary57u_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	60SePUDFjcLKhIqqHXUBDnC4v%2FcesF%2BGVyT9mgGicuA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:22:41+00:00	unique_id	5557e28eccd6b0f9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:22:41+00:00	_twitch_session_id	c5e8b1760590e0f64d66a26b91aa46c4
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:23:02+00:00	persistent	216134772%3A%3A5b6h3k2ayu7eid1pg7ccb7v8brzouj
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:23:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzQ3NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM2OTgzLCJpYXQiOjE1MjQ0MzIxODN9.oJeLpD04O9iqVqYRuAHNoaIaYiTnPscc_npc0cbjs6Kgkvc1m8KDRnGKwu5nlxBUv36WCSNZvGk8H7TL8kawvQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:23:02+00:00	login	y_mary57u_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:23:02+00:00	name	y_mary57u_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:23:02+00:00	last_login	2018-04-22T21:23:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:23:02+00:00	api_token	17c679276ed74ca34739a4c5edcf9acd
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:23:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWFyeTU3dV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NDE4MywiaWF0IjoxNTI0NDMyMTgzLCJub25jZSI6ImFEUmNhMTRzcERmZ2dMOUhDYzRNVnNjRmxQTTRGa0pYNGNNVUxTY0RuWXc9In0%3D.0DW0ZxBPqRwCdgMlpxivsSGkE_OjQfrCj1DNcxDNXJssIkDxALvAaOsfMxUW4vC-gXaxsrHd7_eWEyu4gSTstQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:24:15+00:00	twilight-user	{%22authToken%22:%22tbwco6z6teubt1xuxxlwtcavwc07ry%22%2C%22displayName%22:%22y_mary57u_l%22%2C%22id%22:%22216134772%22%2C%22login%22:%22y_mary57u_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:24:15+00:00	auth-token	tbwco6z6teubt1xuxxlwtcavwc07ry

@@ -1,0 +1,13 @@
+#u_aydenb1g_1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9%2BkvZBNFXyIR1c3reVcM3kKR92lbz7gzHoz751IXH4Y%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ed50edb7417e039a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453682%3A%3A5au671wghh44hxef82dtf6quaek9dq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM2ODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE2MTQsImlhdCI6MTUyNDk5ODAxNH0=.Pw86el-wZGEqBuUhrZzk-2TeVhiTom32OmWFqXmqya3ClC-o1etJ-gMX0r9BTaxMnILx1ZjqYQFaMdFh773kPw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM2ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyODE0LCJpYXQiOjE1MjQ5OTgwMTR9.GOjo726lCAW66eU4tU1zv4Q1faTNXrnknM3l4KX21OsN_dLm4xIEFY5BSrrBiDuehexvPY80le_HNiwvksviqw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_aydenb1g_1
+.twitch.tv	TRUE	/	FALSE	0	name	u_aydenb1g_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:33:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	46f697d98ccea3b6c0e11c263f4c4bb0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYXlkZW5iMWdfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NTAwMTQsImlhdCI6MTUyNDk5ODAxNCwibm9uY2UiOiJGMU5jalgybm8yVW9Bd3haSXdGWWZyT2EtQktaeUtkTVZtQTM5R1FJRDJVPSJ9.UhRpnIlVl788LkZ1bJWVh7wQRQFxHnM-NQa_ub0IWY6LkJkQOLjL9HGWjOyUAUU0ocTJgWj-zSnxg2IbcBI-HQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vhx3n1n0n6un7u4xjx37m1a5ixazpu%22%2C%22displayName%22:%22u_aydenb1g_1%22%2C%22id%22:%22217453682%22%2C%22login%22:%22u_aydenb1g_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vhx3n1n0n6un7u4xjx37m1a5ixazpu

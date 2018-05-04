@@ -1,0 +1,12 @@
+#t_dylanu8p_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	m3GAolC%2F%2BqP9M%2Beliu74qwzDs6Fag8T52TpSiPMepKI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:41:52+00:00	unique_id	abb23ac58344ff5a
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:42:14+00:00	persistent	217569819%3A%3Aeblngqhffq9q73cr5stkznl79nv43z
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:42:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njk4MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5MzM0LCJpYXQiOjE1MjUwMzQ1MzR9.wZJqUMXSdTK2UYqPZJfs7KD425rBZm4rOSTgxvB0GNZFElUdN_c_535bmXuUSd_-Sd7TPA0WQijLZsMCx1u2gw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:42:14+00:00	login	t_dylanu8p_x
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:42:14+00:00	name	t_dylanu8p_x
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:42:14+00:00	last_login	2018-04-29T20:42:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:42:14+00:00	api_token	f2b51b267d6ef3f0062c2e8f717c7cb9
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:42:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZHlsYW51OHBfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODY1MzQsImlhdCI6MTUyNTAzNDUzNCwibm9uY2UiOiJWd3VLS0N4NVZFYm40a3JjTUk5R3kycEo2UjZpR3VjcHBfdl84d2lIRmdnPSJ9.NrG9PPcBDXg06Ifxm3Nud99v6ysL_hB-ySzrZ5LPRrUkY03LvZhmqKG33coZGfO3Mw1GrGlLt43H277TfccHkQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:43:58+00:00	twilight-user	{%22authToken%22:%22zc5cws9hwqw8wr08f69vt2lkfzq02y%22%2C%22displayName%22:%22t_dylanu8p_x%22%2C%22id%22:%22217569819%22%2C%22login%22:%22t_dylanu8p_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:43:58+00:00	auth-token	zc5cws9hwqw8wr08f69vt2lkfzq02y

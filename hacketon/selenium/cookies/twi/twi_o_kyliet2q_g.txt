@@ -1,0 +1,14 @@
+#o_kyliet2q_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	m25rikNirgqplhrd%2FSnYUrl7cHwLfH961lHY2oY81qc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:27:30+00:00	unique_id	8e6fda781d629808
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:27:30+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:27:52+00:00	persistent	215246432%3A%3A0k0x1s0x8ta8ax4orp7q2k7d9a2wm5
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:27:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDY0MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwODcyLCJpYXQiOjE1MjQwNzYwNzJ9.P__EsmcWAVj84LJm5hp9pfz9wpv1y2oZBo-H0qyFkHvrbDEUa3ltBeSIRtRUPQIPHuCwOhWNyFn775SvQqEpZQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:27:52+00:00	login	o_kyliet2q_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:27:52+00:00	name	o_kyliet2q_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:27:52+00:00	last_login	2018-04-18T18:27:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:27:52+00:00	api_token	05c44f365b473de26d39e4aa0afe2117
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:27:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fa3lsaWV0MnFfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjgwNzIsImlhdCI6MTUyNDA3NjA3Miwibm9uY2UiOiItQWpPTmtxQVBrYkk3djRMc0JiNm5pQnRSX3dkWkhMZ3FTTXV0SWljUWpRPSJ9.I31wMPLbwYvpS6gMxXjxrVp-2qZ7Qjbnp94aOAb0bl-_dSsnnlKNM2xFSGMhoaizNTsFV0foSEECW1jVNXayhg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:28:44+00:00	twilight-user	{%22authToken%22:%22wroxcb4mk6vimy0i7715cnctlousxx%22%2C%22displayName%22:%22o_kyliet2q_g%22%2C%22id%22:%22215246432%22%2C%22login%22:%22o_kyliet2q_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:28:44+00:00	auth-token	wroxcb4mk6vimy0i7715cnctlousxx
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:28:45+00:00	twilight_onboarding	true

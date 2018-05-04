@@ -1,0 +1,16 @@
+#s_brady36s_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	eAES28mvgY8sBTA8vmmQNH3Gs85or4GtziHFOkVMRAA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:10:45+00:00	unique_id	4570ce62f13fed48
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:10:45+00:00	_twitch_session_id	0f1812d94763a54fb06ba71d41951b9d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:11:27+00:00	persistent	216474446%3A%3A24opmkulpbs6a9wnzl1iwjbimt42up
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:11:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQ0NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5NDg3LCJpYXQiOjE1MjQ1NjQ2ODd9.iLUoa5rpHCHleVBz5UfPiGiWmCS-CT-VNZ5MjQFua8X4w1Clvl02EOtFRsgT_EUqXbgg9cI7ykRQIuWv-1NJXg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:11:27+00:00	login	s_brady36s_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:11:27+00:00	name	s_brady36s_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:11:27+00:00	last_login	2018-04-24T10:11:27Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:11:27+00:00	api_token	2015fb895e27d61fe6ae130549a8dbcd
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:11:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYnJhZHkzNnNfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTY2ODcsImlhdCI6MTUyNDU2NDY4Nywibm9uY2UiOiJEWXp5N205QnZZdWEybWtSbGpxZklfU0RWTy15Wk5ua3pybEI1M1FuZmxRPSJ9.TXlVpl9jW6GDxV2hH0x6q4qhH1l4pxQfiYZnBcVWtVcb5ol9PBJIuv69MIP6OFxTZkAHFP9piBBeEZfiAw7Bcw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	CMseT2qFPWg6NoSuXp8Llr1PpmOn2S3v
+.twitch.tv	TRUE	/	FALSE	2020-04-23T10:11:34+00:00	__gads	ID=3330eb082fcf0036:T=1524564694:S=ALNI_MY7Yx-f_41D7KrY3xgQxX6Hk7J2LA
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ1NjgzNzYsIm52IjowLCJ1cHQiOjE1MjQ1NjgzNjUsImx0IjoxNTI0NTY4MzY1fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:12:56+00:00	twilight-user	{%22authToken%22:%22if3waqnvz0n2auoct2ae037wdiiqfl%22%2C%22displayName%22:%22s_brady36s_j%22%2C%22id%22:%22216474446%22%2C%22login%22:%22s_brady36s_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:12:56+00:00	auth-token	if3waqnvz0n2auoct2ae037wdiiqfl

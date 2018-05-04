@@ -1,0 +1,13 @@
+#e_gregoryr45_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DAqrKn1OoLn76Xt9RPSizC8ua7KEcfPAFtN3kFIpWIk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e60bf62857985102
+.twitch.tv	TRUE	/	FALSE	0	persistent	217570538%3A%3A28h1h841ibnhwhs19g1sckh82bm3t4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzA1MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzgzMzEsImlhdCI6MTUyNTAzNDczMX0=.sKxwvQ7cFcMgEhxTJ8FT3Xr9dJ-7vScSccvrwc3gmLkev1jc5XV_REdeL5u7Xi7vvI8JR_m7WmhEeam2ty6Q8g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzA1MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5NTMxLCJpYXQiOjE1MjUwMzQ3MzF9.jCf2sTzowuK0KRZhDGV6PjGlJGJm28wQOn4BtSaDhcFWD_CmSUtPKjs81JcNRH_t_3_S6EvsNQoE8mgjl3jYTg==
+.twitch.tv	TRUE	/	FALSE	0	login	e_gregoryr45_f
+.twitch.tv	TRUE	/	FALSE	0	name	e_gregoryr45_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:45:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	05f8e611e65fdda3405c87e3ce5db669
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZ3JlZ29yeXI0NV9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NjczMSwiaWF0IjoxNTI1MDM0NzMxLCJub25jZSI6IlgwajNxekI3RzBQRWZBa0tsSmdXeGZwQ3RKOGNSQmtjblRKdGhRejdUTW89In0%3D.OQImixPDQNffuDFxFYcYdA39-IGY6m9G2gezD_76s2EirfTfbD2mCW0nO2FXDj6eTWrQjNWoCHJpzKWK6GgesQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fo29n0idyv0mou4p2gkmhv02id9vp9%22%2C%22displayName%22:%22e_gregoryr45_f%22%2C%22id%22:%22217570538%22%2C%22login%22:%22e_gregoryr45_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fo29n0idyv0mou4p2gkmhv02id9vp9

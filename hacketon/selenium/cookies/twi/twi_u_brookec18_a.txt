@@ -1,0 +1,12 @@
+#u_brookec18_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6BnDqV4Br0YeUJ7TM6IruUqCXEUaRWHLhKJjwJavw4w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:51:13+00:00	unique_id	1a01b4319c696ad3
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:51:35+00:00	persistent	216938721%3A%3Aexcvyv0rm3sf4o6mm89mci08k3uk5q
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:51:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzg3MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwNjk1LCJpYXQiOjE1MjQ3NzU4OTV9.-uY_4ipulbLC4NlX6ZZtFD15zu1F80g4LpNiR_Bi_JBYX1P3v47fuZovrVjabl6jvTMJhZAx6hw3hhz0SFHQug==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:51:35+00:00	login	u_brookec18_a
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:51:35+00:00	name	u_brookec18_a
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:51:35+00:00	last_login	2018-04-26T20:51:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:51:35+00:00	api_token	a170212a9bd541132d4731cb9b401dcd
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:51:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYnJvb2tlYzE4X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI3ODk1LCJpYXQiOjE1MjQ3NzU4OTUsIm5vbmNlIjoiQUoxai12YUxnZnRPMldlaGdnNl9uUVJGUmVvWi0yUnpZMy1uWUo5Z0hpVT0ifQ%3D%3D.QIUSqN9HzzTty5dmUnzT6YHlpuh9Ei4jSy8rkVjFmu0RsYcrJeXQLHvWF0zKrjkleefli67UEhpZ5Cd3Wub6Cg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:53:07+00:00	twilight-user	{%22authToken%22:%22cvvxv19ldumfkxdb5a9lpfsz65ek7e%22%2C%22displayName%22:%22u_brookec18_a%22%2C%22id%22:%22216938721%22%2C%22login%22:%22u_brookec18_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:53:07+00:00	auth-token	cvvxv19ldumfkxdb5a9lpfsz65ek7e

@@ -1,0 +1,14 @@
+#i_austin298_f
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hIYDbkiX9cO6IBHHLpi0NtDso95KJ4xQXUW7qIwG9d4%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:18:52+00:00	_twitch_session_id	f5317d1bf2f1e402e5a26448c6102bd2
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:19:11+00:00	persistent	217550313%3A%3Avvmrs1ajyvopd06oj8li87anvbsiow
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:19:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTAzMTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0MzUxLCJpYXQiOjE1MjUwMjk1NTF9.xxVUNjXY1ssANSOfXdYr0I2UX4HA4NCLtQJilS9YZuVOL12YvxfkiD6E7wxkJzcVh3cBuDAH3dZwqT9uhVEJJQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:19:11+00:00	login	i_austin298_f
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:19:11+00:00	name	i_austin298_f
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:19:11+00:00	last_login	2018-04-29T19:19:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:19:11+00:00	api_token	6ac7f14172df9c7d741d4e35a6d981b4
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:19:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYXVzdGluMjk4X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgxNTUxLCJpYXQiOjE1MjUwMjk1NTEsIm5vbmNlIjoiSldqWVFDdXpMZnRUWGhJa2s5b29kVk1fZzllVzNMaVpYd0dXd1F2SVYxND0ifQ%3D%3D.7lG-mCU62H0ea0E5nIAUntMf7sUQ-BIlNkY_w7l0ykMG8o3Juo0bjx6tHw6PQ6MPfmid2nl9esqUMmFhNyKlMQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:20:59+00:00	twilight-user	{%22authToken%22:%22y5xp15xqhgglincz4ah8wofbdjru89%22%2C%22displayName%22:%22i_austin298_f%22%2C%22id%22:%22217550313%22%2C%22login%22:%22i_austin298_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:20:59+00:00	auth-token	y5xp15xqhgglincz4ah8wofbdjru89

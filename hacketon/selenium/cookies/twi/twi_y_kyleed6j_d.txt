@@ -1,0 +1,13 @@
+#y_kyleed6j_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5VAQeqhu4%2BLMjnQP46G4WJKYu4up7fcaQQNopF0Soys%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b33e0f39369c405e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217946732%3A%3Acyns9p9kkugo46h6lcwp02jyl8ll1b
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY3MzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTcyNTYsImlhdCI6MTUyNTE5MzY1Nn0=.BSWqcWXtVWKaH04KWoKydHows8AO_V1mUKxYPSPydnQ5AIVTtkbb-bfYyNzI2SJ0qYyuN5YkzIAVLoLS5oXK2w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDY3MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NDU2LCJpYXQiOjE1MjUxOTM2NTZ9.MtTssCq9MRy_oReXW5uWo-bHOr8BKnuTR7U-xSJXDokzW_zItusGf5Ulv-PazGFWEyhKqlwKl9d2dGCgRLq7Lg==
+.twitch.tv	TRUE	/	FALSE	0	login	y_kyleed6j_d
+.twitch.tv	TRUE	/	FALSE	0	name	y_kyleed6j_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:54:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2cab1117a5f419759892908e1ab5d25c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfa3lsZWVkNmpfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDU2NTYsImlhdCI6MTUyNTE5MzY1Niwibm9uY2UiOiIzSDMyb3pSVWtCS1JCejBjd2x2OC1SRnVyS2hoVUd3Ykw4VDJaOXJFWjJRPSJ9.PmAfYjrORFzBs7YqsBeglpvHOzr19guvpN4huJeD6YufCNWi_NkzbnwU0t2GSB3Q6-bBvyPsv9Ciy1lkNfATeQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22trfyazrq0t7yd4j4oxe9q0es6zd2b2%22%2C%22displayName%22:%22y_kyleed6j_d%22%2C%22id%22:%22217946732%22%2C%22login%22:%22y_kyleed6j_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	trfyazrq0t7yd4j4oxe9q0es6zd2b2

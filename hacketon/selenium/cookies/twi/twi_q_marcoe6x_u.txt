@@ -1,0 +1,13 @@
+#q_marcoe6x_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2Bk9W1aJVVqGhxwULWHKfIvQRwg0Ul41l%2BeqsolpHnL8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:00:32+00:00	unique_id	8fa4594276b989e4
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:00:32+00:00	_twitch_session_id	8071dfcf36f05ecdecae47f0a959ec9e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:00:52+00:00	persistent	217559874%3A%3A58mekprcmb7zt8v2ubmwefel9ud6gq
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:00:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTk4NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2ODUyLCJpYXQiOjE1MjUwMzIwNTJ9.jK8T3yN_Jb8WFRJMNFMAYVzVscaL8GiZTIl46OyzJSBjbRtSlG00RI9TsQGA8mFpzOYcKVLW3UbZ4C6jvscQog==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:00:52+00:00	login	q_marcoe6x_u
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:00:52+00:00	name	q_marcoe6x_u
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:00:52+00:00	last_login	2018-04-29T20:00:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:00:52+00:00	api_token	08ddd061cf645bb4c897f11deb26393f
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:00:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFyY29lNnhfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODQwNTIsImlhdCI6MTUyNTAzMjA1Miwibm9uY2UiOiJjYVNfSnJlTTF1NGxobHZ0ZV8zNDNfYzltbG5IbnZrQjdjbzRTT1BHOVRnPSJ9.3oIL4aT2szCaEp6e6jDGxyles-dwf3ur1JGd7kCd9PuxEo3ojnQiSycZEs2SUVCKaXvUkPEcLz9xjQu3PoXS-A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:02:36+00:00	twilight-user	{%22authToken%22:%22bxobi84lv70k5pl2kyv38ojrb67416%22%2C%22displayName%22:%22q_marcoe6x_u%22%2C%22id%22:%22217559874%22%2C%22login%22:%22q_marcoe6x_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:02:36+00:00	auth-token	bxobi84lv70k5pl2kyv38ojrb67416

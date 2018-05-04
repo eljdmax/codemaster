@@ -1,0 +1,13 @@
+#r_madelynm1k_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LbNDsWEvQI%2Flp0Tg5kxtJzPCRZ1iz5Toq1hJ5nvaLqQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:05:30+00:00	unique_id	a50bcdfbbf3b255c
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:05:30+00:00	_twitch_session_id	2cf7f4bdb390865e9dce5be23aa76f3e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:05:45+00:00	persistent	216478932%3A%3Ajm49u9kkxg8kgewc6rx4au7r3hguem
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:05:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzg5MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyNzQ2LCJpYXQiOjE1MjQ1Njc5NDZ9.m4Fv-11EHDp__dJdgEClAevAcBdjplPiBOHNLc-7s5x-_Xoo_aphzYCp6bwoIP1DqC-YmxrA7sfPFayFqAV67w==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:05:45+00:00	login	r_madelynm1k_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:05:45+00:00	name	r_madelynm1k_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:05:45+00:00	last_login	2018-04-24T11:05:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:05:45+00:00	api_token	bec3d070760f2405773866189ad5e465
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:05:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWFkZWx5bm0xa19iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExOTk0NiwiaWF0IjoxNTI0NTY3OTQ2LCJub25jZSI6IklNR3BTcEFrVDRhbGtpMEtMZlJNX2dHU01lcUx5RWZoVmxYcndIWS1Ha1E9In0%3D.YWIFJ7PxiAymrNqLbnb0rOBUcNCtO5wsWC9T38U6d6gmjy05XF3q3Aimhk-ih8uxoxBz4TX6TYbBg97AYIo4oA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:07:05+00:00	twilight-user	{%22authToken%22:%2227272jmjghjwvs628d2a5gserh62c0%22%2C%22displayName%22:%22r_madelynm1k_b%22%2C%22id%22:%22216478932%22%2C%22login%22:%22r_madelynm1k_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:07:05+00:00	auth-token	27272jmjghjwvs628d2a5gserh62c0

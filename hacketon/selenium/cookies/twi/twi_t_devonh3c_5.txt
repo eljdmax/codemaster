@@ -1,0 +1,13 @@
+#t_devonh3c_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	g4O%2B56YGuZxoeMTIhlc9yuU9%2FvZ4NxiSuMdR9X0KjSI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5cb96e8d9bcf7f09
+.twitch.tv	TRUE	/	FALSE	0	persistent	217894476%3A%3Ahq025logck5hegs4c7e3f448hesunq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ0NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg5MjEsImlhdCI6MTUyNTE3NTMyMX0=.yqK48oLeQNnWnrdSqSvi277JM5DG7M6fHZCwd2VALqXvFuZvu_MSnc24HnFaISHBPH3gxERywtIXwRNPPLcLBQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ0NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMTIxLCJpYXQiOjE1MjUxNzUzMjF9.yp3_0RXrXkhMBrrcA87-26LJ8mts4dtAm3-EkO4FUGeJMiwzarl46_JBmkH09dE5gDVNNUDBPR0EzKasUyrNHQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_devonh3c_5
+.twitch.tv	TRUE	/	FALSE	0	name	t_devonh3c_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:48:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4bf04832a09faffb54c7343915b55a24
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZGV2b25oM2NfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3MjczMjEsImlhdCI6MTUyNTE3NTMyMSwibm9uY2UiOiI4NXhNYXFKQzl4SWNaS2ZiY3hhNmtUU1B6cUp2WW11S0JoRE1LdW05Z1RjPSJ9.gCz0zcaaFYMKNiD6ba383yyBDazINdglGgR_jmoHnX8QRRW6GIK1YUmkc4rp_KpxHmtWuPaJmW4znCxRt9Fgyw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bzzu4d9ifluua36nveoz9b9d3xa016%22%2C%22displayName%22:%22t_devonh3c_5%22%2C%22id%22:%22217894476%22%2C%22login%22:%22t_devonh3c_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bzzu4d9ifluua36nveoz9b9d3xa016

@@ -1,0 +1,14 @@
+#c_marcus49z_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0QfaNnkOaujqt30VzaWmVst1kIe3lG40XdCqmog97aU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:11:47+00:00	unique_id	4e7de90802c4112f
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:11:47+00:00	_twitch_session_id	1e2b81a106ce4e2b396ff1a108188839
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:12:02+00:00	persistent	216143918%3A%3Amikzxh6nzr30l3pbasel0crg1vry9p
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:12:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDM5MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5OTIyLCJpYXQiOjE1MjQ0MzUxMjJ9.01MHYpATb_YqmG6ITWB_RGzFkrlp5ppIx3v4oljcRDYIEpF3BE2XcSdnoHutfcchbBwI7tKIhKZF6IhVWycFpg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:12:02+00:00	login	c_marcus49z_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:12:02+00:00	name	c_marcus49z_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:12:02+00:00	last_login	2018-04-22T22:12:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:12:02+00:00	api_token	3195a922bc07caeaff695686fec71193
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:12:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbWFyY3VzNDl6X2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg3MTIyLCJpYXQiOjE1MjQ0MzUxMjIsIm5vbmNlIjoiSUpzNDFPdDdRTTUwRFVtTVh4RTNXNmxldUhnaVZ6b1Z6bGhtZGV1UnRRUT0ifQ%3D%3D.2gz6p-JM6IQrq0oWpviUDs7xDVcGoZoZ5L-Ir7S6X-nF5MhEGEdVK6uk_uCKINh2mBb_CaA-Tna2gjGzaCsAIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:13:14+00:00	twilight-user	{%22authToken%22:%22dno8yx9f91adiha05qfbbn5u4juan7%22%2C%22displayName%22:%22c_marcus49z_l%22%2C%22id%22:%22216143918%22%2C%22login%22:%22c_marcus49z_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:13:14+00:00	auth-token	dno8yx9f91adiha05qfbbn5u4juan7
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:13:17+00:00	twilight_onboarding	true

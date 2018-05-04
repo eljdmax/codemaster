@@ -1,0 +1,12 @@
+#z_ryanu7g_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ulTriKQniB13%2F%2F0XQMVcX4qaUwkN0cxhoSZNZhU28AI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:52:13+00:00	unique_id	bbb33358f0acb59c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:52:54+00:00	persistent	217558028%3A%3A218zp3wldt9vjebxg75s9plmx3meu2
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:52:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTgwMjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2Mzc1LCJpYXQiOjE1MjUwMzE1NzV9.s7x7SWt-to9sBQ3Ii1Oywvivf0bs1XRA23AbX9AbEzQRPV6atJHZZLjF_dDpYKeD-gPFNNZoH_2aJZdew-9eHA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:52:54+00:00	login	z_ryanu7g_f
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:52:54+00:00	name	z_ryanu7g_f
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:52:54+00:00	last_login	2018-04-29T19:52:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:52:54+00:00	api_token	52dbdec9d03398b0980381a75b248e4d
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:52:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfcnlhbnU3Z19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MzU3NSwiaWF0IjoxNTI1MDMxNTc1LCJub25jZSI6IjB1aUt6WXN4dUo2ZzlLMWhkTzU3NUpuNFBVZzUtdWlkY1dVYkRNRGVOWlk9In0%3D.i6BelU3Hxv37-ugN9CSsLDc4rOVzLAlkHn4VTg7-FY1wbrc-_4Eazo7NE0nWGWeZd4C5E52bynKd-kzd80O-SQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:54:39+00:00	twilight-user	{%22authToken%22:%22a4x42aaaqscuv00lznnw98el6hxdm0%22%2C%22displayName%22:%22z_ryanu7g_f%22%2C%22id%22:%22217558028%22%2C%22login%22:%22z_ryanu7g_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:54:39+00:00	auth-token	a4x42aaaqscuv00lznnw98el6hxdm0

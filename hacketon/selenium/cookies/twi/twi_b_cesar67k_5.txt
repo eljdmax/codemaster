@@ -1,0 +1,14 @@
+#b_cesar67k_5
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8ef71a0da8c65c73
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VHra6hoCIJBegFW903Y%2FxipLIlcZvIbpyCnQfqoZkzA%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7b5456872fb47d9cc485029f476c3de9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893196%3A%3Aj2rccf7x575kjo4i7y0adpg4schkbd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMxOTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzgzNDUsImlhdCI6MTUyNTE3NDc0NX0=.rNOxUQCv27N6wqV66rcSf9OAWUbZPLfFgJo23XKEZKdFjne-hF2L6J9xJzedi-HAbByw6G3gAdxXiJ3I-fMtdg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTMxOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5NTQ1LCJpYXQiOjE1MjUxNzQ3NDV9.e8UqpKoyHh746V4Sa3u17UhxWmW-UI0XyxgV_HDXALi3IN03FrNia7CG9BnO0QgReG8Fn_T9JSHEiL-RtvUE4w==
+.twitch.tv	TRUE	/	FALSE	0	login	b_cesar67k_5
+.twitch.tv	TRUE	/	FALSE	0	name	b_cesar67k_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:39:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b292ae76dc36e36aac66fbc91e68d28a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfY2VzYXI2N2tfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3MjY3NDUsImlhdCI6MTUyNTE3NDc0NSwibm9uY2UiOiI2bDVXWENnd0wtODlMWVBFcDdDSDRyWUpxY3FJdGpXU0tyZGl4bU55VmhvPSJ9.wCayUVB7a1svQ66BIoqrXV0WOtts-TDS3Gj-ngQlllOJVnLwZL_j_raJpJeOFlXbl7D8SULxStFctrlU7H9-qw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225iw8j6hhky8fcrh2182ef6dxdvnu48%22%2C%22displayName%22:%22b_cesar67k_5%22%2C%22id%22:%22217893196%22%2C%22login%22:%22b_cesar67k_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5iw8j6hhky8fcrh2182ef6dxdvnu48

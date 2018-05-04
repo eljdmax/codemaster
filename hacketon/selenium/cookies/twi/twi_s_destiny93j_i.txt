@@ -1,0 +1,13 @@
+#s_destiny93j_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ep%2FA7VKrFWpiAdOOIAIQexuDMfKYMYYw0osrkPKQIWs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2e93365837aa1903
+.twitch.tv	TRUE	/	FALSE	0	persistent	217476314%3A%3A42hc8qt0280lgwtxcvzwfz6hoj7qx6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzYzMTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTE5NjYsImlhdCI6MTUyNTAwODM2Nn0=.y4pIIhW3MWYPgs3-W1iDpmIGHXsw2NvIzP1zZI0aKW1q4uNCb-N_MMnG9FOpmmfUoT7JxaqpHF2Tb7_7wYX2DA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NzYzMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjEzMTY2LCJpYXQiOjE1MjUwMDgzNjZ9.KGxdyF4MsQGiJlVo_V5XjCsV9W_71I8xTeTlsMNqrAcjD5sM3gA1Ul1OWtl_3sAE3hkK93SGbPJPZcSRbStpxw==
+.twitch.tv	TRUE	/	FALSE	0	login	s_destiny93j_i
+.twitch.tv	TRUE	/	FALSE	0	name	s_destiny93j_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T13:26:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c38c5cbbe8d8019a335c9cdd00715293
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfZGVzdGlueTkzal9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2MDM2NiwiaWF0IjoxNTI1MDA4MzY2LCJub25jZSI6IjhVaVo4NFdmczZ1X01oWk8yTWdkRnJ0YXdLZ2ZOS2pUOFduby1hdXViNTQ9In0%3D.1NUQnhR8basu292iNanx0Db32TTmO79zmTnwY2_ua-1ygEUpMtOTUDAYcF1VkpB45GyM7sJAI1jxsQnczeKXJA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rskolu12wcv1xz9b0bp12bc1rgyen5%22%2C%22displayName%22:%22s_destiny93j_i%22%2C%22id%22:%22217476314%22%2C%22login%22:%22s_destiny93j_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rskolu12wcv1xz9b0bp12bc1rgyen5

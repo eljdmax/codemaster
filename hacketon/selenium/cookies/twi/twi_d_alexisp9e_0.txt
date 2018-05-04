@@ -1,0 +1,13 @@
+#d_alexisp9e_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gaphjOB3hnOZjKcG%2F%2FUueCQiEsesywWfSMKE0XSVEZE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:54:04+00:00	unique_id	22d1fc59d32325b8
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:54:04+00:00	_twitch_session_id	8d7887857fbb2aee7f4773f684231c8f
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:54:32+00:00	persistent	216939346%3A%3Anuxgjlu0gf1saxaqfe66h7l9jot9it
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:54:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzkzNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwODcyLCJpYXQiOjE1MjQ3NzYwNzJ9.KGpUPAXiCefuOED3TEOmMCOQ9S8JwQB0cmJgdelW1q9Hi_Mu2BpS5D70kttJOEt9d-eoMNjwTxY3EOyw2reA-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:54:32+00:00	login	d_alexisp9e_0
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:54:32+00:00	name	d_alexisp9e_0
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:54:32+00:00	last_login	2018-04-26T20:54:32Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:54:32+00:00	api_token	6723b142a749f70b0be8c066163082e1
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:54:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYWxleGlzcDllXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI4MDcyLCJpYXQiOjE1MjQ3NzYwNzIsIm5vbmNlIjoiaW11YTh6emxxN0tyVkFwNV93VUVfSXVoNVYwb1VLbTE2YWs4Mmp6bFQ1VT0ifQ%3D%3D.fZS3eFPzq_JCXzGmKHlWjXbWhTrsRylpoPymi2eBWU19nOhd78t1T3gM3sC7qL2xzxm9pS6iOl3swsIafD2UUA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:56:03+00:00	twilight-user	{%22authToken%22:%22wsi6kiw535147dir0rpu0y7vlio62f%22%2C%22displayName%22:%22d_alexisp9e_0%22%2C%22id%22:%22216939346%22%2C%22login%22:%22d_alexisp9e_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:56:03+00:00	auth-token	wsi6kiw535147dir0rpu0y7vlio62f

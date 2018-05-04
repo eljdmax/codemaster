@@ -1,0 +1,13 @@
+#z_joel44u_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yjfIS1KyAE51%2FqruL2MeZYcySizuqvPQ%2BYz0wD0BKjI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:40:54+00:00	unique_id	70e144aabb7d06fc
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:40:54+00:00	_twitch_session_id	ccc3239df118bbf490a0e3e6b0459fe6
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:41:09+00:00	persistent	216946868%3A%3A2pd5y8o7ae69fd4x3olg1ootm09dw9
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:41:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDY4NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzNjcwLCJpYXQiOjE1MjQ3Nzg4NzB9.SyzeV1hqzHb2f-fbnKalnCJHu3VSY15ga9wL_VGqOzjlCTZyyicz4MYf_AApBNNgIDaOQ6NssnAZ-J7ZTjsZnw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:41:09+00:00	login	z_joel44u_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:41:09+00:00	name	z_joel44u_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:41:09+00:00	last_login	2018-04-26T21:41:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:41:09+00:00	api_token	ebff1a364897d33a96a5037a90fc64eb
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:41:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfam9lbDQ0dV9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMzMDg3MCwiaWF0IjoxNTI0Nzc4ODcwLCJub25jZSI6InBaWk1DU2U1OURWSnJSWXpfZEJyRkE1X1FLbHo1REEydVlLMzlEN0tBVTQ9In0%3D.q2AnuUppc7rX8nexno792uNa_7wjVpsyE3tO3_1ACmbE8EMDJ9C-GP1kglHRXMMi-UkQNA7xAjoGj7-SQ1FdIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:42:40+00:00	twilight-user	{%22authToken%22:%22oakj8g7lrxgo3cne03e74y7abfetgy%22%2C%22displayName%22:%22z_joel44u_f%22%2C%22id%22:%22216946868%22%2C%22login%22:%22z_joel44u_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:42:40+00:00	auth-token	oakj8g7lrxgo3cne03e74y7abfetgy

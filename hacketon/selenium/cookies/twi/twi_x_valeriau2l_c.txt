@@ -1,0 +1,14 @@
+#x_valeriau2l_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ENYYPErPzVb3iY9kWA8RNNDrI%2FTJsKozt5nJBbzwhiI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:16:20+00:00	unique_id	32d91da742f20298
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:16:20+00:00	_twitch_session_id	7b531713a438e47143dd443266283c02
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:16:20+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:16:41+00:00	persistent	215244239%3A%3Ar6cxk6z9dvec9x1utrycm5fqmxz8wc
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:16:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDQyMzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMjAxLCJpYXQiOjE1MjQwNzU0MDF9.ITlrSo8WraVR9jSnddc06UR7EucXpcBzMV5vh7F-xn3wtC2xZnWf2t8DTUtdbxKjmsO9GK5vXRenNKG3Jo5eGA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:41+00:00	login	x_valeriau2l_c
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:41+00:00	name	x_valeriau2l_c
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:41+00:00	last_login	2018-04-18T18:16:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:16:41+00:00	api_token	73e0bf48de00a40e83c965935a79d9ee
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:16:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfdmFsZXJpYXUybF9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNzQwMSwiaWF0IjoxNTI0MDc1NDAxLCJub25jZSI6IlJVY3RGV2p0YVQ2Tkk1UkxLUVdBX3AtZHF0Y1BRNlpoNDZRSzJZZTRCbTg9In0%3D.xUdgBUkAyxgTucBVt9MpE26ne96fzd57_5ByKFWpLr99HIIg_kQzfXr-kz937zPoRe_vTgoRDPZR6gtG0dxJ2g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:17:33+00:00	twilight-user	{%22authToken%22:%228r7i7xcg4ht9z5a66eal99g9rd1p67%22%2C%22displayName%22:%22x_valeriau2l_c%22%2C%22id%22:%22215244239%22%2C%22login%22:%22x_valeriau2l_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:17:33+00:00	auth-token	8r7i7xcg4ht9z5a66eal99g9rd1p67

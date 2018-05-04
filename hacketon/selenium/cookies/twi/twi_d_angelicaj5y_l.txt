@@ -1,0 +1,12 @@
+#d_angelicaj5y_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vr27DLhc%2FZ1%2BXMswVk19AJgV5NxGnlEAt7eV%2FbRaXgo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:06:17+00:00	unique_id	4fa202e5c22e3a31
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:06:50+00:00	persistent	216484280%3A%3Ahf68zb3egb6cbh5fxnes50yhpp3kwb
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:06:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQyODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NDExLCJpYXQiOjE1MjQ1NzE2MTF9.ypcxTt_vsn6NbJMto1sXu3dAlzQYUowzEUdoAvEsqaXpWjCmt1YjBKnfRabY52poEsSxDAd61mUjJArCtBTm3Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:06:50+00:00	login	d_angelicaj5y_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:06:50+00:00	name	d_angelicaj5y_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:06:50+00:00	last_login	2018-04-24T12:06:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:06:50+00:00	api_token	621c2319e4c258bc482df98cce9634c9
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:06:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYW5nZWxpY2FqNXlfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjM2MTEsImlhdCI6MTUyNDU3MTYxMSwibm9uY2UiOiJiNmZpY05wN3o3YmFpcVlVc0lWLVhnU0loZG1YdkIzZjF0MkgxUzRBUTJJPSJ9.e4GXruZZUigF1gKnu6vZPanDqRvb69wfxDBiKARLhv2h5GKmZFYHxnYmvNDcJVkWSHrfQb6N281aJzdIG7d44w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:08:24+00:00	twilight-user	{%22authToken%22:%228250fhts8a2ktc6517tkbg6vti5fpf%22%2C%22displayName%22:%22d_angelicaj5y_l%22%2C%22id%22:%22216484280%22%2C%22login%22:%22d_angelicaj5y_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:08:24+00:00	auth-token	8250fhts8a2ktc6517tkbg6vti5fpf

@@ -1,0 +1,13 @@
+#t_claireh20_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1SjXNtN%2Bm53mJHxaDcTIgTI6mT%2B6kDJITV4HOHcXlEY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:36:28+00:00	unique_id	af99395e8b0bc86c
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:36:28+00:00	_twitch_session_id	3f2014ae35f917ae98869287f05fa77a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:37:07+00:00	persistent	216487499%3A%3A3nxcnpjcp5ir9l53cc743wchcmnig2
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:37:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODc0OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4MjI3LCJpYXQiOjE1MjQ1NzM0Mjd9.1lD3sEh6G1VIssC6nZ4DX05UXzsJ2ufQb99Q15jZlF5gokYgWsGmtVRS_qOlFV2NhuZBPGhZ6a0UzE20gdNwmQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:07+00:00	login	t_claireh20_a
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:07+00:00	name	t_claireh20_a
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:37:07+00:00	last_login	2018-04-24T12:37:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:37:07+00:00	api_token	be1d1c7e3f98942fa4881f6245ec531d
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:37:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfY2xhaXJlaDIwX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI1NDI3LCJpYXQiOjE1MjQ1NzM0MjcsIm5vbmNlIjoic0lEQWdCOF8yX1g3Y1hfemJxcS1RZkNxS2FwZ3RpZXVUMVcwMWhqVkpMMD0ifQ%3D%3D.BpTyOBIU4OCUfMEVDJIuc5vd4DW29U3SKjsw5TauZEV_W0xj3e0fngFDvKy4Alh1rfT2i4cHQptrTPNA28UM-Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:27+00:00	twilight-user	{%22authToken%22:%22q1ru4cifik0c6zmtvyb3tby2xls268%22%2C%22displayName%22:%22t_claireh20_a%22%2C%22id%22:%22216487499%22%2C%22login%22:%22t_claireh20_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:38:27+00:00	auth-token	q1ru4cifik0c6zmtvyb3tby2xls268

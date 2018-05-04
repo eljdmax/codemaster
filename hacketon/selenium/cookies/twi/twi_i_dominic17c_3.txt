@@ -1,0 +1,21 @@
+#i_dominic17c_3
+.twitch.tv	TRUE	/	FALSE	2028-03-18T23:31:51+00:00	unique_id	f0c3410c0c300f46
+.twitch.tv	TRUE	/	TRUE	2018-09-14T23:32:13+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	2028-03-15T23:34:22+00:00	language	en
+.twitch.tv	TRUE	/	TRUE	2019-03-18T23:35:40+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	2019-03-22T19:47:22+00:00	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%221623b7af0e47f-015288174d5ecf8-70212d57-fa000-1623b7af0e58e%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fpassport.twitch.tv%2Fsignup%2Fnew%3Fclient_id%3Dkcc9gwhtl1e4jo7n4f51mvond8g74s%26force_verify%3Dfalse%26redirect_path%3Dhttps%253A%252F%252Fapi.twitch.tv%252Fkraken%252Foauth2%252Fauthorize%253Faction%253Dauthenticate%2526client_id%253Dkcc9gwhtl1e4jo7n4f51mvond8g74s%2526force_verify%253Dfalse%2526redirect_uri%253Dhttps%25253A%25252F%25252Frefereum.com%25252Fsignin-Twitch%2526response_type%253Dcode%2526scope%253Duser_read%2526state%253D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%26redirect_uri%3Dhttps%253A%252F%252Frefereum.com%252Fsignin-Twitch%26response_type%3Dcode%26scope%3Duser_read%26state%3D54ZHfrR1wgQmkxl9wqsPiy34qE5-DMTOwcMo4QEA_dcReO29cNphs9HpD-vJZO7DjAwaEjS0LH_ryXHATvk5PE9Sb9FRhX34fiYqy6EAjNHhabXAhlhVGTx-69KuS7OSu6qODxmzSw20n_2g8YlRa0GwDiVZ3y8tpHkBrB8UBmhjna0YBYyyeDd4S_Ym24SiWU0j6K3itNyhD7IBDoJIAouws97fiZNfnFpdfdt7z8s%22%2C%22%24initial_referring_domain%22%3A%20%22passport.twitch.tv%22%7D
+.twitch.tv	TRUE	/	FALSE	2018-03-23T19:47:25+00:00	mp_mixpanel__c	2
+.twitch.tv	TRUE	/	FALSE	2020-03-21T19:47:29+00:00	__gads	ID=c9339732165ebedf:T=1521748050:S=ALNI_Mb5XvgeRR4EjCp05xoOXj4S7D8a3g
+.twitch.tv	TRUE	/	TRUE	2018-03-23T02:15:43+00:00	passport	MTUyMTc2Nzc0NHxlMzBLfJHb-UqtyvX8fTtyZm1w_KCQYDhUD6wVCjJxi5PX4eIo
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	fwk7MuOuA2s8b1DzXsazbcbLxILla99e
+.twitch.tv	TRUE	/	TRUE	0	passport_requested	jPplVyeSGunApl8TnnHeY3EVSrRYaN
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:25:25+00:00	persistent	216474341%3A%3Acx7ijp20ll2ha6m0x5vty1myyp7fku
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:25:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQzNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTczOTI2LCJpYXQiOjE1MjQ1NjkxMjZ9.rrhuqoxYPXxkPsOOvTK-rREHwEGRjXJu7rbkBHXdQ4cozDcooItBoX5s6jTvzZz6qEcJ8C4CzH7mKSyjECLpxQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:25:25+00:00	login	i_dominic17c_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:25:25+00:00	name	i_dominic17c_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:25:25+00:00	last_login	2018-04-24T11:25:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:25:25+00:00	api_token	9a103a2547803162336e4422f738c01b
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:25:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfZG9taW5pYzE3Y18zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMTEyNiwiaWF0IjoxNTI0NTY5MTI2LCJub25jZSI6IklvMndsQ3FsSElJNnVpSko0aWhFRVZsWFZ5bHRkYjUxNFYzdF9CMmJ0R3M9In0%3D.OG00bc5piJfpBzXsE3buh9WZsFoIupJ3YdxQbjzZuip_nMCLsxwCRDwky_fgMyQp-e7TdALLsC7Q9RlmQC8huQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:26:47+00:00	twilight-user	{%22authToken%22:%2285ymdho91z68rsi0rqgqfpjvr43yy0%22%2C%22displayName%22:%22i_dominic17c_3%22%2C%22id%22:%22216474341%22%2C%22login%22:%22i_dominic17c_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:26:47+00:00	auth-token	85ymdho91z68rsi0rqgqfpjvr43yy0
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImNqTy8iLCJ0c2wiOjE1MjQ1NzI4MjIsIm52IjowLCJ1cHQiOjE1MjQ1NzI4MDYsImx0IjoxNTI0NTcyODA2fV0.

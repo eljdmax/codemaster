@@ -1,0 +1,13 @@
+#z_jose45o_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AhfuwXz6iryAGy5KTFDHjHvAN97cAs5ZSmk2Xm26aMg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:58:17+00:00	unique_id	51ff4b10d9a37f4c
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:58:17+00:00	_twitch_session_id	f471176bb3bd87563238dd0bf639ad0d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:58:52+00:00	persistent	216478325%3A%3Aj3dr5wbin3949b12xbpkfvgseuq1gn
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:58:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzgzMjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyMzMzLCJpYXQiOjE1MjQ1Njc1MzN9.JxWCQVzroSg7bJtMKrEoSGGJ9Qh2x9nTNRsfbJ9GGfJIZjaPQhaV_Vg4DE0zqiYBP78dk2jcm0wqIM3fC_l23g==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:52+00:00	login	z_jose45o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:52+00:00	name	z_jose45o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:52+00:00	last_login	2018-04-24T10:58:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:58:52+00:00	api_token	ef6fd27a2c2aa37eb61924292d96316c
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:58:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfam9zZTQ1b195IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExOTUzMywiaWF0IjoxNTI0NTY3NTMzLCJub25jZSI6IkktMGd3TlpEbk5aeTY4bjdmaWNqdXRSU1JaQ3lnckcwV3NRdGpRTlk0eUU9In0%3D.Q6dL65eQijqvZvpUhnBEY-KQow4LqGGJXESDb6wEJ9MyJDIgP8J5dgzDbr2MSpcEvJjPQDwNkPqm556ewMknhg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:00:15+00:00	twilight-user	{%22authToken%22:%22554xtx6duhmbdzsp1w3bb35stdzz8l%22%2C%22displayName%22:%22z_jose45o_y%22%2C%22id%22:%22216478325%22%2C%22login%22:%22z_jose45o_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:00:15+00:00	auth-token	554xtx6duhmbdzsp1w3bb35stdzz8l

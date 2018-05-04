@@ -1,0 +1,13 @@
+#k_erinn7s_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xQtB0wsjABtDES0sZGnl6j0N5jvit6QY3svvswMAYAQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:27:29+00:00	unique_id	1bf0df58e977bd3f
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:27:29+00:00	_twitch_session_id	ec145a55b5d0455d72b68b3e082e52ea
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:28:13+00:00	persistent	217566597%3A%3Auc6kkgj7vpq9xlbi4yjpdy2s2ktzos
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:28:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjY1OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4NDk0LCJpYXQiOjE1MjUwMzM2OTR9.hiZrmWCwD648v0UZMsLzlikrg4MyVxXE9LoZlWE0_TZjnqTa3eoNZKRctOfY6iDWlu05eCHTbHeGA22nk3ZiMA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:28:13+00:00	login	k_erinn7s_7
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:28:13+00:00	name	k_erinn7s_7
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:28:13+00:00	last_login	2018-04-29T20:28:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:28:13+00:00	api_token	224fb4b18c15ba15f13d04ec5f2e7c7c
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:28:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZXJpbm43c183IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NTY5NCwiaWF0IjoxNTI1MDMzNjk0LCJub25jZSI6Inl1c2dubVptV09wVExUXzZiZzVnQmppaFF3VU1QTm05SW9fTzZjaUZrdjQ9In0%3D.LJR5NkzdPCPxTd82H7-SKcUhVyol5uO2FthXCG_d2C5VAfamSlueBZA7Xk-s-pqHquLXxQgTDkQOuo-CBZKq0g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:29:59+00:00	twilight-user	{%22authToken%22:%22zgna2osps0k7k4xgx22teedndoj32g%22%2C%22displayName%22:%22k_erinn7s_7%22%2C%22id%22:%22217566597%22%2C%22login%22:%22k_erinn7s_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:29:59+00:00	auth-token	zgna2osps0k7k4xgx22teedndoj32g

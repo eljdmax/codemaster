@@ -1,0 +1,13 @@
+#r_bryan395_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BfHN0yj94tHgLwgTPQR9drHf1MHSyw%2F08ePHMKt8vfs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ea19323895726e05
+.twitch.tv	TRUE	/	FALSE	0	persistent	217567634%3A%3Au1klj1en0sn49qz7xf1nx5y8o2abjy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njc2MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzc1NTUsImlhdCI6MTUyNTAzMzk1NX0=.5sj3e5mhgda-nyblilg0tko09ED4bQF6ZbPR8fUOEN3sGBLQ9cGn0Zt_PLuNae3bd76cSIuuf9oruQoJMw0urg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njc2MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4NzU1LCJpYXQiOjE1MjUwMzM5NTV9.z0A50bqMbBlyj9Gx2knh4YCjEceBW0fGSkBiFwa6kIf36a_6p3_niOSkXvaOGfv0xVK-YIBMAKmtarINeOgKBA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_bryan395_i
+.twitch.tv	TRUE	/	FALSE	0	name	r_bryan395_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:32:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cef9b9f2c594a3a56c2d6b728a9ed6ce
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYnJ5YW4zOTVfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODU5NTUsImlhdCI6MTUyNTAzMzk1NSwibm9uY2UiOiJJWVZmWi1GbzJFbTBEXzNhZE1ESUJVWkpkcXhlNmZLR2k1UUNHZWx4czRvPSJ9.3McAJdZnvN5Oww_nPBrLefF9Ds8yDv2i94s6uAh6GuheC734YReFnQygFz44einsJO1095qCN2-KHOX4mwwOPg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223pz4i0e1ildiyxijlnsoj4xij1vekb%22%2C%22displayName%22:%22r_bryan395_i%22%2C%22id%22:%22217567634%22%2C%22login%22:%22r_bryan395_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3pz4i0e1ildiyxijlnsoj4xij1vekb

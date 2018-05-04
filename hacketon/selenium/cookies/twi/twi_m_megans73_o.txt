@@ -1,0 +1,12 @@
+#m_megans73_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yy9e6dHobCTKMGDrB%2FmuyWtZgEvxbdhQ41smEuoyZag%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:13:33+00:00	unique_id	821d45dd10063664
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:14:01+00:00	persistent	217563183%3A%3Ap89mmilti5o6eh5obtr0aw1q1avpvh
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:14:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjMxODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3NjQxLCJpYXQiOjE1MjUwMzI4NDF9.no_2MWJJ40vQQl_Y3GRGFTjhZrVTHxq5DAq4KrrDoUQjj1VQQwF6JSneoS7r9mtWNI0EPz6dVnwV-tBom7GnXA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:14:01+00:00	login	m_megans73_o
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:14:01+00:00	name	m_megans73_o
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:14:01+00:00	last_login	2018-04-29T20:14:01Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:14:01+00:00	api_token	5ce4719dbc6ea4f6565ea33bab9e445f
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:14:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbWVnYW5zNzNfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODQ4NDEsImlhdCI6MTUyNTAzMjg0MSwibm9uY2UiOiJjcGNvOW9VZjd6QkxoTzVyMXE5bE9pM2V0QkN5S1NFeG5ydDNfa1RzRnJzPSJ9.umyZ9ejet9DWgrHSLpmqm18lmNRN99h731uolsr0JhVtgpq9izXKQXeGfCEQnwjdYUHOuDWlN1c5zhwnnG--5g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:15:44+00:00	twilight-user	{%22authToken%22:%22rzg5zr27koal8jwqfr3zndm3odqdsu%22%2C%22displayName%22:%22m_megans73_o%22%2C%22id%22:%22217563183%22%2C%22login%22:%22m_megans73_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:15:44+00:00	auth-token	rzg5zr27koal8jwqfr3zndm3odqdsu

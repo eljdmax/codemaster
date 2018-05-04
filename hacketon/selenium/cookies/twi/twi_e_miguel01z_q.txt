@@ -1,0 +1,14 @@
+#e_miguel01z_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4KWCbCLPn0IgTziyEHLdiCyP6KpRdbxPd3nY5ThSTtI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	17bf4092e4b55f6e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	831ba805d8b5d045347e07f68e823bae
+.twitch.tv	TRUE	/	FALSE	0	persistent	217570327%3A%3Akzde0b3jb5ylh1a8n2fc9r6dv30s5l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzAzMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzgyNzMsImlhdCI6MTUyNTAzNDY3M30=.zgkqf2WHGgUaTu-Fww6t_1tNs6VpfbG3xG13KbY7F-NE8B0a7ad7XCQFm3Ffie9mGKqUb49arVCpUV3iIL0ncw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzAzMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5NDczLCJpYXQiOjE1MjUwMzQ2NzN9.UyvhlpZ5MV2Mts4T-2Ld9ZNz8woQyNpHhQLG7bxslXIDCrQthfiNlxKa67hNUPG2Zoc_8jwR3Hg33IlxJzR4qQ==
+.twitch.tv	TRUE	/	FALSE	0	login	e_miguel01z_q
+.twitch.tv	TRUE	/	FALSE	0	name	e_miguel01z_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:44:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3a356d5f275adf373a25e63c50bc51e3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWlndWVsMDF6X3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg2NjczLCJpYXQiOjE1MjUwMzQ2NzMsIm5vbmNlIjoiYnBwT3BEVGh1aThhZVJBU21Kc0hhOGl5dTFCcTBGQVMzRlVUOWUzSUl4OD0ifQ%3D%3D.6g4Wlb8LBcKlk6cO7_GsEkprWixC8KQwB4I5Etrqp7idIHB5aOMesqtFxznYPKcraUuIqjLpkXwIKemctDZGNQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pqx2rfb9y7ot9he03m1t6cg40fbsik%22%2C%22displayName%22:%22e_miguel01z_q%22%2C%22id%22:%22217570327%22%2C%22login%22:%22e_miguel01z_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pqx2rfb9y7ot9he03m1t6cg40fbsik

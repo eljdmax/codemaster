@@ -1,0 +1,14 @@
+#k_derekr8o_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tUK4aAHntuWZCu7g8oFoFfsaZ8hZvwPrfIfBcHDbya0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:11:38+00:00	unique_id	b7f982e1eafb4f36
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:11:38+00:00	_twitch_session_id	6069348d3769fbb0a5f40cccf9e51f82
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:11:38+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:12:01+00:00	persistent	215243279%3A%3A0ooagi4etqfqrpx23y6bmjt4xqka33
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:12:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDMyNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5OTIyLCJpYXQiOjE1MjQwNzUxMjJ9.zT8U3wF5ri4p0OkCR0ITy030DToMr70qRdHb8iTyH89myT1bLpjpw0Cj2NTUsUheHpHsm63YMfGmPu4-MDCsAA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:12:01+00:00	login	k_derekr8o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:12:01+00:00	name	k_derekr8o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:12:01+00:00	last_login	2018-04-18T18:12:02Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:12:01+00:00	api_token	380e2ac201346a49fce191178922aef7
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:12:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZGVyZWtyOG9feSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjcxMjIsImlhdCI6MTUyNDA3NTEyMiwibm9uY2UiOiJUUHdVN0hhWEl1ZjNUbzFkUnF0RmdTMEQ1UEhYMHVxTU81OXVsa05wMDZ3PSJ9.TL9T7AwhhbkJcqq94odNjhalC3nGL2Ry5y6yYnpD1PQgyHI29JlSxrOIZWRWW1gq0uxv8pOFNrMF40VGJ81Vkg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:12:53+00:00	twilight-user	{%22authToken%22:%22jp60ucalxq9744jzchfwwryd64dfba%22%2C%22displayName%22:%22k_derekr8o_y%22%2C%22id%22:%22215243279%22%2C%22login%22:%22k_derekr8o_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:12:53+00:00	auth-token	jp60ucalxq9744jzchfwwryd64dfba

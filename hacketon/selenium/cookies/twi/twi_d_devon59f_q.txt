@@ -1,0 +1,13 @@
+#d_devon59f_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i%2FBWRbw2pII5SXTU%2Bm%2BzwqjcfKIWmdk6w%2FhizDEFmoQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:02:41+00:00	unique_id	c5aef1bc2ff23fcc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:02:41+00:00	_twitch_session_id	f7fe298e2b8a7e4bae5c886b17c42b2b
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:02:59+00:00	persistent	216142282%3A%3Arioh4shl11n0prek5me4rkqkpssyin
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:02:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDIyODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5Mzc5LCJpYXQiOjE1MjQ0MzQ1Nzl9.7Z5w_Z-OWtfLrZCXiIkeyp90hqywRdpaS54GAJdkGuUQmfiZekO1PVkNulmhZzzC-ipKFPO7zNZubdmdh8DMNA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:02:59+00:00	login	d_devon59f_q
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:02:59+00:00	name	d_devon59f_q
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:02:59+00:00	last_login	2018-04-22T22:02:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:02:59+00:00	api_token	03a06e27afaa72cc1158a66f6acdc758
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:02:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfZGV2b241OWZfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODY1NzksImlhdCI6MTUyNDQzNDU3OSwibm9uY2UiOiI0RmVDU2laQ1k2NXdES3ZIbEhZNm9JUmFJTUVHMi1wM2V6YzVQM1p6ZXRzPSJ9.iNbBhld50WVsCGjt_AWNe8h6Oc3sBheaKpRQb4yIbtHsCoaAlFUVFvy6QteE8VrTHzuFSv2k1kphXM250I6CXQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:04:11+00:00	twilight-user	{%22authToken%22:%223a3gawf03gilsk4poanr2gznbdgry9%22%2C%22displayName%22:%22d_devon59f_q%22%2C%22id%22:%22216142282%22%2C%22login%22:%22d_devon59f_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:04:11+00:00	auth-token	3a3gawf03gilsk4poanr2gznbdgry9

@@ -1,0 +1,13 @@
+#s_carson303_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	k0ZzEZcUrfTLb9%2FPXkF46BD%2FQJfICV4iu0ZA1nVTHWo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e7d652e48d05dd59
+.twitch.tv	TRUE	/	FALSE	0	persistent	217257688%3A%3Asoyi2an7g0qeqfnvuxnkn1aqlv1am2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTc2ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjkyMzgsImlhdCI6MTUyNDkyNTYzOH0=.YEOoeT-sJQclxPdYOr13SZu5e7XQkppBdmfg4TasTnrNbXZmxxpV0ZdU7L5quFgYSjo4yORSqPQhOw5wt2LXbQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTc2ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMwNDM4LCJpYXQiOjE1MjQ5MjU2Mzh9.lvnMLQEO-vaMrgywZB4NjzWYdOOyC4fZCcIxzRshOrngrIPbs2aLbS-dzMag9_8KK7EVHdNA5we9dIFcHv4NQA==
+.twitch.tv	TRUE	/	FALSE	0	login	s_carson303_3
+.twitch.tv	TRUE	/	FALSE	0	name	s_carson303_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:27:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f4d331ff251ec86e771e09871ff4f488
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfY2Fyc29uMzAzXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc3NjM4LCJpYXQiOjE1MjQ5MjU2MzgsIm5vbmNlIjoibWFWWXRuMzcwTUJMeWk3bDVLdmxaRHI4ZEozQVBreG5RSVhLOVRzYk9Bbz0ifQ%3D%3D.VGgdoCZWtDwZCt72NxIhODGMcFW_yr1mokybXh7eqtZu0I3B7PbEHu8tTWCg27_gu6NJzUxwtkPjUPFLjM__4Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zt4mrfq9sx74hj11glmnbw0cur8ino%22%2C%22displayName%22:%22s_carson303_3%22%2C%22id%22:%22217257688%22%2C%22login%22:%22s_carson303_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zt4mrfq9sx74hj11glmnbw0cur8ino

@@ -1,0 +1,23 @@
+#z_summer524_b
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	g3g%2FFpg%2BGblVSjXN7crVGi4Ls%2FaAy1jRHFosn92Dygg%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	402b14cb5f238d21375e8f5cc5ef57f1
+.twitch.tv	TRUE	/	FALSE	0	persistent	217695240%3A%3A8rhpw48smmpjtqj4jzxnndaazb3vzq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc2OTUyNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxMDA3MDIsImlhdCI6MTUyNTA5NzEwMn0=.bopmJuPmDHg-IfGwO28PnSxhskv4Y8--wy-zHqeZfEuVmI_tfdG1ysXj9AiI4gDqKU3YdsPzrFvOfrk2Ng2BIg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc2OTUyNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzAxOTAyLCJpYXQiOjE1MjUwOTcxMDJ9.IEAkElpUk3kGXGMHHh1fMiKyYiVYKk7E1YUSO-7K8OLbIfQShCATrkWLhmhxmCazjsoKtvtYkXhfbavYBNUeow==
+.twitch.tv	TRUE	/	FALSE	0	login	z_summer524_b
+.twitch.tv	TRUE	/	FALSE	0	name	z_summer524_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-30T14:05:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f5c4cd8a7b96bbbd5d756f5c5ff6af28
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc3VtbWVyNTI0X2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNjQ5MTAyLCJpYXQiOjE1MjUwOTcxMDIsIm5vbmNlIjoiR3h0WkMzS3puQWpaNDJVME9aMkFuZG5zbmhGdDlmTVN2dFNoejFyY2dEVT0ifQ%3D%3D.6DW2rA5lhpmsxbSXHtQ_XbOtzwKUMu4JuswZz9wCGjSEwyVOTFilLF9NaenHkh_B1jT_qR6xKyPj14Zm0P20TQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bcfichn5t0mm18liyu9bs57j9yn2o6%22%2C%22displayName%22:%22z_summer524_b%22%2C%22id%22:%22217695240%22%2C%22login%22:%22z_summer524_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bcfichn5t0mm18liyu9bs57j9yn2o6

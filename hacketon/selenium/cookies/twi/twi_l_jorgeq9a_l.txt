@@ -1,0 +1,14 @@
+#l_jorgeq9a_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DqD%2F0aDRLE6v7uivQDOqVvR7qc%2FvWW7aXIpukGtLh9g%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f401f720e56745ec
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d766f5b0d7752b2e52ee9297541c2bb4
+.twitch.tv	TRUE	/	FALSE	0	persistent	217270875%3A%3Akc9n7h8yikcrdwg37b92n8xa6te597
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzA4NzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzMyMjAsImlhdCI6MTUyNDkyOTYyMH0=.xCT-hiasr_XwYF2mVCu0B5wr1ZhD9T-KAr11chOWV3jX0AQNzAj4nFu78YOxNogNo1qDEPgUeMQimhjTnt3FdQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzA4NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0NDIwLCJpYXQiOjE1MjQ5Mjk2MjB9.B_MyZxUIXrr6_baAGGhXvzK0j3-WlP9F8_KwBdzNYDfyeqsWBqXhNCHbg9u57aTmD6b3A7YC0EZDT1lIJ6cxuw==
+.twitch.tv	TRUE	/	FALSE	0	login	l_jorgeq9a_l
+.twitch.tv	TRUE	/	FALSE	0	name	l_jorgeq9a_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:33:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	56bee316cfdfd62330c46a6a01a44c8a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfam9yZ2VxOWFfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODE2MjAsImlhdCI6MTUyNDkyOTYyMCwibm9uY2UiOiJDR2tEM2gwNFNaNVhycERnSWN1Y0toc3Q4d210anc0M2o5cGFpYTVQUV8wPSJ9.oJ1hE2XHnsBs_nkuUyDbIL-wsKE8bCVB2x05kEszzk_7SuD25GszHtCkDWh5v5r-MCT4J4wz_rfEG0vcZ5hMiw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22btqw6g1dt4guui8o3ie1dvgcoflerr%22%2C%22displayName%22:%22l_jorgeq9a_l%22%2C%22id%22:%22217270875%22%2C%22login%22:%22l_jorgeq9a_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	btqw6g1dt4guui8o3ie1dvgcoflerr

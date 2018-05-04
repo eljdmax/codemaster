@@ -1,0 +1,13 @@
+#k_sebastiana8i_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1DT7p7MSIYSGA4nWkxW9WgSr5JWq9GRU%2FwRoXSpPcEo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c87c43f25eac78ed
+.twitch.tv	TRUE	/	FALSE	0	persistent	217457540%3A%3Aai26ye4wce9zemgj5rfaxr8x9v72lx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTc1NDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDM2OTgsImlhdCI6MTUyNTAwMDA5OH0=.B29ZPfpi-0ImOMYCUJeUpud0cEPBnmwxOZ8t41C_ctVLSgsXatvSjr0KNwgsLmovYrrUOSxniLtjp5nH93OGOA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTc1NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA0ODk4LCJpYXQiOjE1MjUwMDAwOTh9.iWeUPyk8uD9EBbNVX4ZP85EuTzrPxb0gQa2cztmC3qmMG2zMN3eLADAkNXiY8xki6-LZveoYY_rdUrGARasqWg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_sebastiana8i_0
+.twitch.tv	TRUE	/	FALSE	0	name	k_sebastiana8i_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:08:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	62656d884086267630d62ac69abdb78c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfc2ViYXN0aWFuYThpXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTUyMDk4LCJpYXQiOjE1MjUwMDAwOTgsIm5vbmNlIjoiWVpQMlJ3ekFlbDlybEphem5rTmYxNmtJbVBaSzJKU0Y1THJvMjBudXBpbz0ifQ%3D%3D.qw5iOhiKvwD0rVIKNQfPJH52IwQKOdpwba6c-FPci8R16F4iYvS1upxzXThXp-IsJLKmTl5bHKMyHkZOg5w46g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qmd3p8j18lmjb06iv9ocsg72x01kqi%22%2C%22displayName%22:%22k_sebastiana8i_0%22%2C%22id%22:%22217457540%22%2C%22login%22:%22k_sebastiana8i_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qmd3p8j18lmjb06iv9ocsg72x01kqi

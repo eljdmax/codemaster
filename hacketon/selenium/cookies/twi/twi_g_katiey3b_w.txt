@@ -1,0 +1,13 @@
+#g_katiey3b_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UCFvhCcjb3T76NMJB1gCmxi7z9eIzFFbD2%2F3Jebm%2FBs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	15d0474d2cf5f144
+.twitch.tv	TRUE	/	FALSE	0	persistent	217449956%3A%3Ahrbvv1f74culg5tweek6wmmrcevkbl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk5NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTk3ODMsImlhdCI6MTUyNDk5NjE4M30=.TBuIZygLIm5Bw-5c2dyq_LVULFotaNk0Pnk8umgdl6tYDw7xU64b1we6c35ftuVi3YgHKOep1BTc1bL40xx1Aw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk5NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAwOTgzLCJpYXQiOjE1MjQ5OTYxODN9.T3KGnR96sDodpmlQxNhzOjojTncm397mWGoeUXGtIi9HMlN-CWAjvyjmbZW6T245N99PTP6xqnZfZpu6vJGcew==
+.twitch.tv	TRUE	/	FALSE	0	login	g_katiey3b_w
+.twitch.tv	TRUE	/	FALSE	0	name	g_katiey3b_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:03:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1d9beca2c4918cad34752bcb548e165e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfa2F0aWV5M2JfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDgxODMsImlhdCI6MTUyNDk5NjE4Mywibm9uY2UiOiJqZGhPSTdVUlk0U09tang5QmpHbnFCU1pDLUh1dUdvaXZ1YzNNMkt0aU9RPSJ9.gnF7F3AtSMhJdqyFjmL4lpq1Rg4rIqtdM73Uyuz3d3vQRV7SzqQzg-7cATEDLjIWrHR6vEBvd3Jdekahltr4xw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qlgb3jvohwvxkuwfxc654wofkbiuev%22%2C%22displayName%22:%22g_katiey3b_w%22%2C%22id%22:%22217449956%22%2C%22login%22:%22g_katiey3b_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qlgb3jvohwvxkuwfxc654wofkbiuev

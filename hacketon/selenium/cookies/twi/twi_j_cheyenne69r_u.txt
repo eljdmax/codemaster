@@ -1,0 +1,14 @@
+#j_cheyenne69r_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BwpPCtmrI1Xjaiw3bBAZvFNScexY1YtGosYLsOSq7tY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d258ca231b032246
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	facd0cc8d751f5ab924d803554d2ad2e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217256625%3A%3Ad3x9s6qm2mq45fqxetadg0agq8t26y
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTY2MjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjg5MDUsImlhdCI6MTUyNDkyNTMwNX0=.3ffU54j9vHVqEKP_w7EBEuGNCLIeO08UsO9xv2Mbf9c3sWF_L7o__sX402rPNWJM_9pSZKxnXKa0B5QhsDU36g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTY2MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMwMTA1LCJpYXQiOjE1MjQ5MjUzMDV9.ZQcNkzzSMwDEUi-QnAKIFiePIbDFOySnBaH9nxqtQp2G-pwZvNT3pcXFjLuyxclKRJHi-chbtL_QCEyRFTAXdA==
+.twitch.tv	TRUE	/	FALSE	0	login	j_cheyenne69r_u
+.twitch.tv	TRUE	/	FALSE	0	name	j_cheyenne69r_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:21:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b95633737fcc8bb020c9504b2a73c00a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfY2hleWVubmU2OXJfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzczMDUsImlhdCI6MTUyNDkyNTMwNSwibm9uY2UiOiJGdmpRQUw5MERteld1dTk1amo3TEpmc3VtV0J0RWp4UlZXM1RESHdTQXNrPSJ9.xmPx1lMQa7iVPE6GniKrZKTM8py6TzB1hH4bbpOJ8QunVGzRch--cxGXJEobpJWHsTNNX8QP72f5nq8GWgsqeQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ih5e60l5jz71h6hq86fgk8to4oi1xp%22%2C%22displayName%22:%22j_cheyenne69r_u%22%2C%22id%22:%22217256625%22%2C%22login%22:%22j_cheyenne69r_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ih5e60l5jz71h6hq86fgk8to4oi1xp

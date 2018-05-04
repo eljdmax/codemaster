@@ -1,0 +1,15 @@
+#m_wyattb7g_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	x4s%2FucwOm%2BAPJQAPh%2B0Pm1movWR11ieYB0s0xULuHjA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:44:14+00:00	unique_id	22d0f438871e7a6b
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:44:14+00:00	_twitch_session_id	6ce191fad2e5fe55973a5806431f4c56
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:44:34+00:00	persistent	216477115%3A%3Aqicrp0gnwz1lb1pstgxrf9h8y4czk4
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:44:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzcxMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNDc1LCJpYXQiOjE1MjQ1NjY2NzV9.piDS1R_ee_qxKo578XCnvHhyyaQikgJKkyXohVLFVz2z89tDrFAHRCsgAG06nJi2S4iF0ns9rGugGl2z4Yenjg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:44:34+00:00	login	m_wyattb7g_g
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:44:34+00:00	name	m_wyattb7g_g
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:44:34+00:00	last_login	2018-04-24T10:44:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:44:34+00:00	api_token	39029f9c881f28311c95ae8912e1389a
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:44:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fd3lhdHRiN2dfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTg2NzUsImlhdCI6MTUyNDU2NjY3NSwibm9uY2UiOiI3S1BEeXZKSHNlMXAtNkV1djNDaGUtS3poRWxYSmNLUXVQdEExbnBHZHhBPSJ9.iUqkZ5C4yalb1R9jwr_LO2fy67iicvggBwjvBDlBzHAtAq5ZbPIkDP8AR4gHQhLLECU5YZSDzoyIBp7AQxrNDg%3D%3D
+.twitch.tv	TRUE	/	FALSE	2020-04-23T10:44:44+00:00	__gads	ID=b98a0547d3234300:T=1524566684:S=ALNI_MYn5lYAcmlTJpqE0Q8k8FsmmG55Hw
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	6uQdpBUsQrgBd6zN7YjymFrAwKzdDpCj
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:46:04+00:00	twilight-user	{%22authToken%22:%22fksjashutlfn0wi485lvajjmifdgik%22%2C%22displayName%22:%22m_wyattb7g_g%22%2C%22id%22:%22216477115%22%2C%22login%22:%22m_wyattb7g_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:46:04+00:00	auth-token	fksjashutlfn0wi485lvajjmifdgik

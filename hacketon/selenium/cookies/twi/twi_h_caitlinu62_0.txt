@@ -1,0 +1,14 @@
+#h_caitlinu62_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0jXO565wuOViUu1pmZtWSq7LSHQKyJaebAjS7i9FHHc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	26f4c86ec540ecd2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c24c063717c579c8086c2db87433aeca
+.twitch.tv	TRUE	/	FALSE	0	persistent	217291902%3A%3Al6xr57d6zsg09d4m6sgvkik3gopplh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTE5MDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzkwOTgsImlhdCI6MTUyNDkzNTQ5OH0=.wdvR8vNZ9OCY9oKIfZfOevfSTru2MbUYE4Uncfx4BRsF8E9TXucbPkzp1sUW5aLqpL3JjFUYVmnzfU024sETNQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTE5MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwMjk4LCJpYXQiOjE1MjQ5MzU0OTh9.QtwTakk1VMKzjrir2Adqe9fLjGH36bV3quTvuwaP0p-9XQXHKgKhvyuETkF1eQ3kDKRvVunE4Fvh3ccZBdou6A==
+.twitch.tv	TRUE	/	FALSE	0	login	h_caitlinu62_0
+.twitch.tv	TRUE	/	FALSE	0	name	h_caitlinu62_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:11:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f8050635fc8fde6416f21075a6b3d931
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfY2FpdGxpbnU2Ml8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4NzQ5OCwiaWF0IjoxNTI0OTM1NDk4LCJub25jZSI6Inlxa3dIeWF4Q3dtR0d5Zm1mTkJxM1VOYk5nd296aXR5N0dpZGotVEp1MFU9In0%3D.9-7t8s6iL7ix4AgqayAglMmjwzEGWD31vP9FzBR1aOfxjdAt-pZ_haPq_0AT4886kdzQ2AhfArRt4dQ6vIyUkw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222nszd1ze9h0uj4okqj39n4iht336o6%22%2C%22displayName%22:%22h_caitlinu62_0%22%2C%22id%22:%22217291902%22%2C%22login%22:%22h_caitlinu62_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2nszd1ze9h0uj4okqj39n4iht336o6

@@ -1,0 +1,13 @@
+#w_franckn3d_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4uCuITLhXj%2FVcU2kbUxTVoAJobyRHzNiI%2Bx4fERyReQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9e64b19a54b660a2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217449434%3A%3Aeafnp36fr9jbvm0cqj57fmhtrtv4dr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk0MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTk2MTcsImlhdCI6MTUyNDk5NjAxN30=.xH0WK2DApFb_ZsM8mw4ugQ7uj5OC5pwsQdHpdB-JRSnKWPsYtZptnkN6gZSbrfxXM6KETu_6VV8dxv8BLJZJWw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk0MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAwODE3LCJpYXQiOjE1MjQ5OTYwMTd9.4zbFf2nbKDMfNI7LgHLlPQuBPNbaMK7Znrkiwcthnf20XfxDw8RmR6l1sFJHOBZm2ElV0yuLpN6h1ajOvdiSlw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_franckn3d_x
+.twitch.tv	TRUE	/	FALSE	0	name	w_franckn3d_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:00:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f0ba08edbd593b302e251b3078b5341c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZnJhbmNrbjNkX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ4MDE3LCJpYXQiOjE1MjQ5OTYwMTcsIm5vbmNlIjoiVlBucG5sNGVibE9pRzJ6ZklPZkVDek9CYVlmVTBNaEVjaGUtTnFJWGo2UT0ifQ%3D%3D.AnePXb-QSBdAQ9DngH_s9GEKp2r5rHbpOl_pUkX6SxOh-5-My6OytkeiIyQDS8wSR0v70_e0EUnIWc_svjPSbQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225lf7tfz5s2natgbx6v41lk8gzb1ygh%22%2C%22displayName%22:%22w_franckn3d_x%22%2C%22id%22:%22217449434%22%2C%22login%22:%22w_franckn3d_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5lf7tfz5s2natgbx6v41lk8gzb1ygh

@@ -1,0 +1,12 @@
+#a_nathanielp3w_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Vk7HE%2FHPIS66v02NiO8UF70Zm7FT15DBjo1kzzZqngo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:22:09+00:00	unique_id	007432a3fdcfb6b4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:22:32+00:00	persistent	216485883%3A%3A6s8wpjib6gqwpf7tfub9ut50pmoac9
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:22:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODU4ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3MzUyLCJpYXQiOjE1MjQ1NzI1NTJ9.R0ORe2RhM9jbFZLPnDYdodVisa3DJvkQHTnxOnnJpsvPtruwhHLBcrKGgJr63GSKaJ8pPHDQ2y77iZUGAyGZ9w==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:22:32+00:00	login	a_nathanielp3w_q
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:22:32+00:00	name	a_nathanielp3w_q
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:22:32+00:00	last_login	2018-04-24T12:22:32Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:22:32+00:00	api_token	2f88ed2f4efc6a81b33e164b9defa072
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:22:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbmF0aGFuaWVscDN3X3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI0NTUyLCJpYXQiOjE1MjQ1NzI1NTIsIm5vbmNlIjoiSEJOcnQ4Qzh1RWo1U25iVTM3YzlqVC1mbG45V0ZaQnA5S01nR0t3eXFMRT0ifQ%3D%3D.fz4sWm7g-hni2VHvQovITn8XuNLI9wuzM4FrxW5WEaAOi_5Uv4cvfTp3_v_-A26_eMBkUyFNkCJDTqzZSJyoGA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:23:52+00:00	twilight-user	{%22authToken%22:%2298irze809txt0z3yutzon7z1znugo8%22%2C%22displayName%22:%22a_nathanielp3w_q%22%2C%22id%22:%22216485883%22%2C%22login%22:%22a_nathanielp3w_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:23:52+00:00	auth-token	98irze809txt0z3yutzon7z1znugo8

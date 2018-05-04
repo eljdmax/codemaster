@@ -1,0 +1,12 @@
+#o_nathan92r_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	d%2FYnRwioFKK%2BEbAG6y3N1vdjV3yY2XDtwFAlzGG6PoU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:53:48+00:00	unique_id	e275288458548287
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:54:04+00:00	persistent	217558281%3A%3Aese0awflyt96xeov6uyj57q0dyzl0v
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:54:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTgyODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NDQ1LCJpYXQiOjE1MjUwMzE2NDV9.3WPhsREn9Z7o8BdJi2NR_zMY2VcvACIvnhfEcxjqctgfoZZ51GOvRirSwMdthZrP8tDZMGw_PBR2JRLdeebfrA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:54:04+00:00	login	o_nathan92r_e
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:54:04+00:00	name	o_nathan92r_e
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:54:04+00:00	last_login	2018-04-29T19:54:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:54:04+00:00	api_token	c0a7917f822442d34fbbf1f8b3d754cb
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:54:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbmF0aGFuOTJyX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgzNjQ1LCJpYXQiOjE1MjUwMzE2NDUsIm5vbmNlIjoibk0zWndGQmZUbnIzazlkcUZsbnVEUDlEWW9CcGI4eE1sNkNQaU5yaVgyRT0ifQ%3D%3D.PUWlNw-V_m7Hz4UTCL_C5qTTgfSsS8EsTIdd_0P0xAyfzYu6HEP8qccBYHA3YgNvb3t5RDEyQ9JHr6Dwf73ZYQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:55:49+00:00	twilight-user	{%22authToken%22:%22d4bya4bcvvca5iy2ke5mwbat9r1xp8%22%2C%22displayName%22:%22o_nathan92r_e%22%2C%22id%22:%22217558281%22%2C%22login%22:%22o_nathan92r_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:55:49+00:00	auth-token	d4bya4bcvvca5iy2ke5mwbat9r1xp8

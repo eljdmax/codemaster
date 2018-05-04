@@ -1,0 +1,12 @@
+#i_cadeny61_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Wtix03EBqEJIL6vWoqjoEiQO17bqg4jZYVeQDSDSaN8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:28:56+00:00	unique_id	01fce7c99ebe4bac
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:29:13+00:00	persistent	217552662%3A%3Avo90f47ag7b4tmweh3ca4capwq3g13
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:29:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTI2NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0OTUzLCJpYXQiOjE1MjUwMzAxNTN9.EzMCIs1CRslW1EBUxnMFOx_flY_kqm0hSo4nmTlENDJpFV9Jk4f-aA4KIIEW5YjGECycgfqTBv3osFCQK5t__w==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:29:13+00:00	login	i_cadeny61_4
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:29:13+00:00	name	i_cadeny61_4
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:29:13+00:00	last_login	2018-04-29T19:29:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:29:13+00:00	api_token	a1d546e0226002fed1b2e9b41c6d347c
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:29:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfY2FkZW55NjFfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODIxNTMsImlhdCI6MTUyNTAzMDE1Mywibm9uY2UiOiJ6OEY0b1E1U3RZR1phbEU3aGNCVF93SUdaR1BNS3hGMTZOam5EYUJEenMwPSJ9.pCLuux0yk6223DJzXbfUvTdH8kTLKgR7as9vgG_X3tX_KcazS9YV2mBhXHcfwj29By1fcHtV9oDrDbbgoSzQaA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:30:56+00:00	twilight-user	{%22authToken%22:%220juxe4s0avv3g4ngfodjidq3gu5zwj%22%2C%22displayName%22:%22i_cadeny61_4%22%2C%22id%22:%22217552662%22%2C%22login%22:%22i_cadeny61_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:30:56+00:00	auth-token	0juxe4s0avv3g4ngfodjidq3gu5zwj

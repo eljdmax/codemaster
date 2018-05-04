@@ -1,0 +1,12 @@
+#j_jonathan273_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xH%2B6BWtmFzcC7FtYtre%2Bxp9ewMSj0STCWiVL5YlVMFk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:01:58+00:00	unique_id	324fdba4a4cc6b98
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:02:30+00:00	persistent	216490477%3A%3Aw69lmihqhxfcbdcs9fx20resi2ltcf
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:02:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTA0NzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5NzUxLCJpYXQiOjE1MjQ1NzQ5NTF9.gADGi1WB1K3xhOq9W21Iexnql2YHfufhECxbVGZabzhNW78QSXAPc3LIVPUHTbse97ou8m7ysZXqVS2p1euxoA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:02:30+00:00	login	j_jonathan273_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:02:30+00:00	name	j_jonathan273_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:02:30+00:00	last_login	2018-04-24T13:02:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:02:30+00:00	api_token	3d00ef8ca777215b312412066cbcd848
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:02:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfam9uYXRoYW4yNzNfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjY5NTEsImlhdCI6MTUyNDU3NDk1MSwibm9uY2UiOiJrZ2d6QlY3TXVQTlBWUkd1UkRPcjdiNXFPRlVlNFR5OHVxVzZra0EyUzdzPSJ9.84u2jI4kATbAbAwjdG-4pSMAcYGsnQ9rDSntdaUZmoScCRpF5Wyh8bz6zTHbjbfxa7n-hYnH_aVEf1Vpm2l6cQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:03:51+00:00	twilight-user	{%22authToken%22:%22qryxxkizovqleya7lq4mh53sb81qyo%22%2C%22displayName%22:%22j_jonathan273_s%22%2C%22id%22:%22216490477%22%2C%22login%22:%22j_jonathan273_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:03:51+00:00	auth-token	qryxxkizovqleya7lq4mh53sb81qyo

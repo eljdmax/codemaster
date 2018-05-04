@@ -1,0 +1,12 @@
+#h_davidn3i_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BFKRmECt2dfckHfbsLxD5L825li2bqjDxuRXT7tSo6k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:06:03+00:00	unique_id	f42159d213baf22a
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:06:22+00:00	persistent	216941417%3A%3Af6r2c7aaxwdc089cslkurwajzs498t
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:06:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDE0MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNTgzLCJpYXQiOjE1MjQ3NzY3ODN9.Rf5p30Izsmf3kLDt7ocaEflQduVyLyDIF8wEhG879eYBajKys23J-1_ik1AuvisGgfRtGtmTify6tQzMoysSJQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:06:22+00:00	login	h_davidn3i_w
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:06:22+00:00	name	h_davidn3i_w
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:06:22+00:00	last_login	2018-04-26T21:06:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:06:22+00:00	api_token	d509ff7ca757a3c930b31a095801e08a
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:06:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZGF2aWRuM2lfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjg3ODMsImlhdCI6MTUyNDc3Njc4Mywibm9uY2UiOiJyMEluUS1ZRFNBdzZjYU5GMXVvM0tya1lUeUMzVURKNzJyRThObW9NTlZBPSJ9.y_EnHozwK6n9Dmiuqp9JO1cmT1-DqiQam8ex5HBGIxRprZG9YV7z7p20vrBgeIMtZBdluqFcdXL785kYvdWPJQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:07:53+00:00	twilight-user	{%22authToken%22:%228yeqmurjls73gjquskpz3ugldk4uo9%22%2C%22displayName%22:%22h_davidn3i_w%22%2C%22id%22:%22216941417%22%2C%22login%22:%22h_davidn3i_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:07:53+00:00	auth-token	8yeqmurjls73gjquskpz3ugldk4uo9

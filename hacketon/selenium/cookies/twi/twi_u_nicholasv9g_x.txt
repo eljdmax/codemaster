@@ -1,0 +1,13 @@
+#u_nicholasv9g_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dQcnR2B87nOpmmpQcAQW8TFlwFgbrBiq60VjRU7ulRQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:00:22+00:00	unique_id	ba3b251ed3dc6b15
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:00:22+00:00	_twitch_session_id	56c7a4face66adf0a9aca72b654ba803
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:00:49+00:00	persistent	216940486%3A%3Afcwvbjicen9jl5m1gx0qwci0juewiq
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:00:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDA0ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMjQ5LCJpYXQiOjE1MjQ3NzY0NDl9.4BbaLTCBI3DQzMeb9peJkhRpHHByfJ1Uqgr8N0LP2Aa42c8y5CLRbyw6DXPlkXaL73bRxzVproPhuBpQ74mkZQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:00:49+00:00	login	u_nicholasv9g_x
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:00:49+00:00	name	u_nicholasv9g_x
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:00:49+00:00	last_login	2018-04-26T21:00:49Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:00:49+00:00	api_token	d23029c62738383cbc6ae062b701dd99
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:00:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmljaG9sYXN2OWdfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjg0NDksImlhdCI6MTUyNDc3NjQ0OSwibm9uY2UiOiJwYy1rdWswbmNDdEZFek1oTW5JRmJoZm5pZGEzazZQZVYtdzN6UTR1LWVFPSJ9.rMjVev9T-kn_H27_c4ijwI88JBqvq4soG9K6coYo1jLqN3xSX9q5rNjlmDRvRlfcHspaDWI0DC7KaNM9d9YlXQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:02:20+00:00	twilight-user	{%22authToken%22:%22vu1s35nc5z16op5de8nvwv0viteq1t%22%2C%22displayName%22:%22u_nicholasv9g_x%22%2C%22id%22:%22216940486%22%2C%22login%22:%22u_nicholasv9g_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:02:20+00:00	auth-token	vu1s35nc5z16op5de8nvwv0viteq1t

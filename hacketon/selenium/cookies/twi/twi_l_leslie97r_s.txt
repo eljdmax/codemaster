@@ -1,0 +1,12 @@
+#l_leslie97r_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iMJUljfkzm900PF9YS%2Ft8EbiY8tJ2Rw%2BCnEje5wyT5c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:05:03+00:00	unique_id	a78526be2fe1e602
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:05:22+00:00	persistent	217560986%3A%3Ao9taj1hfn7j8ddfy2r85gm8gtd591e
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:05:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjA5ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3MTIyLCJpYXQiOjE1MjUwMzIzMjJ9.VyaXE7IAAZIqESFzNnFn9QK9SXzW4iO1wTCQL6sw4l6Ln8LoX4WHKASfr89V9HLnC-e7MiupDvUOVqkaYv6Heg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:05:22+00:00	login	l_leslie97r_s
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:05:22+00:00	name	l_leslie97r_s
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:05:22+00:00	last_login	2018-04-29T20:05:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:05:22+00:00	api_token	1113c7afb8e2859297868398baef8b3e
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:05:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbGVzbGllOTdyX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg0MzIyLCJpYXQiOjE1MjUwMzIzMjIsIm5vbmNlIjoiZWo0cU9oSTJIeWpmZ09KZXV2Q2o5aHpZTnA2X1RkTWVhUklTakYtZGJ4dz0ifQ%3D%3D.EG48RkhBKj4UT20XA3-nAfAuIvgZSjm_YQlOOiYGDpTtCgoVBvEYTmE7aOXSb-p4byxecKS3bSCK3uihSuvqJQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:07:05+00:00	twilight-user	{%22authToken%22:%22uh9j4xlmmuw55cld8shfmwryleokw3%22%2C%22displayName%22:%22l_leslie97r_s%22%2C%22id%22:%22217560986%22%2C%22login%22:%22l_leslie97r_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:07:05+00:00	auth-token	uh9j4xlmmuw55cld8shfmwryleokw3

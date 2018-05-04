@@ -1,0 +1,16 @@
+#d_isaiahw3g_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	u6nYtMiPNFxCs9xusYDrBpH2Y8%2BRKJeVWaruEp3rnqs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:22:49+00:00	unique_id	98b1e0b50f022335
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:22:49+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:23:11+00:00	persistent	215245480%3A%3A099uto90m3h4okc1dofi1oroa3ohx9
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:23:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDU0ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwNTkxLCJpYXQiOjE1MjQwNzU3OTF9.MTT_bIlW8sjUcSxpsRvzOZGAt5HwWLR8ZVQ1XfcdkjXT7068eJJYFEDmDID1o3Q5NKiBuTqwk5vrRyqxYPQORA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:23:11+00:00	login	d_isaiahw3g_7
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:23:11+00:00	name	d_isaiahw3g_7
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:23:11+00:00	last_login	2018-04-18T18:23:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:23:11+00:00	api_token	17e0c7f441a0ad3b3acfd71d9a614dc4
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:23:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfaXNhaWFodzNnXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI3NzkxLCJpYXQiOjE1MjQwNzU3OTEsIm5vbmNlIjoiRDR2emE5WUw4dXlWSHNxT1ZPMkM0RmdaZmdlcUFtYUpZTC11OVVVQlp2Yz0ifQ%3D%3D.3iFM3JQDKP4zSyzw5BsQNNxluUoPH8DYnTVvXyMlhonvQ495lZmAveT16Yrv_wUF9hBsNo1Yap2PtJtQ-ouOFA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	G5DeVeq2ijvstrSXJfMgfKfZaR4xX30R
+.twitch.tv	TRUE	/	FALSE	2020-04-17T18:23:17+00:00	__gads	ID=b9d9241681ebdcef:T=1524075798:S=ALNI_MYtTypLj-7wqvkuGZCBb8qWYfLYRg
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQwNzk0NTIsIm52IjoxLCJ1cHQiOjE1MjQwNzk0NDMsImx0IjoxNTI0MDc5NDUyfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:24:12+00:00	twilight-user	{%22authToken%22:%22khiftqfwzjgcppwa55a744pq0v7c21%22%2C%22displayName%22:%22d_isaiahw3g_7%22%2C%22id%22:%22215245480%22%2C%22login%22:%22d_isaiahw3g_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:24:12+00:00	auth-token	khiftqfwzjgcppwa55a744pq0v7c21

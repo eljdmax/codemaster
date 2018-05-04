@@ -1,0 +1,13 @@
+#w_annak4m_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DndCxSheqxVqZcrytQkxh%2BkSdzqOQHy4%2Ba75bNBlSwc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:26:28+00:00	unique_id	87dbf336dc005e54
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:26:28+00:00	_twitch_session_id	a4ed385b8576d771528a4c1a9e6b3d43
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:26:47+00:00	persistent	216475649%3A%3A6mr4axb58gwowfmm7e3j0aqs1s8nde
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:26:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzU2NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwNDA3LCJpYXQiOjE1MjQ1NjU2MDd9.oB7i37OxFk2V-UcJra25cAH0eqUUK138vYhfGXdy488RbMx4fHBywIXouZLCgWuuDwZmQ1ZZ0AB6aR2AwvABfw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:26:47+00:00	login	w_annak4m_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:26:47+00:00	name	w_annak4m_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:26:47+00:00	last_login	2018-04-24T10:26:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:26:47+00:00	api_token	851e490ef7dfbd1e1afa4fdf4fa135bc
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:26:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYW5uYWs0bV82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExNzYwNywiaWF0IjoxNTI0NTY1NjA3LCJub25jZSI6IlhwbmpFLUlOVVFnemlscnFpbUN6clczb0I2VmxpZ2Y5QklqS3FyVHh1enM9In0%3D.6_UtizzuFJp9fvlNDsyj4YpwD_lBtH6V9o3JLRBBDDzA0Tw_EwJ6UIQQ248purxSW27W9IyDMP_DdxgFC3tYGQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:28:05+00:00	twilight-user	{%22authToken%22:%229poxvsr9mto1lclm8vegcieg6053kz%22%2C%22displayName%22:%22w_annak4m_6%22%2C%22id%22:%22216475649%22%2C%22login%22:%22w_annak4m_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:28:05+00:00	auth-token	9poxvsr9mto1lclm8vegcieg6053kz

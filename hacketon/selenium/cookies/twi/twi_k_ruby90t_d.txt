@@ -1,0 +1,13 @@
+#k_ruby90t_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	MJLP0adpy1fleNImfiJmSOAlEWAauSRiA1VhMZX56ak%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:14:10+00:00	unique_id	6e9139c1531ac639
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:14:10+00:00	_twitch_session_id	d2f58f938798d23fcb332bb4c2ddaabe
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:14:33+00:00	persistent	216942758%3A%3Amzfkepafnc2m4ovt526vd29ked28c9
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:14:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDI3NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgyMDc0LCJpYXQiOjE1MjQ3NzcyNzR9.OrurGjWv_mCbeqZhnCZogkLRl-sWuw-va8HI-tsFYVb8LgfTtVdlrCrBXBZ2lliO0nO820z7Sb0Io8lqMvvCaA==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:14:33+00:00	login	k_ruby90t_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:14:33+00:00	name	k_ruby90t_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:14:33+00:00	last_login	2018-04-26T21:14:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:14:33+00:00	api_token	ce324ecf61d347b396375f5fd1ec946d
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:14:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcnVieTkwdF9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyOTI3NCwiaWF0IjoxNTI0Nzc3Mjc0LCJub25jZSI6InZNWlU0RV9JUXlVaXlYakd5ZndydGFsZmJTeFJMdHZZY2VIZXZpcm1sMEU9In0%3D.npiTCY-QYeNPErT28rsgcEaIU01wxHmdhSKY5vuYw_Fz09c-h18jfVZ_bS8dwHLI6c5IWBTU6_DljGFiSRM23g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:16:05+00:00	twilight-user	{%22authToken%22:%22ai7paes2cr7hrl1z5hre4o88fzl4wt%22%2C%22displayName%22:%22k_ruby90t_d%22%2C%22id%22:%22216942758%22%2C%22login%22:%22k_ruby90t_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:16:05+00:00	auth-token	ai7paes2cr7hrl1z5hre4o88fzl4wt

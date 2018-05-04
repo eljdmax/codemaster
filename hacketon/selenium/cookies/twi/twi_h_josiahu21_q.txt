@@ -1,0 +1,14 @@
+#h_josiahu21_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6AfdIFzjX9a75cRCf6j1FytAnAQucLAW0jc5CRT0TO8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b6d2d36eadd9d1ad
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	10b57217a497f49120f5150b6147dbc9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217483746%3A%3Ajzgcbmwzzjq35dpecbdsrsi395uu6p
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODM3NDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTQ2MDcsImlhdCI6MTUyNTAxMTAwN30=.e3gPfWcrUiavE2qHRMDoO9-l2DaxgqdLYjuDqIaGe4lxGm3GrwQsZ8KctzSzcp-QyZ9ummiR29zzU2AH6IoMsQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODM3NDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE1ODA3LCJpYXQiOjE1MjUwMTEwMDd9.v4zDbxyHOmLt8Huv1qoo80eABdQsZKsVFM1Y2d2dzodlaepmsq9m7sylsSnhCy6OzLaIa2lzuDhzdHzzLvFiXQ==
+.twitch.tv	TRUE	/	FALSE	0	login	h_josiahu21_q
+.twitch.tv	TRUE	/	FALSE	0	name	h_josiahu21_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:10:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	deb648a21d2ddc36837a1536d71828c7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfam9zaWFodTIxX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYzMDA3LCJpYXQiOjE1MjUwMTEwMDcsIm5vbmNlIjoialRBTkUtbkpqMkFPOXRnWXRJRy1mMUtfZ29GbUVsMWdlV0VWUmFvWVlCOD0ifQ%3D%3D.V9JL7o2bTj7zHH8EfZCZYat4HP88COTnqP_x3FsC1hoZhPi59eliepPhK2Av6x-gSa5pn4NgGchpU5AusxGfGQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2207yky4mga0ymrdner9mbmh470qp0pc%22%2C%22displayName%22:%22h_josiahu21_q%22%2C%22id%22:%22217483746%22%2C%22login%22:%22h_josiahu21_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	07yky4mga0ymrdner9mbmh470qp0pc

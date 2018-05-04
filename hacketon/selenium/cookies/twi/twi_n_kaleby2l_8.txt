@@ -1,0 +1,14 @@
+#n_kaleby2l_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WFRgQc7ChCcDlbA7UxT2bWq6p4TIGmtpYktmOvMhHio%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7a9aebe758c5e1ed
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0fc746b45a4c40fe2126457ba0cb7cec
+.twitch.tv	TRUE	/	FALSE	0	persistent	217937258%3A%3A5enrqraxstn5yq6za8wpjwb576sruz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzcyNTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQ1MTEsImlhdCI6MTUyNTE5MDkxMX0=.rAzWVTb_fC7gLN1gUiesPV-yw0-GP4vMlvHi2CovfaeNvAK3WY6ypu_G6Ajj-h9TugoytW0oC_wmuw9hW28vOA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzcyNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1NzExLCJpYXQiOjE1MjUxOTA5MTF9.xIsMHcdP8bHNY7P8vgTUwwyBZtSn4KlNtLyXer4qPvh1uQsE9pQnlEd4y3szHi2kL6S3tN1N-Qj6pZrEfIDcTA==
+.twitch.tv	TRUE	/	FALSE	0	login	n_kaleby2l_8
+.twitch.tv	TRUE	/	FALSE	0	name	n_kaleby2l_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:08:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1b13916b3ddcf2663ee2da78c1c53776
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fa2FsZWJ5MmxfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDI5MTEsImlhdCI6MTUyNTE5MDkxMSwibm9uY2UiOiJEb05Ld0JlZGJTZmtfQVJQVUd1Q3RGSWtiY1JieExsdkxYdDlsdzZpb05jPSJ9.uec8tvT5IsE1ZBWgy9gvsQMQ2Bzv19Ex7aXO8Rzmlau-UP17kYms2OJzNNKHHhTtP-t6cQcboMD5e1oecar5iA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22x30a3vwt4di8miw2djrr1wbxf4u57t%22%2C%22displayName%22:%22n_kaleby2l_8%22%2C%22id%22:%22217937258%22%2C%22login%22:%22n_kaleby2l_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	x30a3vwt4di8miw2djrr1wbxf4u57t

@@ -1,0 +1,13 @@
+#x_lucas297_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6mub4fcuoL7xoC6rlZdJ4C2ZWev1b30%2FDPVHH%2F0EOxY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cef124e60a6d3869
+.twitch.tv	TRUE	/	FALSE	0	persistent	217251735%3A%3Ahcr76yos8hwf62jip2tby43ax0ykgi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTE3MzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjczNDQsImlhdCI6MTUyNDkyMzc0NH0=.CLbzGBsQDvfkEFxrJj-wK0epG-8JXyUup0_EF2rjGTpNRd3npWneX0WCSsw3CbOK2svmKWivc3gIiuY7wQXbkQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTE3MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4NTQ0LCJpYXQiOjE1MjQ5MjM3NDR9.qfpK5fYbMxGTzEncZXTNOAspPiuYaMMt7XR5P9RU-0aOQsdz88RdzwheMCJpNS6uAw3IOEsD-rR7P14uCyWZ_Q==
+.twitch.tv	TRUE	/	FALSE	0	login	x_lucas297_e
+.twitch.tv	TRUE	/	FALSE	0	name	x_lucas297_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:55:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d9d6dd44c9bab29fe1485664fb1a300a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbHVjYXMyOTdfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzU3NDQsImlhdCI6MTUyNDkyMzc0NCwibm9uY2UiOiJGY0JZSG0xMWxrVVk4N3RneWlvVEx3R212cWloM2xnX2dlUTRLcTNGTEZjPSJ9.jRXTnpNrMN_UDl49eW2h8hndZbQI02rUVnaU0MvVXkLATQizzRHlWjwLb54M0G0LJYw9cu7drx-p-uwfqEBD6A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22k6uz8bf3ittu0vru8dxpzmkg7f81pv%22%2C%22displayName%22:%22x_lucas297_e%22%2C%22id%22:%22217251735%22%2C%22login%22:%22x_lucas297_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	k6uz8bf3ittu0vru8dxpzmkg7f81pv

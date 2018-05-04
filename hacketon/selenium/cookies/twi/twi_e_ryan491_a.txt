@@ -1,0 +1,12 @@
+#e_ryan491_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	MjNdXP4fjhGDTTao2JlPHSO%2FWggRskrOxj823RaWZck%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:56:34+00:00	unique_id	ad8e4cf3acd34684
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:57:05+00:00	persistent	216489750%3A%3Aid5l4x6ar6xwpgcnqmhnn72rwcs0pd
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:57:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODk3NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5NDI1LCJpYXQiOjE1MjQ1NzQ2MjV9.2_UzsuptSMj268lgQTQWkkibAefGqHSARkgb8PrIpv15de6-MD1jp4iKbXE-TB9s_L4IrJT_Q7J9HQ6bkBHkpQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:57:05+00:00	login	e_ryan491_a
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:57:05+00:00	name	e_ryan491_a
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:57:05+00:00	last_login	2018-04-24T12:57:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:57:05+00:00	api_token	1027565d04436cf6f84c1952a96bc683
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:57:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfcnlhbjQ5MV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNjYyNSwiaWF0IjoxNTI0NTc0NjI1LCJub25jZSI6IjI0bV9CWEtxbmEzazg2clBIeXg2Q0x1bXlxXzdlUk56SGQzUGNhTEhnRDA9In0%3D.IhVNCL0gIutiLCPV9IEa1kXHTKrxgSbCRvfNqEf4LKhcO_ZGqc8E7zPeod7IbnXoRwCKuYBDpf0kiOeQbA2mPQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:58:26+00:00	twilight-user	{%22authToken%22:%22hil088xh5z1ffayxlopruoh9bsv2hw%22%2C%22displayName%22:%22e_ryan491_a%22%2C%22id%22:%22216489750%22%2C%22login%22:%22e_ryan491_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:58:26+00:00	auth-token	hil088xh5z1ffayxlopruoh9bsv2hw

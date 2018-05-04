@@ -1,0 +1,13 @@
+#w_jasmine3g_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LMdq6MnFQhF3Fcn%2Bl9EecHneOTfRN1%2BllfDDBo1tpkk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9d3c3d85ab6d2d7f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217483928%3A%3Aff3y0tg4ys65eek0i1cacm6kx83agr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODM5MjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTQ2NzYsImlhdCI6MTUyNTAxMTA3Nn0=._cohQdXnvC4dAd6b9O7w2_vmq6cqoFPcJeE2LcIqVBj5UCOLuYzSry76sc9VTZzDGil6GJs2GDJE7Vu0OznBeQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODM5MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE1ODc2LCJpYXQiOjE1MjUwMTEwNzZ9.fzxcrjqtafkIv_uLFKuLAKlQXGkaZ-YB4HtGw1B7OqmR0mE33IZQlcKJI5qX_PeRBX_K-dMr-ty0MUjFEQB8DQ==
+.twitch.tv	TRUE	/	FALSE	0	login	w_jasmine3g_q
+.twitch.tv	TRUE	/	FALSE	0	name	w_jasmine3g_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:11:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0ebe9b076898b21ea7269cf8d672a8c6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamFzbWluZTNnX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYzMDc2LCJpYXQiOjE1MjUwMTEwNzYsIm5vbmNlIjoiOVl6U0FORXMwSUpKZ2VYa2o0c2NFc3d2X1gyLVhsOHlya0Vvd2NIT2lQND0ifQ%3D%3D.i--ji094GelXeANQbzoUSmm2BD4XmPm7haqHcYULBPx7Wzuerj3DxptoyF6Artk84WU0Rkl0fG8fnRSaoac60Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22uyx69h4i3jv8cs1ghe4v2v0yq3tbnf%22%2C%22displayName%22:%22w_jasmine3g_q%22%2C%22id%22:%22217483928%22%2C%22login%22:%22w_jasmine3g_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	uyx69h4i3jv8cs1ghe4v2v0yq3tbnf

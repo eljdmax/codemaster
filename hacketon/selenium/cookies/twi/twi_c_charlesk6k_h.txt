@@ -1,0 +1,13 @@
+#c_charlesk6k_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KYKgKLY9%2F%2F0UihY%2Fbrj3OCY2Q7BBHXtGpuJpNnoZ9yA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:42:13+00:00	unique_id	1133ae7479dcf704
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:42:13+00:00	_twitch_session_id	81a3d00e7f191a875c18d2d50aa7ac2e
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:42:30+00:00	persistent	217078448%3A%3Az78sxew9f84hk1wqbpwi4pb8krx54g
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:42:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzg0NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NzUxLCJpYXQiOjE1MjQ4NTA5NTF9._krLS398r9jIEo7VqphipJBhMaCWQlOEKpQCrKAHdY9PqBC-Z3vyhtJq9bBF-LwuRrQDFPkO_R4HG4PwlC_xXw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:42:30+00:00	login	c_charlesk6k_h
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:42:30+00:00	name	c_charlesk6k_h
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:42:30+00:00	last_login	2018-04-27T17:42:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:42:30+00:00	api_token	25b8cdf3bd3d90bac717451ff272e9a7
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:42:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfY2hhcmxlc2s2a19oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMjk1MSwiaWF0IjoxNTI0ODUwOTUxLCJub25jZSI6Ik8yZWtyeUt2Ukc5cTkzbExhMDl5NDFaZVB5QlFzNGl2SUgwekFlZnF1WTQ9In0%3D.OPm4vx9m4g1Woxq3GAIYnlghbcaJj8ta4KwfxcnCV0yRqE6l3w00HRGJHHPayqK41pmdVQbGHYXvRPpyZEND6A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:44:05+00:00	twilight-user	{%22authToken%22:%2266vl17e0jugsrpvs97oa4drhxilbag%22%2C%22displayName%22:%22c_charlesk6k_h%22%2C%22id%22:%22217078448%22%2C%22login%22:%22c_charlesk6k_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:44:05+00:00	auth-token	66vl17e0jugsrpvs97oa4drhxilbag

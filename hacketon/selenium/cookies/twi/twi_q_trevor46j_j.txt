@@ -1,0 +1,15 @@
+#q_trevor46j_j
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7b5484c5c17c16d
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTQzOTgzOXxlMzBLfPl-M_mOhxJM2sfhD-eh72WXguMXaqx0LSYIdqDYxOZf
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yiSWLEdQJpjOdtSNZChW93jk8AanYAja2Ccf0mIH478%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218451659%3A%3Aqgux017lhi6rn8bx2sqgu8iekrwy9m
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NTE2NTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU0NTI4NDgsImlhdCI6MTUyNTQ0OTI0OH0=.bAUKZ5t7ZDHfNr_tseZJqtQ-HNBLNmid71j-9uCT8YbbetpCW5vtbaBWuWlcu0l56kdny4JMQDazWTovGjz-aA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NTE2NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MDU0MDQ4LCJpYXQiOjE1MjU0NDkyNDh9.ruAA4YNsdjyt5MOXVCGpX0EKMcv1wLHj72TdDcPy0pqQ2RgxUIQ-XpfgpxUhiLKmE4NHby06ZUu5WrY-s3iQIg==
+.twitch.tv	TRUE	/	FALSE	0	login	q_trevor46j_j
+.twitch.tv	TRUE	/	FALSE	0	name	q_trevor46j_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-04T15:54:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	044d094ef067ccb7d408c95a3d49c056
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfdHJldm9yNDZqX2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMDAxMjQ4LCJpYXQiOjE1MjU0NDkyNDgsIm5vbmNlIjoiYXh3RHFSUmFOMkNDUkNERFM2UzdZME0xZ28tVE9mN1Bhc3RRNmFsVnRVMD0ifQ%3D%3D.wn7H87YLL5d-iHkwHxo-0o4QJEoLL8uTlIgroFQ7rEM6lkY5x5hEKFOvLF5648Mhrn5MNL4IVRIh2l5_FBzDRw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2227pdihrzyithtztk0frvf35mudl620%22%2C%22displayName%22:%22q_trevor46j_j%22%2C%22id%22:%22218451659%22%2C%22login%22:%22q_trevor46j_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	27pdihrzyithtztk0frvf35mudl620

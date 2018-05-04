@@ -1,0 +1,13 @@
+#y_michelleg2a_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5MW%2FG3jdbtOdjzyhJbrHf8XukDIs3Er4EMOtr%2F7npIk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	633dae9061fca1d3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217573152%3A%3Afnjjcgpma9bxrmmk32r2khspglzhiz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzMxNTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzkwNDAsImlhdCI6MTUyNTAzNTQ0MH0=.Cg2G0UZqb6MWClA3rsogfwv4kDOKxq_N1LCSfXNMopcGBDV0MxpfE6M_OumtVsUUDRi8O5kdh_YIl0diVpk_Rw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzMxNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjQwMjQwLCJpYXQiOjE1MjUwMzU0NDB9.8OAejKTM_Xs_7Hkd70fYMSEtC3M8GMkfdPQqZlSBoyFO1hUmkSrXHgs76h6llLizxvdWPc7dMq4OkVVlD9kDqg==
+.twitch.tv	TRUE	/	FALSE	0	login	y_michelleg2a_l
+.twitch.tv	TRUE	/	FALSE	0	name	y_michelleg2a_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:57:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bf7fb99ec632a94f405298a2f1752509
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWljaGVsbGVnMmFfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODc0NDAsImlhdCI6MTUyNTAzNTQ0MCwibm9uY2UiOiJzVjNrNFRxTkkwYkR6OVl0TUpDc3p5SUQyMG5zeDcyblVCZVV5aW5rUWRzPSJ9.dSOk3TX352bRRDv-0aRtprNN7_ZxQmdaHuQTNTMv_IDiyAwAWGH6bFFavkG4qje7VVfbyjUgI61TyV2ovoQuhw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225w692m506aeuy1pjzhuqnr4t6phtaa%22%2C%22displayName%22:%22y_michelleg2a_l%22%2C%22id%22:%22217573152%22%2C%22login%22:%22y_michelleg2a_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5w692m506aeuy1pjzhuqnr4t6phtaa

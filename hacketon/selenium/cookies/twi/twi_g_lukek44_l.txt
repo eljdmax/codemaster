@@ -1,0 +1,13 @@
+#g_lukek44_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B8CdT8MILipe3BRohdCr8d%2FWDstDrhiTfsEXde6cDC4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:19:34+00:00	unique_id	df7bdadb88f872e8
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:19:34+00:00	_twitch_session_id	d16c4e27d8831c14da1f2afa0c762274
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:20:03+00:00	persistent	216145346%3A%3A42hg59h2cs3wsxilshe4vtzvhcqa15
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:20:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDUzNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwNDAzLCJpYXQiOjE1MjQ0MzU2MDN9.08zQM0Mwu4nwmEgIchs8clpRenKRcz0qgklN3B8Knu4sOQ9yBjMZiHmPGzCQyMErqjv31m62bou1IKVE0qJKtg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:20:03+00:00	login	g_lukek44_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:20:03+00:00	name	g_lukek44_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:20:03+00:00	last_login	2018-04-22T22:20:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:20:03+00:00	api_token	fe2e63fa3aba7a8a8546b6baba5df710
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:20:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbHVrZWs0NF9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NzYwMywiaWF0IjoxNTI0NDM1NjAzLCJub25jZSI6IlZtVkhqSGhzMS1qdk82eGZrcTViWXNWWWR6WnliM1NSUXBvaDdjd2RfYVk9In0%3D.4-WU-7y4Ci4Y57ym9GwtQnVZvH2JCsv5aUlb2GK6UD4ZQaNiXG6xSzwl4wm91v5i7z4dEMlkxaTEAWmtB-W1vQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:21:15+00:00	twilight-user	{%22authToken%22:%22km5fbh7xdwzgotlr0xpj818z2kjw2o%22%2C%22displayName%22:%22g_lukek44_l%22%2C%22id%22:%22216145346%22%2C%22login%22:%22g_lukek44_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:21:15+00:00	auth-token	km5fbh7xdwzgotlr0xpj818z2kjw2o

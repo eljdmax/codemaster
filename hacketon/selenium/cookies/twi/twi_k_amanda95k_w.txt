@@ -1,0 +1,12 @@
+#k_amanda95k_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DVLBKT25wTDPpyW0J0ZcnFJ7QnyoQC2ZLYaMDVV6zq4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:11:09+00:00	unique_id	0f37f4520ec8daf9
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:11:38+00:00	persistent	216491744%3A%3A3ceoncwyjqrh2cxbc38i446kvhibpx
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:11:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTE3NDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMjk4LCJpYXQiOjE1MjQ1NzU0OTh9.iGmKz4aHhwlby7BqrwFaZ9WXzBOBYTGYztCmrt9ud6oUITh5MPNTUUxprdkwqkhNI4Xr3WccMKEU11GnvTHTVw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:11:38+00:00	login	k_amanda95k_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:11:38+00:00	name	k_amanda95k_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:11:38+00:00	last_login	2018-04-24T13:11:38Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:11:38+00:00	api_token	75619dd6bebbe22194c4e8613b068b56
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:11:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYW1hbmRhOTVrX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI3NDk4LCJpYXQiOjE1MjQ1NzU0OTgsIm5vbmNlIjoicTJOcHcwbUpsNzRmOC1FMzEtTEZxVWFWLU5xaDBYdzlFeDR6MXNXbmhpaz0ifQ%3D%3D.VzfsZH-VmkZBacW_8W6ottga3KxWk-GvRPzTExoJG6S-g59EUeicAZpF7iS6LGFDpalu4bZf8YAGA1JKN4FA9A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:13:01+00:00	twilight-user	{%22authToken%22:%2218mpn0emor5cgehfx0zswlu50usifs%22%2C%22displayName%22:%22k_amanda95k_w%22%2C%22id%22:%22216491744%22%2C%22login%22:%22k_amanda95k_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:13:01+00:00	auth-token	18mpn0emor5cgehfx0zswlu50usifs

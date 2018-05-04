@@ -1,0 +1,12 @@
+#w_gianna36k_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EGcDl2lO7BjxHKi6dtiPUqU917r1ogqEQUFKu4Rshbg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:14:58+00:00	unique_id	77f66bc5a9f878ea
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:15:23+00:00	persistent	216144525%3A%3Auxcv1vkq1uzwjx5irjsp2daqsk5ubb
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:15:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDQ1MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwMTI0LCJpYXQiOjE1MjQ0MzUzMjR9.6PNSsrYw45Rre-DQ2Cguik5Nh-SdkngpBTf5bkwHg1babJH5nX3u_oAq6xijzNX5pMtO43TmdwI3yBfmFKnlvQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:15:23+00:00	login	w_gianna36k_3
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:15:23+00:00	name	w_gianna36k_3
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:15:23+00:00	last_login	2018-04-22T22:15:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:15:23+00:00	api_token	9892bf2471523563f289376c2cd737c6
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:15:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZ2lhbm5hMzZrXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg3MzI0LCJpYXQiOjE1MjQ0MzUzMjQsIm5vbmNlIjoiXzJuV3RTMnRKSGdVQUhzbGZOOHVZZktsbXNtcFU4VTNDMmZPM2tIUkpPND0ifQ%3D%3D.8OawqOng0fwK4wFdjtPmNIyhdBIAEeJBqNoOORKqqFKK-GtAV4VIN3dk_EE5W-2IhzLjdO3f84JmrcUWibrj3g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:16:36+00:00	twilight-user	{%22authToken%22:%22fma9dr2pg0f9mwwsrm43bosr2qeq7v%22%2C%22displayName%22:%22w_gianna36k_3%22%2C%22id%22:%22216144525%22%2C%22login%22:%22w_gianna36k_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:16:36+00:00	auth-token	fma9dr2pg0f9mwwsrm43bosr2qeq7v

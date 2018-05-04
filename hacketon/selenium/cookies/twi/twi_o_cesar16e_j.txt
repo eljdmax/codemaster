@@ -1,0 +1,13 @@
+#o_cesar16e_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9vZ6D%2FqsKqaDJVaowEJ6WfsiSvldrPDUeHJ%2BcEEUHRY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f32f60fd1dd5be84
+.twitch.tv	TRUE	/	FALSE	0	persistent	217254741%3A%3A4ifotrvo1ycue4cg0d45f0wa27177a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTQ3NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjgyOTksImlhdCI6MTUyNDkyNDY5OX0=.Gce2IoKXHathVwwRR0uqn4C8YO5FniPzQdDJak8k2W73YGTwUwTlm_GMYpfOTe8TksEs4sSFbqdg4rttjn044g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTQ3NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5NDk5LCJpYXQiOjE1MjQ5MjQ2OTl9.QK1lvnVMuMdY9IOF0slmvb_evclwGlKw25XMlzN5QfSNaUz4vrFzL_Q62CS1bPFLn0dXJteEqnXCvK2vpW3V-Q==
+.twitch.tv	TRUE	/	FALSE	0	login	o_cesar16e_j
+.twitch.tv	TRUE	/	FALSE	0	name	o_cesar16e_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:11:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	556f98bd008d75cb5b95735cc785520b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2VzYXIxNmVfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzY2OTksImlhdCI6MTUyNDkyNDY5OSwibm9uY2UiOiI3VVFobkYtZHYySG04WjVJbWVWSXNqYWtNWmY0UHN3d3I2aWhUWXdEdURzPSJ9.5hlJyNl_kEtkmBi3Zw81ywTqE9vDW57lhh2R71jm9xuvloa9Nrg3jAt_-clB93n-B6rNw_j5J34qJhtG5QJZdw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bvecgecaspxt1dm4zjeamqn7uy8gp0%22%2C%22displayName%22:%22o_cesar16e_j%22%2C%22id%22:%22217254741%22%2C%22login%22:%22o_cesar16e_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bvecgecaspxt1dm4zjeamqn7uy8gp0

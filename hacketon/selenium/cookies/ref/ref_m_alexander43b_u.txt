@@ -1,0 +1,17 @@
+#m_alexander43b_u
+.refereum.com	TRUE	/	FALSE	2019-04-30T16:27:48+00:00	__cfduid	df193d79bdbde202595b1358b454a364f1525105669
+refereum.com	TRUE	/	FALSE	2018-05-30T16:27:48+00:00	refid	taufiksmoeis
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	wsiohByUB0eue-CefFfp9UpX9ty5DV88sq6IfcpKpWf47ZClQKqP1sjPIv2-wXvNsiPQlVNRTqdUnegkXZH0zTDXrn-bN358VzCByRGv-6U1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	edc2bbbf596904153be635b5e239f45adcde751e1c08d9ad71f43121064b7712
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	TRUE	2019-04-30T17:29:36+00:00	ai_user	duwqX|2018-04-30T17:29:36.258Z
+.refereum.com	TRUE	/	FALSE	2018-04-30T17:30:36+00:00	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	k2rshtaxlzs2ehlrzb0vc5ha
+refereum.com	TRUE	/	TRUE	0	.AspNet.ApplicationCookie	5yfBc8qXLDVHE3HquBvhAen00-EJceCY1nKMrlMOuK2Tv7DtNIbuXEE0CqJ2e0i8evg-mi_HL-XXmXLbME_lWt4se8xfwzuz5g8gVW11UUcBqQvx4W4sUthDW9vQFzSv0TwWkT1ASrgT3Fs0_76aZW_WGHHevGdGwaHYDQI3DU-gxpYiQ-cKBGxqr23sYZiVfM_mmBqyym-i97ESuTFwLLfOj_V_MrHV4faaJ9t7hk9hjIcXfwkOvn-lgc2CJ8EANwTl2iHGVhvTQMxdsEhfo7E7O9ZHBMWQAxz4ulfK1HOQFgC_IfiQgaL1oM8ITva36uSSu3Oz-hu6NgNZ5aB8RZof4n3b73y7fFNFDPb9LsLyrkvTCEyELaT5MgeuHpldKTzk0At4Uns5ydJF-P28jkgUg9NSwBzss3S83iYYElVnZRYLVpuOvblxV5vppmuzk3v1keXRb7TvaoNOk8ruChYpPp77ruBX-sbIGeCKGpgUf8QcOzwC_Aw4jxBjKnbt
+.refereum.com	TRUE	/	FALSE	2018-04-30T18:00:12+00:00	_hp2_ses_props.3735157917	%7B%22ts%22%3A1525109376442%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	2020-04-29T17:30:13+00:00	_hp2_id.3735157917	%7B%22userId%22%3A%221982023838192293%22%2C%22pageviewId%22%3A%220702258602136181%22%2C%22sessionId%22%3A%221671264562631080%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+.refereum.com	TRUE	/	FALSE	2020-04-29T17:30:13+00:00	_ga	GA1.2.1675988743.1525109377
+.refereum.com	TRUE	/	FALSE	2018-05-01T17:30:13+00:00	_gid	GA1.2.57750522.1525109377
+refereum.com	TRUE	/	TRUE	2018-04-30T18:00:12+00:00	ai_session	Hbchv|1525109378034|1525109413376.76
+.refereum.com	TRUE	/	FALSE	2018-05-07T17:30:13+00:00	intercom-session-de0q0t0f	dlk1TmhMUjBYUzhvOWErVmk0RUN4YlJ5ZnNRekpHbTRlY2V0R2xiZW0wL0M0SjB1bG12cjlNVTJWcnVQbk5May0tYk9aKzRyRlZLUkJzTFMwTytxM3ZZQT09--d5728cbbd39f659c9db18d9a1bbba10f93d2e4f7
+.refereum.com	TRUE	/	FALSE	2019-04-30T18:36:53+00:00	intercom-lou-de0q0t0f	1

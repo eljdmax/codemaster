@@ -1,0 +1,15 @@
+#i_sethg38_d
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7b5484c5c17c16d
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTQzOTgzOXxlMzBLfPl-M_mOhxJM2sfhD-eh72WXguMXaqx0LSYIdqDYxOZf
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	wXZrqCPcPAzFjNiBX82LUWwB9Jwn3zNnmvEyJse4mFA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218444642%3A%3A7y1wnuiaoakuxnutofaw7umttdl4q4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NDQ2NDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU0NDk5MjgsImlhdCI6MTUyNTQ0NjMyOH0=.O2dNSwaX0U8He5UGfPN5WaQI21k5dPyYrb7_YSgA5U8fiWoweZvoqGq-PtUMt37OyLP7WtqLvWmwOG0bJHg3Gw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NDQ2NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MDUxMTI4LCJpYXQiOjE1MjU0NDYzMjh9.e3OAkrCVtDx-DHOIpXXEN1Ryd64lwYFHygJ-_RrtigGtqXBROrbID-VjJaVe2tBLPT51xTegx9DJ76hkdypehQ==
+.twitch.tv	TRUE	/	FALSE	0	login	i_sethg38_d
+.twitch.tv	TRUE	/	FALSE	0	name	i_sethg38_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-04T15:05:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	21fc29d248e7d2697b8987040e959f15
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfc2V0aGczOF9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDk5ODMyOCwiaWF0IjoxNTI1NDQ2MzI4LCJub25jZSI6Ik1HY1dUdFFORDhEU0lGMzV1R2FqNlJqUnY1UExGSTJod3pNX29GeHo2blU9In0%3D.VoSvx387cjx3eQwd3nGEbbi2AVJyjLH3uDJSQzUCYWFviX-HMBYBYffcsHNwmHRJZ7lvi8Na74D6mVIJlNPLHw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22004p8g0fyasxgnk2oxixhnnf5xt9ui%22%2C%22displayName%22:%22i_sethg38_d%22%2C%22id%22:%22218444642%22%2C%22login%22:%22i_sethg38_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	004p8g0fyasxgnk2oxixhnnf5xt9ui

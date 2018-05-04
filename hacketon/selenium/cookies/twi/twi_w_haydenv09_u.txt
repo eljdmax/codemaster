@@ -1,0 +1,14 @@
+#w_haydenv09_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gm5Cq1Zrh36nO%2F49v5sw%2Frp76yIHlmA0ZyFskkYhKEU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	00cf237d0709a45b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ccfe2482f681c3726e643769e7808a04
+.twitch.tv	TRUE	/	FALSE	0	persistent	217451487%3A%3Arvsrqightrxrvkl3mlmdbzxstxbetx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE0ODciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDAzNDksImlhdCI6MTUyNDk5Njc0OX0=.4RlFUL6ViywSSht3FG3HRb57lXIJXwaEiJlqb9uAy-k3f9GCjgfmQdffM6oXwI72F4aYS_51E1RLYgcCvXvmzw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE0ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAxNTQ5LCJpYXQiOjE1MjQ5OTY3NDl9.URmuhRB6X1ao7xBNThpSrwFLZV6nh3RKBkZsqVdgejLMnvAURcBli_8_dDm0QEuTbiZ_sHRwChAAW_JWZRhl4A==
+.twitch.tv	TRUE	/	FALSE	0	login	w_haydenv09_u
+.twitch.tv	TRUE	/	FALSE	0	name	w_haydenv09_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:12:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	50fbf40ee5bc058ec51a85c7ea64828f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfaGF5ZGVudjA5X3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ4NzQ5LCJpYXQiOjE1MjQ5OTY3NDksIm5vbmNlIjoiZ1NPbUpaSUxnRVQwTFA5eTNWWTZpdWhjOVFIZllUOEo4YlQxSlV2YlNiWT0ifQ%3D%3D._JGQwotkxmVwImyLkpHahFA6_3z6gZFgKxQQakXuHpeJhtn_YAVV7k5BYkIsL9dPhFHYqnt6yCeobdtfXc2kQA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ote6atkbyefc7e357yle26p28ze6v3%22%2C%22displayName%22:%22w_haydenv09_u%22%2C%22id%22:%22217451487%22%2C%22login%22:%22w_haydenv09_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ote6atkbyefc7e357yle26p28ze6v3

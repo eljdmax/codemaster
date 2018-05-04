@@ -1,0 +1,13 @@
+#w_avery90g_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	t2sTwa3%2FsjSeSqLEKmSXRSB64%2F5LI2EnsqGc0OEu2X4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:47:46+00:00	unique_id	5a52add4bca7d732
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:47:46+00:00	_twitch_session_id	d4527de2e35c77c5c5b39c879dce5a75
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:48:00+00:00	persistent	216139540%3A%3Avgs58vpr1mg0xk9h33xyu6royzm5vu
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:48:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzk1NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4NDgxLCJpYXQiOjE1MjQ0MzM2ODF9.Eg5l553dBuKNzds473fhGe_KxL6eIPNJZ4JqvtwrDF5D3gK2cw0PCm4tdq8nqjUmh22Lo8ddFv1EH_fwIryKUw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:48:00+00:00	login	w_avery90g_7
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:48:00+00:00	name	w_avery90g_7
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:48:00+00:00	last_login	2018-04-22T21:48:01Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:48:00+00:00	api_token	9595760a6fce40bc7e04527eae5d14ee
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:48:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYXZlcnk5MGdfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODU2ODEsImlhdCI6MTUyNDQzMzY4MSwibm9uY2UiOiJmc29pelFsNFI1Z1Q3bmxlUjVEcGgwdlRWS2h6UndNN01aYmxOTlpfSFBJPSJ9.MrgusP8j-hbo9v_JmAtrut8g69y3FhJNunxdQSstWck8Zyyfh9PlD8MT-yRLeWFmKAlMjuITvPz1rxIpCTcFlA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:49:14+00:00	twilight-user	{%22authToken%22:%22967pqyrgwsoxloejep2vdkjya1eynd%22%2C%22displayName%22:%22w_avery90g_7%22%2C%22id%22:%22216139540%22%2C%22login%22:%22w_avery90g_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:49:14+00:00	auth-token	967pqyrgwsoxloejep2vdkjya1eynd

@@ -1,0 +1,14 @@
+#g_briannan3j_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2DCOfS0JXiTKHpVWWDnC6MnTrJMmx5xsGsk8HPe3BXs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:43:56+00:00	unique_id	a26e230d10240249
+.twitch.tv	TRUE	/	TRUE	2018-04-19T05:43:56+00:00	_twitch_session_id	64ed70d625055c5a735ce41e7b266c55
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:43:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:44:11+00:00	persistent	215237928%3A%3Apo91945ycojr6s8m4fq098zewa9bsy
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:44:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzc5MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4MjUxLCJpYXQiOjE1MjQwNzM0NTF9.SKqTEdi86hQF99p9i-m1gaDYw-oY-ss04euxsXw0wPW5MDTJrJSBAqtNKH5z2VO8h6ojqdsTVQuGFymeMlzu_A==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:44:11+00:00	login	g_briannan3j_s
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:44:11+00:00	name	g_briannan3j_s
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:44:11+00:00	last_login	2018-04-18T17:44:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:44:11+00:00	api_token	f146c8993da1f3e0927c84445f0fa629
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:44:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYnJpYW5uYW4zal9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNTQ1MSwiaWF0IjoxNTI0MDczNDUxLCJub25jZSI6Im5pOWhHelVIRVpVOUdqOWVwbWtCY09NYlhjMXRHMHlQc25tUE05LVJjVkk9In0%3D.lxSFd-Ug9lxUrIiZH-8FL7KOFp0a74XHfftAExk12GB94zZ9yv_tRggKFz8Rphh-P9ST0jD3OlFZzlKFULesOw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:45:04+00:00	twilight-user	{%22authToken%22:%228o4ibaoc895fat6mw0g9s1hkte76lp%22%2C%22displayName%22:%22g_briannan3j_s%22%2C%22id%22:%22215237928%22%2C%22login%22:%22g_briannan3j_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:45:04+00:00	auth-token	8o4ibaoc895fat6mw0g9s1hkte76lp

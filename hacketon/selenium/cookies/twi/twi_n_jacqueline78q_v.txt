@@ -1,0 +1,12 @@
+#n_jacqueline78q_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lxYk4%2Fv8bKYCNgmJyMYjkzACidZsjepMcoTJPuQsGcA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:57:04+00:00	unique_id	73b95bf7cac29fb1
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:57:20+00:00	persistent	216939875%3A%3Abt6xprx3bovnnmj25txn25yyz0iyrz
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:57:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzk4NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMDQwLCJpYXQiOjE1MjQ3NzYyNDB9.Odtdvj527Nl2ohq7jiAwLTjGxxfJHq__FEs6x-FbCh79JQL_AQ2eo4CbxFgwMjE8jMdXwdA_EW-v5m0xokut5A==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:57:20+00:00	login	n_jacqueline78q_v
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:57:20+00:00	name	n_jacqueline78q_v
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:57:20+00:00	last_login	2018-04-26T20:57:20Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:57:20+00:00	api_token	8994d3242653e3994123acc89745292e
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:57:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5famFjcXVlbGluZTc4cV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyODI0MCwiaWF0IjoxNTI0Nzc2MjQwLCJub25jZSI6ImI1eDJ6eVBHWlIwd1V3SWRuUXhaZ3RUQXRTdktMU2ltM1p1SHFhZkcteFE9In0%3D.Q3ysAc0UnGCvn9iNBywNKON_ZH48lEQ97rafe7RlQbkeH219pn0c13cCxHAwtdNBXqmDKTdV7FXzBt5A84Gskw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:58:51+00:00	twilight-user	{%22authToken%22:%22pbiz0yca37k4ow7nm12e9nln5xg7ou%22%2C%22displayName%22:%22n_jacqueline78q_v%22%2C%22id%22:%22216939875%22%2C%22login%22:%22n_jacqueline78q_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:58:51+00:00	auth-token	pbiz0yca37k4ow7nm12e9nln5xg7ou

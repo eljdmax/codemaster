@@ -1,0 +1,14 @@
+#t_alexar95_g
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jRyqrDZ4yANP9%2BVecjswQkVVeE7jh2ygQM1f%2FF5l%2F0Y%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:31:02+00:00	_twitch_session_id	d3fdc3370898ef44c7d95040a15f3faa
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:31:31+00:00	persistent	217076455%3A%3Av2mnkug1cpjtuytlm0tc7cwsvwefp5
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:31:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzY0NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1MDkyLCJpYXQiOjE1MjQ4NTAyOTJ9.hPZOmhEgdvtDvx6LtEAKYPg2n2FlXsuWJAFGHdZ_RAAYGqzMJGjHiExvIdMFVXhpVCeEnGb--rM079Akc3nWLA==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:31:31+00:00	login	t_alexar95_g
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:31:31+00:00	name	t_alexar95_g
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:31:31+00:00	last_login	2018-04-27T17:31:32Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:31:31+00:00	api_token	032148f24b3d00a81d20538e9b2d5611
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:31:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYWxleGFyOTVfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDIyOTIsImlhdCI6MTUyNDg1MDI5Miwibm9uY2UiOiJWRHBvREFvdE1QZXJ6b1lyUmpNQTJ1LXVXc2NWS2pPaFljUlBwYUZhV09rPSJ9.oHuTpxUalQPSmrQXtv07OVEM_U2xwIxx8OAKlGAD1yT3slWxmjE2UbSGnD3HSRmqhx87mYa-7Z9H76lnyLJuBA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:33:09+00:00	twilight-user	{%22authToken%22:%226zii20mnjikh3zwjip7s9ra8q2ylvi%22%2C%22displayName%22:%22t_alexar95_g%22%2C%22id%22:%22217076455%22%2C%22login%22:%22t_alexar95_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:33:09+00:00	auth-token	6zii20mnjikh3zwjip7s9ra8q2ylvi

@@ -1,0 +1,14 @@
+#r_madison130_o
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	uIEJkPVqx4ifHSK4IYc5Qco%2BgDQtUfMlthloxtrGwy0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1faf98aefeb6ae17
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	79633434410b4a432ca739749c321a7e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217486346%3A%3Aqp86z9049l5uj4pg5a766914htksmh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODYzNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTU0OTgsImlhdCI6MTUyNTAxMTg5OH0=.baCd8KV7dGStnYInn2pqZ7ajpR49cDaHWmxGsQUnbgOBMOvG9brWVRk46hHbM_J3tCcgIOC2ygVFb2HuUwUQoA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODYzNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2Njk4LCJpYXQiOjE1MjUwMTE4OTh9._kMwm729JNtgxi5SRKB6IEIiicoZinebNHjMf2vQcBXVuh3oDu2fWViAypLW4bJrIjxvFLOpSCwhysqhetWwPQ==
+.twitch.tv	TRUE	/	FALSE	0	login	r_madison130_o
+.twitch.tv	TRUE	/	FALSE	0	name	r_madison130_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:24:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7abc69c919e71c6b30500e9975b02d3a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWFkaXNvbjEzMF9vIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2Mzg5OCwiaWF0IjoxNTI1MDExODk4LCJub25jZSI6ImY0TTBOMFotSWYxVnlDdUt2VGdRQUljRThfNXVFblFLQ2tjOG9vR3dFa0E9In0%3D.AeR3x8tdrRq8iiLZYiKfzxr_ZWxPBIJVYY35izrOyow95tjsWutvgJLSTX7SJM3buKPdSVODQAySN8_zAopujg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mfjiu9ut6o5cuq1g13t6wk231cdwm6%22%2C%22displayName%22:%22r_madison130_o%22%2C%22id%22:%22217486346%22%2C%22login%22:%22r_madison130_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mfjiu9ut6o5cuq1g13t6wk231cdwm6

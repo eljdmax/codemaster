@@ -1,0 +1,12 @@
+#m_victoria29z_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JsmR4MxR%2FMMonWfg1lp%2Fmw9tJ8ZwdigPfLoHpN0TMFM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:56:11+00:00	unique_id	fd0ef749bb24753c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:56:27+00:00	persistent	216489686%3A%3Azoq2fyluq4mnco5oc7ohynt5zi9x6b
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:56:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODk2ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5Mzg4LCJpYXQiOjE1MjQ1NzQ1ODh9.lxms0pwe9egIJLwQwT0gzIDDExH8rRR7E7zMaQpn6KFlJFZXiU6mroaFLZzvIclfOa6eZZ19v-OrQrWvVbb2xQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:56:27+00:00	login	m_victoria29z_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:56:27+00:00	name	m_victoria29z_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:56:27+00:00	last_login	2018-04-24T12:56:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:56:27+00:00	api_token	e2e889ee86f4444c2410cd949d6f3671
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:56:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fdmljdG9yaWEyOXpfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjY1ODgsImlhdCI6MTUyNDU3NDU4OCwibm9uY2UiOiJKNnFtZzN0VEpfQVgxTUtRRC1RcDR1dXZuTnEtTk9OMXFSYk9JTVh1SnpVPSJ9.LulJBx5P5YYkAYx8S4ezKDF84YUNZspYsHPLA95iD_CvEZWkug7mn_e0u1cXYPh6o-crn4ANGnjfSfaEGWKyog%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:57:46+00:00	twilight-user	{%22authToken%22:%22ltxq0rkeeurszzyvzcykm7yskmwebl%22%2C%22displayName%22:%22m_victoria29z_c%22%2C%22id%22:%22216489686%22%2C%22login%22:%22m_victoria29z_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:57:46+00:00	auth-token	ltxq0rkeeurszzyvzcykm7yskmwebl

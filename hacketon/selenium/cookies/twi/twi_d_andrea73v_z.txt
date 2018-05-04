@@ -1,0 +1,12 @@
+#d_andrea73v_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DkgUH5Cn1M587nCI3YZ%2BosLuHcgCkumOJ%2BT0zjkJfWI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:29:19+00:00	unique_id	9013dd727b211ba7
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:29:43+00:00	persistent	216136059%3A%3Aj3vlkdlyi24oa2i3i0v5jr2je9fgb6
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:29:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzYwNTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3MzgzLCJpYXQiOjE1MjQ0MzI1ODN9.7W5bPzUEUlNxMlmZJzPFSriEn2uzdUK72dENzqStQwSfNDWtSmaGkFuVP4fo5-rREzzEahvT0zJMBpP2u_mozw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:29:43+00:00	login	d_andrea73v_z
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:29:43+00:00	name	d_andrea73v_z
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:29:43+00:00	last_login	2018-04-22T21:29:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:29:43+00:00	api_token	0506647bb7c9cf1e037d072d98986301
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:29:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYW5kcmVhNzN2X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg0NTgzLCJpYXQiOjE1MjQ0MzI1ODMsIm5vbmNlIjoielZ6WWx3RDVCZnFMR3JpN29WSnR0NURja2ViYmtXM1VDMjUzUGYwbFJLaz0ifQ%3D%3D.IN9lqbkHsSan6-5767M8hxoJ0IosE_ygNcbIuBP_SbKwsezRt9P_VYh-5IhN1HcBidAvNSsaqGqfkgevnm0FBw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:30:55+00:00	twilight-user	{%22authToken%22:%220nxza2dqkb8g8my4rk0ocbvhr6h0d0%22%2C%22displayName%22:%22d_andrea73v_z%22%2C%22id%22:%22216136059%22%2C%22login%22:%22d_andrea73v_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:30:55+00:00	auth-token	0nxza2dqkb8g8my4rk0ocbvhr6h0d0

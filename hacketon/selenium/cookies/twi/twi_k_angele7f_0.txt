@@ -1,0 +1,14 @@
+#k_angele7f_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3gboIQn9XeXOuZOTDX3Lmu1i58TrcwmNh98M78ADqGE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9a676077cf777f84
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	06680591681d3bc0134e480212026c0b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453099%3A%3Acv2ehi2qmowyxuvhuth9iz9ke7j1fi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTMwOTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDEyODksImlhdCI6MTUyNDk5NzY4OX0=.BBZZqUh8j8JBBBCofJ7NLSlC1XK5Zd7OSErUVbvPwahHoWogHXvzLkOjRLGP6B4fr0Co4ffu3sg4_qxyAoVJ-w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTMwOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyNDg5LCJpYXQiOjE1MjQ5OTc2ODl9.cI3Bgt8RocPBIVk_EqILqQwYAYNYxKEY-0BD0q3GHbHA5aS2UgdwRXXSZUu23jNFTTC4mABaGiELXnWcCQj34A==
+.twitch.tv	TRUE	/	FALSE	0	login	k_angele7f_0
+.twitch.tv	TRUE	/	FALSE	0	name	k_angele7f_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:28:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bd4c6f7f270d5498f24cb4fd622221c3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYW5nZWxlN2ZfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDk2ODksImlhdCI6MTUyNDk5NzY4OSwibm9uY2UiOiJGc2tqQ3QydklHSFotRDdfV2xsem9MZGhmNUp5QnpRWjFvSEE4aERHTzRvPSJ9.5soGzGWimw5ORHxnsEILebOH4zkRNQ7F8iY_jT7XfOY5WhkYxjapp-o4C8j1gQuu3lwYovXKsqKYReqz_OXWrg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cro7z8kjtrgowjw881isn5zret9qre%22%2C%22displayName%22:%22k_angele7f_0%22%2C%22id%22:%22217453099%22%2C%22login%22:%22k_angele7f_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cro7z8kjtrgowjw881isn5zret9qre

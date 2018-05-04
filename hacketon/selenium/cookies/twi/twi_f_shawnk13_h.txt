@@ -1,0 +1,14 @@
+#f_shawnk13_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bxpuKz5FcV48aIrZ19UWewxZ%2BA8OD%2FaNs1jg7Bk5EYA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:11:40+00:00	unique_id	60d45bdb579c2765
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:11:41+00:00	_twitch_session_id	a541c8d9976b3e7d3afa9e111c18b596
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:56+00:00	persistent	217562632%3A%3Ac3audat9ve3umw6sb43mjzoc1zf0tz
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:11:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjI2MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3NTE3LCJpYXQiOjE1MjUwMzI3MTd9.6W5eTCF3cXEzCDz_jJY5Qj13CF6RqtkmQu17k9Qr4WSLf-sJWe4gydZiVbd3W6G2TdI8zBHN75gWYNIvd7AMgA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:11:56+00:00	login	f_shawnk13_h
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:11:56+00:00	name	f_shawnk13_h
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:11:56+00:00	last_login	2018-04-29T20:11:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:56+00:00	api_token	5cc4aecd79d3bd80985a0a675d6864d8
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:11:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfc2hhd25rMTNfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODQ3MTcsImlhdCI6MTUyNTAzMjcxNywibm9uY2UiOiJxZC1Ba3RIbXI2aFM0WWVKV3gzM21iNWc4TV9WVnRxMld0MlJ0d19tLXIwPSJ9.ij0rEcvsIXatNEnWhxxsBameubedl-8p_eDWlA2178l01-S2zAJvh_Em778bObX5Aaa8mszG5aveuUevcL-zEA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:13:42+00:00	twilight-user	{%22authToken%22:%22tz1z7l5arn2f92e15m76m1vqkzlzvv%22%2C%22displayName%22:%22f_shawnk13_h%22%2C%22id%22:%22217562632%22%2C%22login%22:%22f_shawnk13_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:13:42+00:00	auth-token	tz1z7l5arn2f92e15m76m1vqkzlzvv
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:13:43+00:00	twilight_onboarding	true

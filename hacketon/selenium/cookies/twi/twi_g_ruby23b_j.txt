@@ -1,0 +1,13 @@
+#g_ruby23b_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eO3FcY5CBQv7aOae7rCsVRh8lUJOU2Vnvuove4aOWtU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e72c6902b2c8165b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217448522%3A%3A3ji1oi3lo2ig11ddajoxzqchgmwdxu
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDg1MjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTkyMTEsImlhdCI6MTUyNDk5NTYxMX0=.nJ9YSVaKFRTBL0jNnhzO_cEU1H4kTvUKpajFExzyXAKsH2cGoOhstyFO4lyxX1o10vbBglLkr6GaDnV8nqFmyA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDg1MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAwNDExLCJpYXQiOjE1MjQ5OTU2MTF9.kQT1Oihjx0aF5Y1Kqk_QhU3anNjE9bmWuAl1rPNLsniSolbX16ePWmjW746gVPIbbUK_wzm2WEc0WX_gAKuh-w==
+.twitch.tv	TRUE	/	FALSE	0	login	g_ruby23b_j
+.twitch.tv	TRUE	/	FALSE	0	name	g_ruby23b_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:53:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5d68058bb702e8f1a8aac6c421aa0e55
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcnVieTIzYl9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU0NzYxMSwiaWF0IjoxNTI0OTk1NjExLCJub25jZSI6ImZmblpxRXFMb2RlVGczYklnUUpOaUktZWFucTdlaERDT3pSdE84VDlpcHM9In0%3D._3-bRCrkeQMdYxvwD3Dkmvhh0cxSH0BL6CDVVu0a3aDn9Pzh_GsxO5XG2pVPEu00GAMyPRbhafju9tfiWyJRdQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22llcy2dg1bdgkw3tj3d11kueye6737h%22%2C%22displayName%22:%22g_ruby23b_j%22%2C%22id%22:%22217448522%22%2C%22login%22:%22g_ruby23b_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	llcy2dg1bdgkw3tj3d11kueye6737h

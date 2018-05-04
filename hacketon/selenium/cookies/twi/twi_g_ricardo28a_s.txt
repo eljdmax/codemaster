@@ -1,0 +1,13 @@
+#g_ricardo28a_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vLQJ2nvWDiaK0Gi5%2Bm9hHL7hdZHiWvNwBXb0MNNdpbQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b94e83050f1a2f0c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217948433%3A%3Ahqrer4iup1ny6jf39cwfy41jmkl4s1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDg0MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc3ODUsImlhdCI6MTUyNTE5NDE4NX0=.WiitJ_y-LbASET0sJOgU3EmxvBP0ezwZpSIxGJrJcMO-rWIPbdMUb2KI2sE_G2l4eYkj4piBm92J3CaCwKybvg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDg0MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4OTg1LCJpYXQiOjE1MjUxOTQxODV9.SCEFv0MVmGGbEPxD2bP3HEo2ORDx6kZ-62KY-A3A8xpB27muhTt90dTGumbh_CBgpoN_l5gNdx8n-z62Kt4xzA==
+.twitch.tv	TRUE	/	FALSE	0	login	g_ricardo28a_s
+.twitch.tv	TRUE	/	FALSE	0	name	g_ricardo28a_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:03:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	213b60527cb070ff5cdf4925733a985e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcmljYXJkbzI4YV9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NjE4NSwiaWF0IjoxNTI1MTk0MTg1LCJub25jZSI6ImpySzZPRHEwVFZ3SHg3MF85ZzQyYkh5ZXBPYnZSQ1BmYnFSbFViaVhjS2M9In0%3D.84tdJoD74THucIn92u7mprYvaSrFVIEe-TEFrzXrfImSMBiTACfN3fm_sEOfK7VbgCxPrmvTEixBq3zTunCWpw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22de04zxfuoume2cddzkq9zveye78thx%22%2C%22displayName%22:%22g_ricardo28a_s%22%2C%22id%22:%22217948433%22%2C%22login%22:%22g_ricardo28a_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	de04zxfuoume2cddzkq9zveye78thx

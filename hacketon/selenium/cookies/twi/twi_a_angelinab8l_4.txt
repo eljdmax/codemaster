@@ -1,0 +1,23 @@
+#a_angelinab8l_4
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	63KdzeWOwcr2G8nNYtmQeFzZ0DGvsXhaO%2FNx22Xio0Q%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c72ccc5e5dc0f10375c3146e935e08cc
+.twitch.tv	TRUE	/	FALSE	0	persistent	217017988%3A%3Atn6olrb50yua90tbfhicm0vhijmvbh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMTc5ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4MjU1OTUsImlhdCI6MTUyNDgyMTk5NX0=.LZpuNGhrp8GVIi2gRDBqRxJZKVwBMQFb0SRmdELiJjd4dZdlEhSn41ca6ctw-gtvjvw4d6mmdrv1y6CPonIH0Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMTc5ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDI2Nzk1LCJpYXQiOjE1MjQ4MjE5OTV9.zpeDRJSE7oRM-sRIS54BawXvZbEKtcB23ji5OQ-8AATp0zNq0I0PHQKwyXY6WUdVymnUcL0PDMy36mn-x0j_eQ==
+.twitch.tv	TRUE	/	FALSE	0	login	a_angelinab8l_4
+.twitch.tv	TRUE	/	FALSE	0	name	a_angelinab8l_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T09:39:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b9e28632821771c0d0b417061c5802bd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW5nZWxpbmFiOGxfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzNzM5OTUsImlhdCI6MTUyNDgyMTk5NSwibm9uY2UiOiIza0NWaDkwUFM5eDdVTW9YamIzTHVldFF3YjJkdmtnb0YwSU41NVYzdDdvPSJ9.pXCQrKdoIGV40EntReyVJ251vrDaeF7n3TtxXDclYo7wbSQ08lDWZ7NI5h3woq6vpUfbY-9RBqVntZDgisE9CQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220vuc30hexcxpilr9jh0ycngg2v7afx%22%2C%22displayName%22:%22a_angelinab8l_4%22%2C%22id%22:%22217017988%22%2C%22login%22:%22a_angelinab8l_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0vuc30hexcxpilr9jh0ycngg2v7afx

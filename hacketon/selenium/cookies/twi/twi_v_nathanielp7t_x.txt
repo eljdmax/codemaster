@@ -1,0 +1,13 @@
+#v_nathanielp7t_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	D%2BN777hUJ0B%2FHPk1jgCOt3Ibk%2BQPrfsF7JcjhYQ0MQc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:20:21+00:00	unique_id	62c9559b1cc6d77a
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:20:21+00:00	_twitch_session_id	caa646d63bd522cb1f6392b7e6ea48ca
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:20:41+00:00	persistent	217550675%3A%3Ai820hzknr7feqxuztn3rhaa3fn0d5k
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:20:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTA2NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0NDQxLCJpYXQiOjE1MjUwMjk2NDF9._Zv9e218hca2zczLJSQLUe763J4bkK6zZlQgvTuyW0n_DurREGOxhTsbFip2ljIHAJrQzwVCBDYQnO3L07rOnA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:20:41+00:00	login	v_nathanielp7t_x
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:20:41+00:00	name	v_nathanielp7t_x
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:20:41+00:00	last_login	2018-04-29T19:20:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:20:41+00:00	api_token	5a3f94712a85ef7dd75678b5bdbf2252
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:20:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbmF0aGFuaWVscDd0X3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgxNjQxLCJpYXQiOjE1MjUwMjk2NDEsIm5vbmNlIjoiTWdRVXNoVU00enZRdDNhSnNkdHVoSm5JREZ3ejNZMUJtQlktaGhpMW5tYz0ifQ%3D%3D.YIiQmIILz3XZ76LfRCmAndif3mBQLtm8w80metaaLaf4xFiS5AFhcvQ6-qBe_zlGn1HcEmkGED6J4m34nqsNgg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:22:24+00:00	twilight-user	{%22authToken%22:%227i1nhjf9q7ndr8f8ev2sajianauyr1%22%2C%22displayName%22:%22v_nathanielp7t_x%22%2C%22id%22:%22217550675%22%2C%22login%22:%22v_nathanielp7t_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:22:24+00:00	auth-token	7i1nhjf9q7ndr8f8ev2sajianauyr1

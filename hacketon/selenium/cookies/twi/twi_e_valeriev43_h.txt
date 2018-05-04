@@ -1,0 +1,12 @@
+#e_valeriev43_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QN9k7xaexfwEWGORphmcUzKHMitXSx5I%2FR98PVc4Li0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:49:44+00:00	unique_id	43cfca118eeac36b
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:50:05+00:00	persistent	216139891%3A%3Atphl5tf8pgfm2qf7fg969arxeha0du
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:50:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzk4OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4NjA2LCJpYXQiOjE1MjQ0MzM4MDZ9.e--1b0B5NdBSdKnWxchQh_7JVgfgYI9YJQs0VjLzDLKRL62OKUTmqf3HFNHfpVSW1EhvSrkqhBZXRZADBIX-tw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:50:05+00:00	login	e_valeriev43_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:50:05+00:00	name	e_valeriev43_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:50:05+00:00	last_login	2018-04-22T21:50:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:50:05+00:00	api_token	48f4555b3b8174e70eed87c21eaac821
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:50:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfdmFsZXJpZXY0M19oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NTgwNiwiaWF0IjoxNTI0NDMzODA2LCJub25jZSI6IlBva3BFQl93ZVZfd2J4eHVGX0V3Y0lVVE9Kb1YwZ1BBaVEtZ0RWN2NMUUk9In0%3D.Bkc6z5jrLSczKKal4vqNu0XAHKpXteEfLPd2ECbcc41r5CDxRzXDjcG8i-y_xtrd1lgssPMKpnu6bA9NtiMi3Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:51:18+00:00	twilight-user	{%22authToken%22:%22m4zcwxaqj0kppdwwbxuyezeo0sww4o%22%2C%22displayName%22:%22e_valeriev43_h%22%2C%22id%22:%22216139891%22%2C%22login%22:%22e_valeriev43_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:51:18+00:00	auth-token	m4zcwxaqj0kppdwwbxuyezeo0sww4o

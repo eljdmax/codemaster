@@ -1,0 +1,14 @@
+#o_jonah07l_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kI3Y1VmGWQoZZOriZAhd1Qu4JqxwNk3OD6yq4Cb1gLg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:38:56+00:00	unique_id	3ff4408b5e880a04
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:38:56+00:00	_twitch_session_id	a71a0a90089c85ada8d68cbafe33ca37
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:39:27+00:00	persistent	217569201%3A%3Acq9mt4s9k78qmjisjv7dziry0ihx26
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:39:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjkyMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5MTY4LCJpYXQiOjE1MjUwMzQzNjh9.aK5sKz_uWazVjZor-BP0un5X9BdVFv-Dj3EmYaHOMku00m8aGjsQez6WfbhL2Xqr3Im6OvMwZ_oI7Xk-M6OKbQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:39:27+00:00	login	o_jonah07l_m
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:39:27+00:00	name	o_jonah07l_m
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:39:27+00:00	last_login	2018-04-29T20:39:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:39:27+00:00	api_token	e30e22990a477ca987ca63c9fb84ef12
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:39:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fam9uYWgwN2xfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODYzNjgsImlhdCI6MTUyNTAzNDM2OCwibm9uY2UiOiJsMXRnT1Q3eVNOQ2JrRnBvV1lRMlJ1d0xEaGZ5bXNHYUtFZ3dEZUZnWUJzPSJ9.CyuWBmzDswu3xUAc0i5CDUJP6SbmCuubovOHmgwXbn6lVrGy1xXuVSgU96LKGpcnX5mH71ioqbsnLa2WKhkm9A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:41:13+00:00	twilight-user	{%22authToken%22:%22ubghmxlmkt0w0jk7ansd8gsw2haj4u%22%2C%22displayName%22:%22o_jonah07l_m%22%2C%22id%22:%22217569201%22%2C%22login%22:%22o_jonah07l_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:41:13+00:00	auth-token	ubghmxlmkt0w0jk7ansd8gsw2haj4u
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:41:14+00:00	twilight_onboarding	true

@@ -1,0 +1,13 @@
+#q_travis29z_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	mB9qfIHWmKcvkpcXia7JJF4opyrXi10tp43%2Ft5cTIsA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:45:07+00:00	unique_id	512752c3501dee52
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:45:07+00:00	_twitch_session_id	b39e9f614991c21d5998f61b33eaaa3b
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:45:34+00:00	persistent	216139091%3A%3Aje0yi2cukhn5je10c7qzznkhe7krsj
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:45:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzkwOTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MzM0LCJpYXQiOjE1MjQ0MzM1MzR9.IMbIhU068L9ZrmOeUV71j8rwtvvZsztVXO9oSULSLcUVgsTlkac2fg_Q9Tg1vuqFzo_g45lBHsriHeNBr6ZpOQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:45:34+00:00	login	q_travis29z_0
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:45:34+00:00	name	q_travis29z_0
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:45:34+00:00	last_login	2018-04-22T21:45:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:45:34+00:00	api_token	f92894dc840b903555b59042f83b72fa
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:45:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfdHJhdmlzMjl6XzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg1NTM0LCJpYXQiOjE1MjQ0MzM1MzQsIm5vbmNlIjoiS3FQYnNIUXF2Z01Tc2lQbUNPRWVrNHRWb3RuYmZCS2RvWmw0Yy15R1RhYz0ifQ%3D%3D.F3j7ntEYexQBM7lzUxZ3upEpZig7Z4xS8S4LLaNxPZEaSU40jFHeYm1psmLOlaVRctbEwcwjbVJNWuy7vzVL5w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:46:46+00:00	twilight-user	{%22authToken%22:%22abcyw26vxn88amb2ybplisrpvsy2hh%22%2C%22displayName%22:%22q_travis29z_0%22%2C%22id%22:%22216139091%22%2C%22login%22:%22q_travis29z_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:46:46+00:00	auth-token	abcyw26vxn88amb2ybplisrpvsy2hh

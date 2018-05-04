@@ -1,0 +1,12 @@
+#l_mariog1p_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8dBmiiPFgbekpZf%2BeKLHhSkLWLr2DypHXCPzdjpFfCI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:00:17+00:00	unique_id	d525e2960b8df3c7
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:00:43+00:00	persistent	216141873%3A%3Ajwdjujh6o12bnhidm2y495ppdq4xv2
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:00:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDE4NzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5MjQzLCJpYXQiOjE1MjQ0MzQ0NDN9.Jeq-CN5hnzvvffHyvDl-nMokc4JQ8uqp81iwvhZCejD5oH2fqC1llL-kARI_tYlaq9C_R7zy33vjAaf_yjWn0Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:00:43+00:00	login	l_mariog1p_y
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:00:43+00:00	name	l_mariog1p_y
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:00:43+00:00	last_login	2018-04-22T22:00:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:00:43+00:00	api_token	c8eb7c085788d14b885c27a401e4e9ad
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:00:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbWFyaW9nMXBfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODY0NDMsImlhdCI6MTUyNDQzNDQ0Mywibm9uY2UiOiJOemtUak96YWt0UkVwalo4QXFXek9meVN2aEItcDVib1IwMWdodXUzRWxBPSJ9.JagagggpjFAkoKGZAI-gacs2Jx_uKRbw0UOvwyqe-oUyijV2oUdtHnpvA6Z3uiban_4FWggQiwn5h-h794slnw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:01:55+00:00	twilight-user	{%22authToken%22:%22jufhoo11eu6rdkyg1pyt3frkprru3o%22%2C%22displayName%22:%22l_mariog1p_y%22%2C%22id%22:%22216141873%22%2C%22login%22:%22l_mariog1p_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:01:55+00:00	auth-token	jufhoo11eu6rdkyg1pyt3frkprru3o

@@ -1,0 +1,14 @@
+#b_charlotte85i_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	hNDq93K%2FvcEfXod7Jxe4hTaBGxUOsHkn37zWMxvjX88%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	306b168b606d742a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7714accb4c186f87a2780e5d1f73d006
+.twitch.tv	TRUE	/	FALSE	0	persistent	217465842%3A%3A53qnudy9r3vagst0c79zx5ukjckbt4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjU4NDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDc2MzgsImlhdCI6MTUyNTAwNDAzOH0=.3b6VsOCFUMATKF6ZVe4qf2CFYsompejYWPUfiec3AjF0nQvtDvSflmzbIR9VKEB4crzMhtm52yOCKi6Bl0q95g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjU4NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA4ODM4LCJpYXQiOjE1MjUwMDQwMzh9.aZZHOIsItnFvUBGqYlO6cVdnFDHmq1x_mK2wiER5UAoL-E-723EX7n4KS7pJp3qMQpp3WUUrGDkphLFF4NKtMw==
+.twitch.tv	TRUE	/	FALSE	0	login	b_charlotte85i_4
+.twitch.tv	TRUE	/	FALSE	0	name	b_charlotte85i_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T12:13:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e44ee9ee1c105e42a12c3a2947729bbc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfY2hhcmxvdHRlODVpXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTU2MDM4LCJpYXQiOjE1MjUwMDQwMzgsIm5vbmNlIjoiaUNlbnJIYmZtM1FVUWs5RzJrU24zdTlGbEtMVmpZRE15aTEyQndhRW9TND0ifQ%3D%3D.oHX27xjI3c-Z2iOimQChb9Vd_N7KnrUbh03G_6O5t1M8dptGEWn4gXigwegtzu1qgjoeCwXacwf1aQCm_d-fMQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225uzp93uhsbqs6q57g4id56f0p4gekr%22%2C%22displayName%22:%22b_charlotte85i_4%22%2C%22id%22:%22217465842%22%2C%22login%22:%22b_charlotte85i_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5uzp93uhsbqs6q57g4id56f0p4gekr

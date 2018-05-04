@@ -1,0 +1,13 @@
+#p_lilianau0c_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CqXrVfQCkj4JQGfhMSy92xBlnbJ3aFvhuaRyctcZz24%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cd9bf5c8cc3e3509
+.twitch.tv	TRUE	/	FALSE	0	persistent	217291323%3A%3Ae6109zfbq33pky7sr47m7wwwd7ps2l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTEzMjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzg5ODIsImlhdCI6MTUyNDkzNTM4Mn0=.FjY1CTVXFWW6FllEwdGEOIDkoUCCJOFrjyKl5De5WD6A4mpu5OXV2v_nRplULMFxUAeDMp8PrQVGZ_4mNT0IlQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTEzMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwMTgyLCJpYXQiOjE1MjQ5MzUzODJ9.itYUyQ_OzjpMXVvSo1fI4hrUBqSZkSkibs7BPTbRAMHp6NPGxokBzDdoERzEYcdfJc3-utNKM7f1idR-y0k7LQ==
+.twitch.tv	TRUE	/	FALSE	0	login	p_lilianau0c_f
+.twitch.tv	TRUE	/	FALSE	0	name	p_lilianau0c_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:09:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b786809fe9eeeb8af797c602d3efacb4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbGlsaWFuYXUwY19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4NzM4MiwiaWF0IjoxNTI0OTM1MzgyLCJub25jZSI6IjVHM2M1UENKUDk0R0c3OGE4YnlYLUlQb3EtLV9HZlZBTC1DSENNM0dJbEk9In0%3D.oLCvnpAgE1LkXN1RF9tYb667D4GoGWavFJZ1vi0lvoh1wLB50prDC7Y_7vp09PRtYpf6BMNy8MH8aX9zvr_hYQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221l1jys5uejdjb51weiepzbfygyj5sb%22%2C%22displayName%22:%22p_lilianau0c_f%22%2C%22id%22:%22217291323%22%2C%22login%22:%22p_lilianau0c_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1l1jys5uejdjb51weiepzbfygyj5sb

@@ -1,0 +1,14 @@
+#q_leslie062_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	so0K8iu%2B%2FFd09zWbRQOp5KOp0a7F01i%2FeXfvyWaW%2F50%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5bb5845717e85c86
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0aa07b4cb530a396ab6a9bada456419e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453509%3A%3Ayxt5geb7nefl0cu5d03sp8utquv2h1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM1MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE1MDgsImlhdCI6MTUyNDk5NzkwOH0=.S8-ajIaYSbs2lEx_xXHxW0J3K-6KrPZh9ephihfuGtlPLv8kuHmEGM7sn74Hv6ydsfhk7LwBNHmsbzI13S7NXw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM1MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyNzA4LCJpYXQiOjE1MjQ5OTc5MDh9.WvklUbLd5kmMIryD_KRPXygjNWHTEE_dkQbR4nRSxukRMe45PSnfxRJKt88nUtsvyC0C9SUjbdMUAwqbQPUQtw==
+.twitch.tv	TRUE	/	FALSE	0	login	q_leslie062_e
+.twitch.tv	TRUE	/	FALSE	0	name	q_leslie062_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:31:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	895e348eac56fc1640e625e5aa26231c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbGVzbGllMDYyX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ5OTA4LCJpYXQiOjE1MjQ5OTc5MDgsIm5vbmNlIjoiRGFkNE51eXBjSWNBMTd0b0sxNENMYnBDNFpfdEN2dEZWdl9FWldrWDZhaz0ifQ%3D%3D.x2rgf1FtDhiI4zx7iqsljCBR5hN6G-CjpaEFwHydVfR1go0aXG8chy4jPAUJuSQRBTNL-IAsgR4V9TV9jj7C2A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222dvu7l9fliso76te2dko92j40i4z7p%22%2C%22displayName%22:%22q_leslie062_e%22%2C%22id%22:%22217453509%22%2C%22login%22:%22q_leslie062_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2dvu7l9fliso76te2dko92j40i4z7p

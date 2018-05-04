@@ -1,0 +1,13 @@
+#h_juliaf6x_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YjKURUbPN7prg6yw1ylis8QUQbORf7ZpY1TyEivnbY0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:35:48+00:00	unique_id	ddb9e6cd1054660d
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:35:48+00:00	_twitch_session_id	8dc9b050673d537658ebc042ff10d8bb
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:36:11+00:00	persistent	216935980%3A%3Altcla4ladtpd9cet4d2l84uoa9g1p0
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:36:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzU5ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5NzcyLCJpYXQiOjE1MjQ3NzQ5NzJ9.rZ7UZg60NbE4j5sb7zLSidT4c9bka2p3wdz5MpKxhlbFQn3JTF4juzO9uTT7NbZt4C08axV7ud7tQBeVTns-Wg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:36:11+00:00	login	h_juliaf6x_j
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:36:11+00:00	name	h_juliaf6x_j
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:36:11+00:00	last_login	2018-04-26T20:36:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:36:11+00:00	api_token	79290df20de1613a9b11e538795160b1
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:36:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfanVsaWFmNnhfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjY5NzIsImlhdCI6MTUyNDc3NDk3Miwibm9uY2UiOiIwa0RZeUtkRkdtUzQ4NnA2SU1Lb1ppNklxMmFleFRUdE50UW5TQjdjRzRRPSJ9.TtuauMYogMPnTUgdlCnA8eEPXksvLDhiSt560V6lToy1uZxOM0B9Luaf5cdunFFZ_iJrp_jSDpgYH74it5FWnw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:37:42+00:00	twilight-user	{%22authToken%22:%22v2n72meki6l20gapbnv1301kcx7z7y%22%2C%22displayName%22:%22h_juliaf6x_j%22%2C%22id%22:%22216935980%22%2C%22login%22:%22h_juliaf6x_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:37:42+00:00	auth-token	v2n72meki6l20gapbnv1301kcx7z7y

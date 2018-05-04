@@ -1,0 +1,13 @@
+#b_steven22k_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Lw0N%2FQlfLXCyjWv7JgjHG8qevbM2EwCP7F2aQ23JW64%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:26:15+00:00	unique_id	c69c25de04ef488a
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:26:15+00:00	_twitch_session_id	1b9b6f26dd74007e4f24bfff72171a14
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:26:37+00:00	persistent	217566200%3A%3Atc0s13k5tvkfmroi3m44zddr0q843b
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:26:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjYyMDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4Mzk3LCJpYXQiOjE1MjUwMzM1OTd9.IeUjGu1ODYm8c2fb9lSs-W2zh11uDHRgkYUVnGPNxK4POSFB4Xa9Kwg6bpgw2fstimaQYxW7-LUeTuQ9WW-bkA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:26:37+00:00	login	b_steven22k_a
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:26:37+00:00	name	b_steven22k_a
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:26:37+00:00	last_login	2018-04-29T20:26:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:26:37+00:00	api_token	1a702279d8d1a25aa996583a074781ff
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:26:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc3RldmVuMjJrX2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg1NTk3LCJpYXQiOjE1MjUwMzM1OTcsIm5vbmNlIjoiTXAzMEhscU4teUZRTnNrTUFkS2cxSW1WblRrVUdiVHhzVzFmQ3lzQW1SWT0ifQ%3D%3D.R2uU9H2Zqk91umCa-YJgJrauYg2CraSYwGOJ4QjoB_eXR-LPmIyYuoaRjWQQYUsaQ7DDocTs_XGoV4rdhyGPuQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:28:24+00:00	twilight-user	{%22authToken%22:%22y3j1khicosbw55yoyneqth6a9c9u99%22%2C%22displayName%22:%22b_steven22k_a%22%2C%22id%22:%22217566200%22%2C%22login%22:%22b_steven22k_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:28:24+00:00	auth-token	y3j1khicosbw55yoyneqth6a9c9u99

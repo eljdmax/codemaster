@@ -1,0 +1,13 @@
+#z_kellyx5d_z
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ4NTM5MDQsIm52IjowLCJ1cHQiOjE1MjQ4NTM4OTMsImx0IjoxNTI0ODUzODkzfV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SDyEjhDilZ5uEhL56GC60TaSWHYHzd2TGr4AOA8DvAc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:34:11+00:00	unique_id	5673cdab210c7f13
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:34:33+00:00	persistent	217077018%3A%3Ah8vlimfsiac3g87hmzjg6kec76cz69
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:34:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzcwMTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1MjczLCJpYXQiOjE1MjQ4NTA0NzN9.NJbawoGzoVqP2UDfI7rq2HviY-dYQJGqL1UvByBd5gg0-rTRWaN0azPl3TTwi8jXYC55FGtiGtVLdptESPAkwQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:34:33+00:00	login	z_kellyx5d_z
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:34:33+00:00	name	z_kellyx5d_z
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:34:33+00:00	last_login	2018-04-27T17:34:33Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:34:33+00:00	api_token	837743c59b73bfabdb700689127d5d9b
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:34:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfa2VsbHl4NWRfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDI0NzMsImlhdCI6MTUyNDg1MDQ3Mywibm9uY2UiOiJIb1FqcGVXcTlPWjlwcXNpMTRPanJWYndiM05vN0UxRUk3UWdHeV9xbkVBPSJ9.qauh1dccuhA4xNqVZ4qrJTrb2YAjgr4m39YirjWnpXg9rvE3MHHVaGNpWn-mgry7nTIIPoobP8tytSbC-9npKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:36:08+00:00	twilight-user	{%22authToken%22:%22gvp79sqh9yndxxkxfmcfjkh2ft8ksa%22%2C%22displayName%22:%22z_kellyx5d_z%22%2C%22id%22:%22217077018%22%2C%22login%22:%22z_kellyx5d_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:36:08+00:00	auth-token	gvp79sqh9yndxxkxfmcfjkh2ft8ksa

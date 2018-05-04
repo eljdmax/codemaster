@@ -1,0 +1,14 @@
+#u_kate02c_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nbpRZKadelRECcUjLKzi4PLOQdW9igO3j4ZIHafZGX4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:14:49+00:00	unique_id	b2c608268097b71d
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:14:49+00:00	_twitch_session_id	1ca543a52a8c5b8adfbd4f7cc8407d51
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:15:05+00:00	persistent	216485113%3A%3A9pnhc2207ymu9um4ttces7lji6oyzu
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:15:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODUxMTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2OTA1LCJpYXQiOjE1MjQ1NzIxMDV9.qnBba2GT2izRxOx2-GzW--f8SYG0TJu5fjg_JHZRbLZUh2erbF5x_Z0rKaf4AaRlK8LMkKaQX5kkfKbTDqVaxA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:15:05+00:00	login	u_kate02c_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:15:05+00:00	name	u_kate02c_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:15:05+00:00	last_login	2018-04-24T12:15:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:15:05+00:00	api_token	292b23ffbe7b617186a5f6dc10774cc3
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:15:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfa2F0ZTAyY19zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNDEwNSwiaWF0IjoxNTI0NTcyMTA1LCJub25jZSI6IkUzOVpkVVl4RkdTd3NIMVJRTmpZUkp0T1FBb204cEdMZVVlVEt4NzVzNDQ9In0%3D.4FPTvaFDnVwURMDYN1d6MtnVNn773YBbUqQle5mt74hILcaHFKldS7xavyPRKisRcF_x4N4sAFIYlSGbI38Tbg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:16:24+00:00	twilight-user	{%22authToken%22:%22gbgtqh0b86rznx8x0kppo88nilf018%22%2C%22displayName%22:%22u_kate02c_s%22%2C%22id%22:%22216485113%22%2C%22login%22:%22u_kate02c_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:16:24+00:00	auth-token	gbgtqh0b86rznx8x0kppo88nilf018
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:16:25+00:00	twilight_onboarding	true

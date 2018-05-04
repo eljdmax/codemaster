@@ -1,0 +1,13 @@
+#k_hopev89_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	SLzJyLUw3cfP6nZzO86u1JlHsnfg%2F0PVcbjYMGE1nYg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0421695c4fc01515
+.twitch.tv	TRUE	/	FALSE	0	persistent	217226890%3A%3Azscg9nd5bg52qjk0lyey2ncmjbhwgk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjY4OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTg2MTMsImlhdCI6MTUyNDkxNTAxM30=.KH49rWhpZyYx_BC1MQ7gSNFNvJmfEkEef7Bgx1kYCqKt_ImpqHxuqLb97pSWvg-_iL4WfQMwBwK1Yjbv19Hwsg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjY4OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE5ODEzLCJpYXQiOjE1MjQ5MTUwMTN9.cMkVomCPyBOr1bFv_ZPCDY2tCsCO1Eoi3hEI7IGbiXISsI-HYC-pWyGK6xqV9EHxLl9_D2bTP6cKwcmUqbcx4w==
+.twitch.tv	TRUE	/	FALSE	0	login	k_hopev89_z
+.twitch.tv	TRUE	/	FALSE	0	name	k_hopev89_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:30:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	68dcf46e311080e1efd5f9ffe5f8a8e2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfaG9wZXY4OV96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ2NzAxMywiaWF0IjoxNTI0OTE1MDEzLCJub25jZSI6InhfS2hPelpabVp0NHNVS1dYUmFxX3d5NGFHRjQ3STlMS2Y4M2kxZUZET289In0%3D.cpv_WELDHYYd6fx3ImGV9uzfwJ-oVLuwoFkoS6fDSA8Cmi9IT5OpLrSE6aML3wOsHRFX8_tsS6jHwt8qtAQiMg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22i3llfihhhxg76h561yx97syou36gho%22%2C%22displayName%22:%22k_hopev89_z%22%2C%22id%22:%22217226890%22%2C%22login%22:%22k_hopev89_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	i3llfihhhxg76h561yx97syou36gho

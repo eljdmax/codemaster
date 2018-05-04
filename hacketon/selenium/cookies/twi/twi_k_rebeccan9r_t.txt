@@ -1,0 +1,12 @@
+#k_rebeccan9r_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	wZ5Co%2FDhoPzPK%2F0Bm%2BEIhFShN%2FG9C7RnKS7zkxXwxjU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:54:20+00:00	unique_id	9d093597d7baf07f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:54:46+00:00	persistent	216489479%3A%3Azfvrqt3j1eh5x6jrz6se5a61ak2b7y
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:54:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODk0NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5Mjg3LCJpYXQiOjE1MjQ1NzQ0ODd9.TLAg8ylquaYJFK2pgM670r3ftnbxp8hnf7gI8Ejp4lkF2bmHmokGFLYmRnYDv-SSkdKdS3YkoVmykk5TXHUkMg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:54:46+00:00	login	k_rebeccan9r_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:54:46+00:00	name	k_rebeccan9r_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:54:46+00:00	last_login	2018-04-24T12:54:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:54:46+00:00	api_token	7792279851d8bdf18dea7dff853bdd42
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:54:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcmViZWNjYW45cl90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNjQ4NywiaWF0IjoxNTI0NTc0NDg3LCJub25jZSI6IlRnc1lzUVZWdXhCNkNUYkVzOGZXUlhnTDRscE9PemJfQnh3NE83M3NLOXM9In0%3D.8vbr0vAph1OxKtcnTRyg9pAcRO5gS8nYDP6lzytfCF8uvA3Il-H8jlFyBD2XbihsSNvmQFXKsIG3YC2POBhlKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:56:08+00:00	twilight-user	{%22authToken%22:%22ig7dke4n5njgx09n3qq211rl0fatb7%22%2C%22displayName%22:%22k_rebeccan9r_t%22%2C%22id%22:%22216489479%22%2C%22login%22:%22k_rebeccan9r_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:56:08+00:00	auth-token	ig7dke4n5njgx09n3qq211rl0fatb7

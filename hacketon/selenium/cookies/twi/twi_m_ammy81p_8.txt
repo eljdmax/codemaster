@@ -1,0 +1,14 @@
+#m_ammy81p_8
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQwNzg5MTYsIm52IjowLCJ1cHQiOjE1MjQwNzg5MDYsImx0IjoxNTI0MDc4OTA2fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	w8EgW4pVYzyBls5B0DqyAycgGYqwJS9f5kyFVnhWyrY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:18:25+00:00	unique_id	964c66136486fae7
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:18:25+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:18:39+00:00	persistent	215244635%3A%3A9llky8uiw2r342cnorr65vd3f1gnuc
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:18:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDQ2MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMzE5LCJpYXQiOjE1MjQwNzU1MTl9.QqSMthTwMy-FIdbidERV9symxdIZzmKse2nMFG7rBHMD36sYDJBExoMO-0YsNn9Cqm4KwceemgTPy3kibHXGZQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:18:39+00:00	login	m_ammy81p_8
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:18:39+00:00	name	m_ammy81p_8
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:18:39+00:00	last_login	2018-04-18T18:18:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:18:39+00:00	api_token	e97db7bfcdf2bcda4543ec4ce1562063
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:18:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYW1teTgxcF84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNzUxOSwiaWF0IjoxNTI0MDc1NTE5LCJub25jZSI6InVVMGRCNkUxcjNndVZjdktIWUhkaTdVQy1tMDVSTFloYjl3eHdHUzFSOUE9In0%3D.GGPuxT4u8YgoHHOjkc2_gfjW9GyKk0TgF5qLpLbjoslD2LgEV1gsd0guuIWVVrhZhMIOdhEvPmz4xSHlEUKK-g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:19:31+00:00	twilight-user	{%22authToken%22:%22aju1r09ozohd0jwg71n825cg0jyn3r%22%2C%22displayName%22:%22m_ammy81p_8%22%2C%22id%22:%22215244635%22%2C%22login%22:%22m_ammy81p_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:19:31+00:00	auth-token	aju1r09ozohd0jwg71n825cg0jyn3r

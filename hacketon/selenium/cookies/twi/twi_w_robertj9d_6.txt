@@ -1,0 +1,13 @@
+#w_robertj9d_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CNgfasYMj%2BNh3yBMnafnbetf9BAihcP74kDGF7dvQKE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:29:20+00:00	unique_id	7cba019503073c03
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:29:20+00:00	_twitch_session_id	b0f7a56c018afc21ecd672389de69a34
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:29:45+00:00	persistent	217552766%3A%3Ag7iq65spx7cnvzvldzszbofc0bx56n
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:29:45+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTI3NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0OTg2LCJpYXQiOjE1MjUwMzAxODZ9.mluMdKzFjRURZcHYPko6ZPOMFnbMtxCU-8vsqBCTXP4HsEAvXEpf0_ZMjESyaron374ZmKSpAEUaMlCLkc-xSg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:29:45+00:00	login	w_robertj9d_6
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:29:45+00:00	name	w_robertj9d_6
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:29:45+00:00	last_login	2018-04-29T19:29:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:29:45+00:00	api_token	8b6e1fc56c432e2d2ba73b4d37aa6a9b
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:29:45+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfcm9iZXJ0ajlkXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgyMTg2LCJpYXQiOjE1MjUwMzAxODYsIm5vbmNlIjoic0ZQemEwcVdpY0owSm1yR2ZKbE1pb1lzTnVZUG9SYVd1M3pjUENsd2RKWT0ifQ%3D%3D.5jTkGeGlwulAlvUjeIpbdjW9BqC6hewoitVLduLNQ88LXheSt9d0x5yM2xim6YSXYTnvbkgWjquAzTJR4iaoQw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:31:30+00:00	twilight-user	{%22authToken%22:%22i9aytd0wd7mx6qfz5akp308ddulxwx%22%2C%22displayName%22:%22w_robertj9d_6%22%2C%22id%22:%22217552766%22%2C%22login%22:%22w_robertj9d_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:31:30+00:00	auth-token	i9aytd0wd7mx6qfz5akp308ddulxwx

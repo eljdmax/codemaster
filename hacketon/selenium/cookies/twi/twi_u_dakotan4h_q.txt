@@ -1,0 +1,13 @@
+#u_dakotan4h_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6kFFyg6A6FPnO5J40iUvm4JRWvnkS6V1G7IlvP%2FpPiU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5b932879ffd6a3fd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217451783%3A%3Aiyxfb2f12kjstf0wo01z992cc0cgxh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE3ODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDA1MjIsImlhdCI6MTUyNDk5NjkyMn0=.SgIZ227DYEw2t5bbtRcqzGSeRcQhrCiHQcyzrrrU2vSvVq3_ijmq0C-tHCutz-ir63ODR29C8xdc88kIabm7tw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE3ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAxNzIyLCJpYXQiOjE1MjQ5OTY5MjJ9.ZeRZK1odi-rl0tvzHFXbXungY_vPwayohbvyyChF47HeyOMNIKA6TJgheB-R3KEdKlJpMBbXIaL3w4gbtSOv9A==
+.twitch.tv	TRUE	/	FALSE	0	login	u_dakotan4h_q
+.twitch.tv	TRUE	/	FALSE	0	name	u_dakotan4h_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:15:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a8ec2861a7902fac46605b98d94b76a8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZGFrb3RhbjRoX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ4OTIyLCJpYXQiOjE1MjQ5OTY5MjIsIm5vbmNlIjoieFBZYU9xd1pxQmhPR1NNRzJ4TzNoNG9Mck5RQjczYThXNmRFdC1nRFNPTT0ifQ%3D%3D.P9mmxmLbpmtimGfTp07D2zZ7g0GGDa7cLnWbJ6CsGHkLyY9GE8C-84f6HWx8E7QqMV4pBcS7tosg9XVITKWmjg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22598el4aghlgxl9435zcfahsmmyqxbi%22%2C%22displayName%22:%22u_dakotan4h_q%22%2C%22id%22:%22217451783%22%2C%22login%22:%22u_dakotan4h_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	598el4aghlgxl9435zcfahsmmyqxbi

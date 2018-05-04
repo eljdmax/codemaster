@@ -1,0 +1,14 @@
+#g_jesusa8i_c
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JMklGGZIiSLCO9ZRa6YEeynlClevBZZjk0AxWoN32Zc%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:30:16+00:00	_twitch_session_id	4586774002d81b895bee4af0fbd165d7
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:30:41+00:00	persistent	217076301%3A%3Abjhbsrlt9kvaeq7no89q07nv8npz6x
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:30:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzYzMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1MDQyLCJpYXQiOjE1MjQ4NTAyNDJ9.jc9Yg1tucysYRcIL40v2cYKd5b-S39NMmx2UXqRbm-plncaAgMrYqAWL8CindNt2Bwh3UiE_OPCfs1f5Zt3pBg==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:30:41+00:00	login	g_jesusa8i_c
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:30:41+00:00	name	g_jesusa8i_c
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:30:41+00:00	last_login	2018-04-27T17:30:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:30:41+00:00	api_token	f3a9b9f1898a1d467a314265d7175a32
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:30:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamVzdXNhOGlfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDIyNDIsImlhdCI6MTUyNDg1MDI0Miwibm9uY2UiOiI1TDQtM2R4dENXMWtrbVBBYWxDOEZ5R1JEYUtlMVl1SEpZUndGbEtLT3FJPSJ9.RZf-ycAV2E-QFsMfJlXXLFYqavl_U2J5wVycTfxe3e6GqXgQgBzacmqr0h_jMQMWKJ3yWGt9x1bPGznw3sISPw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:32:19+00:00	twilight-user	{%22authToken%22:%22mpin9xdppclg3ejotpc364hud2yfa8%22%2C%22displayName%22:%22g_jesusa8i_c%22%2C%22id%22:%22217076301%22%2C%22login%22:%22g_jesusa8i_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:32:19+00:00	auth-token	mpin9xdppclg3ejotpc364hud2yfa8

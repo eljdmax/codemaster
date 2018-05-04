@@ -1,0 +1,14 @@
+#n_nicole85m_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	OX3Xd8CFWjC6kXcCw%2B9f1FN49rVC01WtLJ%2Fma%2Fmzbl8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5c25b9c27bd5de7c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	eca743c12d6ef30cc563f9c284ae5515
+.twitch.tv	TRUE	/	FALSE	0	persistent	217443347%3A%3Af44ja7frppsn01sg2u40zoh5wx3nfk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDMzNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTYyOTYsImlhdCI6MTUyNDk5MjY5Nn0=.u7eJANpNcn1JGSKcxeiniAKV-nPou0ArDQ3NPK8HGWyEdpZrnNTsheSx2MNLZqeJ530805NCqgNybveKgMSbiA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDMzNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk3NDk2LCJpYXQiOjE1MjQ5OTI2OTZ9.mOXpwTSfuvi2LuUQ6KeAVUUPtfYcAQHM_e0STvQVi1nSr0IlcXH0gnQoUrzq9t4twif1E3WhcKWjUOgMjzvVQQ==
+.twitch.tv	TRUE	/	FALSE	0	login	n_nicole85m_w
+.twitch.tv	TRUE	/	FALSE	0	name	n_nicole85m_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:04:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b93caa8316fe47a0b0e525d26111d4df
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbmljb2xlODVtX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ0Njk2LCJpYXQiOjE1MjQ5OTI2OTYsIm5vbmNlIjoiU09FM2JoX19pY082MXJ2clRHSk16ZFNBclpmdVpfUVROaGpsSC1sc1NXND0ifQ%3D%3D.gQW-59dweoB1xQpCC5NxWKtqf9itNnTPmDrPJQeB_Dr6B48dDwkHzyQ5fn3gs4yMUw2qJXEMj-6MnCPX0N0Lsw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tbsnonv7e3aodeey4h850mtsjxpzml%22%2C%22displayName%22:%22n_nicole85m_w%22%2C%22id%22:%22217443347%22%2C%22login%22:%22n_nicole85m_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tbsnonv7e3aodeey4h850mtsjxpzml

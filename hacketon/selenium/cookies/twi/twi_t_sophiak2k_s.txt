@@ -1,0 +1,15 @@
+#t_sophiak2k_s
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=e4e118fc9f87e1ce:T=1524993173:S=ALNI_MbrWAhnXhRKJY9TiuSfc-1WGxiCQQ
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BcSf%2Bmn8V%2Bp%2BJJA5jJLUYZQDwzAGsqJoNyMCFANJM3M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a870344a1df3784b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4f2c85eccab2b6c38b1a1b182ad9907c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217444581%3A%3Aaib2137b4z9cninqdadcbn8wa7h1nw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDQ1ODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTcwNDUsImlhdCI6MTUyNDk5MzQ0NX0=.cyojIRrC3Y1XLmRFvGR5fo2cNkkE9WVaW25AwYNkF-hmuMSvAU-gncVqxoY4lC6cKxuCVslHLnPXR7-mKlZVcA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDQ1ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk4MjQ1LCJpYXQiOjE1MjQ5OTM0NDV9.hmIPhohtDJLzzKk46UIog_lT6sVYXTgMO8V1ebr6Ua9sUJftqLZYJ5lnzMkAOwGGDQpVmtiS41zsYYO2v25ltg==
+.twitch.tv	TRUE	/	FALSE	0	login	t_sophiak2k_s
+.twitch.tv	TRUE	/	FALSE	0	name	t_sophiak2k_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:17:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fc20e521047a264dbf472ea7ba05f1c2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfc29waGlhazJrX3MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ1NDQ1LCJpYXQiOjE1MjQ5OTM0NDUsIm5vbmNlIjoieF9xSjctcGJ5MTZkTG15bWlrWTV4b2FEbHJiUmJBRjl5MTl5czRPVkJlYz0ifQ%3D%3D.6eQSmkL3HciACRHFjTX6d2xne1fEITbeajScxl9SL1Iw1E_RZY0T0Y8D0QiE5TxgObVJRgQKXwQqsDJsO3529A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jrg0fe8v9b83wheemv7b9db6wm9dac%22%2C%22displayName%22:%22t_sophiak2k_s%22%2C%22id%22:%22217444581%22%2C%22login%22:%22t_sophiak2k_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jrg0fe8v9b83wheemv7b9db6wm9dac

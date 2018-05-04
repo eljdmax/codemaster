@@ -1,0 +1,13 @@
+#k_alany4d_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fediPLxwSiX2ahRw4Rw%2B57p4GjgtiFHR3Y0QhjqWFrY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:37:27+00:00	unique_id	f9a614e321d0a7b6
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:37:27+00:00	_twitch_session_id	b98aefbeb4fe4eb4127bbed4b927df0e
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:37:47+00:00	persistent	216946348%3A%3Apy104drggfntkqecybaflxnfiuhzp2
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:37:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDYzNDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzNDY4LCJpYXQiOjE1MjQ3Nzg2Njh9.9BRJwg7OSEBlxpZf6oQMMRRb1xOxYLiEvhdCOIr6eJRH12Bx15jJFjY0TL8690ncSBeNMTseExLNRSh5DObfiA==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:37:47+00:00	login	k_alany4d_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:37:47+00:00	name	k_alany4d_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:37:47+00:00	last_login	2018-04-26T21:37:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:37:47+00:00	api_token	bb440aa7a6f909d190baa1c7736c9ce7
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:37:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYWxhbnk0ZF9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMzMDY2OCwiaWF0IjoxNTI0Nzc4NjY4LCJub25jZSI6InVCaUFiMWFXVTI4U3FMaVFDMTlkVEF1aWhITy1kVjR3N25JYW1lOWpkS1E9In0%3D.O_7vP1QujSY9ZrDSg2eFYlH6B4Ab3X18PfKoOod3TYVXWPpB_j_0SCoRLxrLHQBT7pLqy69W9VZEgOHqcI01GA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:39:20+00:00	twilight-user	{%22authToken%22:%22cxchq6wbzt5zu422a17s0dqs531x2u%22%2C%22displayName%22:%22k_alany4d_d%22%2C%22id%22:%22216946348%22%2C%22login%22:%22k_alany4d_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:39:20+00:00	auth-token	cxchq6wbzt5zu422a17s0dqs531x2u

@@ -1,0 +1,13 @@
+#c_angela28m_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LcG07%2FZJa5cqGEhDDW6XBOu7pVZjmIxbTLnOjmsomKs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:05:58+00:00	unique_id	6a6a6e26959412b3
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:05:58+00:00	_twitch_session_id	a10243698ce0a7b01ae01258dab4e72c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:06:18+00:00	persistent	216484225%3A%3Aioodhzgtwzl13w41vli3v0z4tslkai
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:06:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQyMjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2Mzc5LCJpYXQiOjE1MjQ1NzE1Nzl9.CloisfoNzdm3kY3Nz7CsJihKAOUfp36uwlSK2oiUQPsoHj-6lsxxR6cVXtk1mpKJyieikEWFS5WS-FMwFK62PQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:06:18+00:00	login	c_angela28m_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:06:18+00:00	name	c_angela28m_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:06:18+00:00	last_login	2018-04-24T12:06:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:06:18+00:00	api_token	68818e39118b9e6a2fbdaaeed6e7f484
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:06:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfYW5nZWxhMjhtX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIzNTc5LCJpYXQiOjE1MjQ1NzE1NzksIm5vbmNlIjoiWDU5WGlGenNHLXlxVmlmVzByZHhjNS1oVC1QNU00RmN3ZldhSkJ2MFE5ND0ifQ%3D%3D.V7kxEucljapuU7CYQNEDBawZHWZ1mn6JCgo0IJjRFMrjT-vEZDUeVJW4rGRpujNFYGeWxlN-ztYhprTkTO4kDg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:07:41+00:00	twilight-user	{%22authToken%22:%22wiudr0gs931ei108rrmljouab019dw%22%2C%22displayName%22:%22c_angela28m_l%22%2C%22id%22:%22216484225%22%2C%22login%22:%22c_angela28m_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:07:41+00:00	auth-token	wiudr0gs931ei108rrmljouab019dw

@@ -1,0 +1,13 @@
+#t_gaviny6v_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	FP2HpqAsi2CBTP6fve%2FZvxMTw%2BVlciWax6gG52c6qCw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:28:40+00:00	unique_id	933fab5136cc24f0
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:28:40+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:29:03+00:00	persistent	215246667%3A%3Asj5d8sjctmd3waf3m513cmvddha8gv
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:29:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDY2NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwOTQzLCJpYXQiOjE1MjQwNzYxNDN9.NaqvHe4P4ybD1wJdAz08Ba81kdLRVSDJCZtdAeIssJdtRe0zmqYZfgDqvVqYO-pLrg1761sjpem3oa7VPGk7jg==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:29:03+00:00	login	t_gaviny6v_a
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:29:03+00:00	name	t_gaviny6v_a
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:29:03+00:00	last_login	2018-04-18T18:29:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:29:03+00:00	api_token	8ba0e6f04e5cd86b97f5eb3f9e49b8bd
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:29:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZ2F2aW55NnZfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjgxNDMsImlhdCI6MTUyNDA3NjE0Mywibm9uY2UiOiJ6N2NlbUdZVjNSRlZWb1VGc09MMnFhM3VZd2lQMExMeDVxQmpoWVZRRUUwPSJ9.M6i7aocLc3jaRe0vAyoFvSMCh8t1L28RT7UtryBD6dCSt5QebwEftmCisi-ydncLPbezO5oeQFE2u0nD5uaDaw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:29:56+00:00	twilight-user	{%22authToken%22:%22hlvogekauw6tzomw4yiyemr1vwfjji%22%2C%22displayName%22:%22t_gaviny6v_a%22%2C%22id%22:%22215246667%22%2C%22login%22:%22t_gaviny6v_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:29:56+00:00	auth-token	hlvogekauw6tzomw4yiyemr1vwfjji

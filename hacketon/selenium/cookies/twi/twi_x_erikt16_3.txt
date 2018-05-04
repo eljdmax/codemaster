@@ -1,0 +1,13 @@
+#x_erikt16_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	v9Ggvj02%2FBSFMvb6UIz4JXkYD%2FD2YNWJXaZXgBJ9PkE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:31:28+00:00	unique_id	b110d338a8b30fb5
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:31:28+00:00	_twitch_session_id	cf9490fb4451d87e7e356a0098564856
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:32:08+00:00	persistent	216486949%3A%3A9xx2aeag594p1pjbsmxhl3w1feilxr
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:32:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODY5NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3OTI5LCJpYXQiOjE1MjQ1NzMxMjl9.Bu3xnUkUglp385N3MK2dJQzWmF0gOdc9iCmNjrTaOyJcSxSP0kL2YiW5ya6U6mHYTucTGoJKm7tV7eZQoTHqPA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:08+00:00	login	x_erikt16_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:08+00:00	name	x_erikt16_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:08+00:00	last_login	2018-04-24T12:32:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:32:08+00:00	api_token	0b629d4fbca6656f6e0f33891125905b
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:32:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZXJpa3QxNl8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTEyOSwiaWF0IjoxNTI0NTczMTI5LCJub25jZSI6IlM5cjhONmwtYnhRNkpiVVc0NGthSmRYR1E3QkViTXY1Y3NYZ2ppbjVrU3c9In0%3D.y-WXLR1a-LAx9gfiI2bbB5PU92cCc4n_28sM6W4UY0mf7t9_qAVlLCQCuCTu-WHJtJ3T1xb7nGSQDAei0DWllg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:33:29+00:00	twilight-user	{%22authToken%22:%22oun63rhgvq3jmp3fgb0dgkt22ywz1h%22%2C%22displayName%22:%22x_erikt16_3%22%2C%22id%22:%22216486949%22%2C%22login%22:%22x_erikt16_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:33:29+00:00	auth-token	oun63rhgvq3jmp3fgb0dgkt22ywz1h

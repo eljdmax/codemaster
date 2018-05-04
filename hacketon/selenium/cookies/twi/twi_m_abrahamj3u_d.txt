@@ -1,0 +1,12 @@
+#m_abrahamj3u_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	iLea9SsxV%2BHWpivVleFkSR4YBN2eO%2FqyL3DV8X9rjyQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:38:49+00:00	unique_id	786824953fb5c662
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:39:12+00:00	persistent	216487735%3A%3Ahsm2zshzlqq0oxby01jnv243ai4emu
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:39:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODc3MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4MzUyLCJpYXQiOjE1MjQ1NzM1NTJ9.BYAmnWqJ6KfuZC2pz3swNjcGf43DcQUYHowojWt7C2JlEBfdiaifg4FcDtp_Z4TOb8FYb8zQ1ZjAs35bbkj5wA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:39:12+00:00	login	m_abrahamj3u_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:39:12+00:00	name	m_abrahamj3u_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:39:12+00:00	last_login	2018-04-24T12:39:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:39:12+00:00	api_token	c4c872d4c470a5844f141b1c185c81b9
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:39:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWJyYWhhbWozdV9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTU1MiwiaWF0IjoxNTI0NTczNTUyLCJub25jZSI6InFnd09DNmdGYnNxWlVEbEY4c3g1RVV4S3BNcGpVUXhUVVBRTEtkeHZQRDg9In0%3D.W7-ZPGtobgp_V4rSUPDdbJhIUS4UqTxckfF-Rmx_PZ1M1OHhuo35oj3q0t9Z88HeOFdym3XieJjCCPvJxTIRgg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:40:32+00:00	twilight-user	{%22authToken%22:%22f6llhwh1dlz2c3nzknyq7rh1i50yvi%22%2C%22displayName%22:%22m_abrahamj3u_d%22%2C%22id%22:%22216487735%22%2C%22login%22:%22m_abrahamj3u_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:40:32+00:00	auth-token	f6llhwh1dlz2c3nzknyq7rh1i50yvi

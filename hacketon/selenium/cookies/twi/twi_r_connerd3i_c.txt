@@ -1,0 +1,15 @@
+#r_connerd3i_c
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9b6707a3827fb8e4
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ufw7n3539wk6v1ikcclppcs1ksi4jg%22%2C%22displayName%22:%22a_megan37x_e%22%2C%22id%22:%22217230287%22%2C%22login%22:%22a_megan37x_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ufw7n3539wk6v1ikcclppcs1ksi4jg
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CnemPNmQrASFP%2BjlDlN%2BDR21kHbmuTtHWRoPmPm27c0%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b5cc3142bc6b37d89d7c08565934eaf8
+.twitch.tv	TRUE	/	FALSE	0	persistent	217230862%3A%3A7hmvkcu4o8uz4ydq2g371j7s63pctx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzA4NjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjA0NTgsImlhdCI6MTUyNDkxNjg1OH0=.aYDGiEJzbeZ-wt_NRmZycskK__3fLpf5QI2sea2v1cKCW5XhJcnSKjZwINwzPefFDKCQjuaoFhz5szgdAoDorw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzA4NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIxNjU4LCJpYXQiOjE1MjQ5MTY4NTh9.gXS9TPISLqokqAbYgkZwMYNX4CO4F1Eh93ssP6Rq0mpEJIaZS38MWdXDx9Sd6Rtc8__XtUYQ6QFgLHh3gvfCJw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_connerd3i_c
+.twitch.tv	TRUE	/	FALSE	0	name	r_connerd3i_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:00:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5af69c1b6fdbabb566e35489c93d4013
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY29ubmVyZDNpX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY4ODU4LCJpYXQiOjE1MjQ5MTY4NTgsIm5vbmNlIjoibWkyZ2ZtT1ZsYnd5MWFNVDJ0QWcxSFoyR2JDdmYzRDVFTU9MMnZILTA0UT0ifQ%3D%3D.2YC-QOu5kJhi-tNC_fA9lwo48m-a6qcDAaDsMKPwVS-B75MFe_ZiErLVKzmXeZV81dFGEOhluJszhu4LI46HQA%3D%3D

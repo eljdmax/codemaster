@@ -1,0 +1,13 @@
+#d_alexa39n_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XVjL%2F%2Fr0ZEvQ1J5b7rrg3vq95wFU%2BCz5%2F7Ia8ddRRzc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	bbb0f964c03901f0
+.twitch.tv	TRUE	/	FALSE	0	persistent	217233155%3A%3Aqyx066kqj7forj80wqmid4s59q7f8g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzMxNTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjEzOTUsImlhdCI6MTUyNDkxNzc5NX0=.5ORAsbcNZnZv9lqNc2Ba9qZdCeN4g3czzjS7aEkxY4Ads4XXAOmyegguUkmN3hLHXQNchFWQ2ZxMDS8K71t15A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzMxNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIyNTk1LCJpYXQiOjE1MjQ5MTc3OTV9.DRBcHeecOu5qWgb3q2tXUW6g_a_J-VRJLDeNRW9JqL3ux9M7ZwfMkdWJUsNjtAFnSE8mxdfRmvBSaT55CTipMA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_alexa39n_w
+.twitch.tv	TRUE	/	FALSE	0	name	d_alexa39n_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:16:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	eee3b77c814ddcb61414713917bbc4e8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYWxleGEzOW5fdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0Njk3OTUsImlhdCI6MTUyNDkxNzc5NSwibm9uY2UiOiJkZFVzZ1k0d2xXUy1FZ1ZZQWhuUW9Sb3R6UTVTbktvNkxyclZvZklFWFMwPSJ9.EdpF-QGvQJIJpILSjp3JawDKoPuIyufp4CwkrZYsYQEwcWyMcN8eARDJR1x-jDX4j94xy7CNJmeoWSb_HYuNyQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222bfvmaymmazieq1cduela3ql04dv7z%22%2C%22displayName%22:%22d_alexa39n_w%22%2C%22id%22:%22217233155%22%2C%22login%22:%22d_alexa39n_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2bfvmaymmazieq1cduela3ql04dv7z

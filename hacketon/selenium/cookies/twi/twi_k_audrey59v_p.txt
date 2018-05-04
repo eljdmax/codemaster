@@ -1,0 +1,13 @@
+#k_audrey59v_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	I19t3262iwPZwTrif6OrmTeDyRy3Nd%2FRmc5pXfxbGM4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:51:13+00:00	unique_id	d3aea24ad02d6dc5
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:51:13+00:00	_twitch_session_id	bac98ef0b144fb4b07b265cbbdbd9c06
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:51:48+00:00	persistent	217080150%3A%3Atr9n157hkg9k53g2jykt63m908va6r
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:51:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwODAxNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2MzA4LCJpYXQiOjE1MjQ4NTE1MDh9.wC-n4iHQGuMhUwW0TOmDhTkN9zQjmrRYdEYAgihZtPX4_06W5VHSGvrEC_VvdRnhElt_58LW5YOCjGl3ZPaTkw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:51:48+00:00	login	k_audrey59v_p
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:51:48+00:00	name	k_audrey59v_p
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:51:48+00:00	last_login	2018-04-27T17:51:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:51:48+00:00	api_token	1db7703adf70e93345a567f6d8a57a81
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:51:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYXVkcmV5NTl2X3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAzNTA4LCJpYXQiOjE1MjQ4NTE1MDgsIm5vbmNlIjoiQzVZTWhHdDBXVEZfZHk3Tm0zSDZ6Z3FXV1JwdDV3am1MTG5ZTEhsa2NTWT0ifQ%3D%3D.pORx54jEhRnW_isQA7pdCEg4ilIWBun4hTHa_1nK9iFieW3LT161LD6Antc_OmJRt1ht7ByZ6sX8dpjPr-hlxw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:53:22+00:00	twilight-user	{%22authToken%22:%22byi3deqpupv7v1tdi0zk13d3rp7kyf%22%2C%22displayName%22:%22k_audrey59v_p%22%2C%22id%22:%22217080150%22%2C%22login%22:%22k_audrey59v_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:53:22+00:00	auth-token	byi3deqpupv7v1tdi0zk13d3rp7kyf

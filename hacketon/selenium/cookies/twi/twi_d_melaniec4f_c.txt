@@ -1,0 +1,13 @@
+#d_melaniec4f_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	PAbIerIsw8Q9Xv%2FVUS1U9NtjKxgChOZI3RoJL3RAeHM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:42:47+00:00	unique_id	2ec0af9f39c9d27e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:43:11+00:00	persistent	216477010%3A%3Ads4bj0g81ltl4ce3943yny524k3jj0
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:43:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzcwMTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxMzkxLCJpYXQiOjE1MjQ1NjY1OTF9.b9kopbqiyeSFjeUGgEPnX18gQhz9kZHoiLMTO9rdq_R0M78mL2FfV8pCI0dVjdftrSuL9Wuk9ie5Zsljd8Hgfw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:43:11+00:00	login	d_melaniec4f_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:43:11+00:00	name	d_melaniec4f_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:43:11+00:00	last_login	2018-04-24T10:43:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:43:11+00:00	api_token	305b3e7161ef8a8dff5e10d2cee78fd6
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:43:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbWVsYW5pZWM0Zl9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODU5MSwiaWF0IjoxNTI0NTY2NTkxLCJub25jZSI6ImV5dHVlb1lndlh1aFBMY2l0ZDFmYnZBU2ktbDNBNFdYRzU5bmdIRUVGQnM9In0%3D.s3CAizj1gfmJJOSOYk-a4lwTImEgDl5pgbu-I58drb5W6ptE2ZKc_-uwgfxpy1BacwffeoSOt6HUI0s1_Fa64g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:44:30+00:00	twilight-user	{%22authToken%22:%22ppulmf64n198rrxej4p8dw4wvugzfw%22%2C%22displayName%22:%22d_melaniec4f_c%22%2C%22id%22:%22216477010%22%2C%22login%22:%22d_melaniec4f_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:44:30+00:00	auth-token	ppulmf64n198rrxej4p8dw4wvugzfw
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:44:32+00:00	twilight_onboarding	true

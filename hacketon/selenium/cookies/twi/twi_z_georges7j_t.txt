@@ -1,0 +1,13 @@
+#z_georges7j_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	z%2Fo%2FF4TnLpWYC6IU4dn68eXYaNxEcPLoryQUlW%2BpP0c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:54:43+00:00	unique_id	ec41e82bffac4b56
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:55:06+00:00	persistent	216939469%3A%3Axinp06iaq2sh93hmgh80bd5sw3ua2l
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:55:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzk0NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwOTA2LCJpYXQiOjE1MjQ3NzYxMDZ9.osE3ask7S3Y3oHo3_5ikOgFbpDePu7jwOH260RTnkW4c-EHkXUDErSrRC0pXkLEH39afULyIHb9Lq_xPAQEq2g==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:55:06+00:00	login	z_georges7j_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:55:06+00:00	name	z_georges7j_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:55:06+00:00	last_login	2018-04-26T20:55:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:55:06+00:00	api_token	510487e2d9f52bee588fd62a2e795527
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:55:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfZ2VvcmdlczdqX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI4MTA2LCJpYXQiOjE1MjQ3NzYxMDYsIm5vbmNlIjoiaURWRU5oc24zQlRtXzlZeG9LcmdqNGNXRzJQQTd5WVlkWXJSRWdvMmxUUT0ifQ%3D%3D.amfWKZoRlA-806uw-e2PrkQDfvN77uNksm3xrPD3Mk12Hb0TOFyZ98jJmaVZKKwPc49lJmOpPRhHf2dqpN_s2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:56:35+00:00	twilight-user	{%22authToken%22:%22pqim34get9wrcxz8pyuohr7dmc6ej8%22%2C%22displayName%22:%22z_georges7j_t%22%2C%22id%22:%22216939469%22%2C%22login%22:%22z_georges7j_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:56:35+00:00	auth-token	pqim34get9wrcxz8pyuohr7dmc6ej8
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:56:38+00:00	twilight_onboarding	true

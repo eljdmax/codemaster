@@ -1,0 +1,14 @@
+#q_wyattx5w_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	T3Psi%2FuXoauym45Sl2MnFMUDyBO%2Bb43z%2FLgK3NsU65U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9a4b59fcadcb1360
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	97b268b3e03b9a24479d88226f656a80
+.twitch.tv	TRUE	/	FALSE	0	persistent	217945681%3A%3Ayd86fybxapaavm5lnbkr1zxdysqbzq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDU2ODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTY5MzAsImlhdCI6MTUyNTE5MzMzMH0=.0W00k5Cruzt76quEIQl2DbitMDR9F0TepKPphKmPXmRiTG5E4m9ZUxQYi5mD7kEPyRpyxkxXkomOXxq2ioW3DQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDU2ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4MTMwLCJpYXQiOjE1MjUxOTMzMzB9.fxK0vwssFgME1ogyepJHD4vxSnSict8LzuZMj8MfF8H63-sM4q9wDVbrr2G0l-Noq6_HmKmx7sYGAtTn7pSRzA==
+.twitch.tv	TRUE	/	FALSE	0	login	q_wyattx5w_9
+.twitch.tv	TRUE	/	FALSE	0	name	q_wyattx5w_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:48:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	91f35c1dd9d89975007d314f15d03b74
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfd3lhdHR4NXdfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDUzMzAsImlhdCI6MTUyNTE5MzMzMCwibm9uY2UiOiJiU1lRZWE5bnNheUdFX2tVTW1kNElCM1NwQlFkc3VIbmRkTjBQVlZ6NDZJPSJ9.Eyv3ZYaaCIVFObm5gYMCtIKGT3BiBLzoovuxeH8Xs6Vwr_pl05L5nwgtMt-OzePdxQq79dlAVedW3GeESyftWA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sc8ulnigxj85jjiqj1p9t2urznp54p%22%2C%22displayName%22:%22q_wyattx5w_9%22%2C%22id%22:%22217945681%22%2C%22login%22:%22q_wyattx5w_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sc8ulnigxj85jjiqj1p9t2urznp54p

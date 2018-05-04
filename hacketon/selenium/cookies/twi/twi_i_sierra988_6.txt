@@ -1,0 +1,12 @@
+#i_sierra988_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Go01DYfNsgFyxsTIUeDM%2FyFL7Iu4PlvSJc734u1mNNA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:09:24+00:00	unique_id	3d61c084a3773015
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:09:42+00:00	persistent	216143496%3A%3Ae5t5vs7tsbhik87o38xcak9f8qzxxv
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:09:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDM0OTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5NzgyLCJpYXQiOjE1MjQ0MzQ5ODJ9.f2pHoVE4tTFwJZhyGMK8kVvNbEUUjvIPVrsxzCP6XFD2Xod1sZZzf3TDQLTBDb0aluPIzViDtM0nWksA3pxOPA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:09:42+00:00	login	i_sierra988_6
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:09:42+00:00	name	i_sierra988_6
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:09:42+00:00	last_login	2018-04-22T22:09:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:09:42+00:00	api_token	76f2959aec6f6066fd9d891cc842681b
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:09:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfc2llcnJhOTg4XzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg2OTgyLCJpYXQiOjE1MjQ0MzQ5ODIsIm5vbmNlIjoiVG8xM1YySHJPUlhCdjgtZXBTLTlEU0ItdHF5bF9MMUdhTV92cE4tbGRBTT0ifQ%3D%3D.6Oxhi8jBrug2hMsuWqZ7Nz21ARmEdMxpM52CQ8qMdr2VPt2UFXsuyscXOYGnFdzVYXj_z17BLzwS6FTZ3x4ZBA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:10:54+00:00	twilight-user	{%22authToken%22:%22vixezybbjayn5h6lgwab3vf3ko1txe%22%2C%22displayName%22:%22i_sierra988_6%22%2C%22id%22:%22216143496%22%2C%22login%22:%22i_sierra988_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:10:54+00:00	auth-token	vixezybbjayn5h6lgwab3vf3ko1txe

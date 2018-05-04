@@ -1,0 +1,13 @@
+#h_angelk2s_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9kyCA4OP3Ln5DmNi2ouk1YNvFRxd4NEAjdlGfw1Cz%2Fo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:41:42+00:00	unique_id	749d9780f2de23dc
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:41:42+00:00	_twitch_session_id	dda5d072fe51d979c2c938b2083cf893
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:42:22+00:00	persistent	217078418%3A%3Ayhtfcxcc3phqle1a6bn17dht60aupd
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:42:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzg0MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NzQzLCJpYXQiOjE1MjQ4NTA5NDN9.tl5pE0OgCwT-iCEeT82318y1NwkZVfqaeMuCN3e70Me1iO_H9B4UPKW0FgIcs_gQb6mfA-iyxY6bor4jKZaDPg==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:42:22+00:00	login	h_angelk2s_2
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:42:22+00:00	name	h_angelk2s_2
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:42:22+00:00	last_login	2018-04-27T17:42:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:42:22+00:00	api_token	83ee1cf2f779d6d6235756db70d292b4
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:42:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYW5nZWxrMnNfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDI5NDMsImlhdCI6MTUyNDg1MDk0Mywibm9uY2UiOiJnME1wTTFoQUE5ZGVYNVVMMzdZNWZjN0lMTmxpMzlXa3ZzUGtsVlBqUWlFPSJ9.RjLwbIEZYneQGxILX7bUkJ0U5E388jOY_lGKm1qv2EcaQIuHwEEsqo1yQaJbguLmu9GNW2_qNREQhW48AzVKZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:43:57+00:00	twilight-user	{%22authToken%22:%223yc2awrbdtzc11kthy5i4yhp948ymm%22%2C%22displayName%22:%22h_angelk2s_2%22%2C%22id%22:%22217078418%22%2C%22login%22:%22h_angelk2s_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:43:57+00:00	auth-token	3yc2awrbdtzc11kthy5i4yhp948ymm

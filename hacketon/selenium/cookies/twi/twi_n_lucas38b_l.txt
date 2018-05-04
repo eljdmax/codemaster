@@ -1,0 +1,13 @@
+#n_lucas38b_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Etgng7Q1fMBueaWS2zWkB3jofMg%2FwyIcSzXJasKgJfI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ea259949e208e9cb
+.twitch.tv	TRUE	/	FALSE	0	persistent	217290180%3A%3Anz0lmfko8xp6lpa3n5dy8rld6p706a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTAxODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzg3NDIsImlhdCI6MTUyNDkzNTE0Mn0=.JC35_KnUBah8TJZFdeNTU_O3nqf7r5mQ8ZzIc1ly6hMMLTBQy38Iu7em8H9YaG5WBbVvzMcBTS42NUwhe4AUug==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTAxODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM5OTQyLCJpYXQiOjE1MjQ5MzUxNDJ9.Yz9bFHflItld9QmLSrahjMhqyWZgM_eUNVsWN5-ToTycWh4HOuL2OESSMdc9pyTcFZaVr_HfjyU2ifzJBplRMw==
+.twitch.tv	TRUE	/	FALSE	0	login	n_lucas38b_l
+.twitch.tv	TRUE	/	FALSE	0	name	n_lucas38b_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:05:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8e9f0983054cc5ecf8d80b1b69441ec1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbHVjYXMzOGJfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODcxNDIsImlhdCI6MTUyNDkzNTE0Miwibm9uY2UiOiJwUXV4c05waW5VNXJsbFJuNExnTmNwWFI0akotdC1OcWd1Wk92X1h3VjR3PSJ9.7uYxxm86mw8xk6mKihJqgJDA-H9pCY67YCl_1ahbdgbhUQPEVbQqCR5j61Iss4uiz06MtOY0Il-DO4-R0Upl4w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22uylvht7e5csa6cbpxabwezoviyopni%22%2C%22displayName%22:%22n_lucas38b_l%22%2C%22id%22:%22217290180%22%2C%22login%22:%22n_lucas38b_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	uylvht7e5csa6cbpxabwezoviyopni

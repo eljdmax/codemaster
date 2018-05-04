@@ -1,0 +1,13 @@
+#u_derekm48_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BrpdcRfDm6X30JM0T%2Fa%2BzH4Q32NNdjA%2FxbXJg60WF88%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:03:55+00:00	unique_id	bfb08e1e3b93aa0e
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:03:55+00:00	_twitch_session_id	e3413df28a534c1806cbb5867a52fa38
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:04:22+00:00	persistent	216490725%3A%3Aw6lrrup8bu3hcaks3x2hf6ftdeq7wk
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:04:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTA3MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5ODYyLCJpYXQiOjE1MjQ1NzUwNjJ9.F-SyYrXGYxHewTq-jfiGeVy2ZZKtwT-I7EXnjR8Rk4Ic5t27vE_QBpkEweOI8nYtpXkmxwjpKxnYqXH_te6hhA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:04:22+00:00	login	u_derekm48_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:04:22+00:00	name	u_derekm48_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:04:22+00:00	last_login	2018-04-24T13:04:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:04:22+00:00	api_token	4d7b3cfe40e56e3207f25e00df152069
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:04:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZGVyZWttNDhfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjcwNjIsImlhdCI6MTUyNDU3NTA2Miwibm9uY2UiOiJFcjBQNE15T0RwZTFIcnRqSzZYMWNYU0tXSWpOTERMZDVINUlQUm8xdkNrPSJ9.OsgFI_jSV9kzb1YCYgLDfMl3nBrKp_XsJJ5alUVzTjl8vxntHp8KYAIP6_56OEIwwyt6Xg8aVaUBnqTmQn6FfA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:05:42+00:00	twilight-user	{%22authToken%22:%22f0e4i7a8nthg6qn2zoy1muaz1odoij%22%2C%22displayName%22:%22u_derekm48_p%22%2C%22id%22:%22216490725%22%2C%22login%22:%22u_derekm48_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:05:42+00:00	auth-token	f0e4i7a8nthg6qn2zoy1muaz1odoij

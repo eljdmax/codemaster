@@ -1,0 +1,13 @@
+#d_malachit2u_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	w2u2FFPHVavny%2FAPAQVahW5og6c7PS%2Fd1famCzpFTH0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	221f51c43b399302
+.twitch.tv	TRUE	/	FALSE	0	persistent	217264304%3A%3Aq870gpr9yc10ze5qh20cf5igx7usqi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjQzMDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzEyNTcsImlhdCI6MTUyNDkyNzY1N30=.SSw0Qg9kAh77N7dCEr3LWXe0tcqzwC3wsZ9cE18O-tNQulGXhJHvFbat5Q3aB9CyFeRDHQWxL_BLBRUdSxftnQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjQzMDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMyNDU3LCJpYXQiOjE1MjQ5Mjc2NTd9.eIOwuPRUEcZiqTq1s8hsI7bjcz95hQLF6v3fv3_4SfoGrxra1uHLzYgQr9OY5qBePZMCE3WSGBzKiIwHIqhCnw==
+.twitch.tv	TRUE	/	FALSE	0	login	d_malachit2u_r
+.twitch.tv	TRUE	/	FALSE	0	name	d_malachit2u_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:00:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a305871fb5cbc9cd57bbb8b3d2dcecf0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbWFsYWNoaXQydV9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3OTY1NywiaWF0IjoxNTI0OTI3NjU3LCJub25jZSI6IlpyM2dxRUliVjh2X3M0WFJfSHJHT1JBMVNqaDY1RjRGenJieXpYek9Qd0E9In0%3D.FuisJ6Mgt_B7dUe7QIjrc5EbuFPhmFl43oPkiqFHFBYATHm-KRK3MVzbeVfbQJpIVQg5CboN2z0p3o6WKmHRIQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ywi30gbw0u11d6ikvlemh9iyrm0u4q%22%2C%22displayName%22:%22d_malachit2u_r%22%2C%22id%22:%22217264304%22%2C%22login%22:%22d_malachit2u_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ywi30gbw0u11d6ikvlemh9iyrm0u4q

@@ -1,0 +1,13 @@
+#a_jade49q_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XiTMgl881FHFVaaze3dQqnQOSnC73Q%2FP5gajfLN9ksI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ceb5552f7edb0ad8
+.twitch.tv	TRUE	/	FALSE	0	persistent	217295837%3A%3Aon9g28dlfhj3y2grdlm34sj1xmjvdy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTU4MzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzk5OTIsImlhdCI6MTUyNDkzNjM5Mn0=.i6d9qbNvXWnkiTwhNyJ1gQwyaHRb9j3QBbTbbsJoY6NAakbDC3uTh6qKEp-jV00pnLAoQcd4e-h8cX_6f7ZzJQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTU4MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQxMTkyLCJpYXQiOjE1MjQ5MzYzOTJ9.oanIhPMn6jfxwEQu0xeSK2ByqNrhBi3TeJpMzFq78x_lUdGtlINUAPKEcJB98moVt52GvUI6vsd0YEA6bYj9JQ==
+.twitch.tv	TRUE	/	FALSE	0	login	a_jade49q_p
+.twitch.tv	TRUE	/	FALSE	0	name	a_jade49q_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:26:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e5f2597eb1a41453bc8f334529a5c7e7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamFkZTQ5cV9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4ODM5MiwiaWF0IjoxNTI0OTM2MzkyLCJub25jZSI6IkxZMUNpSGx5Y1VHZ3BQcFF3bVZueTNORDA3Rjc3VVA4QS1ETmF4RHRUTHc9In0%3D.63UZ8dk7V4jmN0Y-tZUVXuXl_U74QEx1gg_ICaexXZKI8Y1BU0HE8dn0mBFhX_mmshxHYJeGjyjzFx9uCqpBFA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223y401b98sr7zgc0lm69ivfre5zr0az%22%2C%22displayName%22:%22a_jade49q_p%22%2C%22id%22:%22217295837%22%2C%22login%22:%22a_jade49q_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3y401b98sr7zgc0lm69ivfre5zr0az

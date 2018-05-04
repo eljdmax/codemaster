@@ -1,0 +1,13 @@
+#i_josephj6u_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	B%2B80AwJgJn3KlZFK%2FM0JdPkutefrg9AFTPFAfMIr6Zw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d5fe03ace64d35b9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217225301%3A%3Aaz1sec5x8u50iohhicf4hhmygx94wx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjUzMDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTc4MjcsImlhdCI6MTUyNDkxNDIyN30=.A_yddx0WKk5nPq8meIo_IqWlm-wRj7qJ8UYyBhCg2GeSP6JW1xnnUTl1prdHe36qDwmz_PgImRUoaeBqN9OF0g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjUzMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE5MDI3LCJpYXQiOjE1MjQ5MTQyMjd9.7lHMxoUolXFtAyz3WkSyaeblmfrnleiIlaOuSTQXvx4SV-Y0CK7VWnvkSafhXzIGMZXe1LiNAPzejwakNQQ1CA==
+.twitch.tv	TRUE	/	FALSE	0	login	i_josephj6u_2
+.twitch.tv	TRUE	/	FALSE	0	name	i_josephj6u_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:17:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	43b78d68c20863a7090d792abca9bfad
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfam9zZXBoajZ1XzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY2MjI3LCJpYXQiOjE1MjQ5MTQyMjcsIm5vbmNlIjoiVS1lWi1iREQtbkQ4d28tMnV2dVhLakIzWlU2TjdzUkRjSldWcFE4T2dkdz0ifQ%3D%3D.gyrwxYYFV8gt9RyKgB8t0mDF_sz3UpY0-ytrv3hT56E9M46BMIhR9fSAxRfWTroUm2wiW03hsPKOGqh7XfEVRg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224xeidif3e4f1csngjm8wznmx957hm1%22%2C%22displayName%22:%22i_josephj6u_2%22%2C%22id%22:%22217225301%22%2C%22login%22:%22i_josephj6u_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4xeidif3e4f1csngjm8wznmx957hm1

@@ -1,0 +1,13 @@
+#z_joel91w_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	r6Lxv5uRMTRrUW%2F1joR%2Fw2IWL2GfyMvA1AvurQ9IYTk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:11:41+00:00	unique_id	096d4c6858cc3f1c
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:11:41+00:00	_twitch_session_id	e7414748b8d2dc60f7501262b161ef4c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:12:00+00:00	persistent	216479426%3A%3A1x5vh2hhq1dakmb9om5vw3vab33z9i
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:12:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzk0MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTczMTIwLCJpYXQiOjE1MjQ1NjgzMjB9.P8BzcLY8jewDTXg18JKk20U6OT-Eah_rEQr4jrsg_hFgm2rFgMn8M4Fdk-C35Ra_94REGi5QEUiQqTuZJ_4R6Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:12:00+00:00	login	z_joel91w_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:12:00+00:00	name	z_joel91w_l
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:12:00+00:00	last_login	2018-04-24T11:12:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:12:00+00:00	api_token	6dcc47d158939b659ac33af674f5f79a
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:12:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfam9lbDkxd19sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMDMyMCwiaWF0IjoxNTI0NTY4MzIwLCJub25jZSI6Ik9qaW12c082eUlyVXZMM0ZlNnB1eDcxODFGaWpmRkNjbzV6WlZ3MlBjUGc9In0%3D.ui-3oQ0Ub1PQXsKHhiOHpH88_i0O82ePiCkcFwZSuWfnUmbMjUIfzbk750yWYHfHSklnxg_BU-3LuCokhhVtkw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:13:22+00:00	twilight-user	{%22authToken%22:%223efv0lnomvdih31z5vfyn87rgj27l0%22%2C%22displayName%22:%22z_joel91w_l%22%2C%22id%22:%22216479426%22%2C%22login%22:%22z_joel91w_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:13:22+00:00	auth-token	3efv0lnomvdih31z5vfyn87rgj27l0

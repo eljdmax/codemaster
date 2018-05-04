@@ -1,0 +1,12 @@
+#z_javierk6y_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bxKGS%2FHT6Z7OMuHMECJ9hQSyrtySIHnxh8Z%2B14nS1C8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:18:47+00:00	unique_id	0d59c66356624c91
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:19:25+00:00	persistent	216943530%3A%3Ax0biks8ys6ahmtfh6wsvtvhvqw1j9p
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:19:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDM1MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgyMzY1LCJpYXQiOjE1MjQ3Nzc1NjV9.sMog97VcPw8ezNbmn7b4mNbjZ8lDv4R5SrkY_CahgGBiUs0MO02WfEGzwi9pXb7iwPA2nULrWmN6tVGnGA_Kmw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:19:25+00:00	login	z_javierk6y_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:19:25+00:00	name	z_javierk6y_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:19:25+00:00	last_login	2018-04-26T21:19:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:19:25+00:00	api_token	e5a89b4fba61a61cc5609e5fa29bb02d
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:19:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfamF2aWVyazZ5X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI5NTY1LCJpYXQiOjE1MjQ3Nzc1NjUsIm5vbmNlIjoiS1VZcU1Db1p6SGRvVV9HWEFaWVB3SG90LXpVNmtOZUc1eWxxbF9jd0txaz0ifQ%3D%3D.I2I-QdcxxxFcZnwZT2fZmvhjszBKXEaUFhq0SFIYCrFc_Lbf4aRllMpi_bR47UOJjsy-bOKiHohd26KDbf2jIg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:20:57+00:00	twilight-user	{%22authToken%22:%22zi0w751bajd66eph55iy0hxbl3j5gx%22%2C%22displayName%22:%22z_javierk6y_f%22%2C%22id%22:%22216943530%22%2C%22login%22:%22z_javierk6y_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:20:57+00:00	auth-token	zi0w751bajd66eph55iy0hxbl3j5gx

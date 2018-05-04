@@ -1,0 +1,13 @@
+#a_garrett99h_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LYrHj4yD2l4BNftgmGpkEy4WN277fap4L2%2BALD%2Btb%2Bo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:46:37+00:00	unique_id	f90fb71122beaeae
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:46:37+00:00	_twitch_session_id	183c8758383f178946de31f9fc24bd30
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:47:04+00:00	persistent	216947736%3A%3Alz5iztcxxzy70ro33svw70tnzvrwg4
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:47:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDc3MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzg0MDI0LCJpYXQiOjE1MjQ3NzkyMjR9.eIzfhhhjZThQSHosFHMhEgslF6oYItt7SAiSVffdrMgQRJmOFZbmcq8gmQweaRl5xF70SZABJkGok4fI57S6aw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:47:04+00:00	login	a_garrett99h_u
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:47:04+00:00	name	a_garrett99h_u
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:47:04+00:00	last_login	2018-04-26T21:47:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:47:04+00:00	api_token	0cb4dabbd8697567134d2774bba63cc0
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:47:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfZ2FycmV0dDk5aF91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMzMTIyNCwiaWF0IjoxNTI0Nzc5MjI0LCJub25jZSI6IkJRemFIMmVKaExDYW1Hb3JTVmYyUG5UdVRUUUhDY2FXVXZXRDZpOEpsZXc9In0%3D.pJwTx6QmSNfldTDRLQ0cWecKApbpUsSTcMG1pRCvXS6kVeViFfC5VOU-WBVKchm49UbQgLhupZsKG1CqQ7WIIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:48:35+00:00	twilight-user	{%22authToken%22:%22cvow469dpsa3pll5ozvpxguriqih76%22%2C%22displayName%22:%22a_garrett99h_u%22%2C%22id%22:%22216947736%22%2C%22login%22:%22a_garrett99h_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:48:35+00:00	auth-token	cvow469dpsa3pll5ozvpxguriqih76

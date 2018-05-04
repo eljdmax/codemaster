@@ -1,0 +1,13 @@
+#x_owen63l_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9gsBQ0zxN0jnfUnXOLTpSBY9FhMbEhyAMlP3tCKwC8g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:10:46+00:00	unique_id	c5f3319b73e9b268
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:10:46+00:00	_twitch_session_id	98606f78470d5ca68de4254548663924
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:25+00:00	persistent	217562487%3A%3Alzwxba6lekem9fiulqfkq5600sutt1
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:11:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjI0ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3NDg2LCJpYXQiOjE1MjUwMzI2ODZ9.TyVN-KFOJ_NR7TP3dVwah7F5jHJIitRkATIqVxclvikbVPpTDdZ2UQDbpeugn0O6qsITMIrkioPfzzBKoPQvfA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:11:25+00:00	login	x_owen63l_p
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:11:25+00:00	name	x_owen63l_p
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:11:25+00:00	last_login	2018-04-29T20:11:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:11:25+00:00	api_token	be2ca0251e5ab3c4a6e0b128d0a2edf7
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:11:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfb3dlbjYzbF9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDY4NiwiaWF0IjoxNTI1MDMyNjg2LCJub25jZSI6IjRvRmxXYXRlNVIxdlBJa2RQZVNEeExab3hQYmVhUE1Vb3JzSXhHdHlRaUE9In0%3D.pZzDn_umyvzLKzVIRJKeTeuYlSpp1G-gILJkI1EcInHwGsSZ1l7rUkfi4K7MWF9bjsuVKYjUnaDmdNc2zjKS_Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:13:09+00:00	twilight-user	{%22authToken%22:%22fwk8f4i7ff4hmheu64tml2559gfha9%22%2C%22displayName%22:%22x_owen63l_p%22%2C%22id%22:%22217562487%22%2C%22login%22:%22x_owen63l_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:13:09+00:00	auth-token	fwk8f4i7ff4hmheu64tml2559gfha9

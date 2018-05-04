@@ -1,0 +1,13 @@
+#j_anna19n_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RIMjbjB7rK%2BxNMLe6n0ABKw2Qw0pPXj6HZ2iJPIKuek%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:59:09+00:00	unique_id	f07e5973cacf3820
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:59:09+00:00	_twitch_session_id	5b4ee5f4dc28013a42beef52bd68cd2f
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:59:40+00:00	persistent	216490096%3A%3Ahkcjl37htpszyzwwqi4xy2vhpok5pi
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:59:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTAwOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5NTgwLCJpYXQiOjE1MjQ1NzQ3ODB9.5AU4wAMYLmKU3tGoxME51NaUXyB3HUU_fK2qQUcZJAuq4M9p-mLF9xMa4UTVhnjBNRX0iwry2bl9Y-fOdrI3Ug==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:59:40+00:00	login	j_anna19n_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:59:40+00:00	name	j_anna19n_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:59:40+00:00	last_login	2018-04-24T12:59:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:59:40+00:00	api_token	01e5e8aaf6b6e228c52e6851f79809d3
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:59:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYW5uYTE5bl9vIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNjc4MCwiaWF0IjoxNTI0NTc0NzgwLCJub25jZSI6IjZiN2MyaTU3M0dpdGRSRGpnUmlwczJCQjF4NUZVNnpUYkIzeEs5bG1mdFk9In0%3D.9yCbmQgb9I6dw3Pd_YoDXoVNn2VXIS8c0SruLX7fR3JSqL78j7dMb7s_I8AzYgPMgdBR6R6U7CmXP3LHDr49UQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:01:02+00:00	twilight-user	{%22authToken%22:%221zx7apimsddhlw2cnk5uzrll3lzcbf%22%2C%22displayName%22:%22j_anna19n_o%22%2C%22id%22:%22216490096%22%2C%22login%22:%22j_anna19n_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:01:02+00:00	auth-token	1zx7apimsddhlw2cnk5uzrll3lzcbf

@@ -1,0 +1,13 @@
+#f_chloem8l_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yuju3%2BE4%2BduzHbWz9k3vTQkTvzJI7LxHCTrOOmYNVq4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:21:08+00:00	unique_id	54d31960f4ce874c
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:21:08+00:00	_twitch_session_id	b6be5ac5ddd802f26cd7d66603be3108
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:21:28+00:00	persistent	216134482%3A%3Ap6lbec2b8cfpb4b1zkhn6mwzj6yrts
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:21:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzQ0ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM2ODg5LCJpYXQiOjE1MjQ0MzIwODl9.TVEdWesvukHYzcssMPzy0fUhICfSJNTpYumib_eeOnepKz-8k3eUZSCpDFTHaXPwxACuWPcChJzjUiLa5TosEg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:21:28+00:00	login	f_chloem8l_4
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:21:28+00:00	name	f_chloem8l_4
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:21:28+00:00	last_login	2018-04-22T21:21:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:21:28+00:00	api_token	32374c0d5410f67d49f631425f165342
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:21:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfY2hsb2VtOGxfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODQwODksImlhdCI6MTUyNDQzMjA4OSwibm9uY2UiOiJoamMtTFBzODY3b2FmMXh3clhoSThLWWYxNG1nVGlUaWZ6WExZc216WWprPSJ9.V8UGTUxggw5G5ejux7P3iV6S3eFtdjhfz4Q50IQyLbm1pVMH56Rep4dD0v_5Yc75wa1ChylVbj0bweF4GLTa8A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:22:40+00:00	twilight-user	{%22authToken%22:%221n970whkktr9s259zk3fzu0cx8fxje%22%2C%22displayName%22:%22f_chloem8l_4%22%2C%22id%22:%22216134482%22%2C%22login%22:%22f_chloem8l_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:22:40+00:00	auth-token	1n970whkktr9s259zk3fzu0cx8fxje

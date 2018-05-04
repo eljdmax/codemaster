@@ -1,0 +1,13 @@
+#u_maxxx8u_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gWCVirAE1GwfuWj6w1H%2FVG%2BW6XaKiyOr9Ndm5fRxnqs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:45:49+00:00	unique_id	caf10f7814239e7a
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:45:49+00:00	_twitch_session_id	d4f3bbd857f476ef96859dc63629cfba
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:46:29+00:00	persistent	216488533%3A%3Af4m6p4x888y91e5euvlxv9wec895no
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:46:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODg1MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NzkwLCJpYXQiOjE1MjQ1NzM5OTB9.Z4OvkQgdasFfwFerZghaZ4pn4whPeJ6rGuiDyTMk52wkxT8p_4-o8NxtO8RLzgZwok9EJKc6BcDndzBP_xoj4w==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:46:29+00:00	login	u_maxxx8u_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:46:29+00:00	name	u_maxxx8u_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:46:29+00:00	last_login	2018-04-24T12:46:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:46:29+00:00	api_token	84c0f047b9a63a11b17e5afd57747914
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:46:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWF4eHg4dV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTk5MCwiaWF0IjoxNTI0NTczOTkwLCJub25jZSI6InN0Y3ViVkF1UVoyWFlvR0R0QTdaSFpzNXVyWll0b1F3OUM0X3lNQkxwM3M9In0%3D.UtPOb5h9xL-2uFk9qwQfvNjbIIjK62xqxAARmw-OlZG27RnkgIMlB4T_iujE0bYmdQ697-7GUfqMbgAPsojobA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:47:49+00:00	twilight-user	{%22authToken%22:%22kn1dithv7bl4idcdq3jrlh20t8b5iw%22%2C%22displayName%22:%22u_maxxx8u_b%22%2C%22id%22:%22216488533%22%2C%22login%22:%22u_maxxx8u_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:47:49+00:00	auth-token	kn1dithv7bl4idcdq3jrlh20t8b5iw

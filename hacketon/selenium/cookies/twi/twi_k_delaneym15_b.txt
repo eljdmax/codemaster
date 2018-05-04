@@ -1,0 +1,14 @@
+#k_delaneym15_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	YCUJVDr3zXFtuH2Q6ZgR%2Bg8ujjAUxvB8mEfS%2Byv9Q%2Fs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5cef684cdbc04987
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cb7d92ec5360091ca7ce5879e31cb037
+.twitch.tv	TRUE	/	FALSE	0	persistent	217570978%3A%3Awuox0zxgrh00voj99t8xwbbskam7nu
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzA5NzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzg0NDYsImlhdCI6MTUyNTAzNDg0Nn0=.SLF5UREHtIjfrAfyXmn_Odkmo-I-KdEzg9EC6vrztyrq3tD2rrmMhAclSjsuq-sQftFqKoVUDGrF6BzVIaS0aw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzA5NzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5NjQ2LCJpYXQiOjE1MjUwMzQ4NDZ9.JA-pBkKGa0oxbM__iTPevQjcvDNzjxJfO7zZobY09NjFETV-fKB03ZIjK0Q5zIuWJ6Y12rZ9uINMjeLf5FeHXg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_delaneym15_b
+.twitch.tv	TRUE	/	FALSE	0	name	k_delaneym15_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:47:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	230331f86281e0ddf5cc04329fe01a3b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZGVsYW5leW0xNV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4Njg0NiwiaWF0IjoxNTI1MDM0ODQ2LCJub25jZSI6IllZbVdOVTU1R2NBaU9ESlRBS1FLX3NLT185bFRuNmE2ZVBLUXhocUV0WUE9In0%3D.LrtZxuB97hKURRvQus7eg5tIkdwDZq3nDmqssZziHaQU3ID3dPSipqQ7JC7XBRNWaPxC7Fx1YdGc4-irL7Ls_w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22caqwgnyehyebomf6mtreu9jp6kwsfp%22%2C%22displayName%22:%22k_delaneym15_b%22%2C%22id%22:%22217570978%22%2C%22login%22:%22k_delaneym15_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	caqwgnyehyebomf6mtreu9jp6kwsfp

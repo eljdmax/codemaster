@@ -1,0 +1,13 @@
+#f_valeria26f_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IN3SjAEFiC6LUXZHWN%2B6CuZwWTzh81Z8fSD5XUSgNEs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:00:39+00:00	unique_id	64464e833c645d8f
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:00:39+00:00	_twitch_session_id	efa4c8eb5cd730e96aede8e9d2e2f10d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:01:41+00:00	persistent	216483761%3A%3Amroiw025ej7ykut81e58u48tq0uom9
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:01:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODM3NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2MTAxLCJpYXQiOjE1MjQ1NzEzMDF9.rHKo_N6FiQWGYA61pO6CkM9370pmQiFcfSHUXi3RaZT_RL5B5EkMKtHWh4YhRnmsvVE1TzSJIUNTsEsabAImJw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:01:41+00:00	login	f_valeria26f_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:01:41+00:00	name	f_valeria26f_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:01:41+00:00	last_login	2018-04-24T12:01:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:01:41+00:00	api_token	715b2c54fe2e4f334d9d59a8dbb289ec
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:01:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfdmFsZXJpYTI2Zl8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMzMwMSwiaWF0IjoxNTI0NTcxMzAxLCJub25jZSI6IkR6VmgxVXNtWU5LQ0xaaVl3X0RmMXpYVEtud2NfWFRLdE1TZ1lidWNJTTQ9In0%3D.2t-0F2K_xZDx3YfhtF9rc9hHkyrkdSZXbMozqxvYnUd90uY0qRDx_bzCPnHJ4-M4YolVaBO_Grx50EPDOvShrA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:03:05+00:00	twilight-user	{%22authToken%22:%22vxdp8zxcna7v9theo7d5oditphxdqi%22%2C%22displayName%22:%22f_valeria26f_1%22%2C%22id%22:%22216483761%22%2C%22login%22:%22f_valeria26f_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:03:05+00:00	auth-token	vxdp8zxcna7v9theo7d5oditphxdqi

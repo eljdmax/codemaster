@@ -1,0 +1,12 @@
+#u_michaelm8l_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fmenJDMfPkJ19ri5xpKwSXA%2Flfhd%2FEAkpyYd8CWTMc4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:12:01+00:00	unique_id	3564c4667507a8aa
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:12:24+00:00	persistent	216479457%3A%3A97bdx7z50aw0443jhj32atl9h16qza
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:12:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzk0NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTczMTQ1LCJpYXQiOjE1MjQ1NjgzNDV9.VUSicPDFvkMlWTF0wCjFRRQvjsR2__mysM9KcVqzRRUkxT4hL8Bo8GpwM5tGHfj7Mpi3qGfm8gBegQWfGZualQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:12:24+00:00	login	u_michaelm8l_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:12:24+00:00	name	u_michaelm8l_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:12:24+00:00	last_login	2018-04-24T11:12:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:12:24+00:00	api_token	1961176b2962fdcb1cfab4e9ae15ba29
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:12:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWljaGFlbG04bF9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMDM0NSwiaWF0IjoxNTI0NTY4MzQ1LCJub25jZSI6InNuY1QtVlZxWDVXQWdhbjZISFMxRGFCbU1PcVJSNWNJcDg0Y2FRTTRiRVU9In0%3D.XyqJ6LOLvLaNGT4UeLY6cU6Lg1tTQ-VPWP0XXQ00o6hwi9IZuHKhAi4udZzNOLpJLssNx2vH4t_Edm_o1b_7yw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:13:46+00:00	twilight-user	{%22authToken%22:%22exmajt2nme2xa7diq8hsunbjqklqdu%22%2C%22displayName%22:%22u_michaelm8l_d%22%2C%22id%22:%22216479457%22%2C%22login%22:%22u_michaelm8l_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:13:46+00:00	auth-token	exmajt2nme2xa7diq8hsunbjqklqdu

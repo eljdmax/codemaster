@@ -1,0 +1,23 @@
+#u_landonh9c_h
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	q2yeevw%2FGr9eK6%2BqnREuJZPGdN65IV1mofUrXTBl%2F7w%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	84bff41b2bec70bab986454457c17ff3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217020071%3A%3A43wmbc7qpt45apohu165jt5fahxtpw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMjAwNzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4Mjc0OTIsImlhdCI6MTUyNDgyMzg5Mn0=.mT2s8tXsOgIqtDRF9yFtt8g51F9J3Kh3GeugjUMqPEig-S1qOJlD3lAuqFcuevixiNAcCsJw4-imEYyXhH7-QA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMjAwNzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDI4NjkyLCJpYXQiOjE1MjQ4MjM4OTJ9.ON1CmrUECdi2rh72UpAhwvVLP0v-HboCQvlMwltIjdO8nS4VEdcRvcol81uq-1efE3knYc71CXoJVduCUEm1vw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_landonh9c_h
+.twitch.tv	TRUE	/	FALSE	0	name	u_landonh9c_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T10:11:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	73dfb56e5a478a2371d6d425972a48b3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbGFuZG9uaDljX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzc1ODkyLCJpYXQiOjE1MjQ4MjM4OTIsIm5vbmNlIjoiNHZPeE4weUttLVRNZTlOdzRXQjBoRE53WVZ6NmdsazRFNHU0ZjlQTFhMWT0ifQ%3D%3D.lAOJ7mLc2rSGfFbn4NGIJWrZ1c11_xtOpbOGWV4car0nnzGJtxZM5lSIIwoFShSTYykcEii9ZJi4A-bmcBeuew%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fis3vyd1uphvmti4r7mjb1v8dqub9o%22%2C%22displayName%22:%22u_landonh9c_h%22%2C%22id%22:%22217020071%22%2C%22login%22:%22u_landonh9c_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fis3vyd1uphvmti4r7mjb1v8dqub9o

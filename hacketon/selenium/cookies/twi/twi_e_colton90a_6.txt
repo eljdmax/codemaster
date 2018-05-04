@@ -1,0 +1,13 @@
+#e_colton90a_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kup31U2OcI14nebDVMZvunoP7MREdQzqKyj1mmw3vaI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:28:13+00:00	unique_id	6ac580a5cdc5589c
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:28:13+00:00	_twitch_session_id	dd2ab8765ae72cfc393d70ecf4afe36e
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:28:28+00:00	persistent	216486550%3A%3A0u81a2x3pin8jd1ivwm1oxgx4t5drn
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:28:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODY1NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3NzA5LCJpYXQiOjE1MjQ1NzI5MDl9.m7T-lqD7mUl_wntM71sK0vDNbM5eG20rruBXNnG_Oeiyqqn630EINnP8UNeChGtlm-ABi87Atx6bWPF-N1FRcg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:28:28+00:00	login	e_colton90a_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:28:28+00:00	name	e_colton90a_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:28:28+00:00	last_login	2018-04-24T12:28:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:28:28+00:00	api_token	be96c733a5e9dc457611edb41a2374a6
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:28:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfY29sdG9uOTBhXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI0OTA5LCJpYXQiOjE1MjQ1NzI5MDksIm5vbmNlIjoiYUkxTXV1RGN2S3F2Ry1ySDJJMTg2TVdLUGdyTDltS08tWTdwdHFweDY3RT0ifQ%3D%3D.hyPzPTY94cE7bcERBQlBNLiiENpRfloYzFTxbr5i7MiRkJWCicxHwNnhuN8IeIE5IfVQknULLPD0FaJgQ5u76Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:29:48+00:00	twilight-user	{%22authToken%22:%22tlrnsjvlz1t8iftg8jjx3wc5o0aejj%22%2C%22displayName%22:%22e_colton90a_6%22%2C%22id%22:%22216486550%22%2C%22login%22:%22e_colton90a_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:29:48+00:00	auth-token	tlrnsjvlz1t8iftg8jjx3wc5o0aejj

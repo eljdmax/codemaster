@@ -1,0 +1,13 @@
+#r_abigailb4p_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Nox5toWY63T0GS8vbPWhTjWDO%2F32aqrsAY9zhLPII%2F0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:03:26+00:00	unique_id	71c6e44a92be1826
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:03:26+00:00	_twitch_session_id	820e8f23ba78926fc26fed83d2e5a3ec
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:03:44+00:00	persistent	216478757%3A%3An6rz2cz5mh0xz1lqg75xfdv5igkxcp
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:03:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzg3NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyNjI0LCJpYXQiOjE1MjQ1Njc4MjR9.cFgRJpoDxtb_yt8_zbzrGLZEa_A6SmFrcVfErYP-tLnAczakoX-HPaHfHUPucgxHOWUSQJQS3BeTW0XQANPk0A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:44+00:00	login	r_abigailb4p_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:44+00:00	name	r_abigailb4p_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:44+00:00	last_login	2018-04-24T11:03:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:03:44+00:00	api_token	7d011f57ad943be71f16ecec0c97bc6d
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:03:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYWJpZ2FpbGI0cF92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExOTgyNCwiaWF0IjoxNTI0NTY3ODI0LCJub25jZSI6Ikh2aU5SZ0xCMzZZVXRUcGV0eE81UVdDWUI4MDJpaVZxV1pvZXF4aURlZlk9In0%3D.3WZitt8_hZTsaKtjH5cwWPHjxGHrv5GjWUtRB8gZzI-FAhmtxeepffQ5XH0dayHGlr1izpRg8md5CfdUeRkBAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:05:04+00:00	twilight-user	{%22authToken%22:%22bxjzrjvp7x7iu4c5tigtfi382h9oqm%22%2C%22displayName%22:%22r_abigailb4p_v%22%2C%22id%22:%22216478757%22%2C%22login%22:%22r_abigailb4p_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:05:04+00:00	auth-token	bxjzrjvp7x7iu4c5tigtfi382h9oqm

@@ -1,0 +1,12 @@
+#g_madelyn59g_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RZ1n0AwJiqy%2FkcaT2%2Brz4COlN1Te%2BseFOjnzb%2BCS%2BpQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:58:19+00:00	unique_id	d38fcad7f7e4a113
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:58:44+00:00	persistent	216141495%3A%3A59zuebjwduin3qxyytyn2ges1ia39i
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:58:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDE0OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5MTI1LCJpYXQiOjE1MjQ0MzQzMjV9.al7hDlnKpIGulP1dFWHwwRCOuPrfl3jsE1SAF0ZkG4sHnpP2MSFkSYg6uRb2A1BTWsFjDlAk1WszEaGPiC4qrA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:58:44+00:00	login	g_madelyn59g_4
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:58:44+00:00	name	g_madelyn59g_4
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:58:44+00:00	last_login	2018-04-22T21:58:45Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:58:44+00:00	api_token	77ab969555dcb781ac4ff47e8c4a96ad
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:58:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbWFkZWx5bjU5Z180IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NjMyNSwiaWF0IjoxNTI0NDM0MzI1LCJub25jZSI6ImpQVkl1Rjh6M2FRdkpTbFl4NWg0QUFRUk9sV1VneGlhR1A4cjNwcFNvTXM9In0%3D.2KuyYb8PF76HldERHNRBeOzcd0hN2VwHOYNBp-Vtca21osiaqeb4VhE4RxhtCA5Y3wewO4w2yjFiRacLqFVTAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:59:59+00:00	twilight-user	{%22authToken%22:%22srq0a2c3hnv29c57nx71ge9w83d9sd%22%2C%22displayName%22:%22g_madelyn59g_4%22%2C%22id%22:%22216141495%22%2C%22login%22:%22g_madelyn59g_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:59:59+00:00	auth-token	srq0a2c3hnv29c57nx71ge9w83d9sd

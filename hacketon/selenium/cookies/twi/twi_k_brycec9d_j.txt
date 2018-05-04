@@ -1,0 +1,14 @@
+#k_brycec9d_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1o3uGym9qZv41pIfzvIlluPRp2FHrMvNs9lzFSKVU%2Fg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	14b19b62ee54c141
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	775708fbb698de35280fb12b64570edf
+.twitch.tv	TRUE	/	FALSE	0	persistent	217557338%3A%3Aab81rxeuxwd8wsqm75wuv8kzld0fjd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTczMzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQ5OTAsImlhdCI6MTUyNTAzMTM5MH0=.ZzPkYzkEdrlnES7qomGZ-FE13NaCYmeJI96c5qkx36CJ4E-2aSmi0QeBPhhIpU5EeA_gnA-w8eLQH_1j0M49ig==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTczMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2MTkwLCJpYXQiOjE1MjUwMzEzOTB9.c_Pvajw2cxz50e1RFb5R_Zi_L3LHMkaUikJmgishJwy7oVYKoXA2DapWduG7qZvU3Wt4FPw2_DJx4yWS8TDHLg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_brycec9d_j
+.twitch.tv	TRUE	/	FALSE	0	name	k_brycec9d_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:49:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3fb836acc1ae5d2a10cc64fe9b9245c0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYnJ5Y2VjOWRfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODMzOTAsImlhdCI6MTUyNTAzMTM5MCwibm9uY2UiOiJiaEdFSHBqNy1QRzE3c2NYS19wam1tY0J4N1JocVJYMGdKRmRpX1NNNUg0PSJ9.OKieGSv5ERJqkleMBaQeu7jRt4ILRdjtxOLOlYL_oMuLVfQOiGXhAZIlw2idjVDJ1s9rsgXxFuAZfiu34jazMw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222nxhh05jmfhvss7sskc9d1dj7os6p3%22%2C%22displayName%22:%22k_brycec9d_j%22%2C%22id%22:%22217557338%22%2C%22login%22:%22k_brycec9d_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2nxhh05jmfhvss7sskc9d1dj7os6p3

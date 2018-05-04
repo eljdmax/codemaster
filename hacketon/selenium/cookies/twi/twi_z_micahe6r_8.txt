@@ -1,0 +1,14 @@
+#z_micahe6r_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	50%2BlLVWa9nedbmt0CxQkQ2qliWZ6kF6cBkO9E0I3Cvs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	890cdff06ebf71f4
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	eb5b677f1813c1508aa6de1084d50b97
+.twitch.tv	TRUE	/	FALSE	0	persistent	217953497%3A%3A2q3d3kjttjzvkh5cdp1s0piwvonbjh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTM0OTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTkyNTksImlhdCI6MTUyNTE5NTY1OX0=.A0oILZAtWWOKY2PYtoZmoxlGGk4DZj8q339RSz5iBIF0WXZkro-mtJHx-9zmZ8_yKP94pT1GP4H4xS1RAT1eQg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTM0OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAwNDU5LCJpYXQiOjE1MjUxOTU2NTl9.mk5GNRsqYB1bO_HHX5_0l_8QHQYir1pOXGLqDkYkhE2lxEdzC8VZq-LHWa6GeCwXkOmyIOCNmBajrQHdzSC6ag==
+.twitch.tv	TRUE	/	FALSE	0	login	z_micahe6r_8
+.twitch.tv	TRUE	/	FALSE	0	name	z_micahe6r_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:27:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8d588e75117c12b11c46bc09b06dbbda
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbWljYWhlNnJfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDc2NTksImlhdCI6MTUyNTE5NTY1OSwibm9uY2UiOiJHUnZ3NFd4eUdMVXNsenpHZ3lHRjdvWWhseUJmRjc5aFVWV3ItQjhqdjNFPSJ9.6HgMmBFWOZ29_OweEIluqBQuLee3A7YM9URR3XRcM0fcSnZY2_seEkxMhoSMzsTw7Jay58FVNy11atzwwQIItg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ujmjo74zd2ms55lwbm15tudfdrq0st%22%2C%22displayName%22:%22z_micahe6r_8%22%2C%22id%22:%22217953497%22%2C%22login%22:%22z_micahe6r_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ujmjo74zd2ms55lwbm15tudfdrq0st

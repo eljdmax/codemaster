@@ -1,0 +1,14 @@
+#b_karina80k_e
+.twitch.tv	TRUE	/	FALSE	0	unique_id	663933add93bfa10
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LmeP9%2F8oONgOevTGOsqYZI5MaO8U0lN2ru2HZirahaM%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4478f479a3a947d6afcd91ba76a85d35
+.twitch.tv	TRUE	/	FALSE	0	persistent	217247759%3A%3Az6lmz5gduyx77ki0mrfnjlh052bw6u
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDc3NTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjYwODgsImlhdCI6MTUyNDkyMjQ4OH0=.KKnE9BymFmjqwH4hS_PucYIZOZZSg2t_r_HrKF4s04NdV-4I_O8qCllSDH8Kj0_RHDTnAvGX-CiyaIvZ7yg36w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDc3NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI3Mjg4LCJpYXQiOjE1MjQ5MjI0ODh9.fi9SnBy4R70SelecQ1_w1h5kGXA0YZt2iFU3P-axgrSWVjx4NPu7nV9BuFfGRg2NbxBUFIXFurfcGkFR5JF_6w==
+.twitch.tv	TRUE	/	FALSE	0	login	b_karina80k_e
+.twitch.tv	TRUE	/	FALSE	0	name	b_karina80k_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:34:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e67012283d278f57a6a918e223e63163
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa2FyaW5hODBrX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc0NDg4LCJpYXQiOjE1MjQ5MjI0ODgsIm5vbmNlIjoiT21ITlpDdGt1dEIzYkhlWXlycDN1MnZ3M20wVWg2TEl5LUtJXy1IQzVZVT0ifQ%3D%3D.6r5lqpHp3es2LUYhRND36o2HQViJMtpc_81zQM8VJxxLtjZSn5yVHmuMvAPz2Khrh_iwJUK9-S4F43PmMFqriA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22y8z86fa1w971rl2it8c7gv1m7gb31i%22%2C%22displayName%22:%22b_karina80k_e%22%2C%22id%22:%22217247759%22%2C%22login%22:%22b_karina80k_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	y8z86fa1w971rl2it8c7gv1m7gb31i

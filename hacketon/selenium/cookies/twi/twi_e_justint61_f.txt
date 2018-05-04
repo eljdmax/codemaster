@@ -1,0 +1,13 @@
+#e_justint61_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	DZWksPF2QnaOu9KjPO%2FMlAJfQcNu9cZYUg5Bn8XnF44%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:46:41+00:00	unique_id	55a6a3c926cc2628
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:46:41+00:00	_twitch_session_id	007883bf98088dc48f374297b65b5e34
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:47:04+00:00	persistent	217079267%3A%3Avrf20cip9s8x6tah5myot9x3wxblsh
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:47:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzkyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2MDI1LCJpYXQiOjE1MjQ4NTEyMjV9.wTFVOeLIbxgsg50cEaRetCVichE5GzpAlrvxv1M9khtf37ttB_rZZOHdfo-8pitV5v2qMSd9HEH2VXniOuo_9w==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:47:04+00:00	login	e_justint61_f
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:47:04+00:00	name	e_justint61_f
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:47:04+00:00	last_login	2018-04-27T17:47:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:47:04+00:00	api_token	e1b5317bf2d080ec9ce96a826c47bb7d
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:47:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfanVzdGludDYxX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAzMjI1LCJpYXQiOjE1MjQ4NTEyMjUsIm5vbmNlIjoiSU5nRFQ3Q2loZHYzY1ZmS2JFeWFlcm1Fb2tvbC1nRXlZdUpwVU1DLVNzYz0ifQ%3D%3D.Ge1cFr1zJ4keWM7aSeZVusCrj-KdlNVL-Qp3t0wbzs3vODb27tg26-zUjl7gFIXIVylacOljVV3NqJJc1_j07g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:48:38+00:00	twilight-user	{%22authToken%22:%221loofykwfcvi2su308mpup8s5gxea2%22%2C%22displayName%22:%22e_justint61_f%22%2C%22id%22:%22217079267%22%2C%22login%22:%22e_justint61_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:48:38+00:00	auth-token	1loofykwfcvi2su308mpup8s5gxea2

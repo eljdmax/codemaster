@@ -1,0 +1,13 @@
+#c_mckenzie50t_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zL17ucQANd1%2FmRjqGPcdVCcE1L9AddeqQ%2F4MnloehFI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:05:14+00:00	unique_id	62cfe7001f36bccb
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:05:14+00:00	_twitch_session_id	ba14d7ec4f4aae747505b93877d85c57
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:05:48+00:00	persistent	216490895%3A%3Au9llo0nmbzr86r4uxjbx1dv356qkh7
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:05:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTA4OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5OTQ4LCJpYXQiOjE1MjQ1NzUxNDh9.HpStbouevEyK0BoYF0ntmiFrgGWQ_yWsDpzVyI6V9j919NX6zb_gwXdSCJCdCDhukvIFcKjzqwUL6zU-CYOxQQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:05:48+00:00	login	c_mckenzie50t_x
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:05:48+00:00	name	c_mckenzie50t_x
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:05:48+00:00	last_login	2018-04-24T13:05:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:05:48+00:00	api_token	fb8225ba5abc4c7ef02aa7b95f3b0051
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:05:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbWNrZW56aWU1MHRfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjcxNDgsImlhdCI6MTUyNDU3NTE0OCwibm9uY2UiOiJ3UEtjYXIwNDV4SWRuZ3NZNjVxRDgyellUYXU5UWl1WFVrYVc0YWlTRno0PSJ9.nVjj-3IqLiGI9RyO60qa3lkGLQcoXO2v-MFDX_Oqy-FTeNznYaJGoAMI8KFaCu4qhOL_75VqcZFaI9L6celEYg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:07:07+00:00	twilight-user	{%22authToken%22:%22xpye7qcku8dv03tn81yu46u9r4p1kh%22%2C%22displayName%22:%22c_mckenzie50t_x%22%2C%22id%22:%22216490895%22%2C%22login%22:%22c_mckenzie50t_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:07:07+00:00	auth-token	xpye7qcku8dv03tn81yu46u9r4p1kh

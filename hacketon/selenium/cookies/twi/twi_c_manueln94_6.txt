@@ -1,0 +1,12 @@
+#c_manueln94_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gONS0YSfEsdx4aNBks%2FJreKZJuKwfZOqGOUVes5%2BYJw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:20:18+00:00	unique_id	3bda43f03fe6ad1d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:20:38+00:00	persistent	216475164%3A%3Aqkfchrw42eas5kqdr2ds75uykyr2jr
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:20:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzUxNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwMDM5LCJpYXQiOjE1MjQ1NjUyMzl9.uBCYvCUV__AWzpJ26sJGFD4U7_a1UMlsizO5hcwlRJc09KHAvRiiz5UACFwXkQUgAIueFQPRpgaid9HvArOfdg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:20:38+00:00	login	c_manueln94_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:20:38+00:00	name	c_manueln94_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:20:38+00:00	last_login	2018-04-24T10:20:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:20:38+00:00	api_token	a20b4ecce3de201aa72da9e871bbca07
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:20:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfbWFudWVsbjk0XzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE3MjM5LCJpYXQiOjE1MjQ1NjUyMzksIm5vbmNlIjoiYkxjQnJ1TG1VREctTlJxQ0hwaWxmTkdhZjhET0ZHTjNQeHU3NEFQdGEzOD0ifQ%3D%3D.TWaeKHRPoBKTDE5Wa0HY5RSPFT04hDvPNw_cgplhxSzpJoJbYjEKX4LBUSnjh_a7l0W6G5a6YPV_sFYb2BkjAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:21:57+00:00	twilight-user	{%22authToken%22:%22qusmhy7pcw9jov88rglmttyvwbdv3u%22%2C%22displayName%22:%22c_manueln94_6%22%2C%22id%22:%22216475164%22%2C%22login%22:%22c_manueln94_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:21:57+00:00	auth-token	qusmhy7pcw9jov88rglmttyvwbdv3u

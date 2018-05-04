@@ -1,0 +1,12 @@
+#m_conner85p_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	L%2Bo5JmJAiy6ixLgJ6JO4y5a7zxQKJGz1NFkX3GGCbtU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:42:00+00:00	unique_id	c526d950b8f8c12c
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:42:23+00:00	persistent	216947051%3A%3A1amnbjcm5je0g1f4fxq2ypsihvcqc4
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:42:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDcwNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzNzQ0LCJpYXQiOjE1MjQ3Nzg5NDR9.0on-YGmIRP0yleQadmOWTraIgmrpeGCJ57gLvh2QRyVgEVUlqi_gmS850LM1kv3zzMfKXZjg2fJafAPZS3nR7Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:42:23+00:00	login	m_conner85p_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:42:23+00:00	name	m_conner85p_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:42:23+00:00	last_login	2018-04-26T21:42:24Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:42:23+00:00	api_token	fce7ae92ac512452d8b830a25d3ebf2c
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:42:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fY29ubmVyODVwX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzMwOTQ0LCJpYXQiOjE1MjQ3Nzg5NDQsIm5vbmNlIjoicVVkTXl2cm82MWg4ZFlDWlAyVUV3UDJ2TThxUk9yS2oxTEFkVHBHRHNHTT0ifQ%3D%3D.GDF6YodybYa-WZNMp2FftNDB60I0SaW9p-2ik7uZyuBAfg4d6hone-WCEEv-sz3mvZ7B8P6DhXs52F7i08HHLA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:43:55+00:00	twilight-user	{%22authToken%22:%220j2lmgbaba2gwifodt4tc54ndayvte%22%2C%22displayName%22:%22m_conner85p_t%22%2C%22id%22:%22216947051%22%2C%22login%22:%22m_conner85p_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:43:55+00:00	auth-token	0j2lmgbaba2gwifodt4tc54ndayvte

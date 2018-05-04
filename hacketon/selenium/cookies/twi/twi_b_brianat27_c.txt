@@ -1,0 +1,14 @@
+#b_brianat27_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sCecKY0TnWCoHXaLpIQiGjBCbiwZd1gAgXqUcW0hyPc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a1c9d45f5ea8fb80
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	087f84e140ef17f184328ef3447540cf
+.twitch.tv	TRUE	/	FALSE	0	persistent	217503365%3A%3Anemrbvzm1mp24klsk9nwcmtwtx0h7w
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDMzNjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMjA2ODYsImlhdCI6MTUyNTAxNzA4Nn0=.NaJA7s6LDVmtFiYcHulW6kAINriVhgwIvCX8YO45dCnSV7f0aKB7AkeTrORcYnmlaGe7iqHTvWiDBr9YEieVgg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDMzNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIxODg2LCJpYXQiOjE1MjUwMTcwODZ9.XcWlFh68R8EEl-0WfpFFvOxVcW_WqyLr8ySMhS6uPgLBMkfyofa4CU29DOvWmcYcEAulv32kLY70C36xwW5qyA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_brianat27_c
+.twitch.tv	TRUE	/	FALSE	0	name	b_brianat27_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:51:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bed3a622284e57d627a6b001541bddcd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYnJpYW5hdDI3X2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY5MDg2LCJpYXQiOjE1MjUwMTcwODYsIm5vbmNlIjoiOG5GOEVUWllud1Q5c0JmSlpFd2tBeVVFQVdsWkRUc2RKZEdpZjUzOWNDUT0ifQ%3D%3D.67wdRlb7anWM1K6ZAzhiCDzYpKp1kMhOTwqCFqrHWE4091FiEUl_GHSD5IlvL7Yt_njmnxzSt6fqnb87aQvATg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wvuvix9sp3ot4j9rzvkbfbiuh24bcj%22%2C%22displayName%22:%22b_brianat27_c%22%2C%22id%22:%22217503365%22%2C%22login%22:%22b_brianat27_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wvuvix9sp3ot4j9rzvkbfbiuh24bcj

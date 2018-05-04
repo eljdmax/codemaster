@@ -1,0 +1,14 @@
+#p_erick86k_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	W%2FooYz19Mh5Hj7orv%2B0hxlKnT7vEJwT%2FaRiz%2FLEYfC4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	45be47f1884821e2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a2e6ca0377af0d00ebcf66ddff2b5ffa
+.twitch.tv	TRUE	/	FALSE	0	persistent	217896531%3A%3Azs471hyu78vh6gt0difnysvqtuzmjh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTY1MzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk4NDUsImlhdCI6MTUyNTE3NjI0NX0=.RUg4osz8ZOKv6G76EM3OzsPsrU8u2Qx71sOKC36SarSB8kUkGh7IX7PXmowVzXSOidUd6USEEn2OPSW3_Vo-8w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTY1MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgxMDQ1LCJpYXQiOjE1MjUxNzYyNDV9.jtBOmFx0sJq6eyWKl7YxZtsL-AzzYfwiImDwuH1sONloGc6TOVP-HO1hqRgKgFY4vOh8a_I42jSN6Nh5D7mIfQ==
+.twitch.tv	TRUE	/	FALSE	0	login	p_erick86k_w
+.twitch.tv	TRUE	/	FALSE	0	name	p_erick86k_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:04:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	68c8b6a88387b8689d25f5aff71937b6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZXJpY2s4NmtfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3MjgyNDUsImlhdCI6MTUyNTE3NjI0NSwibm9uY2UiOiJmWFlzd1N4anlYc3NkaG1XbDZ5cXRaLWVONGFVTWVkNVJ0YnJpeTBiOHRjPSJ9.9rCqgA0ObUv0TX7vfWsXf4oszY37QIbyrc7UGWPOESoskYiXeEOA-j_7fDfWNv7p919lxGiH12eJfgr_nNX-kw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bsfnu306tg5n0c02jx7i1lx5wpts5f%22%2C%22displayName%22:%22p_erick86k_w%22%2C%22id%22:%22217896531%22%2C%22login%22:%22p_erick86k_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bsfnu306tg5n0c02jx7i1lx5wpts5f

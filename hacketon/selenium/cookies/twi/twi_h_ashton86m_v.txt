@@ -1,0 +1,13 @@
+#h_ashton86m_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	teVzr1X8OucMBm3kxyywFtL0kztDvwnTh2SRRS29pHo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:24:51+00:00	unique_id	129e1758b9dd3aaa
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:24:51+00:00	_twitch_session_id	713296a0055c3672806827da8ddea612
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:25:08+00:00	persistent	217551695%3A%3Ay1yk6ub2mx874p8fq2j61w6qe9v8dv
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:25:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTE2OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0NzA5LCJpYXQiOjE1MjUwMjk5MDl9.JVXBr825EofrRlM6hWmI_iTwfCON2b7qgmM3yaJGDtU27zSQjoWEBjP-BPVBGEWqws15Eb1QYJ56zI2_zD6DXQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:25:08+00:00	login	h_ashton86m_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:25:08+00:00	name	h_ashton86m_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:25:08+00:00	last_login	2018-04-29T19:25:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:25:08+00:00	api_token	1b9bacbfcc65035e0b17b50473d84643
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:25:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYXNodG9uODZtX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgxOTA5LCJpYXQiOjE1MjUwMjk5MDksIm5vbmNlIjoidUNDOFNxSVFrNTNxeFNwSVFHQ1NCc3JqS0lKNExVNk1VQ0FwZzR4OHU0VT0ifQ%3D%3D.R3xHMtDHUdI5Pgkg8WcKziJUpX2mb4_dBruKiqXZQO-L3T4nzEma6B8pGTsj13XsWDzSb05DarpDo7_n9e8TKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:26:54+00:00	twilight-user	{%22authToken%22:%22krngzt5tmhutspymnzed7b91yib3ld%22%2C%22displayName%22:%22h_ashton86m_v%22%2C%22id%22:%22217551695%22%2C%22login%22:%22h_ashton86m_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:26:54+00:00	auth-token	krngzt5tmhutspymnzed7b91yib3ld

@@ -1,0 +1,12 @@
+#j_diego28v_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cPN701ZkMRIs9O6eLzo%2B2Buvygf%2BFkyD3uIaobdqRPY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:08:19+00:00	unique_id	ea18aeca4651a69d
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:08:34+00:00	persistent	216941782%3A%3A4jgp1n089elke1jhhy5y9q67q4g75l
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:08:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDE3ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNzE0LCJpYXQiOjE1MjQ3NzY5MTR9.1-iamHB-gT08Czy_KUx20Ky1hswjO2f-Xk9i5k_OVH0e-x8yjMGV58oitZ0UL45rP1X1R7x4vmmVIOKopBgpFw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:08:34+00:00	login	j_diego28v_m
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:08:34+00:00	name	j_diego28v_m
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:08:34+00:00	last_login	2018-04-26T21:08:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:08:34+00:00	api_token	d61d2ebfb3846e23fd837c6442e940c5
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:08:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZGllZ28yOHZfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjg5MTQsImlhdCI6MTUyNDc3NjkxNCwibm9uY2UiOiJCRmxBU0k5Y2xQTzB6TkxUTDA2eEk2OFpYNHVDQjNCMmpILVQ3aWdkUVhNPSJ9.mt1glz_oHrDTxL-iRrYH_cHZjymfe8Z1xzXPWqfmL6PlTgP97eWNbq5DxlfTPIiKThe9h1Kr4P_N6i13NThxCw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:10:03+00:00	twilight-user	{%22authToken%22:%229d55c0hrpk9bxgbjqhfoyrpp7g87tc%22%2C%22displayName%22:%22j_diego28v_m%22%2C%22id%22:%22216941782%22%2C%22login%22:%22j_diego28v_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:10:03+00:00	auth-token	9d55c0hrpk9bxgbjqhfoyrpp7g87tc

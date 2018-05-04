@@ -1,0 +1,12 @@
+#l_cameron79m_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Mx5byfSO1J61mLx7CzjKVCdR33aMOq8nHzZQSBmgwWA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:16:15+00:00	unique_id	99c03d16b1937c9f
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:16:53+00:00	persistent	216943097%3A%3Azm8mtir0wzjd39cre8vfpra2kwqyx1
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:16:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDMwOTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgyMjEzLCJpYXQiOjE1MjQ3Nzc0MTN9.z-MqJXQKeHu_RJX4Iav_e-rr-owMd5ZbUPK4E7PUbpTdPaAbCSiAB9vkBgbNWd80vtJQoBvUZz9z2sDlbzxRdg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:16:53+00:00	login	l_cameron79m_0
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:16:53+00:00	name	l_cameron79m_0
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:16:53+00:00	last_login	2018-04-26T21:16:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:16:53+00:00	api_token	37cc9a63d20b2bb5dff6078c7737cb92
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:16:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfY2FtZXJvbjc5bV8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyOTQxMywiaWF0IjoxNTI0Nzc3NDEzLCJub25jZSI6IlZOc2R2NVg5RU9nSUNfSnhxT0I5SXJfMHMzT2RZckc5a1pCVFVBR1lkLUk9In0%3D.iboeptiKZKEee_B8dTzymhAeFjxyvoumK73DzS0CglL4HrBHx7MHq0LQuWfcHwYtc3kEIEoDCJkAo2628Cbhgg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:18:25+00:00	twilight-user	{%22authToken%22:%22yeda4zj9fmwf6jq29xxai66tz1ll3r%22%2C%22displayName%22:%22l_cameron79m_0%22%2C%22id%22:%22216943097%22%2C%22login%22:%22l_cameron79m_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:18:25+00:00	auth-token	yeda4zj9fmwf6jq29xxai66tz1ll3r

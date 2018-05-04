@@ -1,0 +1,14 @@
+#k_tristanb4y_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SXpmSE1nRjb6ude2Mj3XuwZu4Vo3Q1OLq%2Bc6jMIRTvs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:32:38+00:00	unique_id	6abe4aebdb3e7ab3
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:32:38+00:00	_twitch_session_id	3d3627cd32fc706a1dbaa02bb973a736
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:33:09+00:00	persistent	216487077%3A%3Amlcpmwku8hm8kfg0w36cpwsvgidzaq
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:33:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODcwNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3OTkwLCJpYXQiOjE1MjQ1NzMxOTB9.H7X8RMSTqB9OMxQl5uViaUsoThI7vysPHUiv9IqyZxt8YZ5WohbzNnYgwJGx8jl1oMrDgAj9tiOh4mkNaPOLSQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:33:09+00:00	login	k_tristanb4y_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:33:09+00:00	name	k_tristanb4y_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:33:09+00:00	last_login	2018-04-24T12:33:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:33:09+00:00	api_token	5a3f15c3fe1de271d1d7538c7ac63558
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:33:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfdHJpc3RhbmI0eV83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTE5MCwiaWF0IjoxNTI0NTczMTkwLCJub25jZSI6IlJXTG1lUHJnNEdFd2lIckdhdEFtZk4xanZvUEFJVGZFbjBNTEcwUC1UMjg9In0%3D.lL3xh-79_zCDyGxt0dpOq-LpW0ebbfbZUch7SZorozVUnJvVB6GntOxW0KqT9fy8FjpVFG12CuO-H8l16_VDCQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:34:29+00:00	twilight-user	{%22authToken%22:%22yndzj8ldw4cfgw2ktin9knr51e6zu6%22%2C%22displayName%22:%22k_tristanb4y_7%22%2C%22id%22:%22216487077%22%2C%22login%22:%22k_tristanb4y_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:34:29+00:00	auth-token	yndzj8ldw4cfgw2ktin9knr51e6zu6
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:34:30+00:00	twilight_onboarding	true

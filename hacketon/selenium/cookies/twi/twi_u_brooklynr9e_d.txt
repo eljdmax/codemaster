@@ -1,0 +1,12 @@
+#u_brooklynr9e_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pSPXVnVjJ52XapMgF3QdzzqESgBGITuQ%2FYJxSFzgMWc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:09:46+00:00	unique_id	7b33b00b5cd8dee1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:10:05+00:00	persistent	216474350%3A%3Agq3lfzb4maww3vmcmoq4imgz7eiof2
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:10:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQzNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5NDA1LCJpYXQiOjE1MjQ1NjQ2MDV9.Pnf6mQL6Xh70Zo6mj1SyWbcZA8SE1aTCEDqxBeeT-Fs-SkoExEe5VbnKpd-eN0BJNHr7W-I7mgNiRN1bz01sBw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:10:05+00:00	login	u_brooklynr9e_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:10:05+00:00	name	u_brooklynr9e_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:10:05+00:00	last_login	2018-04-24T10:10:05Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:10:05+00:00	api_token	0c92a99b3b5fea2713fb97e1939cca6f
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:10:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYnJvb2tseW5yOWVfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTY2MDUsImlhdCI6MTUyNDU2NDYwNSwibm9uY2UiOiJBUzd2RnhSUS1uRHJNZHY5OHhqUUtobVR1X2d1bFNKcXJxSUZWU3ZNZDhFPSJ9.EeU9RAkct0qeE19vMopN5JMMtyoctp9K8coTa4GoqWdEXffbaB_ZoT_1Uz68tzep_ejdcQVJCpm4SULpVoZVWQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:11:25+00:00	twilight-user	{%22authToken%22:%22rdt6tuprdzdkloqolilnx1uga27atl%22%2C%22displayName%22:%22u_brooklynr9e_d%22%2C%22id%22:%22216474350%22%2C%22login%22:%22u_brooklynr9e_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:11:25+00:00	auth-token	rdt6tuprdzdkloqolilnx1uga27atl

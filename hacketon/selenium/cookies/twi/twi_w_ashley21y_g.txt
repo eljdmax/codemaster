@@ -1,0 +1,12 @@
+#w_ashley21y_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Zn%2F6Zm9aT%2BU8SKJetsME6HwkapR0h7nuipOtSUiNWQ4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:41:04+00:00	unique_id	07190eba6a1492f1
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:41:23+00:00	persistent	216936936%3A%3Ajt8pzofzydx9uzur3zdfm5srqztqid
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:41:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzY5MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMDgzLCJpYXQiOjE1MjQ3NzUyODN9.YYJoqOOk7g9AS4BlIRyOe6MndQLhDC6f5UXaesyScQB7bpehqRJUF1MpKbJnPijU5Q5I0ui4XDh2NJrw2atPhg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:41:23+00:00	login	w_ashley21y_g
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:41:23+00:00	name	w_ashley21y_g
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:41:23+00:00	last_login	2018-04-26T20:41:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:41:23+00:00	api_token	c13590e52f93fadf6e86c65774549b57
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:41:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYXNobGV5MjF5X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI3MjgzLCJpYXQiOjE1MjQ3NzUyODMsIm5vbmNlIjoiNVZoQzRONUNXQ3V5VnE2RnpHZDFBSEFIUnh1S1U1TmlvbW4wa1d0eDRxND0ifQ%3D%3D.HlAMsoLfXXfBFp0XmTLfbxBRGdEPLNseMVy4H6q2ngImMSk83jfZPkbLoOeTa1HIpLB9LxfzOw7why8yJm9KeA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:42:52+00:00	twilight-user	{%22authToken%22:%226okuj0yagzol6cvw3wj51jsqamkhb4%22%2C%22displayName%22:%22w_ashley21y_g%22%2C%22id%22:%22216936936%22%2C%22login%22:%22w_ashley21y_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:42:52+00:00	auth-token	6okuj0yagzol6cvw3wj51jsqamkhb4

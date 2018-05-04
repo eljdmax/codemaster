@@ -1,0 +1,14 @@
+#r_nathanielt8u_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qAnbbDw1rliReCl2qtmxjx8ebHZQTUZyukjgRuAoviA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2ff37fe38478ed70
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	dd4901849bb444d3acc7d553fb6e31ab
+.twitch.tv	TRUE	/	FALSE	0	persistent	217502309%3A%3Ady74fvinqomheu0zux3eky0vc7xgqg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDIzMDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMjAzOTEsImlhdCI6MTUyNTAxNjc5MX0=.226w4yHE5vFaiKj2qpK9xrYhDSU85sgUVKijG53HQ6aWKWUcglZWi4bZeIKmp7JjfNetkfot8Y6JF8AHHyNNJg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDIzMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIxNTkxLCJpYXQiOjE1MjUwMTY3OTF9.y-c6OOGEw8RftNxsg7N4VkPOS73SaBgyj4N-seM6ptz_zs92IHjIpTcoZ8-s_7rUtnv-sKc_5dJbg9MBrTNnRA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_nathanielt8u_e
+.twitch.tv	TRUE	/	FALSE	0	name	r_nathanielt8u_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:46:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3aa15b808b1827f15287c4348b72efe7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbmF0aGFuaWVsdDh1X2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY4NzkxLCJpYXQiOjE1MjUwMTY3OTEsIm5vbmNlIjoiVjBEVmlDZ3VfYmJZMm4xSTNsR2sydTJYV294MTIyb0E0WFV3MFNuWmVRdz0ifQ%3D%3D.FZocHx193HchrhfJQhows_q7eZXQ-M8GXGX30UcI4ttpE68yloJJ_bY_9bf0hqjQwXytiwwNsvQndopm5koRWA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p1rd194siej663o83icfwmjr9lo2rk%22%2C%22displayName%22:%22r_nathanielt8u_e%22%2C%22id%22:%22217502309%22%2C%22login%22:%22r_nathanielt8u_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p1rd194siej663o83icfwmjr9lo2rk

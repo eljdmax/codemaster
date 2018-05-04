@@ -1,0 +1,14 @@
+#y_john64w_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ZLYwEzz0xJw1pKy9dmkswWtzFtAntYZQl2zR2xe1v1U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	019632fb693f327d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ff2a394313be163614943020dfad7cdf
+.twitch.tv	TRUE	/	FALSE	0	persistent	217454116%3A%3Acjcm1jzbngwbzwapxvg9grut4bu51q
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTQxMTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE4NTksImlhdCI6MTUyNDk5ODI1OX0=.5U_VqH7Z6xlggU9GEKr4I2nL7RtSd_khAClfqwuamTZ7ACTloHjKMA3EclCEd2ytFGmZ18Mg3t7meFrzdATOxA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTQxMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAzMDU5LCJpYXQiOjE1MjQ5OTgyNTl9.SMJl4ig8Gmm3cDIARN62ophRI0W1qyHKTNbzH49E0KbWx5IRkeRfBo5haBxI_ksBYzQIB74bMoTwWwcI07o5cA==
+.twitch.tv	TRUE	/	FALSE	0	login	y_john64w_a
+.twitch.tv	TRUE	/	FALSE	0	name	y_john64w_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:37:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	132e088e733967759582be2525c8a39b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfam9objY0d19hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MDI1OSwiaWF0IjoxNTI0OTk4MjU5LCJub25jZSI6Ilp4d1hjbGp3RjFSR0pjYm5mNi0zLTY2MmVGd2w3QnFpei1kc2VGdkExdWM9In0%3D.mknXdZPndSgXeSoJQgQi9TXt8Nnpy5Fq6mqZMYQApODTFqDWTADfNQp6DvIjz9NZUcYq52JiHvML3CljwDLvJw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2248bskr4t9h8qckj6xsfjrk0ungp36y%22%2C%22displayName%22:%22y_john64w_a%22%2C%22id%22:%22217454116%22%2C%22login%22:%22y_john64w_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	48bskr4t9h8qckj6xsfjrk0ungp36y

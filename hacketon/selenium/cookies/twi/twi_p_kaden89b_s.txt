@@ -1,0 +1,12 @@
+#p_kaden89b_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8xv8AithC7gKiunKi2UrxThRNkDYDbi4uDAliSXIcew%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:58:14+00:00	unique_id	fa8125c9d64cfa41
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:58:31+00:00	persistent	217559319%3A%3Agh4r5golp13jmmis3boq1yvkqpxbt4
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:58:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTkzMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NzExLCJpYXQiOjE1MjUwMzE5MTF9.9A8sDrUuPI7SLH1hNAW4epjwkly8vnDg4t76MhRR7QW5CMXeAsKzf0o9arBfJ-DJ342L4JiTRF7qvA_ARwHgIw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:58:31+00:00	login	p_kaden89b_s
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:58:31+00:00	name	p_kaden89b_s
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:58:31+00:00	last_login	2018-04-29T19:58:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:58:31+00:00	api_token	02696014ac678617c8ef621c1b24170e
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:58:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfa2FkZW44OWJfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODM5MTEsImlhdCI6MTUyNTAzMTkxMSwibm9uY2UiOiJZYXNaaTR0VVFaUUJZMWNkNnZRMEdlT1JDOURyYk9uSEJBOV9ZVTVjSF9zPSJ9.RPVBvg7OCNJyYzaiInVTsySzvdiw0oagA2vv5WQK0M3gIcDIKaMO7xIOA5wejbqZpGksPaRqOyD8YPXUeFPo9A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:00:15+00:00	twilight-user	{%22authToken%22:%22hw1awl8en06yptka9llycw7q53jd7k%22%2C%22displayName%22:%22p_kaden89b_s%22%2C%22id%22:%22217559319%22%2C%22login%22:%22p_kaden89b_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:00:15+00:00	auth-token	hw1awl8en06yptka9llycw7q53jd7k

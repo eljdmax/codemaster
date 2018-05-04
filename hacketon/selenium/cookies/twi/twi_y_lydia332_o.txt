@@ -1,0 +1,13 @@
+#y_lydia332_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ZPooJOI2vYW2RJz6RKBJ5KrbFnVP13bmrA0MOg7CeCs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:41:28+00:00	unique_id	617978f3faf8cacb
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:41:28+00:00	_twitch_session_id	6fcc93031fd4acf142a9b3c117d4d23a
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:41:47+00:00	persistent	216946953%3A%3A7w814sicl0hqxjpgz2b5sat6skcpjz
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:41:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDY5NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzNzA3LCJpYXQiOjE1MjQ3Nzg5MDd9.DlF6yK77G2hnDS61kJ4lN0LTjEqzlQxhLtVLWUSkrICDzciRaNluJpESByvAQtelHQfLKzdRBp87NZwTi3jgIw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:41:47+00:00	login	y_lydia332_o
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:41:47+00:00	name	y_lydia332_o
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:41:47+00:00	last_login	2018-04-26T21:41:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:41:47+00:00	api_token	5b8e07e8512ef7c8b5f35911c22f084b
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:41:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbHlkaWEzMzJfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMzA5MDcsImlhdCI6MTUyNDc3ODkwNywibm9uY2UiOiI2U29nYkZVQ3MwdDhmOW1YZjhXUGdIa0ZZaHNyNUpNekJQdW5zalZDWEJNPSJ9.5RPMJ5UyOuhOC0bHdUd86GwA6OpbS1FOXhRsyx07dQgeojdm-ifemq18qJhDYHH2kc3ckK5yvYZgZxZ5-v0K8A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:43:18+00:00	twilight-user	{%22authToken%22:%22jjd3uuas1941halggs4msopc0tko1f%22%2C%22displayName%22:%22y_lydia332_o%22%2C%22id%22:%22216946953%22%2C%22login%22:%22y_lydia332_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:43:18+00:00	auth-token	jjd3uuas1941halggs4msopc0tko1f

@@ -1,0 +1,13 @@
+#m_markj8o_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WfoIrNwy8mDYiUT2aVaHziiZ%2FaEp%2BgRMvefYxfHdfE0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:20:48+00:00	unique_id	d0f610314a35e119
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:20:48+00:00	_twitch_session_id	8a5d6661b6d80c1da5d748a9b761d8ae
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:21:02+00:00	persistent	216145518%3A%3Agtrkha3y5lmw1k8xb6t02kl6uarrnq
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:21:02+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDU1MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwNDYzLCJpYXQiOjE1MjQ0MzU2NjN9.TSDg0BFeR8yOdCZVWnPxlqLwmm5A2p9kjWDSuhN16wihtVu6_JTXbAHy_Qknj9gyWMtjKcnVYXyB_RSHZvSu6Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:21:02+00:00	login	m_markj8o_f
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:21:02+00:00	name	m_markj8o_f
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:21:02+00:00	last_login	2018-04-22T22:21:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:21:02+00:00	api_token	0c2886da2890bf8b53436efff66de3f3
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:21:02+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbWFya2o4b19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NzY2MywiaWF0IjoxNTI0NDM1NjYzLCJub25jZSI6InJ1N3pTOTVHNGlLcWQ5S1kyaURKSmNXcktQbF9lOWU1QmtEOE9sdk8xS0k9In0%3D.qxHH2X0CKRshKhzJVlbEAQv9Ajq6TmZvBdBExs0QJCI01mG2GQEZMtBzqDoVOzt_otAbfW3f9i5SqWWLFDZFGA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:22:14+00:00	twilight-user	{%22authToken%22:%22047exi773lakvawyurv3cukr1rhy4c%22%2C%22displayName%22:%22m_markj8o_f%22%2C%22id%22:%22216145518%22%2C%22login%22:%22m_markj8o_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:22:14+00:00	auth-token	047exi773lakvawyurv3cukr1rhy4c

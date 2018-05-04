@@ -1,0 +1,14 @@
+#a_jordan16q_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	t2VM1DJoApU%2B6G1F2ruLtuhZzXEYzP6vjLe21r7igJI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4d23beec3075797b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	820a461a3a7f16ba26ded8ec565aa746
+.twitch.tv	TRUE	/	FALSE	0	persistent	217449822%3A%3Arh2oxdjaprvvr4ahjt94i0n9phtobi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk4MjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTk3MzYsImlhdCI6MTUyNDk5NjEzNn0=.k0On7dtOgIi-MjJkuQRDa_Vqp5oVqjGzD1AKov3fq-_nI2v5KW57kpUjFdszuyCT041I5H54I1pk7iRvsS9NOQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDk4MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAwOTM2LCJpYXQiOjE1MjQ5OTYxMzZ9.gqpeFmEC7L-bCuEOHrxB5XGuVsOd_vXu4ER8aoiRg07ajfjePbRH2wYs9OITiiOuPGxyovFBLGxy52SlI_VTCw==
+.twitch.tv	TRUE	/	FALSE	0	login	a_jordan16q_g
+.twitch.tv	TRUE	/	FALSE	0	name	a_jordan16q_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:02:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6ac2063c4c602af84fb80c3141a33a16
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfam9yZGFuMTZxX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ4MTM2LCJpYXQiOjE1MjQ5OTYxMzYsIm5vbmNlIjoiaS1iTmt6Q0ZILVFoeDlOOWFkamVWb1pZTTlGeTV3NUh0N2lqQTVlMnBqaz0ifQ%3D%3D.kiLF0R157W3_kkmj1eA4TL5qFQkdOeE20jtEoEtmUFsG2khyT0H85saDirenq5ijXUqnOvtih1zAH1_J5rsW8Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n50i7ps6ko8pp580k28zntrptkr65d%22%2C%22displayName%22:%22a_jordan16q_g%22%2C%22id%22:%22217449822%22%2C%22login%22:%22a_jordan16q_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n50i7ps6ko8pp580k28zntrptkr65d

@@ -1,0 +1,12 @@
+#b_kyleev63_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1cMa4r2giqxPf%2F59tDvxhiyyp%2BjYgc1r38D5iVRH33o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:38:33+00:00	unique_id	997eb8714a804acb
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:38:54+00:00	persistent	216137884%3A%3Afull5rmty93g16yatvt7cvcv46018t
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:38:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzc4ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3OTM1LCJpYXQiOjE1MjQ0MzMxMzV9.HaoUQjcCCxW1X52XeKKI-e2b9e7qytlbjInMUA2OQWxGs9dn8DNDbobVa_RNj2ugaWlme9U0fpXzIil0qugyNg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:38:54+00:00	login	b_kyleev63_c
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:38:54+00:00	name	b_kyleev63_c
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:38:54+00:00	last_login	2018-04-22T21:38:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:38:54+00:00	api_token	701ad2481b52b75712d30f9b554d0b4c
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:38:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa3lsZWV2NjNfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODUxMzUsImlhdCI6MTUyNDQzMzEzNSwibm9uY2UiOiJ1UU53YzJsYUFaTl9jblN5VUhkOXNMczdtcm5oaVptRDBFc1FlSFR6NE1FPSJ9.BNqRHCNT3GeD4yvc7VSfa6_1C9VtR44Lnwx-LE2wEuhNtTvYvZ-P4oNtWL7JMJJP8hHA5BouiQ6Fe1JV5UYdsQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:40:08+00:00	twilight-user	{%22authToken%22:%22jkiqfrioc33iphh6ljsldnp8td9a64%22%2C%22displayName%22:%22b_kyleev63_c%22%2C%22id%22:%22216137884%22%2C%22login%22:%22b_kyleev63_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:40:08+00:00	auth-token	jkiqfrioc33iphh6ljsldnp8td9a64

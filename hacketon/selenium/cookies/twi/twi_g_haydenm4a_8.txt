@@ -1,0 +1,15 @@
+#g_haydenm4a_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zpsagsGZeBCTaNf6XsF6TyTrath3A16oTnw%2F%2BshXvQg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:19:27+00:00	unique_id	c91048524e948020
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:19:27+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:19:49+00:00	persistent	215244860%3A%3Aok2qsyi9a769h4oyr8pc4rx52eu75d
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:19:49+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDQ4NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMzg5LCJpYXQiOjE1MjQwNzU1ODl9.YwTNXwQkg-Jp1VF7EqPKevGaj5q9LKlSwtseluhoQAWpCjJ-AFcpGZOZKQ56qj5LpV6ZS_OH3YGL_V6rKTuBkg==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:19:49+00:00	login	g_haydenm4a_8
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:19:49+00:00	name	g_haydenm4a_8
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:19:49+00:00	last_login	2018-04-18T18:19:49Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:19:49+00:00	api_token	60325d3739bdd0473fcfa240f87217be
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:19:49+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfaGF5ZGVubTRhXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI3NTg5LCJpYXQiOjE1MjQwNzU1ODksIm5vbmNlIjoia3ptUEJZR21EVjRnclp0LUZhbm9pb0N4Nmg4UDRWNW54ZVY2Vml1N1RVND0ifQ%3D%3D.xZMhk5kU89NbEtAqhJiBO4y_R9l7kzRmqOoZDsX0WqznICX3EM0MPzxQf3tLbpJvTuEwQ7g0IRgvKpiRXpdarQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	2020-04-17T18:19:53+00:00	__gads	ID=1dff54b3690abe4a:T=1524075594:S=ALNI_MZS84PNB2NuQdQCcpGZ4PrLZYjDIQ
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:20:53+00:00	twilight-user	{%22authToken%22:%22hmpcd4knpx9gzwq8lc3imqgdmkox59%22%2C%22displayName%22:%22g_haydenm4a_8%22%2C%22id%22:%22215244860%22%2C%22login%22:%22g_haydenm4a_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:20:53+00:00	auth-token	hmpcd4knpx9gzwq8lc3imqgdmkox59
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:20:54+00:00	twilight_onboarding	true

@@ -1,0 +1,13 @@
+#e_henry48d_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nChYjhGqAxfplfLFgTnhSv2j%2BOizJgQNkKn2RGtGMek%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:16:12+00:00	unique_id	6c1d79764a84d2bf
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:16:12+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:16:30+00:00	persistent	215244199%3A%3Axmz3a7wpi3wzgi4ut829d9jg4mea03
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:16:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDQxOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMTkwLCJpYXQiOjE1MjQwNzUzOTB9.tiWAfJAHaeEeeQgqt-geaX91gAH0nqT8FD2os7Hot0baoLrsE2gOzaj6KT9RdWM6e4EJDHkUo9TfwUKe9V18ww==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:30+00:00	login	e_henry48d_q
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:30+00:00	name	e_henry48d_q
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:30+00:00	last_login	2018-04-18T18:16:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:16:30+00:00	api_token	730277a7903b60a4f88596fc37e97725
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:16:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfaGVucnk0OGRfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjczOTAsImlhdCI6MTUyNDA3NTM5MCwibm9uY2UiOiJNSXR0bWs4OXdIZjNFVlRGM0JsWDZYQjM5MkJWTDRiRHFOdGhuZzFKN2I0PSJ9.j93_s-CyF0TC2144J91p1S5MkxfnNytSQqXn8omi5suOlAMdvR155Xmpg7fXlX_WoPUdn4W6sbtZZhVa-wnNyw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:17:23+00:00	twilight-user	{%22authToken%22:%22gkxjbbsxa05al4akpyd1zu873k47ta%22%2C%22displayName%22:%22e_henry48d_q%22%2C%22id%22:%22215244199%22%2C%22login%22:%22e_henry48d_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:17:23+00:00	auth-token	gkxjbbsxa05al4akpyd1zu873k47ta

@@ -1,0 +1,14 @@
+#t_colinj82_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	T8dk%2B4TlWbd1Mxkww2j4gic7GKwsXTespIXG5xVpbkE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	61b9d8aa6863b319
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ba3bfed699fdc635e917ab4a7fffcc66
+.twitch.tv	TRUE	/	FALSE	0	persistent	217240631%3A%3Alwcbkdmjiv7ke5d3o4b84gg1crgfsa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDA2MzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjM4NzUsImlhdCI6MTUyNDkyMDI3NX0=.vztP1MWNo1FJxQr75mC9h0p7B1EW4UYHAtXY651qJF2f627J1ocQ5_urQYKPsKg_94Mx9HPxGinprtvLJFhqZQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDA2MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI1MDc1LCJpYXQiOjE1MjQ5MjAyNzV9.l9sL3Kp2Q7JHC7qoW7VA_TvqmB0nuJLWdSn93YDrNSXTHW7_PbBcb4CnrfZlZzt0__rwAJ_sTbrun2vIMOkUEw==
+.twitch.tv	TRUE	/	FALSE	0	login	t_colinj82_5
+.twitch.tv	TRUE	/	FALSE	0	name	t_colinj82_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:57:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4c89844f8cce9878fad991debcdfaea6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfY29saW5qODJfNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzIyNzUsImlhdCI6MTUyNDkyMDI3NSwibm9uY2UiOiI1ZTdxWkhSNGR0U0JjQ0taQmtpZjdMTG8yUWlJZzk2Vl9qMnVQTE51UE1BPSJ9.DyV99e-iU3eW5jAWxHvez53iSJdfd25pTFSpM33nOt2zdE78Ls1eWujnxsLoUwGcm2oRUDcDZr27PGLV8vswBg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sdguzeposz82e0b63ajbon7llvp8jj%22%2C%22displayName%22:%22t_colinj82_5%22%2C%22id%22:%22217240631%22%2C%22login%22:%22t_colinj82_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sdguzeposz82e0b63ajbon7llvp8jj
