@@ -1,0 +1,15 @@
+#w_chloeb4a_w
+.refereum.com	TRUE	/	FALSE	0	__cfduid	dc838f6c7b498c5b5d5e2eee2b9c03e4a1525354809
+refereum.com	TRUE	/	FALSE	0	ai_user	rHymQ|2018-05-03T11:26:49.701Z
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	7-pOp7u3mVTtxyNHhoiWa9WNgq6lrYl0flLjfrphlXeSilU2sR4MyaOnbVdfIZHJIH-rBS3jTBdtMxfCHdO7vxyMOKKCR_c6RfAdrmLFiAQ1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	edc2bbbf596904153be635b5e239f45adcde751e1c08d9ad71f43121064b7712
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	ed3hjk4rm5autz0s1oh0v11v
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	REFQTx4LryKHPkZsLdr_t9q0TVweXZvIZMdWp1M7XugcAw7KuUVMoC5WEaGXLkiA2HwtJDwnlWtFZKtS_xrXumGlioOsBJ0xprXdtg05HQeYk3Zq3byBmGc27-XEFpcez5b_6UngqjvOcJeJho9QSvowWbywfsNnWRxTEkt0fcDFhJ7nDdqQm0NXYY11mNRhElca64bvmwOVJRsYRz1WBTgQ4AdC9S9Op2Q3qN1Y4-aSqsQQUpiNouV3IZH3hccwn7IxAK4BobBrQvU3e9BWG0TpGcqHQzhWmxWKFxgoK-j4_nkxgxCC9mDWd1AtRQKUQnBJTLD7r2hgtf1IvpaL6VWA41nf7Zqlk9JofMbciS_T2fAz3zpjsDJZ3V17Po48eZt4hEj4_kWQSBF0pqGrb050UgoPX6uGsyo0pQajMF922hqEXg8VNk-917PiqnvrQFFavZ10GcZZDeQ4w_bUkQkG-YgodCOzPsRylBoDAUg
+refereum.com	TRUE	/	FALSE	0	ai_session	mO7sE|1525448136319|1525448175483.945
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.1508375826.1525346809
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1044310657.1525448130
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1525448134775%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%222950295681407342%22%2C%22pageviewId%22%3A%224593134247757986%22%2C%22sessionId%22%3A%223991366572941482%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D

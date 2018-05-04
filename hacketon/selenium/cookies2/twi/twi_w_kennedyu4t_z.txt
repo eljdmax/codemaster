@@ -1,0 +1,23 @@
+#w_kennedyu4t_z
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9kHFdj6dGXpX9WcNvretxfntYoRWbuuACfEGBZ2pqPk%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	396a42a86833a7ce4264570d2dd11111
+.twitch.tv	TRUE	/	FALSE	0	persistent	217725085%3A%3Ansbtwy1zlrsb7g4dj4qfwzt8ihyzqg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc3MjUwODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxMTExMDUsImlhdCI6MTUyNTEwNzUwNX0=.5cRMADEq9taYTTTSuiJWhEnBzI5i1jQ_abB2oGlZD_xD82pYK6EZbmmoCqBemwfuaOMcaKplQtBI91LbkNPM_g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc3MjUwODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzEyMzA1LCJpYXQiOjE1MjUxMDc1MDV9.qLO5ku3yQW7FebgdqSqw6hYeXZ20Dgq6vWYyENWywcugvFBSepzYnQZB0trdTw__ez0ITmytHbmUkxi7puFsbA==
+.twitch.tv	TRUE	/	FALSE	0	login	w_kennedyu4t_z
+.twitch.tv	TRUE	/	FALSE	0	name	w_kennedyu4t_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-30T16:58:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c7edac3b11cd6a261228f2904eff27f3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2VubmVkeXU0dF96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDY1OTUwNSwiaWF0IjoxNTI1MTA3NTA1LCJub25jZSI6Ik4wR0ZMOC00ZkFMaENhTV9acHFGWGVWekpRV3dZa3dsbUxZRnlIaTVZNGc9In0%3D.mdc8FUG9rXcqIQ6q6tKssOIiDSgCjh-v9lE95RsQ6PdjazVyLd9RoQxO_6eO7g4ljg3aRHfbjD6E1E0OZIhblA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mbat5xk9gcm5cd52c3gez4qgytortn%22%2C%22displayName%22:%22w_kennedyu4t_z%22%2C%22id%22:%22217725085%22%2C%22login%22:%22w_kennedyu4t_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mbat5xk9gcm5cd52c3gez4qgytortn

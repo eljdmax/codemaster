@@ -1,0 +1,22 @@
+#o_camila91p_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	MFaIQknUxnOx4weFsHGY%2Bx72ZViw%2BhB3OxVsEqmT9eg%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217703940%3A%3Aozwgbtkfvq8ai78cxyd2n72pbezeqs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc3MDM5NDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxMDM5MzAsImlhdCI6MTUyNTEwMDMzMH0=.TpcNapUHwE6td1ELrG4wlZUUOetG9Avxc4l2IFKv7C-FvdbK43IjlRGDDxiB5TxifhoV-ZjZdglnJ8JO7YsOHg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc3MDM5NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzA1MTMwLCJpYXQiOjE1MjUxMDAzMzB9.8jR6IADml3N1qUF6wGFpF7mK-tTUmkgVPmBLHdp4gIsCe3k1B0Pcrf20LPFFX1_xHke7Eb5wQ8XlLaitSHXluw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_camila91p_w
+.twitch.tv	TRUE	/	FALSE	0	name	o_camila91p_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-30T14:58:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	351bed22f17340282c82bdc61e4c9f4a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2FtaWxhOTFwX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNjUyMzMwLCJpYXQiOjE1MjUxMDAzMzAsIm5vbmNlIjoiZnFfT1NWem5yUnZUQnpKdTdKODV6MHBKUzE0SVUyRGRPTngwZ0FKc1d2az0ifQ%3D%3D.dfWau7BKab_edsAA9wCLZy3b3xVk3PBfNQqEdMAC5FoDIyGmWfXZgnJ-PITJEU1caiGhsYNmY5X4WFVOZ1DyPA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220jhh78m1eocn8d9rfjn43re4nlzqve%22%2C%22displayName%22:%22o_camila91p_w%22%2C%22id%22:%22217703940%22%2C%22login%22:%22o_camila91p_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0jhh78m1eocn8d9rfjn43re4nlzqve

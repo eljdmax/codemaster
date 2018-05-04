@@ -1,0 +1,17 @@
+#r_cameron14p_i
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	taufiksmoeis
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	0z0UmzYd_ZHnwZAwjr21BqDZk9LRuZFmIE9qa9yC3LzsOEziK_JekPbsItaPe-f2nO8t80FVJI3nOchaQiwoiX1R3xqcqO_ThE5Q_gxpa8Q1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	edc2bbbf596904153be635b5e239f45adcde751e1c08d9ad71f43121064b7712
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	uvswaeuumkivzimywufubvq1
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	f4foKLPH5Pfq-8DfCFCq-WuxPklhJjABUcWYwEFoC_uDHgP5B_AnnpW5qz9nM8GZeF2gHDCv6Lh03ppbp0T2YVmx9MjHKBoYgtVg4XjrBvmB7aQrkK9oHTSGNpjTJRvqT70rnDHMrX-3rozGMxMQHHDc5F6lcAkjCTBMWaSSIPwgLaTHjKj09oP5sLGGjiyQtRAnHl1lWTFK3j0_Xtaak7ukyzgvUij-hGP8rixaqo-mzq0M23bsi2QutapD__SVzi5uosXZJnt4y6S_Xi1vOjbJ6G0x_ScKwe0sa0abCG0I1YgArMvWvydoXly8-puSaSMpIXGsnbQr2skpIFQ5f--rmf5-hLpwKHf4_3MxB_XKcv_rJE66WZcfWE6u8HZzp65V9tQ9qsOB06a4kjXPbFZlnytMoG_IkykU3b5M6hc1lasBfLSoWsZZFDITULiye-RHtEwsNGsMkWu6wiS2eNHyz6fo2iXct8mWcrrGXxKjAblSJUP2G4ZNjvZcI0gp
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1440082113.1525098226
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1525098235822%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%223405462654061344%22%2C%22sessionId%22%3A%222578699896388630%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	271v6|1525098235894|1525098265796.095

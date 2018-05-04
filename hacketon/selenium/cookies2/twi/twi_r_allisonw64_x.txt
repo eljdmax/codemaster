@@ -1,0 +1,16 @@
+#r_allisonw64_x
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7b5484c5c17c16d
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTQzOTgzOXxlMzBLfPl-M_mOhxJM2sfhD-eh72WXguMXaqx0LSYIdqDYxOZf
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EyLfW6s5QNl5WPHFscuCOzHiKlhrf%2FJwqZjszCM5Kfk%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ed1bd4f4d5898619b82fde7849d0fa5c
+.twitch.tv	TRUE	/	FALSE	0	persistent	218458198%3A%3Aiwmpurbvhds99hsy9ous8vdafv2no5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NTgxOTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU0NTU0ODMsImlhdCI6MTUyNTQ1MTg4M30=.roR99Nhyc-eX65qmRbMabgho0kYXKfKmycBBgkJDHonGpexKjzF0UHlN-XUCcXX-0fxzpdg2-hFRxXlSPWRBIA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NTgxOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MDU2NjgzLCJpYXQiOjE1MjU0NTE4ODN9.ykWRCaHQJ_Zgxs6jYRv4G93gUQ54t1BA1m7zUWae_OksZqHS0C60vPZ8Q0tq9WjW1qegjtiyStQj-TKDQ023Xw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_allisonw64_x
+.twitch.tv	TRUE	/	FALSE	0	name	r_allisonw64_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-04T16:38:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7c26cf9ea2f3bfb5a949bd89e8816965
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYWxsaXNvbnc2NF94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTAwMzg4MywiaWF0IjoxNTI1NDUxODgzLCJub25jZSI6IjJNUVBRTHB5RXRxNk9MMlJvWm5aVFloTllkamhwc0stN2NqdGtocUtnRFk9In0%3D.J0E4I5OMMdcTjfI6CZoVfcQAIGN6BTCR7NAB-D4Ihyb1cBBfclSVoH5fNic8SB51m-NShFZJFkONzCvUxA3KMw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hsomw74k8i81ltxdfmh7v2b8wxyntq%22%2C%22displayName%22:%22r_allisonw64_x%22%2C%22id%22:%22218458198%22%2C%22login%22:%22r_allisonw64_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hsomw74k8i81ltxdfmh7v2b8wxyntq

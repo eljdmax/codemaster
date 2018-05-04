@@ -1,0 +1,17 @@
+#h_gracem1p_a
+.refereum.com	TRUE	/	FALSE	0	__cfduid	dc838f6c7b498c5b5d5e2eee2b9c03e4a1525354809
+refereum.com	TRUE	/	FALSE	0	ai_user	rHymQ|2018-05-03T11:26:49.701Z
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	z-9baDZewt-dyck5DN_235bbrPtkvyMcQgYdNiVO9ijyprnlMeXFLJz-laO89tSz7b4Yh0xQb_dW4S2SMCQ6kPDV0ZTfo-3ncPYYTP7HNU01
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	edc2bbbf596904153be635b5e239f45adcde751e1c08d9ad71f43121064b7712
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	refereum-language	en-us
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	g5tefnirmm2ea2y0oyedt20x
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	y9diIiOQKqSzvaG5YBy84hOVcmmWZV4l3M015Kt5Zg-hA86gfZ-fZ1K0GLdeXlbaaP68hBQYGRTKXb_zr2L4O_N-55VC4MA1BoC6m7Y_ywkMNjWeu_f7C47I6o339rdkPXSgjvRAeTbX1ETAIlBdWCg9bPyfxSWIE4QZQBKXNJaRRZwID_RZxaVc89PmMU-TNZh5bhv_MbAwm2AZxVvzF8xlYQeiT5sq2pKGR4iDfZhd_4s2uxtK_4D4nUizfcywZwZRZCeuhPoulB204T7zr5nfJu5DXTW5wzH9ApJ9ChQKRogl-8PzgJ6h1eIT-QItV7vLJkaxdrkif4zilYWLfpkp6hRKmkGch3Vm8ESzzl0LMi6qxScZTwdE6q5O3HROMI09T6IM-Agx3McWNyYqBkt-WxXp7iFhF0FuZgmvUJnJejfJ4n8jUrWAoyQdv6PHTDzaH_3Q6Itu3GFrGnM4DCwkzSJ57yzwCZAZIp4-SZY
+refereum.com	TRUE	/	FALSE	0	ai_session	qQ2jO|1525447148424|1525447193807.34
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1525447141669%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%222950295681407342%22%2C%22pageviewId%22%3A%228062830063166164%22%2C%22sessionId%22%3A%227822508748836549%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.1508375826.1525346809
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.924956589.1525447141
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	dW5BOXlCZ05DK0h0RkZLdE9JdXlaNWdxbmhwaUpqS2NLSndVZXZNYTZIRXhsMjI5YnNwTWh1MlpxUDBrZmFXUS0tNkJlWGRaSXdpeDdQOGs3SXZGMHhYUT09--3599d04f421cca5faa008fb0ec71d8b5477545be
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1

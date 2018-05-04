@@ -1,0 +1,17 @@
+#z_summer524_b
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	taufiksmoeis
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	fZoAeTX6Tsn8wZ4xN0kuycWR8GSgqbqlRA5sSm7XI5dsQm7SA86S0YXJJ8MetB7hP4jyMXfQs6zIF9aROXhhcDBJ3-csxjL6hewTKh99Pug1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	edc2bbbf596904153be635b5e239f45adcde751e1c08d9ad71f43121064b7712
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	t0k430owpqa2wnxfbpwiqvq5
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	9OYfGj1aRtXaNLHvimhjzTwTtHwo6VNU-LqrVnRzpY8JkrEG7VcUipdRFdH1c6xKtZ6duSbKWXSwyHlyUeSqw2zzJU23tSRzonhFrrZ8opnxUGDew-YshfsDd6hCSb7y7ElQewDQublCbyotJ-W3wjR1LETQZWasVFUYRUR1kKOpq6TtgaHcrKqoMSKRl91ddmEQTdKSl971wNvEtNVnt64-o-cLyXXIP7ZGzZSp-_C6Loq7b0O4RvGkFqxNi5MD0vUlI_6QQ4mms_1EoGVGeAoJ11HYxGZCJ9ybdz4PVMUhglreRl2Cr64i-qsv3m718PivRAA0s6xZZbM60XlfiSIbemwuZAFntYyyI0v_LpvZfWTBd8FJpgL7gOJNefr2I3leZ-yqQyoUjnbhXubQ6fdAK3RbtSsHB60mLVD0ZEdY2AnrElmLn4F2imGJsxk6l8f29W1PGmsSdhhuquIopJKJQM-bpxOcLeliEp5LgHhrJrzv1wvD1DXD9Oool3e_
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1274498332.1525089453
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1525089455291%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%227419141501458592%22%2C%22sessionId%22%3A%222654149775639161%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	/klvJ|1525089460543|1525089489814.935

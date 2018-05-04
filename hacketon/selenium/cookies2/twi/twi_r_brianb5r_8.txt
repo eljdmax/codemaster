@@ -1,0 +1,15 @@
+#r_brianb5r_8
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7b5484c5c17c16d
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTQzOTgzOXxlMzBLfPl-M_mOhxJM2sfhD-eh72WXguMXaqx0LSYIdqDYxOZf
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BW5coWN1PX7989p%2BxTMfUmRgdEigMYRjbe7KA5ynAzk%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218450223%3A%3Al993aawbxytlql8hqz4896ebyb19yc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NTAyMjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU0NTIyNjQsImlhdCI6MTUyNTQ0ODY2NH0=.EjNhtO7lE508RPYFc02pOGYHtR8CPFT4_e5qty_xXPXkYLWL22ZdDsSUElQhXjvCHyX_NEUY-2rZcTkb0hhsnQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0NTAyMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MDUzNDY0LCJpYXQiOjE1MjU0NDg2NjR9.q4LKTo5-7yUTASPi9X1UGcl8Psp9FHG4Ee905ZmpYOl82oXyqhQI1tZopuSxOQVUV2aDh-3H5zB2HQS1t8S54w==
+.twitch.tv	TRUE	/	FALSE	0	login	r_brianb5r_8
+.twitch.tv	TRUE	/	FALSE	0	name	r_brianb5r_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-04T15:44:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2b89692281abe68dd3f0ad5a940eef99
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYnJpYW5iNXJfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEwMDA2NjQsImlhdCI6MTUyNTQ0ODY2NCwibm9uY2UiOiJnSXpBdHRRMzFRZWtlRDB5VTJ2ZWY0OXM1MkNsdHctV0hvSzlWdjNUc3BFPSJ9.8vifdaS3lMBBec3UqL_4W1fvlOjGTGj9nXO2ZVtPdlZoSrYz9NFhDeIxySVcWJawXgI0LBRg_ajGa2nKb8bGog%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22na3gwmk3hjltasakkevq97csj86ejg%22%2C%22displayName%22:%22r_brianb5r_8%22%2C%22id%22:%22218450223%22%2C%22login%22:%22r_brianb5r_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	na3gwmk3hjltasakkevq97csj86ejg
