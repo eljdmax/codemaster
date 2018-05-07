@@ -1,0 +1,14 @@
+#l_amberx4n_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	L6SRI5saCzMhXhNhJQNLyOUC2notQY60cnhGek%2FvvVA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d654db95349e042e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8dc5f6acef6114f2723c2d79638d818d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218937748%3A%3Aj24iaig301upbea2pigye109ls4y0w
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc3NDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI0ODgsImlhdCI6MTUyNTYzODg4OH0=.wW54r2ooQNMchuzn12iIJKIZhJE-O64NMx4JVJask8bC2WR5zWsgnVTzx74igfTtgNgVUMmqvuOWe7lM3jZAOQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc3NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzNjg4LCJpYXQiOjE1MjU2Mzg4ODh9.UmrQX98RXVc-dckHiRctzGZcBlFHV7i87ZzeSPSDCuc5fCrkvq-zue5UO1fpRtIuIXqwUiyZajgNLXg3MVwj-w==
+.twitch.tv	TRUE	/	FALSE	0	login	l_amberx4n_3
+.twitch.tv	TRUE	/	FALSE	0	name	l_amberx4n_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:34:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9901399c0afd3c0ccff5f7b2d6028add
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfYW1iZXJ4NG5fMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTA4ODgsImlhdCI6MTUyNTYzODg4OCwibm9uY2UiOiJsQmF2eE0ybnQzWWJ6c1puU2VqQzEzX2tPcUhEXzdJNXJOU0ZtUm8yYm00PSJ9.SM2oKjGFjUvw28mbKtfCG_EUwgaf179CERoyeWKgQRM4CNruFr7MccQTfs_sBirC4uyR3SftMRAd1JboScBqcQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vuaknk88v3zqinirsupvhs462togti%22%2C%22displayName%22:%22l_amberx4n_3%22%2C%22id%22:%22218937748%22%2C%22login%22:%22l_amberx4n_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vuaknk88v3zqinirsupvhs462togti

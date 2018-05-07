@@ -1,0 +1,13 @@
+#s_javierm7u_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ZzkWnhxDkFFWEZs5UBXWNpE4HIV5xOe6Y9jTY2fD6so%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d29d278d8eec7f6c
+.twitch.tv	TRUE	/	FALSE	0	persistent	218942909%3A%3Aj29oiylq97cq6lwopo4squvdficsiy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDI5MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQxMzUsImlhdCI6MTUyNTY0MDUzNX0=.0ZmSkYJvTJ2i19UfVgasp4QWRaYw1gAWM7GNtLx421e5DOMJfj4ZIGlYXClmZ3Rt9OGlijft8J4MwjCbJ_vAmA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDI5MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MzM1LCJpYXQiOjE1MjU2NDA1MzV9.7HLlkCNzhF-jPFJa6ae_hn8XkSGWtUkDfTboLC6wceWPWULRDDx-zyw-oPnU1CLeYMOfNUpfk4yDD8ep3ZfrbQ==
+.twitch.tv	TRUE	/	FALSE	0	login	s_javierm7u_3
+.twitch.tv	TRUE	/	FALSE	0	name	s_javierm7u_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:02:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0e25b95e815fbfda22539457b4a63b36
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamF2aWVybTd1XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkyNTM1LCJpYXQiOjE1MjU2NDA1MzUsIm5vbmNlIjoielloeFVNOXBBTk90TzFlX2dyd2VhV2FBYU1FbWh1alpvbS1sMnUzSWhPQT0ifQ%3D%3D.EQ-XFo1rpUUjFDbbUdiWbqjoNh2OIbcLlImJPwfAw4GpS_yahmFlUOHWY1jCcagO-3-6hkO0-toCQvs0KFimKA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hgxnht63zhuumopsr8zkyvzawussny%22%2C%22displayName%22:%22s_javierm7u_3%22%2C%22id%22:%22218942909%22%2C%22login%22:%22s_javierm7u_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hgxnht63zhuumopsr8zkyvzawussny

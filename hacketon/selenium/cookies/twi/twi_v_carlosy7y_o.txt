@@ -1,0 +1,14 @@
+#v_carlosy7y_o
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cLRYY8KdpmiWOKo3jB374HYNaEYgAU98A2gS3b10VBs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e3eb37624aa68c62
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f8027837ea54eb9bbabf972481cd2785
+.twitch.tv	TRUE	/	FALSE	0	persistent	218883743%3A%3A5yt0ntm0dbn03lor451e2uhx1f7ghd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODM3NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjc3MzAsImlhdCI6MTUyNTYyNDEzMH0=.f0rJv9QS9ZiymVe1M2dy8zbZZog1TqJRevMH0Ke0nfYBfmup_nUJzE7c2ekejeBu8yQL1V1rP46umejE3GRoJQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODM3NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4OTMwLCJpYXQiOjE1MjU2MjQxMzB9.Zo50SCn8GEoGjTLuJfvjlPX8mkxnR7n24CA8ILTMu80Q3NLavbs_SONtaJwINs9eTrvxjpQ6Jt0Die96x65pxA==
+.twitch.tv	TRUE	/	FALSE	0	login	v_carlosy7y_o
+.twitch.tv	TRUE	/	FALSE	0	name	v_carlosy7y_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:28:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	80564ad17928fddde8921d8cd02ae442
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2FybG9zeTd5X28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc2MTMwLCJpYXQiOjE1MjU2MjQxMzAsIm5vbmNlIjoiM3RVdE9MMTNuTG5sbnAtQzBvVzZSWFlLM25pMkItUDVQaUZyY29TXy00MD0ifQ%3D%3D.v3I8Sm09MtDA97RYZPP0HYJHfNVDzFNm93cPNNOwpBrFKUDMjow3dbAQiUmBXRU2ooQH58qt3NnIIjjMKD2iYg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227wdd34epd0po6jd9op9gz35ry8xc4n%22%2C%22displayName%22:%22v_carlosy7y_o%22%2C%22id%22:%22218883743%22%2C%22login%22:%22v_carlosy7y_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7wdd34epd0po6jd9op9gz35ry8xc4n

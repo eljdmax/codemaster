@@ -1,0 +1,14 @@
+#y_erick80d_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	MHyROv5xp80L4SaS%2F0lrKxCRenHuJGpug%2Br%2Fl9F0iyo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6ab099793d2237cf
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f2c10f96429bd8fb1b551d3c73c0fa40
+.twitch.tv	TRUE	/	FALSE	0	persistent	218938752%3A%3Afgih9grdxjff84dbkeghrf90xvmq95
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg3NTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI4MDEsImlhdCI6MTUyNTYzOTIwMX0=.3XtljAwGZGLmZrz5nTa6AH6dwUfIorI-N59QppswWpyjJ3mN22zROJWhnXGtnya5Y2pl5VgIMJnwsodeY1zE2A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg3NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0MDAxLCJpYXQiOjE1MjU2MzkyMDF9.YpsfQC6XvcS5BNWnjkiJbPtNF0MEjoIHmbTGpDVHqc_ltmIkujhd4JnboDAs4YwVi-sJaBgGln9YXbN9_0UBKw==
+.twitch.tv	TRUE	/	FALSE	0	login	y_erick80d_7
+.twitch.tv	TRUE	/	FALSE	0	name	y_erick80d_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:40:01Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e2d20009a0857436e51b3531fca63b19
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZXJpY2s4MGRfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTEyMDEsImlhdCI6MTUyNTYzOTIwMSwibm9uY2UiOiItcEJtWGRXYW5mb0dtSHVXTDY1S05rNlZWektsVWVfM1hFQjd6VDY5NHlnPSJ9.NcAcnxOPcwzfO9lT-Q26fNK4tc8-0wyPaogtxzPbvB3iKRlYAzWF7o7Tja9rMqCEeB7gGnefaoPvR5p_0DVIng%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22y6cyy86k52aui4kci809gdee2mfx34%22%2C%22displayName%22:%22y_erick80d_7%22%2C%22id%22:%22218938752%22%2C%22login%22:%22y_erick80d_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	y6cyy86k52aui4kci809gdee2mfx34

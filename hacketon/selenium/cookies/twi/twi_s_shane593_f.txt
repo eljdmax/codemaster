@@ -1,0 +1,17 @@
+#s_shane593_f
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b80e5cebec2a1c21
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fdov8mbcsbln2fzeo3d4t11q24h0a0%22%2C%22displayName%22:%22i_paige824_w%22%2C%22id%22:%22218944548%22%2C%22login%22:%22i_paige824_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fdov8mbcsbln2fzeo3d4t11q24h0a0
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	qGetHyB5De755yfoqMfj78kkwxG0ztKc
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=d3ecf129daf63a80:T=1525641046:S=ALNI_MbbTP08kHj4gOy828qaMRFHmPUyZw
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	H5YBPhgqIQUCS9Vs6Kk5JWinJr6GxW6Z5HpzebWUz70%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3bdc6cef79a0401a5050abbea9fa573a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218945719%3A%3Afp98c0671879313mgdkm0zi5rxd30e
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU3MTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDUwMzIsImlhdCI6MTUyNTY0MTQzMn0=.RABcsfjNqRiO6uZ3HUdqJpncHwiZqrQuUDcAH-EWwbrnpYHyP-m5xdMIyGe1rrKB3HF6T_X8CuMWFCoG9ysMEA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU3MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2MjMyLCJpYXQiOjE1MjU2NDE0MzJ9.sdOvaaKl081oIfmQYR9wdYo2LrdJ5SJg4GEALG7yfCMgPjHXsOj3pt5wGHD7PqHrSR9asXVrkEbUPwI4D4oiHQ==
+.twitch.tv	TRUE	/	FALSE	0	login	s_shane593_f
+.twitch.tv	TRUE	/	FALSE	0	name	s_shane593_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:17:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7e785cbb3c6324176ea0d5f40d88067a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfc2hhbmU1OTNfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTM0MzIsImlhdCI6MTUyNTY0MTQzMiwibm9uY2UiOiJYWHBxdXFzNGwyOHRjUjNVd0RaZXJoZU5oU3ZtUzlseEVPZm5oX3MyV3lnPSJ9.JHr7n4MlkTTqGAWoFktQfQX3QTeH_lOIHphiG3GAzeUH7gc0F6u2a68NmV5ndLilBABgtdBvfkMLkZc61h9kWw%3D%3D

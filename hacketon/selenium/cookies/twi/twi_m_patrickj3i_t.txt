@@ -1,0 +1,14 @@
+#m_patrickj3i_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nGlsLXGa56fq6pY4N1VgVyFUTHqZVqX9G%2FsqjfWCHKw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	48348d214088e3f3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	113f6d7b2cff8502d1a01d2ac5cc5446
+.twitch.tv	TRUE	/	FALSE	0	persistent	218940046%3A%3A0rdmoomuuao388mrvrpz226nu23qf0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAwNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMyMjMsImlhdCI6MTUyNTYzOTYyM30=.83KcqQEUdcQP3Bvng2v3tWMk1gFUfmEW_ZFnTfIz-02iwM6jJNEbsOt68FuSMgg_qJcclKUo_cg_3qJ8VFYWKg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAwNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NDIzLCJpYXQiOjE1MjU2Mzk2MjN9.rgCrOhvxPmQ8Me6Y6SuKUjUQxDlGRptzeMnTZvJxFkXbelksMmexblJtSxNAF6MmkTPj-haWo3qkn8MvKC9FRA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_patrickj3i_t
+.twitch.tv	TRUE	/	FALSE	0	name	m_patrickj3i_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:47:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f931e4abce6b0fa481e71605e377a78f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fcGF0cmlja2ozaV90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MTYyMywiaWF0IjoxNTI1NjM5NjIzLCJub25jZSI6IklzLXJjUmF0YVZmNlF5emVXd1phai1qT2FlNkh6NW9TeVc2QUQ4ZGJpeFE9In0%3D.8oPL7BWhPrF1R2-N3n4xJhgbc-5OB3NTMErZPlWS2Egm2YL-7iaXk3vJealzFLDVlY4LP4goTEMrIPKfRoujCA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cysym4ydjqpghbxs69jaw9hthpsfsx%22%2C%22displayName%22:%22m_patrickj3i_t%22%2C%22id%22:%22218940046%22%2C%22login%22:%22m_patrickj3i_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cysym4ydjqpghbxs69jaw9hthpsfsx

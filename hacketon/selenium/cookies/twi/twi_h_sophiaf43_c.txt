@@ -1,0 +1,13 @@
+#h_sophiaf43_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QCTE9ZVw%2FZRc6VnkOUJkWTDsBSrvVskNHSELa%2BIONNI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	99bb42b8f3322a2d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218942262%3A%3Acabh0lyz1h98yz3kt2u5b32o7de7pq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIyNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM5MzksImlhdCI6MTUyNTY0MDMzOX0=.mpFdl3dKz7V_YN_HYO1INdx0vfTnW80PtVQNJzx3wnyqurkDXcQNUQNNzxpDhm-xnt6qaQROd2qK6GwOECH94A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIyNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MTM5LCJpYXQiOjE1MjU2NDAzMzl9.aIf0646u8B8y2odwalScheFv1SUAW8P7DScz3NUhHpTbNvlUiyjWqbldlKalqNCi-t5Fu5OZeubV4jFWnFQUIA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_sophiaf43_c
+.twitch.tv	TRUE	/	FALSE	0	name	h_sophiaf43_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:58:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3229754d025e096f9099fec512305a50
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfc29waGlhZjQzX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkyMzM5LCJpYXQiOjE1MjU2NDAzMzksIm5vbmNlIjoiaWl4VngzOW9ReHdOemZBYVlPR1V0RkNualRidXpDLUtwSENrUzFkdHZ3dz0ifQ%3D%3D.8xQrB1_eni69otAsk0MIx7sD_IFJ0HS0Ikw_94HHcfiXsLRKBgBXSLVyyx_jRcstIbjcyv-un2hC7zdFtD3tmw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wyzjp7bclmxu9o5ahkvqskybyaevw7%22%2C%22displayName%22:%22h_sophiaf43_c%22%2C%22id%22:%22218942262%22%2C%22login%22:%22h_sophiaf43_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wyzjp7bclmxu9o5ahkvqskybyaevw7

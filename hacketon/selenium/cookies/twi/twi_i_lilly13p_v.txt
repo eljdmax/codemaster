@@ -1,0 +1,13 @@
+#i_lilly13p_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2Fa5bVlpm3%2F5WVQkFfhpXgpmzCqntKFLAJlK2qW%2F%2Fr7E%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	823af08cdb9f73ed
+.twitch.tv	TRUE	/	FALSE	0	persistent	218944898%3A%3Ar23dy8zazl84jzb5ny4nqpiceorj02
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQ4OTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ3NTQsImlhdCI6MTUyNTY0MTE1NH0=.QLyRpKhJMn5sC2wz5Dv2OiySzZaDIxutaq8An23FTOUljWa8CC6E7HC-37jNPrfJOphc2dxvdITB39kUsRQryg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQ4OTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1OTU0LCJpYXQiOjE1MjU2NDExNTR9.OyfxameNQGTmW73PgFm2AROAhQD5oSIZA-Vio0Me3abeyXpqlvrgL9_ompHsI1Ld3Z-7GJ_B2ec-HcuP1SZx4Q==
+.twitch.tv	TRUE	/	FALSE	0	login	i_lilly13p_v
+.twitch.tv	TRUE	/	FALSE	0	name	i_lilly13p_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:12:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8320dd28126adf99d3ec37f011c22701
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbGlsbHkxM3BfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTMxNTQsImlhdCI6MTUyNTY0MTE1NCwibm9uY2UiOiJqdFFzU0dmbUNLQjJIRVdmbmZpdktTS2xyWXMxYUpyZUpzYnhpUXNqX3RZPSJ9.u3zqadC-6SfFE3DA_8GKaNsT1MRsEpPHxSxdFvsdlB2DNzZB4O8FQqQAQ2WSWRcbNk3bJoqmAz8MHC2uAdSvtA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227bezlgu9xizguxbb4jpr21sa2cv8qc%22%2C%22displayName%22:%22i_lilly13p_v%22%2C%22id%22:%22218944898%22%2C%22login%22:%22i_lilly13p_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7bezlgu9xizguxbb4jpr21sa2cv8qc

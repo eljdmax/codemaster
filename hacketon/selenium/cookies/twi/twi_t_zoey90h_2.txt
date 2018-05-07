@@ -1,0 +1,14 @@
+#t_zoey90h_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NBp3M%2BHTeQdpDw0hBSXzTnWAraQ7QnlFAUxglXj4q70%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	532a081b90d995a0
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	eb74b13554d8785a2cd464d02afc8427
+.twitch.tv	TRUE	/	FALSE	0	persistent	218936189%3A%3A4edpexkjy8nf6lc41uji88b2azj843
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzYxODkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDE5OTAsImlhdCI6MTUyNTYzODM5MH0=.myAcHKWoi-uCF-ddcLWhqMmBD3KbNv2iYHZ0nOQdCVbu8tsfPLjVFYL_BXfAfrDDyhC4zLFGD19cn0b4xT80vg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzYxODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzMTkwLCJpYXQiOjE1MjU2MzgzOTB9.y26JIJf5fpjLgLVGrbuRsXe-Eeymm1POIjNz-nHZlOLLiVdHluu-usBksTsoEFtpXb9rUUmpKKqOauqB398pIQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_zoey90h_2
+.twitch.tv	TRUE	/	FALSE	0	name	t_zoey90h_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:26:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	874887c418d310657b5715272a17d9b3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfem9leTkwaF8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MDM5MCwiaWF0IjoxNTI1NjM4MzkwLCJub25jZSI6ImdnZjNsNW5iYzEzUGtzNFVoQl9jdkJNelozME1JTUVIYjlfRFV3Y0FRQVk9In0%3D.y5-PkbQJoa-yBQv1XffJkgZ3JQJd4WeIwRyS2oUOO0vZzPjHINC-uSidGJbNCYDoYYxpSAa8eOcYboMosgXR1g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lgk5r8gb7g6ocndremao48izb7qfhg%22%2C%22displayName%22:%22t_zoey90h_2%22%2C%22id%22:%22218936189%22%2C%22login%22:%22t_zoey90h_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	lgk5r8gb7g6ocndremao48izb7qfhg

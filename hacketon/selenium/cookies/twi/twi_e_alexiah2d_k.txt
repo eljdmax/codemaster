@@ -1,0 +1,14 @@
+#e_alexiah2d_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	i%2FrM3YHi8YGAb8agItjjR9XXSjIpwe9wB5SINsqDy3U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e52bbb4225e87e8c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a99111d39a8e2b7e69b24815d82e0914
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032950%3A%3Azq94gtawywbay1acbleczimu3v1pqo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI5NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI2MzUsImlhdCI6MTUyNTY4OTAzNX0=.lZtjHMx_SNj4zEtAabLPp65vdBXcRsdHYpxmg2uz76zvJ9GOqtHtyVXZxwxJfxEJNJEbpWOLz2ibW2mSNEay5Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI5NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzODM1LCJpYXQiOjE1MjU2ODkwMzV9.XmimK0rCCkOP2vJ1vY-dWqABTKYzaeoqCuVct-xfcAfBLkGkIyyunxJDyVzcNx9D6dn5-ZbUhOlC2B-SOY8GVQ==
+.twitch.tv	TRUE	/	FALSE	0	login	e_alexiah2d_k
+.twitch.tv	TRUE	/	FALSE	0	name	e_alexiah2d_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:30:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c50faa4d2eb558701f8a521c71ffebad
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYWxleGlhaDJkX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjQxMDM1LCJpYXQiOjE1MjU2ODkwMzUsIm5vbmNlIjoiWHRvVlpEeFd3TWt5WXRuQlN1RlZwTTgtb3ZESmdIQnhvcnhROW5tTFVOZz0ifQ%3D%3D.cM4-kyshF2eKOCSbUiQL7oq_CWnxN7WU8K1dJRzXGGuGkJlrYVa--kahH9Bl16eO31AicPEtW-mqcIaQRk17MA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224x2waz0rrvg91yoreqrzp615yatgym%22%2C%22displayName%22:%22e_alexiah2d_k%22%2C%22id%22:%22219032950%22%2C%22login%22:%22e_alexiah2d_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4x2waz0rrvg91yoreqrzp615yatgym

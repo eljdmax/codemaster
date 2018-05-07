@@ -1,0 +1,14 @@
+#s_briana85x_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Xx6H6sLDkncRj%2BbZsrm0QNuxhSe2PFLzVj6tQuiazQM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	abe5deb6b7b3fe12
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f7f742ccad45ee477c5bfb8234d14cd5
+.twitch.tv	TRUE	/	FALSE	0	persistent	218870168%3A%3A8eot1p8rmbm3qiqm97szhojk1g17xc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzAxNjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjM1MjYsImlhdCI6MTUyNTYxOTkyNn0=.Kmuku3UrmbnFumyx_RFXsTaWFtVhgfvHg-mxrb2QFPO-TF864OwGpxTyXYJN5zBN8IktqeQklj1NigFp54H12Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzAxNjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI0NzI2LCJpYXQiOjE1MjU2MTk5MjZ9.X1xp-mxRxvhTXhwj8Ae1_nNZFssygjq3Ph5oojUQpaXfCFAzImQhR-mp7ju2007P5NU-A5TJQqryzejcQDadAw==
+.twitch.tv	TRUE	/	FALSE	0	login	s_briana85x_0
+.twitch.tv	TRUE	/	FALSE	0	name	s_briana85x_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:18:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b67e366fb7ed1344c2605da271cd65c9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYnJpYW5hODV4XzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcxOTI2LCJpYXQiOjE1MjU2MTk5MjYsIm5vbmNlIjoieWVjUml0dXNYX0g4eFZkOEhuNFlrbUJoVzJ5dW9PRnFrcVptSHNfQUhQOD0ifQ%3D%3D.HI6EoFfBFSE7QZEnV7la6GH7KRz6s-aBIwV6_x6OQw5-4gAh6hjN93arzHsP7p3FjH8vws3dblkxBDTPGXR-Zg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kz99onckoflaz239alby9z07e5n2e3%22%2C%22displayName%22:%22s_briana85x_0%22%2C%22id%22:%22218870168%22%2C%22login%22:%22s_briana85x_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kz99onckoflaz239alby9z07e5n2e3

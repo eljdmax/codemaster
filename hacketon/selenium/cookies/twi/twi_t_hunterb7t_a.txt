@@ -1,0 +1,13 @@
+#t_hunterb7t_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kOaP58Gga1fvJmMooIADwQBPuKahm6yu3Utrd4hgBks%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ebed7632d3facdd6
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851058%3A%3Au3q31k3zll1bvl83muw3pnveri76tl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTEwNTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY2NjcsImlhdCI6MTUyNTYxMzA2N30=.DBwm0TugXzUhlR_odtgFbun2_nx4QjINqDMOi9VleP2z69pMCNCbKxMLi45JEqBkFnU-QNKbdhN_uQdfTRymDw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTEwNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3ODY3LCJpYXQiOjE1MjU2MTMwNjd9.KZCUU4im_RCgoDEPy5Qt1h9WNWsuo3OQyVO7AJOGeBXVVtdUX3cr_PbjTmYiKhlvPrNUQ2UaBegRKLFXzLBvJw==
+.twitch.tv	TRUE	/	FALSE	0	login	t_hunterb7t_a
+.twitch.tv	TRUE	/	FALSE	0	name	t_hunterb7t_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:24:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	42cdb2c1281086d117905b63f2f54eec
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfaHVudGVyYjd0X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY1MDY3LCJpYXQiOjE1MjU2MTMwNjcsIm5vbmNlIjoiSHVRUTlVZnpvWWxRalU4N2Z6Q2loYVQ2VXJfUV9WN3FWVi1lZVdjQk5iRT0ifQ%3D%3D.3lXYJtTtqDI5OsHplAoaZWAqJ6Gr_GSaFLN-U-JFIbdxDTCaLk7-ZkUNCgCppKjlt-k4I17T7mPssgi6N7paZg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n3l9swr0e5yuom4btjwwuknte3u65v%22%2C%22displayName%22:%22t_hunterb7t_a%22%2C%22id%22:%22218851058%22%2C%22login%22:%22t_hunterb7t_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n3l9swr0e5yuom4btjwwuknte3u65v

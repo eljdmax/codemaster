@@ -1,0 +1,13 @@
+#r_clairex3z_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	l%2F5%2FHYHSIPAPdMZVA9gEU5sDAYcXMHj2y271EUYSVZc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	98f27ae99c625f3b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218945070%3A%3As8w1yctvdkata3vss4h6ocjtw9nyvr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDUwNzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ4MTgsImlhdCI6MTUyNTY0MTIxOH0=.Tg9MnoMAMRfkdZvxWjHn8W_lUKzrgAfX602AmRr-OeSW3yUXyM8L91_Z7Iq6Nx_QwHoEAGvEZXWGLAcGfRvdQg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDUwNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2MDE4LCJpYXQiOjE1MjU2NDEyMTh9.QeK51vkmyiXpqejD_f0SNDPs3XKJ9XTLi6ecRWiwbGhRrCvv2_ey4q3MVtcz3KrcW0Y0ZjGBhmqdweFMuK74zA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_clairex3z_h
+.twitch.tv	TRUE	/	FALSE	0	name	r_clairex3z_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:13:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	504687bba33a4280e1ca5a939e9a4633
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2xhaXJleDN6X2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkzMjE4LCJpYXQiOjE1MjU2NDEyMTgsIm5vbmNlIjoiRklrN293ZklHSnhTUzhPcW9CMzhZSGN1bTVFelhtdk81bmowV3BBUUJIRT0ifQ%3D%3D.POai0lJfsQZYD9NudY3UXnWmiFiYJCpeEsyw__azGHwEZ6X2wMc8hLPqj4RjE8pC4ygvOEzpyPASQzNXjbtaqw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gg79pywuzey9twumnrnr6x94pb5jzy%22%2C%22displayName%22:%22r_clairex3z_h%22%2C%22id%22:%22218945070%22%2C%22login%22:%22r_clairex3z_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gg79pywuzey9twumnrnr6x94pb5jzy

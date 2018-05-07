@@ -1,0 +1,15 @@
+#y_luisw4k_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	5I6%2B8GUVrPOpFW5yn6dt7uKB4Yl7HK%2FxfbeWhtIiYFE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	25584d8e0e7600fb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ed880d6e65e6e845f66a799e59d159a2
+.twitch.tv	TRUE	/	FALSE	0	persistent	218888311%3A%3A78unh69vg1afhjgidu2cvcyyu648nr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODgzMTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjkxMDMsImlhdCI6MTUyNTYyNTUwM30=.3J1WJJjrCU9wz4PTAXv88ewFqskzCyQByVu8vHl4qCXzpzjU2g1ZSv7iE6S0WMl8yuKaWXNLLg6lt2ZUhLsgJw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODgzMTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwMzAzLCJpYXQiOjE1MjU2MjU1MDN9.k4kMXPGOyuL53svFfq_WwPxzY0Kpz-_oVNaMHW73KwTt9awapBAUZZBmpMQXPYVGn5f02sVnEHNWFnapvS3Qjg==
+.twitch.tv	TRUE	/	FALSE	0	login	y_luisw4k_q
+.twitch.tv	TRUE	/	FALSE	0	name	y_luisw4k_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:51:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	12742a1972b89e030fb45c859b98528a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbHVpc3c0a19xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NzUwMywiaWF0IjoxNTI1NjI1NTAzLCJub25jZSI6ImxFdW1LcjE5Qi0tOGxUclBWLXY5dXdJRTRmazZSNXJ4bFg2VGlvRS1sZ0U9In0%3D.Ea0qh-CVqmq_SwGI2ONotUt66hGofL-LF1FP_MUxQVx_TCta199yVAOMpwwmTB0VrB_zJUKzyMY-Phl0J2voHQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	3JHNWRUX3V3P7MDeuct68AjLw7LfiY9H
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22l01jiavdr0wcdntsmvp35tenag9tq8%22%2C%22displayName%22:%22y_luisw4k_q%22%2C%22id%22:%22218888311%22%2C%22login%22:%22y_luisw4k_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	l01jiavdr0wcdntsmvp35tenag9tq8

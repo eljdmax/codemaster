@@ -1,0 +1,13 @@
+#o_adriannae34_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EKWcapdXuenm0P9eM1oWEbacw1oSFexs6e0ZfEtq4sY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	115a0e43a9f1e7e0
+.twitch.tv	TRUE	/	FALSE	0	persistent	218886094%3A%3A2c3x16900gwg938x1uinhaxt9mp9jw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODYwOTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjg0MzgsImlhdCI6MTUyNTYyNDgzOH0=.xaEUHHnnB13YBU8RGSikTbUtrVKfTVNKmM24KNjlw_WLGa31T7GizGXjgB-Sr0dkqHS_1z2sXxqcxHvNJ8rG3w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODYwOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5NjM4LCJpYXQiOjE1MjU2MjQ4Mzh9.bnsM4dS5I5BPCa3LCqxrIRagYPSAQAjTw3h9jQjHo2xBKtuAVnDTuVS4-9KOrsIbK35-u0HA074Jw0FH9ZJ6Bw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_adriannae34_z
+.twitch.tv	TRUE	/	FALSE	0	name	o_adriannae34_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:40:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	02eaa1672cde46226c76ff2dce1f1f2d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYWRyaWFubmFlMzRfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzY4MzgsImlhdCI6MTUyNTYyNDgzOCwibm9uY2UiOiJDT2JkSlJXSG1TNjVZSzUwX3NRVHdNNU5CQWtZZVB3ZWZwN0t4NFQzQ1VzPSJ9.5iY9IgLiSA6XbQChRh0ZjqYY6_01MgeNWDPzb_slp9aEZM_TLF2mEl2isI1l9pVgZv4TuYF4uZme2SSY7imXIg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228443a56z7i949mhnjdz880xs9n7wux%22%2C%22displayName%22:%22o_adriannae34_z%22%2C%22id%22:%22218886094%22%2C%22login%22:%22o_adriannae34_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8443a56z7i949mhnjdz880xs9n7wux

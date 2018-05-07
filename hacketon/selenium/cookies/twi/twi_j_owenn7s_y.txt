@@ -1,0 +1,14 @@
+#j_owenn7s_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vbbKhWYLw10xCDi5GtzMBFkbPx1Niqk5VPzWnzoFzFM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f854e97cbc6b5464
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	08eaf9f6d5a0b22dd2f00379f73b7e0b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218855709%3A%3Aeaikfp3gnv8hs5h32jwyc9q72d6b25
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTU3MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTg0NzAsImlhdCI6MTUyNTYxNDg3MH0=.WzKZ8Wrg7rVwmi9jql6ZmDziY2IFKQK_kDWfowBE_FyFFlb2b2ej1x9n6QO3WsDxxbHRuFTtWEmBX3SOpWPHMQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTU3MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE5NjcwLCJpYXQiOjE1MjU2MTQ4NzB9.iQ6t0kRZ74sqzm_fKe_kiQeqnoKV22hUa3-5d6aMbNimmQoAJaiAf3dgYbbSP5YQ_xiTP2rWk5vSeJqv08AEpg==
+.twitch.tv	TRUE	/	FALSE	0	login	j_owenn7s_y
+.twitch.tv	TRUE	/	FALSE	0	name	j_owenn7s_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:54:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	eb18727876c5d38d0ff8e72c3319c53d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfb3dlbm43c195IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2Njg3MCwiaWF0IjoxNTI1NjE0ODcwLCJub25jZSI6IlUzWk93ZFROWEplUzhaaUx2azV1eVdnbGVPaFJkU3J5cmJlT3NtSUdvTUU9In0%3D.EUfaOb575sU-cv8m2J1mpxb_iza2C68f8wl7-65ZsS4Umx5IvzKHR3SWcrF9tsziDMZ0OMSkUDXSd5CZSF_ODQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ax8t0zdpljazwk0biwbdn7ombiomi3%22%2C%22displayName%22:%22j_owenn7s_y%22%2C%22id%22:%22218855709%22%2C%22login%22:%22j_owenn7s_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ax8t0zdpljazwk0biwbdn7ombiomi3

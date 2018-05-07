@@ -1,0 +1,14 @@
+#p_kennethb2y_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	utftx46gvTMxBjreg18K7mdRUFpUjOXfGhcozmrpweo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3406001cfc78119e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	78144ceb58e9719114dce2a10ef0b842
+.twitch.tv	TRUE	/	FALSE	0	persistent	218889331%3A%3Axouscz3k1xo43mzcwuswej2627tq12
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODkzMzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk0MDMsImlhdCI6MTUyNTYyNTgwM30=._sIFrlbKbhD2zlIVgIODzJJ_-Z3euPQ72qHNha6qvgG7Y5J0US0OHoT1J00TGHRFFFpoMpaBG21lp0BDDB5uWA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODkzMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwNjAzLCJpYXQiOjE1MjU2MjU4MDN9.41UNIc_CXRQ_wfRsQ2b1OVWLYqgP7bD96TdmfyQ6RKy72lxXxL8sz3YsanvS8PGaXLssLqoHfWcZ0Djw0Wm8-g==
+.twitch.tv	TRUE	/	FALSE	0	login	p_kennethb2y_v
+.twitch.tv	TRUE	/	FALSE	0	name	p_kennethb2y_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:56:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ca6664cb1c7865dec95516d49b787ba8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfa2VubmV0aGIyeV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NzgwMywiaWF0IjoxNTI1NjI1ODAzLCJub25jZSI6IlR0SzVzbFZZOUhzbC1XR1BCVjNkS1ZEeVNON1ZfOEp3RlJPbFluckxsb289In0%3D.L1nvRkdqZPYmCSDXSbsEWfXiKr72VvPGg34y2nby38S1YlSeFMbo6ClhGhFc_dBfdqq6ipke-DEDyKvGL6haJw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22u6596p3n9lc6hoyxk8ss8bnpl97m4b%22%2C%22displayName%22:%22p_kennethb2y_v%22%2C%22id%22:%22218889331%22%2C%22login%22:%22p_kennethb2y_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	u6596p3n9lc6hoyxk8ss8bnpl97m4b

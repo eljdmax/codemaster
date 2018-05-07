@@ -1,0 +1,14 @@
+#l_jacobu4h_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6wLbzGZb7RNc0qANgLkLEhRzbqMfzGreXCWjHteFUl8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7bf126f55da56cb8
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	bd89aa3446c96dad263b2c682a9bb4da
+.twitch.tv	TRUE	/	FALSE	0	persistent	218958488%3A%3A53qn2ew2ol4r5j7r1k1c9pg66xd9hp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTg0ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk2MjEsImlhdCI6MTUyNTY0NjAyMX0=.PK1wyM3UZcxw1ypXF8laAVrUkFo5dk5IteOPOuj5iZ94RTR4AfQV8GJxQD46uebDeL1sM13xrcTKj4JNM6TXyQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTg0ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwODIxLCJpYXQiOjE1MjU2NDYwMjF9.nUWcf31UanBKr02Eni3ssGdGG5YmLFAIGFPW0V0242LqoLHPZJGdFr5Rw2lk9Gvyc-BmLYwf213ZYVIhGmbAjw==
+.twitch.tv	TRUE	/	FALSE	0	login	l_jacobu4h_w
+.twitch.tv	TRUE	/	FALSE	0	name	l_jacobu4h_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:33:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	481006f9662fb49c0455cb5d66f90903
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfamFjb2J1NGhfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTgwMjEsImlhdCI6MTUyNTY0NjAyMSwibm9uY2UiOiJUb3VjTWFzZ0RNajd3LU10VWI5T25QczNHeXdlZVhwOWlaR3dlSjVtc3dJPSJ9.W8G92Yjn1IiucdiLT9usPZXGI455zSYu9qPIN6fWQrxWNx0VK7v8yGvrAXH_1lQYhgvBtsU_7CAOwoYz7ouQNQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22td8bmek7klk0j1zeoa28zxe3qhvzkz%22%2C%22displayName%22:%22l_jacobu4h_w%22%2C%22id%22:%22218958488%22%2C%22login%22:%22l_jacobu4h_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	td8bmek7klk0j1zeoa28zxe3qhvzkz

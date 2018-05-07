@@ -1,0 +1,14 @@
+#t_jocelynk3c_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UZTGm8LUOTUFdOnD6OXNu4k7YtoLMWFRDHN2FNhSWWo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2d6556a106591987
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e0657e582800d81caa5d15ee4cbde080
+.twitch.tv	TRUE	/	FALSE	0	persistent	218953441%3A%3Anjbmek2e26h4aoswqxq1f1ls1nn5ug
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTM0NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc3MTQsImlhdCI6MTUyNTY0NDExNH0=.i_W_GTjYa_OH6xUY8MasW_AMi-jBz82or2i3c-hz2Wz4hXhe-tqyY4F890QEw7up6V5jsaYQq6a56FEJVoSVJw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTM0NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4OTE0LCJpYXQiOjE1MjU2NDQxMTR9.XMNUX3ooAoZzs92PGxtq6LOk5u9o9BY5Sd3GnTIG3H3lE-m_AynsiRghH_xjYefcwQa7ffAKxR83FkFCQlVVOQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_jocelynk3c_j
+.twitch.tv	TRUE	/	FALSE	0	name	t_jocelynk3c_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:01:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	04986b42c4fb2d5db13c00bf85465f5d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfam9jZWx5bmszY19qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NjExNCwiaWF0IjoxNTI1NjQ0MTE0LCJub25jZSI6InpwcGRBd1NQNFllMXZ2ZGJ5TEJLYnlWbEM1RG9Ja0hvQlVRUGVnSF9SRGc9In0%3D.tCNHjeO-C1egiUQGF-it7BqEQZ5GnCRbRIRxWuxbimbS2i0n3r_mR7t9CBdeGhpBLRqlGmZCtwknO7HLaxPNxQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224zs1lpdn3k3s7xhuz6fz2v1lur54it%22%2C%22displayName%22:%22t_jocelynk3c_j%22%2C%22id%22:%22218953441%22%2C%22login%22:%22t_jocelynk3c_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4zs1lpdn3k3s7xhuz6fz2v1lur54it

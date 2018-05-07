@@ -1,0 +1,14 @@
+#k_micah807_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	TGZynbLJDWwiE91WEuHq1rw8GcGLoGCub%2FUHsFgi1Ds%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c66cb32b829cd296
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ea21efc1a4785b8da34a8ccaa8ce0d17
+.twitch.tv	TRUE	/	FALSE	0	persistent	218947427%3A%3Av6r4im4optckt8pixaa6a85e2m8srs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDc0MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU1ODksImlhdCI6MTUyNTY0MTk4OX0=.NbQ4lsrLVLIIa_3kc5EafmNclyiXAZ2oKmgXWxisL5bT6rBX7Wp4ZX7ftqvcEttuVC5Konp8GOROr_KlM7eeoQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDc0MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2Nzg5LCJpYXQiOjE1MjU2NDE5ODl9.ZGvUg1KPd2CKZtkWjzyV1MK0vOQKi9NrEZFJ5RQ3iSy8m-mIgXcKqBClotGiAXt6K0x0dqjKp_UkZjzzZKzeRg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_micah807_2
+.twitch.tv	TRUE	/	FALSE	0	name	k_micah807_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:26:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1323b23781dcbed37d195a465f2ff04b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbWljYWg4MDdfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTM5ODksImlhdCI6MTUyNTY0MTk4OSwibm9uY2UiOiI1RGtzeEFKUjlJQUo0dXpLNTdGeVZibWg0Z1JmX2lQYUExME5kVnh2b1V3PSJ9.gERD-F7l2tDEuUYaLqmjeY7PA1RlbtWBjd5AYqYN1ck9883JyNrTVgKRM7uje59lGX0HfRI_6iFrpnUyZ-KfhQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22popmia2wp4v02xtuxklkj9xlgd93xx%22%2C%22displayName%22:%22k_micah807_2%22%2C%22id%22:%22218947427%22%2C%22login%22:%22k_micah807_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	popmia2wp4v02xtuxklkj9xlgd93xx

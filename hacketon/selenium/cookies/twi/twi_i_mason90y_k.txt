@@ -1,0 +1,14 @@
+#i_mason90y_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	waJLhFMsSQF5t21e2VSNmiR1%2FuaJ7cHGIFDghOpJqUc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c094db9ab5817ef0
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a02c32730cf500e2a0260888fdf16811
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851563%3A%3A2cgjflh3a9jz9xlca1rozfixmxvuyi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE1NjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY4NzcsImlhdCI6MTUyNTYxMzI3N30=.xV7lfIrQTrT6Ax0XVbOjQvoZpGBFbhixk-Z-LJ0KLOnyuULkzrjEBzq7m6Zt1bDFWp4z5H9nLcw5GWJwp8e0hg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE1NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE4MDc3LCJpYXQiOjE1MjU2MTMyNzd9.lS2B9aXfXYzt71KAmfeD7WwhKDbIPWYaPxOw1PJ2LawUDbEtSvmKVzDB9dhjKZ9KXJRZQ1a7SfVrqwtxQuod6Q==
+.twitch.tv	TRUE	/	FALSE	0	login	i_mason90y_k
+.twitch.tv	TRUE	/	FALSE	0	name	i_mason90y_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:27:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	579e14d36c9035e568ea1366cf6212ff
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFzb245MHlfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjUyNzcsImlhdCI6MTUyNTYxMzI3Nywibm9uY2UiOiI5ZTg4S09MSXp3ajdib0FtRjBuYXMzeC1XTmc4Snl3eFE2NlNLaVhCSDFvPSJ9.QSYAvAKNbNkAz0syIe4pjWIcgFwqm14Fg4qvlOUsqmnHVw74OkSPbVXXepk6jh2DFFDfPR6ZO3p0BW0UA4IZxw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rij5v96e68d4onr8emjyl4shdqvfcd%22%2C%22displayName%22:%22i_mason90y_k%22%2C%22id%22:%22218851563%22%2C%22login%22:%22i_mason90y_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rij5v96e68d4onr8emjyl4shdqvfcd

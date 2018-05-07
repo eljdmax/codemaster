@@ -1,0 +1,13 @@
+#d_audreyx5j_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	wH36h56mOZoFl5m6UnQHjxqUOmTiuN3cWafEJZwIk7A%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	887b4ac01bbeab54
+.twitch.tv	TRUE	/	FALSE	0	persistent	218865397%3A%3A2hqgescdlke0oqc7p1avr77h7e5tum
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjUzOTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjE4OTgsImlhdCI6MTUyNTYxODI5OH0=.L_-MaZFfVxRwmlI7ELzXl689xjdcnijkRa5oDTH0yXnIUKTjkjjp6NjD5rS_6mRacBJ0FDcDkzl3DTcQfgAi-w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjUzOTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIzMDk4LCJpYXQiOjE1MjU2MTgyOTh9._g7eWrG7y9MP3B0Zhm32mwvLtFD6z8NEc6ksWw1QuT9lUwmuZgY5QF5d5O1HrWQjXPyIYrcK4NZFgcPQu0BN1g==
+.twitch.tv	TRUE	/	FALSE	0	login	d_audreyx5j_4
+.twitch.tv	TRUE	/	FALSE	0	name	d_audreyx5j_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:51:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	42e6d73a1317271ef7d185492953ac52
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYXVkcmV5eDVqXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcwMjk4LCJpYXQiOjE1MjU2MTgyOTgsIm5vbmNlIjoiMTlTajBQWjN2bDEzQWI5TFlxcnlTM3ZUTTRfajBrcjN4WktfYzItbkV6OD0ifQ%3D%3D.3orFlYnrpxgt3QlgPa_4KhrKBvYA6UFpLgRFcL-d9FIfnI7woRxE1Pcx29-gWo692Kjlr4AB24L8u6hbGGpHJQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2214llkf0f4twk95v44w8fusdc4sbyt4%22%2C%22displayName%22:%22d_audreyx5j_4%22%2C%22id%22:%22218865397%22%2C%22login%22:%22d_audreyx5j_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	14llkf0f4twk95v44w8fusdc4sbyt4

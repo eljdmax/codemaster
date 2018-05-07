@@ -1,0 +1,14 @@
+#v_giovanni54k_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XUR%2BfB40Pvf3EtoLZhidcD8UA7rLhKtj7wvks9LV6QY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9fc34c079f42b114
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e796dee2346dd5f6b6530d3586be52bd
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031429%3A%3Az1cgnycgi0nlyds3eqig9pzt22h28s
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE0MjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTE0NDMsImlhdCI6MTUyNTY4Nzg0M30=.aCoFlci6AQ8wHT_w5jzumO_kb1HscxwCbgltjFYAYwMat-nzy8DSOfGstnGqQJb4J4Geb7cWCfuLngUdcUh74Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE0MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyNjQzLCJpYXQiOjE1MjU2ODc4NDN9.TK82DOALYr0B8hhlxKAda4OzN5JYaMpWrZ_-N7BO75YJ4aT_8U0cLQy5lRUiiEtXD83JA_L1gDMoxlciY4rPtg==
+.twitch.tv	TRUE	/	FALSE	0	login	v_giovanni54k_7
+.twitch.tv	TRUE	/	FALSE	0	name	v_giovanni54k_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:10:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	119118451d77f9cee952802fdce41a0f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZ2lvdmFubmk1NGtfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzk4NDMsImlhdCI6MTUyNTY4Nzg0Mywibm9uY2UiOiJ6OTFrSnVaa0RpQVlBeC1pLUhjRGF2VDVUZUV3NXRVdkxmdlFVNHdVZFZZPSJ9.clr3voQytIIpOXJ62UBuLrc0zoBsk42DjxJHQ00qojhmcPslnXOiuQDMbAJHvd5FL3R2qwx_eyke_IV4jJYNCA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22a6y170k1i2oiv8dtntiz3dbeopdyi9%22%2C%22displayName%22:%22v_giovanni54k_7%22%2C%22id%22:%22219031429%22%2C%22login%22:%22v_giovanni54k_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	a6y170k1i2oiv8dtntiz3dbeopdyi9

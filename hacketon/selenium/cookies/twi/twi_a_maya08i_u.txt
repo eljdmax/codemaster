@@ -1,0 +1,13 @@
+#a_maya08i_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8TK6cfJeH6upTXpUTSM7dZi3f30LzvZBBn1HbFDOkp8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3f785a79e5717e60
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957997%3A%3Axxm543g6e7b5z8zf5n0tn1oljetb4t
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc5OTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk0MjYsImlhdCI6MTUyNTY0NTgyNn0=.aEYQjcguV0THubEIwYJ3fmYaVLRX4rc-5kcoPH7UbC_2X8uoRN9S1X8poP8nr2E15flEhlrMvZtmn4eIrDKTyA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc5OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwNjI2LCJpYXQiOjE1MjU2NDU4MjZ9.5bYP_S7l5_1FMVMDlMQwNCZN0qhl-pDs9dWXd79jEM10bmb3l0draYkub23Ga20Yhefh_Vkd4pwTSB3i2MU22w==
+.twitch.tv	TRUE	/	FALSE	0	login	a_maya08i_u
+.twitch.tv	TRUE	/	FALSE	0	name	a_maya08i_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:30:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	df05f08813a003ce83c5e9d2874c3946
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbWF5YTA4aV91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NzgyNiwiaWF0IjoxNTI1NjQ1ODI2LCJub25jZSI6InNXRE1zeEZPcV92OUhaQktueThvYkM3dVN4Z0ZQT0FmVDhJRkdnNnJUczQ9In0%3D.qycRikDsH3IpSj5xbNhy_cYwEqHAaXsXKSCuHk3JFZyyYhkTHn_acFgHJotva72tlsafJ3LD7EvhPMpjk_h9Ag%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22olbm7s3wd3891b7bgc4oa7jal26mrm%22%2C%22displayName%22:%22a_maya08i_u%22%2C%22id%22:%22218957997%22%2C%22login%22:%22a_maya08i_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	olbm7s3wd3891b7bgc4oa7jal26mrm

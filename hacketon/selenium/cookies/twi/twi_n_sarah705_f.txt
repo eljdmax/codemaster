@@ -1,0 +1,15 @@
+#n_sarah705_f
+.twitch.tv	TRUE	/	FALSE	0	unique_id	281f51337ffd3257
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	59%2FWJJNYPX9Hc%2BrKlEeehN7LHqXbx4GPH7p%2Fm6nRdAM%3D
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.480677349.1525642609
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1586173831.1525642609
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949256%3A%3Axbvwdbxdb58cx4lqyfsp8k60loqeni
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkyNTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDYyMjgsImlhdCI6MTUyNTY0MjYyOH0=.15zv0YSh5VnTWP51w2hbfSzeDXOnvj5SYvlTLriBFDE0zZ1cfafwr83ZdmdHTzIPXgpa8455fc3cZTnddrNmcg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkyNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3NDI4LCJpYXQiOjE1MjU2NDI2Mjh9.cICEbsd198bwria-OSyqFzHDABdnIMvUSpXMBUOmIW0WQ2sJ66Hle6marY2I9sEDcS2vQExei4JRBHDSGXKT2g==
+.twitch.tv	TRUE	/	FALSE	0	login	n_sarah705_f
+.twitch.tv	TRUE	/	FALSE	0	name	n_sarah705_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:37:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	01b5bb5170f00a8e9b02bef74300fa32
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fc2FyYWg3MDVfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQ2MjgsImlhdCI6MTUyNTY0MjYyOCwibm9uY2UiOiJZc25uNVktd2NValhMcm56WGl5eGhfOUZZSEt0SExzVjE5Qmk4Y3ZER0o4PSJ9.Y0aUXJ34_QA7zwKPfURO4GEw2HzMFTnMVXFyxkMLMKsPmHVRzWIjmnGbk1E0h86uFEHkh0StskBN8uXedEv3rQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22uuo161im81b6xipdo5zr8wxrkj67q8%22%2C%22displayName%22:%22n_sarah705_f%22%2C%22id%22:%22218949256%22%2C%22login%22:%22n_sarah705_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	uuo161im81b6xipdo5zr8wxrkj67q8

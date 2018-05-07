@@ -1,0 +1,13 @@
+#m_ellie56n_5
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cx%2Fiw7r0Y%2B3pvjaXb7sPVFAOTkGT7A38j1ni7y1EI6U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8701f5422a56e875
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949161%3A%3Abjec9un9t1j6lzu619doob2p6gfwjd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkxNjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDYxOTMsImlhdCI6MTUyNTY0MjU5M30=.4VQbdbNq59pEf5cddfM9hqQmZBAxHZ4ibE45JaynQd2UpirvVlPL6cEP7sulVjjTmSj5VIqs2Ldimwsb-816jA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkxNjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MzkzLCJpYXQiOjE1MjU2NDI1OTN9.-ytiXsC59N2u9XU1gG4drtaN4Qez7ishEyZFAzQuENoSs_BhvXAlnQeNE-qb-r5fKmV2f1IU2fktnOvPNVC-qA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_ellie56n_5
+.twitch.tv	TRUE	/	FALSE	0	name	m_ellie56n_5
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:36:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	03cf1bcdd4aee5927cb7f6fc6bdac1e9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZWxsaWU1Nm5fNSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQ1OTMsImlhdCI6MTUyNTY0MjU5Mywibm9uY2UiOiI2QURWbnpCbzNUSHBIU0Qwc284QllPOGZ2czVhMF9vVkpMcEoxM3czb19BPSJ9.IlJhkfTXOzBGhOtTKqhV0HMnsJB90Mp4K0f4NCrzClUksuRy176F1fpK7UnZCIxR0qbccJCtaWJXbTTYjaql3A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nbumk6ya1wukqhul1f6jdvrc4smxlv%22%2C%22displayName%22:%22m_ellie56n_5%22%2C%22id%22:%22218949161%22%2C%22login%22:%22m_ellie56n_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nbumk6ya1wukqhul1f6jdvrc4smxlv

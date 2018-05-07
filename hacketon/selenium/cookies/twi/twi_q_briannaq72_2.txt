@@ -1,0 +1,15 @@
+#q_briannaq72_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d6b68dbd776c40c
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GKxbSWOYSbsAOdyEKqMXrHSGW%2FC%2BcDYPtQqDNYgMLZA%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	db8ee3e6dd9a3994d49c1882c44d8f5b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218847026%3A%3Aa3ockzrh8fq9yh725o8hvvolp54mur
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDcwMjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTUwMDIsImlhdCI6MTUyNTYxMTQwMn0=.xBUG6bsbBqU_7gUuFR7iERpJ-0pSmqjCPfoQRQQ1WRFb2Ow64yCrl59UZor8Xccbs7LOAgVXHOPdeZSXhf5CPw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDcwMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2MjAyLCJpYXQiOjE1MjU2MTE0MDJ9.scQWdfY1cM1thmITxrLWxxslZplZN3pRwxRSGq_SjE_OT-0pbo9WQoTb4C3iChqWUDTniC0sPBxIWfm-uOYAfg==
+.twitch.tv	TRUE	/	FALSE	0	login	q_briannaq72_2
+.twitch.tv	TRUE	/	FALSE	0	name	q_briannaq72_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T12:56:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c5c16e60cc3514a68ef61273d2fc7424
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYnJpYW5uYXE3Ml8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2MzQwMiwiaWF0IjoxNTI1NjExNDAyLCJub25jZSI6IjdVV3dzdENsVHhpNGRyd3ZleTh5Szcwak1jWUVPSnY2N1hienpJWUtpNkk9In0%3D.RJ7vpFESXuqaLH5toNS5kHXw63SqSVb970JhNjazbLyKptGWSocldR8N0Uzn55TnJbDeyDRzMtIrnBbyt9OhHw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221ohbthgicbmsnb52dswgmps0ie58i5%22%2C%22displayName%22:%22q_briannaq72_2%22%2C%22id%22:%22218847026%22%2C%22login%22:%22q_briannaq72_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1ohbthgicbmsnb52dswgmps0ie58i5

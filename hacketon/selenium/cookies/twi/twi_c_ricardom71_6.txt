@@ -1,0 +1,13 @@
+#c_ricardom71_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VYiih4SJI%2B%2FYP%2BMgjVJ1foVljBUohBcc8BhjfG5Fl7c%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4d8e84b48379ac29
+.twitch.tv	TRUE	/	FALSE	0	persistent	218878687%3A%3A18yzqzg4kvlpabcwfjno4kjzvmcc9a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzg2ODciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjYyMTQsImlhdCI6MTUyNTYyMjYxNH0=.qgqQ6Dfi2KLSmiIcURfAb4vMcrv9vkE8azBncs24cJlnqDGAOElwIUOy7L24g2YF2o-qFm0RwN2_8Si5o8GsRQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzg2ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3NDE0LCJpYXQiOjE1MjU2MjI2MTR9.LXe-aZKTFv93hhrQ7xE4E8b8q-hQqmmYepnGgZQ_VpPJMdG5CaRJkxZNklL13o-AEdS1qMMgh8V5WsPdwVzVww==
+.twitch.tv	TRUE	/	FALSE	0	login	c_ricardom71_6
+.twitch.tv	TRUE	/	FALSE	0	name	c_ricardom71_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:03:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5d81e86fea7949e82994c6e97a1e1738
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfcmljYXJkb203MV82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NDYxNCwiaWF0IjoxNTI1NjIyNjE0LCJub25jZSI6Ik5LLTY2ZFlucUdSNjVmWXRiSHNZOEV2Y0V0Wm9MZ2dVeVpUdmdDV25QNXc9In0%3D.Qr7htBjriA--kkU-Ct8R8tKJOLjy04aPZVFbKXIvOKhABGxo3RGvC3hnu1E3AkuamRmqWjpH_pzmkvQWfWtdUg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22avlqaiil8vgia2ol0r4yo3nveii9ii%22%2C%22displayName%22:%22c_ricardom71_6%22%2C%22id%22:%22218878687%22%2C%22login%22:%22c_ricardom71_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	avlqaiil8vgia2ol0r4yo3nveii9ii

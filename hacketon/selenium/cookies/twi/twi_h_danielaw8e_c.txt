@@ -1,0 +1,14 @@
+#h_danielaw8e_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	v4PANDNM4TKI5jhf5YE95at7WGi4oc0TLV503cb8Nsw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fa6c0d27afc9c4a1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	613a4c7e8f6a4ae3f9a29bc1b73f80f0
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851772%3A%3Asl0yfuzm4hrzvj8xgfoauwrbicxla3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE3NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY5NTcsImlhdCI6MTUyNTYxMzM1N30=.YP0RwIQ3b59UxjPVS6DyyVZwkd9JoAiIsYWWlBCIKnViiURXVPxOx3WSrW-WJ1uJkeoN24ycv_Jn5xzd_ERuiQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE3NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE4MTU3LCJpYXQiOjE1MjU2MTMzNTd9.C6_6Kavi2hCZN5Jgmejogl7pMFGjwMQemUZGZC2QzS4bNGTJXqg5OO_dbce-XcQ6lcSKCXw0jH7A6lQNL1flVg==
+.twitch.tv	TRUE	/	FALSE	0	login	h_danielaw8e_c
+.twitch.tv	TRUE	/	FALSE	0	name	h_danielaw8e_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:29:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	19272b7829ffc88bd1af8bd95cfdfc61
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZGFuaWVsYXc4ZV9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NTM1NywiaWF0IjoxNTI1NjEzMzU3LCJub25jZSI6Il9reEFBWXAwNTVSaWlZbmFZaEE2emtfREVMcllhX1BKSS0tQ1lQOGttNGs9In0%3D.67Jw1nQD57y-eUSUt_X2r3B1SrY7205eXAQnUoSePQSONXBD7XJdZzyXlyIiABxsE5jWYz7WOc_HQT8EhgDqAA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ean63x8vaiurg4eekyzsjy2l264yhz%22%2C%22displayName%22:%22h_danielaw8e_c%22%2C%22id%22:%22218851772%22%2C%22login%22:%22h_danielaw8e_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ean63x8vaiurg4eekyzsjy2l264yhz

@@ -1,0 +1,14 @@
+#z_damiann3x_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2FVaDtqo2RXuComtgKRy9LxbKILwXi1ajl5n%2BQZYiCDI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9b3a406cff14f8cb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	bad5e473d7475c77cf856230d5eac218
+.twitch.tv	TRUE	/	FALSE	0	persistent	218855818%3A%3Aokdo6rc3nxhyo5u32a3kaibsehcyxx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTU4MTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTg1MTMsImlhdCI6MTUyNTYxNDkxM30=.pCfXHqPbD8gDOLkSVoFWhKHVVaGPWRZQC9u9QupSnqx-PdBwevT1NmuzjydJc9YgY-rMR4Y7NM7NNnhfz-Qo5g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTU4MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE5NzEzLCJpYXQiOjE1MjU2MTQ5MTN9.nw7lNiVuzKMdE9WU1a0zusXuuLxIBDx0S5Cu4B8k7thLlc9CqA1sMatL2SW2Xk3O7-eMoMnieq-F6VjguwZJRg==
+.twitch.tv	TRUE	/	FALSE	0	login	z_damiann3x_d
+.twitch.tv	TRUE	/	FALSE	0	name	z_damiann3x_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:55:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4ba988d97f54f6c02c2de808219e0d16
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfZGFtaWFubjN4X2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY2OTEzLCJpYXQiOjE1MjU2MTQ5MTMsIm5vbmNlIjoibmZLYlJ2V0ljUVBIUjZhekRlcVI0c045WXhNYks5TTd0VTlLMmo2OEpfRT0ifQ%3D%3D.1jd0vzKLlFJ5G9Lr4ig1rle-WsWdNLwoRMzux5yrSUJohyrAJ4MTSo3s3KEHLkXDAga7nhMIH7jXbDY7CUQkiQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22j254mmtj2fqqye3pdjlpye61vuf97y%22%2C%22displayName%22:%22z_damiann3x_d%22%2C%22id%22:%22218855818%22%2C%22login%22:%22z_damiann3x_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	j254mmtj2fqqye3pdjlpye61vuf97y

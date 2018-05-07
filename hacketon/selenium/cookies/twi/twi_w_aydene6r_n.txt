@@ -1,0 +1,14 @@
+#w_aydene6r_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tqnFmJI8IqZmE%2Bv0iDF5x2A1kU0%2B4%2FagSmWbK4fNGVc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5f6df0c7ba055e2d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	810ed3526d2dbdd545220b78a1820d6e
+.twitch.tv	TRUE	/	FALSE	0	persistent	218959793%3A%3Agcrbzk9d6x076thtkz2daqm94gqtko
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTk3OTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NTAxMzYsImlhdCI6MTUyNTY0NjUzNn0=.iJdjR9VLjXYwh37Sg6jC5mPkSg8vBUFg_VAp_Y5vgZqZWeV-nD2kPOsSr864j4SgVQ6BPUGxqvKSebLXoPiiPA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTk3OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUxMzM2LCJpYXQiOjE1MjU2NDY1MzZ9.D524JkfntWxOf3EEiEa4BWGQ1CnqQ8McSytoByl6BChLvO_SB6lNVeqVLBtxH53symINzNMmtkK5CY2kVNpiWg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_aydee6r_n
+.twitch.tv	TRUE	/	FALSE	0	name	w_aydee6r_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:42:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a07c40b55b7d6e88088519c5fc94805a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYXlkZWU2cl9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5ODUzNiwiaWF0IjoxNTI1NjQ2NTM2LCJub25jZSI6Inp4WkFLeTRnV2M1enRfeXJ3SGpBeHBSaDQ3eGFHSUMtcFN3N1owTkFMVmM9In0%3D.BfDb9WtEa7MHAT26xEOdY7zRBvRxg2R0StiFXwX5dkg8pYXqYuDYUroer2yqOzYtus32aw7HMUhuGxvEVKVhrA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jobyojn2iz0nw4kxo0c8wz4bacboqu%22%2C%22displayName%22:%22w_aydee6r_n%22%2C%22id%22:%22218959793%22%2C%22login%22:%22w_aydee6r_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jobyojn2iz0nw4kxo0c8wz4bacboqu

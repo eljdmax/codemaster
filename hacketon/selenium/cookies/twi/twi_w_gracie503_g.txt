@@ -1,0 +1,14 @@
+#w_gracie503_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FgYfDAbFJZV3JfwrJMMMam9tTTgtIMnS9RrBLEmqO90%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3610ec1fc168138a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2148df545dfc29d994c537361efc03f8
+.twitch.tv	TRUE	/	FALSE	0	persistent	218937571%3A%3Adet4xa1d6kph3i64joo6tsuvx2ags9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc1NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI0MzYsImlhdCI6MTUyNTYzODgzNn0=.AfQEO9W381vIzMi9WQB6jUvc97q6o4suw7D0QsTWcYfBcexIVH5aT2BOgWhS7lLHwpE_LOygnF9OxOl6k92Njw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc1NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzNjM2LCJpYXQiOjE1MjU2Mzg4MzZ9.tBsSNettBmrKYKhoQtC8a_FcCLjy2wnakLzNBsMSnJseFzZ59az-TwjEP7t2PoDBgYdvICIH-HlLm9GowttH3Q==
+.twitch.tv	TRUE	/	FALSE	0	login	w_gracie503_g
+.twitch.tv	TRUE	/	FALSE	0	name	w_gracie503_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:33:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d656e0a32e3f04310552ec6acc964643
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZ3JhY2llNTAzX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkwODM2LCJpYXQiOjE1MjU2Mzg4MzYsIm5vbmNlIjoidDVndUZmb3dEX3A4SjdiVFNyRWM2TGNpMEh0YnNVTW9xVTQ0R3pjT29iQT0ifQ%3D%3D.i0zDjQgDcQV5EYiTS3OM5tk6c8Df0BfiV5mGw1OJm5ys-Q8vdS36rHUXR-0u1abbeJOdHHLSkhkcN1FfkXEpQA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ghfud7x9y5j9jr89foi54i2jf91jx2%22%2C%22displayName%22:%22w_gracie503_g%22%2C%22id%22:%22218937571%22%2C%22login%22:%22w_gracie503_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ghfud7x9y5j9jr89foi54i2jf91jx2

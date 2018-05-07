@@ -1,0 +1,14 @@
+#p_devon69u_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fYTDIMpoelR1lgxyF%2F%2FOiunSJG2WxhGOJP5FbvxpuBU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6196fd58544cd9cb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	5907f71cfefb1fae9dd8fac72ac38ca5
+.twitch.tv	TRUE	/	FALSE	0	persistent	218946784%3A%3A0oumkux2rxqcvo69wpxnv7qtgbnxl0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDY3ODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDUzODQsImlhdCI6MTUyNTY0MTc4NH0=.hzYa65CW_NnD5ZC5vy6j3sTnfgUi8bv4sLVYvMOSIP1EotiyWQP1BaDnLH4s1LfijfHJooCQpDiyEuTxJ3FTiQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDY3ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2NTg0LCJpYXQiOjE1MjU2NDE3ODR9.nBlmVp3w2ga2biuQXMjPjn4TS-iaoIkoLyaQFWTSVKbnAdA1KG90AxG76Fzey3VHcPj51jpWwDLMpj-EVyeSeg==
+.twitch.tv	TRUE	/	FALSE	0	login	p_devon69u_l
+.twitch.tv	TRUE	/	FALSE	0	name	p_devon69u_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:23:04Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	70ef7dff0a1faecd7f02c02c078e2e25
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZGV2b242OXVfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTM3ODQsImlhdCI6MTUyNTY0MTc4NCwibm9uY2UiOiJJeFFKNzFyazBXWVRUZGk2NE5YMG01NDc3Qlo0b0ctcVdJUDZoR1Nyc09ZPSJ9.ftUSD_1YFFdi9ZRm8Qm1ysGHHPgfdrRex1zrD4STj2BuI01qqtcraKVkksNYLdgJh0mqhLI-DoySPc99xjrP_w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225mi1uijko2zlwvx163e5rd4d94c2xa%22%2C%22displayName%22:%22p_devon69u_l%22%2C%22id%22:%22218946784%22%2C%22login%22:%22p_devon69u_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5mi1uijko2zlwvx163e5rd4d94c2xa

@@ -1,0 +1,14 @@
+#g_jacobj98_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ddSz3Vvgh%2Fy8GG8uEMYs8iMo%2FMluUfpbsk3lUJLkDWM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0a7393a6d74f48df
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f0b9484dca9420e5e1e3e30d46d5763c
+.twitch.tv	TRUE	/	FALSE	0	persistent	218883199%3A%3A1sxouy2c3zt61bnywg5n3w543amqx4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODMxOTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjc1ODQsImlhdCI6MTUyNTYyMzk4NH0=._Pt0QMMZMNknccfQCzdg_UVvSv7S6cAmrXmEGn_dVCoTUYi3rwwlGYnkrkLyyxyDf0EI-5_dBNbVeuKR4UlM8g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODMxOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4Nzg0LCJpYXQiOjE1MjU2MjM5ODR9.bOPfwhhOJnKZapUI_9ROljRYku1lymc7LMvFvFgP1xwlhirV28fTH_8a_92cwrvrbp0JK66_lNSD0_um1xzl-w==
+.twitch.tv	TRUE	/	FALSE	0	login	g_jacobj98_s
+.twitch.tv	TRUE	/	FALSE	0	name	g_jacobj98_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:26:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	932d63ee260e9da45d93282888f601f9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfamFjb2JqOThfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzU5ODQsImlhdCI6MTUyNTYyMzk4NCwibm9uY2UiOiIxbENpVzBVSnMxd25BRFBiZ0JwcFI1bkwzZXNlcXJvaFRYejM1OTRwZ1lzPSJ9.9_hTNKWD6ng2zptunQgTQUDro4Z0xpMD8yZQsovRH48SalkLf1VivkXJS5N3h0NMgGp6vyxygK8dN-r7JY1ssA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22207kb4pla8ecgo8jcclz89hu7c70t9%22%2C%22displayName%22:%22g_jacobj98_s%22%2C%22id%22:%22218883199%22%2C%22login%22:%22g_jacobj98_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	207kb4pla8ecgo8jcclz89hu7c70t9

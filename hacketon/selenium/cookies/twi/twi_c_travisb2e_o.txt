@@ -1,0 +1,14 @@
+#c_travisb2e_o
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cb73907a56ab9b60
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	da66f4f7adce15468a383ee69859388e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4LX9bkQEjWr48K6snGEKEkJAHG6ht6yVxCDZLDhyuHk%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218847533%3A%3Auu4o49c5r5k5gedtrzwlo0gqdffmwf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDc1MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTUyMDksImlhdCI6MTUyNTYxMTYwOX0=.2-IJWFJWHmfMle6m8MkuMEuluR0E9JzuCtdUzcol7qDjfLLUghbip58Zn512wqJmekkdyKiJTW0bks55G1yvog==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDc1MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2NDA5LCJpYXQiOjE1MjU2MTE2MDl9.FBF-gEYZDVCuypN4v3-_b-KX4mRo7ODIZdsSeSntfJmUSlipw-oJPTxDjDdK6UtIqxbOBgkp2PWp_fC-8o_gdw==
+.twitch.tv	TRUE	/	FALSE	0	login	c_travisb2e_o
+.twitch.tv	TRUE	/	FALSE	0	name	c_travisb2e_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:00:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	44a1e00c8a798d9fabb080dfd5558348
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfdHJhdmlzYjJlX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTYzNjA5LCJpYXQiOjE1MjU2MTE2MDksIm5vbmNlIjoiOTBXY2h2b0d6RmJvMW9hVlhmdmktdnhzejB6RS14dnF4VlNiTzZsYzFJQT0ifQ%3D%3D.CgKM8DC5E83MP5cMDnpJzSvBDqIzyD1-1RBasYf4eyfpqbxC31LyWc6l3G2Z57E0VTk7C7fbo54UKwwdL93_Hw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22utoeeeox90880ljil0c938sv6isqu9%22%2C%22displayName%22:%22c_travisb2e_o%22%2C%22id%22:%22218847533%22%2C%22login%22:%22c_travisb2e_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	utoeeeox90880ljil0c938sv6isqu9

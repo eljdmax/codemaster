@@ -1,0 +1,13 @@
+#r_cheyenneh21_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4L9CD7VnoqHklu6WxEiEl3ym7OhBcEYkQh9C7J%2FF%2BQo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c72a03a9ba01b3e8
+.twitch.tv	TRUE	/	FALSE	0	persistent	218940954%3A%3Ab3zatn9xdlg0r8xr06beuetqh00zdo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDA5NTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM1MjUsImlhdCI6MTUyNTYzOTkyNX0=.IvAwZ7jVEO_3typbkHx5yiamU27Lt_WeM9kLYn-O5RDl_HXNx23YvpTXf-uCZpxxftqLDVsULX1Bg5YUOU8vVw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDA5NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NzI1LCJpYXQiOjE1MjU2Mzk5MjV9.pP-p4DJKMqmyCBcvStignvBMI-LRg4u350hREdIqhCRvSEy8LpyDyp1GC9vBEs0RtU7p3cDEdm1GV0SqPgpJoQ==
+.twitch.tv	TRUE	/	FALSE	0	login	r_cheyenneh21_v
+.twitch.tv	TRUE	/	FALSE	0	name	r_cheyenneh21_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:52:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	47b7b7a20f590c58f483214334143d1e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2hleWVubmVoMjFfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTE5MjUsImlhdCI6MTUyNTYzOTkyNSwibm9uY2UiOiJBS1I1UDREU2t3M1hyUjBvRVNnWEl6Nkt0OTR2c2thZmhxMGxMOGhYb0lzPSJ9.da3h8rTC4Ua7bVxDx6-B3plAgozUH_v0I6Owry73PnJ8205-e9ketobxJKGd8_659o26lgZuGDxtyBSEQNk2LA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z2d5ymutrv8trucmw5lk5c4dgo2z4c%22%2C%22displayName%22:%22r_cheyenneh21_v%22%2C%22id%22:%22218940954%22%2C%22login%22:%22r_cheyenneh21_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z2d5ymutrv8trucmw5lk5c4dgo2z4c

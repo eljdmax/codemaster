@@ -1,0 +1,13 @@
+#c_xavier001_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	jnJ%2FCG8WAh8VWkYZVucZdx2y7NPw7chYbCujK63a8kw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	20c63f094a457749
+.twitch.tv	TRUE	/	FALSE	0	persistent	218880016%3A%3Amdbkdiodo4tarczqq91ip6lwvlq5g2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODAwMTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjY2MzksImlhdCI6MTUyNTYyMzAzOX0=.4V43MshGSIwQeKxW_5ciwbFVhCTLmGa_YiHOFsT50d2_wIecIjqEF4NLLOhevC43qvxnzCd_u5E_VLp0VttucQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODAwMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3ODM5LCJpYXQiOjE1MjU2MjMwMzl9.nkYD9662ZbqcE3qJaalnoq-KfQNjSnOC2rlByOkrOgtphGjErjGZL_KUsmpngMAGcuucRUWWH5s9_5VSrO1OYg==
+.twitch.tv	TRUE	/	FALSE	0	login	c_xavier001_c
+.twitch.tv	TRUE	/	FALSE	0	name	c_xavier001_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:10:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ab8b03f03f3550cce72e6a4456dff5e1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfeGF2aWVyMDAxX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc1MDM5LCJpYXQiOjE1MjU2MjMwMzksIm5vbmNlIjoiN2VweXk5LXR5V0VDSk5lQXdKUEpJZEYzQTlwTWhpdTgyR01YSGd2LTRoOD0ifQ%3D%3D.uld2FPg-AXCxJjVmJ_0QYUUcCoqsfhJT7ns2hGPWCcCdtxcmtmr_JBP_cXb2EkxduYSDJbgmSd6To-FgtqTALg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z8i9jhgcyelnjuiv6ivuymmwx8bwh1%22%2C%22displayName%22:%22c_xavier001_c%22%2C%22id%22:%22218880016%22%2C%22login%22:%22c_xavier001_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z8i9jhgcyelnjuiv6ivuymmwx8bwh1

@@ -1,0 +1,13 @@
+#t_jonathan78e_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sEJy%2FO6vXh4dUlQNtvRfePxrhw5mvybRoymhBl9%2BWSY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9efe573ac8d79dd5
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957807%3A%3Ap1nf74tw2bk81g9cxwf5zc3fqxignq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc4MDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkzNDUsImlhdCI6MTUyNTY0NTc0NX0=.3uC0ZnF1mDShQNC30yT-wFfBda6zet_h0xU8RNZlBnY8X6aSFZDra222AtpBkaaXyreXMEXPBixextP8Oott9g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc4MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwNTQ1LCJpYXQiOjE1MjU2NDU3NDV9.IIDEEhXC5fmhv1sIV5w-WaykBUMAMDQryv06yFgw-U3zJcg6inwPZr648HDk7IMONenB_budl3PRaI1-Ij20UQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_jonathan78e_4
+.twitch.tv	TRUE	/	FALSE	0	name	t_jonathan78e_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:29:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	690920eb1d72e85f4824f5890757fec6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfam9uYXRoYW43OGVfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTc3NDUsImlhdCI6MTUyNTY0NTc0NSwibm9uY2UiOiJGTWZlYVZuU1pSX1BkYlZVY0djd0M4aFVrbEtLNXRSVmJyZWdCekM1dkFNPSJ9.u6lfP5cejUCklcLnsZqpJaHG9OVG64DOafYilxpVaUJ35YTSX9dz4HthR-milcDQBMU_Bd4MxUvi4H6HIWE7CQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h4unn5w2vkfbulzsd2h3vn58a2z9cw%22%2C%22displayName%22:%22t_jonathan78e_4%22%2C%22id%22:%22218957807%22%2C%22login%22:%22t_jonathan78e_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h4unn5w2vkfbulzsd2h3vn58a2z9cw

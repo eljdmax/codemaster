@@ -1,0 +1,13 @@
+#t_adamc9d_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NR2ZLiNMmVuf2z3ReK2TtXgVpSp0ML6X5DvkG%2BIrZnE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f97d7e28fb7ebf5a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218852271%3A%3Anb4nil1ffciqkv7c040jhkw5s35fio
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTIyNzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTcxNjEsImlhdCI6MTUyNTYxMzU2MX0=.O7P2OSvYKSfgeyoC8Z63NIWt35PFMNFNTzqo2tTcThZYcjjXrxQbjym9lptFGPSkrSJvrXDcHIsOI62sCrUGiQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTIyNzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE4MzYxLCJpYXQiOjE1MjU2MTM1NjF9.Kh2q_NcOAlgrKLA5KJRgK7I1ULFPptAcpULzNli866OBEPCK_0y4nWs78UAG1ZvLey1QDEZqBgAQNZbnt_7G6g==
+.twitch.tv	TRUE	/	FALSE	0	login	t_adamc9d_s
+.twitch.tv	TRUE	/	FALSE	0	name	t_adamc9d_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:32:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	90d6d3070386d68b834fec71fb903d57
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYWRhbWM5ZF9zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NTU2MSwiaWF0IjoxNTI1NjEzNTYxLCJub25jZSI6ImJadHg5dFR5VWxuc0tnYWUtN1J0azdRRnhyMDBzRHlFOGxNeUtVQ3BoU0E9In0%3D.RO9arN88AaJJDby4fGB5kg8AUYL-Y2PW-_roS1yoargc9qJ5v6eaTE7xEKI8mjaiOwgvZyxLn9B54wteZUpBRw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229clrq1iazu6hp5j5w8gz6vkonm8dfp%22%2C%22displayName%22:%22t_adamc9d_s%22%2C%22id%22:%22218852271%22%2C%22login%22:%22t_adamc9d_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9clrq1iazu6hp5j5w8gz6vkonm8dfp

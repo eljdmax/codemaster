@@ -1,0 +1,13 @@
+#v_makaylaf9h_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	wLqAyN8k9%2Bsf9WSTBENg8zMcsaFjw5rdNnlT1lTm1ck%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8702a1a90d5433f7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957505%3A%3Aw0fsch4juymrx9ad7xmfcofnqw2wt6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc1MDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkyMzgsImlhdCI6MTUyNTY0NTYzOH0=.DwsPrkPvGvB_3nHXQKrd4FLjHc41nxeEnqP9tfkQJ_0HswPwzkLsH9SkcQN5dqJhhIDU-QXh4QwEcijGGFhrhQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc1MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwNDM4LCJpYXQiOjE1MjU2NDU2Mzh9.IP0XYK7Qb6p79CMTZLJtzYHvEBnMP6wdrfnQqtgQAauUrfUH0P9Oe28dYGb7DdNzx1mRhvhMGXgwwSYzuMp-7g==
+.twitch.tv	TRUE	/	FALSE	0	login	v_makaylaf9h_p
+.twitch.tv	TRUE	/	FALSE	0	name	v_makaylaf9h_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:27:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	dfb1a394aed7d885c4bbdec4563a6fa3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFrYXlsYWY5aF9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NzYzOCwiaWF0IjoxNTI1NjQ1NjM4LCJub25jZSI6Ill2OW1FQkQ0Qk9hUURnRTllVC1FcmRwR0hFcUFaUVJKUk50V2lYWUlpejg9In0%3D.t1v3CkpkSk6IEYA5oh6Si9FA-XRo2VkXkU5iPmrkj9vEZwv9VUgLf_TKawHJQILGlppBeTo0bR1wDLoBgV7wSA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h8coq049ak44czwmuicv0hr1wskpih%22%2C%22displayName%22:%22v_makaylaf9h_p%22%2C%22id%22:%22218957505%22%2C%22login%22:%22v_makaylaf9h_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h8coq049ak44czwmuicv0hr1wskpih

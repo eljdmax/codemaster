@@ -1,0 +1,14 @@
+#d_landonn78_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UO0mFvhWxrFXTEqCVYKWrwSWQXN4CTydgFeHJEY2%2BzM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	92c8107c6cc19ef3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e125d912df581a3824edf58a6ff0f9c0
+.twitch.tv	TRUE	/	FALSE	0	persistent	218952654%3A%3A1hq8amksxws1t29tegb5sydm5z7c25
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI2NTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc0MTksImlhdCI6MTUyNTY0MzgxOX0=.ub-1gfYoSNweomERq_Uh7GLZ0EbTGjvX2ZwJRrAEERnyd4EKCQoEYzeWlb8Koqcc2V7X8AZOspdogFFP8kZG4g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI2NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4NjE5LCJpYXQiOjE1MjU2NDM4MTl9.v_44OFqKpw1-4K8jFsfhoDKA2pdeC-iuRqVIJbTzikoI4oVhhpTju9czdaHa9qUtUEyCWyiqlmTGBX2cK2_qGw==
+.twitch.tv	TRUE	/	FALSE	0	login	d_landonn78_g
+.twitch.tv	TRUE	/	FALSE	0	name	d_landonn78_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:56:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	662269339fd9ff9526cfda6e611a4f8d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbGFuZG9ubjc4X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk1ODE5LCJpYXQiOjE1MjU2NDM4MTksIm5vbmNlIjoia0dJXy1ycFhHOWprVHJCQlVyVkJxRFVLUG92NjZsMmlEdmdIdG5LSTlvMD0ifQ%3D%3D.Kj01yzpzI0qVpFby50WX9kPyTrBdq4Yxq01sp7x9j1CHYXwjwA2dkvF7jbOxXCi7J45zDStIDyYghNtsGHkyzw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22b5mb8e9a7p6tlmkp394i310wvnp2is%22%2C%22displayName%22:%22d_landonn78_g%22%2C%22id%22:%22218952654%22%2C%22login%22:%22d_landonn78_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	b5mb8e9a7p6tlmkp394i310wvnp2is

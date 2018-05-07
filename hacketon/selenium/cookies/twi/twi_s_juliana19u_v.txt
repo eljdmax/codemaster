@@ -1,0 +1,14 @@
+#s_juliana19u_v
+.twitch.tv	TRUE	/	FALSE	0	unique_id	m1eBphOJkTtRw4dAnQj77rZACVnuXfki
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjU2NDE0NDAsIm52IjowLCJ1cHQiOjE1MjU2NDE0MzMsImx0IjoxNTI1NjQxNDMzfV0.
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qu9xpmjIjbtqb8I6rKRJVd0ZoSmXbjwGAEGNu5ELkOU%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218946544%3A%3A463l986ko7l553ikd6ma0z7ybsbsxm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDY1NDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDUzMDksImlhdCI6MTUyNTY0MTcwOX0=.hYSt8SvN1ObwN_D8VEotw4Ag4qZ5K_-BP8sPdcjbEDeXZxmCNrVyBFjqqSsJqWCH4Qvk_RHNG6mlejByBDzLHg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDY1NDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2NTA5LCJpYXQiOjE1MjU2NDE3MDl9.RwmPyDF5YOxjs0Bo8YDWllbQxz-i8jnk6Va4sWG6uwH9dueMqBORZVlPgYHKoE9VE9fh_TjS8WofQXruFS_yLg==
+.twitch.tv	TRUE	/	FALSE	0	login	s_juliana19u_v
+.twitch.tv	TRUE	/	FALSE	0	name	s_juliana19u_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:21:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	53654310acf01b3f199f248f2027c80e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfanVsaWFuYTE5dV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MzcwOSwiaWF0IjoxNTI1NjQxNzA5LCJub25jZSI6IjA3bU9lTkU5TlJPc2hqS2M5Y3Z1MTVNRHkzd0t2UDdwS0hzTVMzSkJISlk9In0%3D.v1IMzOjG6hVDOEw_lSZqUeqXol14n-T_6BKDgEja1bKp1-VXWrlTuzXvfe19H1dTOoOKgmGyQKR0PIp3yPTPFg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22w2yzhdqg98ihj6m6sn2wqk4kdpag24%22%2C%22displayName%22:%22s_juliana19u_v%22%2C%22id%22:%22218946544%22%2C%22login%22:%22s_juliana19u_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	w2yzhdqg98ihj6m6sn2wqk4kdpag24

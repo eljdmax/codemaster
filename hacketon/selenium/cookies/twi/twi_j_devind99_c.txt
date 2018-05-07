@@ -1,0 +1,14 @@
+#j_devind99_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VFa91B8WiNrJ9eLu351%2B1u5T0OirqakPKVjiy9IWsBs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c77cb15b16fe33e5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	fa9a9d1083fb1e8786a8ee69773132db
+.twitch.tv	TRUE	/	FALSE	0	persistent	218848882%3A%3A74h9uuvvdr1k713fezgbswg8ea20qb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDg4ODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTU3ODIsImlhdCI6MTUyNTYxMjE4Mn0=.txLpuJgoKlxoCc0o0RMFxICjw_N6vlzxfSWyD0uCoTaPW90G-FPBCwvAP5ePAJGwxYj2G38Dy6ngp2HbM03BOA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDg4ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2OTgyLCJpYXQiOjE1MjU2MTIxODJ9.YhKjfsPwd75s5ItnT7oKoDX4t5bDCUuQZd-x8GLAQ0Klld8axmR0TwMvQOyY2DJxLfm-kz1ueqTT3BgYrptrWQ==
+.twitch.tv	TRUE	/	FALSE	0	login	j_devind99_c
+.twitch.tv	TRUE	/	FALSE	0	name	j_devind99_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:09:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	473ee44b395f6e59453abcea29ea8874
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZGV2aW5kOTlfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjQxODIsImlhdCI6MTUyNTYxMjE4Miwibm9uY2UiOiJWb0tvRnJlOTR5N1U4MW9FUjRsU21pdDRlYW9LNUtOaGJZdVhlc3hQblM4PSJ9.oUZ8lMbnaMSEojmImzxaCehqyirXWV9kX6gxb46dfJJg6w9KX9oZSMeySKrH1JT0eBc-ydlK95iJkkoIkGiVqQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22amqw1yxcgvd6qcedx2elxpigeg6b8p%22%2C%22displayName%22:%22j_devind99_c%22%2C%22id%22:%22218848882%22%2C%22login%22:%22j_devind99_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	amqw1yxcgvd6qcedx2elxpigeg6b8p

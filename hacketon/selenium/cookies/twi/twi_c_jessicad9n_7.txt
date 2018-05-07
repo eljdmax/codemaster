@@ -1,0 +1,14 @@
+#c_jessicad9n_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	d7fxMFTVMTKk%2FKdNOjaKrGDIz2nSwIHACEJQeV3MXmE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b7c888657ece2178
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	6c9103e0c32b2ef1883ece9f0dad1016
+.twitch.tv	TRUE	/	FALSE	0	persistent	218944012%3A%3A5ws83qz9ze7iqn3hanhrapqqfds746
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQwMTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ0ODYsImlhdCI6MTUyNTY0MDg4Nn0=.-4V0WFQAaPKJwPL3ezVD_Os0mUY_2keHJ60K_OjUukFVQpWB8dKBK-X94jSgKsPas9w-TaI2kXAekknnaHeYhw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQwMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1Njg2LCJpYXQiOjE1MjU2NDA4ODZ9.baG9nbmy65IDvwf80xD61h3ZEyIYWKdP4qdZHHvYooNgrqeSm_ySECg_xMywE6RmE5iyzYQmmmU8hvBFWuVrCQ==
+.twitch.tv	TRUE	/	FALSE	0	login	c_jessicad9n_7
+.twitch.tv	TRUE	/	FALSE	0	name	c_jessicad9n_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:08:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0a1ec33537985aa5c54b89072d55959f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfamVzc2ljYWQ5bl83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5Mjg4NiwiaWF0IjoxNTI1NjQwODg2LCJub25jZSI6IlBCQ2JLWFoyNVlvV0RNeVdRbGtZMVRuRkxHMldJVF9LOWdORGFQdVk4T2s9In0%3D.wK_6mZy7TXEwmOnnHwd4B0VW6G3npQRNCGjWTkB6GBe5_D_Mr74bRvIlbTmVpz2YYNE1fApGFtaCGzmtVVn3UQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22g3kezl94e3ban5thcwy9jcfe1p531t%22%2C%22displayName%22:%22c_jessicad9n_7%22%2C%22id%22:%22218944012%22%2C%22login%22:%22c_jessicad9n_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	g3kezl94e3ban5thcwy9jcfe1p531t

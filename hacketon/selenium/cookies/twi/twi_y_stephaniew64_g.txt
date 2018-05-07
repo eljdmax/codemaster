@@ -1,0 +1,13 @@
+#y_stephaniew64_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	oVBb1y3UYcj3COIX7dYX%2BMLmvMc13Iev8d7Vk0Wo0p4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	abfd63e2ae5a248f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218940247%3A%3Aew727jgvggdxdfzql92pscke1qn6la
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAyNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMyODUsImlhdCI6MTUyNTYzOTY4NX0=.aI8A_J6ooLpTyJ6InGwYQxV-SJ_Q7lfPCOf3fWtm-4jL6mlJQ128Gm_m7kNn4yKP_zUIOYZsXqn82QgKHIsiKQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NDg1LCJpYXQiOjE1MjU2Mzk2ODV9.X_O2-dnqk8TGZMf3UHVsp6IknTMHdQfRNzWFHQsnX4d9cz24YzLFYnfXrHuG9xmA1b5UL3anXZodj8JENi8c-g==
+.twitch.tv	TRUE	/	FALSE	0	login	y_stephaniew64_g
+.twitch.tv	TRUE	/	FALSE	0	name	y_stephaniew64_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:48:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a5bcac2275a3b83d8522af9ab20f5e07
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc3RlcGhhbmlldzY0X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkxNjg1LCJpYXQiOjE1MjU2Mzk2ODUsIm5vbmNlIjoiekc5YmF1RVFoMi1oQzB2dHVyNTZZS0E0aVBrZWtJaTRkdXR3M0dWTTFoND0ifQ%3D%3D.j7kFp8kcHEAZ_ygveZyNGzbt73xe6iPZa6TqOPgsyNJhuZN4TqhFAIt8zn5eeNmbfUGak00v1o0vOTXRmDs6Vg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22aa9y73t6esl9zelrksnoz9qmom977k%22%2C%22displayName%22:%22y_stephaniew64_g%22%2C%22id%22:%22218940247%22%2C%22login%22:%22y_stephaniew64_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	aa9y73t6esl9zelrksnoz9qmom977k

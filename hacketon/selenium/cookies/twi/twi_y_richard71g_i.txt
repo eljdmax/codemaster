@@ -1,0 +1,14 @@
+#y_richard71g_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9LIVaUAIGTMRWYcaD2UXBTLIb8au2BJZfGFqdjADRq0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1aacbbb282149501
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	9ff605377d92d853aced5d67760f74cf
+.twitch.tv	TRUE	/	FALSE	0	persistent	218947323%3A%3A12d8sphj62vgiyqmpeig1rxy84d44i
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDczMjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU1NTIsImlhdCI6MTUyNTY0MTk1Mn0=.ecKO_4uvdDl-xmQQBxf9vBgnXSvAgdHk8hm95h663SGsh6ScopnGxqvGMSeUvcX2McQBovW0tV0j6ql3oDnbIA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDczMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2NzUyLCJpYXQiOjE1MjU2NDE5NTJ9.y7Zrq8tAyMV5RVN9l9c-huX5-OxK30BomJq_YR38L2F9EyL0pv0WaqaGCnh9KlK4_HSGKOwUewykC5jD2u3JyQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_richard71g_i
+.twitch.tv	TRUE	/	FALSE	0	name	y_richard71g_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:25:52Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2852333cd4e992d80f7232898fcf6078
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfcmljaGFyZDcxZ19pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5Mzk1MiwiaWF0IjoxNTI1NjQxOTUyLCJub25jZSI6IjNhTGJCb296Y3JKTXVtTFAzQ2poNllTVUpxcV9wNlNRbjF3NFNsUnZHZmc9In0%3D.SwYCIXMhV_esUKl4zPNi8PaJIxym4TFBkO9xJn7S3Mo7v4qTVdOUVkETAGZqNOXo7OP09Y6PgXQHZBXmd6Q-og%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ckmvz62jng34ppgd868h7aij322011%22%2C%22displayName%22:%22y_richard71g_i%22%2C%22id%22:%22218947323%22%2C%22login%22:%22y_richard71g_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ckmvz62jng34ppgd868h7aij322011

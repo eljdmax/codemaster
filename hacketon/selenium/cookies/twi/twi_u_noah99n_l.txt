@@ -1,0 +1,13 @@
+#u_noah99n_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Y%2FnwWxzydR2TuoRvnGRD7ThlM6sA9Sf9xwO%2BQOFvzj0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	95a0e2e929fe9e01
+.twitch.tv	TRUE	/	FALSE	0	persistent	218943286%3A%3Amib7dvno3aspxl1tjoipqm9cq7r9lc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDMyODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQyNTMsImlhdCI6MTUyNTY0MDY1M30=.N45jzKQt8hPdw4I6qF3DWVUyHZpdNyh894em2vSkZPCdB3cWWmQPYOqZNGDtsFPhclWJqx8b0HIDjKw7S9O3zg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDMyODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1NDUzLCJpYXQiOjE1MjU2NDA2NTN9.XzNnwRZ9eh5nVBR9b75K1cZyzKbiqcnbGMOF6IYSpQcBQlSFGacPtYbvdBNrNVpInylchMukCHRjritz7kx-3Q==
+.twitch.tv	TRUE	/	FALSE	0	login	u_noah99n_l
+.twitch.tv	TRUE	/	FALSE	0	name	u_noah99n_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:04:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0932393ad57384416e4018ccf8b45fea
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbm9haDk5bl9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjY1MywiaWF0IjoxNTI1NjQwNjUzLCJub25jZSI6InpTcEt4SHVYTU9TYVZ4MERSRVlXYzJ3a1IwZEpXZHJ3UFp6a0lYenA0T009In0%3D.iPP6emz71Ou8VuPqe-IvW-1Lc-w3weDnFE7iiDP2dg8qwenIbkvcpLrUesPyQqZRMCCn-9RUDzd-vPGVkygtsQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ouk54yrh1np93xkl1xjigqy2f6et1a%22%2C%22displayName%22:%22u_noah99n_l%22%2C%22id%22:%22218943286%22%2C%22login%22:%22u_noah99n_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ouk54yrh1np93xkl1xjigqy2f6et1a

@@ -1,0 +1,13 @@
+#w_julianau2i_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qJmnIkOoAJe8d7tUOjJohZWc8zjB%2BW4ja4MDuvT7AmY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	049c69c80ca134cb
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032864%3A%3Axru4jz480k3xjp7gnx8y2euzrnsbip
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI4NjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI1NTksImlhdCI6MTUyNTY4ODk1OX0=.wLCZ8yoxhmoxujOcinScZxDwI2NzCCts-kW2raO0g9rniymXJKtI6Qs87UBv8ZDZ2sk2bxcPUKGKySuRE7wZ1w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI4NjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNzU5LCJpYXQiOjE1MjU2ODg5NTl9.nUVhAEvz7uieZ3GrDumDWZu8RtZT77kW997jJugd6bVcnj4paLPBBgqENrSdHFG025EuRsgZz2Vy3eSPxCJYVA==
+.twitch.tv	TRUE	/	FALSE	0	login	w_julianau2i_k
+.twitch.tv	TRUE	/	FALSE	0	name	w_julianau2i_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:29:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b5cdb7a67e39281c4f60d499e16b2178
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfanVsaWFuYXUyaV9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MDk1OSwiaWF0IjoxNTI1Njg4OTU5LCJub25jZSI6Ii11TllHeWhUR2pYZVZmZmQwaVFzRWo2RWdJUHpQdDRENE9tQVdERGFzaXM9In0%3D.pRKEU2wXcN_tSoxolkmb39hs1XFm7yR2yKStF9onZjSw-htNjy2qzbLluUIRgczy7q4xp6hitXDCULuXeRr3mg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qubhac9p190iqn6x473c8wlxvoan7a%22%2C%22displayName%22:%22w_julianau2i_k%22%2C%22id%22:%22219032864%22%2C%22login%22:%22w_julianau2i_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qubhac9p190iqn6x473c8wlxvoan7a

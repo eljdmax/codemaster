@@ -1,0 +1,14 @@
+#b_natalie67y_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DKzzJcQ30tIa9XzDnAX7gQL7jcWytAThnalslFPoG7I%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6873a82fe07ae47a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	6816f47197b4901ef29f1b53f0129a78
+.twitch.tv	TRUE	/	FALSE	0	persistent	218849754%3A%3Awcxekutz9kttszyo0noyv0lqbj3nx9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDk3NTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTYxNDcsImlhdCI6MTUyNTYxMjU0N30=.A9j6wCD_H0RJHcXZFIuQVYlBwzhW3ezFrQ50hkJNVxGqzIWwtFN8fiyiz_W9cvo8zDv2hj2a0I-8zkOL4GARHw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDk3NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3MzQ3LCJpYXQiOjE1MjU2MTI1NDd9.4nuEqLQg16ppphMDfc8OwUpEMk4HJ_V9LAiC8W8MAVt32wrivcX5Pq5hLPF2f2BzJPlG5fKVN8V8vrhaKLiS9g==
+.twitch.tv	TRUE	/	FALSE	0	login	b_natalie67y_8
+.twitch.tv	TRUE	/	FALSE	0	name	b_natalie67y_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:15:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c07b083177a71cb9209b9074861d2de4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbmF0YWxpZTY3eV84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NDU0NywiaWF0IjoxNTI1NjEyNTQ3LCJub25jZSI6Il81bC1xVlNKM3ctMzJXemxzNmNnejVKNV92cmdoalJkazVQSURvc1VWU2s9In0%3D.H0sVWFz39PHMMeZstmBzdUedxHMBGEZxea1NihOoC8KsIIRboiQurzNY43rNtMJUqMw92NXF4D32C-0kR3G0dA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vo916mc0rkrnyql6wnfh0rdkjpfq0o%22%2C%22displayName%22:%22b_natalie67y_8%22%2C%22id%22:%22218849754%22%2C%22login%22:%22b_natalie67y_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vo916mc0rkrnyql6wnfh0rdkjpfq0o

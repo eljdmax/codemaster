@@ -1,0 +1,14 @@
+#v_jazmin84j_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XhvLM37T2zA9A%2FmME6aIW8rl1iY%2BC9MtJakPS8ge7so%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c1e4ce3be5ad99c0
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b2cf74651ae8f41cb43bcdcd6c71e130
+.twitch.tv	TRUE	/	FALSE	0	persistent	218938850%3A%3Awtfbf4kipfvqgnamxcoex7aidnlup0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg4NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI4MzUsImlhdCI6MTUyNTYzOTIzNX0=.uBssaAlL6hvQvcVHZlju4sYR7QjavGfu5O8y2SozfU-SKlp6DlhG_3tjb3z4ruYlejSGQ6yDzdsl44H8gsqN4A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg4NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0MDM1LCJpYXQiOjE1MjU2MzkyMzV9.1ZFsnjPLA-tw7sUSLkzbpd6uSE9SYLQYykzr8eksQoU9bVdWP7q6l11mumASRc05rgj55M6QawEFm3vL6yf65w==
+.twitch.tv	TRUE	/	FALSE	0	login	v_jazmin84j_g
+.twitch.tv	TRUE	/	FALSE	0	name	v_jazmin84j_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:40:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5947386f2a6562f67ddec8178de90184
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfamF6bWluODRqX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkxMjM1LCJpYXQiOjE1MjU2MzkyMzUsIm5vbmNlIjoiY3BDeUdpeU5XVi1iWjNRNXRqeEZ6UXN3ZllFbmphb1ZNOHp2SEVFdGhfZz0ifQ%3D%3D.G09NeSWAaV0krIoQt0bGPDlhDMoUIy6Eg91CWqk7xHToERk_NZX78-bEyc57bwQnhHzm7beADt78N8fFS3NHXw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22yx71qud02wx6y3px2v33o4mxd5w6h2%22%2C%22displayName%22:%22v_jazmin84j_g%22%2C%22id%22:%22218938850%22%2C%22login%22:%22v_jazmin84j_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	yx71qud02wx6y3px2v33o4mxd5w6h2

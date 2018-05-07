@@ -1,0 +1,14 @@
+#b_victor66s_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	PKH1RTo04CtEnbK4z0nQF19WM1nVzoI7zJO087Tr%2Bw0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b5b636703016e184
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c801fa85caf5f5f8a5000f09268eee4f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218950160%3A%3Aubri1kh2alx40jg6ahyuf0z7z6tcaf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTAxNjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDY1MjgsImlhdCI6MTUyNTY0MjkyOH0=.TnrX1BE_2XzLWERt_cOyhTYA5wX5fmWUqVxNyBt9WWmkeHwffxOSvZUopDIEkLg6A1kSOV7OHg8X71DKmIWRXQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTAxNjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3NzI4LCJpYXQiOjE1MjU2NDI5Mjh9.kCQEeHr71sNMB82WU9bPgar7uAKRySxnDGZMdY8jiijcEnp992voRD378gx-WGDmFQRnb4BFF8Trv6-jzhXjXQ==
+.twitch.tv	TRUE	/	FALSE	0	login	b_victor66s_y
+.twitch.tv	TRUE	/	FALSE	0	name	b_victor66s_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:42:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d3a816a25f7c560d8fa57097adcc300b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfdmljdG9yNjZzX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0OTI4LCJpYXQiOjE1MjU2NDI5MjgsIm5vbmNlIjoiQktRU2JuVW05MDMwdHdmTUkxVHZsVlhjelF2UDFXUVZxaEJHTWxLSVd2QT0ifQ%3D%3D.PNoZluIaI1THOiUWoV8d9OLxVy8qd_70xPJg3q_2tk1r7gFDzCF2tAZRsu6_zLTiu6Cil7jrs4zJM5XvUSw1CQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rezhtp15miehkp6ffsaczguvnbwvqw%22%2C%22displayName%22:%22b_victor66s_y%22%2C%22id%22:%22218950160%22%2C%22login%22:%22b_victor66s_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rezhtp15miehkp6ffsaczguvnbwvqw

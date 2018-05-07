@@ -1,0 +1,14 @@
+#n_ashleyv86_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7XTPsjc05bsgbTQiaABSpdA3tnPwvimIroU1N%2FNCsQo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a77ba98ba54e6522
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	218d3426ad7c2c6fd977cfd33dcaab16
+.twitch.tv	TRUE	/	FALSE	0	persistent	218888455%3A%3Ac1wv1d427jr9l3r8bituoio4d323nv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg0NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjkxNDMsImlhdCI6MTUyNTYyNTU0M30=.KfrAwi7w-8iX2Pe3Owqs5JygBYmvsrOCPepEbJ4DtPl4vWXnrleESIDDdPf7p6fV1ObSgJ7LBItctfxCm9vOww==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg0NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwMzQzLCJpYXQiOjE1MjU2MjU1NDN9.7yO3wN3PHaRHvwUGPHMAq7nmEre8pYQOgfmZgJqlONyczpRkCsn2VC5boU47fJXrKfNL_WX0tacaHnIibyawRw==
+.twitch.tv	TRUE	/	FALSE	0	login	n_ashleyv86_v
+.twitch.tv	TRUE	/	FALSE	0	name	n_ashleyv86_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:52:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d376f6b6b1aa6153f82a8e4a5ca2e94c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYXNobGV5djg2X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc3NTQzLCJpYXQiOjE1MjU2MjU1NDMsIm5vbmNlIjoiM2NiNURVQjUzSHdBdG0zUmRIWWhleDNZdE1PazhCa0JQbDZJdkVESjVLQT0ifQ%3D%3D.CPanu9cGovU9DlMwl37Q5lm2PodFIRbcUfgR-QDIdAtf-8IqLoFiz5HK6VEId1aDe8hRhU6R44AjkZa-luJEbQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dx5qqg3u4gjoz54xz6qlsum0g6pr2j%22%2C%22displayName%22:%22n_ashleyv86_v%22%2C%22id%22:%22218888455%22%2C%22login%22:%22n_ashleyv86_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dx5qqg3u4gjoz54xz6qlsum0g6pr2j

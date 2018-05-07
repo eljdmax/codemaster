@@ -1,0 +1,14 @@
+#s_jesusk2g_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4ZGJwpmb5NDvT%2FSK0wD1UOc0HVXr9bBDjLmjvWXKeEQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ca13f6ee4598a88a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	341f02a78e741ee7f074a865c56d9835
+.twitch.tv	TRUE	/	FALSE	0	persistent	218883046%3A%3Aoj29tsrd8nu503m8c9qkqtjfa2iwhn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODMwNDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjc1MzgsImlhdCI6MTUyNTYyMzkzOH0=.rzWnM34MHjP1Trw5W0GLIshYixKqPN3KKbdALQPKfg9xcH_eD7B-c-wLUyQWRjB-1CD2McYNmo5roFgB76gu5w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODMwNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4NzM4LCJpYXQiOjE1MjU2MjM5Mzh9.6QiN18Hc-Zu70TsoJAkaDYH9AYwBju_fElonmUgvdeCsLpveT5ZMg_CRhlymdqDQ8eQVA05hE1YUjztHIVopFA==
+.twitch.tv	TRUE	/	FALSE	0	login	s_jesusk2g_t
+.twitch.tv	TRUE	/	FALSE	0	name	s_jesusk2g_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:25:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fbc372580b356d5b092f7cf176984200
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamVzdXNrMmdfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzU5MzgsImlhdCI6MTUyNTYyMzkzOCwibm9uY2UiOiJpU0oxemFjenZaTTJsRllaTHNlbUhILWsxb0FkSHo3MEJmTXdsXzZBRGNnPSJ9.vHFpmMuWK0GXE1E748a2f8qNkrN8JqEhZMudZQhHOgEc4ncX9u2N-XOzl_t0vhZZQW0O4oK3AcR-Y6WiBjr4bA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ss6veckgg028ncfu5a1n89xffzczwl%22%2C%22displayName%22:%22s_jesusk2g_t%22%2C%22id%22:%22218883046%22%2C%22login%22:%22s_jesusk2g_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ss6veckgg028ncfu5a1n89xffzczwl

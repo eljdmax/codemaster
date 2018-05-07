@@ -1,0 +1,14 @@
+#t_brayden49u_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RMuJ2qypf4%2FecWwLZ0uRESKcpOKIRpT48HO4boqgexo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c979600b8e83eb51
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e2bfc83f75de065fd28cda9730cfc0fe
+.twitch.tv	TRUE	/	FALSE	0	persistent	218885634%3A%3Ae05h2y6hmlsgo3mub640tu5m3awma8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU2MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgyOTUsImlhdCI6MTUyNTYyNDY5NX0=.2gdrLl7OTCRTqXdQl0kBbByhS0gH2AiXYQL_Pw9GEGKlYVsGXk-uIsPnJ28G3HOo2z7R6W5QLMhzNwLW0NFeZQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU2MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5NDk1LCJpYXQiOjE1MjU2MjQ2OTV9.Gs4bGwNBxC7pUpWqHEK23a9uYlhtwSUoPjza-wsAkMvS0FO7_ZI3tXYjt_Jg1oiP5ZA41cQIXuu1zyMDSoowVw==
+.twitch.tv	TRUE	/	FALSE	0	login	t_brayden49u_a
+.twitch.tv	TRUE	/	FALSE	0	name	t_brayden49u_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:38:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5c1a4dd57c60bd58c0642193af819f0a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYnJheWRlbjQ5dV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjY5NSwiaWF0IjoxNTI1NjI0Njk1LCJub25jZSI6Im41SmJROXlOUUZxOEdPMWYzeXpidFQ2eHNLR1ZlMmUyeHVIQS1WWThZb2M9In0%3D.TaxIiXfaNpF0AHqjyIxsIVqX2pPFxo0Iaj4VYRZsg_5omxVikaykQsaKWPKoq3zYfvR3jHuNI4Ez5_0vZkIkLA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kx6ebd7252ma3xgn0crupwh62lmmvq%22%2C%22displayName%22:%22t_brayden49u_a%22%2C%22id%22:%22218885634%22%2C%22login%22:%22t_brayden49u_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kx6ebd7252ma3xgn0crupwh62lmmvq

@@ -1,0 +1,14 @@
+#b_alexandriat3f_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3r2BGJwW1ltIDtWpJK%2Fr4HvJPB32O3C%2BWu1T7sH2t14%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	561f6717011211d8
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1b4bf40f97054241445155afbbc5344f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218865630%3A%3Ahqpkr5sn8yy2j7u77cw58u9szvmgbp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjU2MzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjE5NzcsImlhdCI6MTUyNTYxODM3N30=.ulIsKlmng8hOIgC1BwVAqVoGdmHNS_UkgF9WPU3rAcNgsB3P3OrOWxJkONDFUzUSJZvCkBhG_2hCzXtCJsd0jw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjU2MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIzMTc3LCJpYXQiOjE1MjU2MTgzNzd9.Uxl7c4OvUX-sEERcsqN-9KyZOoJ71KlPtrboGxmtSviekDfpVBLLOO4IRLpOyNogW508mozXFi7OvJac46IQmw==
+.twitch.tv	TRUE	/	FALSE	0	login	b_alexandriat3f_w
+.twitch.tv	TRUE	/	FALSE	0	name	b_alexandriat3f_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:52:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9adb52af47e25bca3a2c97a024dc7328
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYWxleGFuZHJpYXQzZl93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3MDM3NywiaWF0IjoxNTI1NjE4Mzc3LCJub25jZSI6ImVxTS1OVXRLR3NUaGgyQjJoQ1dZM1I2VlZHQTdueEg1M3FNaS1UbXJXZDA9In0%3D.iB94ReSb1NkK0aP3ag8aNcb7lf4eauumk207KmqY3lScl8xQDWhA_FSRJWEG7xQie9J9vvxqBSweJbOV7l8Y2w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hxcdciuj8tsovlycju8km1e3ti56vp%22%2C%22displayName%22:%22b_alexandriat3f_w%22%2C%22id%22:%22218865630%22%2C%22login%22:%22b_alexandriat3f_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hxcdciuj8tsovlycju8km1e3ti56vp

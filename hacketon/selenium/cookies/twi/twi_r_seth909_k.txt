@@ -1,0 +1,14 @@
+#r_seth909_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	lLLrGSIE5zZa8UgijkjJQ%2BZbROWAdH3oMTtTEFZ2ZIs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3ad814344d6f777e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	60817a6364190f00befe3310b2d5c9c7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218877403%3A%3Af4gay1e3vkdff8tq93t1c0rgbqplip
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzc0MDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjU4MjYsImlhdCI6MTUyNTYyMjIyNn0=.sf8CVswtGX50so-lANfYlVVKO4NhQcCCaL-0IXdmfhCfnkyzR9MsC0qG2xi6riF51ReVNyKqGuf4v397h0tMrw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzc0MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3MDI2LCJpYXQiOjE1MjU2MjIyMjZ9.DGLfjbvqKW65nBfrZyL51Oj93WASvOwhjeezpPjFFAdJ5gslkmxWHeuQ0oAFY71KEyhgS6nNaWVBNFAZvup7Qw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_seth909_k
+.twitch.tv	TRUE	/	FALSE	0	name	r_seth909_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:57:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bf69521d8f8734b18a86922489a19c14
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc2V0aDkwOV9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NDIyNiwiaWF0IjoxNTI1NjIyMjI2LCJub25jZSI6Impaa0diOGUwY1hxR0tLMmNNYl9CSEhLV1g1OXNCeWt0b2pHeDZyeWdwdG89In0%3D.w7JOxs7t2KqGGAtnpN0VOU6-XZSL5YjATS6s-B7LtwJlwlKJWOrulSUczNgbsjKhPqiu0oEW0emwfF_urOeJcg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2280jtqadoqtp51gypws3c56pxgwpwg4%22%2C%22displayName%22:%22r_seth909_k%22%2C%22id%22:%22218877403%22%2C%22login%22:%22r_seth909_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	80jtqadoqtp51gypws3c56pxgwpwg4

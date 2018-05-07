@@ -1,0 +1,14 @@
+#w_kaitlyns8s_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Hdr49%2BcpiJ4H6cDfOlZjqYH5Rn%2BDoNtk5Ha%2FRQyKCQM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	bc2b6ebef2753273
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	5233a699dc223560f676d6bfd298dff5
+.twitch.tv	TRUE	/	FALSE	0	persistent	218890927%3A%3Ag74etsaufi82fqhcj4fvsoxjz1by4w
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA5MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk4NTQsImlhdCI6MTUyNTYyNjI1NH0=.WrtQDGD-_9x1OEnvgWpvL8ksESOAIdBH4XjL8JqoUmhjcogbW5-hem8A8zqthc0FIhNxC8kYM-dpThVXlRBhTA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA5MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMxMDU0LCJpYXQiOjE1MjU2MjYyNTR9.-8_jtC-UIAAK2l7Nriy4m3eQaHCujkiKYHxccoCKPvqb0H6E2X5bKE_jFiUt3T8HyOki03YFdbwKXRpq7fm-fw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_kaitlyns8s_w
+.twitch.tv	TRUE	/	FALSE	0	name	w_kaitlyns8s_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T17:04:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e0fb4310989055b6079de5a3fcf4782d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2FpdGx5bnM4c193IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3ODI1NCwiaWF0IjoxNTI1NjI2MjU0LCJub25jZSI6Imo3bi1ySlh2azZHcTVuWXQwNVBuWWdLb0lYUDhNdTN5cFZxZDZPY1VNSU09In0%3D.N2tGpqqEnWa8lVwWc5k-g1F28q8TiDf94Of-cZuYrIFwDQNyImfOEUQ3IWi2dEI2E1q1Ea5sa4a2J_KcEKaTlQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qi15wnl0r5msh3986vm5m1q2rbspwj%22%2C%22displayName%22:%22w_kaitlyns8s_w%22%2C%22id%22:%22218890927%22%2C%22login%22:%22w_kaitlyns8s_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qi15wnl0r5msh3986vm5m1q2rbspwj

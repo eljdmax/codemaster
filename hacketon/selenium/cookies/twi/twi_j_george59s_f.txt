@@ -1,0 +1,13 @@
+#j_george59s_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	B%2F4iZydjrQWDtKRlMPsbi5QjkWHueHPuodOjeQrYOIo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7e8fc592764df469
+.twitch.tv	TRUE	/	FALSE	0	persistent	218948230%3A%3App01q9tvv9e5y3lbn9q1yz7xzacvim
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDgyMzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU4NjcsImlhdCI6MTUyNTY0MjI2N30=.V3DgX9IbTCxxih5haaaIO_tfuboI0WZroa7LfpF1D1y4Y2R0n21tV2bFFhU9fjKe9c8uROpONgRh7-CN29N9cQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDgyMzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MDY3LCJpYXQiOjE1MjU2NDIyNjd9._e4ZjBcmElTLw3g5i3KzDRvpaexzU91AJoZLPvwVNc59FFiR7xRztcPoxhcx0jOSLqFfKSPCDhKbtxRsmPJ2tQ==
+.twitch.tv	TRUE	/	FALSE	0	login	j_george59s_f
+.twitch.tv	TRUE	/	FALSE	0	name	j_george59s_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:31:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	59f4b57921eea0e2fdeb627e68ed44d0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZ2VvcmdlNTlzX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0MjY3LCJpYXQiOjE1MjU2NDIyNjcsIm5vbmNlIjoiVVFQSzlWa3lCN2JrN1NtNGlnRy1Zemo5SU1iRVNJRGpnb2ZKQWRzcWdHVT0ifQ%3D%3D.FKX1WMnoBdVhR6o0mTQ6iIVRQ4EJMTXiKhyGsd5-e6kEklHn-PVrYk2oyM2TyFYgcTg2jxLE8_nYgdp1ALodjg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2274u8pplt9bpk903f2m161p1yo8pwkp%22%2C%22displayName%22:%22j_george59s_f%22%2C%22id%22:%22218948230%22%2C%22login%22:%22j_george59s_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	74u8pplt9bpk903f2m161p1yo8pwkp

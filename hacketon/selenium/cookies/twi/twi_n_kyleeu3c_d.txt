@@ -1,0 +1,13 @@
+#n_kyleeu3c_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CHaNlhA7%2FyXaKmdPl%2BLoeec1BezmTy5ijEbaITntjOA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9f662a4c583d7b02
+.twitch.tv	TRUE	/	FALSE	0	persistent	218952051%3A%3Afx7dblb28ofzx5tc5mxt4zkzcolux3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTIwNTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDcyMDAsImlhdCI6MTUyNTY0MzYwMH0=.5uB7Ky7pg7mI4QXoMXkiE1QkCSeFK2dQdItHKFXJ0TgZ466johzOVMj7Tvv2Fpn8TSmwvhhqm-KxpD0JcrKEZQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTIwNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4NDAwLCJpYXQiOjE1MjU2NDM2MDB9.MGalANz7dGkTIKOjfmd_jh4y9eZ_IiYNHBvhAfjvXRDNMZ2PRBaPFG85YzDM6-Q5l8G339CzPPiqf5ApTsyWgg==
+.twitch.tv	TRUE	/	FALSE	0	login	n_kyleeu3c_d
+.twitch.tv	TRUE	/	FALSE	0	name	n_kyleeu3c_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:53:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	32b5b8e3d5da438f5a963a4361ffc4ac
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fa3lsZWV1M2NfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTU2MDAsImlhdCI6MTUyNTY0MzYwMCwibm9uY2UiOiJiSzFYNWNIN0JVLXMxdjM0MTdLamZ1UGNNTVRkRGZZdHdkYkV6U3BxaUxzPSJ9.N6iXJ6IJLIlJuaaAHboY_8i24v9SzIdr0I8u1iBxEXQN_KnbixnykUqGXznwPVTNLkVd3Cfv5kXfQmPz4sZPjw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22leco4biaj9sl9ppolnjru0a29rrgh1%22%2C%22displayName%22:%22n_kyleeu3c_d%22%2C%22id%22:%22218952051%22%2C%22login%22:%22n_kyleeu3c_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	leco4biaj9sl9ppolnjru0a29rrgh1

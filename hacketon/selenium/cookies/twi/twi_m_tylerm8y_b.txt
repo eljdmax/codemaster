@@ -1,0 +1,14 @@
+#m_tylerm8y_b
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5820ee6f5a9cf0d5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	203f909a1cee6f11f3f8c8251fe07627
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GCgNtYZsIFXvAm5IIAuh9DDyXva%2BB6J9RY2aD8aA6TA%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	219030965%3A%3Atqe0fhfmb725przm3czux3qx6r9r42
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzA5NjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTEwMjAsImlhdCI6MTUyNTY4NzQyMH0=.zaiq8oTNvxKDtLdjmskAqGB9T4YhFxrmVXhAJVqglFbDWNQwzEpaCt7JFgbODomtyPZJBWK-aG6lADEjmUbemw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzA5NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyMjIwLCJpYXQiOjE1MjU2ODc0MjB9.P29HehHvv__96R3CyH_rwhpS-b0gtRu-bX8M9sYrXm26-MUZR7r2UFZLJHH8s19C0wjSdBipnh4w3WUmhhBc9w==
+.twitch.tv	TRUE	/	FALSE	0	login	m_tylerm8y_b
+.twitch.tv	TRUE	/	FALSE	0	name	m_tylerm8y_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:03:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d69306011ce2b0bac513e4ed15fe4a00
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fdHlsZXJtOHlfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzk0MjAsImlhdCI6MTUyNTY4NzQyMCwibm9uY2UiOiI5WE9EZ0dLRjFhbHVpRGNOS2Nma0k2cmJocExhaVlhWWpJZlRianBPeTFZPSJ9.qXF_IcxuJaGnmWBr6HjI_Ogz2x8zQcBD6w4k4ImoyK5-u4Om9iFBzgfUCNjW8Db45RHzw-REa0Ihf62fe7uYlg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223es62bad9e1rckaxzjaf42oqm5xw02%22%2C%22displayName%22:%22m_tylerm8y_b%22%2C%22id%22:%22219030965%22%2C%22login%22:%22m_tylerm8y_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3es62bad9e1rckaxzjaf42oqm5xw02

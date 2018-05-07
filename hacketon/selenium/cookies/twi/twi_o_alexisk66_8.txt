@@ -1,0 +1,14 @@
+#o_alexisk66_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UySqd9HoRloKgQxmjAI9VVIOR%2FrfavyJGfcc76yCAT4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d32624b63fc5d346
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2794436bc93e193be980964fe1e9afd6
+.twitch.tv	TRUE	/	FALSE	0	persistent	218953658%3A%3Ak364kbgvii81nnidhhx88qmi3im2b9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTM2NTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc4MDEsImlhdCI6MTUyNTY0NDIwMX0=._Jq5SDn5r3-HFNxYcr7BatVM3KD3OuYZCMjs-lVjKkVc5yMhbxG2dSHBIayaZxj0H7_5mSW_MkFuOEJcLZ_ljw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTM2NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ5MDAxLCJpYXQiOjE1MjU2NDQyMDF9.3ji4z91kNhC252rGdWNfkFh6N8ffRdU_7CvOa5584Vt6ZNTMXl-Nx6DFpUkVV9qgFJComUYXQ15JEwL309cuig==
+.twitch.tv	TRUE	/	FALSE	0	login	o_alexisk66_8
+.twitch.tv	TRUE	/	FALSE	0	name	o_alexisk66_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:03:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7b6474c49a72a9f0cedb7aeeb26a64bb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYWxleGlzazY2XzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk2MjAxLCJpYXQiOjE1MjU2NDQyMDEsIm5vbmNlIjoiVUxaWnBoLVpUcWE3aGZVaTQtVVNsNzlMeWc1czVUY211Z09Ia0QxX2pLaz0ifQ%3D%3D.uQ8XfA7H8FVfJiNaE75V9xK5GDYgGyswaZE-3sQJ6Jd0ce8T9Tr302uHMQlndIZG6TeOeJXnAslHiwE9x80gUA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qj6n85nkpwigguva3v2qfpyjrv01fv%22%2C%22displayName%22:%22o_alexisk66_8%22%2C%22id%22:%22218953658%22%2C%22login%22:%22o_alexisk66_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qj6n85nkpwigguva3v2qfpyjrv01fv

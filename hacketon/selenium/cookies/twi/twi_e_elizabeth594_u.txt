@@ -1,0 +1,14 @@
+#e_elizabeth594_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	uf8qTORWRYBvdv5RLkqOQCBp9H0A28Rm2K%2BW60E242o%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6a0eab520e86f6ce
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	212490ff38e357432df3942653ea7c59
+.twitch.tv	TRUE	/	FALSE	0	persistent	218958669%3A%3Au2v7am2d91gle5afzypq7c77sr32jj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTg2NjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk2OTMsImlhdCI6MTUyNTY0NjA5M30=.Kvh3qtDPJ9pzi1WB1m3BzH-hBIMfixWKzSYIxxXKkuEZSottikG4u5L2cIhdBqM5bwkwNox7-52d5_zhQC9jHQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTg2NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwODkzLCJpYXQiOjE1MjU2NDYwOTN9.Jnwj8y4ltfdtU06ITc0cbeMHiWSbt6Y8hu8DdUkqoBaPsjdwGEu8eXY5T3X2sp2wlyjlS9qOPsjLnXYcFyVl7Q==
+.twitch.tv	TRUE	/	FALSE	0	login	e_elizabeth594_u
+.twitch.tv	TRUE	/	FALSE	0	name	e_elizabeth594_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:34:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3a144b630010f2dfadfdd1db5460de3e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZWxpemFiZXRoNTk0X3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk4MDkzLCJpYXQiOjE1MjU2NDYwOTMsIm5vbmNlIjoicndmMkNpV1VYZFpuM0huLXRwU3hvYzFIcjZBSm9xd0x4NERnRzV4bkctdz0ifQ%3D%3D.feGVHRDMmtF3DlOdXrVh89DfiPn4ry1i_EciNq78SmRE8d_enlf53SuurJc_2HOANZ49qOP7z1h2cLW5RAzsbQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sv1eaevmdpir47ou5sg99o2ivgk21x%22%2C%22displayName%22:%22e_elizabeth594_u%22%2C%22id%22:%22218958669%22%2C%22login%22:%22e_elizabeth594_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sv1eaevmdpir47ou5sg99o2ivgk21x

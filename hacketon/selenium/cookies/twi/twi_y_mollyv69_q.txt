@@ -1,0 +1,14 @@
+#y_mollyv69_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	aHAnYwQC1hgqMaTkGMLNaRBSPJWXehOl3TZqBNZMAdM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8fcaffdbc82fd12f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	34b069c76260ee8ffd197a6daa868087
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957131%3A%3A7p4qfptw9dpyxj6fkk75kkest5yiq7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTcxMzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkwODcsImlhdCI6MTUyNTY0NTQ4N30=.GCGD-2neBlbwyvUMw5fVHQgq-lMLt_Yb0dFGdtTZBmH5soIJfNgtcw3RsemWGFY-CQ0WLmmp9qAD95k6UNsG4w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTcxMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwMjg3LCJpYXQiOjE1MjU2NDU0ODd9.tghWr_iAlxl8OQgTpglZKtJYSYZV9yitdxM--Z3koSbAWHlOoqW-MealBOkBe3zGyZkEhhFsUzvC52Lqmxwb4g==
+.twitch.tv	TRUE	/	FALSE	0	login	y_mollyv69_q
+.twitch.tv	TRUE	/	FALSE	0	name	y_mollyv69_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:24:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e289d403dacb52b0a950bf53bec01c16
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbW9sbHl2NjlfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTc0ODcsImlhdCI6MTUyNTY0NTQ4Nywibm9uY2UiOiJmZzN4YWoyUjZma1lfX29zbU5KNFpTQU5sZzJqOUxMNmd0NUZBYnpBb1JvPSJ9.95X-WORozd6ZdDzRYk14MJPLuW-dz6Qg50ehwNfNTEQddrHrLtxhXZh_YjN_LoYJ01N8S6tZNSANZKDROlvnIw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rf5qqc4mlsay7g4su640it16kcfoum%22%2C%22displayName%22:%22y_mollyv69_q%22%2C%22id%22:%22218957131%22%2C%22login%22:%22y_mollyv69_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rf5qqc4mlsay7g4su640it16kcfoum

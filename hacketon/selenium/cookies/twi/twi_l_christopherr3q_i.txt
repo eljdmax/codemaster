@@ -1,0 +1,14 @@
+#l_christopherr3q_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pkCvIAJaPcO1htj26qe5%2FcSJCA1zW1B4hoaWEUBDDYs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3306d471ed48cb84
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1ce6bb97624f8273eb74e0894c94ee56
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949999%3A%3Ash1nk7o5ntwi8p6028f2yhz0p9j8tn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDk5OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDY0NzgsImlhdCI6MTUyNTY0Mjg3OH0=.Q1E_IxMw3Iisor1E_3FU8M8zHnS4kjtghHrUVRT6A57Oj1L23RgxFmkz-0RxVH0R-6_n8SOFgzk7-Hjavf_NBA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDk5OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3Njc4LCJpYXQiOjE1MjU2NDI4Nzh9.nH8J2ij3KEBfGC7L3ZbJWUXyo2WMZDXexxPXk-m-pwDENDszeQzL_eilMSOeJy6whJNyFiG-4n1SCdXWu7wd1Q==
+.twitch.tv	TRUE	/	FALSE	0	login	l_christopherr3q_i
+.twitch.tv	TRUE	/	FALSE	0	name	l_christopherr3q_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:41:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	970151221fa63de5717e255a6ab8bf71
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfY2hyaXN0b3BoZXJyM3FfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQ4NzgsImlhdCI6MTUyNTY0Mjg3OCwibm9uY2UiOiI0Z3JlUm5tZ0tIVW5LUkdPT042VldxSnIzb2RBYUlrcjdQZVVSYWNEdkxBPSJ9.iF5kHj_69yJex8wXhAQmNkOwe_ZxQeoHRsrzGKvYBHOIsFgAvR3ctPmNUvJbJYO8vVkXOWhEfdx4wM361yk89A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tbo5jif1zmf1p6b13oomdz9ewetbv6%22%2C%22displayName%22:%22l_christopherr3q_i%22%2C%22id%22:%22218949999%22%2C%22login%22:%22l_christopherr3q_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tbo5jif1zmf1p6b13oomdz9ewetbv6

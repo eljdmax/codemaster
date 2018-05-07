@@ -1,0 +1,14 @@
+#k_fernando21h_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DEXEekNleAgseJeF%2BaVZrUzz86zGtESdXsZ9bNoxKYI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c5e080d66b62f22a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	25517a3b71ae083b8e73e3d2d477a87b
+.twitch.tv	TRUE	/	FALSE	0	persistent	219033080%3A%3A40y53jzxpcqz2vbdli88fsag4ik9nm
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMwODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI3MTksImlhdCI6MTUyNTY4OTExOX0=.dvsuhxm8xIwA-Ce4k0MDip3f1Y6Uh40iITe3Ik_KSFYz61pploMesf7opT9-4PdVTYoBawG67hidmrAq_D9m0g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMwODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzOTE5LCJpYXQiOjE1MjU2ODkxMTl9.21Hsc8UWp0Pbq71hLveEdDFfr4ml3OWQEytABK0knZN5LdOsI5iO467C_Dx1GdI6yALMaJgxOs0ejD24wClV7A==
+.twitch.tv	TRUE	/	FALSE	0	login	k_fernando21h_l
+.twitch.tv	TRUE	/	FALSE	0	name	k_fernando21h_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:31:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9b4ea2d7df2899fdfc1d9d2fc5abf121
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZmVybmFuZG8yMWhfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyNDExMTksImlhdCI6MTUyNTY4OTExOSwibm9uY2UiOiJDbXVtbURYdC1oVG1GeTBOcURHUU1UV3BIS3paQVdQSVdOLUQwbTB5OEFVPSJ9.4G6eJwWUnvMsyXbDwJsxKwpHIfgwd4UWyFMf-whTWbWL6SZYw71tz3-DKb1P0OMSPYm5iokam-G-39WsBcnSSQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22a2vxakfrjx5dmov1juqtg11oc32ks7%22%2C%22displayName%22:%22k_fernando21h_l%22%2C%22id%22:%22219033080%22%2C%22login%22:%22k_fernando21h_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	a2vxakfrjx5dmov1juqtg11oc32ks7

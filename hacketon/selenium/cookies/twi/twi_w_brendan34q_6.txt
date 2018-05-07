@@ -1,0 +1,14 @@
+#w_brendan34q_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	aGNM0Hf0X8SlTwwmxQrs0SM23gLitD9Hkjo7cvvNoPQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fbc1723b153b3884
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	848a9042c191028b839790fa1b7c7efd
+.twitch.tv	TRUE	/	FALSE	0	persistent	218880599%3A%3Aklt5zkjkf7sizjzevtehs358vr9s0m
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODA1OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjY4MjIsImlhdCI6MTUyNTYyMzIyMn0=.cFAOtohDPu9AIjSG7WDTy4EU-DZkpJlbgDe_vg0npoWALUNRnnrxp9FMuK8n-oAWvcmHEId3nZSLF92ZhXdObg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODA1OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4MDIyLCJpYXQiOjE1MjU2MjMyMjJ9.f92IMSGZgK_d14LpA-Ze2hEMD6EqTZH3NisgNDZHnteDO5NxXBCORiSB5tmRJbq7trvaXUGAML0pCuAIwwYRgA==
+.twitch.tv	TRUE	/	FALSE	0	login	w_brendan34q_6
+.twitch.tv	TRUE	/	FALSE	0	name	w_brendan34q_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:13:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ca3760433a062ec536e0e5c86a79fd32
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYnJlbmRhbjM0cV82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NTIyMiwiaWF0IjoxNTI1NjIzMjIyLCJub25jZSI6IjdIbG1NMHhvSW5raF9ub3QzWTB5T1NPRVVwTHA2YVJZQXh1TGNYZnRKQjA9In0%3D.wgqOmZ0dAlLwvKY1JaKOtGY-MSusepskhKuffIrd8Q0yoJ_WVy4JISbLJJV8yCJ_enZobqmrr0I3AYGcDaVaow%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%226jpqpw8ymak8ronj81erc8w5vg5quz%22%2C%22displayName%22:%22w_brendan34q_6%22%2C%22id%22:%22218880599%22%2C%22login%22:%22w_brendan34q_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	6jpqpw8ymak8ronj81erc8w5vg5quz

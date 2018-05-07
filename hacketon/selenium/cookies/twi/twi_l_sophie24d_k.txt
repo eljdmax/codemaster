@@ -1,0 +1,14 @@
+#l_sophie24d_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ajjLPpfFhI50foyYCNiOjEywFpiV6tkwBSDUIa5YIss%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3d3b7f224bfa93ef
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	6763491ad4bcae46279aee52d9bdd71a
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031679%3A%3A7mmhezdtbe631k5gqcs0hzxth0aids
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE2NzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTE2NjcsImlhdCI6MTUyNTY4ODA2N30=.8Q5WKgexxeNIK9O_3xA4i5Nx0mIZW3-QSS0EBuFf5YMyiUQQCdhxxX0e3dT9hvxU1AJIyGeflkjob95JsfqFyg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE2NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyODY3LCJpYXQiOjE1MjU2ODgwNjd9.V2o6d4DPFwRE5sPozeDyTyYoB_Zv2Y1ujGV_j1vikFuyZkJAWGVLfY30Is7Y-V3K7nuJPojSm0gAr3rCFnwWtw==
+.twitch.tv	TRUE	/	FALSE	0	login	l_sophie24d_k
+.twitch.tv	TRUE	/	FALSE	0	name	l_sophie24d_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:14:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a369e9327908aa7247124dd690979a15
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfc29waGllMjRkX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjQwMDY3LCJpYXQiOjE1MjU2ODgwNjcsIm5vbmNlIjoicGFxRWc3dlN5LTdlbW81NEJ1ZzYzcUVYbFlUUkdpT0NBeUxkNUNYa0Juaz0ifQ%3D%3D.QXq173xxuSPhpYBWj4L1U0X7VvwiNjAygatftCH5t1ABBbcNzCoa2agQPINhOFf3VZ-A57ulPxMi69TIOnTlUg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228ex5a4hp4hi3pz1pxcmwn6r9k329xm%22%2C%22displayName%22:%22l_sophie24d_k%22%2C%22id%22:%22219031679%22%2C%22login%22:%22l_sophie24d_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8ex5a4hp4hi3pz1pxcmwn6r9k329xm

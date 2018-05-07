@@ -1,0 +1,16 @@
+#l_raymond57b_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BtMhUyOPXTlBD9rxjJQ2FUJ3AyDdocn3fsysbSphpHM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fac1dc821ffe1d35
+.twitch.tv	TRUE	/	FALSE	0	persistent	218889829%3A%3Aoqbb41vr8xdnaeigz77sq3808gkdii
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODk4MjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk1MzcsImlhdCI6MTUyNTYyNTkzN30=.2JHSUwcLZKxiSeJdg7qiHT78Od1xQBsfOAFNddyFlJGDDalOfglEmSRcrWje58MqKMK3oOoqwTKeXHcQgck2cQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODk4MjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwNzM3LCJpYXQiOjE1MjU2MjU5Mzd9.5trLowp1Qv3rcI9eGIDOFql1Zz56iJL0y1o01SD67rUavuBSZ0awNzxyx6ju0gfT9f5MwgbWB8XYlanDprKv0Q==
+.twitch.tv	TRUE	/	FALSE	0	login	l_raymond57b_y
+.twitch.tv	TRUE	/	FALSE	0	name	l_raymond57b_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:58:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8e762b4ce7ae28b3314aba7fdd66b742
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfcmF5bW9uZDU3Yl95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NzkzNywiaWF0IjoxNTI1NjI1OTM3LCJub25jZSI6IkZ5TFl2cXJGb2RrRUllOXRBMl83QkpyaVhoYlp2VVdsQVc2b3duVm91Q009In0%3D.TxpTk4DfUvHtIqCzfVXSF8Hv70MdhSWTp6R4S2CD6zMTJ0sGJlDosmh9NpZ1D2Jl9ZFaWf9P0EjVpFSKfZQ4ng%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	4UNLR3sOIBlRQ0SaqCGS8Zxbq7Ycspb6
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=25c582b586ccd289:T=1525625943:S=ALNI_Ma3iGW6uo-1XNPvfg2mXP-Wp8KxbA
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjU2MjU5NDksIm52IjoxLCJ1cHQiOjE1MjU2MjU5MzgsImx0IjoxNTI1NjI1OTQ3fV0.
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ckr4r3zii6xjukrhpla9nw5dbb05y7%22%2C%22displayName%22:%22l_raymond57b_y%22%2C%22id%22:%22218889829%22%2C%22login%22:%22l_raymond57b_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ckr4r3zii6xjukrhpla9nw5dbb05y7

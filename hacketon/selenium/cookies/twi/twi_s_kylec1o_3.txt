@@ -1,0 +1,13 @@
+#s_kylec1o_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1TtWMr2dUoYSVJTbNTsrqVJpmXE5rzN6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EMUrG0UpEFIT8XFmpeN2ulyjKSTqvhpr8I3DVFXHkI0%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218946352%3A%3A7zfb6jwzyl1llw4bzoow6v4yvmven6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDYzNTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDUyNDQsImlhdCI6MTUyNTY0MTY0NH0=.7yLcYrMJPWqjid-p2Yj8sVZQ-OVOuXUr_gwXehdb6OIIM67CE54l4abdK98rwvFQsIRk3sAHEDpNZXaFVDV4nw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDYzNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2NDQ0LCJpYXQiOjE1MjU2NDE2NDR9.c5tZDML1TZ-tnSwA1Kck_-Tdqh-KYsP86RD_tIGcoIVTtm7KGGWPWBhjbFcjwGf64kTbu-Ftss6RzOYSzRZmOA==
+.twitch.tv	TRUE	/	FALSE	0	login	s_kylec1o_3
+.twitch.tv	TRUE	/	FALSE	0	name	s_kylec1o_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:20:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	144b5267b49be5bf7ba1a9ec8d7a6ff2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfa3lsZWMxb18zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MzY0NCwiaWF0IjoxNTI1NjQxNjQ0LCJub25jZSI6InNQYmpqTWYzN3NUQzI0QWc2UUh0LWhRSnc4UFVzZEN6aks1cTVIS0dZeUk9In0%3D.sZpfAKhv5a8sgh6xPQxEy20nEVj29S23V8g_iUnydH1qwZpNukJ9RmU1Uq5mLDVGkbwsito7SouOs0hf8OX-0Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s3s1euo5ew950p89a9loinggprgy9f%22%2C%22displayName%22:%22s_kylec1o_3%22%2C%22id%22:%22218946352%22%2C%22login%22:%22s_kylec1o_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s3s1euo5ew950p89a9loinggprgy9f

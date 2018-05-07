@@ -1,0 +1,13 @@
+#a_alyssa44z_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	jsaqA89JVSI4f%2BseNckDGs9PFC2%2BumMtjQ2FH4dfgME%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	dde4db45c36e23cb
+.twitch.tv	TRUE	/	FALSE	0	persistent	218937983%3A%3Aw5xlrch3dq14yn8ft08cubnd9ex1iv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc5ODMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI1NjAsImlhdCI6MTUyNTYzODk2MH0=.RqSLGgvPeKL3TkhqWJ5hXrbspu1xj40fZ3yOO_uEVyHgvb3YHP2zud18Fp8_0zFL6spRAsNalduhInarLUG2OQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc5ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzNzYwLCJpYXQiOjE1MjU2Mzg5NjB9.rfeOIxPZbDXLS3Ywkn_M2wjAeXqpS3j_Qqaygm3n725mt6LtVUfsAw3GJXFRfa5jBDelrjCUmEW-tEE_QXXgHQ==
+.twitch.tv	TRUE	/	FALSE	0	login	a_alyssa44z_n
+.twitch.tv	TRUE	/	FALSE	0	name	a_alyssa44z_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:36:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5709efa62fd1cc13dc6305183749080c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYWx5c3NhNDR6X24iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkwOTYwLCJpYXQiOjE1MjU2Mzg5NjAsIm5vbmNlIjoid0JINzlBbVRFWjVqUVBoUjRfX1JtVTVKTE5TODFDYWxDV2RlcTM5TzN0UT0ifQ%3D%3D.JHWKEGpRoPRZ9leUjH0xJ_1kEzKoPnDh0YVCHso0_aVeXsp8JpVNRD3WrJyCJpnJp8cjVqRiGdEMR8nt_NXBOQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22r8y0z0sko8mh63la79bg25a7cp0w7y%22%2C%22displayName%22:%22a_alyssa44z_n%22%2C%22id%22:%22218937983%22%2C%22login%22:%22a_alyssa44z_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	r8y0z0sko8mh63la79bg25a7cp0w7y

@@ -1,0 +1,14 @@
+#v_davide81_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EObwjLKXZcshOf2ZqV8Mbri0YetU7orxz29aysevCOk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fd61c0eeba4329c3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d6660f1680ca22615336f99b8fd70257
+.twitch.tv	TRUE	/	FALSE	0	persistent	218941998%3A%3Aaw50z42bx637ywv5p0kt5a9k72nqeo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDE5OTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM4NTEsImlhdCI6MTUyNTY0MDI1MX0=.np3Ce8iNP8Xd-i73Qt6mqWgIeMjiKmrQtgwHjed93EoWXGvsdpnTX8t5xGyZ-F4tIzBPbM32oYz-jYhgO7JpVg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDE5OTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MDUxLCJpYXQiOjE1MjU2NDAyNTF9.VD7Vu1P2HuK1u-1jgDP-xM8bwqJA9I-_pMHbxtZZDcCLu3BbKUBZbghrGTJgpHg5v9oywFJG5gqmWsClMeggEw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_davide81_v
+.twitch.tv	TRUE	/	FALSE	0	name	v_davide81_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:57:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e456983ee666a4ebfdbde41f6f00ca8d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZGF2aWRlODFfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTIyNTEsImlhdCI6MTUyNTY0MDI1MSwibm9uY2UiOiJVMUozVUVGeVZOV2NZSG9PaVg4MDRwT2NHUXMtY2tkai1OVHZJV0liOXVNPSJ9.Pqm4zxEt9nsIX8vGpYQ11ZyrbiBz6L50y23a6RkQ6Q7mlx4zsG_YC-FrIvJQ309WoMayB6EBD9pYXwRUAi4JuQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22u2ds607o5vn1l22j7bhc6jtpr5zhm7%22%2C%22displayName%22:%22v_davide81_v%22%2C%22id%22:%22218941998%22%2C%22login%22:%22v_davide81_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	u2ds607o5vn1l22j7bhc6jtpr5zhm7

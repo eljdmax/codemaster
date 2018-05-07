@@ -1,0 +1,13 @@
+#q_nicole335_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2F5RfIF2ZPbREpukFcPfid0E2Cthzzs2Q7GyqjBEERNo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c43f1a94780d3bc7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218855494%3A%3Aik8au4o0349epml96txxw478w5an65
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTU0OTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTgzOTEsImlhdCI6MTUyNTYxNDc5MX0=.lsznwPDedljQaesI4Wq0JyJG8582FlDBsfNIjh5POVNIuvuQAPPD5_833Jged15QcoQNAe8b0edQblK7FsnZMw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTU0OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE5NTkxLCJpYXQiOjE1MjU2MTQ3OTF9.Sqtl7aHITwyOv0pDJ7hfuyfROQxJE4pbgFQxm3B8t8oIQv4VXktco8pI6a1LrpBcdn1FyizrHl-jpS8cmH7viA==
+.twitch.tv	TRUE	/	FALSE	0	login	q_nicole335_7
+.twitch.tv	TRUE	/	FALSE	0	name	q_nicole335_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:53:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f12273c3121a158a31c6bb03f0b1188d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbmljb2xlMzM1XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY2NzkxLCJpYXQiOjE1MjU2MTQ3OTEsIm5vbmNlIjoidFRvSDVmWkxFdTRxUVQ5YUQzUzJaN2FlOWJFVk56OXpmXzluQzUteEVSbz0ifQ%3D%3D.fXIYLrJRL3cYP27I_3KfCPpQfw12Wkt3P2t6-cYORD201DthFnZw_zIcRpWJEye_39UPFhMC_2RHjCi0M4wdxA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nk8tm4z15522z8lkcasl5bi1r1qm9l%22%2C%22displayName%22:%22q_nicole335_7%22%2C%22id%22:%22218855494%22%2C%22login%22:%22q_nicole335_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nk8tm4z15522z8lkcasl5bi1r1qm9l

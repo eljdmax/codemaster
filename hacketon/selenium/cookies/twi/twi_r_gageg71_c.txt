@@ -1,0 +1,13 @@
+#r_gageg71_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	832udDMZYeHYD%2FJWqbLdvtacJJI3EQjMqB4FiwM9Iqw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	68b720dee3d954bc
+.twitch.tv	TRUE	/	FALSE	0	persistent	219033449%3A%3A6cpz7ktlb9qpxl8rqdvwexf2zywpnd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzM0NDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI5OTUsImlhdCI6MTUyNTY4OTM5NX0=.z2ixgJQCe1OnHmfAnZcv4yQle4X9yoRDa_Z8MjjadspuSSLvIdIu2kY0nJftZJadGzgjM72z9rvUsKuPfITsgA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzM0NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2Mjk0MTk1LCJpYXQiOjE1MjU2ODkzOTV9.3wBBV3b_xhopTLrXC826Vyru2Y3BqzQMEByzXhEm2TtoCrAr0D0rahyZeVQT8aUDqvxnZWhU2nG91CprAwZqsw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_gageg71_c
+.twitch.tv	TRUE	/	FALSE	0	name	r_gageg71_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:36:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d37697c9d8ab739408ebfa0fabc6ad98
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZ2FnZWc3MV9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MTM5NSwiaWF0IjoxNTI1Njg5Mzk1LCJub25jZSI6InBZdTZsT3kzVTlDR2J1TFBlZEF0ZXZSSWNVWGdmNUVWWjg0Y2NBd3kwcW89In0%3D.rOxFTNefjMA9Ph0pIFr0tzHnK8WPJA4DZtAAxdpf1IFMgl2NDxQ7WIHleb0osutiuUfcvqfhK2oLe6VqBGGwXw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220vey9ysrui933dmfwf1yp81jn9sdvw%22%2C%22displayName%22:%22r_gageg71_c%22%2C%22id%22:%22219033449%22%2C%22login%22:%22r_gageg71_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0vey9ysrui933dmfwf1yp81jn9sdvw

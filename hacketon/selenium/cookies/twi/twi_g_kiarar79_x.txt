@@ -1,0 +1,14 @@
+#g_kiarar79_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	OuuQ1%2Fy5rkACnAHdPlcacAk%2BxyobJZpjNJTkYEqYIiM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7b6730770e04c6c9
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	273b10a59b4b53a33560278950b4aa8f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218947581%3A%3Atms3fss1qsh4jup849nc7vcbyti89g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDc1ODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU2MzksImlhdCI6MTUyNTY0MjAzOX0=.fs9l9w7JrfkvKrNHgc7FoMtyCAvsOys5Hqk7kCm3VtUJUd_q13tC1tjhC7GgClALbxrsXfrJHzLSm25bbUHqJg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDc1ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2ODM5LCJpYXQiOjE1MjU2NDIwMzl9.wr_EZirIRlIYcOCcaWMe4sEgXC5UTKjx5CZVCOZhawmTtm9jYN5iv2pxYY0968_Y46Vea8n1ARKQKBCmRhhUEw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_kiarar79_x
+.twitch.tv	TRUE	/	FALSE	0	name	g_kiarar79_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:27:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	43948ce0a045d37046493297b8afcc24
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imdfa2lhcmFyNzlfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQwMzksImlhdCI6MTUyNTY0MjAzOSwibm9uY2UiOiJPeElxcGtleU5NRktwY0ZPZDVvQUhNQWpFcXpjbkZiRWZQZjlDU1hXWWs4PSJ9.IMzFrmdikUzijUcaT_KtdM-2PcQb2RII_AteCqkqpBm7R0MQ__p2IvXx69hcXPT6SC1ZPvRASQmXNdhtDOT1Zw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22afp2op6x3zee67uthf2noq1ozjqlvf%22%2C%22displayName%22:%22g_kiarar79_x%22%2C%22id%22:%22218947581%22%2C%22login%22:%22g_kiarar79_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	afp2op6x3zee67uthf2noq1ozjqlvf

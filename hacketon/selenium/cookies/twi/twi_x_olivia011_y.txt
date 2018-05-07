@@ -1,0 +1,14 @@
+#x_olivia011_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9gVlU1UYdGUZosJOSdaKvjSiZpFGY5D3TGD2cew1Rd0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	233b2a25b8d4fb3b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	319904ee908cff13deddfd15f51afc76
+.twitch.tv	TRUE	/	FALSE	0	persistent	218945775%3A%3A9blgm01hf17345to6wmsbbtdz2y4ky
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU3NzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDUwNTEsImlhdCI6MTUyNTY0MTQ1MX0=.Ikc-m3FF56cUg2Hn3zKlaZt3C-gLLaykjghB_Yz94C3BhqK6hMKrxnpA6s_N-2E5t2B0Klj5pD4tFqR517rq4g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU3NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2MjUxLCJpYXQiOjE1MjU2NDE0NTF9.tNMIs-Zs-K_T-8b43th1ErAK2jxxrrPSzwqMP_5LZ7qijr7_qiwJzhqOYFL9ACSOAzrBjzf4IT_WpyQOjRxDNw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_olivia011_y
+.twitch.tv	TRUE	/	FALSE	0	name	x_olivia011_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:17:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a5b4c58616051baab81e92f7fed8c093
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfb2xpdmlhMDExX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkzNDUxLCJpYXQiOjE1MjU2NDE0NTEsIm5vbmNlIjoidGc1V3Z3bHd6VnNUTC1lNTV0VUpRbDBsNE1jc1RTMTN1TEtWN3lvbmpLQT0ifQ%3D%3D.AuOgjdeaXmB4mkEaD18wls-1xhdINy566jXbuWff4b2OVSR_3Zjm9ivCrL3QHCnqT4ldsdTfF2FJ5EqEk_4ctQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pb83utj0pahlk0xq9rdbysfjczgvji%22%2C%22displayName%22:%22x_olivia011_y%22%2C%22id%22:%22218945775%22%2C%22login%22:%22x_olivia011_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pb83utj0pahlk0xq9rdbysfjczgvji

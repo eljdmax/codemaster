@@ -1,0 +1,14 @@
+#p_erica91b_d
+.twitch.tv	TRUE	/	FALSE	0	unique_id	147afb610deaf732
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	E4C1jzePmE95F0MbTWMzLKk5%2FZbIlm9rPJeKVLCS%2FLA%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	5e3d5d296df78630369cd882710b4eaf
+.twitch.tv	TRUE	/	FALSE	0	persistent	218883427%3A%3Azxfyi820zu09we9qlz0g7agbo5eh0x
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODM0MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjc2NDUsImlhdCI6MTUyNTYyNDA0NX0=.cPRNpOSv5WeEK6W_QjpNP1inBLyeQOmwRSvfC6g9FOmA2Mj_f3iz3lG3sGwgMvVp08jtqVIfrtiMiu6tUAnfhA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODM0MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4ODQ1LCJpYXQiOjE1MjU2MjQwNDV9.63oHiOt7IM4LsnJ-j__OdPu_M4JCGEe6jbGxAFB7v60EntVtCbIusa6aXn88ST6eqCTWVztdnoLF7KEO8vE2Cw==
+.twitch.tv	TRUE	/	FALSE	0	login	p_erica91b_d
+.twitch.tv	TRUE	/	FALSE	0	name	p_erica91b_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:27:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a9ae1d42b39a77460439f49bbf40d456
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZXJpY2E5MWJfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzYwNDUsImlhdCI6MTUyNTYyNDA0NSwibm9uY2UiOiJ0Q1hkZlM1Sy1wRFhURzZodDN1dXprb1dQUnN3c3MtUUhZOTY5QV9ja3J3PSJ9.mHPofP6Cn06sq6-M9_Y47DQ2JsTOTxLJd4iGMbC5aVA3Oxaq9AlzSn665cj_pNm_BC4uHQKSLWSybzKaqNDAjA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22thwrkxm0n2g85m2lva3ylpxqn0upf0%22%2C%22displayName%22:%22p_erica91b_d%22%2C%22id%22:%22218883427%22%2C%22login%22:%22p_erica91b_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	thwrkxm0n2g85m2lva3ylpxqn0upf0

@@ -1,0 +1,14 @@
+#u_ivan14u_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	i%2FC2zjxfAMmJ%2BmHzbJJGYSi%2Fgn22XrNOpwNF1SEe7yw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f76c3c5c5c8da9cc
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	614d3bb7b4cc192237e807a90808b81f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218944925%3A%3At0wldwmppipbuw2zuaw93cll6e2ke7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQ5MjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ3NjUsImlhdCI6MTUyNTY0MTE2NX0=.bK464wHhZAJmz26VswXNIB8i-5bkDuisxWO_H5wL62pMZMLMuWCPx4fOqQHAiOGXhVD7lzLZnveJlFxp3sSuiQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQ5MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1OTY1LCJpYXQiOjE1MjU2NDExNjV9.eo74aqNRwX30fG_o37b2HEJ6Oc72w3iGkz1eK3ewH7RTBibUKyikVyZucpzs22xEMuejI8ccLiOrZ0TrVJI3Aw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_ivan14u_4
+.twitch.tv	TRUE	/	FALSE	0	name	u_ivan14u_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:12:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e5758097d5303ab41befa0fbac702d0a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfaXZhbjE0dV80IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MzE2NSwiaWF0IjoxNTI1NjQxMTY1LCJub25jZSI6IktEcF9RUE1PS1Vva0k2akk2am5zcFlCTFRSZGpLRlFCckhEZ3pERVRNTW89In0%3D.m6T-9gZ9d1BmHDhCojNKog7BFeKPKZoVVI_jtGHnCtojNBdX0lk6t2Xe_HWSomu7njQ-gXFQns9UQjy-9UKfwA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2232m7pzdny92a8c565j72taubv22aiw%22%2C%22displayName%22:%22u_ivan14u_4%22%2C%22id%22:%22218944925%22%2C%22login%22:%22u_ivan14u_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	32m7pzdny92a8c565j72taubv22aiw

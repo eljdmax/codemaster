@@ -1,0 +1,13 @@
+#y_micahg25_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6f2eztapSTL88cs%2B5DludNNmqvAz%2F8ZjT8%2BKaLPOxs0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2b16fd5f05085ba7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218885744%3A%3Aorngm4lf74lt0vf7oomkmdirap1yuw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU3NDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgzMzEsImlhdCI6MTUyNTYyNDczMX0=.UMVive6ZnzZRSEkDl3NOq0KM0mX7MAnhVTPp5lDf3TtVWT-spguYgofXCH-2b824joVR8qghRi3_6smqq9xJXg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU3NDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5NTMxLCJpYXQiOjE1MjU2MjQ3MzF9.jqraITgXE4XTfg4YY9v4CwfxnisdrkSdV7qi3Lf7TcIfLHq2Xd7T4JwEJIGAXCIQNz7TkACKgz9UmWgbrXZs1A==
+.twitch.tv	TRUE	/	FALSE	0	login	y_micahg25_k
+.twitch.tv	TRUE	/	FALSE	0	name	y_micahg25_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:38:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7157562fbaa1b94ad22abc32df67b3e2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWljYWhnMjVfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzY3MzEsImlhdCI6MTUyNTYyNDczMSwibm9uY2UiOiJtTWdqYkxCQ2dPWFpFMm9WZXFUcDcxOFVmWkRMQXRXdDZLcFJualNqSWdFPSJ9.STXdYKfaVZvqcjC7vcudVp16RL2MVwctMMhRw3tEdBlOA1mkQim1qXbNi_qNZ5eXT9f__IHK9x7tWKwjnPwMpw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22i7xocwu8m7xctws7dm1p50stvftfgt%22%2C%22displayName%22:%22y_micahg25_k%22%2C%22id%22:%22218885744%22%2C%22login%22:%22y_micahg25_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	i7xocwu8m7xctws7dm1p50stvftfgt

@@ -1,0 +1,13 @@
+#w_ryan16z_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zOWtdz9mfwimYnwwfBAB25o%2B5JtLq9oB%2Fjh7eGWrdco%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e60b8ceacaf72391
+.twitch.tv	TRUE	/	FALSE	0	persistent	218880537%3A%3A9vpgd6tehl6rdt31wm3a1z6tlr5kq8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODA1MzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjY4MDMsImlhdCI6MTUyNTYyMzIwM30=.AKK_eH6nPrfg3MJVb7D9UC9WEqTs8WJil2FReAobR_JbSLOKyviJcrxenFG7AA07WY4PUpehQ7euTzwEKfIgyQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODA1MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4MDAzLCJpYXQiOjE1MjU2MjMyMDN9.I8fSQwZPsWib-RDDa9_8-HYCmavForyLo1hGwX1d56_VjZw-CyO34vVGh_3wYNGPa4-YQXyh9CNhjHMkWOSniw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_rya16z_h
+.twitch.tv	TRUE	/	FALSE	0	name	w_rya16z_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:13:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4de3f70add3b01150a1caafef0679af3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfcnlhMTZ6X2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc1MjAzLCJpYXQiOjE1MjU2MjMyMDMsIm5vbmNlIjoiVlc0c1RHMmF4TmNURm9zWE9UR3RvQ0g3bWVQcWwtdzljSUt6LWppbEFhRT0ifQ%3D%3D.EndhnMt6-2Z_-yHd83oVTmdHqYLyh5jUCsuFOeeDTbqlj4H7ukoUopN7ynUK1M8bgXlwVexQLiK9SHP31_T7ow%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m18ofeymb519f43kl75qv766vjuo0v%22%2C%22displayName%22:%22w_rya16z_h%22%2C%22id%22:%22218880537%22%2C%22login%22:%22w_rya16z_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m18ofeymb519f43kl75qv766vjuo0v

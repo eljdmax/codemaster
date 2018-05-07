@@ -1,0 +1,13 @@
+#n_adriana02k_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nC0CbW52M1VIGfe6doizTXk9WSHnJW0a52mcwS0oDvc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5ec218ce66287a31
+.twitch.tv	TRUE	/	FALSE	0	persistent	218885556%3A%3A75cv91ezvvlbwfvi1ukqcjegekdnkk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU1NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgyNjksImlhdCI6MTUyNTYyNDY2OX0=._SRZwDL_XPKfUaG7WX5slXnRKlU1jRQTdqiN-eAK2yTdKzO3rsx1rHzo6tczUqcN2ildOgOgxPt-G2QRbM689Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU1NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5NDY5LCJpYXQiOjE1MjU2MjQ2Njl9.oztmNJ_XMKCL-DdOyvxOQjQcPRLcp_Wojpu5kEV2YQUG_KNi1eUDF7nRJsVeRURNmWG83AzP8QAd8r9pRkvHHg==
+.twitch.tv	TRUE	/	FALSE	0	login	n_adriana02k_u
+.twitch.tv	TRUE	/	FALSE	0	name	n_adriana02k_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:37:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7e1becdf88dac877c450497c02c7a65f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYWRyaWFuYTAya191IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjY2OSwiaWF0IjoxNTI1NjI0NjY5LCJub25jZSI6Ilc5WWYxOTJvRlZISkg2WGd5Vm02Y19mSWdYRFJCSl9EWXB3Yy01ZmdlQUE9In0%3D.aujzylf6ISYtwidr3LiOxtXaDnRD3dfY2PRbft8yKVb9laf7NWWjsm14ntyMAQyT5MiPLLPN1Oi54jVCG-Rkrw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%226rprwqs8qxnn4be1iajb2l7q0ku4k2%22%2C%22displayName%22:%22n_adriana02k_u%22%2C%22id%22:%22218885556%22%2C%22login%22:%22n_adriana02k_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	6rprwqs8qxnn4be1iajb2l7q0ku4k2

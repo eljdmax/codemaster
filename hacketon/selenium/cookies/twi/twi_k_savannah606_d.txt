@@ -1,0 +1,14 @@
+#k_savannah606_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	iKKhxYIlyIDzxccMCPU99SIcE%2FrxCGaNNuBa2UYqYKM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	379327a3f6d6f34f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	201dab80e87c475157f391513fcd64ec
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949758%3A%3Au80b2xvdd787xktegk8eck7g2rss1z
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDk3NTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDY0MDAsImlhdCI6MTUyNTY0MjgwMH0=.bebMmHjq6M2-5XeZf7mh6oJq9DW3abr7e79N2NJyQ-zWtIuKWedsjpIuYnXnqD12HEWngqrqMIFHxQDvVLrSow==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDk3NTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3NjAwLCJpYXQiOjE1MjU2NDI4MDB9.SidG419LegrSS62GbONxl5b-qlhToQ-f0ACqjH-v3hzUUC4iO1lgLUSc82nHFRzN5fB5chgsXD5b_IG9F4eVgg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_savannah606_d
+.twitch.tv	TRUE	/	FALSE	0	name	k_savannah606_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:40:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2ce9171678fba742980f4654774bfef3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfc2F2YW5uYWg2MDZfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQ4MDAsImlhdCI6MTUyNTY0MjgwMCwibm9uY2UiOiJkSERLanpJcGt2UDd4QWVQRmtxSEg4d09fY09uOXR2WS1qWmpjeDN3cldNPSJ9.YO-mvTDL6daUzhuLi_XIUgXXdjMMVdqLnhSfCKY1uNoSqv7f8G4PgGUBoFVaVMwNh_kdik02BTltyLg9ZRu3Hw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227ca146tciw1sewsjo41dkd6e6lbf42%22%2C%22displayName%22:%22k_savannah606_d%22%2C%22id%22:%22218949758%22%2C%22login%22:%22k_savannah606_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7ca146tciw1sewsjo41dkd6e6lbf42

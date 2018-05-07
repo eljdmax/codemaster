@@ -1,0 +1,13 @@
+#n_jaylap2z_1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xDl5QoNgU8kQd09ryP8CP34wrqz5lkdtSKnpg9aoHMc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6f6938a0796eb3a2
+.twitch.tv	TRUE	/	FALSE	0	persistent	218870474%3A%3Aqe7elz6an394x832q6xgekfopqykm3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzA0NzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjM2MzAsImlhdCI6MTUyNTYyMDAzMH0=.oDJE3XlvuGxOE-LdPzYAOM_6sZdkfDt1SRhNOUTLlpjnmqjHoHGPkxOV-hXxcGL7pgOkk5XkEk6G5WV7EZCCLg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzA0NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI0ODMwLCJpYXQiOjE1MjU2MjAwMzB9.H2JPEmIrTRG9LqQZAHSjkITDcsdh0dzcYIN4Sjl-kz0Z7vF_Cwengft5N9SBc1ZT2mgCM5igkFlgtZ9h944h1w==
+.twitch.tv	TRUE	/	FALSE	0	login	n_jaylap2z_1
+.twitch.tv	TRUE	/	FALSE	0	name	n_jaylap2z_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:20:30Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8c993e4d7af17f375760cddf4fc76e61
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5famF5bGFwMnpfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzIwMzAsImlhdCI6MTUyNTYyMDAzMCwibm9uY2UiOiJ3Yi1TZUtEYmhhejBSYmVDOUhpLXZhczNBcE02RXpoOGlvS09ydGNJblBJPSJ9.EiQGArwC3GrxOXtBiJ1Jtk-fVsUtbQb40FjbEcJFwWtCRuRiUlzVoUdGez_JwOe0Xc_68xw8K-JyqpChmNMLkA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nugolvnqwpo1sdf9ezmjdubqie2b1l%22%2C%22displayName%22:%22n_jaylap2z_1%22%2C%22id%22:%22218870474%22%2C%22login%22:%22n_jaylap2z_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nugolvnqwpo1sdf9ezmjdubqie2b1l

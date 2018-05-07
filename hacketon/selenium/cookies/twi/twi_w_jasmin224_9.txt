@@ -1,0 +1,14 @@
+#w_jasmin224_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EHjsH29LHt2Q4Tx7g2KhuF0MJWNLMeS6RpSFGWLL8hs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	dd3c3f0d882429fa
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0327fda78d8dc2e68627be1d189bd861
+.twitch.tv	TRUE	/	FALSE	0	persistent	218878089%3A%3A9ncz75r07az9bncgloqx4eoyin3hjn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzgwODkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjYwMzMsImlhdCI6MTUyNTYyMjQzM30=.qzc-9sfFqoBedtNag8UnrTvxxE-xKCHmc-9bP3wA5wv0ra25yk2fQCp6bcdFr7aXjhECJabSMj8SmOMh6ZRGOA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzgwODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3MjMzLCJpYXQiOjE1MjU2MjI0MzN9.j4Ag57fj_30Zjr6ZNa2da7RrLSP8MQx62J51Na55evjN3ip4fIee0B_z6vqjTcMKkqtT-kYi8O-DchYfQHfz9g==
+.twitch.tv	TRUE	/	FALSE	0	login	w_jasmin224_9
+.twitch.tv	TRUE	/	FALSE	0	name	w_jasmin224_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:00:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	09247feacd8d2c68a282d16d200c2081
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamFzbWluMjI0XzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc0NDMzLCJpYXQiOjE1MjU2MjI0MzMsIm5vbmNlIjoia2s4dDhjMHZnbF8zYU1XQzZVeGNvZ1lnbjNJTHBheGdCNVpyaGs5T1FLWT0ifQ%3D%3D.AQXJ_Aih8h8B1G_YDykNKHTYbquI7dbOkSgVlS6YfKzbtGLcH8swG84WOv_qZRRLA_5EbT3KFslo_eDY5vy3uQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22412gbxfosc3i0r9np2ews1u4bwp8ss%22%2C%22displayName%22:%22w_jasmin224_9%22%2C%22id%22:%22218878089%22%2C%22login%22:%22w_jasmin224_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	412gbxfosc3i0r9np2ews1u4bwp8ss

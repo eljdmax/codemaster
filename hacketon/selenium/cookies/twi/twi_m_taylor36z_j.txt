@@ -1,0 +1,13 @@
+#m_taylor36z_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	IaPN%2BzU2g5HsDp6Fj%2F%2F1p5tiEXVEMBibvG1af%2BLEcFQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f73a2091d85755ff
+.twitch.tv	TRUE	/	FALSE	0	persistent	218948942%3A%3A2d9ht9p2dzxe286lib71jvd7hn5mjz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDg5NDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDYxMTksImlhdCI6MTUyNTY0MjUxOX0=.I8ND4Bk5iojDrY36RRhcAJNT_zXV8ONmxOz6LcQ60Fc3JpiF_YqhAP8BT8wbUekQmgrla6e44MIZNnj5AQ8ssQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDg5NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MzE5LCJpYXQiOjE1MjU2NDI1MTl9.hSHHynPneLybLbLUQ3QXhCphDgLG0Mq53OJrs-lsj_qUXt8wzrNXc5Vs9PudHaHxGf-RTJ3WK0cI_M-niCl0fQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_taylor36z_j
+.twitch.tv	TRUE	/	FALSE	0	name	m_taylor36z_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:35:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cd88530f6abae40c7c7ee654ede264ba
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fdGF5bG9yMzZ6X2oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0NTE5LCJpYXQiOjE1MjU2NDI1MTksIm5vbmNlIjoiZU90Y2FJektFUDFXcHFMQWRISXkyUEcxZVEtT2xCcm9kU0wyY0FXX1U3bz0ifQ%3D%3D.5g8M1MTJFscjnicYvHz-rs-725wX8LB4loZo-VjHPI9icGMKTMxJfvk4CbkfaDVP1-rF7bWP9bLr6SolV2U51A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22usswj3cj9f0uc61m0smuo8b3rkhh6i%22%2C%22displayName%22:%22m_taylor36z_j%22%2C%22id%22:%22218948942%22%2C%22login%22:%22m_taylor36z_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	usswj3cj9f0uc61m0smuo8b3rkhh6i

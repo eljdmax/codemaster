@@ -1,0 +1,14 @@
+#n_hannahj8x_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ByZwHCuXr3C8btEh%2BdOfaOnfukGuYqnx%2F8bXcsPUtNM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	065e0bdea427a65b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b9038e54127c17e52b8456a70cad0d8b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218869900%3A%3A68mr1w0i7x3hb60jszgj23ygy9xfrn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Njk5MDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjM0MzUsImlhdCI6MTUyNTYxOTgzNX0=.R6yz4U7gyaRHuPs53oRHEa7xOwKlJ2ebJSH3IOtdz4Nzh-a99BV6W3iRpbKiwb9hDG3DViYsN32v7hS5sMqYqA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Njk5MDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI0NjM1LCJpYXQiOjE1MjU2MTk4MzV9.wU-6hiJR76ffIKW050osPL9XgNvelCNDydzSiNxDYkDCRk7WQo8vmho4WwV7O8XOPuuuHUb8VawMyLtzwaizrA==
+.twitch.tv	TRUE	/	FALSE	0	login	n_hannahj8x_7
+.twitch.tv	TRUE	/	FALSE	0	name	n_hannahj8x_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:17:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fa052323d6091587325cebfea9744f19
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5faGFubmFoajh4XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcxODM1LCJpYXQiOjE1MjU2MTk4MzUsIm5vbmNlIjoiQTZsdHA5SG82WHk2cUJWaDJ4MWJ1MXk1eUtZclpIM2ZlaTJkS0tJQ0l1ND0ifQ%3D%3D.xwQDzA1VFXoQKnDqAw9hw74rZwAUG0PfGnPW-_mCKnqu_o5TTfPw_gKLoBUydy4OB0mqRZkR5MTViibS2-h-XQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n9525m034yg3xhaczwe07qddclsz6t%22%2C%22displayName%22:%22n_hannahj8x_7%22%2C%22id%22:%22218869900%22%2C%22login%22:%22n_hannahj8x_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n9525m034yg3xhaczwe07qddclsz6t

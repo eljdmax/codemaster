@@ -1,0 +1,13 @@
+#u_sadien3i_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	IoBYrfh7r9KzqQdA0SBB5MVej2zGkTbbPlxBDxzp7PM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	76a49170e168ad2c
+.twitch.tv	TRUE	/	FALSE	0	persistent	218877788%3A%3Agu1rilpxpfz76ugratdzhftfvwyfqk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzc3ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjU5MzgsImlhdCI6MTUyNTYyMjMzOH0=.bB_xXH9XvIP9hgqllRNO4_p_ca0vdNfansmxtBghOk6YQ8qbDQpA27KH7_h9ZlPpkOkqEK5D6Q-9ID-KEKVfOg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzc3ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3MTM4LCJpYXQiOjE1MjU2MjIzMzh9.Kpsq2lA21q25loGBt3RJEMCFbiatmRh6XkX24ZJbabwaxLDYfeaM27v6nKb4zYlM0OCts-JEzXY3SnA6i8nFYw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_sadien3i_j
+.twitch.tv	TRUE	/	FALSE	0	name	u_sadien3i_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:58:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	83745180fa4b6b6eabd696fc463cd69e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2FkaWVuM2lfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzQzMzgsImlhdCI6MTUyNTYyMjMzOCwibm9uY2UiOiJ5Yl9BRkh0ZFRPcUY3Rm80eTBKWXRYX1NCcTk1d2xib0lSQlEzeFpMdlNZPSJ9.v2G6dC1SrPWMsClNtkwgPyZKlhpNUhUlpwL_urKrfDHarVio0uAjCPbGJ4O0Mba7rM5QqJzU1QocDfdMQNAbSw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mtsao6mgt1fmi0zbt04kj9on58r4xo%22%2C%22displayName%22:%22u_sadien3i_j%22%2C%22id%22:%22218877788%22%2C%22login%22:%22u_sadien3i_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mtsao6mgt1fmi0zbt04kj9on58r4xo

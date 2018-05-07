@@ -1,0 +1,13 @@
+#w_kaitlyn87p_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CMe7WGjAf4RSDLkIUasDRmTVZ4OataFr8ImAdGQaOOI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	29d84b11bf9e636b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218937850%3A%3A2tuktdg0grrp5xb3vxztjmsw580oiz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc4NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI1MjEsImlhdCI6MTUyNTYzODkyMX0=.jqkuL6B3Iv2GBOdc5n4GHLeJd7gfCsG4kXomKU1Mv3v7xCZvoM06QkzlYZiy37MXqDA9m27FLJjqMwWsi-wvZQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzc4NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzNzIxLCJpYXQiOjE1MjU2Mzg5MjF9.DYMAjao5SBqJZZd__b-9ERvrePoqYGy3e7MQxJvLRLyzackMKaRbfFPTEJUWYR1eOEjX_JH2EZTlDCOZ_2OXfQ==
+.twitch.tv	TRUE	/	FALSE	0	login	w_kaitlyn87p_8
+.twitch.tv	TRUE	/	FALSE	0	name	w_kaitlyn87p_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:35:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2580b6ddb174429ad4f6610e97511504
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2FpdGx5bjg3cF84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MDkyMSwiaWF0IjoxNTI1NjM4OTIxLCJub25jZSI6InVNVUFGZF9LdWdZdFAyWngtd1RlUUN6ZXp4c1Zjc3lZdUJmdWhIM05BUWM9In0%3D.5xTowWPe6dd4tFYeb-Y0UB455eviA0iDRXBTTJK7p98GQKCA6HFShtH5jE-7w8EkswfwRE88gXEvAPxjuhUvUg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22x76g1j6im0o5xwla2rgypunum21bzw%22%2C%22displayName%22:%22w_kaitlyn87p_8%22%2C%22id%22:%22218937850%22%2C%22login%22:%22w_kaitlyn87p_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	x76g1j6im0o5xwla2rgypunum21bzw

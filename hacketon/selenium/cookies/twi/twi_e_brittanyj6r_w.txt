@@ -1,0 +1,14 @@
+#e_brittanyj6r_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0uLizT18rLolgMWMl6%2BxjGoBqmft2M85W5BAr%2BRXkwE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4394fa241e1a1e2c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c97f44350531cadac02d32fed3b49346
+.twitch.tv	TRUE	/	FALSE	0	persistent	218944164%3A%3Al5k48szyhaclnfamyohd4mywe9ntjw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQxNjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ1MjgsImlhdCI6MTUyNTY0MDkyOH0=.sXwO-Ec99GesM1zlr_J3RHAKxQEVkvsm2TQq6W9LgExkF_GSMJmkfFohpeZ3N5NLgTu6YsLoVfukoEe8cO_Vuw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQxNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1NzI4LCJpYXQiOjE1MjU2NDA5Mjh9.WdSgg8U5VfMECeVH_J1Z3OEoeNO-GXYdmZD8vEnyYTmSvKCuKdPZkEYPx_UyfwZCMMcbrD0JsoNs3qmjf8bsmw==
+.twitch.tv	TRUE	/	FALSE	0	login	e_brittanyj6r_w
+.twitch.tv	TRUE	/	FALSE	0	name	e_brittanyj6r_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:08:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8de533a4102b4353dcdc8c581de715af
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYnJpdHRhbnlqNnJfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTI5MjgsImlhdCI6MTUyNTY0MDkyOCwibm9uY2UiOiJJLUg0NmxSYVVxd1pEeF9LLTQ0OV8zWkU4Z0t0ajBQcExYN29MczF5MVFrPSJ9.CEd0bMz_LgJhZ8yCqSjvp1HiHj4uunODPt5wWGxmGktbV24jMDUXSGZI3cMTheDrABGAmr5fvK8DAiQsGUvrog%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xfo438anvpfty16p7f4568uje2l5v4%22%2C%22displayName%22:%22e_brittanyj6r_w%22%2C%22id%22:%22218944164%22%2C%22login%22:%22e_brittanyj6r_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xfo438anvpfty16p7f4568uje2l5v4

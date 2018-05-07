@@ -1,0 +1,14 @@
+#k_jacob572_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FvSGwtsGe9a%2FOw8Af%2BTATK6NFgVVUUiFBFPzAD8oa8w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6f9cb95c6ba01ece
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4788af3baee5b8c38f49e7da7056e5c4
+.twitch.tv	TRUE	/	FALSE	0	persistent	218948392%3A%3A0n2y7wlbk63t2r7fquv4qtwsvfupzw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDgzOTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU5MjIsImlhdCI6MTUyNTY0MjMyMn0=.3qssr-S8WhNks7ROz7AiM8rxQtr3yaUlT2FQh7oYf6j3GD2JpNr9fy_Thfj_PamVrLIPnmviFrveBJuJPuuzQg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDgzOTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MTIyLCJpYXQiOjE1MjU2NDIzMjJ9._o037EOtmrM3Zvzon-Rg2eYIl8mAaCUOblozKk1WjQ5UgETFnzRqPaQE_yXnYq-BfO8W89gpW7Qf2FGjo_WEdg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_jacob572_w
+.twitch.tv	TRUE	/	FALSE	0	name	k_jacob572_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:32:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2b8a5e4ca46e3165fd25519707768bbc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamFjb2I1NzJfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQzMjIsImlhdCI6MTUyNTY0MjMyMiwibm9uY2UiOiJ1eFFUcXdLZFExQU5GbmViSFRsNXdfc25VaEJiN1VFTXU4RlNpZzcwWk1VPSJ9.qhhbVANBWssgXAA2Lnnv5Knu4m6LHOrZYPOCTThPHGsYXfRPP8nxbJfkHYhcgo4YzcTJ-My-13FQgClBJOZxwA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227742pg5v7tg295phhrdjt7in1bdbw3%22%2C%22displayName%22:%22k_jacob572_w%22%2C%22id%22:%22218948392%22%2C%22login%22:%22k_jacob572_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7742pg5v7tg295phhrdjt7in1bdbw3

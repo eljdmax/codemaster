@@ -1,0 +1,14 @@
+#w_emmanueld6u_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nNVK5aZazkAeDv%2Ffvzphf7D4C91nmNNSundBBKh77cA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3765381a8a9bc8e0
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b6fb45a48b4f6865b28c86603a2831ac
+.twitch.tv	TRUE	/	FALSE	0	persistent	218848922%3A%3Adrs34y3r3jea434wzrgn4n5hgjxvdx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDg5MjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTU4MDAsImlhdCI6MTUyNTYxMjIwMH0=.JHVHgUce-S-9zTr78XTsroMhYy172KUu1KAeypTR7T8IpaPnZuh11rM_LVMWHW51LnANpLdokao6qjmXjI5MmQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDg5MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3MDAwLCJpYXQiOjE1MjU2MTIyMDB9.4KBV-DTxfU5SeGoJTVC8rmD50duBV1h9TVk1CsFzUaWgw_5AuPdlloxAW7EPJXJkqGpx05HZndNZ8wfEylxhZQ==
+.twitch.tv	TRUE	/	FALSE	0	login	w_emmanueld6u_y
+.twitch.tv	TRUE	/	FALSE	0	name	w_emmanueld6u_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:10:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ad7e3e4389736e457f8de36eae2b6faa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZW1tYW51ZWxkNnVfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjQyMDAsImlhdCI6MTUyNTYxMjIwMCwibm9uY2UiOiJmZHptMTB4Tl9ORTQ4Yk0tQm51eXl1dElTX0o0cG8zRnQwU09yRGdreGl3PSJ9.TARmpINmPTfuUL__46-5uoisMFQKbmv3FBbGn7-TI2O3DQxYnYEcSBnurDjoNembinK5PdanYoN-yn-eoaIVpw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fr43o7gn1ybd3q2ey4gektiez8252g%22%2C%22displayName%22:%22w_emmanueld6u_y%22%2C%22id%22:%22218848922%22%2C%22login%22:%22w_emmanueld6u_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fr43o7gn1ybd3q2ey4gektiez8252g

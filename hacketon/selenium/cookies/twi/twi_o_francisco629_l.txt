@@ -1,0 +1,13 @@
+#o_francisco629_l
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7b1bb04f29cf6953
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	YrfwkxZxZ2MqJahNP339xS%2FaBv9ReH1KoD7kH0SERdc%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957241%3A%3A5ngul4f6kpzpdh8cvx0gbop3euednj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTcyNDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkxMzQsImlhdCI6MTUyNTY0NTUzNH0=.zDGUiEoCLqAVh_4x3FQy1KTPzbQHt6p7eZuBjbznDU4oXz32JUTSmnZxsYN26iEBZoezfcrkOizdIq38vQKuLQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTcyNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwMzM0LCJpYXQiOjE1MjU2NDU1MzR9.c-SPqS6GU6lE4dyA45pkOfEy7XtMCXNEHcdAkrp5puHGHm_McgLkHBTupZ3A_9k-ES0Ho0jT61qQG96vAlKH8A==
+.twitch.tv	TRUE	/	FALSE	0	login	o_francisco629_l
+.twitch.tv	TRUE	/	FALSE	0	name	o_francisco629_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:25:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	575976254bc48f2ceabd8b5cc87816aa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZnJhbmNpc2NvNjI5X2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk3NTM0LCJpYXQiOjE1MjU2NDU1MzQsIm5vbmNlIjoiT0V3cU5qOUlNZXBtUG9PcUV1MDRJeG01Wnc2Q0RvQUdtS193bzliemtyZz0ifQ%3D%3D.UE43lujswmLV8TKMGE4zwQRZorFnrWJPRWcSa67pZ-FE2wKWdchyAkyf1G6mdXLNL3m1wX3Kpi0pMFDWg62k9g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228fxhjce0z0a677rb4dip89xfnc69t9%22%2C%22displayName%22:%22o_francisco629_l%22%2C%22id%22:%22218957241%22%2C%22login%22:%22o_francisco629_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8fxhjce0z0a677rb4dip89xfnc69t9

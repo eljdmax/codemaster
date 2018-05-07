@@ -1,0 +1,18 @@
+#h_mariat6n_x
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ac0b8329fe97f1a2
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTYwOTcwOXxlMzBLfGUMDUxqCjJB152ZNK5dit3OEjNdcZwcj5tJ4uWSg4D_
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NycZ2hxqBb%2FBWx6oOGHqyIiPzAaMPa7T8tACIRkJldo%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4027a07fddbbe46e241ebb2b4b9916e1
+.twitch.tv	TRUE	/	FALSE	0	persistent	218847424%3A%3Ax0rmpohq3vtgrd4h5vzt0uyqvcsro5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDc0MjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTUxNjksImlhdCI6MTUyNTYxMTU2OX0=.6NBnXdfL3lAfa0NPB7wakZ65ByzrzbNLaCp1c7lgn44NaE-OWXjeT1zF1_TbGMGLzKjSGj2SzOKsMYczJzB8Ew==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDc0MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2MzY5LCJpYXQiOjE1MjU2MTE1Njl9.d2EwQMWiC0RaS55Xe_lHmZB_baEd5oCN_DNi8DaScU2Up3pIpewpMoEMK4B-qJRfdY0Qv4q4f6cpLhGnckzkAA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_mariat6n_x
+.twitch.tv	TRUE	/	FALSE	0	name	h_mariat6n_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T12:59:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9ac373cf38b79b1f2c634868cb1eb348
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFyaWF0Nm5feCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjM1NjksImlhdCI6MTUyNTYxMTU2OSwibm9uY2UiOiIwSzlNQmZ6MUZDeTlNWktYTElYM0NoNklIRTZOOW1iZURkQWJfcEpPdDdZPSJ9.WBveLOAzCLcBChaThCGBhi_YtpQ8pNf1DCqMUkZQ-pz1wUrkeq2WEYof0CUk7rsg4uCzH7PoXPw0_iwrUped6g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xehhxx889lqvhy3faorahrb2oc4dnj%22%2C%22displayName%22:%22h_mariat6n_x%22%2C%22id%22:%22218847424%22%2C%22login%22:%22h_mariat6n_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xehhxx889lqvhy3faorahrb2oc4dnj

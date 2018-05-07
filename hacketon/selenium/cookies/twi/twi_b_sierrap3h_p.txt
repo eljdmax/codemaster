@@ -1,0 +1,14 @@
+#b_sierrap3h_p
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gqOMLekFiZwn6WgrrHDV%2BpZD360xYYv80aDaNnWTqBo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	10478f55e9c84ab7
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	afc3b69f8cc029ab434317e97307bd0a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218956199%3A%3Aqwj0gpgaqfnbjkhuw9bllbw331c5k1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTYxOTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDg3MjYsImlhdCI6MTUyNTY0NTEyNn0=.YLYkxNhbe9YKatPyqyCwnf8Nz4MYGiSQfjJVN3cofmBz4788o3LBOcjbaOQxvXYx1X1WKwYvhHfmi58ggBxbig==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTYxOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ5OTI2LCJpYXQiOjE1MjU2NDUxMjZ9.iSxagzzrc_bhz0MClTd6f3fVuM8PAELmEZkdQCa6M_Tz_UjUzKR2tYiOsap3ml_ya-uZlBqpeKmARtQFAo0pOA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_sierraph_p
+.twitch.tv	TRUE	/	FALSE	0	name	b_sierraph_p
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:18:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d76aaabfb357e7b1142d369b58114405
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfc2llcnJhcGhfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTcxMjYsImlhdCI6MTUyNTY0NTEyNiwibm9uY2UiOiJIRmtHZzRrTmFsN0pJdUZ6d0tITF9zNGFnWmhyYllpYUFNUVI5WFBzUVZ3PSJ9.XdLMGuMVJr7XHQp7XgKwwuYPgQ5hE8HWafVtkVPtISFOMRS4ENg3awNtXFykzgAtSLGhd7Of25XDR0ZVjBmVzQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22efskk3hpc7ahkitkrzos8fgwnc9dpk%22%2C%22displayName%22:%22b_sierraph_p%22%2C%22id%22:%22218956199%22%2C%22login%22:%22b_sierraph_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	efskk3hpc7ahkitkrzos8fgwnc9dpk

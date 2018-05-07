@@ -1,0 +1,14 @@
+#l_tanner70d_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zYKyknl%2B%2FTe6HQeUvP5sR1XXSB%2F5dFI7dBdIlvyWH2o%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	89aafb4f848f717a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1320174e284edd9ff90e8a2cb2bed5c8
+.twitch.tv	TRUE	/	FALSE	0	persistent	218958324%3A%3Ayvwkhobl6npf4xhssmaoy0xneqxnj0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTgzMjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk1NTksImlhdCI6MTUyNTY0NTk1OX0=.N7sna4UOIENw52IEVHffos66zlNSly6NSrkGu8V893gwh_kwt6yXTcyMEA81qnVYybzqZRPcHsX6ITPoraShhQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTgzMjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwNzU5LCJpYXQiOjE1MjU2NDU5NTl9.NPyVfmZi99hSHY3W-Rgg7KoP3DmMI8KGKwY90L3UJmuKh7PDRC-LQMmaVzFWa6zCr9uOGqFQ5yUIa7AQSu0lvQ==
+.twitch.tv	TRUE	/	FALSE	0	login	l_tanner70d_y
+.twitch.tv	TRUE	/	FALSE	0	name	l_tanner70d_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:32:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9b5a4a24bee1e49cd60a7616ab90577e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfdGFubmVyNzBkX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk3OTU5LCJpYXQiOjE1MjU2NDU5NTksIm5vbmNlIjoidHpuejFscTVSUWN2cDg5ZWdDYXVaaFlfTDRHc21vT1haR05NaTJkLXViYz0ifQ%3D%3D.keBwX_K_HCHPXhyITb1dNe0sYBL-VRyDOelGfczxxytPVsPI7viIC-GGXmNu-nIHxcUuZt1Ajz3EW4x6Hh8iNQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229saxw74oi9hhnt8o8tqh8tjhjqmncx%22%2C%22displayName%22:%22l_tanner70d_y%22%2C%22id%22:%22218958324%22%2C%22login%22:%22l_tanner70d_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9saxw74oi9hhnt8o8tqh8tjhjqmncx

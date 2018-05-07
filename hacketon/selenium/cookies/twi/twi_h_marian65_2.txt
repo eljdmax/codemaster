@@ -1,0 +1,14 @@
+#h_marian65_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fACokxiC5%2BIsTIwCm7dwF9u7O%2Bq5TG4BrQxRtP6w0ww%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	21d7fdacde0cc9f6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	485a6233d0dd1d32016c1fa3e56871aa
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957652%3A%3Arkkrp0dbktfp4r1ovgasikse6gqla2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc2NTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkyODgsImlhdCI6MTUyNTY0NTY4OH0=.XF9WB0nAcx55Q6DFEN9NtnhPUyHEalkZ4N3c4rFWab9k44Dj2CNNTBgZodyqDuaxmMr5IAFn7CP6WGY7vNnivw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTc2NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwNDg4LCJpYXQiOjE1MjU2NDU2ODh9.VaeeYt2nxuYcuwQOeDxby9e1V3b7E6I7qIujtyHSBFrBsvUpplA0V7-TfkyIgjFk1pmj1NJrc1QHh4NI1M56bA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_marian65_2
+.twitch.tv	TRUE	/	FALSE	0	name	h_marian65_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:28:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e838a389512132ef3f303f9ccfbc4533
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFyaWFuNjVfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTc2ODgsImlhdCI6MTUyNTY0NTY4OCwibm9uY2UiOiJybFlOV1ZHZ1hXN2szblk4aGtYV3oyRml1V2NidFhlMnk5ajcyaFBjT0NBPSJ9.Fj7oK4pe68WzycUYLBQ4ecRbNY3S1bZ7BghRqDNllPm9RaA-sVa3VhaRkdAN6QehXwet9sc901YnXk4yYENagA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jpugwsgw1z99ebxmv53g8s8zotpna3%22%2C%22displayName%22:%22h_marian65_2%22%2C%22id%22:%22218957652%22%2C%22login%22:%22h_marian65_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jpugwsgw1z99ebxmv53g8s8zotpna3

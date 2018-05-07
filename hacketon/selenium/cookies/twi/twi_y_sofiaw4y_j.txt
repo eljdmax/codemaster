@@ -1,0 +1,14 @@
+#y_sofiaw4y_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FRDH4K0Wu75ZC0tB4aTGMuUn8uCV53nTSSTVcDPZfVw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	89729d0709fe7f98
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c4d8fdd2e5165734f0c9f19dc71c563c
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032750%3A%3Ay94ikjxdbhj6z4rusndu66fgkjv2dz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI3NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI0NzIsImlhdCI6MTUyNTY4ODg3Mn0=.3uHFr_6KdKNIr0A16aoXnRG7N6-ntcCHLThLS0zmrSW94pm-4j0lRMwbUPjl20q0B8nUsmPFT3yXBkL1CXU4Xg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI3NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNjcyLCJpYXQiOjE1MjU2ODg4NzJ9.NBt7slbvYcmDlKGO6PtCjS3jepkNlI0TAtzyoZrpVUa6MdS1flawSDV3wXLzDKaBnYFUKJH8mPZ1-o-H4vv00A==
+.twitch.tv	TRUE	/	FALSE	0	login	y_sofiaw4y_j
+.twitch.tv	TRUE	/	FALSE	0	name	y_sofiaw4y_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:27:52Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	742b4eccedba2f55ae79ec43fde53d2c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc29maWF3NHlfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyNDA4NzIsImlhdCI6MTUyNTY4ODg3Miwibm9uY2UiOiJqcmxnb1YxTjNQcXIyaHpLMlRmYk56akJIdFJGT3NEa1NTa1IycDlmZS1BPSJ9.TpywuZPyXuRb5gWX4TNWQqnWCX12BrMze-ia3FyjbiDWhgEeluT5PB7CqCYtu4SIofxX-gfoka2H7FZsdR3CxQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22eogjchmiqmi1skb7r9jzj0uzh4yi9f%22%2C%22displayName%22:%22y_sofiaw4y_j%22%2C%22id%22:%22219032750%22%2C%22login%22:%22y_sofiaw4y_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	eogjchmiqmi1skb7r9jzj0uzh4yi9f

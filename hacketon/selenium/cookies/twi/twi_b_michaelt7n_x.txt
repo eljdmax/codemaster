@@ -1,0 +1,14 @@
+#b_michaelt7n_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GpSRu74%2FS%2BOvOcwHCCx6Ojql5AVR74Gb9aqRdt1GOmo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a6c8acd10e458409
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1f825d3ab47f68b42097272976ba5a6d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218890409%3A%3A83ot5vxhem4zdkyr5g6tuxf4ahad4l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA0MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk3MDMsImlhdCI6MTUyNTYyNjEwM30=.fYQq8qRFtsy_efVWWRcxKo_bq2bNKWjve0f-k5-1uzrDnLwQDhNDvZh80WEY7WgNniZ-z-4e8fq613qVkp62Xw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA0MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwOTAzLCJpYXQiOjE1MjU2MjYxMDN9.JP0B_M6P3QtMsuBErTeDUUs3C8KzF-z6KLzSifrZYwnQ4wmFyrf79BL4EoTSG-QhB6aV8MSG5kX8LQs1hHSMoA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_michaelt7n_x
+.twitch.tv	TRUE	/	FALSE	0	name	b_michaelt7n_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T17:01:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f10c186a0f55c065fcc1a2c59a22c0ee
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbWljaGFlbHQ3bl94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3ODEwMywiaWF0IjoxNTI1NjI2MTAzLCJub25jZSI6ImlVemx4NEFnV0IxOWlnUFB4YjNaLUczVTRzTHd6eV94UXBweHd4eW5QSG89In0%3D.NU-JkrEM3B9IQRNBfAlK-02AfiujuVFskGGxYdaiyFakm6K92yjXI1_JtHv0CUebbXezU4OHtZ2-Z47D7ovX1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fjjydqrquk4xueylgejudbedsirniw%22%2C%22displayName%22:%22b_michaelt7n_x%22%2C%22id%22:%22218890409%22%2C%22login%22:%22b_michaelt7n_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fjjydqrquk4xueylgejudbedsirniw

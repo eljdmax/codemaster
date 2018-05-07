@@ -1,0 +1,13 @@
+#h_marcus481_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	faVboPuUPcB2jKF2%2B0Ch9qeEx10eTk%2BpioJk5bNhu1w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1ede719bd4f3eb40
+.twitch.tv	TRUE	/	FALSE	0	persistent	218958266%3A%3Anp5jfdfvkgs0y6n3l33b8cjn7rdap9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTgyNjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk1MzUsImlhdCI6MTUyNTY0NTkzNX0=.QRb0bOu-VA_fJzld9jZHRZB4Ohe_NhEKI7jwUa6Dn0HFL5iobQrsUazxADI0E_ehxiRI9R4MF8zqPhoyLzvrxA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTgyNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwNzM1LCJpYXQiOjE1MjU2NDU5MzV9.zZqw_XugQmPfbeAG2xwrbNOH_Zo8yQ3okGkbcTgScgdG26jNlBxYL2FI5o0pz9IfDwsQUlvC7Jdi7PKIOkbq0w==
+.twitch.tv	TRUE	/	FALSE	0	login	h_marcus481_7
+.twitch.tv	TRUE	/	FALSE	0	name	h_marcus481_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:32:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6b9f8334915a7c4fde7a6db79bdb8f6e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFyY3VzNDgxXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk3OTM1LCJpYXQiOjE1MjU2NDU5MzUsIm5vbmNlIjoicFRQZ2xmcmpmeW4zV2hvWTdpN3RZNWJ1eXJIMnIzbUVvbEk0NnZkVTM1UT0ifQ%3D%3D.euw7N7IHpAf6DBTpJ9hKlcp1MecH-RSRNUA_zl96Z1jy7Q6r1_O2oC3LsYmhXa4wPWF23aazPPrFo-iEFB3B7g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ay26w4whcv0hyrp7q3b8opqrun7sqz%22%2C%22displayName%22:%22h_marcus481_7%22%2C%22id%22:%22218958266%22%2C%22login%22:%22h_marcus481_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ay26w4whcv0hyrp7q3b8opqrun7sqz

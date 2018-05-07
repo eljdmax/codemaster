@@ -1,0 +1,16 @@
+#d_erikw4c_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	X0lFNbEeqwHJ%2FtNsOqR1uEiWN3oALNobDxx3%2BEgAltE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c0f71143f0591496
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031872%3A%3A3kwjqfgw2eaz9cf2280m7q87gkinzq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE4NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTE4MTcsImlhdCI6MTUyNTY4ODIxN30=.sM8UqhyzusPJYIfJ_qFNm20V061urnMe8KsBZMbvWkwD3NyVREobtyf5GvygwIWMUfzTM2RxzC8kxvZiMDfS8w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE4NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzMDE3LCJpYXQiOjE1MjU2ODgyMTd9.EPzkD1-GzY9Q0TfY1rbHjrmoXFD6nYmSUR2_UUimUBMVKvXxVaHFCekFs2Sd0Z4y43rPROtCY0w36IgfvO23pg==
+.twitch.tv	TRUE	/	FALSE	0	login	d_erikw4c_4
+.twitch.tv	TRUE	/	FALSE	0	name	d_erikw4c_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:16:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	96fb0d7030162f82adda32cb4d6da876
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfZXJpa3c0Y180IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MDIxNywiaWF0IjoxNTI1Njg4MjE3LCJub25jZSI6IkFNdWhFNlNHMS1QRmx0djlwOGNGVHpZbzdfWEp6SUx1Y2U0Z0FHdFRCNW89In0%3D.W-BAHYzSIw_Wq_G8z5ijUqkVptWkvEFgz3Vah_4zD6570YBStS_rrGRuFv722Bk3f8eT9nYrMqEaV-KKSSGogg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	gbJS4NSTZGg4bvaU1pF29LyORwxBBIGZ
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=c8773ff54e7ac768:T=1525688223:S=ALNI_Mb0v-fWpRS_FwfhGQduTDntpL79Ig
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjU2ODgyNDQsIm52IjoxLCJ1cHQiOjE1MjU2ODgyMTYsImx0IjoxNTI1Njg4MjQzfV0.
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227gzhs456urlvj328skpzkzcduwjik8%22%2C%22displayName%22:%22d_erikw4c_4%22%2C%22id%22:%22219031872%22%2C%22login%22:%22d_erikw4c_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7gzhs456urlvj328skpzkzcduwjik8

@@ -1,0 +1,13 @@
+#u_melissab9w_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XQ53e7BABdL0a07NwMe7qMUAA73BgSub8o5Sfe8kV%2Bk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2c4797f8b1a0c3a7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218855317%3A%3Aj7e6uphbnvnw0g4nv3okafsu1ktdx1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTUzMTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTgzMjYsImlhdCI6MTUyNTYxNDcyNn0=.336i_Uv1dkD6zO0Ff9vedfmSR1Vjv-hFGXU9Ky-_--HzKFZCvWmnv5GgRshTjtCABlS6KcSyVowRGj12mulouQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTUzMTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE5NTI2LCJpYXQiOjE1MjU2MTQ3MjZ9.rtbHzKEC8PCh9q3tlYVWFIIAMaz-wp86sA9dPJzw0XunboTknVaQTWXixv0r4sNf60_JgNLlpqtRgPGNO2RuOw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_melissab9w_x
+.twitch.tv	TRUE	/	FALSE	0	name	u_melissab9w_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:52:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	642a4e5dbae3857a3ade34790462a5b6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWVsaXNzYWI5d194IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NjcyNiwiaWF0IjoxNTI1NjE0NzI2LCJub25jZSI6IjRBcmx2YUxDRkZTcDlLT3NIWE9jTzZBSzViWkRiUjQ2czRvRndHQUJna1E9In0%3D.Z-k8D6yAJcuIEGd7iWw-6KEHWYEHjSPL3cobf3YkdqSTEHCpUtVmzbTfzCMkI3Gx8GA55qVHeGnfs3JMG3SpGw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2246lf13lb5hbofzlesdr1zq000fpan1%22%2C%22displayName%22:%22u_melissab9w_x%22%2C%22id%22:%22218855317%22%2C%22login%22:%22u_melissab9w_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	46lf13lb5hbofzlesdr1zq000fpan1

@@ -1,0 +1,13 @@
+#y_ariannam6j_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kkY7edY8YKN8SFKKL5XHJZzjbdhBSjYeGmNVQcULC6I%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7b52ede69a61c9e
+.twitch.tv	TRUE	/	FALSE	0	persistent	218885968%3A%3Akylbfptk96lgzud523si8bhwywozq3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU5NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjg0MDMsImlhdCI6MTUyNTYyNDgwM30=.DE71iGW0Z1w37j0ACPyUlKkanBtZ6B5gpeXG8LR-D_LmjChy-ETtzMc865PdZJhIMKiDyxzAyiMJ-sYtYTPCgA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODU5NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5NjAzLCJpYXQiOjE1MjU2MjQ4MDN9.fUctSihO8ybIj9nUmIDGCqq4l_EqYaDyPou4-R1WgRjejXNe_GzD9rd6OPRGuRY3PpQ1rCCMqkbbOa7pnH_7oA==
+.twitch.tv	TRUE	/	FALSE	0	login	y_ariannam6j_9
+.twitch.tv	TRUE	/	FALSE	0	name	y_ariannam6j_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:40:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4a691f227ff41f786127226742232359
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYXJpYW5uYW02al85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjgwMywiaWF0IjoxNTI1NjI0ODAzLCJub25jZSI6IkZZUm9BV0R3Y0h0NXFVSUdQZ3RHbzN4RFVYTFFGcTFSZlNwUXRlYkw4YXc9In0%3D.i5tnraA-2pmo0zPTqEcKg250Cdk2MNAt9-fsRE0sRFG_g93sGeytZGWDL5Q6qV69OTern7P1Y8TcjTqhR1MSUg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22323vaqmjfdumkkuonhpw4ttjaghwf8%22%2C%22displayName%22:%22y_ariannam6j_9%22%2C%22id%22:%22218885968%22%2C%22login%22:%22y_ariannam6j_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	323vaqmjfdumkkuonhpw4ttjaghwf8

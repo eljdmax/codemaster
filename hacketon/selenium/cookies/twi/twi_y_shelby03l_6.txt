@@ -1,0 +1,14 @@
+#y_shelby03l_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	EXfbQNuzOOLeweydxHu1mlWOM6fPsHAL3on%2BZuzcRmY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d4f0a0caea1b0c64
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b88c2092b7293413e427c2af247f0cc8
+.twitch.tv	TRUE	/	FALSE	0	persistent	218889656%3A%3Ak2blw5ryxwhe9nfbhkvp95bo3hovf0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODk2NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk0OTMsImlhdCI6MTUyNTYyNTg5M30=.i_yu0dTB2nP2l13_8nPRRQsTHkWBxhtXXjWtpQw1KOUVRBZprMxldCQLtQkEJjGl4Yu8XIB6S_tTX2kLthep8Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODk2NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwNjkzLCJpYXQiOjE1MjU2MjU4OTN9.1Jg2ftTmaOOiKqrErUKc-_vLWrVRlij5o7Pb_zr1vLRhxh4BH6ruVq4oJ-Zib1k2VSVNnjXgoH_7J0XshXhrzQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_shelby03l_6
+.twitch.tv	TRUE	/	FALSE	0	name	y_shelby03l_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:58:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d4e7ff08c16c2e9f4014195f41759e1b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inlfc2hlbGJ5MDNsXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc3ODkzLCJpYXQiOjE1MjU2MjU4OTMsIm5vbmNlIjoieTlBUEpEb0FWTGVHWHFiQkROd0JDRUVKTDhCMExVZzNfSEphU2NhOUNxVT0ifQ%3D%3D.et7ZlOgCThWmZp411sb-GyAFc2vUH6U3TH9aFWinDvO91Opr1u_12GyoN9I14C95QNqgxi_vI8h975tRbrqsyA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22coivwmbkdj8i97rpfq3givahkb3r8o%22%2C%22displayName%22:%22y_shelby03l_6%22%2C%22id%22:%22218889656%22%2C%22login%22:%22y_shelby03l_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	coivwmbkdj8i97rpfq3givahkb3r8o

@@ -1,0 +1,13 @@
+#j_kimberly31y_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fEBrP3N9KTe25RRnAOUuQydFmAseTQkRZaGPehJH8Zc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ee749997fc53be66
+.twitch.tv	TRUE	/	FALSE	0	persistent	218937052%3A%3A8jks1hozdz31a9kzc3ma5ijayljgxh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzcwNTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDIyNjksImlhdCI6MTUyNTYzODY2OX0=.hPD1U4Z9ZY1kJezNhUoAsCC3xhpDCL96Y-AfInGiZs7KAUV9njcHCYg-RFA6hEZraST2AvTZUlc4BRtuW3n-gw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzcwNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzNDY5LCJpYXQiOjE1MjU2Mzg2Njl9.cxcYZhE8hPV9i6rl4AnwBslLBgFmzW9PZcucfgoSh4RtOVNMvmwiznnFXHlbTqMu87Xcs3c2wWHSPYuzpdsaFw==
+.twitch.tv	TRUE	/	FALSE	0	login	j_kimberly31y_v
+.twitch.tv	TRUE	/	FALSE	0	name	j_kimberly31y_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:31:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	63c707cc430a4741bd5a74aa630854f9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfa2ltYmVybHkzMXlfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTA2NjksImlhdCI6MTUyNTYzODY2OSwibm9uY2UiOiIzN1FFQ3FRN2c5TU9GeUpOTmxTN3BzUkFZMnRRUzgwS2l3QTZiNDlpandrPSJ9.dVMjNVSLIZbslbKixzA7zSYQ3n2N8hgLwXXhdlCiDRDYur4mhY6oYys5ejxwxgbNl6jVh6n2aSHvzQ_xguAYgw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bi50ulf29bnnl29esikmprx9ryx12h%22%2C%22displayName%22:%22j_kimberly31y_v%22%2C%22id%22:%22218937052%22%2C%22login%22:%22j_kimberly31y_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bi50ulf29bnnl29esikmprx9ryx12h

@@ -1,0 +1,13 @@
+#e_grant72i_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	85plGKLWeVuWfYQvt3s1XS9sCQT5Df9BXOMO9GHu92A%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	07bbcfd630ad9192
+.twitch.tv	TRUE	/	FALSE	0	persistent	218954901%3A%3A0n31mxeo3kfrbuzunyd1pzy28ixdwc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTQ5MDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDgyMzgsImlhdCI6MTUyNTY0NDYzOH0=.ltvpjgu8vjYvLAI4AXJ8RPN1VYE7pRpRE7BrQOEWFqZJWOnp0kDOzCXtHmhx283ql3dGp21_ciUvGTQzFAwqpg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTQ5MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ5NDM4LCJpYXQiOjE1MjU2NDQ2Mzh9.i_ftdcuYttLSoO9WpCxLM4v00gmxXkVGC5BeC810GbzH__TSPUMGj6AbjAw5O6fVLZQDStZLk2_ONAIZYsWVig==
+.twitch.tv	TRUE	/	FALSE	0	login	e_grant72i_6
+.twitch.tv	TRUE	/	FALSE	0	name	e_grant72i_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:10:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	12898d3090c811ccf87ac01beaf983ee
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZ3JhbnQ3MmlfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTY2MzgsImlhdCI6MTUyNTY0NDYzOCwibm9uY2UiOiJ0TDZFdkN6Wk5iVWdPb282aVZBZkNGbFp0M0dVWnBIb3ZkdUdEWDJzaDRjPSJ9.tcQDrBrxpQEtL1crvoXn8ypuPB0aDhAxaavWAjlAwOErkC_28KIyrU4UOzZYHwV_XrHmNuk0RO-bLLZJPo7VcQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22di60k9n2gpc2fx7aaiwqismi0pp2qo%22%2C%22displayName%22:%22e_grant72i_6%22%2C%22id%22:%22218954901%22%2C%22login%22:%22e_grant72i_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	di60k9n2gpc2fx7aaiwqismi0pp2qo

@@ -1,0 +1,13 @@
+#t_benjamin52j_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9fA%2Bf8K1Zve7cd0JJPE9LMu1KkYWBQW2d4v2lPli6l0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	11bcbcb25eba7364
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851215%3A%3A7nuudjz65vwet9o0w77k6nix2zlatp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTEyMTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY3MzMsImlhdCI6MTUyNTYxMzEzM30=.U3dP6dhMYqYguUn1yZ91yuurzb4iY8A3lDOKLi6uwFiYY1ID54FG3GUcttc5L5khYMf7UOlrmO6bBLI-rLD2fg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTEyMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3OTMzLCJpYXQiOjE1MjU2MTMxMzN9.NaKMBX2dbIfRu1KELzrHC1wcCw8PF5mesAp_qkSmE4mboK6lZ1P-wWW2eeLLIHuoasg79bHgSxGMqskp3tddCA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_benjamin52j_g
+.twitch.tv	TRUE	/	FALSE	0	name	t_benjamin52j_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:25:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3f25e5df5957c91add6a4bb9cce603f9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYmVuamFtaW41MmpfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjUxMzMsImlhdCI6MTUyNTYxMzEzMywibm9uY2UiOiJ0NXJzaEZUdTlWYnRRVXJ2dFJOUUNLTGZJWGtQbjhtelhaRDVsMnRDYkk4PSJ9.68eCU2hoi-HsVK-8AfNImJAr00DVxGC6bRfdZmKuDaasyFElvcUAmwJ_emvvzMCM-NqNDn3S1X8lvwkHLxLPHQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220igfyqzjxmezl4238tu3lq15b797qh%22%2C%22displayName%22:%22t_benjamin52j_g%22%2C%22id%22:%22218851215%22%2C%22login%22:%22t_benjamin52j_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0igfyqzjxmezl4238tu3lq15b797qh
