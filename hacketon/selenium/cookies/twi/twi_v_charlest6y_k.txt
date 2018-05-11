@@ -1,0 +1,13 @@
+#v_charlest6y_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7WGtWSZIl5cf2C3oI1WiYL5IRmm33%2FQR3zI%2BVM9Zeg4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	bcfe7433e5429c42
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032555%3A%3Aelg07oylro0g18gtk2z440m3ddnfxd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI1NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTIzMzIsImlhdCI6MTUyNTY4ODczMn0=.qvLAaHFgi0QWA_OJw5O_NEZlEIBcE_d35ZS-NpTAC3gUlPWfkGh9D4rvAnztnBj-SeMUeJSBhC0o1snAped5GQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI1NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNTMyLCJpYXQiOjE1MjU2ODg3MzJ9.ZTcel8zDXG_oIKt7jDKTpu_ZQVnv4msPyH5ng2grbZJftGo395OYQo8-Qh5hsRhvblAsSxUbgm7RudGm1SatAw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_charlest6y_k
+.twitch.tv	TRUE	/	FALSE	0	name	v_charlest6y_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:25:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c28594c3c235841d6ec30424abd228ab
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2hhcmxlc3Q2eV9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MDczMiwiaWF0IjoxNTI1Njg4NzMyLCJub25jZSI6IlNoUFFpUjFzS1VCRmlNbWdkNkJFWWNxcnRnODN2QWNzZXZkU1c1NkwydHM9In0%3D.NS3XQsYVTAFASlS4BPle-mOjBJuZGrzzJ_JwsRwNI7wGXdO5m4zYZ10Dw3Ml-gwtD559l2Ezo6oETCWzhi-YrQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225gow4y64267c3t0bds6ndtvjagyfq1%22%2C%22displayName%22:%22v_charlest6y_k%22%2C%22id%22:%22219032555%22%2C%22login%22:%22v_charlest6y_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5gow4y64267c3t0bds6ndtvjagyfq1

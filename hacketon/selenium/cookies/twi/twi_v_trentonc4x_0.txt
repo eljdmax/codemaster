@@ -1,0 +1,13 @@
+#v_trentonc4x_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	33RAsaxcQ7c0u%2FM9q%2F%2BfqCHIPeYshqUJh4rr%2B634BNY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	62fdea588e1c8401
+.twitch.tv	TRUE	/	FALSE	0	persistent	217249362%3A%3Ate1j4j30keuhpzrxfvmys7ifb29oa6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDkzNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjY1OTEsImlhdCI6MTUyNDkyMjk5MX0=.dRbKxq5CDkkXxUGHNqJCuR1T7w5Rf2Cu7AhffEMaTpg14ncm2DOnySCtm8tsdVSFRdZVu7DQRV4cQwssQyDyJA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDkzNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI3NzkxLCJpYXQiOjE1MjQ5MjI5OTF9.TeP7TGU8vuc5-0qhkdh8pooh4EpRRxRxSK0Sx_CGwMeAn0SgUcsb_duDXpkssG88QnO-XW64tO0FiLS-b-MZhg==
+.twitch.tv	TRUE	/	FALSE	0	login	v_trentonc4x_0
+.twitch.tv	TRUE	/	FALSE	0	name	v_trentonc4x_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:43:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6b72affc19595a1fdb607004fb45f414
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfdHJlbnRvbmM0eF8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3NDk5MSwiaWF0IjoxNTI0OTIyOTkxLCJub25jZSI6InRHZ21qMnYzMlY1Um1haUo5ZFZCU09HWk5YRHd4dEdjWExTMXlwVDQ1YTA9In0%3D.O0XeLwtk5OVPTNa2cNkcB4_QPPHZGTkMQ0xmLbt87soLu8HxLIdUqbzP4GE51mhlWHtNiCc9IzhYQEpTWyFx9Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kcy87hg8v9bmnk7onftdx7x5r7oj3z%22%2C%22displayName%22:%22v_trentonc4x_0%22%2C%22id%22:%22217249362%22%2C%22login%22:%22v_trentonc4x_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kcy87hg8v9bmnk7onftdx7x5r7oj3z

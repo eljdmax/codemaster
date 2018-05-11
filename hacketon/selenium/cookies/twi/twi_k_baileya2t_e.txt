@@ -1,0 +1,13 @@
+#k_baileya2t_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	N2AJHfDUHwbgwr%2BizzObwgNyKsCnu3QhKJ4mgZsSCQ4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	64bccfeaf123bccd
+.twitch.tv	TRUE	/	FALSE	0	persistent	218870386%3A%3A3fliofgmy4dnhaa1r8mde0fvbx7leq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzAzODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjM1OTQsImlhdCI6MTUyNTYxOTk5NH0=.Mz3PhukSS2TZBDzWb-D5Hz87bl6kxV_Q60mvinR5iTfYlyuMM-Zu4Jy4Rn-yzzQ7pftCOy_dz0xXTwWEd6x8xA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzAzODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI0Nzk0LCJpYXQiOjE1MjU2MTk5OTR9.Hf7cy6LpgCWodcDYUtgJY-NRp0YV0IW7MnDOUO1QpLa7EyBcXcT3xldjIh5jdDB8iXtZIN6VorADrHVLgcreqQ==
+.twitch.tv	TRUE	/	FALSE	0	login	k_baileya2t_e
+.twitch.tv	TRUE	/	FALSE	0	name	k_baileya2t_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:19:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	37f5f23a4b5dc0d04a0e1b7bcf8810eb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYmFpbGV5YTJ0X2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcxOTk0LCJpYXQiOjE1MjU2MTk5OTQsIm5vbmNlIjoiMEg2VnpvN3p4RTU4cjN1cGttOTVxd0JxRnc3cVB4OUNFVXJWS1JmaURuMD0ifQ%3D%3D.8lsko85iEQ2QgHUBgb19AETJ2l8WtcddyXGklcQwlp1OixqhU7SK4TiSBDQA4Vl79blE6S9aMcOWPlS_mnndeA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qm5xv832ixn0559w22sluw0weydqvy%22%2C%22displayName%22:%22k_baileya2t_e%22%2C%22id%22:%22218870386%22%2C%22login%22:%22k_baileya2t_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qm5xv832ixn0559w22sluw0weydqvy

@@ -1,0 +1,13 @@
+#k_kayla159_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ezig4cLvPUtHECfbenxjY5bXkCnzMbllrSKm9VT3GaE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1896709fb524907a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217557499%3A%3Amroj71j6pej7xsjzf4xi17m4a9cgeo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTc0OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzUwMzQsImlhdCI6MTUyNTAzMTQzNH0=.A-S5wWPATLEqHD2UdNFV3h1BBD3CudG3N-x0rvW7KvGvaJCg43xqWsu7sm0qZc0_HHpol2yrmMkx41xQfPSJhQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTc0OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2MjM0LCJpYXQiOjE1MjUwMzE0MzR9.zo_b538LBCaQwoZYFNrZv5d8Fvq-CCAq6kHPZZvJmy8_-QpzNLp2maQ1mTPlHnVd_tQrX0opbrInwmFL4Ij3DQ==
+.twitch.tv	TRUE	/	FALSE	0	login	k_kayla159_4
+.twitch.tv	TRUE	/	FALSE	0	name	k_kayla159_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:50:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	48f30646c7a00e9d21e1df59717d8b5b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfa2F5bGExNTlfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODM0MzQsImlhdCI6MTUyNTAzMTQzNCwibm9uY2UiOiIta25jckVtRzZCb2tlWjFPeThTNzFsSThQYWg3Q0FIQk91TlVpTDdvQjcwPSJ9.Gj0VQjQyGPirXJYls1ISg2QrowJUyVuKsU2-vO6d6z_5zcMdz98zMi_kT7roQDVv-jmJ9tvykC8Y6ZsVQm9tDA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dk8i99mftoowi58ycry07ve204kcn2%22%2C%22displayName%22:%22k_kayla159_4%22%2C%22id%22:%22217557499%22%2C%22login%22:%22k_kayla159_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dk8i99mftoowi58ycry07ve204kcn2

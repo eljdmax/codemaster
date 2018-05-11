@@ -1,0 +1,12 @@
+#s_shawn74j_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1cbjHzjklTKyGC4oOk9ol1S%2FM77Z3OcFT1gzXBGrDlM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:54:16+00:00	unique_id	9c4a13665114fe06
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:54:36+00:00	persistent	217080662%3A%3A0qui6w0j8mg4zzr8d7kb50ksc2xdgi
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:54:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwODA2NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2NDc3LCJpYXQiOjE1MjQ4NTE2Nzd9.M6FjEe7oxNssY41KHvle-JPC0GplfbwlXkGN_KiU2pJ41Qm5p8EaVQzIg-L0PrzC5UnwZL86O-Q9pMM0pdkQIQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:54:36+00:00	login	s_shawn74j_p
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:54:36+00:00	name	s_shawn74j_p
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:54:36+00:00	last_login	2018-04-27T17:54:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:54:36+00:00	api_token	f0f32b7029a70b13d94b939654602cbf
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:54:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfc2hhd243NGpfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDM2NzcsImlhdCI6MTUyNDg1MTY3Nywibm9uY2UiOiJ5MHViZER2bks3X1dUZHd6ZWF3ZTFWdnFnVmhqUVhKSkJJT19IZDdLb1RNPSJ9.TBH4WalSF1fEFB7El5D9Q8Ce_6gWgcPEh_Ul5eeH2TsHQJD8aUvEhzeThdA1em40C3tBADsDPN_F7pNrLHRcbg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:56:11+00:00	twilight-user	{%22authToken%22:%228978o5mbqmd2171zrojqu3a0obqjpt%22%2C%22displayName%22:%22s_shawn74j_p%22%2C%22id%22:%22217080662%22%2C%22login%22:%22s_shawn74j_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:56:11+00:00	auth-token	8978o5mbqmd2171zrojqu3a0obqjpt

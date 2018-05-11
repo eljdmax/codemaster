@@ -1,0 +1,14 @@
+#y_ivann3o_z
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BmaLB43jCDUM8wVEd3nQRe3nAMsx75UJvCmZ9aDvZ74%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:30:31+00:00	_twitch_session_id	4e9e082edbffeddaaccedba687c1d593
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:30:59+00:00	persistent	216935014%3A%3Asht912uojn5vl6ftjbbbrpxkum1qks
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:30:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzUwMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5NDU5LCJpYXQiOjE1MjQ3NzQ2NTl9.WnuuftolzqskqwkcAjzX601uYbB9FwN3R6otx7Dm4vrGcTqgamFmjECfKMeoMQzBmC4kJYIy3u1KFmFvUSC_YQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:30:59+00:00	login	y_ivann3o_z
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:30:59+00:00	name	y_ivann3o_z
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:30:59+00:00	last_login	2018-04-26T20:30:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:30:59+00:00	api_token	e819ebef6c1a9d401bbf0664753d245e
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:30:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfaXZhbm4zb196IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNjY1OSwiaWF0IjoxNTI0Nzc0NjU5LCJub25jZSI6Ims5TVVNa1dkWU5WcTNXTGNZVFhtNzJldDZVZXhEZVQ3emZQbGZyak1ubFE9In0%3D.OrXhQnD5ZP_dLEg00kQ_UfXOREhq2FjhLVCVu2pfdG8Eqfu71iiRfKv8Wq5qADMzETXqWtmvT2K9Gy2fE01NWg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:32:34+00:00	twilight-user	{%22authToken%22:%22tgw2ips2egv5twdsrfvoi6xfx8gdzj%22%2C%22displayName%22:%22y_ivann3o_z%22%2C%22id%22:%22216935014%22%2C%22login%22:%22y_ivann3o_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:32:34+00:00	auth-token	tgw2ips2egv5twdsrfvoi6xfx8gdzj

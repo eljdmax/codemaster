@@ -1,0 +1,13 @@
+#o_lukef9f_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9zkQcCHJgjJfuAA7ZFD%2FYNUBw2Ry4JvtIwviBQLNB2g%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5d5ff304b3a40511
+.twitch.tv	TRUE	/	FALSE	0	persistent	217556979%3A%3Ail50moab4um9l0rch6dwp9s4exsjzk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTY5NzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQ4OTIsImlhdCI6MTUyNTAzMTI5Mn0=.r16bc1_sQwObI9rutrRbmDM8qe2yhfVysPEbqkAg73DlqMHIF1eyGbXcMaKNqY4xMlrGklGNSV27kkx8qi2KAQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTY5NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2MDkyLCJpYXQiOjE1MjUwMzEyOTJ9.c8JViOKW9t5_HVF5dLEsPgxsxKfp3M6Kr8xU-1Ur3vzZvHOvYiCa_0RO12hyI0Vt82FFkzJ9v1VF0aY3i7fPPw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_lukef9f_7
+.twitch.tv	TRUE	/	FALSE	0	name	o_lukef9f_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:48:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e6069281512ec46555542c298433ad0b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbHVrZWY5Zl83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MzI5MiwiaWF0IjoxNTI1MDMxMjkyLCJub25jZSI6Ijkwb3JzeWlsY3JtODJNVTdKZFVJV0d2WW1sLThJMVJyd0hvOXZJMmZURmc9In0%3D.8HPDNXbURTVd7A_jbczacIKMysMVtHoQ2i_kr2uJ8UuY4M7wGTNMU9aafeIhACUmokaSvLOp4pf35dsWXO_BZg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22da2cyqa41m3582kk597ur62gwsnxlh%22%2C%22displayName%22:%22o_lukef9f_7%22%2C%22id%22:%22217556979%22%2C%22login%22:%22o_lukef9f_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	da2cyqa41m3582kk597ur62gwsnxlh

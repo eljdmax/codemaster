@@ -1,0 +1,13 @@
+#d_averyr6c_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JoM1v%2FH5qckTeegCIOmz0UW4OLBATLRt4m9ctvHITTo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:24:58+00:00	unique_id	71e55a15f6ec6047
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:24:58+00:00	_twitch_session_id	0c0309c2b24b6191e8b8765ba88dadaf
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:25:22+00:00	persistent	216486182%3A%3A50rcqxdjyzziwhf4beuwp3we3xuxeu
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:25:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODYxODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3NTIzLCJpYXQiOjE1MjQ1NzI3MjN9.4acbJHt79m3EIr2Vo_SzuAj-oql2fmBq-WCNQZh2fwWTelEoNTJreeiRFlQYOP0acasFt-V1KbdUMo69ooVVSg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:25:22+00:00	login	d_averyr6c_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:25:22+00:00	name	d_averyr6c_p
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:25:22+00:00	last_login	2018-04-24T12:25:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:25:22+00:00	api_token	50c0de82940f8e156d164ce6fc23666d
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:25:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfYXZlcnlyNmNfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjQ3MjMsImlhdCI6MTUyNDU3MjcyMywibm9uY2UiOiIwSzBGOTlOclM1eVR5M3UtckpQeC1rWUZhYXZkTnpqMmk4MW9tek5sZ3A0PSJ9.jf6AvXAXxX8nwLzvjShf9Ha-vFsd8rzUyT5NZD49PLhvjEo5owZduHNaS3f0w1FX4bk57VyS9QbbRAg555IPTA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:26:48+00:00	twilight-user	{%22authToken%22:%22a3r6r0tgdrd1t6mifmgiqbuh5bzp56%22%2C%22displayName%22:%22d_averyr6c_p%22%2C%22id%22:%22216486182%22%2C%22login%22:%22d_averyr6c_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:26:48+00:00	auth-token	a3r6r0tgdrd1t6mifmgiqbuh5bzp56

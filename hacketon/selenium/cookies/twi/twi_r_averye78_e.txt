@@ -1,0 +1,14 @@
+#r_averye78_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CmdTm9m5yZl4ODC5nQ0Bp8kfvI7jelPF3SRDfbj9X9w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ee3921244028e63d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a04c6c47fb67fe0ec12fc6c357473396
+.twitch.tv	TRUE	/	FALSE	0	persistent	217553668%3A%3A76fv1tqg47pznuf127vpmwjnob6p4m
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTM2NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQwMjEsImlhdCI6MTUyNTAzMDQyMX0=.FoYj5nfuQyztHJESLKXNFdsGIAIXRaRWK76IvaCVFZUGWvr-H6U-ZTLhDFEQOET2b8UCJ4-EnQG2Qgb0QmfFWw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTM2NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1MjIxLCJpYXQiOjE1MjUwMzA0MjF9.Zz8YX1Dbb7d60TXRB64fiKzOEZ_Ueqle7uAfk_KmcDxHf0BEsneHK7DUHktJOtk1wOM4dU2n95dj16Av6F7ysA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_averye78_e
+.twitch.tv	TRUE	/	FALSE	0	name	r_averye78_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:33:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a5f314983529e0d57c97d8a80cc601b4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYXZlcnllNzhfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODI0MjEsImlhdCI6MTUyNTAzMDQyMSwibm9uY2UiOiJrSkNKNjNGc1RSS1FqbV9DMUtWRmMxdHZ3Yy1oZF8yZ3hTQWY3RjM0ekJzPSJ9.lMgsvecriUDmzJ7heDzyC_-jYsRCVasrM28M60Stzz81KqhJmGo7vgUCcZsxHD6tYLmkGnmU-58DgjtlHg3qyw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dz64xowp2qlgo9mvhsed3h0ai8x8xf%22%2C%22displayName%22:%22r_averye78_e%22%2C%22id%22:%22217553668%22%2C%22login%22:%22r_averye78_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dz64xowp2qlgo9mvhsed3h0ai8x8xf

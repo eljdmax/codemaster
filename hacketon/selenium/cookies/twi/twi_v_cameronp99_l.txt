@@ -1,0 +1,14 @@
+#v_cameronp99_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	iGSIsbzJH4BrB%2FK6hlGDzxjXPQuIrw2LfPu%2BbSh%2B9po%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c6660f2960778ed6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	eb33869a240efc2efff0bbfa4813a8c3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217295893%3A%3Aju5s9gdokbohw8k486n48qz5woe1p8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTU4OTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5NDAwMDYsImlhdCI6MTUyNDkzNjQwNn0=.2jqibnmZW6S-8jc7nbmGcNdWLjNXHbB0WYTxFCzkydfG91zLywmvyTHdDsXxirSdrP592eEolXoB6z2dEMH5cw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTU4OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQxMjA2LCJpYXQiOjE1MjQ5MzY0MDZ9.5Ti4Djw-j9oM9dlDVba9jaoB90GNK4998di5WVuScUCNB3cqm58acWwPr_FL1c3H-NBKaaOib8yRWEXBowOeeA==
+.twitch.tv	TRUE	/	FALSE	0	login	v_cameronp99_l
+.twitch.tv	TRUE	/	FALSE	0	name	v_cameronp99_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:26:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2f0d549e349d755475f33edb0cce909e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2FtZXJvbnA5OV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4ODQwNiwiaWF0IjoxNTI0OTM2NDA2LCJub25jZSI6IlhTU2ZsNHhqYkFRaXVQcFA1WUhhNWl4OWxHZ3E2czVFZkxpQkc5czE0Qmc9In0%3D.E1pIkqm4WLnJKyKLJInUzxqeI1z3GoFZEDo1jZPTf2t5h1alQyedlK7mjhgKQKrooA9LsyBFbwSvyPvKPb9j4A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f146nlx2lfmdmyp05y9j04mpb24nii%22%2C%22displayName%22:%22v_cameronp99_l%22%2C%22id%22:%22217295893%22%2C%22login%22:%22v_cameronp99_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f146nlx2lfmdmyp05y9j04mpb24nii

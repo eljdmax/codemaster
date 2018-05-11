@@ -1,0 +1,14 @@
+#u_joshuad9r_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	SbBrFTXh0Wj8KZChqdx4f1kA6Bab0Isq8G%2B750bSlAQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e7f2ac76d5f13419
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	62c679ad964777ed130888cecffa7362
+.twitch.tv	TRUE	/	FALSE	0	persistent	218890715%3A%3Apasm1pxfcjrbybjctuhe70zvfevuyq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA3MTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk3ODksImlhdCI6MTUyNTYyNjE4OX0=.Tl6EIK4E1G3uHbQQTCHyq4b3QdF8x2hY_KR_jzqdOYKOmpp2CKuvXXgbqAdbyCib03R1X2bYkxo-D4JV0S2rCQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA3MTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwOTg5LCJpYXQiOjE1MjU2MjYxODl9.6Z_Oz5T5tMe6FGv-cOa3hsK-9t1_N2RNYK_qMV5do-GuUx-r7iQ1IpZUYDlPGFuYvYPvTywR4zToIpHDJN8XCQ==
+.twitch.tv	TRUE	/	FALSE	0	login	u_joshuad9r_q
+.twitch.tv	TRUE	/	FALSE	0	name	u_joshuad9r_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T17:03:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7ffae7c77bbbd546b9c6094e507c3848
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfam9zaHVhZDlyX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc4MTg5LCJpYXQiOjE1MjU2MjYxODksIm5vbmNlIjoiSTA5dXZBOWE4ck5FNFB0dGtheUp2ZFAzdk5udnhEQVBUc2FnbEdvMGNwVT0ifQ%3D%3D.0r6qrkHMZpkS6naz3VwtNbVS6qnqghcErBMyLuAj9gopwK3zjmyxAypAHmVgDkdLU7WxXTX-KugUG9rIFnHVAA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223ntfjo76zubtx8toj9k5rj1sxadfma%22%2C%22displayName%22:%22u_joshuad9r_q%22%2C%22id%22:%22218890715%22%2C%22login%22:%22u_joshuad9r_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3ntfjo76zubtx8toj9k5rj1sxadfma

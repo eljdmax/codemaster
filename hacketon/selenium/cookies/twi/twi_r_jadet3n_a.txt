@@ -1,0 +1,13 @@
+#r_jadet3n_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sgOKYw6gJSHa2OdxJ6IGswy7mDpb5PFQhIXUed75yoM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d81798d48d176cfd
+.twitch.tv	TRUE	/	FALSE	0	persistent	218864798%3A%3Afv2e9uw9x3nsibd37oxonos7i8hh16
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjQ3OTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjE2OTksImlhdCI6MTUyNTYxODA5OX0=.z9WxUW2B8Dkua-JUHJbfGXGlZd-xAhZdCgRZ0M0phrZMvhv7bYmN_WbfMLXOCuqUNBjjrE_f-PEtCi7f6-Pj6w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjQ3OTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIyODk5LCJpYXQiOjE1MjU2MTgwOTl9.qr_kJmYmn-UuV5QBEEmJ4OO4xbL2p8001kyQ58itU3jsMR7LXuih6S9A7xpKYEU_-2w_pFwXUJY1N22AKphS1Q==
+.twitch.tv	TRUE	/	FALSE	0	login	r_jadet3n_a
+.twitch.tv	TRUE	/	FALSE	0	name	r_jadet3n_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:48:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8b4296fa07fed21527c1f0a85ec766e2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfamFkZXQzbl9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3MDA5OSwiaWF0IjoxNTI1NjE4MDk5LCJub25jZSI6Ii1QTGY4alZRMDNoQUx5MVZlZUZybi1RbE5BeUIxSU9PdWhJcUlDdzBNSzA9In0%3D.vA6uiwvqnBvYqqXBUJAai1fi8IjsrZEKPddf5OD-7Olb517o6KkfOKhI8SblwPpXEZgwQoBWIlgxW4Iz58VIBg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xcq3fs2v2k56r4t4stqgwoc5vtfcb4%22%2C%22displayName%22:%22r_jadet3n_a%22%2C%22id%22:%22218864798%22%2C%22login%22:%22r_jadet3n_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xcq3fs2v2k56r4t4stqgwoc5vtfcb4

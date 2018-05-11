@@ -1,0 +1,14 @@
+#q_trentonn9t_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tX6n2nk6sdKwl4Z1Xs4054LuusN8EKsurzjXHw79JTs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7060ced161da2b04
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c91a6dcb63d65805bc199e5d34ffe302
+.twitch.tv	TRUE	/	FALSE	0	persistent	218884923%3A%3A2t8tvdjchzaqc605vnspm8vsugox0g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODQ5MjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgwODcsImlhdCI6MTUyNTYyNDQ4N30=.xGngrTjGuIpyS3xqhuwMTBQqF6ng_XM4RuAxJna7jmoLzHKSh-OOw88jG0dRzwyrn4PHjvaRnsUT4ePVxw_-xA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODQ5MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5Mjg3LCJpYXQiOjE1MjU2MjQ0ODd9.2Oetx5ube-oDesaIP7-NHPf8sQZ-tXZ3dtG7aATVYw99cpV_BdL9HmxOCbHHNriVKY3q3JxL5W9snjPARstjiQ==
+.twitch.tv	TRUE	/	FALSE	0	login	q_trentonn9t_e
+.twitch.tv	TRUE	/	FALSE	0	name	q_trentonn9t_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:34:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bd3d094f30fc8b4965d19e35ac3d1055
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfdHJlbnRvbm45dF9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjQ4NywiaWF0IjoxNTI1NjI0NDg3LCJub25jZSI6IjVodkhQT016emdxWVFRR3p2UzJXcXZIYzJTQjBXb2RiNTl6dVRmcmp2RHM9In0%3D.Todt--8lpPe7ogzlZCmYdDcw6Cv2f_Taarya6vh2yEK8HM5aHvcaIA_M7SvlxwVSp6X1xEn8_CVEAKzg5Y5enw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2298e4wypxs01jgv3ff8qwd5vmsukqbv%22%2C%22displayName%22:%22q_trentonn9t_e%22%2C%22id%22:%22218884923%22%2C%22login%22:%22q_trentonn9t_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	98e4wypxs01jgv3ff8qwd5vmsukqbv

@@ -1,0 +1,12 @@
+#b_franck546_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VO7rTpMLlgqYBr9LD%2BufSNQCemO0ajiniTdF%2F%2BwKHZI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:28:02+00:00	unique_id	bcd04466ab08b1b8
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:28:18+00:00	persistent	217552442%3A%3A507p12s55rc8kwqata2eju1soxyvu0
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:28:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTI0NDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0ODk4LCJpYXQiOjE1MjUwMzAwOTh9.D7LljkcDMuQ8RyXYX1xnLyZS_Ds-nbd0yvhOqpbPElxHFpiu5PA4mMEPzMhdXpIqtbbmXLjei5OQbVWEbiurBQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:28:18+00:00	login	b_franck546_w
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:28:18+00:00	name	b_franck546_w
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:28:18+00:00	last_login	2018-04-29T19:28:18Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:28:18+00:00	api_token	d9ae6fdbbb68e13bfd3ac1397281c0a5
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:28:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZnJhbmNrNTQ2X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgyMDk4LCJpYXQiOjE1MjUwMzAwOTgsIm5vbmNlIjoiakc4RjNiUTNQM2lyTkRScEZ6aXRKMlhpNXFFTmxTaGRFVEZpRmZvczFyST0ifQ%3D%3D.85yYiudiIMFvgwsrY6Lr1vBXeuVY00vuqLS-9lALFktsLkZDuDSdDNEmSd7jhWdFSGwRuAPZxQXGOLzyrC_8KA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:30:01+00:00	twilight-user	{%22authToken%22:%22p5cbqesgyt45p6uvnyrxrf2td7x941%22%2C%22displayName%22:%22b_franck546_w%22%2C%22id%22:%22217552442%22%2C%22login%22:%22b_franck546_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:30:01+00:00	auth-token	p5cbqesgyt45p6uvnyrxrf2td7x941

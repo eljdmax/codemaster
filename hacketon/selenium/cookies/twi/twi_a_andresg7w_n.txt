@@ -1,0 +1,13 @@
+#a_andresg7w_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1IcuH54br%2BqQipUHPiAF7WTaHNfHwgehUWiznkqPra4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	05374f5c210f41a4
+.twitch.tv	TRUE	/	FALSE	0	persistent	218938482%3A%3Ar3ad9vbc2ruicl3l4vlcqihygph7wr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg0ODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI3MTQsImlhdCI6MTUyNTYzOTExNH0=.FdnzLm0SAbhIh5ea6LG_iiESKCk-aW4AqqA50kFfXw5A4-AH0BPjdK94QO3sDFt0yALGjm9U8d-2qCBs7YUuQQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg0ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzOTE0LCJpYXQiOjE1MjU2MzkxMTR9.6N0G3qz_vZL851LEVOg89sZ8rlWl8C53Fk1VokjyM3h1z4gXsXSphhwQpp2CSiLcR9GFsIqpr_CSXITsevZeGg==
+.twitch.tv	TRUE	/	FALSE	0	login	a_andresg7w_n
+.twitch.tv	TRUE	/	FALSE	0	name	a_andresg7w_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:38:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0eae7bc855d957a36f704ec9927febb5
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYW5kcmVzZzd3X24iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkxMTE0LCJpYXQiOjE1MjU2MzkxMTQsIm5vbmNlIjoiTThrazVuc2J3VDVGdGF2NVZzMVU1ckc1Q0dsZ2MtazBCRzlZcW43TVUxZz0ifQ%3D%3D.E2FimIP00wYERfDIAvMxeIcsrAdxzg9Ocz2OXIMFDAHny3_1lZrN1xN4gK33YRQTR7tX08oKPA4nJW5iCfsHhQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22har2dtpt09lw709q5g738jq35ly3xo%22%2C%22displayName%22:%22a_andresg7w_n%22%2C%22id%22:%22218938482%22%2C%22login%22:%22a_andresg7w_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	har2dtpt09lw709q5g738jq35ly3xo

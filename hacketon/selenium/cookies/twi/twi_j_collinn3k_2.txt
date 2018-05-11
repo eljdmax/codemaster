@@ -1,0 +1,13 @@
+#j_collinn3k_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NhfT49xWKNQ3nwOlws0wq4q9n2l2E8mo7NpX5Q5nlxo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:40:38+00:00	unique_id	45e246616a98b3e1
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:40:57+00:00	persistent	216138256%3A%3A1v3euiqll9cfvinhsct7niz3upgpke
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:40:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzgyNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MDU3LCJpYXQiOjE1MjQ0MzMyNTd9.AAQpJc-T1Y5mKA8czQ8lV7VlWLdNloYQNCTs9omUU0nsH1wyBnjf3bDAnXwANno5jMC7W9U4ygycCGnsiAZC-w==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:40:57+00:00	login	j_collinn3k_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:40:57+00:00	name	j_collinn3k_2
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:40:57+00:00	last_login	2018-04-22T21:40:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:40:57+00:00	api_token	3091676670f8ded1ded016fda6d96cdb
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:40:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfY29sbGlubjNrXzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg1MjU3LCJpYXQiOjE1MjQ0MzMyNTcsIm5vbmNlIjoiUV9hRDRxbzBKbl82VGh2MmJVT3RGNGdrRC1XRFpZNWJfUGNlUVNNNnpJVT0ifQ%3D%3D.2ue_R0Dk7w_3qnz9acy-86PtLOdgAboRTGZbU2IOA0rqHnfxz3llFf3XYKWLScAyy67f_eOx-fCWA2QIRmnbJw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:42:09+00:00	twilight-user	{%22authToken%22:%22iaoo5yim6nu55yi5pjxzhncih71qnr%22%2C%22displayName%22:%22j_collinn3k_2%22%2C%22id%22:%22216138256%22%2C%22login%22:%22j_collinn3k_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:42:09+00:00	auth-token	iaoo5yim6nu55yi5pjxzhncih71qnr
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:42:10+00:00	twilight_onboarding	true

@@ -1,0 +1,13 @@
+#u_taylor999_o
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ARL2sXNKz1%2B6srU1FLZWpSzTBA2AgW6fMq2P%2F8NcXdU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2377384fdcd8910f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217937953%3A%3A4ws4ocmyoeqx0k2aace7q5yd7v85ax
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzc5NTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQ3MTUsImlhdCI6MTUyNTE5MTExNX0=.yaBMWkcrDK0bLYm4CTrsdejE8Bmm1OTCafZyaTt8GldyXn88RhX-x4GU8o3S3t5IxuRaPkk9r7pr-3-2HGj1LA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mzc5NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1OTE1LCJpYXQiOjE1MjUxOTExMTV9.QuQGZw4q2AfQ98GGTHsc6xB2sMuee0atJayRoJ6PM8p1AC6e67E-12bO5wYrFxUDhhFiKHgO350X0CxjdC1fjg==
+.twitch.tv	TRUE	/	FALSE	0	login	u_taylor999_o
+.twitch.tv	TRUE	/	FALSE	0	name	u_taylor999_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:11:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c8c4e37dad3cbb55203c5116f711d969
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfdGF5bG9yOTk5X28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQzMTE1LCJpYXQiOjE1MjUxOTExMTUsIm5vbmNlIjoicjlsMkYwa3phaWZLbGVMSDN4eGc5eUNWV3ZtaGQtQk9WcXYxckZqcm9qbz0ifQ%3D%3D.ia0Mn3q7wUgG8fG3mZowTbZqybfyMuzTZWCKHiWbs3E6EuH2H1MhAYHId-2ha3AY4HbvyBgDFAdtCK1_EKKR9A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ed28icu7l47fhf9zuxj69jz44s4vvi%22%2C%22displayName%22:%22u_taylor999_o%22%2C%22id%22:%22217937953%22%2C%22login%22:%22u_taylor999_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ed28icu7l47fhf9zuxj69jz44s4vvi

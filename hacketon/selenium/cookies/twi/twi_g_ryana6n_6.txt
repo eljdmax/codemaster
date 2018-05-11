@@ -1,0 +1,14 @@
+#g_ryana6n_6
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:20:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	dWGQ3p39RCJRpnbyw3lPHyplVwI0gTdxgmnH%2BEoHqDI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:24:53+00:00	unique_id	39ed98a178e5dcff
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:24:53+00:00	_twitch_session_id	13a117c96923a95c116c3ac0871561b1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:25:07+00:00	persistent	215245853%3A%3Asc95y8aeo46tykl790m1qsbsjmuvnw
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:25:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDU4NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwNzA4LCJpYXQiOjE1MjQwNzU5MDh9.eKiApZJCXNBMcL9utX_7nGK85eRGkujWRwAJhJ9kkncCfWROEVY2IbzNWMfwattS3nQQIZ-vpulV-_6An2zGvQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:25:07+00:00	login	g_ryana6n_6
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:25:07+00:00	name	g_ryana6n_6
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:25:07+00:00	last_login	2018-04-18T18:25:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:25:07+00:00	api_token	4cc70374c9368139ca988d0db92bfd3c
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:25:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcnlhbmE2bl82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNzkwOCwiaWF0IjoxNTI0MDc1OTA4LCJub25jZSI6IlNsSWx3T2tHeVh5Q1prTXEzcDNUM0dBMTJTV3dSNVI1eVZKeFN6YkpaLXM9In0%3D.jras2VOZsqtpz8dzai8SEQj34SAEF8h25lz1rX8Rb2rYzt-avwXboHugIbfoJcgeT2CG2qkViMgtmdPv326BbA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:26:01+00:00	twilight-user	{%22authToken%22:%229a8gffb4mhj9duzxcpy0wq053rrr3y%22%2C%22displayName%22:%22g_ryana6n_6%22%2C%22id%22:%22215245853%22%2C%22login%22:%22g_ryana6n_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:26:01+00:00	auth-token	9a8gffb4mhj9duzxcpy0wq053rrr3y

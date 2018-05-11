@@ -1,0 +1,14 @@
+#t_skylarq5j_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RGFU9vfpB%2Fb3a22wCgW%2B7ny9Vh16Gmhhe%2F6ESf%2F7Qyk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b7f6b951904fa31a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	92b7b28a1022cb515190ef11cc273b63
+.twitch.tv	TRUE	/	FALSE	0	persistent	217554338%3A%3Aa7y9pgz6fatxheohe0g08xi2qeep81
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQzMzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQxODMsImlhdCI6MTUyNTAzMDU4M30=.N9FqGIUmoEF6B9M05OHE_Xld0pknDWzlvIb7FHhh3hoSDluzrdcaKdpEic0626I-H-eNdB8-kdS1aOSiAZGpuw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQzMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1MzgzLCJpYXQiOjE1MjUwMzA1ODN9.8awzfpQxtGTmK1UXqWUqI3oXsh5wwXocUwXzkzRqRuMBsei-q4kJKaH4i342pmADhJ20qmCS6lVcjslt9W8pvA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_skylarq5j_3
+.twitch.tv	TRUE	/	FALSE	0	name	t_skylarq5j_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:36:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fb209925fe90515317775ad2fabead76
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfc2t5bGFycTVqXzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgyNTgzLCJpYXQiOjE1MjUwMzA1ODMsIm5vbmNlIjoicGlPdkZUWEUxUS1xMFl6MFdDRHpHenJteGpCVEtEVXczSGxYT19vNzdPOD0ifQ%3D%3D.B4Yms9H32ZIYjXILEzC-oejyBiYuASJN7FBFPs4uIRKeYGKZYjaU46P6CTOPh3pSlh9IDCHRz0dF7FamgkEBpA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%226ox14r9k6h9eplljzp2jxpu1k62wt3%22%2C%22displayName%22:%22t_skylarq5j_3%22%2C%22id%22:%22217554338%22%2C%22login%22:%22t_skylarq5j_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	6ox14r9k6h9eplljzp2jxpu1k62wt3

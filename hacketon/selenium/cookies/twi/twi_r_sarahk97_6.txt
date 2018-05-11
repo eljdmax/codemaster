@@ -1,0 +1,12 @@
+#r_sarahk97_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	US1TA0O26y2703WcOitoU0aM3zaLwKczi3zxCsEpFuA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:03:42+00:00	unique_id	7e3a68596bd14d80
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:04:09+00:00	persistent	216941047%3A%3Arb0wlbx0rknspb5bejz6oldubkiz7r
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:04:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDEwNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNDQ5LCJpYXQiOjE1MjQ3NzY2NDl9.4Lu7RcRRqrxegxTR7TMf7Z-3lUpGa3RPzZvo2YG1ni5BFnkPWC4EefoGl_T4yXqAbXo0GZjxHJ6Q-2grrD9JqA==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:04:09+00:00	login	r_sarahk97_6
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:04:09+00:00	name	r_sarahk97_6
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:04:09+00:00	last_login	2018-04-26T21:04:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:04:09+00:00	api_token	f9774aab331155d74769058014f1207b
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:04:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc2FyYWhrOTdfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjg2NDksImlhdCI6MTUyNDc3NjY0OSwibm9uY2UiOiJhZjdDOXJJU0Z3a25tQXVzcy04Q0wxTVZIQ3VkRUttaVY1YmlLNUFsRno0PSJ9.5V454mYJ40FH-pQvRBiaIVFOtbM77HmItxY5-5WBsZvPODnWEbRompFrMATWoQNFqMQq451SqB-Ec4zU7ateFA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:05:39+00:00	twilight-user	{%22authToken%22:%2287q7k1alvb77gzfsb5tmkt8nr2lhsu%22%2C%22displayName%22:%22r_sarahk97_6%22%2C%22id%22:%22216941047%22%2C%22login%22:%22r_sarahk97_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:05:39+00:00	auth-token	87q7k1alvb77gzfsb5tmkt8nr2lhsu

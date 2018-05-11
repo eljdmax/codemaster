@@ -1,0 +1,12 @@
+#r_trenton648_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	uW9o2JXx25AGYbBm0LyHUW7BQEkH60ym9S8D4JuK8Lk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:10:33+00:00	unique_id	b130e1631ab5d54c
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:11:03+00:00	persistent	216942179%3A%3A2gut4mcoa5pi3ge8vkd7d92x0iv0b2
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:11:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDIxNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxODYzLCJpYXQiOjE1MjQ3NzcwNjN9.4Txc4sP3sxu92J2PjLbUU5uES8cRSoemfa_Fuy0qZt9AlJtoSaI6aFTxZfEbNQTkab1wqAiHD-G_9DM9l19I1Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:11:03+00:00	login	r_trenton648_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:11:03+00:00	name	r_trenton648_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:11:03+00:00	last_login	2018-04-26T21:11:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:11:03+00:00	api_token	0d68fd9e6a825b386b2bcc24e11d2fc2
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:11:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfdHJlbnRvbjY0OF9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyOTA2MywiaWF0IjoxNTI0Nzc3MDYzLCJub25jZSI6InpkRHJMT0pMaVlldDVxY0t4cG8wMjF2SFBTbEFzS05hSDVLUXNkb3JpNjQ9In0%3D.HIJ1nm_0nYlinqHS7orPaeD5Z35hgnfHxHQLRNJNHuhkr1TL1Nbi2YeJGZVJMbEPc5ce00lXNi4rC2k4UvKp3g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:12:34+00:00	twilight-user	{%22authToken%22:%22pxx9b56djmd33ct78rr96n6stlctud%22%2C%22displayName%22:%22r_trenton648_f%22%2C%22id%22:%22216942179%22%2C%22login%22:%22r_trenton648_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:12:34+00:00	auth-token	pxx9b56djmd33ct78rr96n6stlctud

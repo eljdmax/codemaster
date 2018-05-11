@@ -1,0 +1,13 @@
+#d_christina261_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2ByA2Og6%2BAo%2BOVqYivpCGNcn2Kha%2BqO717tcdxxI0VOI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:55:58+00:00	unique_id	067dcec8e2bd4314
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:55:58+00:00	_twitch_session_id	f8b706fcdf3d86902c128cb406efbed4
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:56:17+00:00	persistent	217080969%3A%3A81ge2qz2fg46k9njijz3qx1zuxy5ml
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:56:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwODA5NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2NTc3LCJpYXQiOjE1MjQ4NTE3Nzd9.TDnb-JVSUj7DpafoF7QlHe8GIknvkHiz45fJqvnWuZGlnqnNA9iHU8nm0JaEuNi4p31uq2ofslS4ITUmN-W9yw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:56:17+00:00	login	d_christina261_l
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:56:17+00:00	name	d_christina261_l
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:56:17+00:00	last_login	2018-04-27T17:56:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:56:17+00:00	api_token	77abe8e37dc5590b43287272fc962dd7
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:56:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfY2hyaXN0aW5hMjYxX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAzNzc3LCJpYXQiOjE1MjQ4NTE3NzcsIm5vbmNlIjoibVFBb1dkN0J6WnNYYlk2MjJxVzQzWE5FdEl4bFRqcld1WDViQWF0YW02OD0ifQ%3D%3D.MdyHnqZiJfMLAdA_Fyp3D_6gm1E6pkIO1pmZeSMbha-ywJzqUYoNCJsmOUSlVcTicDwjqpvE7PEimYrNr0zVHA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:57:51+00:00	twilight-user	{%22authToken%22:%22ovjbms4q25h4upperw33ofa3ug5dzc%22%2C%22displayName%22:%22d_christina261_l%22%2C%22id%22:%22217080969%22%2C%22login%22:%22d_christina261_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:57:51+00:00	auth-token	ovjbms4q25h4upperw33ofa3ug5dzc

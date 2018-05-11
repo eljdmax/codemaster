@@ -1,0 +1,13 @@
+#p_tristan93o_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yKAFI7aNbsE1AijWjV84bwzOlCW7c%2Bg9ggH6OG%2BImPo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:44:32+00:00	unique_id	38e2c5e03f745855
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:44:32+00:00	_twitch_session_id	d096f76d84f29d1688f56cedd5b446f1
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:45:13+00:00	persistent	217570470%3A%3A4jjx3kr3zdv0hvt0nuulplqjwzw6s9
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:45:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzA0NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5NTEzLCJpYXQiOjE1MjUwMzQ3MTN9.6Y2xhwbCX2M3NUzXYTQj6HU3jKxEPXMEwHdKgVUvitB0jS6HXT1FarZ3H2hyZr4mpD2fcgbFXUzeOa4G3plsrw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:45:13+00:00	login	p_tristan93o_b
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:45:13+00:00	name	p_tristan93o_b
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:45:13+00:00	last_login	2018-04-29T20:45:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:45:13+00:00	api_token	f35992f155b9892088b664146f74572a
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:45:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfdHJpc3Rhbjkzb19iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NjcxMywiaWF0IjoxNTI1MDM0NzEzLCJub25jZSI6InVIN0VNWGVLV0ROSUNzWllvTUQxaG9BTHdrRGFtQXUwbV90aTRRcW9LYmc9In0%3D.MRZHvGzkSmo0XSxDN9Y9T7nQJH_HN-5q6NN613CoD_6J75xuF4UPoDFE6RgN9unXunxRkUeVIIuEC6q_Ytz8FQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:46:57+00:00	twilight-user	{%22authToken%22:%227mjlceentgk2mprei4hqirolotn7h2%22%2C%22displayName%22:%22p_tristan93o_b%22%2C%22id%22:%22217570470%22%2C%22login%22:%22p_tristan93o_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:46:57+00:00	auth-token	7mjlceentgk2mprei4hqirolotn7h2

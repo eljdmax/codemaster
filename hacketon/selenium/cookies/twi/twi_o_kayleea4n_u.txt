@@ -1,0 +1,14 @@
+#o_kayleea4n_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sRJByFnOf7qzps4Onbur0QlPYwNX9v2pagOwsj38u5c%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9c583b88354912b2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4e9db1c0257b486a39caa6722df95fbf
+.twitch.tv	TRUE	/	FALSE	0	persistent	218950239%3A%3Axbdjkek69ajhl0hwj7r18tr5l0wftb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTAyMzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDY1NTksImlhdCI6MTUyNTY0Mjk1OX0=.JAip5R_gCdX1NU2OCmNd7kkb7U0DU034uvrpBluWZfohjOAcOJFEoLYQkI1J84fwi3iKv4c3Sr1Lag31E5eVUg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTAyMzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3NzU5LCJpYXQiOjE1MjU2NDI5NTl9.mlC_89FQ-_KK9AJDz5GeMNCpEII5bNBEuUhcvqIyO11WjknCdb8TtzzwDC-1EIBOSwewnj_14f74E-Uwki_xZg==
+.twitch.tv	TRUE	/	FALSE	0	login	o_kayleea4n_u
+.twitch.tv	TRUE	/	FALSE	0	name	o_kayleea4n_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:42:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b92410a10395580fd20d1ab3bdb6b0aa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fa2F5bGVlYTRuX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0OTU5LCJpYXQiOjE1MjU2NDI5NTksIm5vbmNlIjoiQW1vZUVRU2kwRExwSTVVQ2ZwenQyTURrelZQSEhKb0RnSWM0MUR6anVUST0ifQ%3D%3D.aVhtAGoBxJ5DLldUD_OnnFsqU39MZyy65a3ojSzj0OfruGWI0wknW1Pb2X3Tq3Q8fnmRIl7dRj_w-H6JPW5X6w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pd12gg71kpbl97mqf3bqcp7jjouyy1%22%2C%22displayName%22:%22o_kayleea4n_u%22%2C%22id%22:%22218950239%22%2C%22login%22:%22o_kayleea4n_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pd12gg71kpbl97mqf3bqcp7jjouyy1

@@ -1,0 +1,13 @@
+#x_fernandon71_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8VXQVynUhes0J%2BuAzm1GwghGaVZXiAqq3jgwcr%2BWsWY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	efb7fce30055e1e7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218849141%3A%3Aog1pitpw9pdizsz5vcqtnjzscn9qzj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDkxNDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTU4ODgsImlhdCI6MTUyNTYxMjI4OH0=.jnaqIKdNYIHai5S0Y4mWIM7qXq7H2FWFQn7Yu2oXHzVLrBMsegdUcfidQey2W5OLG3cxcu4AejT4IqCIptJt5g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDkxNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3MDg4LCJpYXQiOjE1MjU2MTIyODh9.R4a3oRzkDKT3Ihl3r1T0HE6iAOcVVsJn3HZVD1iGWERkz-vRiNvGQjA6FG2SyL72DVG61IMLukpS2o6kb-aenQ==
+.twitch.tv	TRUE	/	FALSE	0	login	x_fernandon71_y
+.twitch.tv	TRUE	/	FALSE	0	name	x_fernandon71_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:11:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fe0ebdf958021ec5cb3d90e4bc153310
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZmVybmFuZG9uNzFfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjQyODgsImlhdCI6MTUyNTYxMjI4OCwibm9uY2UiOiJ0NTktVzl2bURPVmR6ZXFjMzZsVTZwZzhyajl5SEd1SWRYZ1Z3NUJmanpBPSJ9.Ndrs1rflmAc4o52KVO_yJVS9DCfFE9k97dqVkrDDWbU69ZtKckIlKtLDB2TpEgFigHBUvzqIBijKLt_0nrN_eQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ykosz9km9nmkpimqz2huel5ffzai2h%22%2C%22displayName%22:%22x_fernandon71_y%22%2C%22id%22:%22218849141%22%2C%22login%22:%22x_fernandon71_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ykosz9km9nmkpimqz2huel5ffzai2h

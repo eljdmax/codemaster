@@ -1,0 +1,14 @@
+#s_jeffreyh1z_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	l%2FRQP6ggm%2FfWAzkzuiTYokop1%2BALq94Hi0LZwtM2F6k%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fc0d4d0d84a404d2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	fdd7a26eb032176bc952ec91f5934671
+.twitch.tv	TRUE	/	FALSE	0	persistent	217567340%3A%3Amqbjvkg70dec2trqbz6vvcrrkty8s1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjczNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzc0NzYsImlhdCI6MTUyNTAzMzg3Nn0=.5-Go05QQiP6cZm3XJQsSijd8G3fBlpgIOt3HWKS3h96yZ5chERUrKrxDWxDNyQUgNxBHAnD-u4ziUm0_y0YTmQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjczNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4Njc2LCJpYXQiOjE1MjUwMzM4NzZ9.3It2YN-1QFhQWbXrvwbj8bCx1VDBi3_WNjFa_946sruCa_jryujyGN7qLU5NexES14Q3h8Z9csz7ktsRCNBbog==
+.twitch.tv	TRUE	/	FALSE	0	login	s_jeffreyh1z_x
+.twitch.tv	TRUE	/	FALSE	0	name	s_jeffreyh1z_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:31:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9cda1df5721ab72315a02864848d5e9d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamVmZnJleWgxel94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NTg3NiwiaWF0IjoxNTI1MDMzODc2LCJub25jZSI6InZ0YkNveTE0Ymx5QjVKaDdGb0d1cjIwUEY5VzctUmV0QnlBR29RTF9VZWc9In0%3D.3fF5UiBrTR3gImn2ZrAV2bUpxxBVOwsQ15l2DKDLKGgFGqYtsNWlYx5IAACwlSJNFFa2-s9li6hVRk9wR-7s1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hm7t116dn7inxriqccesgrj54mm5hl%22%2C%22displayName%22:%22s_jeffreyh1z_x%22%2C%22id%22:%22217567340%22%2C%22login%22:%22s_jeffreyh1z_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hm7t116dn7inxriqccesgrj54mm5hl

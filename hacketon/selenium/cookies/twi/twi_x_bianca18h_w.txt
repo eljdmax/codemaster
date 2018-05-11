@@ -1,0 +1,13 @@
+#x_bianca18h_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4xIBNNUKxd2u4cMfRBAuu6wmV6hI3WpvgjfTQcLcf64%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fdead05f37779616
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032760%3A%3A5aw4e7wr4oth6n3auv6eus2nox9mgy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI3NjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI0ODIsImlhdCI6MTUyNTY4ODg4Mn0=.ScNLsAfF2gxeNIa1ljhNarunqrrmEgnUDG7w3ougDLkwlq7zVukaqwBnDFcq3d71qjTcVfC0nR4CA1bd72c3rQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI3NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNjgyLCJpYXQiOjE1MjU2ODg4ODJ9.MyNvSY-Y9RwT11dZOT65sKGRV3xsjK1WzSX7Rbi7k2uACjPXQUYjFFtBGB72FYlXOEuFZXeltGbpE1T0hCJWsw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_bianca18h_w
+.twitch.tv	TRUE	/	FALSE	0	name	x_bianca18h_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:28:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	da880138bbdc06141b3726dd21248089
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYmlhbmNhMThoX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjQwODgyLCJpYXQiOjE1MjU2ODg4ODIsIm5vbmNlIjoiT3cxeU44REVpVkVDaUVfZEEyb25HVWhLMk4wX2x3Y2hpQ1NLaWlJUnZMND0ifQ%3D%3D.P0CMvhn5vi1O7REcWn8ItFOufQa9nIKqgG2PekCtsFOpuHYAZRy8On34drvh5lfbSqzjECfWu1y5Eu3BKA3K2Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2218pn0tqjcbup8oici4lzkeamb5hlue%22%2C%22displayName%22:%22x_bianca18h_w%22%2C%22id%22:%22219032760%22%2C%22login%22:%22x_bianca18h_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	18pn0tqjcbup8oici4lzkeamb5hlue

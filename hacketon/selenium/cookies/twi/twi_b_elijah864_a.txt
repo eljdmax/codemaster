@@ -1,0 +1,13 @@
+#b_elijah864_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	n3PimXSm5V6UisRQPNL3XIhwGpvNK%2FXsd5ztEzz%2Bo%2B8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4aa616014f5cbb9b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218865934%3A%3Aaxyk7h66vyssnfjfct8wx14wj4wcyz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjU5MzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjIwODMsImlhdCI6MTUyNTYxODQ4M30=.z7uhPtpu0VFOn-_wreQfhpyhHEw8vdGAEdH_4eBoyucPK28fGM0NDDevxE8fqiu5sKz7gX4UWHE0yl9-UvnY7A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjU5MzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIzMjgzLCJpYXQiOjE1MjU2MTg0ODN9.i-K-Yo4TIz3TA2bb2wiKMvZS9lM-rMqaKejEUCVv7oNUzuSUVlYuAyaJnoGbAIG6PCSmTdLEj4FzbjJMCkqFUw==
+.twitch.tv	TRUE	/	FALSE	0	login	b_elijah864_a
+.twitch.tv	TRUE	/	FALSE	0	name	b_elijah864_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:54:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1e2e7a230861be5e8ad46fb014017bb4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZWxpamFoODY0X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcwNDgzLCJpYXQiOjE1MjU2MTg0ODMsIm5vbmNlIjoidlBXVmxuLVRoQlJ0eGVPeVJESnplSmZyYTFjdDc5em50UjV1MlNQWnRjYz0ifQ%3D%3D.dzm7xA0rzltdlHPGln6PtWECbRyh4ZXT_UUZrqpPFXY0t3CKOqxp73jkmUXHyrT6bQS02oqX-UeIfpxmibi5WA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22t0wil3flrz7pzw46v0av9cq8ogdusd%22%2C%22displayName%22:%22b_elijah864_a%22%2C%22id%22:%22218865934%22%2C%22login%22:%22b_elijah864_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	t0wil3flrz7pzw46v0av9cq8ogdusd

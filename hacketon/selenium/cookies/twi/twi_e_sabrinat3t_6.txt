@@ -1,0 +1,13 @@
+#e_sabrinat3t_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	V%2Fb0PyMc24NLhFHldSDJTxDuF6PbgdaJUzJ4QxF2pmc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	62f0ca1fb4b11113
+.twitch.tv	TRUE	/	FALSE	0	persistent	217255923%3A%3Ahzzoqlgm0gnehr6ig6agsd9cucdgt9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTU5MjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjg2NzQsImlhdCI6MTUyNDkyNTA3NH0=.n518OsediAIU63bWVwtp4fsKU37A87_sPszKFhEAriMaU5epf_6QCmx_JpYdsrH0xWCCGWh0ds8ZjrW8loI1fw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTU5MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5ODc0LCJpYXQiOjE1MjQ5MjUwNzR9.BO2a-azTJn1MMeZrUwu2NtLuRkttPmu88OnNzdpJLHEULumSuKZaK0EjYPfBXYu5aEPX9fI9LYPrypdRRSxQJA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_sabrinat3t_6
+.twitch.tv	TRUE	/	FALSE	0	name	e_sabrinat3t_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:17:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c2be8162f0f55ff34ca27d9dd1650799
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfc2FicmluYXQzdF82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3NzA3NCwiaWF0IjoxNTI0OTI1MDc0LCJub25jZSI6IlROdTVyTDduVUxSaE9LdG0yNnVFNzNLd0UyZGFxZGtBSGgxNWt4SEJaTEU9In0%3D.UCEj3lAArUJGcq9YrsdlC6B4NTSeehKMjuqhqKcqpxj24V_XJ9pntRBXrohf_S3zrv63eI_OSl49T9M4lgLQMw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22smgeof4jgb8snrmgq13eizq70az358%22%2C%22displayName%22:%22e_sabrinat3t_6%22%2C%22id%22:%22217255923%22%2C%22login%22:%22e_sabrinat3t_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	smgeof4jgb8snrmgq13eizq70az358

@@ -1,0 +1,12 @@
+#o_ricardoe0w_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	c83QyMuq5KYMne3FZZvS4lUUYi%2BvKcmsL9YY%2BtJfGPk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:12:24+00:00	unique_id	e0a705fff957ff17
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:12:56+00:00	persistent	216942489%3A%3Ad2w70rpfww6p2znp21pcn15991ddqg
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:12:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDI0ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxOTc3LCJpYXQiOjE1MjQ3NzcxNzd9.EfueALftyY8WSiXjhOw3TqsovwQsua312Z4GLwfcDD7BMGCOzCnbr_GsLazmxn6Mxi9ZWH8E4ku9zAfTiaH2Mg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:12:56+00:00	login	o_ricardoe0w_1
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:12:56+00:00	name	o_ricardoe0w_1
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:12:56+00:00	last_login	2018-04-26T21:12:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:12:56+00:00	api_token	69abb3106319b127c2983ba1b2881254
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:12:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fcmljYXJkb2Uwd18xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyOTE3NywiaWF0IjoxNTI0Nzc3MTc3LCJub25jZSI6InRoajdrLVV2Wjd3R05IQlR0WmZSVGxGMWxaOUZNOVJMWWkwR25YaVYwdkE9In0%3D.EMgyysJ6MSyLtBzioTSo70wavDMOa79I6Qyh1_QQB2OLJaeMCiZlTCBjka52fi5_Y8D-DbNdRsQdGinqn1ppFg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:14:30+00:00	twilight-user	{%22authToken%22:%22rtnhp7jc64lk8zadijejvkjz737cvb%22%2C%22displayName%22:%22o_ricardoe0w_1%22%2C%22id%22:%22216942489%22%2C%22login%22:%22o_ricardoe0w_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:14:30+00:00	auth-token	rtnhp7jc64lk8zadijejvkjz737cvb

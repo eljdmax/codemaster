@@ -1,0 +1,13 @@
+#p_vincente8m_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gcqAJuioV9EvCHiPMIh%2F%2FUorkzalJU9H4KGcGvTuGwU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:53:41+00:00	unique_id	88b5f2abc3ceae00
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:53:41+00:00	_twitch_session_id	88a410a61702bb4091fb099ad3602e50
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:54:06+00:00	persistent	216140661%3A%3Acd1qmoe4oa3tvw5hbzb4aabyn2jl6y
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:54:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDA2NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4ODQ3LCJpYXQiOjE1MjQ0MzQwNDd9.0dczCBQkuLLqY3p-PQezoEd_3iWnn5FGkFE-KhTZqpcq01Z2xAs5Eyi-rBQeUgU5oXDP_-WNHjpeGBivZRNcKQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:54:06+00:00	login	p_vincente8m_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:54:06+00:00	name	p_vincente8m_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:54:06+00:00	last_login	2018-04-22T21:54:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:54:06+00:00	api_token	069aafeb8c74c22697a79a5f356a005d
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:54:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfdmluY2VudGU4bV9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NjA0NywiaWF0IjoxNTI0NDM0MDQ3LCJub25jZSI6IlFkVDZYR3dYOXlIOV9DZGxzWFRvVW5qYzk1S0xVQkk3U2Vmbk84MHJLWVE9In0%3D.4Aujlh8my_6g_nX7TLglQTjns-KKp77dNTOp_J4kQt9sVzjXiGPN2mYHhHWx69ZIS7o-OaUJ6XOaNp2b1SpwHw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:20+00:00	twilight-user	{%22authToken%22:%227s2c9j42pbv0ozoak9alyo9b79doq8%22%2C%22displayName%22:%22p_vincente8m_h%22%2C%22id%22:%22216140661%22%2C%22login%22:%22p_vincente8m_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:20+00:00	auth-token	7s2c9j42pbv0ozoak9alyo9b79doq8

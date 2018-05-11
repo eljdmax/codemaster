@@ -1,0 +1,14 @@
+#a_lesliel84_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QSrAc3BmVhGG5jtqC6%2FcabqgiNvqQr6SFOtyPi3pkf0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	dbeac1c992cd2bdb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3d511f893380257d177d0ef85f05a58a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217271821%3A%3Anoq231o6eakiqg3f7pqld2g9mnkx9g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzE4MjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzM1MDIsImlhdCI6MTUyNDkyOTkwMn0=.CyiUNfKCt7vv8jEkrQKi7m27TF2yCETeKiMfzX3wBx2-XIlkpYU889hMVUyNMRQs4vseXI0Tcg7YIhdh9tyxLw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzE4MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0NzAyLCJpYXQiOjE1MjQ5Mjk5MDJ9.h1MJBAXexqzsKANnv13KMal18-f6MWCwJarff7w7K-NcWGnllwXthCxEQQmsoSfJuvPlvRvHkciKChauMTStzw==
+.twitch.tv	TRUE	/	FALSE	0	login	a_lesliel84_3
+.twitch.tv	TRUE	/	FALSE	0	name	a_lesliel84_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:38:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e067c09f41af5d2a9b907ba8445ed7b7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfbGVzbGllbDg0XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDgxOTAyLCJpYXQiOjE1MjQ5Mjk5MDIsIm5vbmNlIjoidjZFVU5ZNVd5U0lvZGg0UlBsT1MtZENsMUxkaS1qajgxaGgxU005MlBNZz0ifQ%3D%3D.AYb2sh9ArtAlXZicFWKylJSbagI2GRv_u17bVEFBDCbXR2nyrcCICKJhbkgoLqc9JdKu7WVWf5GevFlYoPw9fw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zjmz7cuagua3wjk066p4ldj4vaipdk%22%2C%22displayName%22:%22a_lesliel84_3%22%2C%22id%22:%22217271821%22%2C%22login%22:%22a_lesliel84_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zjmz7cuagua3wjk066p4ldj4vaipdk

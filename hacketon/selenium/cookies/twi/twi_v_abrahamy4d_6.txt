@@ -1,0 +1,14 @@
+#v_abrahamy4d_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7MlDv%2FzNPzCeMIKQq1%2FkpTNsoXAJ00FWhmAMejn6xy0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5599cad0b8c468dc
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	607b07e216fa8a9b3cae89d7d3ed8ce5
+.twitch.tv	TRUE	/	FALSE	0	persistent	217271252%3A%3A9qboiwp1tjxnmkzv92hzx0fu071rhr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzEyNTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzMzMzcsImlhdCI6MTUyNDkyOTczN30=.FbD0OWy0FdkQ-AGxlrd9A3pV-vsRLZL00wh2554f46E7cgAN1khYBoHg7xZyfCJe10d0-d4ofIeAxfHa9a7_Kw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzEyNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0NTM3LCJpYXQiOjE1MjQ5Mjk3Mzd9.AlgZ-b9ApWtkz2FYqBVv3IlCOFt0Xr-FvkC05kiuzsk9k8UFbC6a6VZLILnbWFfgNj15mXd6Dd6_18cRMSy0lQ==
+.twitch.tv	TRUE	/	FALSE	0	login	v_abrahamy4d_6
+.twitch.tv	TRUE	/	FALSE	0	name	v_abrahamy4d_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:35:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	05ed5bc0f23880efbc5437732819c0d1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYWJyYWhhbXk0ZF82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4MTczNywiaWF0IjoxNTI0OTI5NzM3LCJub25jZSI6IkZYamtVczRZWXQya050dWlCRVVPZV8ybEdZUUhpcjlOcUExUDZsNVJmWlU9In0%3D.m_-CzfvGMswEIrwWUC_dCM6RZQ2ngsYraRj3L4Rgo7-xGWOtVs6O1FotrqPxYsQTmQkdFcIrfEG0Ua1H682few%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gfusledtk41yccfwz2xsrnijqm6dg6%22%2C%22displayName%22:%22v_abrahamy4d_6%22%2C%22id%22:%22217271252%22%2C%22login%22:%22v_abrahamy4d_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gfusledtk41yccfwz2xsrnijqm6dg6

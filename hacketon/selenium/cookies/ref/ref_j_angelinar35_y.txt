@@ -1,0 +1,17 @@
+#j_angelinar35_y
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	fRsXuMdj1YT1avQK1nFLrKseletp1IbcE3ubcmi4XS4PWNeixK7pbZE-EbhkG84Qs7Sh9B_a8DxNFA9bhCI-mAwhCofzo7ry_gaalLdXGbQ1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	ufmcv1sihuhvkmzxdgotmf4z
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	cejxVAeDgA0eVuDDsIFZP6sYdabpIkbsKWHUu6UuznbtJ0uuzlLuDg1op4OGriXYE7ER2TGgeMOpAtgBXeSvHaVUMyCGaVDvlMnzSw8HwotzQba6R7kst7UR5aYOFWJz8nrVHg1k7bKJ41UsmxPuOsh8Es-UROA8Q3m_5eoasMOSE-L-5F66GTQPkqvw5saPvDCt57XFhdo81nomvKyXYwEmFQNnTXx9m2e192U4df1KNbE7lXPCTFWaT6kgBZiAEABvIy21cLl83jPNQrKrGhlcDBue8uaLFGL9CDkgNa4aeptItd_plsEi-Tnxw8ZZTqSNi4cmiNfqu14z94BSoB5tvSW7RQFTwcD7EsdfV17nobxAjcPCGZeXlvvPkt_Ffh3RoOIt0iEqQdVqfakLlctsloZRAPPRr8cNpUp5VF2ZkGRldmkGQi4nRsI7oPUXz8OCcVCo19LNbWFomKLXTnFJ1h3pDUvf2t9dze6pJ0SZe8ajI9uCFlbzE9UVV7Vk
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1176919641.1524841042
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524841042610%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%224770316282637943%22%2C%22sessionId%22%3A%224007602624620563%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	aYEIB|1524841048841|1524841077704.16

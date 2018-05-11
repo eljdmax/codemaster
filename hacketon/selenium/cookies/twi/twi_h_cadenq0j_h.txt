@@ -1,0 +1,14 @@
+#h_cadenq0j_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	YvTAi0%2FUw3U5cSg77ooXhcDpsLqtUHD93bp2GPmIpGs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0e4195dc38f94dbb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	65f9eaebd7a1e6c3ada340d970e7a3f8
+.twitch.tv	TRUE	/	FALSE	0	persistent	217226304%3A%3Axs6d7ay612m7uicgadox19ulatn86o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjYzMDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTgzMjUsImlhdCI6MTUyNDkxNDcyNX0=.NsTL4dWUUWRoNsu6kExRUaSEZZM9pZ7wv5GoTdPI4mkBTFEwoX5uKkkWcs6KRvh_qPvcO5v7oRRPpMSexbykHQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjYzMDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE5NTI1LCJpYXQiOjE1MjQ5MTQ3MjV9.48-uU1PLidgegMa4VAXWQFtFgUcMB4E4K_goKsrOeE53oivumcCZdz_nlDVMMJDqVWWtgQcUzUOXujw12qIMug==
+.twitch.tv	TRUE	/	FALSE	0	login	h_cadenq0j_h
+.twitch.tv	TRUE	/	FALSE	0	name	h_cadenq0j_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:25:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3b61038fac06acaf9b9a15fea4a80a60
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfY2FkZW5xMGpfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NjY3MjUsImlhdCI6MTUyNDkxNDcyNSwibm9uY2UiOiJfa0NxajFyLUlWc1UwWGg0ME9VeWNhVENtbmdkczdWOWdzSnJ6dGdMZ3pVPSJ9.ZtHPrLthxMMZekAx1PZknTHD_KxbcegLFWv1qxTJbYhvbgg2SGkifD6mJsE-ybzrwLarg2X009mQ92r6Y7-1tw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22qbiihaskpf4iaibkawgp0vt64mno2f%22%2C%22displayName%22:%22h_cadenq0j_h%22%2C%22id%22:%22217226304%22%2C%22login%22:%22h_cadenq0j_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	qbiihaskpf4iaibkawgp0vt64mno2f

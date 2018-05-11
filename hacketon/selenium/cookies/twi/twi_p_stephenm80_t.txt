@@ -1,0 +1,13 @@
+#p_stephenm80_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0beuHD7ZbbnMAEHWPinjwBtNdveQ5ndexIWF2BitRHE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1ea9e2f68b667430
+.twitch.tv	TRUE	/	FALSE	0	persistent	217488908%3A%3Ay3feniy69iy7tfrv9dxwrwu7xiea5v
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODg5MDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTYzMjgsImlhdCI6MTUyNTAxMjcyOH0=.0AscyPAayITzivC1-vLRBlgJjt-Ui4oDhKF_VWk2rqdw0U6EgUe1ayEjo8UwSlQ8-m04to9WUKWkhNBdUlH70g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODg5MDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3NTI4LCJpYXQiOjE1MjUwMTI3Mjh9.UU_m4lVtd2S8TT_vkhM9SNDd7itl8VzYGAOWMhLYa8eG4_YTOiq_rcAkMEi29BKPrVIWB-NrW2vrpr1rOo_zRw==
+.twitch.tv	TRUE	/	FALSE	0	login	p_stephenm80_t
+.twitch.tv	TRUE	/	FALSE	0	name	p_stephenm80_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:38:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5c9cda138c14075944fdfaa199d9ee17
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfc3RlcGhlbm04MF90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU2NDcyOCwiaWF0IjoxNTI1MDEyNzI4LCJub25jZSI6InAzOVlUZ2tSVHVURWs1SEl4WGdZaHlpRUdETUg1OGpnZFNlbkVpcHIwbEk9In0%3D.1V0oi3ieEsdVUk0PgeV12nrDs2HnwUMEnK64nLimve_yFOGV7_tmql4yDDTCwB4LF1dgtl3LMdiRasEu-v6TCA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ivgyqp81jutevvbpf3sogkfnmjyjof%22%2C%22displayName%22:%22p_stephenm80_t%22%2C%22id%22:%22217488908%22%2C%22login%22:%22p_stephenm80_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ivgyqp81jutevvbpf3sogkfnmjyjof

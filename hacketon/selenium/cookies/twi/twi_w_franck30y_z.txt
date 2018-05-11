@@ -1,0 +1,13 @@
+#w_franck30y_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	k7FDRt%2FXVb47Zqsz1nizoGMWSmvvPYhMgH6H%2FTd%2BfDY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fb80c4a24b5b4b89
+.twitch.tv	TRUE	/	FALSE	0	persistent	218880355%3A%3A7e6e44wqmvhaig060pbeywstc2onwd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODAzNTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjY3NDksImlhdCI6MTUyNTYyMzE0OX0=.nJDGU9Af3tv7kQOOJS0ZzLUqaMi9SQVnaGP3vpp6_NIj3vI7xlfUHJGVdsYsdkgxbOKWW1xw7ezz9GrhWQgeoA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODAzNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3OTQ5LCJpYXQiOjE1MjU2MjMxNDl9.MSvHbuNPgjYHn213x58VQPveoCDm8vCNHr3zT7sQz8Sd3QwDn0DfmvelX4T6i6lssqbULtCWG5F4_od7u25rAg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_franck30y_z
+.twitch.tv	TRUE	/	FALSE	0	name	w_franck30y_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:12:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7e188d9359535e6aaa29043f3cc0ce1c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZnJhbmNrMzB5X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc1MTQ5LCJpYXQiOjE1MjU2MjMxNDksIm5vbmNlIjoiWkpXUW52WWJyVy1RMXVUcnRoZVBubC02eUhBaEpHQjZaSzZKYkdWMzNwbz0ifQ%3D%3D.3hEnAWRuQDMfqQRXs1Z-m1X9RAwoUD_nkfrkHnQotObkQ1sScCJhgbCbueYMnY1KbRp-1B8XK1U7zKvVtoQI0w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bce8oax16ajnhv84s73vy53822dr8r%22%2C%22displayName%22:%22w_franck30y_z%22%2C%22id%22:%22218880355%22%2C%22login%22:%22w_franck30y_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bce8oax16ajnhv84s73vy53822dr8r

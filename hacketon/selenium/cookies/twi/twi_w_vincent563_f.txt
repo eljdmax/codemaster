@@ -1,0 +1,13 @@
+#w_vincent563_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	S2SSJQ2XvnNMXax6Wy%2BLEYBpg9c4aD5yQ39Id3kQ3sI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:03:18+00:00	unique_id	120eac67efd87944
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:03:18+00:00	_twitch_session_id	89dc0b6c51e0aa91e2e1c880cd0cc83f
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:03:38+00:00	persistent	216940966%3A%3A9dy15drm3c1agcp3im0g0f9rvmr737
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:03:38+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDA5NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNDE4LCJpYXQiOjE1MjQ3NzY2MTh9.obIVcDMgYWZkaXbzkzqQQY1XYtIRxZoprsrdmFoTZrBZqF3ycNnRqmTAv5M-4Ubh_7MBS2AusTtNu0wWbxnlIw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:03:38+00:00	login	w_vincent563_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:03:38+00:00	name	w_vincent563_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:03:38+00:00	last_login	2018-04-26T21:03:38Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:03:38+00:00	api_token	11761f0003883badd299f1900dc340e6
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:03:38+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfdmluY2VudDU2M19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyODYxOCwiaWF0IjoxNTI0Nzc2NjE4LCJub25jZSI6IlNwR05wbURkSU40Vlh2Ynp0MFRVa3BWdU5WZzVJWDE5eXFKbzZ0MG00UDQ9In0%3D.Ii9XRcoZ6TiO9XM9c_9x3FY_dhPUx761gPyJzBEIgY9N4cdFbqv-FeuGPOuoMLPtY7M0Bf8fITdwbOCgD5WztQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:05:08+00:00	twilight-user	{%22authToken%22:%22yo9jjaoa332q01bufg9vebe0qgec0p%22%2C%22displayName%22:%22w_vincent563_f%22%2C%22id%22:%22216940966%22%2C%22login%22:%22w_vincent563_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:05:08+00:00	auth-token	yo9jjaoa332q01bufg9vebe0qgec0p

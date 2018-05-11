@@ -1,0 +1,12 @@
+#q_jennaf5b_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qoncZqvlzyAica6scsb1lyKwcW%2FGs%2Bp8rZGuZMOoq5g%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:25:59+00:00	unique_id	8eff78dde7c5d598
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:26:16+00:00	persistent	216475605%3A%3Anmewdpdnczifer99z9kcb85jw9o0ie
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:26:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzU2MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwMzc2LCJpYXQiOjE1MjQ1NjU1NzZ9.kihwuOHE7rqKR9qivfN2X67fHJhg1Cz_oW3qinCGGP0byi-JHx6GW08QZ_dzV9r7KoeuvE-X9ordCfTmmIOxYg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:26:16+00:00	login	q_jennaf5b_0
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:26:16+00:00	name	q_jennaf5b_0
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:26:16+00:00	last_login	2018-04-24T10:26:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:26:16+00:00	api_token	d1c305346004e96004fdef4b19f2dd40
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:26:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfamVubmFmNWJfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTc1NzYsImlhdCI6MTUyNDU2NTU3Niwibm9uY2UiOiJzTzA0bkhHR0dhVUlreWZwcFlVcElqeVRUSTZPZFV4ZTkwaF9vZnRDTGhvPSJ9.rdqjonkg2eV46yGPU2-GmyHDlZx5SD7Ymqqn4Fx9__wIiYG9AkyvVClt_G50RTDiYYUp1BcXu6z5lMJH9zFJLA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:27:36+00:00	twilight-user	{%22authToken%22:%22k73daacomqiqtwvuk70qpnloj88a5e%22%2C%22displayName%22:%22q_jennaf5b_0%22%2C%22id%22:%22216475605%22%2C%22login%22:%22q_jennaf5b_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:27:36+00:00	auth-token	k73daacomqiqtwvuk70qpnloj88a5e

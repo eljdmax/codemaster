@@ -1,0 +1,13 @@
+#y_javiere73_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3eRZhOIx2xRiHOPseomsmvJ8W0iVQqVoLwX53hkyQuY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:49:23+00:00	unique_id	238c26889210d419
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:49:52+00:00	persistent	216938440%3A%3Ab1btuahijxlijj3eig53kww93852m3
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:49:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzg0NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwNTkzLCJpYXQiOjE1MjQ3NzU3OTN9.fmFvuH2NGYZ-Xf45g3xpQePSqL3phW1ErWvQqiCFmWI-Y-lqkOMAM8C3sWi-vIhbj65PRqrZLNDJxHDogOFMfw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:49:52+00:00	login	y_javiere73_u
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:49:52+00:00	name	y_javiere73_u
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:49:52+00:00	last_login	2018-04-26T20:49:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:49:52+00:00	api_token	e9b22a3db05bbce3cdde6acc39b44724
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:49:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfamF2aWVyZTczX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI3NzkzLCJpYXQiOjE1MjQ3NzU3OTMsIm5vbmNlIjoiSE1mOXR2MUd6ZTBNeDhtZUJnT0l4bTQxWXZGT2VRcUlXNXh3ZWVSaWxkWT0ifQ%3D%3D.SOtgAKCZfV_rTNWMgXzevyoMydx70uXkYRyaMpO7T5Ue1hLTbSe3ovPzsyiOSG6osRpRJXmOamQMakJgd4SEHg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:51:23+00:00	twilight-user	{%22authToken%22:%22ypxjuodzhrlleo5r8p969oe421halc%22%2C%22displayName%22:%22y_javiere73_u%22%2C%22id%22:%22216938440%22%2C%22login%22:%22y_javiere73_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:51:23+00:00	auth-token	ypxjuodzhrlleo5r8p969oe421halc
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:51:26+00:00	twilight_onboarding	true

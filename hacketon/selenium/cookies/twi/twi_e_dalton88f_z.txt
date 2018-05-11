@@ -1,0 +1,13 @@
+#e_dalton88f_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9OJVXKSfu8cUexRJ1fP%2FYZ9vwr1Nmx%2BGLer4qjYaAf4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:31:55+00:00	unique_id	e270419b8a01f3fd
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:31:55+00:00	_twitch_session_id	b95002e05feb07f3bca5672328e906f8
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:32:24+00:00	persistent	216486985%3A%3Atqn2muuhctncuaog2bxihkygl81jwq
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:32:24+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODY5ODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3OTQ1LCJpYXQiOjE1MjQ1NzMxNDV9.gECpclYDqenqsBlsZD95RPtKMCUEexrlzYzo4SedTEwjO3kwaraKNJo7IYYucPLgArGqOSvDEBA24ZV4ws4qAA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:24+00:00	login	e_dalton88f_z
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:24+00:00	name	e_dalton88f_z
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:24+00:00	last_login	2018-04-24T12:32:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:32:24+00:00	api_token	5bf7a4a86fdbeacc6ba7222aa36e5d4b
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:32:24+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZGFsdG9uODhmX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI1MTQ1LCJpYXQiOjE1MjQ1NzMxNDUsIm5vbmNlIjoidk1kVlFmS2I1UWxfNkNTQkVrYS1TZnR6S3h5T1FnaC1IZ1BzZE5MeUE3Yz0ifQ%3D%3D.4pDJBsok8xP1McKzCoFWE3zbOqkrM2Ddqdl9KmjOXubG4Hq6UR-HEIy3RCVwv7pvCNVtDb5oClKN0-VxOju6Pw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:33:45+00:00	twilight-user	{%22authToken%22:%22ohwobk6ivtiq9h3hy9770ng9oomepn%22%2C%22displayName%22:%22e_dalton88f_z%22%2C%22id%22:%22216486985%22%2C%22login%22:%22e_dalton88f_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:33:45+00:00	auth-token	ohwobk6ivtiq9h3hy9770ng9oomepn

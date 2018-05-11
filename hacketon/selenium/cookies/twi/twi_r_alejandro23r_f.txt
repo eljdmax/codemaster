@@ -1,0 +1,13 @@
+#r_alejandro23r_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7IrPR6jg7qal8dOFvJ%2FjeMarjp%2BMgSna%2FMvMd%2BEOBGw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:57:06+00:00	unique_id	b2a43fffae6fdca5
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:57:06+00:00	_twitch_session_id	877044025f7843edb6f2481d6450c83b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:57:31+00:00	persistent	217559083%3A%3Ay8hrqgahhhtmvwdjfaie097g2m2hjr
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:57:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTkwODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NjUyLCJpYXQiOjE1MjUwMzE4NTJ9.rNlHWVYuiAJZqqOZCM1SX-NFBO3IG-SxpKIqs9A78WkJI7NYPVceXjK4dNDC8FKjMx4S3NBI7iplVWm4n2LKRw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:57:31+00:00	login	r_alejandro23r_f
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:57:31+00:00	name	r_alejandro23r_f
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:57:31+00:00	last_login	2018-04-29T19:57:32Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:57:31+00:00	api_token	1716d7922659141294de3ab0668695dd
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:57:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfYWxlamFuZHJvMjNyX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgzODUyLCJpYXQiOjE1MjUwMzE4NTIsIm5vbmNlIjoiNVhYdXJQYURxVmRkbHB4RmpYdVA1eVpZdXYtX3I0R3B0N0oxSGlPMmN5Zz0ifQ%3D%3D.vTtYj1mLWGZr_SMrZERPNOywzvDrhh4mhLAw9q2IkW5VUetitqgNcXUUttNS3aTSXOTIVrChQYS8esyxvaBdOQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:59:16+00:00	twilight-user	{%22authToken%22:%22o6hrknjr7gbqzj67btdfkooot2ts7c%22%2C%22displayName%22:%22r_alejandro23r_f%22%2C%22id%22:%22217559083%22%2C%22login%22:%22r_alejandro23r_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:59:16+00:00	auth-token	o6hrknjr7gbqzj67btdfkooot2ts7c

@@ -1,0 +1,13 @@
+#u_alicia849_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yY1wsmVjh6Zed8ovgIYLijFiQekeN%2FPAZ16BPXV%2FOjk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:37:07+00:00	unique_id	a50a0774b8d086d4
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:37:07+00:00	_twitch_session_id	60d7520b2865169aa9d87fc61185b034
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:37:30+00:00	persistent	217077540%3A%3A2jicltrwbshbc3bquo780euiv5hj4u
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:37:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzc1NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NDUwLCJpYXQiOjE1MjQ4NTA2NTB9.S7o4hKPdcpv4drTI3I_0-4-UIp9i45UVzCN6UkKPdPL2DORVhzPxnVjbY1B71ZIUHEXJ4Cj874--bdpzJIpWUg==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:37:30+00:00	login	u_alicia849_g
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:37:30+00:00	name	u_alicia849_g
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:37:30+00:00	last_login	2018-04-27T17:37:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:37:30+00:00	api_token	8ee5e98c495e8c761745db336b727749
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:37:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYWxpY2lhODQ5X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAyNjUwLCJpYXQiOjE1MjQ4NTA2NTAsIm5vbmNlIjoiN0lxLWI5cjE0OGF0QnZ1TGJCdUZmX0ZOaDhpa0t0eEc2WVFTRXpGY1Fxdz0ifQ%3D%3D.rp60LbmnAVH2KgIF9-XEegoWCqPz-SyyxJNT1LMYRDVJnygamh9XGpEhbfEtH4kLdv-CSmBMBUCDePYH6pglfg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:39:04+00:00	twilight-user	{%22authToken%22:%224oi29uzzi73n88twwtdzs0p2twbf6k%22%2C%22displayName%22:%22u_alicia849_g%22%2C%22id%22:%22217077540%22%2C%22login%22:%22u_alicia849_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:39:04+00:00	auth-token	4oi29uzzi73n88twwtdzs0p2twbf6k

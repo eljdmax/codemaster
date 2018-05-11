@@ -1,0 +1,14 @@
+#c_jenna271_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3v6T5gAlK8YflTRbWIqQfIvKeYHfiV292bz86WD7vYI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b1643e6fcebfb104
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	61b72c80be0ea9181a57e55a19b24008
+.twitch.tv	TRUE	/	FALSE	0	persistent	217951233%3A%3Aglq7qmm4a98v06n6am0zxtm0mwzl0n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTEyMzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTg2MDMsImlhdCI6MTUyNTE5NTAwM30=.1ULRnprhwN7Oo-AqyjGsPnGtZgKuLNjaRVbMlZtKf7heYM90-hQLjqK-rcZQXPjwFAAUHHeMXQ8jYrchc4yNJw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTEyMzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5ODAzLCJpYXQiOjE1MjUxOTUwMDN9.k4geM_OuPe0vfsVsT9hT0Gm4Tvr990d3v0FjX1gmZENXfqm6Utnc8bPnmYnLmcnw8VhqE6l-We_fbTZLihRn-A==
+.twitch.tv	TRUE	/	FALSE	0	login	c_jenna271_k
+.twitch.tv	TRUE	/	FALSE	0	name	c_jenna271_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:16:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d414fae5fde899240a534073edc55ee2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfamVubmEyNzFfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDcwMDMsImlhdCI6MTUyNTE5NTAwMywibm9uY2UiOiJxS3BMaV9fdzAzUjJRTURDUUlPd3IxNmZUb0pxaGhLbHNDMGVNTjdqTWNnPSJ9.TH-IiRF-9ldfLOzF0cDjcX1TnSGrcftTPAovh2tkzqN6yIwqfbJR6QlzO5I5D1UYHKxf7qvfCEo1DBxmCw1eNg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220zimt86hofr52hrcb6x9kjqon519lz%22%2C%22displayName%22:%22c_jenna271_k%22%2C%22id%22:%22217951233%22%2C%22login%22:%22c_jenna271_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0zimt86hofr52hrcb6x9kjqon519lz

@@ -1,0 +1,12 @@
+#t_hector20b_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i7gercCCcy08DVF5pv%2Fj12WEIZNVoex%2BnygAtFVrXc4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:42:34+00:00	unique_id	2335722c54cfde85
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:42:47+00:00	persistent	216138601%3A%3Aclz4dhszwj117wukg5k5v0zyqrwhom
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:42:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzg2MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MTY4LCJpYXQiOjE1MjQ0MzMzNjh9.nK_jiVXnFWJNMoqyC-a1JZA2XkB2gKLJpRnGQIwlTjrRjOmJaVrEBzCt7ywyZE1ZYP3nJv82Z8rJlwF655Q1uQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:42:47+00:00	login	t_hector20b_e
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:42:47+00:00	name	t_hector20b_e
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:42:47+00:00	last_login	2018-04-22T21:42:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:42:47+00:00	api_token	d10476e51755567f85aeebec9d66014e
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:42:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfaGVjdG9yMjBiX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg1MzY4LCJpYXQiOjE1MjQ0MzMzNjgsIm5vbmNlIjoiTk5LdWZWZmdCRkExUU8xZ2J3UnplRmxqa3ZzWjRZcThGR2hYTFlwWDBncz0ifQ%3D%3D.HwVsuVfx9uwMtC4UXhOnXUF8j3MApUpz7gqYzc7EaRLC2HYKBEsRb_2874cdDz6QoTVt7LLznID792FKqdsziQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:44:01+00:00	twilight-user	{%22authToken%22:%22w7u0bklgmulg88q610fca2k0t3v25b%22%2C%22displayName%22:%22t_hector20b_e%22%2C%22id%22:%22216138601%22%2C%22login%22:%22t_hector20b_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:44:01+00:00	auth-token	w7u0bklgmulg88q610fca2k0t3v25b

@@ -1,0 +1,13 @@
+#p_jonathank8l_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	H7R%2FP7REmmHR5aSF8tIr7FXWgaQUZ%2FIGjng%2BNtKvBQk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:08:23+00:00	unique_id	289bcede0b195d63
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:08:23+00:00	_twitch_session_id	d7453f3378ba5eda45103d2b456c504c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:08:47+00:00	persistent	216474249%3A%3Abbglioj0uz7i1d8pakaktnjocyd7o0
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:08:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQyNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5MzI3LCJpYXQiOjE1MjQ1NjQ1Mjd9.p3wP3wWMjM5d7u4LbVdxJNZL5mNROHUzp5sFWm-Jbm1w2fVBinb2uEaVfLh3koViaftnkMkRVVGk6ahMflkLBA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:08:47+00:00	login	p_jonathank8l_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:08:47+00:00	name	p_jonathank8l_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:08:47+00:00	last_login	2018-04-24T10:08:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:08:47+00:00	api_token	659b3f3d4094116cd496fedbcafac1f4
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:08:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfam9uYXRoYW5rOGxfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTY1MjcsImlhdCI6MTUyNDU2NDUyNywibm9uY2UiOiJfOVJ1QVFfWDlxVU51SUdtREYwbEEyMXV3QlhwbnFnZUZGUUZZS29nWmtjPSJ9.b-bxwTopeL24zFkYnKlKNxMjbPqk1vsrgpDe-eEB4cbSEz-v_sh3rCChYZRvw-heAYl4nLyB1bO7LM3eqb5UzQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:10:06+00:00	twilight-user	{%22authToken%22:%2250popzm4lr84glb13gpniq3yuncj09%22%2C%22displayName%22:%22p_jonathank8l_j%22%2C%22id%22:%22216474249%22%2C%22login%22:%22p_jonathank8l_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:10:06+00:00	auth-token	50popzm4lr84glb13gpniq3yuncj09

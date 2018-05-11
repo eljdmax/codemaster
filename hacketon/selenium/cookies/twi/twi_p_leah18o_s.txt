@@ -1,0 +1,13 @@
+#p_leah18o_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8%2Fq6dmx%2Fm6ccIALKFziDvrCKmuwc9hNaigwRoYbTZTo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	695b9a909e51c5ec
+.twitch.tv	TRUE	/	FALSE	0	persistent	217454296%3A%3Af8k9k6d11xzeyrbv26qi4fii7srn53
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTQyOTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE5NTQsImlhdCI6MTUyNDk5ODM1NH0=.JJgtfypXRAendfs98teQt3K7V0tLoehcXztYKnAwsjZxNKrQsBpaaFxTErSXAUS43gPAgAXP31GLO4NxUn3BkQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTQyOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAzMTU0LCJpYXQiOjE1MjQ5OTgzNTR9.hzSrffeSzy60zh1Djnoz5dZC1lvM-OTlMwfk-LIJsZ1Bmyoi4YW50-WC4krXynj4AAQh8EgtDxEsa0RKIEG6mg==
+.twitch.tv	TRUE	/	FALSE	0	login	p_leah18o_s
+.twitch.tv	TRUE	/	FALSE	0	name	p_leah18o_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:39:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	58c42ec5255a2182c4a161c9c919ed34
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbGVhaDE4b19zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MDM1NCwiaWF0IjoxNTI0OTk4MzU0LCJub25jZSI6IkhfU0dSN2FOeVBQZmZfVU04cnBIR3pJWDFaSlZDTXRQbzNVZjFiYXZQaTA9In0%3D.9yPMTc3Yd_bMoLdy7VDYVo0VVPRru8RIDgWGtQpc_pXGMcKdU9e9KOZNsJjoPXl2uZT7JNVclk_j0VBhazsWDA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22v7pftxlmpyfr98h5x2m9x8oh5nzu7h%22%2C%22displayName%22:%22p_leah18o_s%22%2C%22id%22:%22217454296%22%2C%22login%22:%22p_leah18o_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	v7pftxlmpyfr98h5x2m9x8oh5nzu7h

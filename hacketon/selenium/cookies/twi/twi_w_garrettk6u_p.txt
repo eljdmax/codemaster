@@ -1,0 +1,13 @@
+#w_garrettk6u_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	z1ClrOMVFZFdNhTHHSHZ%2BEEqCz3A9kNtSCm8l4jqyGI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:17:03+00:00	unique_id	c95a162dfb9f863a
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:17:03+00:00	_twitch_session_id	77106010aa4b260e6ec99b9cc76122dc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:17:16+00:00	persistent	217563973%3A%3A9q09ca1rw7n77otuk3ccqky7t0ambs
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:17:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjM5NzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3ODM3LCJpYXQiOjE1MjUwMzMwMzd9.IlDzgOO7U37KKAO1K9fzEm8NmjJV_VhR4pe_4uE_4kEDoIqLdyytfKVdF5EZWdcmwkrwuK601mY5oSCsRuiHkg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:17:16+00:00	login	w_garrettk6u_p
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:17:16+00:00	name	w_garrettk6u_p
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:17:16+00:00	last_login	2018-04-29T20:17:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:17:16+00:00	api_token	c07033bcc650db938d505591c364b8cd
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:17:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZ2FycmV0dGs2dV9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NTAzNywiaWF0IjoxNTI1MDMzMDM3LCJub25jZSI6IjFiel9hdDQ0Ukl0Z2tNbzRrQXFXNi1wMVNFMnBXN2J4RnFUVHdLVkEyZVE9In0%3D.pft5q9hkBj7r2-BY044XEgqa8d4jum3fTafcMP39knG813gF45UeJpG1a8Tauv0Rkqbl-LP2FVYSx-fWW4mcsA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:19:00+00:00	twilight-user	{%22authToken%22:%22s6xxrshem6fr3lfniwpqg13v71s9dg%22%2C%22displayName%22:%22w_garrettk6u_p%22%2C%22id%22:%22217563973%22%2C%22login%22:%22w_garrettk6u_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:19:00+00:00	auth-token	s6xxrshem6fr3lfniwpqg13v71s9dg

@@ -1,0 +1,13 @@
+#p_haydenq24_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UgN7QxAfTi98yTSREkbovmQRI11WfbhU%2BjZI4kf3ies%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:09:53+00:00	unique_id	f6d5de0e0cf18306
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:09:53+00:00	_twitch_session_id	c3f40e9674670a9737e022de02ddfb1e
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:10:06+00:00	persistent	216143568%3A%3Axmc6ykk7myot075ixc1906k7augz7f
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:10:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDM1NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5ODA2LCJpYXQiOjE1MjQ0MzUwMDZ9.AwH5fYVLeHcZhXJ2GqDcJEgGegh4FBMoqmeU7dapoF4iZj_VJgZYWhYmm-sZBJaOzYY_V_-DXgD4hngbgXpBiQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:10:06+00:00	login	p_haydenq24_p
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:10:06+00:00	name	p_haydenq24_p
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:10:06+00:00	last_login	2018-04-22T22:10:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:10:06+00:00	api_token	a9de21b852561cce9abc6616a2868a83
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:10:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfaGF5ZGVucTI0X3AiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg3MDA2LCJpYXQiOjE1MjQ0MzUwMDYsIm5vbmNlIjoiRWpEU0E4MFFZSWZjdERkZG5jWFdSX2hBWkhCREJpMHZScnhvekstdzZWaz0ifQ%3D%3D.dWV15ssYWwJqHbWzENakYE9e_8grlJxO8qNOGehknZ9RBxP8vct9M1Gweyz7_XcQqyFGQVtEVtDtHXqFKZiG7Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:11:17+00:00	twilight-user	{%22authToken%22:%226jv8b0pxeqh5p5ghe7mwgisfyt4apo%22%2C%22displayName%22:%22p_haydenq24_p%22%2C%22id%22:%22216143568%22%2C%22login%22:%22p_haydenq24_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:11:17+00:00	auth-token	6jv8b0pxeqh5p5ghe7mwgisfyt4apo

@@ -1,0 +1,14 @@
+#f_leonardoa97_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	iaue1QQnVEN6Y2y53GrBZZ8xl0gNd0v%2Fza03Zx7maIg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	96382201ee383aef
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	bfba76f42e0ff6389b549fbf3434a264
+.twitch.tv	TRUE	/	FALSE	0	persistent	217561405%3A%3Aej18mo6e11gy8qzea6mit2310snfwr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjE0MDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzYwMjYsImlhdCI6MTUyNTAzMjQyNn0=.la_oxXXQGHZNGuoWLHAaxQJh71RS0XWVmXrelv8ZIxcgh2d9N2agMNaGrQ4RD6ofcM89Wj5Ml7fqEpEqwr7xMQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjE0MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3MjI2LCJpYXQiOjE1MjUwMzI0MjZ9.3dfCQgpxtD2bsqB2L_Zv8XOPVeMiecHRl2f6yc5124uRk4f0KIdw-AI-7damPY4JqpT6uFoX8pYGEc4PGfo0AQ==
+.twitch.tv	TRUE	/	FALSE	0	login	f_leonardoa97_w
+.twitch.tv	TRUE	/	FALSE	0	name	f_leonardoa97_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:07:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	99b0f69eaf9c67eccd2345cafb8b5605
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbGVvbmFyZG9hOTdfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODQ0MjYsImlhdCI6MTUyNTAzMjQyNiwibm9uY2UiOiJzam5DNnAyRzJsd2FMc0VYazRVSk1IMGVCUWF2RG9CTHlvV2VMcW8tNEswPSJ9.uVf9z6AX85x_nbU-qOdsRArUjQQ8AZejkW-YmcewjuE3FTvewjmZOj2Zs5h4ra5mXc_5DuQppzyDbEEq7hwBNg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p3qjwk5emu09za28pusbq8ur2qe618%22%2C%22displayName%22:%22f_leonardoa97_w%22%2C%22id%22:%22217561405%22%2C%22login%22:%22f_leonardoa97_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p3qjwk5emu09za28pusbq8ur2qe618

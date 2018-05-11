@@ -1,0 +1,13 @@
+#j_myaah37_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cREtmILoEdSuOS%2B1q0q0UfleJKO1NdoZKETAsjJfFcM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7f4a57d7353ff371
+.twitch.tv	TRUE	/	FALSE	0	persistent	218959381%3A%3Aqjkptyh76rqqraywxddmmoxyzzpm4y
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTkzODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk5ODAsImlhdCI6MTUyNTY0NjM4MH0=.wL1OGFQ7wMoZbgEO6xVDeRCS_1dJ-iOanBgEJe7FG4vPE2EMTnbAyft3XJ20X35UOEhD7zokszltP3_Kv11iqA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTkzODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUxMTgwLCJpYXQiOjE1MjU2NDYzODB9.icNljrd8CS8R2kCbex8BF2bwFH280vr1Z0SUeKnR9hpdTGDqfLYxhLAD6jBBOPR309si1Bu00CX905Z1Q1gimw==
+.twitch.tv	TRUE	/	FALSE	0	login	j_myaah37_d
+.twitch.tv	TRUE	/	FALSE	0	name	j_myaah37_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:39:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	246fccfb70274ae565f090cdf35890be
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbXlhYWgzN19kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5ODM4MCwiaWF0IjoxNTI1NjQ2MzgwLCJub25jZSI6ImZSSFNvejNJRXNZanpSUlB6bUk3Q0xkN0ZxMmFBWEFXNmhDd09xYkZQSTA9In0%3D.fneZ_eSRvDP0773km8vMCcjGb8tuCS1r95qjU_oWHhc7a79GzZCBYKEb6yqpaeI4WXsJn4CqaWM6kus7LRMiIw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222bh6kin7fduyfm0l4jlazisrcy727d%22%2C%22displayName%22:%22j_myaah37_d%22%2C%22id%22:%22218959381%22%2C%22login%22:%22j_myaah37_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2bh6kin7fduyfm0l4jlazisrcy727d

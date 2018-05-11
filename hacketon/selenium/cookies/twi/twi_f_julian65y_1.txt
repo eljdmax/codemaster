@@ -1,0 +1,13 @@
+#f_julian65y_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1I5AY61LUxC%2FhzZWSxwxwXdl4707uANXhIYUO8r5Fxc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:07:14+00:00	unique_id	0b7e0c2155f4be4b
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:07:14+00:00	_twitch_session_id	7a45ae9899cc20badfdfaf6a136016c5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:07:30+00:00	persistent	216479086%3A%3Agjdat88qytyk75xf8l8a3jbmtkl298
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:07:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzkwODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyODUwLCJpYXQiOjE1MjQ1NjgwNTB9.42rGNIgo0kBwjekgK_I5miU713z6ku8Zf7RqnhPoVs1UfAzSO4Bhh_5eU4dKpklbNKLDjYnpPkYoM5H9MstjSA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:07:30+00:00	login	f_julian65y_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:07:30+00:00	name	f_julian65y_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:07:30+00:00	last_login	2018-04-24T11:07:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:07:30+00:00	api_token	72f266c765128e346214628e252083f2
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:07:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfanVsaWFuNjV5XzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIwMDUwLCJpYXQiOjE1MjQ1NjgwNTAsIm5vbmNlIjoiNTBROFRoR1RhRVhKUzJzN0hHRGh0aWR0WFZNSlJ2aXJNWjRiQ3Q1V052MD0ifQ%3D%3D.z9e6QPPuF2rebhNhf92Bp82MCfySj4_5KyZBAKxKVQJLPhzgNSP0RlMc0012V-sDxEKdrHjVDr6uvfWXIKPgPA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:08:50+00:00	twilight-user	{%22authToken%22:%22czdt5sap2c6r7thdnkjj766krfb8mw%22%2C%22displayName%22:%22f_julian65y_1%22%2C%22id%22:%22216479086%22%2C%22login%22:%22f_julian65y_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:08:50+00:00	auth-token	czdt5sap2c6r7thdnkjj766krfb8mw

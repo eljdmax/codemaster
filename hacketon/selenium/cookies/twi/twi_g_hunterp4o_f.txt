@@ -1,0 +1,13 @@
+#g_hunterp4o_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qcWOfCyklLsoRJz4h%2FQs65vDXM86Ly84XbowdMrsHMw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:05:00+00:00	unique_id	39d016c5c8b6edf6
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:05:00+00:00	_twitch_session_id	fd0fa52f0984eefaf10284ba5b55ffce
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:05:20+00:00	persistent	216941262%3A%3Aqk9gpz8s5bqckdlv33jqix91d0l9nw
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:05:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDEyNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNTIxLCJpYXQiOjE1MjQ3NzY3MjF9.52rfgW361BBNOAttx1dQvnV1F4Ak9l06zPc6mN0hvUqQFslufRCOSJ7nBlBOeaVD6nEOsA1FQyR9hGspMMT4Qg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:05:20+00:00	login	g_hunterp4o_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:05:20+00:00	name	g_hunterp4o_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:05:20+00:00	last_login	2018-04-26T21:05:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:05:20+00:00	api_token	013f22741102d6e57c5ba7e5144cee35
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:05:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfaHVudGVycDRvX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI4NzIxLCJpYXQiOjE1MjQ3NzY3MjEsIm5vbmNlIjoiODRYaXpyVUdmZldqRFdhRWhsY1FSRkZ1dFpnTmd5cUZxd0FRaDlYUmdlUT0ifQ%3D%3D.vD9Vw3wrXTBHc_1t3giMHv0blQKymrS1droaZgdj15_sjidRbqhPmfOs99upn9R5YJ7kalEeOpYokCJcGsK66Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:06:53+00:00	twilight-user	{%22authToken%22:%22wtgfipu5ql1nvazigomli3g36kftw4%22%2C%22displayName%22:%22g_hunterp4o_f%22%2C%22id%22:%22216941262%22%2C%22login%22:%22g_hunterp4o_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:06:53+00:00	auth-token	wtgfipu5ql1nvazigomli3g36kftw4

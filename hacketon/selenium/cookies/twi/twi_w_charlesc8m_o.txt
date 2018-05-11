@@ -1,0 +1,13 @@
+#w_charlesc8m_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6O8v2xysU7K9q1z77wLAFbvf7Rzz%2BGbXGwvMZeL9%2Bwk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:08:21+00:00	unique_id	bf7c21c2f8205374
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:08:21+00:00	_twitch_session_id	b317fd27d05e9e9c5bf05f5c5c263a74
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:08:41+00:00	persistent	216479184%3A%3Aoqtwpjqlic3r8rze1ri4uijhi45is1
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:08:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzkxODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyOTIyLCJpYXQiOjE1MjQ1NjgxMjJ9.2mMaqjMiJpFsB0wo9bh5OltZzKQGcYjynTobtHhLzmKsBKDiHlySNxNyId5nCobsj2uRJfEEtXJ5H9Nt2n0_YA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:08:41+00:00	login	w_charlesc8m_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:08:41+00:00	name	w_charlesc8m_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:08:41+00:00	last_login	2018-04-24T11:08:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:08:41+00:00	api_token	5a9a5678a6308d7cd26bfd2afc7bf3d5
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:08:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfY2hhcmxlc2M4bV9vIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMDEyMiwiaWF0IjoxNTI0NTY4MTIyLCJub25jZSI6IkZkbnZqT1NwRXlvQ05oc2ZncUVwU0t6ZElKUW1jUkxaSHMzQzJya0N5VGc9In0%3D.ysCnugNjM4VAAQNpCmlbWD4Z3DwYcpgu6vEGFuLVTrPIMoYsKWRxfn_rpfaTSjlaXB_f_K2GK3kI_YfeuD6uCg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:10:03+00:00	twilight-user	{%22authToken%22:%22s8laopq6jo5l7boa2rcolo3g38qrox%22%2C%22displayName%22:%22w_charlesc8m_o%22%2C%22id%22:%22216479184%22%2C%22login%22:%22w_charlesc8m_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:10:03+00:00	auth-token	s8laopq6jo5l7boa2rcolo3g38qrox

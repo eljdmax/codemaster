@@ -1,0 +1,13 @@
+#h_chloer8l_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WDIkF63X9WAND6IYs1DWUa5kgqYMMWM6ggFDBSckjUs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d53ca6def2e03f49
+.twitch.tv	TRUE	/	FALSE	0	persistent	217562021%3A%3Akryb5v9ae0eixqhfqcdlwz4h6g5on2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjIwMjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzYxODAsImlhdCI6MTUyNTAzMjU4MH0=.5m2iAKn0zeyIvBqtSAqlFt5ARACD1af284SDAStalCIaFbYngyyYKujE4TDTqxtYdy8K3_uYq_9SS5MC2Crdgw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjIwMjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3MzgwLCJpYXQiOjE1MjUwMzI1ODB9.3et7__39aw0O9-NIn2J44FzUAJ7bItRu1lwHw78WW4HHA6EoaT9pUxjgQuyR2vqTSjA2uO8iRK-A1XACADQA4g==
+.twitch.tv	TRUE	/	FALSE	0	login	h_chloer8l_t
+.twitch.tv	TRUE	/	FALSE	0	name	h_chloer8l_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:09:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	91ddae1a59038d9a366d507b5e438094
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfY2hsb2VyOGxfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODQ1ODAsImlhdCI6MTUyNTAzMjU4MCwibm9uY2UiOiI3SUJwZ1BJakVOX2FtM0FNRlE5cENrdS14NmZtSGlaZTl3NWZ6b0lDbVJNPSJ9.slLR-QV2GCtBNId10T0sYEkBN_PUL0wb-Jqb2GpWpxmb6QXwfafPdmuB2lEIWMFiZm_OMTO5cGMhF3tbaBh9Eg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22420cpdrd8591jmnmts58kbs7dvvr0r%22%2C%22displayName%22:%22h_chloer8l_t%22%2C%22id%22:%22217562021%22%2C%22login%22:%22h_chloer8l_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	420cpdrd8591jmnmts58kbs7dvvr0r

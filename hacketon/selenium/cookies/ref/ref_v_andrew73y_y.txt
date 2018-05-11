@@ -1,0 +1,17 @@
+#v_andrew73y_y
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	TWLF1_KPgksb_ekgclXDMaYj0i-L-x8zKmBXvuT-LG0SKnU12R31nQpm53o6_wJyC5t154gB_JI8_DZO5CHyec4t9Vtn7t-yiHgaG0l5LeU1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	whfp5uqh4rbvb4oxgtzhfodj
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	64_2M76_Gb724WCeJIE8YeEJ2qiGKtad_X_1iKfPY9ZAffdN-OPdrf47KNIiIcPYfXrm-W28sxRMlegyzGrvXDdZ6KnsdDksKNUqWw6-hBaBfvOLyIVMIIphEe1WBy4hA2N7nDTsjovj3BgzHI08a0CbaSoHrdrH8ROkXqPaHMRJf9fQdbBeFRXjNs8IuX0PiRh3at_cbPb3ih3dRlJwJIpi9ij1MFgk6b3l79sUGnPzXv0iveie7a-XIvsaCsSO0pUAVdaJ-pSDjXs46qjaMBnoKHYObgYtu9h0GMtg096Hdn75N0TSbEs09b7lJYFSG6Fnkr5EFruJsPe2IpiZ79GxiwCcFGGUW5A4g9z3yCk1sZKcMJyO1f642ViQnXm3gY18Tqh8Bd4oViaLMNKO0PTtgmaGD3wU0C5EOfXKdSGZD9b-uZRwgZDdbyqRyS6HkTBs3OFkPWuVYtEpSh4nN3V0XPcLthpqPwdl2t1ItuZ3K77PGKgjsNYfwmokm05E
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1217935546.1524837940
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524837941111%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%224493789806322443%22%2C%22sessionId%22%3A%221125012482813219%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	tHXWK|1524837945767|1524837974723.425

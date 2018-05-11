@@ -1,0 +1,13 @@
+#s_jake855_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q8Yb%2Fb3AEFVyxNZOjfkxaI3UwOlAcZFImp5C0kIardE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:25:41+00:00	unique_id	fa07e05ca32ea663
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:25:41+00:00	_twitch_session_id	b730f47e195e1356af835a2c1b2f37c4
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:25:53+00:00	persistent	216135281%3A%3A0b2m5zq30qmicdavn3fgeoje175cse
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:25:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzUyODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3MTU0LCJpYXQiOjE1MjQ0MzIzNTR9.iEBqiSLc406bSxE4o0pT4KGQRG23Wqh0jJ3UWnxOu4eeLtPPLtBwWrB4N5aGu9V3p5cMzQHTfyQRDLKh_-anQw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:25:53+00:00	login	s_jake855_3
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:25:53+00:00	name	s_jake855_3
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:25:53+00:00	last_login	2018-04-22T21:25:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:25:53+00:00	api_token	533d919af9c28a122dc96413e7092019
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:25:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfamFrZTg1NV8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NDM1NCwiaWF0IjoxNTI0NDMyMzU0LCJub25jZSI6IngxV2k0S3NqRE9jbk5LRGthMks0b0t3Q2w5eDJNdktpUHFXakwyYV80dzA9In0%3D.KQANE9mRNiI029O9rtlgJ_zvNqhVN9w3tZlWZumom-R5PZVg08ayEMfzoZpKS-SYXApoXHvRJrDNU0aqmLOuew%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:27:07+00:00	twilight-user	{%22authToken%22:%22nhpzmzymyoooq0f0b5mf8hjwkhdr34%22%2C%22displayName%22:%22s_jake855_3%22%2C%22id%22:%22216135281%22%2C%22login%22:%22s_jake855_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:27:07+00:00	auth-token	nhpzmzymyoooq0f0b5mf8hjwkhdr34

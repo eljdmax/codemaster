@@ -1,0 +1,12 @@
+#m_chase45h_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jMCcjJ5arISCdXW9hxXvKN1iIsDJpEu2daFXBzDe6Ic%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:08:33+00:00	unique_id	c6d62a781c693d4b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:09:03+00:00	persistent	216491341%3A%3Al0si6u1bsacoojbickrql0lfvgnuwc
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:09:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTEzNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMTQ0LCJpYXQiOjE1MjQ1NzUzNDR9.w9RyOLo32Y49z84skYspuAu-fOtuewLnjZeheFEyyp6-LoL4DOXu0IrJex-W68JNhB9lGfI5fE57TAWrjv31wQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:09:03+00:00	login	m_chase45h_9
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:09:03+00:00	name	m_chase45h_9
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:09:03+00:00	last_login	2018-04-24T13:09:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:09:03+00:00	api_token	63b351aacadd633d84efe4d7202f84d9
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:09:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fY2hhc2U0NWhfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjczNDQsImlhdCI6MTUyNDU3NTM0NCwibm9uY2UiOiJnTTdKRWtCSjliVnFEcWsyTlJ3UTRLdmFIM0JUOW9HaDBJdkx5RVJxaWRvPSJ9.Z57BvIUFWi7X2wc5YtU7zmzEcHtapj-_EL1Ifb0Wh0VIEYYB5IprsSN9kd_X2chHyuH8_icy5BquqDYc-oB2IQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:10:25+00:00	twilight-user	{%22authToken%22:%22cd88l6jr96j9eqcyufvcj63t6we0hm%22%2C%22displayName%22:%22m_chase45h_9%22%2C%22id%22:%22216491341%22%2C%22login%22:%22m_chase45h_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:10:25+00:00	auth-token	cd88l6jr96j9eqcyufvcj63t6we0hm

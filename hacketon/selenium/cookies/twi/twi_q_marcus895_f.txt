@@ -1,0 +1,14 @@
+#q_marcus895_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BYQ2ah8EEeoDrl4ieHhyZ591Ho19imurBOefd5dhFOQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ef8a7c28e09e2c42
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cc2a2f7ea03344f1ff3d0d6474200d93
+.twitch.tv	TRUE	/	FALSE	0	persistent	218953240%3A%3Ad51qns7hkeuf1zxq0mjavjb3yxkyue
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTMyNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc2MzUsImlhdCI6MTUyNTY0NDAzNX0=.kvAwm4R8LpYTlHxe8ygw1TUQ0atynmzxV99PPwNlx_lzP_OnmkjPTX4a558JWbIGE9V0a5X3-yzHWkjjUm5qCw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTMyNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4ODM1LCJpYXQiOjE1MjU2NDQwMzV9.tfjUJRQUwc1BXJl5CvzaX31E2M6haSSgB-LPEYemnyl18Xt2BGoriXElMRTxzFmOa9rEJWQwMAJJcPm7v8Yjqw==
+.twitch.tv	TRUE	/	FALSE	0	login	q_marcus895_f
+.twitch.tv	TRUE	/	FALSE	0	name	q_marcus895_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:00:35Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	004c756c926fd75f5fcaccdd028a2ba5
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFyY3VzODk1X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk2MDM1LCJpYXQiOjE1MjU2NDQwMzUsIm5vbmNlIjoiOEtlbG5HOW9fSmpQODNjOFRhVkljc2dnUVBYbWpaejRNRlM4NGo0SGRLdz0ifQ%3D%3D.BQqhff3e3_Zk19l5bH-v6Wc8QSHHbgk610jnJm_PgCFAA7rWhBBE0rkNPB938j_28Ww5zRGK2N8KMPdRGCkyLA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228v1pp2fg3353njb1msvm68ul5zfnwc%22%2C%22displayName%22:%22q_marcus895_f%22%2C%22id%22:%22218953240%22%2C%22login%22:%22q_marcus895_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8v1pp2fg3353njb1msvm68ul5zfnwc

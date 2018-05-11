@@ -1,0 +1,13 @@
+#f_kyleeh40_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QnVffDDununqPss9AZgtzvQ4MKDqR9aEM%2FgHKeuTqf8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:52:39+00:00	unique_id	21606f049042576a
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:52:39+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:52:51+00:00	persistent	215239595%3A%3Auurotqn11rkrrhsqcfvd1mt33oau2o
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:52:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzk1OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4NzcyLCJpYXQiOjE1MjQwNzM5NzJ9.KdlgOI_9Xov8VwuThDdzuFPdpahX1HEy1C6syuotEMMa7yM4Gwkeyyw7vvwKP7Ap-wXPD3TcE_jd1Zgg9c-ALQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:52:51+00:00	login	f_kyleeh40_r
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:52:51+00:00	name	f_kyleeh40_r
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:52:51+00:00	last_login	2018-04-18T17:52:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:52:51+00:00	api_token	aaa9a54fd235c5477ce5790780bb9b42
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:52:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfa3lsZWVoNDBfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjU5NzIsImlhdCI6MTUyNDA3Mzk3Miwibm9uY2UiOiJaeUhYOUdDd29jTlc4cFU5X3l3SUdUUnc2VkxBdmlOR3lyRHVfNlVFRE9JPSJ9.LQP1lV8JZ9wtXePjmmqeKDRIjEcd2xC830gk9sHyVq2sL9Qd6V3Jup68Dwt0mPNdpaEUtsL3eXzMv1GDSjUKrw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:53:45+00:00	twilight-user	{%22authToken%22:%225fhhjbbt3vmwwt9mlphkp4la1n5cxf%22%2C%22displayName%22:%22f_kyleeh40_r%22%2C%22id%22:%22215239595%22%2C%22login%22:%22f_kyleeh40_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:53:45+00:00	auth-token	5fhhjbbt3vmwwt9mlphkp4la1n5cxf

@@ -1,0 +1,14 @@
+#m_josee3f_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fxfID8jHOnJaskuVFZhZkMBIN9lHUy3YBGB6VQn%2BwC4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	0a8fac1b70fa9f63
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	64b81e6d001218ab5f163315e024f36b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217263491%3A%3Az00vvrlhhc35y3ol0ajvcrlr9h0sir
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjM0OTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzEwMTMsImlhdCI6MTUyNDkyNzQxM30=.wN7E02UPwxSqtsv2Wu0Ay-YIpIOJly0sFSgLUwMrDhPmABEaCkgTHgL_DCJhLtKkiUKGyPPgu89kdvBJUvD2Hg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjM0OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMyMjEzLCJpYXQiOjE1MjQ5Mjc0MTN9.xqiZpo91-rdj0Hp54J-xFi-a93myFdjVJFpBbHBIjT-GNAylMLgWL48oF1NHrYymJZLI9o7S0IhpejgJirm0mg==
+.twitch.tv	TRUE	/	FALSE	0	login	m_josee3f_h
+.twitch.tv	TRUE	/	FALSE	0	name	m_josee3f_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:56:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7972eab48573d47a91c9882a8c650be5
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fam9zZWUzZl9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3OTQxMywiaWF0IjoxNTI0OTI3NDEzLCJub25jZSI6ImZnbFZTUlAwOXBLLUJkUUFfRE9kRENIcHdicFNmQ3RHQmU0R1BWdVVfQWs9In0%3D.W7MaRK603NWasInHkh75gQ25154QJ5OEApuda1qPIYUn4OdONJH8_1zWdjX-09hwPAcaldUTUdkl7YzACkGsVw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222z3jpi7sgu0ulrunjuela5w2nmr3r5%22%2C%22displayName%22:%22m_josee3f_h%22%2C%22id%22:%22217263491%22%2C%22login%22:%22m_josee3f_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2z3jpi7sgu0ulrunjuela5w2nmr3r5

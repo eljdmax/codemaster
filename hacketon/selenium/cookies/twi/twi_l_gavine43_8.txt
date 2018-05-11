@@ -1,0 +1,14 @@
+#l_gavine43_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BKYOro3FUVJWiqcKdWXNPbbm9V%2BK1U72uN3Eplqb8Gg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	63ba783273e954b3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	af2f65343db791c170353fa5d303ffb1
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031639%3A%3Axcvo7lz5udkl6m553m0t3s6x6ub33m
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE2MzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTE2MzIsImlhdCI6MTUyNTY4ODAzMn0=.zy1yV2sk8rDWStbIasOmYbfYhruiEvzOMX2mMpC4ZxWI6-49dmP8159xXLUJ16xlbmkd0PUYNPVhBaUM8IVE0g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE2MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyODMyLCJpYXQiOjE1MjU2ODgwMzJ9.mW33fA1rgIZNyKjW8rg4dI6QxOv4pOulEA2bDXZUMCzioTeGE484nL9HcWWLIVBt_9NBkr5l9ei7jdyTi-rO_w==
+.twitch.tv	TRUE	/	FALSE	0	login	l_gavine43_8
+.twitch.tv	TRUE	/	FALSE	0	name	l_gavine43_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:13:52Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d2033b2624f17a54d1e1232acaff66e2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfZ2F2aW5lNDNfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyNDAwMzIsImlhdCI6MTUyNTY4ODAzMiwibm9uY2UiOiJfYXhnRFUtVEpoV0ZsczNqYy1YR0NYOXJMUjNlMWtzd0FzT0ozRlhESk1ZPSJ9.wBeEvqEVZR7ncUDdHKmqhE74agI2hReeHGLw4qhBn_KYng2CqpjVUTdJiBdgQyonPCvap_0pSbyfk6aLMwX0Zw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pym2srta2paf67d031d1xz8ftmdb5b%22%2C%22displayName%22:%22l_gavine43_8%22%2C%22id%22:%22219031639%22%2C%22login%22:%22l_gavine43_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pym2srta2paf67d031d1xz8ftmdb5b

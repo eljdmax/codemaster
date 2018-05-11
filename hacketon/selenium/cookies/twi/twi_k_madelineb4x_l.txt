@@ -1,0 +1,14 @@
+#k_madelineb4x_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ge5mOef0t2wtthI4%2ByjQ8b5rmxV0AJXVr01YLK4j7VQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	186f834b33281c82
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	de881787d8c0ca342d740d24221dd7ff
+.twitch.tv	TRUE	/	FALSE	0	persistent	218938406%3A%3Atwbejg1o9g3c89vsbqhfiw0npc7iip
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg0MDYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI2ODgsImlhdCI6MTUyNTYzOTA4OH0=.FghyKxVQ8vdQ7JYrazuoB6xdE4cEXZkKaZW8DwD7MoBFH8AYloQs2IUu-FqN-EDZ0cBi4HOM3K6jx8PT4fpXKg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg0MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzODg4LCJpYXQiOjE1MjU2MzkwODh9.KhWdkjHYzZ_gv9E69JZvf5MSLCUEf91Zdbh5CG5MlONp5nS5KyiDlYMixXPqu8xr6yElZeYFjxTegnKSNMPdJw==
+.twitch.tv	TRUE	/	FALSE	0	login	k_madelineb4x_l
+.twitch.tv	TRUE	/	FALSE	0	name	k_madelineb4x_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:38:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b1d8717c0435ddd5bdc7fb89647e2aac
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfbWFkZWxpbmViNHhfbCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTEwODgsImlhdCI6MTUyNTYzOTA4OCwibm9uY2UiOiJZWWl2N3VuOXRKbTI3S05sRTFtME5pT1NUZlo3aDFVck5MVGZwUllKMWM0PSJ9.pKWr0y-uURvxV5uXz7PmKUcONoXWAsMlTjGP7q0bEo5-6y5_acdRFS58ArY8qAbfJC5WG5bRrp8IGIbqJTLg6w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2298b3ao8dsm0pkvt4p8ic7bcr622d3p%22%2C%22displayName%22:%22k_madelineb4x_l%22%2C%22id%22:%22218938406%22%2C%22login%22:%22k_madelineb4x_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	98b3ao8dsm0pkvt4p8ic7bcr622d3p

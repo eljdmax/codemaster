@@ -1,0 +1,14 @@
+#e_karenx2k_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dDSCOQ5jbiYs2WhY9PRi7k3WNg5oeHcTMKSaeMqoDzs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ea581ef217e9cf0c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c139965e588e46186ee8a35c2673ba36
+.twitch.tv	TRUE	/	FALSE	0	persistent	218936798%3A%3Aj5i7sberyydy3no2ynon9skfexne3x
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzY3OTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDIxODMsImlhdCI6MTUyNTYzODU4M30=.zU-X4uCHpa9yINBaozx1a_SrYXmGHK8fFSFovJCGGXDXV_V6ivNCLr_ludKTEu1sMGbEs9_MlNlXxObYshPcnA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzY3OTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzMzgzLCJpYXQiOjE1MjU2Mzg1ODN9.ITqp5EAxm8fJ8RxAqrc5XkO-zX-_qfFGUmGVAX88ISq2fAWMawU-5J7nzEElAmevborBhLZSc-C7peiSqjaLZQ==
+.twitch.tv	TRUE	/	FALSE	0	login	e_karenx2k_w
+.twitch.tv	TRUE	/	FALSE	0	name	e_karenx2k_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:29:43Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8a7705b20b465ae4b1c1f9b2e805cdb4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfa2FyZW54MmtfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTA1ODMsImlhdCI6MTUyNTYzODU4Mywibm9uY2UiOiJxSHZmY0l0SUtYWk5ZYlVDdUVXZG5NSkdiOWdrMTROYVpMVldTWjVhQ29nPSJ9.vpOq6SIKn5xv1B9zlPBUjgFx226oercgCvXDepjntxy3nN_WYtj7nZjPI2znoQBWKVuIpGhxEa58Y8-a2gh3Ew%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pzsmoysj5y6r9g7pbdchs4n2nmxdli%22%2C%22displayName%22:%22e_karenx2k_w%22%2C%22id%22:%22218936798%22%2C%22login%22:%22e_karenx2k_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pzsmoysj5y6r9g7pbdchs4n2nmxdli

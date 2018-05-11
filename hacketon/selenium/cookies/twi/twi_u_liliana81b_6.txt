@@ -1,0 +1,14 @@
+#u_liliana81b_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	JVi91smm%2BWV6LQZixjefFiqO318FarWsVHMPFG72gSc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	82fb7eeac4474185
+.twitch.tv	TRUE	/	FALSE	0	persistent	217222543%3A%3A4zw29n7xfzuuez580j9u9n9vbxj04a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjI1NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTY0NDcsImlhdCI6MTUyNDkxMjg0N30=.PHXOtCo9og7l30kwdPPA7qa6_ZkBe5gPAt6tNc_y5Bq7enZuc3lMXgWGtO4-HiflYs0PRVvTG9J8_2r7SaZLTw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjI1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE3NjQ3LCJpYXQiOjE1MjQ5MTI4NDd9.JDitaXg0gKHSUQJ4vC_ZJNTItMm4SK-446I3ftKtgV_8omd_-WphlwetyHRLxbXfKLNLfMC_HXRcLJCjPONEUg==
+.twitch.tv	TRUE	/	FALSE	0	login	u_liliana81b_6
+.twitch.tv	TRUE	/	FALSE	0	name	u_liliana81b_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T10:54:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3833da9119673cf5c2274d3869a6169d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbGlsaWFuYTgxYl82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ2NDg0NywiaWF0IjoxNTI0OTEyODQ3LCJub25jZSI6InZDb29heHNEeXpIbHlfVGNyU2p0aGZuMmFGYThSaDJTOVpKYW5xekM2Sm89In0%3D.JCOjEl9_xNFUcO2_6b-pUY2X7SfuO2MCbFcut6bQSpkAP94setzL94eV5xubq3uRtaJPWZdJhZr2S1GbZv1_dg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	jAfpML7a5NZtcQMHID71fh446FLcyyB8
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mnwmmhxz9n5luemhgidaca09i6j2ga%22%2C%22displayName%22:%22u_liliana81b_6%22%2C%22id%22:%22217222543%22%2C%22login%22:%22u_liliana81b_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mnwmmhxz9n5luemhgidaca09i6j2ga

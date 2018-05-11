@@ -1,0 +1,13 @@
+#m_lillianv33_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	PvVpdjpLv%2F%2BTBIhbkiPPe%2Fk5kQAQ8TjcPiLkaOEo8u0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fb0e273573430191
+.twitch.tv	TRUE	/	FALSE	0	persistent	218939365%3A%3A440fz8ligq6qszo7mhhyqwunm9lzgy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzkzNjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMwMDYsImlhdCI6MTUyNTYzOTQwNn0=.6xbzMI4ec2YH81JEDgrVCRtFbmcxsDG_rCcrj9qPbCe2fz29B94skTMXmLLG1lnjeVPY8fuasAobVk_wSVNDEg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzkzNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0MjA2LCJpYXQiOjE1MjU2Mzk0MDZ9.qciVzmHRMgErxITQ9S77kQ4giLKPDHl0XGXyF0q-UXmJ7igoE7ZoqNHXWXW3Wfzy9JIgpUvHyNzzaTB5m_7aZA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_lillianv33_x
+.twitch.tv	TRUE	/	FALSE	0	name	m_lillianv33_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:43:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9bdb1f32ccb06a745c6efa91c7915f0e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fbGlsbGlhbnYzM194IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MTQwNiwiaWF0IjoxNTI1NjM5NDA2LCJub25jZSI6Ikd6aDZWSF9fZUJsbnFDZGZsd2JjNzhqNUMzVnFPUFlkTXJUaEdGS1BiQkk9In0%3D.6_wF3gZeJ1iqdpcq_SZlPYIFUJDDNEnV0ipCzbQngh70cwXisIL4M3QJ3bx3_VdpOevdspZtb8FhKYcHyctljA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224xl0msrobch12yx2qe5xcqy1xvd0yr%22%2C%22displayName%22:%22m_lillianv33_x%22%2C%22id%22:%22218939365%22%2C%22login%22:%22m_lillianv33_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4xl0msrobch12yx2qe5xcqy1xvd0yr

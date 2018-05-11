@@ -1,0 +1,13 @@
+#o_olivia851_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ts77D%2BEtCLJos6Kx9lONEbWiMZncbZWRChKFlF%2FA%2FlE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:05:46+00:00	unique_id	f25298b621c76cc7
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:05:46+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:06:07+00:00	persistent	215242097%3A%3A0u63lzyd3i91sx7xw5xg8753f6ld1i
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:06:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDIwOTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5NTY4LCJpYXQiOjE1MjQwNzQ3Njh9.BaoBzLkO88PJqPdW9NkkVrA_BEWgM7j-z94eMQa0CsVnKrStPDgWrxIYxCVtfd5f4bph5-gGdXhr1iJn2U-Zgw==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:06:07+00:00	login	o_olivia851_7
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:06:07+00:00	name	o_olivia851_7
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:06:07+00:00	last_login	2018-04-18T18:06:08Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:06:07+00:00	api_token	c822765068511f3347a6f3c5b9a5e6ee
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:06:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fb2xpdmlhODUxXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI2NzY4LCJpYXQiOjE1MjQwNzQ3NjgsIm5vbmNlIjoic0NOaEhPdjJaa2RYZnZ5U0h0REE3RjBScjRZS1NpNmZxczFrMWIwT19TRT0ifQ%3D%3D.WftDKHz66uGNS_dkbd3kmgnf_Dn6QXD51bUz1FeSo3MteeU6IbEYD9xIIH5FBtaq6xKYgWb3nPw4EWyf13PAuw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:06:59+00:00	twilight-user	{%22authToken%22:%22wusduto8fnqg79gm98at63g9ryrmme%22%2C%22displayName%22:%22o_olivia851_7%22%2C%22id%22:%22215242097%22%2C%22login%22:%22o_olivia851_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:06:59+00:00	auth-token	wusduto8fnqg79gm98at63g9ryrmme

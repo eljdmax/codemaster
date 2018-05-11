@@ -1,0 +1,14 @@
+#v_adrian25o_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4yrTrapx5L5jhU65Jp8vN6UZnovH74kyap4wDX6jb0U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	dc8b501a0cd1e7c7
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	23ff8654245d79ab95bdf5c74290c1de
+.twitch.tv	TRUE	/	FALSE	0	persistent	218951902%3A%3Aolcg23uwr95u45vr622e30hte9rxeg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTE5MDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDcxNDQsImlhdCI6MTUyNTY0MzU0NH0=.xXNKJpHE-p26kL2_Rf0Ueq5u_pT6UeAAmu-7_posEo5XyUoyyYRa9chU5w5llwJqwxpxUNVsosqUybd00F9icA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTE5MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4MzQ0LCJpYXQiOjE1MjU2NDM1NDR9.E5gpcaRsX2C1QqBFgbM81567DZotvLBtiW01gssbEAyzBTmaCgadeoLqlxWpCbG4xRvjjQ7RRjmP-F_b9HxJHQ==
+.twitch.tv	TRUE	/	FALSE	0	login	v_adrian25o_k
+.twitch.tv	TRUE	/	FALSE	0	name	v_adrian25o_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:52:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ee6960c2a009b57ed878a2994b82b197
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYWRyaWFuMjVvX2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk1NTQ0LCJpYXQiOjE1MjU2NDM1NDQsIm5vbmNlIjoiWEN2enpYWXJSUzRRYlpSVlJHQ2xDWWVFSkZhUjd5V01YU2tBbjEzaUluYz0ifQ%3D%3D.i-2LvX_MiR0eshv909g6UR2O-lTA0lSgv05jYH8pSoYqHDWVH64X38sJQToLHC01sjPa0zw_t9IUNvYuqL4a7A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ewnh1rxguiefv63reixzeogdre1s8v%22%2C%22displayName%22:%22v_adrian25o_k%22%2C%22id%22:%22218951902%22%2C%22login%22:%22v_adrian25o_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ewnh1rxguiefv63reixzeogdre1s8v

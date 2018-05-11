@@ -1,0 +1,14 @@
+#w_joseph72l_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	H8jtl4EjgglWyzJq%2BNeHrpJo355Qzvoevyw0HF%2BfYoA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b59943b45f139fc3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	903452c36aafcf9c56b9ae841162bc68
+.twitch.tv	TRUE	/	FALSE	0	persistent	217458766%3A%3Ah428ntaaj9ana8lxedfi3qptoq7o66
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTg3NjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDQzMjIsImlhdCI6MTUyNTAwMDcyMn0=.3GNrJWsiC9UoKOJnOWDslhyxO1rNlTEDd2b-usawW663-FscrSxioSI2jH02CC28sK0CBd-FewuqHQPYfRncxw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTg3NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA1NTIyLCJpYXQiOjE1MjUwMDA3MjJ9.hDw6KJ9Vym47_KtjZfLZsl7zx5TzcWMhWQAWeBW8DtDG0YME6FDzTSSdz38gm1PyZWeFgeMmjuBk2ouRWoPvcg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_joseph72l_m
+.twitch.tv	TRUE	/	FALSE	0	name	w_joseph72l_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:18:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	893df23483915e926461877721b099d7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfam9zZXBoNzJsX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTUyNzIyLCJpYXQiOjE1MjUwMDA3MjIsIm5vbmNlIjoiRHhGN1FmZWFiSVFzZktaUEdfczRWa1BKMkhIUHVSdXFZTUViUTFHYVEzcz0ifQ%3D%3D.1O4-4bAfz4DArrUMyeSjsqQRZha9JQU3aAoLPGouEduLmH0NPqfNjjm172fUeohjTk6iVaacrw1VDvg_lV7aQw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f0ypat48md43nuqdc08zlzw120royg%22%2C%22displayName%22:%22w_joseph72l_m%22%2C%22id%22:%22217458766%22%2C%22login%22:%22w_joseph72l_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f0ypat48md43nuqdc08zlzw120royg

@@ -1,0 +1,14 @@
+#t_trenton30h_9
+.twitch.tv	TRUE	/	FALSE	0	unique_id	663933add93bfa10
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sOcrP1g3U5m4JhGdPjnQvMdgNVuAwaukPfhAq6d%2Fi38%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	59b2f3bccaae50ff33af848deb8a21b7
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031240%3A%3Aikk0ojt1erebj76avgfks2q4awu5xa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEyNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTEyNjAsImlhdCI6MTUyNTY4NzY2MH0=.1sDmmgKgQxM-bh5mUMvttVKdHbPX49VLjLbSsDK63qHCmDqElhxhCXRz6qHCWQvDLZx1NQU7ViNo__2TAi3X1Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEyNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyNDYwLCJpYXQiOjE1MjU2ODc2NjB9.YjDep2tgbQRGE2XHzTjJTT3a4rFORYGfKq0VeXgmR3PDxP5muSqdH-PwsowKJikdShFz5DJfa9AHM_UFgZwJvQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_trenton30h_9
+.twitch.tv	TRUE	/	FALSE	0	name	t_trenton30h_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:07:40Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6af61993810db3638bc73e4a359c26b8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfdHJlbnRvbjMwaF85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTIzOTY2MCwiaWF0IjoxNTI1Njg3NjYwLCJub25jZSI6IlBoS3gyQXV1WVVjRTJZUnV1ZVBvQ1J1VEY0Y3BnRVllTG0zYnpkSHJXU0U9In0%3D.YLHK1ZuvCO0VYJ64MrW74u42qNS7RJUs5TJSKUE31eG0I7BlDfIoUhJFIGsScI7KxpuEWMYLzZkY4KuEqEvz1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227ny9qfhnv44wceyhvkhpvwxzvahl7d%22%2C%22displayName%22:%22t_trenton30h_9%22%2C%22id%22:%22219031240%22%2C%22login%22:%22t_trenton30h_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7ny9qfhnv44wceyhvkhpvwxzvahl7d

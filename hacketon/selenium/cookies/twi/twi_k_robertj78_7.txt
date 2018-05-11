@@ -1,0 +1,14 @@
+#k_robertj78_7
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ5MTM4NTQsIm52IjowLCJ1cHQiOjE1MjQ5MTM4NDcsImx0IjoxNTI0OTEzODQ3fV0.
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	v%2FSJI5ZP7BOBvrIoOTy0Gkp1pNyx6PmDGd9ULEV%2FHWQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1e5a98af01073104
+.twitch.tv	TRUE	/	FALSE	0	persistent	217224990%3A%3Aeav5n2a83nnuzugfbtbpdzjkgfq8xd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQ5OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTc2ODUsImlhdCI6MTUyNDkxNDA4NX0=.3JcCnAO-3oHUDlSq8OC4fgAkj-dbtGEdP54VNVI7KnVUpIqShnbdKO1LM2yg1XXyObqWONisBWYAO2x4xkgf2g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQ5OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE4ODg1LCJpYXQiOjE1MjQ5MTQwODV9.yNLZz6IBl4o0cvcZzDUwQvAu5YU41Y8uE5NF51H5FCOQT1_PlAghg_gDxqQk6r7TtsTROidoQQE_7WfHIsSgJw==
+.twitch.tv	TRUE	/	FALSE	0	login	k_robertj78_7
+.twitch.tv	TRUE	/	FALSE	0	name	k_robertj78_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:14:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a6cf5442a98e50fb13a282eca0c87ffa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfcm9iZXJ0ajc4XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY2MDg1LCJpYXQiOjE1MjQ5MTQwODUsIm5vbmNlIjoiZHdPdXVBYlBWTGVVZUlwQ3V1YzJUQkc5dy1PN1drNWJ1SUM4QjNOVlZzMD0ifQ%3D%3D.eWshLCtZVI6aVjwkmDqvm3hC5D9EOCqRa-4fVt4zk33j-8-JGCDOOkF8JAtWmlDw0yjTQl9IbiEbQjloAkFZyw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sgevwn0rszz94aivsdsman9e2vaovj%22%2C%22displayName%22:%22k_robertj78_7%22%2C%22id%22:%22217224990%22%2C%22login%22:%22k_robertj78_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sgevwn0rszz94aivsdsman9e2vaovj

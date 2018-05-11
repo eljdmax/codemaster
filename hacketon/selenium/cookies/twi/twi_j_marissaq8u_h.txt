@@ -1,0 +1,13 @@
+#j_marissaq8u_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	8IIFhmLR4tMDdcAIjEi1XWGgA588dQwFOOrttoKuLxI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	bbf5b4eb675113d3
+.twitch.tv	TRUE	/	FALSE	0	persistent	218888809%3A%3Acr2roj0klniprmmr1ko9xztjub4cgr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg4MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjkyNDksImlhdCI6MTUyNTYyNTY0OX0=.BgNeUTYM4U473JKcNrTevebOgwaesR5ZWPDpDW9MF71ejpNKG4u9mtKWysB8rTPTHhdfr7RGgLLogb2kPLzLiw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg4MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwNDQ5LCJpYXQiOjE1MjU2MjU2NDl9.J4HiIoy72N-CKYf29GIBZRpQmR-qvZCQRgkPytgY_TKe2OyNuR1nR85IBlFGLxZrI-nQljcSlYJTRNKhJyIU_w==
+.twitch.tv	TRUE	/	FALSE	0	login	j_marissaq8u_h
+.twitch.tv	TRUE	/	FALSE	0	name	j_marissaq8u_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:54:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	abdcebb5636a22629c48ad87f7e90a3c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbWFyaXNzYXE4dV9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NzY0OSwiaWF0IjoxNTI1NjI1NjQ5LCJub25jZSI6IldjdnB6MkVCUnN5VmNwMlVfMWxWSGVybUc2VFpDX3B3UGxtSzNVU0NjeW89In0%3D.xao8jhkzV913pN1FI4HhK4TA8T2MwyC8UwS_-isy39sCkNBb2OAZxzOM7VqchXwLwHx3Ugysz3nJLBJmlMvmuw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22onkslvrbwr3pug198dvp0kdnhz6a3g%22%2C%22displayName%22:%22j_marissaq8u_h%22%2C%22id%22:%22218888809%22%2C%22login%22:%22j_marissaq8u_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	onkslvrbwr3pug198dvp0kdnhz6a3g

@@ -1,0 +1,13 @@
+#u_jocelynq8s_i
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	npctUIOQpEWxbWFVtpSty9%2BGUlVNp7cCHumMX5ALhnA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:09:56+00:00	unique_id	0ee893788ef60ca1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:10:19+00:00	persistent	216479301%3A%3Awnps5ytiga5322azp2jg5686sxddlq
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:10:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzkzMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTczMDE5LCJpYXQiOjE1MjQ1NjgyMTl9.i4osyxR2ndFS0jbUgaH2eqE6CBppXlYUjF_cfvWIMACm4cMDGWBrEl1qOmIox_3XMGX8qbC6DF-2ILcduh_xTA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:10:19+00:00	login	u_jocelynq8s_i
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:10:19+00:00	name	u_jocelynq8s_i
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:10:19+00:00	last_login	2018-04-24T11:10:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:10:19+00:00	api_token	06731cafd65c472f798afbd1b922330e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:10:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfam9jZWx5bnE4c19pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMDIxOSwiaWF0IjoxNTI0NTY4MjE5LCJub25jZSI6IllCWXdDS255cU1mSFJneVRhd1MyWW9uN0dIUkliZlo1TXlkSUhZSEJaQVk9In0%3D.X3qyWqB-qO14KyQ-1kE3piwhyX644htaOGyma6Ak_8Wh8ezVWruB36NR2kkm4BJh82lTGgHSB_ionFazzcelzg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:11:38+00:00	twilight-user	{%22authToken%22:%22roujho0uvoimiy1v7pr83tcck4zkrd%22%2C%22displayName%22:%22u_jocelynq8s_i%22%2C%22id%22:%22216479301%22%2C%22login%22:%22u_jocelynq8s_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:11:38+00:00	auth-token	roujho0uvoimiy1v7pr83tcck4zkrd
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:11:41+00:00	twilight_onboarding	true

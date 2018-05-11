@@ -1,0 +1,12 @@
+#i_jeremiah62f_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4XQOpTLN6DX8gvnHbQSXD3iSCeH6cGQUS0URIxQIN%2Bg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:36:12+00:00	unique_id	1611e60f6fbda9b0
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:36:28+00:00	persistent	216137448%3A%3Ailn5uklpk976wzxhxn02xxdy51form
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:36:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzc0NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3Nzg4LCJpYXQiOjE1MjQ0MzI5ODh9.KGFcj0i-7HzvwQe9kMIP8QQbcX03FpcTHygnJf-b7jSYHy68By749q0DPC9ooja0M_z9odB7eyx2lEpU1io-Fw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:36:28+00:00	login	i_jeremiah62f_v
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:36:28+00:00	name	i_jeremiah62f_v
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:36:28+00:00	last_login	2018-04-22T21:36:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:36:28+00:00	api_token	d8544681ad28f2d71f042ea0205f6c9c
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:36:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfamVyZW1pYWg2MmZfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODQ5ODgsImlhdCI6MTUyNDQzMjk4OCwibm9uY2UiOiIxdDh6c2RkaG9MRFRhUVNjbE5ZamVobXpZaktzTjRzZC1qN1RaVkJ6eDRNPSJ9.wa_YosOORF5neUi93FQUFFVcdSq2XWw1ui0CxMSpJTraPV0kQISgZrggwn7ulWbRLAkx8I-c0_ikTd40m8pUvw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:37:40+00:00	twilight-user	{%22authToken%22:%22v85k9poliln37nenpkv5wlyvnw7lr2%22%2C%22displayName%22:%22i_jeremiah62f_v%22%2C%22id%22:%22216137448%22%2C%22login%22:%22i_jeremiah62f_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:37:40+00:00	auth-token	v85k9poliln37nenpkv5wlyvnw7lr2

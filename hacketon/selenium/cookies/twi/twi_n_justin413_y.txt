@@ -1,0 +1,14 @@
+#n_justin413_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WVzFbJ8c7OIqc2Gax5mo1d7EaQbH9DXTq0k9w6X0Mjo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:13:51+00:00	unique_id	13d0dabb2f02796d
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:13:51+00:00	_twitch_session_id	25a032b1a27f0d8fe4e28de2a188d509
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:13:51+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:14:14+00:00	persistent	215243724%3A%3Awt8yw601u2mbmx9nn4yvejdrbmhtw2
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:14:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDM3MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMDU1LCJpYXQiOjE1MjQwNzUyNTV9.1fPlBUE6st_4Xlq7Fx6oJsEv7YbCGNmDA4ZKwyAFmdQZ6wklmiiDd1wYFzHqRCV5Li9G4vVm13dMm9Io5QcKMA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:14:14+00:00	login	n_justin413_y
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:14:14+00:00	name	n_justin413_y
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:14:14+00:00	last_login	2018-04-18T18:14:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:14:14+00:00	api_token	a2d4743cf28898d268621d79d60c4464
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:14:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fanVzdGluNDEzX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI3MjU1LCJpYXQiOjE1MjQwNzUyNTUsIm5vbmNlIjoiUnBBaDhONnA0Z055YWMwSVZPbDg1WnQ2RDBzZHk3VHQ5WFk5MU5oQWFKQT0ifQ%3D%3D.gyFZfZJMfpugO1eaFs5zXCejxppPmOz8_XBtTbhvaVxBm2RsCRU4nK0rfsE8yyMdFj6K0ECJhXqBRVBtZk-f6Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:15:06+00:00	twilight-user	{%22authToken%22:%22ru6ng27730imwbmlkikme0whdyf2pu%22%2C%22displayName%22:%22n_justin413_y%22%2C%22id%22:%22215243724%22%2C%22login%22:%22n_justin413_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:15:06+00:00	auth-token	ru6ng27730imwbmlkikme0whdyf2pu

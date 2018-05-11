@@ -1,0 +1,12 @@
+#h_samanthab8w_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	YWWsktdwJybV%2FaKfFiWfF0%2F%2FnHmkn3rRbfgvGH4G6KU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:48:51+00:00	unique_id	ba7f71c41c8a7367
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:49:17+00:00	persistent	217079685%3A%3Abshn4yqepgf4o6iuwuzco5ca0hhmvs
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:49:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzk2ODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2MTU4LCJpYXQiOjE1MjQ4NTEzNTh9.buJV8dnmAtH-lSFru2PMtYyNiN8ftmI-iDA6M03FdQpqEzXt-dXorB17wegbtAEex-qsXV4DRe-ZL5WLFxdMXw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:49:17+00:00	login	h_samanthab8w_k
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:49:17+00:00	name	h_samanthab8w_k
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:49:17+00:00	last_login	2018-04-27T17:49:18Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:49:17+00:00	api_token	fbaf9c38f5a2a510c20ff929b0b28c3c
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:49:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfc2FtYW50aGFiOHdfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDMzNTgsImlhdCI6MTUyNDg1MTM1OCwibm9uY2UiOiI5N1A0dFpGd3U0N1p1YjlEc2dXenBEM0JZdHFmWGxBdFVzazkyeVdqYk5vPSJ9.CyfulsJvVMQLuwzg_1GSGspcq4a5wSUQCYJDQZx5IVBgP3PiBGsfPyATpTG8TI1I5IfUxwWNfp4zARr0w0WXHw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:50:52+00:00	twilight-user	{%22authToken%22:%22cgjizr564f1s6wematm5b80rpz2u83%22%2C%22displayName%22:%22h_samanthab8w_k%22%2C%22id%22:%22217079685%22%2C%22login%22:%22h_samanthab8w_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:50:52+00:00	auth-token	cgjizr564f1s6wematm5b80rpz2u83

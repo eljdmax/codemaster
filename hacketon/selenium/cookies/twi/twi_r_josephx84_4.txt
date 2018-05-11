@@ -1,0 +1,13 @@
+#r_josephx84_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3EZldHp%2FPMqSkCsCJfxJxPGONmDXpVxX2Dv3Ej%2B4izU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b58890db73957d2f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218888697%3A%3Alfkw9r8cwzbg1czfvyadrt4ixkfjfs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg2OTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjkyMTYsImlhdCI6MTUyNTYyNTYxNn0=.TtZ3BmzqbAFqenFCxGt8cYeBaonqe2NdR-F7hZ9UBr0qL7wpeMcyx46q3EKDAYxne2dllXRbXUMk-XlNLtNzDA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg2OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwNDE2LCJpYXQiOjE1MjU2MjU2MTZ9.gu7AQAPAJGPndbCU7OAFk6C5IxK1g8ZCaSsguCjcSte-O1C7wxY9KLgzoGlViHK5e1BobXPEjH2Zw6g1FU3j1g==
+.twitch.tv	TRUE	/	FALSE	0	login	r_josephx84_4
+.twitch.tv	TRUE	/	FALSE	0	name	r_josephx84_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:53:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	98fdcbb5c516006409bae5a9d93d0035
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfam9zZXBoeDg0XzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc3NjE2LCJpYXQiOjE1MjU2MjU2MTYsIm5vbmNlIjoiYk90aVhVTTdQcXRzbDlzd25lOUlTRndDZTRHd2doVUhkSDZqVmZRNXFqWT0ifQ%3D%3D.cYXy8Vd1jJbP9A-mYSwnxHXOzwGE0_4T8diGTWZxyva1rTBccW-oyXZRShZn_hIgilu_eIjTpYPtPJCnM-85eA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22my7ur79o0ofp1y3e62xdz0ukiuac9y%22%2C%22displayName%22:%22r_josephx84_4%22%2C%22id%22:%22218888697%22%2C%22login%22:%22r_josephx84_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	my7ur79o0ofp1y3e62xdz0ukiuac9y

@@ -1,0 +1,12 @@
+#y_davidr9p_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FCIJn8u0muf%2BcHo%2BOApsbS1D3RCewlugZnJrA1mPGxg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:39:07+00:00	unique_id	ae0e2b16f1853fc4
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:39:22+00:00	persistent	216936551%3A%3Ayehozyco5woldb3olsb21l1bnll5gu
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:39:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzY1NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5OTYyLCJpYXQiOjE1MjQ3NzUxNjJ9.x47eGAuzIORwIksWioxkAWqIxkTBsEiekZZdZMlowCtIvWSYRpK9bJk0AViqDuZObfQpwHKcp5MRW_zpUtEAQw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:39:22+00:00	login	y_davidr9p_b
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:39:22+00:00	name	y_davidr9p_b
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:39:22+00:00	last_login	2018-04-26T20:39:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:39:22+00:00	api_token	859a3d9a1ec24889fcb42a1bd40976aa
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:39:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZGF2aWRyOXBfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjcxNjIsImlhdCI6MTUyNDc3NTE2Miwibm9uY2UiOiJNclBuUkthNldxWFAyQXFDTTZ4V2hGWXBPa2FxVUFVU3EteVRPRGxYWFhNPSJ9.4Ecx2gMzXMy-Ijz_6YJIhK9b96Lc_TDjP_M7AykeF21RkXoPMakhg17UeSkdOJD63gfZigPm6ZBHL88aqiSNjQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:40:51+00:00	twilight-user	{%22authToken%22:%22vae84x5tmnf17qsnnb4h7mjyu67t0z%22%2C%22displayName%22:%22y_davidr9p_b%22%2C%22id%22:%22216936551%22%2C%22login%22:%22y_davidr9p_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:40:51+00:00	auth-token	vae84x5tmnf17qsnnb4h7mjyu67t0z

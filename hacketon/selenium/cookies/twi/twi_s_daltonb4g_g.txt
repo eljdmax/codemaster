@@ -1,0 +1,13 @@
+#s_daltonb4g_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	KVlmuQLOejgyb0GH1XnOilV8%2FmfoXSg%2B4pNTEinNHEI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	796b34ec6dba141a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217236532%3A%3Ay88acgj7mzg9x4z3zka54d9n22nllq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzY1MzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjI2MTAsImlhdCI6MTUyNDkxOTAxMH0=.RBBEWhbLTXYQzju50IDs31fpqNYuDo3koau6Gi3oZgQYzs03ybyhsSy5P8ETc4pqfLp5P2RlJlAAaCrURd7Pcg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzY1MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIzODEwLCJpYXQiOjE1MjQ5MTkwMTB9.1lAKsm2GAMGgFt8h2HqCdXMJs4gW0UDBfPoEsu2qF90Rk8B8yvEpaLAYxw41aueYk738YwZLVAi-FMPlYro9eg==
+.twitch.tv	TRUE	/	FALSE	0	login	s_daltonb4g_g
+.twitch.tv	TRUE	/	FALSE	0	name	s_daltonb4g_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:36:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6a6744ca775934b12d36244dcb29c1b2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfZGFsdG9uYjRnX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDcxMDEwLCJpYXQiOjE1MjQ5MTkwMTAsIm5vbmNlIjoiQV9ldlBmRHVveXRoLWs0YXl5ZVFKbGhzdV9nSGZHQllUUHQ1eW9adWUwcz0ifQ%3D%3D.huKB7MiAZZZ2DKz1p33m2AUkh38h0UWmmLN56LXMLprIDHA6txlMWPxKYhIL-FiyY-SMK9QsFwXgZd8Lcoz6KQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ng8culxuzwr4tbj86rigd3tf60y1ci%22%2C%22displayName%22:%22s_daltonb4g_g%22%2C%22id%22:%22217236532%22%2C%22login%22:%22s_daltonb4g_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ng8culxuzwr4tbj86rigd3tf60y1ci

@@ -1,0 +1,14 @@
+#j_lindseyj9h_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	oshf7Po9ZYwb4xCf5b62s8nxHEYa3rYT5J8lUMnIkAA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	629621454453dc8f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cd67bd8f75ad64cb795b1e41a4df8fd7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217459329%3A%3Aun3gdidq6kluuybfehpcuz2jjbd0z7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTkzMjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDQ2MDQsImlhdCI6MTUyNTAwMTAwNH0=.D8NhZxJ-Djuf4R62kLZ2gy9ij_9X51y6c5PH04PP0VpLCZltPFqeAaHVRRmwGDpz5YuqGDuVWpvfQrbSZPdF9w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTkzMjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA1ODA0LCJpYXQiOjE1MjUwMDEwMDR9.S-9sXEJn8On5_XBCjUsAMD2MV4Q8svv-OlRgoChb2eFUtJMyZv9emsKjZ9bqPPdvq8Ajw7EKLqgBucNgorzJcA==
+.twitch.tv	TRUE	/	FALSE	0	login	j_lindseyj9h_q
+.twitch.tv	TRUE	/	FALSE	0	name	j_lindseyj9h_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:23:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	116830bc791c90ae8568a210cf19831f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbGluZHNleWo5aF9xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1MzAwNCwiaWF0IjoxNTI1MDAxMDA0LCJub25jZSI6IlVBQWg4cktIeVpDdzQ5TGJlN3ViT3c3R01JWEU2YlUxc1RfY3h2QzJvZkE9In0%3D.cLo-egulbIuwsKVtnNfNVv95GFtfxqLW2bsxfvn6ov4vY6MijIb7F3l8O7NzQBTmn94sw0VLEWoAuKUT79UsTA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22agh8lmnultss3w05ivpxymxguda40k%22%2C%22displayName%22:%22j_lindseyj9h_q%22%2C%22id%22:%22217459329%22%2C%22login%22:%22j_lindseyj9h_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	agh8lmnultss3w05ivpxymxguda40k

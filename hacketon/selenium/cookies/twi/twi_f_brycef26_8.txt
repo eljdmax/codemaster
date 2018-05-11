@@ -1,0 +1,13 @@
+#f_brycef26_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	q7QpNY6qlQeltJTYNPyRgTTY97rf72Orovve3DOdwwQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:00:40+00:00	unique_id	5123404aa83e42d9
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:00:40+00:00	_twitch_session_id	66085e4d191c9f6e6598142d594e40ad
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:01:03+00:00	persistent	216490266%3A%3At2crtoifjkjvc8p4odnzjg31vwgr37
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:01:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTAyNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5NjY0LCJpYXQiOjE1MjQ1NzQ4NjR9.AVNw21mp7iR7GMI8H6Gou6bF_nRg7rnIXsIx1kFFrNyR1FL4QjaMAZXyv2V-xQ6QSt4t9uSPYgJUs8n7Jyl-BQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:01:03+00:00	login	f_bryce26_8
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:01:03+00:00	name	f_bryce26_8
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:01:03+00:00	last_login	2018-04-24T13:01:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:01:03+00:00	api_token	ab9e462ef7a1daf8023b0cd69dc0d2af
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:01:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfYnJ5Y2UyNl84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNjg2NCwiaWF0IjoxNTI0NTc0ODY0LCJub25jZSI6IjdKbUJGdU55Q1E3MHR6T1lTbFV1enBCM1dXcjJWOFFvZHAzRGJBNzA2UFE9In0%3D.5Ky1-glMERqJaJkjfDX-PDBSf1mvq9UTLO3W7qZGggpJpdd2TJ9GOFV7dPz39iLkX9u6NJ7s6jwDg_bG5CA1GQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:02:23+00:00	twilight-user	{%22authToken%22:%22nd2qv9xkanupq707b1o7bes4wygbns%22%2C%22displayName%22:%22f_bryce26_8%22%2C%22id%22:%22216490266%22%2C%22login%22:%22f_bryce26_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:02:23+00:00	auth-token	nd2qv9xkanupq707b1o7bes4wygbns

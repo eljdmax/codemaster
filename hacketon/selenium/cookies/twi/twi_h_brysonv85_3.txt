@@ -1,0 +1,14 @@
+#h_brysonv85_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Jo1yT74opr3rtWIIFdHyOaLQD%2BGc3SK2KxsWNuOQ%2Fv8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	64511b9b36e352bc
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	076345a9adcc3130feee09bfdecdd7ab
+.twitch.tv	TRUE	/	FALSE	0	persistent	217260538%3A%3A0s5cinswk1a9z3eqopvqgorst6tw05
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjA1MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzAxMDEsImlhdCI6MTUyNDkyNjUwMX0=.9yeSPMX9uFBt4HFtwjSIxbPh0UJjTOn5HM4hUJFuStxD98GHmIDLKplhvOzuVM5D8kIb4JdbxjyaqP3Flk8iTg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjA1MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMxMzAxLCJpYXQiOjE1MjQ5MjY1MDF9.RY-YncOq5ZcT9C5ul24bK2jP1YyCMCQZFmHBmXri01BNVytt2GLGGwmM6QrT2gTul-WkM7Nqfw52vYoMVa_mDA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_brysonv85_3
+.twitch.tv	TRUE	/	FALSE	0	name	h_brysonv85_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:41:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5fb682bb1b2db35cd875a58b99ab6fba
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYnJ5c29udjg1XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc4NTAxLCJpYXQiOjE1MjQ5MjY1MDEsIm5vbmNlIjoiZXNWb2I1NFFmZHdCMFBwOVphZHM1UnNzUVNBSm95cTM3X1pKVnZpT1lxWT0ifQ%3D%3D.dUzLdhU2vSeXTfDHtz3KkMPIN4p_mlrGn88FNg5EroyMOGpJg4WM3JvJSJLSqedqgNPQNSSp5jJoNmtfv28HPg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22uaoabf3yj9boospeivgnqovahowi3g%22%2C%22displayName%22:%22h_brysonv85_3%22%2C%22id%22:%22217260538%22%2C%22login%22:%22h_brysonv85_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	uaoabf3yj9boospeivgnqovahowi3g

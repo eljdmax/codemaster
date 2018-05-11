@@ -1,0 +1,14 @@
+#w_karen225_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FpgkYJMYi8pGnvVGMehbuo106b9%2Bt3L04tgKb%2F6hp4U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b206b95bd0af9026
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	aa9e203dc71d466070cd67d5d70cac6f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217895788%3A%3Aknbmqerx21ttdxs9bypyeadljsauy1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU3ODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk1MTEsImlhdCI6MTUyNTE3NTkxMX0=.-G8G_o0Z3Ac8XjzYLILf9Zy7YGoZNC8mocNee_UGjlkyx6L60YILifOtl_0hG29JyVcbnciEPux9ef9gpjuM9Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTU3ODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwNzExLCJpYXQiOjE1MjUxNzU5MTF9.Rk-k0-6woNzyM08DfcTRRRR8AZL0UKgl8KY9bKkjwNWOVettN6akcKhO2HL9xMO9u1GtiVTMAr0vNzF83otYVg==
+.twitch.tv	TRUE	/	FALSE	0	login	w_karen225_a
+.twitch.tv	TRUE	/	FALSE	0	name	w_karen225_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:58:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	06b2a4f981852b0bd17719e0b62e2f7d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2FyZW4yMjVfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mjc5MTEsImlhdCI6MTUyNTE3NTkxMSwibm9uY2UiOiJjcWFjVi1OLV9hd3dfSjJBbFJ2TmZYZFlGSTR6X0NJb3dYLUFySEhOVDZnPSJ9.2mc-nba-ohuPdc6P0Y1vd9Y3kmbAhJrUUSTYf1Adh37don5qEtIUqcab8hnZDH3eNXeyVWxREr9dHqpLLUVTMg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rda43503juqoqisvkyoao93l5vgmni%22%2C%22displayName%22:%22w_karen225_a%22%2C%22id%22:%22217895788%22%2C%22login%22:%22w_karen225_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rda43503juqoqisvkyoao93l5vgmni

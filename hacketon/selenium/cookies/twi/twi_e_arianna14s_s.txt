@@ -1,0 +1,18 @@
+#e_arianna14s_s
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ac0b8329fe97f1a2
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTYwOTcwOXxlMzBLfGUMDUxqCjJB152ZNK5dit3OEjNdcZwcj5tJ4uWSg4D_
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qgQily10nEJF4i9917Uz0FZnryZoZ%2FkfvOm%2B%2BUO7de8%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	858cdc5511018cd5900a4604ecf651a6
+.twitch.tv	TRUE	/	FALSE	0	persistent	218945552%3A%3Agsznbtkgtcg956v5wuyfnvkbeggay2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU1NTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ5NzMsImlhdCI6MTUyNTY0MTM3M30=.5CM2L2ZH-0KpDU4a08zgLi91hCO5gyl36CNh3KwPedcZ0ex75WaOuJ9AnbpuJQw7X2Xr8QveftI1vuH7wTbE_A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU1NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2MTczLCJpYXQiOjE1MjU2NDEzNzN9.GzwpKH3S4kGc3NFTipkTxLW50mQrdEFBxtRvK4kZAoySkM4XcChJvZ1u7-w8ZT4fbM4_BUacACTP663FR_0kNA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_arianna14s_s
+.twitch.tv	TRUE	/	FALSE	0	name	e_arianna14s_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:16:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a0f2a97189275e69c9565b52e1bd7996
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYXJpYW5uYTE0c19zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MzM3MywiaWF0IjoxNTI1NjQxMzczLCJub25jZSI6InN4bWU4VVlkOGdsb1FCX3oyUzZsYlJmYy1ZSnhOSWhlY0FySU55eGU2Q3c9In0%3D.RH4TsEKzau9LUIPj2JVlo0WLD__1-J__b_o9iFcIH0cgKNxWmjFZdKXLRFctsDGSmdTvdCLWe4J5NUN2ZsdqJg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229q3v9gvdnhxa9rzc1hunpsqbwxiubj%22%2C%22displayName%22:%22e_arianna14s_s%22%2C%22id%22:%22218945552%22%2C%22login%22:%22e_arianna14s_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9q3v9gvdnhxa9rzc1hunpsqbwxiubj

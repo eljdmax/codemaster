@@ -1,0 +1,13 @@
+#h_ericq76_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ezPQ%2FuoAFwERWABf83%2BzgRK4ftn7Erbt05UDIbJNuy8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:54:16+00:00	unique_id	a75980c1e2e50970
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:54:37+00:00	persistent	216140747%3A%3Anto90clpugi0i7i7l89nazw55l4gn7
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:54:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDA3NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4ODc4LCJpYXQiOjE1MjQ0MzQwNzh9.uBFf5T_o6YipPkPKUNYx_ybsXWAKHRbTP29wBVVDHxbMb9STU7xUKW3kSlEv0Prd1j1PlGC1kj55sQxjsQxMkA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:54:37+00:00	login	h_ericq76_t
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:54:37+00:00	name	h_ericq76_t
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:54:37+00:00	last_login	2018-04-22T21:54:38Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:54:37+00:00	api_token	d015dac28e3136f8dbfbbc451e07db6b
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:54:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZXJpY3E3Nl90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NjA3OCwiaWF0IjoxNTI0NDM0MDc4LCJub25jZSI6IkdiWHQybGg2RFh3M2t5VW5OUUIwVzdkcVdLWlFZRExjQ3ZhYTJ6QmtudVE9In0%3D.yW9wcV6y1J69i8ANrL9y3Gj4dImu7LsQ7rnH7523OX8NMW1o6MzpSXeBbuelBMHo2pjwz4GgZHc3jgQP-Ku8SA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:49+00:00	twilight-user	{%22authToken%22:%22f2byifgrq1zryw7jtoq9qk5g4dxssb%22%2C%22displayName%22:%22h_ericq76_t%22%2C%22id%22:%22216140747%22%2C%22login%22:%22h_ericq76_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:49+00:00	auth-token	f2byifgrq1zryw7jtoq9qk5g4dxssb
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:52+00:00	twilight_onboarding	true

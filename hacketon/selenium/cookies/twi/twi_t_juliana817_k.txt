@@ -1,0 +1,13 @@
+#t_juliana817_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vRMLjBUQNFhPx10mbJ46gCXMuYm641%2F3iJFPhqmY0QI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:13:23+00:00	unique_id	f72c9a3de4a8595c
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:13:23+00:00	_twitch_session_id	24e481d39bc6f1b59ef49023a19b22d8
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:13:46+00:00	persistent	216484987%3A%3A6suf7njaa14ny6zryxy1cl1wrio4uf
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:13:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQ5ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2ODI2LCJpYXQiOjE1MjQ1NzIwMjZ9.4ZGeoTWFkCBs2qbQAYsYt4Cx9Wak2OxLdbV-iqpVzGe5Y3DTwUvLKrGbCUhI78sCYuaY3HALe4OAGFBK1YE7yw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:13:46+00:00	login	t_juliana817_k
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:13:46+00:00	name	t_juliana817_k
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:13:46+00:00	last_login	2018-04-24T12:13:46Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:13:46+00:00	api_token	7870662c10142f1507cf6abbfcaed069
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:13:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfanVsaWFuYTgxN19rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNDAyNiwiaWF0IjoxNTI0NTcyMDI2LCJub25jZSI6IlVVcmU2M2hNZVpXZ3RIQlQwX3p4YmF6TG85LW56QnpyNFFfTkszRlBFSU09In0%3D.Wirdj-T5YmoDWMQj7ZWuSv5Cd8wUfVXH5HXSe_243Dl6ZPwUWg2ty1T_E5ktwk_l-TrHX2EE9kcyJaFYdqnpmQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:15:06+00:00	twilight-user	{%22authToken%22:%220q644o7w0m6tnexpiz6lt3a2xs6ab0%22%2C%22displayName%22:%22t_juliana817_k%22%2C%22id%22:%22216484987%22%2C%22login%22:%22t_juliana817_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:15:06+00:00	auth-token	0q644o7w0m6tnexpiz6lt3a2xs6ab0

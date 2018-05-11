@@ -1,0 +1,13 @@
+#u_abigail479_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bDu53MNiHiT0hgOjQp4kuhPZMlvzB0s9rTVFdplI7BU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:34:21+00:00	unique_id	1daa4e417b8224c5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:34:39+00:00	persistent	216487226%3A%3A010juyhli3u21xi0hdk7snftd6t12e
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:34:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODcyMjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4MDc5LCJpYXQiOjE1MjQ1NzMyNzl9.T_ScVsIetmBHDHiMwoitb9_MizG2BoxX-CoZqsTbUIvBPatPrOOl3gZXcTyuNxVOfMqKRk9dj5arWX1R4OZsYw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:34:39+00:00	login	u_abigail479_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:34:39+00:00	name	u_abigail479_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:34:39+00:00	last_login	2018-04-24T12:34:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:34:39+00:00	api_token	695becb49f0b895efca80a57b72ae062
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:34:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYWJpZ2FpbDQ3OV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTI3OSwiaWF0IjoxNTI0NTczMjc5LCJub25jZSI6ImlaTFFRNjZUbThRbWhENmZXV3REemdwMl9ZTVkweUIzdlhWMEt6eEltLWM9In0%3D.lVZoTY9-ALn8g8LJQdT3HQUd4WxioyZfpkVLz3OByD2LMKW2tNgojff-vitLohOD3L_2Vn1W1myUm0KVThZiOA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:35:58+00:00	twilight-user	{%22authToken%22:%227orearzdr6b4df91ivdtdda79t1tra%22%2C%22displayName%22:%22u_abigail479_w%22%2C%22id%22:%22216487226%22%2C%22login%22:%22u_abigail479_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:35:58+00:00	auth-token	7orearzdr6b4df91ivdtdda79t1tra
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:36:01+00:00	twilight_onboarding	true

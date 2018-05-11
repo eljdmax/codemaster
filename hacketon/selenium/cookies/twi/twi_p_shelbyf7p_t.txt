@@ -1,0 +1,13 @@
+#p_shelbyf7p_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	vq2EQCRNGYB51qy0%2BnGCsBaVaG1jkQqWg88%2B3UnSLfc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	694f1561c18972da
+.twitch.tv	TRUE	/	FALSE	0	persistent	218948567%3A%3Ag8g49p59zseeu4lnnm2iy9vtn0k8ug
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDg1NjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU5ODgsImlhdCI6MTUyNTY0MjM4OH0=.U0GAoQAf809Brtlq9Yct5cqvkN79syKG-qFqf2M7q0EdW3xzvqQr4DouADxkz720yHRaYZCsuDOnDn-qKCfpTQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDg1NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MTg4LCJpYXQiOjE1MjU2NDIzODh9.o2yz1s8ywUwSj5pMvSIOIuNtbL1P7zRuU_l1BHY9YaWcQGKMCE8F72aCmf-_6QKj6AKMXYxfzwJ7F-s_ijTHEQ==
+.twitch.tv	TRUE	/	FALSE	0	login	p_shelbyf7p_t
+.twitch.tv	TRUE	/	FALSE	0	name	p_shelbyf7p_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:33:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fb8f6ac85b5ee6739d3ecedaed2860a5
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfc2hlbGJ5ZjdwX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0Mzg4LCJpYXQiOjE1MjU2NDIzODgsIm5vbmNlIjoidlNOSzQ0aWxnNnY5QzJ2d2t2YUJkY2I1cFpBZEdET0RyRHJfVFZEWW5vaz0ifQ%3D%3D.2hz-jzGa8kSpLQbSX1objVr8x7qB0NVs5r0jmE338rUb9VM-SJJ186HByuHPGSiJCvaSVAovKjHLHaeI9b5p6A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bn3fisxdb4dra73jc5aivjcsd1x944%22%2C%22displayName%22:%22p_shelbyf7p_t%22%2C%22id%22:%22218948567%22%2C%22login%22:%22p_shelbyf7p_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bn3fisxdb4dra73jc5aivjcsd1x944

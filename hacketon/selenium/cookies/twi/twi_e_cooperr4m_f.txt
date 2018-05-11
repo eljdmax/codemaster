@@ -1,0 +1,12 @@
+#e_cooperr4m_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5V4gHtvksGlZ8WkvjHjSmrSDXLPDWeeY7VjFPt5%2BJKo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:57:47+00:00	unique_id	0e4f69f696682d02
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:58:06+00:00	persistent	216940001%3A%3Alz8wtons5ufc1ku03ui0a2jr57q0m9
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:58:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDAwMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMDg3LCJpYXQiOjE1MjQ3NzYyODd9.MXamOiiOOm90Kir9hjo3JdwAygwotuojEaz4lX8U4JxYnk0IpQrOK43lIFQ_Wm8A_QRbxS9DhFWsMNzifu7zUw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:58:06+00:00	login	e_cooperr4m_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:58:06+00:00	name	e_cooperr4m_f
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:58:06+00:00	last_login	2018-04-26T20:58:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:58:06+00:00	api_token	7526950ca61b5f2184f567f6c495d87d
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:58:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfY29vcGVycjRtX2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI4Mjg3LCJpYXQiOjE1MjQ3NzYyODcsIm5vbmNlIjoiajQ0THRSLTNJdHNnMTB4dE5CVGQzZmxLY2FhcGFsODJVLVB0WVd3SzA2QT0ifQ%3D%3D.Zdlqeg0xv6aC2voiryY-1kV3O7X0iTmemiFgIgcpTEcJfg2na49Lde23c9GEXUQOx0icOTXpyhTsn07zztatEQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:59:37+00:00	twilight-user	{%22authToken%22:%228fhlfz2u3doj2k3uuipjfghgkyu07e%22%2C%22displayName%22:%22e_cooperr4m_f%22%2C%22id%22:%22216940001%22%2C%22login%22:%22e_cooperr4m_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:59:37+00:00	auth-token	8fhlfz2u3doj2k3uuipjfghgkyu07e

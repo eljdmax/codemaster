@@ -1,0 +1,13 @@
+#w_kimberlyj8v_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ciCjtaw%2BZB4TyPBPwt0DvVq8ZtyR2inBP%2BQzonz%2BoMQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:40:10+00:00	unique_id	d72ff0a53cadaf18
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:40:10+00:00	_twitch_session_id	5fcd25a4175fd093bd92f727ca946392
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:40:27+00:00	persistent	216138170%3A%3A4c585md4vge4sl0vkfx4fadqk2qhio
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:40:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzgxNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MDI4LCJpYXQiOjE1MjQ0MzMyMjh9.cl6EKJnLOPWwbjOEvoGlUy88MVCfVyTE4hovgiNh29Jr3DLL6-_1oIpyraxYXN8eDJhW6D6DZa1KejH1xxDmAQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:40:27+00:00	login	w_kimberlyj8v_f
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:40:27+00:00	name	w_kimberlyj8v_f
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:40:27+00:00	last_login	2018-04-22T21:40:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:40:27+00:00	api_token	1e86282596d7adca869358b2c53956df
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:40:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfa2ltYmVybHlqOHZfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODUyMjgsImlhdCI6MTUyNDQzMzIyOCwibm9uY2UiOiJIeWFTOW9YNHBtWGdqeGVrZGZYOGR5NXphT05IT0xkdXJ5eXZ6ZTNDc2tZPSJ9.jmeJGLBxwN3XXpkhUdrvRfGPfOkiC-PHIrhcFdZPQ0Yx0KCifcX9iuXajd0NQVkAN2fcHVHYhTepreVNE5m7Cw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:41:39+00:00	twilight-user	{%22authToken%22:%229nwlzzqnj41yratoxxpibm7o2ia5dr%22%2C%22displayName%22:%22w_kimberlyj8v_f%22%2C%22id%22:%22216138170%22%2C%22login%22:%22w_kimberlyj8v_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:41:39+00:00	auth-token	9nwlzzqnj41yratoxxpibm7o2ia5dr

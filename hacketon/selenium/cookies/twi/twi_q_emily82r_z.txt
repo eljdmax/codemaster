@@ -1,0 +1,13 @@
+#q_emily82r_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BmL6YT5jyX5uXZf2IgRV1CSwIsQSaL%2FzLNdJg6mSbko%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	def1fde3616f2280
+.twitch.tv	TRUE	/	FALSE	0	persistent	218870057%3A%3Acsjf66njwciwp5wam2zgrlql3avc9n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzAwNTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjM0OTEsImlhdCI6MTUyNTYxOTg5MX0=.dDkd5BgSARKGaW4lt9Rpek7xBWYdcxW85y_dMuc1bCg_O7VKBB-OR1xFo3yZKp2ChRrlexRu-5Lu9wSzwKUAGg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzAwNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI0NjkxLCJpYXQiOjE1MjU2MTk4OTF9.-QYTtnDcFlcmMTDOBLENRY6wWDzQFVD7UyvdCKa9uubGNw3tQ8b6DJKKLdfOBriA3jCaLWzy9EXMMjLXSWulJg==
+.twitch.tv	TRUE	/	FALSE	0	login	q_emily82r_z
+.twitch.tv	TRUE	/	FALSE	0	name	q_emily82r_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:18:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	72822f656292e6862df456eeb0cac9d8
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfZW1pbHk4MnJfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzE4OTEsImlhdCI6MTUyNTYxOTg5MSwibm9uY2UiOiJuRXo3ZjNnamlpaEp4NGM0RmIxUVdPbVFlZDBzZFhhZ3Joc00wX0dubFQ4PSJ9.0JErLqyvH7KW0HHzqFMem-D2zbNih3cprIF1YefKMe-L5j38Pt7t16LIWQ-I6jEAD-eIXMOS5gmf1ShJIQ9hlQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22lf5lfg2nydtzq0tvjkvpnefqbs4jmr%22%2C%22displayName%22:%22q_emily82r_z%22%2C%22id%22:%22218870057%22%2C%22login%22:%22q_emily82r_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	lf5lfg2nydtzq0tvjkvpnefqbs4jmr

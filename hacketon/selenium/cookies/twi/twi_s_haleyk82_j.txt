@@ -1,0 +1,14 @@
+#s_haleyk82_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	09sgapnpkmCadBxbNSer7WgBgY1as6b3PJ06CHnUQzQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:51:30+00:00	unique_id	9eefd1bb6695493b
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:51:30+00:00	_twitch_session_id	b249d4088e40fa9d731a35cd21d483e6
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:51:58+00:00	persistent	216489152%3A%3A244lw3rf8z0cm19cvyxkby1w76i2h7
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:51:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODkxNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5MTE5LCJpYXQiOjE1MjQ1NzQzMTl9.08bWYE7XZnbbnBbmO5XwxYQah57oHyAaKTi1SQNF3vtINVSvwfZkk73fvU03jMpqXB1qstlpgZqM6phcJBRUbw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:51:58+00:00	login	s_haleyk82_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:51:58+00:00	name	s_haleyk82_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:51:58+00:00	last_login	2018-04-24T12:51:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:51:58+00:00	api_token	bab42c7c4c0955a7f7d8c85f6c40fd28
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:51:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfaGFsZXlrODJfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjYzMTksImlhdCI6MTUyNDU3NDMxOSwibm9uY2UiOiJzVWM2dnUtZExaclBucDQ2cmg0aEZUZUE0bEJmbXJvVGdUQXZ4RkVTbHRZPSJ9.1efIs5b-wdLA024wS42oDtqGkpkqPCjR7L2CYnn4X4Hq5mznKOOA8pZh5x3lTAIe_cHTyFYC9KvYL8c19_ZV0w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:53:19+00:00	twilight-user	{%22authToken%22:%228znb1s83eviv6r7r0ivupr0xht8lug%22%2C%22displayName%22:%22s_haleyk82_j%22%2C%22id%22:%22216489152%22%2C%22login%22:%22s_haleyk82_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:53:19+00:00	auth-token	8znb1s83eviv6r7r0ivupr0xht8lug
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:53:21+00:00	twilight_onboarding	true

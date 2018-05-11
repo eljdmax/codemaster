@@ -1,0 +1,22 @@
+#x_devin137_d
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nCSBa7W5CvZbRsVXb7lujbgFTt%2F9gy0%2Boj3CraAUs80%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217035860%3A%3A0ymk08rgje50o84e43ejjwz1lq8rsr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMzU4NjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4Mzc5NjQsImlhdCI6MTUyNDgzNDM2NH0=.ROQuo3HeAwE7Dprf-hI7ZEwrNbojYdMfdRvv1fjhGYD6M08a95ara41XYfV-2haUUCZFiGZz2zMO86x1k0AYzw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMzU4NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDM5MTY0LCJpYXQiOjE1MjQ4MzQzNjR9.RE81Nl65B4Ud6HQ41VV5O99kpJnn_KoTqo73jDkBvMEc0QMJ-rOGa9COX8rcf87sSqec7o0q8CnIFzK6wCw2MQ==
+.twitch.tv	TRUE	/	FALSE	0	login	x_devin137_d
+.twitch.tv	TRUE	/	FALSE	0	name	x_devin137_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T13:06:04Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b0dcfec6608a78d895e88f76e11edfca
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZGV2aW4xMzdfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzODYzNjQsImlhdCI6MTUyNDgzNDM2NCwibm9uY2UiOiJwSUp4YmVHOENVczlQWk9RMnA3UWJMNEYxR1I2Y0g1NWw3QlpjTUhRRnk4PSJ9.7hwVdiDmVJOA2meo7F8keQ6wFmKnRi9v6qP-3epX23O8wbx5nmd6VqTNbltRpU_kJIRI-rdk03ToNJoSxAWm_w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22z87j6ny7zfkxu2xhdwtygkjchrskt1%22%2C%22displayName%22:%22x_devin137_d%22%2C%22id%22:%22217035860%22%2C%22login%22:%22x_devin137_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	z87j6ny7zfkxu2xhdwtygkjchrskt1

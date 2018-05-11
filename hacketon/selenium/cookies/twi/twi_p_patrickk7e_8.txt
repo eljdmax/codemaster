@@ -1,0 +1,13 @@
+#p_patrickk7e_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	fkfa37d%2BIkiEImIJYeXgx9xgId4vXpimW%2FHBVVIOjHI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:01:43+00:00	unique_id	70e1494bc3c1851e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:02:06+00:00	persistent	217560176%3A%3A12jbsdx43hytko9azan4tfn29iendc
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:02:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjAxNzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2OTI2LCJpYXQiOjE1MjUwMzIxMjZ9.gvAYFE9GVZeWLtwGGLwly2bFeHUxAp5xdLC1-TsR-UUAWsfCjE7rIp-oSJnNgFfrcWnef-OUbnWrYsevq_vhEQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:02:06+00:00	login	p_patrickk7e_8
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:02:06+00:00	name	p_patrickk7e_8
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:02:06+00:00	last_login	2018-04-29T20:02:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:02:06+00:00	api_token	2e09dccc4605eee87b862c3da9d659bf
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:02:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfcGF0cmlja2s3ZV84IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDEyNiwiaWF0IjoxNTI1MDMyMTI2LCJub25jZSI6InZpNjNpVHlsNHJGQTdTX0xKMVBiSHpORDNvWGtINm5zV2JMb1ZSWVJkOE09In0%3D.Bo0noU817JPVZhFvrLq_Flm1JFB_pN6Mg0qLIJmvH49-S05xML5DxqxKvPfKiKlKchuoB2DP_NhBuG1gpVzmKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:03:50+00:00	twilight-user	{%22authToken%22:%224v5xlfycw4ibryt7x0yamu5lthrr83%22%2C%22displayName%22:%22p_patrickk7e_8%22%2C%22id%22:%22217560176%22%2C%22login%22:%22p_patrickk7e_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:03:50+00:00	auth-token	4v5xlfycw4ibryt7x0yamu5lthrr83
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:03:51+00:00	twilight_onboarding	true

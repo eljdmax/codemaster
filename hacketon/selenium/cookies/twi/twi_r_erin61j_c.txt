@@ -1,0 +1,12 @@
+#r_erin61j_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cPRertMW0E0ZWpgcUUEvUajgY0hSrKMiD6RwF%2BT8SMc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:42:46+00:00	unique_id	7e1420a3054982c0
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:43:05+00:00	persistent	216937377%3A%3Anleccn7o3c0fty18v3uwud5rwjuzx7
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:43:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzczNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMTg2LCJpYXQiOjE1MjQ3NzUzODZ9.qzVTfgzUyLYBoNMw7WNsy-2OzAtd2FXSX89iAEe8IhwEw0Pg6Wa36i_FrNP2wZEd8J-uOi-TpscGNSYcB3zGww==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:43:05+00:00	login	r_erin61j_c
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:43:05+00:00	name	r_erin61j_c
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:43:05+00:00	last_login	2018-04-26T20:43:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:43:05+00:00	api_token	1550f68c09d62fe7d4a5578cd0d08076
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:43:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZXJpbjYxal9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNzM4NiwiaWF0IjoxNTI0Nzc1Mzg2LCJub25jZSI6InZzZF9wNVhaY2I2WmkyRmVwcV84dmZYRG9jSzNPVjJ5TzF1Yzk3VkJUN0k9In0%3D.49RcLSlSQPvNnOCaYa9NiRZdS7sfTFpfNm2_SijbTwnz-844-dQvKTzyewNPR4yoLmbkKsNSCg1CmeJpUHZuNA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:44:37+00:00	twilight-user	{%22authToken%22:%22nobxf6avashwhs5wep5qf0a034s9c6%22%2C%22displayName%22:%22r_erin61j_c%22%2C%22id%22:%22216937377%22%2C%22login%22:%22r_erin61j_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:44:37+00:00	auth-token	nobxf6avashwhs5wep5qf0a034s9c6

@@ -1,0 +1,16 @@
+#v_ashlyne6g_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DzYQbmTnOk0nMLQv2U3HqqeqrmvvKp7iYZcjJ%2Fqhq%2BU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9f8802661fc5c03e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a4d1579ca3e519996d7404aa8e83a11d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218939495%3A%3Aybj7nyez2imk81a7np7naojyjqhd8b
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzk0OTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMwNTAsImlhdCI6MTUyNTYzOTQ1MH0=.LVCR6qsM4AxVrF86un4L1GjVPk7nxFIDGI7cmX8kNWptdEE3R42HTOChYMqj0IHX862B4hyvDf42prCowlmr4Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzk0OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0MjUwLCJpYXQiOjE1MjU2Mzk0NTB9.3HmmsEVYtFNl-BNasoV5_go5bTpb_jqIZTLiyuoqjorwlnJ4N3UQ0DF6cYLWqLwXVjqc_5TBUZHVlY29qe8uCg==
+.twitch.tv	TRUE	/	FALSE	0	login	v_ashlyne6g_0
+.twitch.tv	TRUE	/	FALSE	0	name	v_ashlyne6g_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:44:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d6ba42902ec6ef1e972273ef01d13e41
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfYXNobHluZTZnXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkxNDUwLCJpYXQiOjE1MjU2Mzk0NTAsIm5vbmNlIjoiVjNJTlJNYi12X2tEVHB0S1BOMU9WeGZyLThMaFhiZndHTTE3LS1Bc1U1bz0ifQ%3D%3D.Ad0QUHnuuu4thvw0wGu5D8qttvCpg2RgVNt7kB958RuUWcAfDpTC608drMb8RFr31tNPCHS-gGGlK-fvpARucw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=7b0394343f672a45:T=1525639456:S=ALNI_Mb7Ectj6BIZk-4bMkKUheDsRAxnAg
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	Z3oZxMQbM1vILGKgWozWEHJLCbIYACD3
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22c5ess8pqsuuuu9qhj9907xiwo2vlpb%22%2C%22displayName%22:%22v_ashlyne6g_0%22%2C%22id%22:%22218939495%22%2C%22login%22:%22v_ashlyne6g_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	c5ess8pqsuuuu9qhj9907xiwo2vlpb

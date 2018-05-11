@@ -1,0 +1,12 @@
+#u_tiffany71g_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	acgJZ5sJJVU92t60dEGeomWElM7C7ufllku0XhMoyh4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:25:30+00:00	unique_id	8e716f59e7a8e4ac
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:25:43+00:00	persistent	216475563%3A%3Aipxcudm3eq1ypgtmapt8w2axsydt5q
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:25:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzU1NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwMzQ0LCJpYXQiOjE1MjQ1NjU1NDR9.8CXKiNn8xkNVYigrB5L1DYajr_GKgxuSGuK6zdDWlG9gdo8Sjr797OKbZEP3eF0tXydamqwOA7Uen-BjvmUEOg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:25:43+00:00	login	u_tiffany71g_k
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:25:43+00:00	name	u_tiffany71g_k
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:25:43+00:00	last_login	2018-04-24T10:25:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:25:43+00:00	api_token	37738c5a520a1cb4a2ef3c0b75070d56
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:25:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfdGlmZmFueTcxZ19rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExNzU0NCwiaWF0IjoxNTI0NTY1NTQ0LCJub25jZSI6IllscFJqMFNwQjdySVJMSVgwU1BpNUlka1hxYUJOTjZvYmxObHczeVhxVm89In0%3D.BU9-jmxLlEOBjMEq2mooW3Uvlihg0rzdz0uGr22o5m0lljJf5r4tyMM0qCGQsTjrV-ndAZFCQDKm7qiETP-TrQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:27:05+00:00	twilight-user	{%22authToken%22:%22hc1kwlcztslh4rdtd1ltpn6363f3e8%22%2C%22displayName%22:%22u_tiffany71g_k%22%2C%22id%22:%22216475563%22%2C%22login%22:%22u_tiffany71g_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:27:05+00:00	auth-token	hc1kwlcztslh4rdtd1ltpn6363f3e8

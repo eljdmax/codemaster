@@ -1,0 +1,12 @@
+#c_alyssaf62_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	frew%2F6Y4ush%2FNOA6Lms8uwzkCxFodfgjufp63Nvl23A%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:54:22+00:00	unique_id	a200f5802705c0f8
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:54:50+00:00	persistent	217558449%3A%3Aami7rx9gc4zpxu1ju753au81lsstes
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:54:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTg0NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NDkwLCJpYXQiOjE1MjUwMzE2OTB9.gfB9CS7lMtKKyPHvh1BCBsDoVF6jmBaw6WzdX5OTJcunnssHUIp1oxQcr-Rn94tWI-Ii2Zn75HRwaUlG3kuOMA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:54:50+00:00	login	c_alyssaf62_q
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:54:50+00:00	name	c_alyssaf62_q
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:54:50+00:00	last_login	2018-04-29T19:54:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:54:50+00:00	api_token	293c3dce6474227c9c15ce30aafa134e
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:54:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfYWx5c3NhZjYyX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgzNjkwLCJpYXQiOjE1MjUwMzE2OTAsIm5vbmNlIjoicXRnaG5CYXMzZmp5TlZaYWszQ1FRNEhFbk1Hb25iSzhZYUZpRm1BWF85RT0ifQ%3D%3D.dDFW3PnVCYUbsrWS059rNs3Rnix-HK13jGthymyN-ro3s_ggIPZ_nioECyf5X_EN_yzsZDBnvO2txidaUkdgrA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:56:33+00:00	twilight-user	{%22authToken%22:%22d96khxv2sng5owi750pp25wcm8mfr1%22%2C%22displayName%22:%22c_alyssaf62_q%22%2C%22id%22:%22217558449%22%2C%22login%22:%22c_alyssaf62_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:56:33+00:00	auth-token	d96khxv2sng5owi750pp25wcm8mfr1

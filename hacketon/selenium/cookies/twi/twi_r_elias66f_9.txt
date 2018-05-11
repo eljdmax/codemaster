@@ -1,0 +1,13 @@
+#r_elias66f_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	v2jwUTDRIfqXg5IkUL8a%2B%2FDeBvwf5mWGDqOlA5TsFs4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fd91b81dae965c8a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217460518%3A%3A4id136kly1dy56xsz7r426kd16q86r
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjA1MTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDUxODAsImlhdCI6MTUyNTAwMTU4MH0=.SLAKSyQzsU6T1e-9N5u0MfC7OsY4TvbuoVb6mHsnos91dw-hWFLI2oHwYfTGgVCtH7SZ__0vXwlWGGmX6W4CjQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjA1MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA2MzgwLCJpYXQiOjE1MjUwMDE1ODB9.UVpzn9OakyY_0UMg0E-HQLOmpdyOd63_825CjkttCPVYVfIQxQxGtgzY5w8eqks_tp4rXeye238upP4MTCa-vA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_elias66f_9
+.twitch.tv	TRUE	/	FALSE	0	name	r_elias66f_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:33:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e4920b48dbf5d911f9f905d0d3171e54
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZWxpYXM2NmZfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NTM1ODAsImlhdCI6MTUyNTAwMTU4MCwibm9uY2UiOiI5YUd0b0lTTFdtV2FxNzlEY1RacFFjd250R05lcFl6aHJFMjI0UFNoaFkwPSJ9.1n8mVrmaryV0YhlK8yD2_X3YFJ7xhtwc-t3EjVuIBV-iPGpDNhXXV0N3Mg30uRdKxobORBEgPNmbdItSsHR7rg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sgoae0o2bsmiu7h42xc6s3hk0m3snd%22%2C%22displayName%22:%22r_elias66f_9%22%2C%22id%22:%22217460518%22%2C%22login%22:%22r_elias66f_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sgoae0o2bsmiu7h42xc6s3hk0m3snd

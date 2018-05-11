@@ -1,0 +1,14 @@
+#u_gabriellay58_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ir4M5ok4n%2FgQmzR41KUwggU9GKtNhEk3qlhSYhNWqiM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	60bb5881caa1cfd6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1590e16bc07c28abcb5bae20f758d277
+.twitch.tv	TRUE	/	FALSE	0	persistent	217251075%3A%3A30pj2x3po0kqnrx0txcp60y0x5l0pd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTEwNzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjcxNDEsImlhdCI6MTUyNDkyMzU0MX0=.5ws5i4w-wMs4RwdJH1IzD54HiHUOB__lL7wfhmJGAQg0vqb-zQ_sLhzZuEeYHNgr02qnaB5irkpXQpYjHFd24g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTEwNzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4MzQxLCJpYXQiOjE1MjQ5MjM1NDF9.HsnWnojxkR2rSz9FfaUW-_qSO1aVwvq0Lh0Zai1IJiliPSa549Fo6f546bJf0raHyS7tMIQ7rnvE1EB4AJdzJw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_gabriellay58_v
+.twitch.tv	TRUE	/	FALSE	0	name	u_gabriellay58_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:52:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	be25571745b3d032d8ef132b8dbcd6fa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZ2FicmllbGxheTU4X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDc1NTQxLCJpYXQiOjE1MjQ5MjM1NDEsIm5vbmNlIjoiTDl0QjNxUnhRUGw0SkJfaWllbVhhbFljaFNXcGJ1ekFseHBSdnFpZ3VUOD0ifQ%3D%3D.2_ihzktNqozTheYJAMbRYzvr-K5ZEm6ha_NDhHAxAO8psC6eFXWW8a8jQBHXCbgNzSJFZeF-B7aWrONvh4CUNA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h90jgrdpgxcjahj3q5e4ktpa7d9umh%22%2C%22displayName%22:%22u_gabriellay58_v%22%2C%22id%22:%22217251075%22%2C%22login%22:%22u_gabriellay58_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h90jgrdpgxcjahj3q5e4ktpa7d9umh

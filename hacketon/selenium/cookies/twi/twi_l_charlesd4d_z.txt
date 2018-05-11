@@ -1,0 +1,13 @@
+#l_charlesd4d_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QZsw9xI0TnplzwJxRfxWBLITyRldgJqWmqZDYnUmy4E%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7cbc742b4e3fdde5
+.twitch.tv	TRUE	/	FALSE	0	persistent	218849627%3A%3A5ajklrb7muc1emwa01msskzbss9iy6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDk2MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTYwOTUsImlhdCI6MTUyNTYxMjQ5NX0=.6ehhuoqw2vNwXX6I8CbzA1PLjNBbgOAVBudZsXIhuC3c53IzBBRLQku1FvU7sv78OqKg8xQPNkJciWDzP7zdFg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDk2MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3Mjk1LCJpYXQiOjE1MjU2MTI0OTV9.4L26rxEU3_vUf2VDiTeclb-BbyOPnv6WNLPkvPc0P9adI82YO1JxrPLL500DN8su34WAvrtZbj5XKUqSYsCLCg==
+.twitch.tv	TRUE	/	FALSE	0	login	l_charlesd4d_z
+.twitch.tv	TRUE	/	FALSE	0	name	l_charlesd4d_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:14:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a0800aa5a8cda8d6702d9d411099614c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfY2hhcmxlc2Q0ZF96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NDQ5NSwiaWF0IjoxNTI1NjEyNDk1LCJub25jZSI6Im0tTW5hWjlZcDRSQ09uNjBCNE5SUzZWeUt3SGNTRFE2SFc2VVZLWHdXLWs9In0%3D.OrJXWJrcj7fyzu55ZjGRzYgNuAMnvUp8ipQyoP-BXi13jBkVAD7JZT9oauMHokfEqCYw6CuohIfb2nDCrYSZMQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f2l0e0qxelfki1lddzh990j2bwoye7%22%2C%22displayName%22:%22l_charlesd4d_z%22%2C%22id%22:%22218849627%22%2C%22login%22:%22l_charlesd4d_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f2l0e0qxelfki1lddzh990j2bwoye7

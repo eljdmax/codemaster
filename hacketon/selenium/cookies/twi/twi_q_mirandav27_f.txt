@@ -1,0 +1,14 @@
+#q_mirandav27_f
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:37:06+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	TRUE	2028-04-27T17:35:33+00:00	unique_id	0bf7d29fd621c520
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ4NTQyMjcsIm52IjowLCJ1cHQiOjE1MjQ4NTQyMTcsImx0IjoxNTI0ODU0MjE3fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jls%2BD8kGToH1oc%2BTDpMy2mAxfubDURZfFZ1s7%2F5Sm1g%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:39:59+00:00	persistent	217077983%3A%3A2vqjhplypkunuk3mfg6vmrcecmjnbi
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:39:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzc5ODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NjAwLCJpYXQiOjE1MjQ4NTA4MDB9.ZHxsCDTDJ4QNZETSDfEJbyZ3qzA-ID8p1U9jkoyb7d_WGU_MQ6BUuUGjFgYJGbcGEGduVcOMnnk8bLzus4yTew==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:39:59+00:00	login	q_mirandav27_f
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:39:59+00:00	name	q_mirandav27_f
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:39:59+00:00	last_login	2018-04-27T17:40:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:39:59+00:00	api_token	147a94a9faa3aa9baba1b6b228fa1716
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:39:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWlyYW5kYXYyN19mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMjgwMCwiaWF0IjoxNTI0ODUwODAwLCJub25jZSI6IkhVUHZRVV9Xa016dkZtZUFacklrdHM0ejV2M2tnczhYMVFmckdzSWhnUjg9In0%3D.YAGASycDvKpzW97_SSw9AWSiI7ekn_9pDoLz95lCkoIm8GYH9RVD8yWyMvfypR4PEDHDK0klB3hB-ys2pU7vkA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:41:34+00:00	twilight-user	{%22authToken%22:%225yv4g3n41d6rm9rguu019hnk3hnjem%22%2C%22displayName%22:%22q_mirandav27_f%22%2C%22id%22:%22217077983%22%2C%22login%22:%22q_mirandav27_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:41:34+00:00	auth-token	5yv4g3n41d6rm9rguu019hnk3hnjem

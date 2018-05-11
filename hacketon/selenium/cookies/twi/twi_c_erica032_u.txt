@@ -1,0 +1,14 @@
+#c_erica032_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ELNWbKUggtPa8bC%2BL%2Fn3zu0hdRSiOeALDSEJGmBkzV0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ec9d47c518c3be63
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a53ac96989d101c66aa59d0275828b6a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218952590%3A%3Atcwe2fys6pbxenojvl05cwm9nf5iob
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI1OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDczOTcsImlhdCI6MTUyNTY0Mzc5N30=.KOAC42CHq2tkcC0dVTBPKCSZIEvIGLk20NFKID35Cr9MLfdFTfOD-3psl5ngnNP7-3EnnsVxIIMpktiRfjrY7Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI1OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4NTk3LCJpYXQiOjE1MjU2NDM3OTd9.AtPAkbBLyp6-SRNlqqEZSwtfCBkkYuXKvdA57kIMeiW2ofWd9-XAWUlprDMRyuabsYX0sARt8NFQJXqhrEbSJQ==
+.twitch.tv	TRUE	/	FALSE	0	login	c_erica032_u
+.twitch.tv	TRUE	/	FALSE	0	name	c_erica032_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:56:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	12eea8dda03fb18f2517e99aa6ff4399
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfZXJpY2EwMzJfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTU3OTcsImlhdCI6MTUyNTY0Mzc5Nywibm9uY2UiOiJlUEJwbDRmZHY4N2RFZzViamROa2tYVjN4T0k5N3Y1U2RTcXFLY29CcGQ0PSJ9.i-IKUAz1XsOnI8WIREthOZa2hURYkUj7KSGr8y7MIaSJslq_H2hNtw2xOuqhazrQ9IPieTXIvGOd2niNWkplsA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22b2sov86um55sagxnn6mtot23st063d%22%2C%22displayName%22:%22c_erica032_u%22%2C%22id%22:%22218952590%22%2C%22login%22:%22c_erica032_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	b2sov86um55sagxnn6mtot23st063d

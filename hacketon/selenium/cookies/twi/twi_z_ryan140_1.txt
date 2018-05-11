@@ -1,0 +1,13 @@
+#z_ryan140_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BsEnfyjsGPc7sEePR491fsZtnHl4cZ2q1EPqpgQHxss%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:25:45+00:00	unique_id	41d54de5781a2f51
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:25:45+00:00	_twitch_session_id	5278fabe85d1195444a5597ab96e6dd1
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:26:28+00:00	persistent	216486319%3A%3Afo6ojsl1ffgy57jaj1idnarrjgdsht
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:26:28+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODYzMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3NTg5LCJpYXQiOjE1MjQ1NzI3ODl9.c00EiH3Aplv8dNe2F7dAkv_tYVRzqypAiqGNsyGIxLmAUmtpfx2eFJoRzVYwrLpy6ZQtR4ud11TqAyouJYvcLA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:26:28+00:00	login	z_ryan140_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:26:28+00:00	name	z_ryan140_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:26:28+00:00	last_login	2018-04-24T12:26:29Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:26:28+00:00	api_token	a4daddcd4d99c1241717fab61d6a7b27
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:26:28+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfcnlhbjE0MF8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNDc4OSwiaWF0IjoxNTI0NTcyNzg5LCJub25jZSI6IjUxWlRnV1FqWm81TElESUZDOGI0TFFCb1ZGTTAtQ0stMjJYV0diWjgzSHM9In0%3D.OebxAOjM2ndZM_zp9AqUpIoqQ5n_PO70i5v8H7LY30UVMyZZ3SL2-fbY1LoFgjg8DdjispfeNlVJMHhQo_kc-Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:27:50+00:00	twilight-user	{%22authToken%22:%22o621g526crls0bonbnpbt74hjqv5xz%22%2C%22displayName%22:%22z_ryan140_1%22%2C%22id%22:%22216486319%22%2C%22login%22:%22z_ryan140_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:27:50+00:00	auth-token	o621g526crls0bonbnpbt74hjqv5xz

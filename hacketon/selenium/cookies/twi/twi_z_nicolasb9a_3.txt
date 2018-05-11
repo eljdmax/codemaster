@@ -1,0 +1,13 @@
+#z_nicolasb9a_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LnpJGDxS8cU3wje78jAjRL18iq6S6%2FiBlq%2B6RvWTRVQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e053ce09b183ad80
+.twitch.tv	TRUE	/	FALSE	0	persistent	217465751%3A%3Azzvfxsg391ti3z170crragsktlwr6h
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjU3NTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDc2MDAsImlhdCI6MTUyNTAwNDAwMH0=.xCHsZPc4y4OOl8YMGijcVbMM8i9BubLRTkc9Ip4G2FDMIwWD-L7dVPCJks1zvHDIucLHSXhyLP5fwNDExreizQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjU3NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA4ODAwLCJpYXQiOjE1MjUwMDQwMDB9.2xc7LR7h_3blfkBdnuKL-jhk6dGH3TeOiXF_BRLpdaKbAIln59Vaa6EqQ5jS_9l5JKM0JnZ5Am60YYgaYLudhQ==
+.twitch.tv	TRUE	/	FALSE	0	login	z_nicolasb9a_3
+.twitch.tv	TRUE	/	FALSE	0	name	z_nicolasb9a_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T12:13:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c531e4b661a79a1204838e2fd80051ee
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfbmljb2xhc2I5YV8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU1NjAwMCwiaWF0IjoxNTI1MDA0MDAwLCJub25jZSI6IktDR0MwLUhDVVRRRWs5emtRNWU4THE2TUZtNXNyeDNpS2ZTRGNmOC1LOXc9In0%3D.TIkMzvB8fLsWXREcvnQwMko6e_BMIwvIF4T0d78OffYv634zNo38ECUIVD5AVtAw4_t4epAxOMZ0iWMD4BA-Iw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225a0067u6elq08yfm3a4778zqti4uht%22%2C%22displayName%22:%22z_nicolasb9a_3%22%2C%22id%22:%22217465751%22%2C%22login%22:%22z_nicolasb9a_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5a0067u6elq08yfm3a4778zqti4uht

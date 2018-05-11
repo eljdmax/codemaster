@@ -1,0 +1,12 @@
+#k_oliviad29_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JhPJHhLrQMMfjWmPm84QOuGLyLgAXKDpYZE3Sya5M9k%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:49:31+00:00	unique_id	4830e820e0655ccc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:50:10+00:00	persistent	217557417%3A%3Atrkg0f3dpah3iyagxwgxq4q2vnqcvh
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:50:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTc0MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2MjExLCJpYXQiOjE1MjUwMzE0MTF9.PvgRJRYp44PVSNvIG1KzqN5vDHgW9L2MLff3x8UKSWKAFzsXJ1DCVv-N2lstpqMH1WjSmVS8N5J2p1EHE7OBjg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:50:10+00:00	login	k_oliviad29_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:50:10+00:00	name	k_oliviad29_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:50:10+00:00	last_login	2018-04-29T19:50:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:50:10+00:00	api_token	db3f0331502a028f99c0627146bb7d10
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:50:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfb2xpdmlhZDI5X3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgzNDExLCJpYXQiOjE1MjUwMzE0MTEsIm5vbmNlIjoib0Z2Y1ZVc3h0bFAtb1FRMFFTLUZzNlRkUkdSdzgza2JEc2dLZ201bTNiST0ifQ%3D%3D.hqzg0S5KE_VaA3lzcXbSyE3iqV4mF8_QCHigujO7gfhvKj5XKHaOk_vrBI54xRhPYgT9p-7HOhsmBrjGK9dv_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:51:55+00:00	twilight-user	{%22authToken%22:%2290fohi8h3mhmulwn8rvi2equoax990%22%2C%22displayName%22:%22k_oliviad29_v%22%2C%22id%22:%22217557417%22%2C%22login%22:%22k_oliviad29_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:51:55+00:00	auth-token	90fohi8h3mhmulwn8rvi2equoax990

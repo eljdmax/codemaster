@@ -1,0 +1,12 @@
+#v_emmay3i_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0c1oqJyPCrsR88Bl5u%2Fbz4smyFfzTup8TpSv0riuTIQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:40:14+00:00	unique_id	58ae5f40b5f34bc2
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:40:52+00:00	persistent	217078142%3A%3Accu910ee8dmfce38l45c4n3fixpdrk
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:40:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzgxNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NjUzLCJpYXQiOjE1MjQ4NTA4NTN9.KSUC2lmgRTMCcy-98LwDeKvkQCOgzdyUlNcUR5riHz8JdQxaHUUQtvehx_v2FWkxsLkJXu3-Tosqyl0rxJj_-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:40:52+00:00	login	v_emmay3i_x
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:40:52+00:00	name	v_emmay3i_x
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:40:52+00:00	last_login	2018-04-27T17:40:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:40:52+00:00	api_token	92f0dc367906a4764816958764932ae0
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:40:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZW1tYXkzaV94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMjg1MywiaWF0IjoxNTI0ODUwODUzLCJub25jZSI6IjJfVTN4YVJueGJydmEwWGV6aEw0YTNGT0E4d3VrNThlR3h5Sll6N2ZoTnc9In0%3D.8KECBSbJAiJOh4ZNUcuem99HD3qMaX--c1dawV02i66AUX3TfgbnDMAkvgJvG46dstl803w71P7zZXsB7BIBGA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:42:27+00:00	twilight-user	{%22authToken%22:%22ydrj9clik18lgjsu6uodlct0bm2t3v%22%2C%22displayName%22:%22v_emmay3i_x%22%2C%22id%22:%22217078142%22%2C%22login%22:%22v_emmay3i_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:42:27+00:00	auth-token	ydrj9clik18lgjsu6uodlct0bm2t3v

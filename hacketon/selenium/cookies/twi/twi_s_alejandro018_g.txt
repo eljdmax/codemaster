@@ -1,0 +1,14 @@
+#s_alejandro018_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	csZ6ckqwgrU8uhkyTlm2LO1DBRHMzMVh7IE%2B%2BvBsAO0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	29560cfa15e07c40
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8dae58df5f92280b160983bef39e4a3a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217956389%3A%3Acppacftv5i4rcltu20twk6j19ruuws
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTYzODkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUyMDAwOTMsImlhdCI6MTUyNTE5NjQ5M30=.ExJloKbLTJ0-mr9dpUh7Nw-aVuBxX8nt0IKMmEVAWLP151ketGrd6NvF3l8b-dpjEV34T817Wt7i8Nr0pHx0EA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTYzODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAxMjkzLCJpYXQiOjE1MjUxOTY0OTN9.I0XhhNo5_mo0j2SWvk37VbRiijt7o0bfIsphildhfuDkpZWF0k9DmNv91HHrZXi2hO-7vKioyLiFsCpPnppgAw==
+.twitch.tv	TRUE	/	FALSE	0	login	s_alejandro018_g
+.twitch.tv	TRUE	/	FALSE	0	name	s_alejandro018_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:41:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	321dbdb871c4a62c17ae3ed2e8d6c077
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYWxlamFuZHJvMDE4X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ4NDkzLCJpYXQiOjE1MjUxOTY0OTMsIm5vbmNlIjoiajNuLXVFMmU0RXpoZW1pWkZubnRkUVY0aUdnM3laT1VXYlhqcjdZOEFJdz0ifQ%3D%3D.urgRhMpPTATyEnyglojA2RiTUmiHcu4up2C81j0HzhzjxhvE1EJ2IU6pS2SiK6C7uqOkeqD6ZtNSRvHQ3irqpg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220r29q2rxb2vnvl3rrndbogjyw9fs2j%22%2C%22displayName%22:%22s_alejandro018_g%22%2C%22id%22:%22217956389%22%2C%22login%22:%22s_alejandro018_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0r29q2rxb2vnvl3rrndbogjyw9fs2j

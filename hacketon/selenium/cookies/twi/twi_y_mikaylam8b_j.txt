@@ -1,0 +1,14 @@
+#y_mikaylam8b_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	az9VqB98txQAjxVOCDf2wtx2xU3JtfZD4aZ1lI57NfI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9f58e9df241d7dab
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	43d60e7bbd0d78581feff327d2cb29f7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218888927%3A%3Aon4nfzloxedkj1s0jmob8ogn2vw4i2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg5MjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjkyODQsImlhdCI6MTUyNTYyNTY4NH0=.vERh0CymXQLhGEpW1_cO0OrUnRl6015bubbGdQEq9wMBd3kMRkJ5RDZ4l6TpTWWRG1aMqo_4RbYfTGP3cA1lpQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODg5MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwNDg0LCJpYXQiOjE1MjU2MjU2ODR9.uo7aFhjUHLIt0ArLCbMX-Iq3HSCjfqkQpyIXgkNBC_PCOaPMDWId7lKiCHakLjr2AOPtmx0JEyhYINPssiUFvg==
+.twitch.tv	TRUE	/	FALSE	0	login	y_mikaylam8b_j
+.twitch.tv	TRUE	/	FALSE	0	name	y_mikaylam8b_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:54:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ecd81e45407a47cdb6429093d3e4bd51
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWlrYXlsYW04Yl9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NzY4NCwiaWF0IjoxNTI1NjI1Njg0LCJub25jZSI6IlFqOERnWWUwMm9mZmtxeHg0NnZfX2JtWXJPbXdCa3dsTFZlN1ZLRnd0UUk9In0%3D.xhcna4P1F2zwIafsosnY-53Cz62_ARHiCYekJaBmyfI4ElaoaxTRMp476DXxZ39oVIztDDvQnoDsjiAwWwFA4A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kjislvpkucmvtexxqfh2pcrh1y62qn%22%2C%22displayName%22:%22y_mikaylam8b_j%22%2C%22id%22:%22218888927%22%2C%22login%22:%22y_mikaylam8b_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kjislvpkucmvtexxqfh2pcrh1y62qn

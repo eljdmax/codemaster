@@ -1,0 +1,22 @@
+#g_edwin259_h
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	V1h8VsdH5PjkEjmwagEVYLOg2BaJE6yBEuWWE0qGBkM%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217043041%3A%3Aua5xdr6n5c5jcj8hd1bfk4ldjxnllt
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNDMwNDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4NDE1MTAsImlhdCI6MTUyNDgzNzkxMH0=.U3LrhBBzhIRKPITb5OhxFMGjzOiLSDJugR9CjEmNZRTkXsr_K2ApWXYPU1VDYosTup74fKIQJBazHM8aiQVFzg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNDMwNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDQyNzEwLCJpYXQiOjE1MjQ4Mzc5MTB9.M66gjNGIm6KpvxWZRWhnB_jhLwpGwCWBmM3XkjnX_Ad-nRthhAgaKVbr4oq-X9De9xUUrNjHKSWMc-y8pp0ZVQ==
+.twitch.tv	TRUE	/	FALSE	0	login	g_edwin259_h
+.twitch.tv	TRUE	/	FALSE	0	name	g_edwin259_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T14:05:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4dfe48b59ecb3e4695fdb1f6bf652b16
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZWR3aW4yNTlfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzODk5MTAsImlhdCI6MTUyNDgzNzkxMCwibm9uY2UiOiItT0xFbmpvNEhtVnZZdUI0WWNfQXZmNGJyVldrVXJhdDdyRDdER1E1RVRJPSJ9.Ey-4NIYPHyGPFhNMBWlirJkgAGxVW0qzvS1KL9jgXGhh8Y82jguy8PKBYNVmA5ih_9EmsVASaXyZ_DgzkUIj-A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2258ullkwo736vx54xtdhbk2jqskn02h%22%2C%22displayName%22:%22g_edwin259_h%22%2C%22id%22:%22217043041%22%2C%22login%22:%22g_edwin259_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	58ullkwo736vx54xtdhbk2jqskn02h

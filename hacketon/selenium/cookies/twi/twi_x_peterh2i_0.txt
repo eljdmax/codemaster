@@ -1,0 +1,14 @@
+#x_peterh2i_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	KDh7NSl7qXY7kMKx3Ux%2B3yQgPNtQN%2B7QDIsgDFe5arA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1907d615d89e92a3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	692ddd163c27ff21f1300a7360e2c18a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217271496%3A%3Afnoce4ukzg1v71p495vmncw8hbekn3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzE0OTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzM0MTAsImlhdCI6MTUyNDkyOTgxMH0=.PfM1i38MyPLUMJq6jptRq4mzjIvDmqK2Y6MBufjG6D6PJGKI5onvJ-WXQ9lNo779pK3J5icVFNGC6HS1CEqVZw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzE0OTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0NjEwLCJpYXQiOjE1MjQ5Mjk4MTB9.-FM-Y9D6FgMxkIK6treEqE0Im4WgUk4_N-yFlZyciPDwL_PI8WgKdLqXOTGTeCtqXTnZpB0WK9b_qX8QCxKGxA==
+.twitch.tv	TRUE	/	FALSE	0	login	x_peterh2i_0
+.twitch.tv	TRUE	/	FALSE	0	name	x_peterh2i_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:36:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2d6504a015b983eab7924452dddd8a68
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfcGV0ZXJoMmlfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODE4MTAsImlhdCI6MTUyNDkyOTgxMCwibm9uY2UiOiJrYk9FYnFLOWJ5RmFFVGlSZ0RYSUFMbFFHOVJ6b2hRVkRYNWVPMGV5cVRrPSJ9.WPtg6dm13vbtLrnvfYzVtZ9qy6VWYwiIDnKoxYUET_TtNqlzKwa-0BeooTKdGkVhoefIOsr5LffjPfB-TrHcdg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rks0yqoxx3ajbfk6rcvj4kzfxwr3qy%22%2C%22displayName%22:%22x_peterh2i_0%22%2C%22id%22:%22217271496%22%2C%22login%22:%22x_peterh2i_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rks0yqoxx3ajbfk6rcvj4kzfxwr3qy

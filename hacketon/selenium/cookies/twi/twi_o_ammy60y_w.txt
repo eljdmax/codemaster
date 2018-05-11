@@ -1,0 +1,14 @@
+#o_ammy60y_w
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:41:37+00:00	unique_id	262330bf7a7f61f4
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:41:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-04-19T05:25:59+00:00	_twitch_session_id	4414836489eced3773bdd00b7fda6486
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AJthf41iNDacUhjHDiZw8UzslBXTfKi2FjO18x1N3dA%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:48:18+00:00	persistent	216482506%3A%3Ajb8d1xfgb6t8yw0qlmztf0q4d1dw8h
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:48:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODI1MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1Mjk5LCJpYXQiOjE1MjQ1NzA0OTl9.WxQutFDQ0X99CIbdleHTQsTjhUKEEan2wFCVjG5lEzR5GoEDLnekIMKOHYASoHrh_F73hahs9jbsg0-vNpt3UA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:48:18+00:00	login	o_ammy60y_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:48:18+00:00	name	o_ammy60y_w
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:48:18+00:00	last_login	2018-04-24T11:48:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:48:18+00:00	api_token	a49b4fb81ef65666875b419a11976389
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:48:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fYW1teTYweV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMjQ5OSwiaWF0IjoxNTI0NTcwNDk5LCJub25jZSI6IlRfc2h0MlZ3SWtSUlptWGRxYjNTMkF3UUI5WVVfVHY5cnQ2TnRVcnpvcWM9In0%3D.Y-oNk0LAtfXv2P6hhCPEYvYPs3g6Gggv6EwiVPzOHjzCRrU-oIXSs-gPbCL1t4k0Bex7eZwaheyd-GoCP2fnGg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:49:44+00:00	twilight-user	{%22authToken%22:%22ixfh5etgj972rbf78y9q20o2i5y122%22%2C%22displayName%22:%22o_ammy60y_w%22%2C%22id%22:%22216482506%22%2C%22login%22:%22o_ammy60y_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:49:44+00:00	auth-token	ixfh5etgj972rbf78y9q20o2i5y122

@@ -1,0 +1,13 @@
+#s_reaganw34_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	kRom7kEoD9KKiF8boBmauTrJ%2BY4Nf7DNHpdGxGmYlms%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:05:36+00:00	unique_id	b1a8d662aab887ff
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:05:36+00:00	_twitch_session_id	dd1c8afac04d8bacd534a2171ebaeeaa
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:06:15+00:00	persistent	216490959%3A%3Axu7dgmja2tokib4kt1rc58x5n0rav8
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:06:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTA5NTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5OTc1LCJpYXQiOjE1MjQ1NzUxNzV9.saMWfpe15m7suUMOQPoiPs7j95DVd55tB9KtFr6uMmBB0BkdTx-RnvSyzcbycN6Pj2POVYQLKCJWU8VNssMVBA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:06:15+00:00	login	s_reaganw34_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:06:15+00:00	name	s_reaganw34_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:06:15+00:00	last_login	2018-04-24T13:06:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:06:15+00:00	api_token	5e94f488f45f0eef7df2ccddc6a29db7
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:06:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfcmVhZ2FudzM0X2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI3MTc1LCJpYXQiOjE1MjQ1NzUxNzUsIm5vbmNlIjoiYVh6QnFlell5eUxOb2Exa2NzaDhjLXhFUTluQUphSFQxb3c2dUFFbXEtZz0ifQ%3D%3D.pma5ASYQnerUiD0O-5sHAXSkHfJrQeACe-yZqNa1IsvBTqM3r2fYlySu0bAFPrzPEv8yBE2bBI5RTeqxJw79UA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:07:35+00:00	twilight-user	{%22authToken%22:%224nzwup5d6x059ot61kkxv3gsdz4b9l%22%2C%22displayName%22:%22s_reaganw34_b%22%2C%22id%22:%22216490959%22%2C%22login%22:%22s_reaganw34_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:07:35+00:00	auth-token	4nzwup5d6x059ot61kkxv3gsdz4b9l

@@ -1,0 +1,13 @@
+#w_graceh3t_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1aQT114GPK3M0JVk0a52kaCNyiyNrfd%2ByPDogzxHRpU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fca857c52c11a1f8
+.twitch.tv	TRUE	/	FALSE	0	persistent	217573519%3A%3Arf8i5cqtekf99sfeepdv3p0iz97z5c
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzM1MTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzkxNTcsImlhdCI6MTUyNTAzNTU1N30=.wl-Z7QVrM-Nh9ipv2v8F67OfISVWTW-Ahp3sTJ49LS4eB6CqHkKiLJ_74jk1i2y1CiKbnTUvqB-zhjRUVRsPbw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzM1MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjQwMzU3LCJpYXQiOjE1MjUwMzU1NTd9.5gTWmN_x-a9A5Pw403KISAsrF1Xl5PuYFU30BSYdh6eAfKTMih0MesCReZcIrn0XTHPIAc4p9L8pue-H05b9jw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_graceh3t_b
+.twitch.tv	TRUE	/	FALSE	0	name	w_graceh3t_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:59:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a00d3f960520ed69e8e9845314b6d6e9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZ3JhY2VoM3RfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODc1NTcsImlhdCI6MTUyNTAzNTU1Nywibm9uY2UiOiJHcEMyUUx6aHQ0MWhkVExfSEN1RmV6UWNQdjJSVlk1RDd4ajVzUmZRNGM0PSJ9.BQ31pbyHmoK3mFRap27RKW8BZ1ApOEZdoWOag_VDVIEF7CeK1XH82g9m3awdUI-Lgy0b6JuaOnkrAA2Xk5lSCA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ehyjj74nwug7g08v4geqx24aoy802s%22%2C%22displayName%22:%22w_graceh3t_b%22%2C%22id%22:%22217573519%22%2C%22login%22:%22w_graceh3t_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ehyjj74nwug7g08v4geqx24aoy802s

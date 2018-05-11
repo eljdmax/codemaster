@@ -1,0 +1,14 @@
+#i_richard83a_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gpx3F4O0qDXb6GIpgclvv829JS6Bd22e%2B%2BSfKRwvrqo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ad5b5a9153c19010
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7a54413f52d8740138dde00bddc99a56
+.twitch.tv	TRUE	/	FALSE	0	persistent	218850105%3A%3Aa5cl5ib6uw2hurqesgzae30cspm2eg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTAxMDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTYyODMsImlhdCI6MTUyNTYxMjY4M30=.kqv-tmhF9h44Gvum5aNneey_xmJ0dTJ5sXf_4w9-bgeDk2kcjs8A7wyJqOFYvM3tF0D8EmknMkmY3k6uLe6ymA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTAxMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3NDgzLCJpYXQiOjE1MjU2MTI2ODN9.Vb604vYp5dNgwzlPNczz51pVEh3a2kf1dgsrvjGuzULGIzB21BJhNLkRUsis5xYeIYfV5xcqw1YJrlijKEdbgg==
+.twitch.tv	TRUE	/	FALSE	0	login	i_richard83a_k
+.twitch.tv	TRUE	/	FALSE	0	name	i_richard83a_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:18:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3d2667c83c1c1a21f08748be79abf6ec
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfcmljaGFyZDgzYV9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NDY4MywiaWF0IjoxNTI1NjEyNjgzLCJub25jZSI6InhGaV95bUcwN1VDLVhmbGhhbUpLbW02RVRZX25oWldkWi1QSF9jbXhaZ1k9In0%3D.qk_qmcSBAYjtRJTCpHUupn_F6LhM78QRpr_1yYKnmeHl1w3mRt1ChprnpboaFDBGnYBFilSG7Sk6quri2Gb5VA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22a8kjoed12mh8m9vqx34i8tgsk2gxzv%22%2C%22displayName%22:%22i_richard83a_k%22%2C%22id%22:%22218850105%22%2C%22login%22:%22i_richard83a_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	a8kjoed12mh8m9vqx34i8tgsk2gxzv

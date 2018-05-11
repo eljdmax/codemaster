@@ -1,0 +1,13 @@
+#g_courtney77p_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7wVE6g7xsHZ5oGRUJ2t3%2B%2F%2BJWHuRW%2BtzjtjZ4gQBL9g%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	eb45cc4dc6a42a0e
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031047%3A%3Altoz0cmlmym8k02gxt0zl1nl15h9m2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEwNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTEwOTgsImlhdCI6MTUyNTY4NzQ5OH0=.3JTCLOUqv116JuBdyD1DHHS2J2ITVxj50CbrbqCJT6a6U92BOECrcE9yZOEG6KFc8CDQPaREwbwvxbTlrVVqWQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEwNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyMjk4LCJpYXQiOjE1MjU2ODc0OTh9.Ng6tdawUh7bT2tpwmilCGwnvDu_eo3Imh1cgkJDlT3QmD7lBJoeRJcoS8HOQ7aOISJPGnPxAJLi8nAEQ6SVQiA==
+.twitch.tv	TRUE	/	FALSE	0	login	g_courtney77p_q
+.twitch.tv	TRUE	/	FALSE	0	name	g_courtney77p_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:04:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	75d8309570a24a1e1d70877cc3519c10
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfY291cnRuZXk3N3BfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzk0OTgsImlhdCI6MTUyNTY4NzQ5OCwibm9uY2UiOiJYUmVSWEw5Nk9EbzlwU3F5aTNrM2RLSE9wN0VFU2Q4NS1rbXZvUThpMmV3PSJ9.OujN5mQ90m1qGoJdUwHzcno0KwExTA4OgQPf4-qqhmhAF8BzWHD72bNtJpZIGoqAzsh8s5jQGZFjqEPgL_oT0w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228xpt8oq4nda8ih0k41gfrkkr4p3tnc%22%2C%22displayName%22:%22g_courtney77p_q%22%2C%22id%22:%22219031047%22%2C%22login%22:%22g_courtney77p_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8xpt8oq4nda8ih0k41gfrkkr4p3tnc

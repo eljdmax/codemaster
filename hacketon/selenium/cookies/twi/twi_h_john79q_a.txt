@@ -1,0 +1,14 @@
+#h_john79q_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ew9s7EfaVVoAtK6bPGX7tacxD0bwqf9FhisGe7p1WRc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3b7b6a9326185e38
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	6488f6cc41b61590a4fe8638dddd29bd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217948696%3A%3Arumudov15s7urpajs8xfwxwgruvs74
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDg2OTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc4NjQsImlhdCI6MTUyNTE5NDI2NH0=.nDcOJ6MDsiqezyCv4XIXiaBlYibUmoencQ9ucHn3tUCBBOb2wKVcXKOknSBI0qc2TFFW5N1Dxc-qViGA9nANAw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDg2OTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk5MDY0LCJpYXQiOjE1MjUxOTQyNjR9.wypp0CUtAxCgqFwtan_3iTzRP6wLkpAE94dd8Dz0Il0H3kgO4NNYakKCVHe9Grn3kdtXXVWrIpCryi1eFn2_pQ==
+.twitch.tv	TRUE	/	FALSE	0	login	h_john79q_a
+.twitch.tv	TRUE	/	FALSE	0	name	h_john79q_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:04:24Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6b640b6c36148dc36247b6815397220d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfam9objc5cV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDc0NjI2NCwiaWF0IjoxNTI1MTk0MjY0LCJub25jZSI6ImtYSExGZmszSnN5aXY5cC1BMTYzXzh1RkZzMHo3MllybFRxakZWZ09keXc9In0%3D.CeLx7q9bd7_LhkNcDV-x4id0z1tTMa34ZY59ofjMnemBAnHxhNt4SzalkgdjGxy7CaRMKGt-CBX-h9lw4C37GA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22915fap6zsravs13yliwfjb2gzhdp09%22%2C%22displayName%22:%22h_john79q_a%22%2C%22id%22:%22217948696%22%2C%22login%22:%22h_john79q_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	915fap6zsravs13yliwfjb2gzhdp09

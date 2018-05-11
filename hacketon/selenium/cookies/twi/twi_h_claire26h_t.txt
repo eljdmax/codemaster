@@ -1,0 +1,13 @@
+#h_claire26h_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	koMWXJ%2FQ6EqTZavTPQj8kZFyrZpVSOeyI6OqdRaKAzE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1014e19c535cbd3f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217490933%3A%3A6p3mazjtacjfcf85m2jhgqkbyheme2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTA5MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTY4OTgsImlhdCI6MTUyNTAxMzI5OH0=.V7_xU2_dxS4Yyb5nduPl-eBeUEtv6ciB6Tz3E8zS6QWI7fHqUT2qa_w38yk-KHw4_Wz6AtG5xKV8UNEqc7qAOQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0OTA5MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE4MDk4LCJpYXQiOjE1MjUwMTMyOTh9.sgaaCjfrNsI58OYvHCfg835fus-n3ckRGFGcKj11Etn-vkKjZiuE_2jnl-oI_bURckNd5p120ni5pvhAlH-Iyw==
+.twitch.tv	TRUE	/	FALSE	0	login	h_claire26h_t
+.twitch.tv	TRUE	/	FALSE	0	name	h_claire26h_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:48:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b2af7f48d8a01d21ac56f15ddbb17a37
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfY2xhaXJlMjZoX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY1Mjk4LCJpYXQiOjE1MjUwMTMyOTgsIm5vbmNlIjoiZWxmTzZaVW11QnIxQlFHdjRsNG5ZY2haNHFRNG1wSEI4c1JreGVFaDFIaz0ifQ%3D%3D.wDHuEdhCnnH8w9aHWTT4EUkFidgKwALEnE8ocLL9YSngE7-6vke86lWOQCRpGihGZmeoVhcv1vd0gNMN1dRSKQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22u19g43boyjspfo8cp8ia8e2ja3upen%22%2C%22displayName%22:%22h_claire26h_t%22%2C%22id%22:%22217490933%22%2C%22login%22:%22h_claire26h_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	u19g43boyjspfo8cp8ia8e2ja3upen

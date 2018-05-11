@@ -1,0 +1,12 @@
+#f_kennetha42_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CvzqIX%2B%2B9YRKGVo8%2Fu2%2F2o2qC9XeTlbOsqTiiU6V0WI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:43:19+00:00	unique_id	74c26f465c1a11a5
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:43:35+00:00	persistent	217555965%3A%3Amxsmxqfddhx112kbmee9f26udoydgm
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:43:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTU5NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1ODE1LCJpYXQiOjE1MjUwMzEwMTV9.1hd95NkXKk6RKaCSUMYaB92S0jD16EYl-Ah36-vgw6XLq0p3_sFKk6L5fod-q3z8hBo-4CevZaZhGpEgBmLihg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:43:35+00:00	login	f_kennetha42_e
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:43:35+00:00	name	f_kennetha42_e
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:43:35+00:00	last_login	2018-04-29T19:43:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:43:35+00:00	api_token	5db20abd04faa71728af1687cd9b0c40
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:43:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfa2VubmV0aGE0Ml9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MzAxNSwiaWF0IjoxNTI1MDMxMDE1LCJub25jZSI6IlgwNFc2Z2pPNUt5bW5VNlU2dDZUaHFIckduSWtTc0hyX3RXc2NnRG1oMzQ9In0%3D.SyTJ-kGve-OBPcwxtIqklFApVm4oRRU8tCjiKWGGg92CDeVo0n4Qn1ArmgK4waCni2hcUPap5r3r9kF5syb0tA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:45:18+00:00	twilight-user	{%22authToken%22:%2202rxcdthj6asl1hoszprpo2458gjbv%22%2C%22displayName%22:%22f_kennetha42_e%22%2C%22id%22:%22217555965%22%2C%22login%22:%22f_kennetha42_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:45:18+00:00	auth-token	02rxcdthj6asl1hoszprpo2458gjbv

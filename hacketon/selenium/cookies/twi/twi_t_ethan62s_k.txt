@@ -1,0 +1,12 @@
+#t_ethan62s_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6f8o2t94c9f87sgUgoOyBWlqvrNEOdQA0pfCrBYZL54%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:46:33+00:00	unique_id	9a4de54d576ab943
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:46:52+00:00	persistent	217079241%3A%3Ad4co45yuvpqavuc876yg6l4e5nh1xx
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:46:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzkyNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2MDEzLCJpYXQiOjE1MjQ4NTEyMTN9.rNuEABBJvoWy06pt11GkTnpR4s7Cy1SBH-kMr1C-Pis8p4TvhdeN6yebQivn3VtVgPI3DIuq6zw9nAbFhxXsgw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:46:52+00:00	login	t_ethan62s_k
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:46:52+00:00	name	t_ethan62s_k
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:46:52+00:00	last_login	2018-04-27T17:46:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:46:52+00:00	api_token	2075fdf1b7eae6021f19805e8aa9f1c7
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:46:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZXRoYW42MnNfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDMyMTMsImlhdCI6MTUyNDg1MTIxMywibm9uY2UiOiJmYVZNZmpnQUUydUh6N21va1NlajZrUXA4Wi1RVGdUZy16aU5Jc3pXeG5jPSJ9.kPqSc9CNSUtTe2HbYJg8GCSiCRYnv3byHzzB_t9LbRv9lS9nSFW0BNNWeFuhiY7-rQWIqyoryM6gNe6kpgIgIQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:48:27+00:00	twilight-user	{%22authToken%22:%22myu2zlot7y9mpai2x06tye2rs1yew2%22%2C%22displayName%22:%22t_ethan62s_k%22%2C%22id%22:%22217079241%22%2C%22login%22:%22t_ethan62s_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:48:27+00:00	auth-token	myu2zlot7y9mpai2x06tye2rs1yew2

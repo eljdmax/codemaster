@@ -1,0 +1,14 @@
+#h_andrese9f_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2FeepnMFa8SRrult1woEJZuFt6Li5Xs9moAn2pBMIhwc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	034689e8329cd9d5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f49fe6a4bda4d3bccfed3f20b3301593
+.twitch.tv	TRUE	/	FALSE	0	persistent	218866198%3A%3Aui8qyxevzgtdpgx17ryjcfbw7vcp5g
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjYxOTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjIxNzQsImlhdCI6MTUyNTYxODU3NH0=.A1wYGtDiuQhoGHqer-YqrRtaeBHVOpsFfdDUtCQsM1LouhHbEkSmyt-6u_J71W8bqpcSGMPBbxyhUUTRKGrlVA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjYxOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIzMzc0LCJpYXQiOjE1MjU2MTg1NzR9.84V1ETZdgjrx2NJIOUE323Iqm2NAnWpjEahvoJf85V3Pbx2kOU_U74GWbCdOuu41j6TgEDwOqDL1CV3s27cYhg==
+.twitch.tv	TRUE	/	FALSE	0	login	h_andrese9f_u
+.twitch.tv	TRUE	/	FALSE	0	name	h_andrese9f_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:56:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e571be0cae7c9e148a29f65bfa6ab915
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYW5kcmVzZTlmX3UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcwNTc0LCJpYXQiOjE1MjU2MTg1NzQsIm5vbmNlIjoiRmhZN3dLa0hCemM5SWVPc28yZWF2YkZrSk1zbWl1QTl3dkx5ZF9lRlUtdz0ifQ%3D%3D.JfUmVT5s-5ukMSkILUjjjLTq9Xms6qVxVZM8hUM8wp1ux3G8meVc5rO40MS5OjL1M-kVa25Oqn10sl0r53hP9A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22147oa1myz4vo9v80cg6aep8gxjr79b%22%2C%22displayName%22:%22h_andrese9f_u%22%2C%22id%22:%22218866198%22%2C%22login%22:%22h_andrese9f_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	147oa1myz4vo9v80cg6aep8gxjr79b

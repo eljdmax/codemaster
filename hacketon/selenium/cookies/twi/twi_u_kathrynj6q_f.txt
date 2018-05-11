@@ -1,0 +1,13 @@
+#u_kathrynj6q_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WorjlbcOTtI0z9Y6RVFyxkHGjnBSdnU3osIYUpFQEPs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	511b26b9015edc45
+.twitch.tv	TRUE	/	FALSE	0	persistent	218864938%3A%3Agpmxp41m86ntvicpnu0lgcztnqsavr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjQ5MzgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjE3NTEsImlhdCI6MTUyNTYxODE1MX0=.-pQBYNS_F_Vxg6zVjy6sDQbIPZR2VstFPJuQSu4csNnHTk87mhGYMZT1aoi161Reawr83_4fFsGG18IlpIPE6A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjQ5MzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIyOTUxLCJpYXQiOjE1MjU2MTgxNTF9.TruPK35siLt-1qQ14siRc40ELkcvOxjvfrlckNjbzdWDitTeS5vddS2RbW2ykuwrkFY97NpzMNzru-m_X4OBGg==
+.twitch.tv	TRUE	/	FALSE	0	login	u_kathrynj6q_f
+.twitch.tv	TRUE	/	FALSE	0	name	u_kathrynj6q_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:49:11Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d15113245f6c2787bfc8fea0be2a4c01
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfa2F0aHJ5bmo2cV9mIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3MDE1MSwiaWF0IjoxNTI1NjE4MTUxLCJub25jZSI6IjF6T3k0aUlZTjdELXZETkdoX1RKZG5GLWs5TDZBV25iQnh3Y2J5T3UxZ0k9In0%3D.T00Z-m1jZLA4MLZ8Y-7eTgZcrczfMuPTjHATWYfjgD0TzlAdXYGDzyydimUMLs3rZlMecHNW_m9zW7w_CrmvfA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224cmxrds2sahh9ntsqu0ib9wrod21do%22%2C%22displayName%22:%22u_kathrynj6q_f%22%2C%22id%22:%22218864938%22%2C%22login%22:%22u_kathrynj6q_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4cmxrds2sahh9ntsqu0ib9wrod21do

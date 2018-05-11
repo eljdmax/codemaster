@@ -1,0 +1,22 @@
+#z_elijahy2x_9
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GsgZSHutOYVDLqXr7ooHjp3%2BHrY%2FGNfD2IxAjg6rwlY%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217017516%3A%3Azl7yw7893dkzxvcqnyi57o150bidak
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMTc1MTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4MjUxNjcsImlhdCI6MTUyNDgyMTU2N30=.Dv2LSiX5QHn8wMGZ8mZGJYGKuzsc3jgJv8Mo0DjPSrMqJ6QPRcLEOKUtMRqd0GhdeYA-h0qQSCO9FRktrznmgQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMTc1MTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDI2MzY3LCJpYXQiOjE1MjQ4MjE1Njd9.y7X4yE49oQGaUl9r8Cv3ojxSDATlRk1oBDy3dkYXT2lIsa8D7An-w1SjhPaWJP4PiG8Y-XCBh44lxC8pj7aC3g==
+.twitch.tv	TRUE	/	FALSE	0	login	z_elijahy2x_9
+.twitch.tv	TRUE	/	FALSE	0	name	z_elijahy2x_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T09:32:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a899dea6b40cfcbff8a5ba3e08c754c1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfZWxpamFoeTJ4XzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzczNTY3LCJpYXQiOjE1MjQ4MjE1NjcsIm5vbmNlIjoidHVxbjU4QVBNWjNiVHBST2pxUndZOGh3a045cjYwZllVZFN0N2dJZnhVTT0ifQ%3D%3D.5hpMOV_N7Gj9BQGbegGrJzVaoL2QG-LhFOsiIEI-OClIe1mHdiIikzkdfrsL3Y8gb1avY0RTnKTo-ukCbUvPvA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xo0odxp6vlndlqozogu89vj6ipzqcz%22%2C%22displayName%22:%22z_elijahy2x_9%22%2C%22id%22:%22217017516%22%2C%22login%22:%22z_elijahy2x_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xo0odxp6vlndlqozogu89vj6ipzqcz

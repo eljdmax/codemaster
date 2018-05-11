@@ -1,0 +1,12 @@
+#g_lukeg5s_a
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	f1mn82tuubCDYKnTnmviBWsj4vfjkTSBYWCYhfo4oyk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:36:54+00:00	unique_id	a439744631a1b8d1
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:37:09+00:00	persistent	217554522%3A%3A25331fa8sxmwrq51u5pxxg5bsmnqf3
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:37:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQ1MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1NDI5LCJpYXQiOjE1MjUwMzA2Mjl9.5DTW_AR_RuA9XRuU16Lz0Bi_AL9-dLeH46hqvm4WrlF6VCE_CLp4qXMa5X_ZgCXe2rZ2GXwlU4gWvQciiIOTzA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:37:09+00:00	login	g_lukeg5s_a
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:37:09+00:00	name	g_lukeg5s_a
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:37:09+00:00	last_login	2018-04-29T19:37:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:37:09+00:00	api_token	566727148069ab8f0a53d989a282c0c7
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:37:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbHVrZWc1c19hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MjYyOSwiaWF0IjoxNTI1MDMwNjI5LCJub25jZSI6ImtqNGlYcWhwdHFjc1c3cTJwd1laN19EVHFuN2ZLOE1zWENYdHZ1X1BCOTQ9In0%3D.IhyZgzY-9wbjm-HYQHbbF4If9nzloGom3p4ULyi2cjXsf-jV_xWUwkFEDDwQxNOzdWXjlQHbkflVdB0CJHb2lg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:38:52+00:00	twilight-user	{%22authToken%22:%22kxa7s4t9fwhw4b5p0yqhw303kzkdev%22%2C%22displayName%22:%22g_lukeg5s_a%22%2C%22id%22:%22217554522%22%2C%22login%22:%22g_lukeg5s_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:38:52+00:00	auth-token	kxa7s4t9fwhw4b5p0yqhw303kzkdev

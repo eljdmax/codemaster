@@ -1,0 +1,14 @@
+#b_aliciac45_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cb73907a56ab9b60
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2Bg67Fs4homU4e5znypvqcn5D56V3BrWIWQZLs%2FcS2WE%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	70ceab0da4394cfb6b314ffdfaabb9dc
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031116%3A%3Aq6eamty12jhm0mgqhtjcuu93lu3ekf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzExMTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTExNTMsImlhdCI6MTUyNTY4NzU1M30=.kMwlMCbl7gcZRJAL_NTqRQgwPkOaUGBNXGw6-6fEi5eRtG5Vqw27NiOSvlBOBlfqkpZz0NAznsARp0cXhqhO0A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzExMTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyMzUzLCJpYXQiOjE1MjU2ODc1NTN9.fbMkzEZINqavdbc8wO4JQFAQlxDTiQx_mcqSaypRGQaCyv2RDD0RtL8dwFRXGxlZaVS5ytDcOr5n-_ICNC0IPg==
+.twitch.tv	TRUE	/	FALSE	0	login	b_aliciac45_a
+.twitch.tv	TRUE	/	FALSE	0	name	b_aliciac45_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:05:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	33a93ce203cc6efd1be90c553e5945eb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYWxpY2lhYzQ1X2EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjM5NTUzLCJpYXQiOjE1MjU2ODc1NTMsIm5vbmNlIjoiS3F5UHJyZGRoTGwxb1BJQUJnNFpFN2RTcVNDWlkwa2t4bUZVVkRERUFWTT0ifQ%3D%3D.xHPTznvALDMBmYZ1S-Dd7LnhzcktzqaCV5ZQ3yXflA7IezHdhiot9a2HI4AzUVwmCgzOBx5SKhfEZrllLgsMhg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dwta13457nxcbc40kty6pf9drvr40c%22%2C%22displayName%22:%22b_aliciac45_a%22%2C%22id%22:%22219031116%22%2C%22login%22:%22b_aliciac45_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dwta13457nxcbc40kty6pf9drvr40c

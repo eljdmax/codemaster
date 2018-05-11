@@ -1,0 +1,13 @@
+#u_serenityp3e_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	X20e1XBbdDdcpTtj7wM1ZgDmxJg4MbYEjU4xgCmmDiA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:41:57+00:00	unique_id	21fe455e6003ca74
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:42:15+00:00	persistent	216138494%3A%3Amkut4a7w0qvpd38qoykt3uywsex6wb
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:42:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzg0OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MTM1LCJpYXQiOjE1MjQ0MzMzMzV9.ylQsgezkpu8R90n4n35LAbJj8tL-oTpA4swQwawMX1g7T6d9Aqd0EdXQcMgUONgje3xt0diLW75gPWNq_SGOug==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:42:15+00:00	login	u_serenityp3e_o
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:42:15+00:00	name	u_serenityp3e_o
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:42:15+00:00	last_login	2018-04-22T21:42:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:42:15+00:00	api_token	54a3e4f69d02cd223e4fb61262bfde8a
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:42:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2VyZW5pdHlwM2VfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODUzMzUsImlhdCI6MTUyNDQzMzMzNSwibm9uY2UiOiI4UVpZRElYb0xuUE1yX1VZaWJBcjNCUEtYbDhDQzdrSzRqeV9FMHo5ckdZPSJ9.RgH0MOJjymKQCJrE-Kdpek7oxupexQThyYnKVp7nt-teft7tKD09wzV9QvWSPXd6XH2pdKWZkxO_4Q-mb9nKSQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:43:27+00:00	twilight-user	{%22authToken%22:%22xyc6c7u1v5gytcv9ynswsno559hrhn%22%2C%22displayName%22:%22u_serenityp3e_o%22%2C%22id%22:%22216138494%22%2C%22login%22:%22u_serenityp3e_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:43:27+00:00	auth-token	xyc6c7u1v5gytcv9ynswsno559hrhn
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:43:28+00:00	twilight_onboarding	true

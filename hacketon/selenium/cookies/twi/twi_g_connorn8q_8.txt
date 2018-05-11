@@ -1,0 +1,13 @@
+#g_connorn8q_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Mzpvw3lUgh8wHzM9Z34oVfaLXSeZNPGIA%2BvJ6IPWLs0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	64edf252aa130d27
+.twitch.tv	TRUE	/	FALSE	0	persistent	219033267%3A%3Ayv0yhrxgbmxn5bddx9dvuykgl94td2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMyNjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI4NTAsImlhdCI6MTUyNTY4OTI1MH0=.9A-2dzo40FPF_OIrStfg7u0F8uwrggGzfaiHIBqeLkwFoVw0rg6gUT_VXi0RP6_QGUgiRRk9Hs4Jx9-vNZsp_g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2Mjk0MDUwLCJpYXQiOjE1MjU2ODkyNTB9.W1kJxl3S9OYAr1izl7YdS32PSbukg5JWAAU7TNrp2Mv8JGh1YeKpjkIjDSOZlT_ZCLojunkZnVmPHhcl4rSWpw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_connorn8q_8
+.twitch.tv	TRUE	/	FALSE	0	name	g_connorn8q_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:34:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	33a30070bd6320bbee882be0ef1d18ad
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfY29ubm9ybjhxXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjQxMjUwLCJpYXQiOjE1MjU2ODkyNTAsIm5vbmNlIjoiYUhQRTFxcmprZVUzRXBabjdSb3hCUW5xUExsWlRfdENOajNpN19ERlM1UT0ifQ%3D%3D.8oapGhV60VDEuADLh69mFN0kuKXTujEE7p2Jh7JkifvYvk9pHwT-9E-HffEGTH18qqv8ZDnoZjV9G3DhbcP5kA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kzfb2ysn8yibl0ci41jkpa0qbgds1n%22%2C%22displayName%22:%22g_connorn8q_8%22%2C%22id%22:%22219033267%22%2C%22login%22:%22g_connorn8q_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kzfb2ysn8yibl0ci41jkpa0qbgds1n

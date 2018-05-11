@@ -1,0 +1,14 @@
+#y_landonb31_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tUtt34dMPO%2BnoARWbriNWi6aLBLOzNsj4RbkJ7hlpFU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	964090deb1f3780e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1293f97da057600b028fa23cc13668ea
+.twitch.tv	TRUE	/	FALSE	0	persistent	218849862%3A%3Ajc4fc1e2uxrbc1l2u6i42qg5t09hfr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDk4NjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTYxODgsImlhdCI6MTUyNTYxMjU4OH0=.4YWve19hQXsKxbOgZHVpP9LJZUHJR6cOD06S_sp5RIBdxptZkeSKADzw_RYYL3jXYFaWoJEpEWpMMNqR7B_CyA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDk4NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3Mzg4LCJpYXQiOjE1MjU2MTI1ODh9.O-wGo4IZ26augB-9usct-PEhkeUbVfergjDFl3-WProAfeRD2NC4RS4ABLw83K-jdpfak73vCC10BkAa-bc27w==
+.twitch.tv	TRUE	/	FALSE	0	login	y_landonb31_q
+.twitch.tv	TRUE	/	FALSE	0	name	y_landonb31_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:16:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	14a3f9b348cd5e01c928ced262923f98
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbGFuZG9uYjMxX3EiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY0NTg4LCJpYXQiOjE1MjU2MTI1ODgsIm5vbmNlIjoiRU1tdENsbnNPNW1WdzdlUWE5Ul8wV1NlLTBRT1lyU0xLem14a0l1dUZLQT0ifQ%3D%3D.t09aYh5wVEKS-ICLnHzNmuIR6Ba5khi79PWZlHb67KGlcP3eX7nzSqurnAxe5M1VIJ-ekz_UGrjIIL2oUFs1dg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%226d7jx7mqfaxfgvlcgayfeb038w6bjj%22%2C%22displayName%22:%22y_landonb31_q%22%2C%22id%22:%22218849862%22%2C%22login%22:%22y_landonb31_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	6d7jx7mqfaxfgvlcgayfeb038w6bjj

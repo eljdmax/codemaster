@@ -1,0 +1,13 @@
+#p_erik06l_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	d78teTSvj9w7okKx0FH6m%2BsyLoThjSy8WHYR5JRs0ag%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f7c68d5ac7eed072
+.twitch.tv	TRUE	/	FALSE	0	persistent	218953354%3A%3Atr4pgwzynhxkek3zunzdecasio4ral
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTMzNTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc2ODIsImlhdCI6MTUyNTY0NDA4Mn0=.iT5EfhUho91y3G_lb7ur3XcOrQ5EQsNuKWV6R7l5OHmJOfZAd4uq85mFVkj4EnpPc-uem1BRCSLKgYVblNi42Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTMzNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4ODgyLCJpYXQiOjE1MjU2NDQwODJ9.w0pgmBX4zCSYdfpXn0rToOry88bdSwgmD--S87CYB7_8LK6T6CecXvNzFVyQbdBjMz0_-GAffQNVgwafYFiAgw==
+.twitch.tv	TRUE	/	FALSE	0	login	p_erik06l_x
+.twitch.tv	TRUE	/	FALSE	0	name	p_erik06l_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:01:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c6ab713da2d54bc813c9e1e5d022c18f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZXJpazA2bF94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NjA4MiwiaWF0IjoxNTI1NjQ0MDgyLCJub25jZSI6IldWRlJDNXhFb3lmTnF3a3dycTljdGFxWVFKN09FQ0k1Y1gzUURZSjVfS1U9In0%3D.-p3j61zFgb_uo-QUiQANx6T46x_a3KqFmEVsEb9MWW8Bg8uf6Ko8xOK9bnb_VR2p_2bXJNNI2TJcg9v8VKjRSg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229efq53mc6a6nw9yge7dxre4mhz43ko%22%2C%22displayName%22:%22p_erik06l_x%22%2C%22id%22:%22218953354%22%2C%22login%22:%22p_erik06l_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9efq53mc6a6nw9yge7dxre4mhz43ko

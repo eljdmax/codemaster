@@ -1,0 +1,12 @@
+#d_myaaj7s_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	njNwmLILKTGr4pC0Ni2F%2Bwm0DmjMxdkVUIH9JbUrhQI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:50:10+00:00	unique_id	2bc4019d67567dfa
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:50:34+00:00	persistent	216938539%3A%3Ae5c7igy8ymm87z5wyx1kqtrjz5sm66
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:50:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzg1MzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwNjM0LCJpYXQiOjE1MjQ3NzU4MzR9.o71Pu9K8tMQv-0O-9o2RuCJQw0e-Nsam8HSpUydjjiiJOdAlTR9HVxWxEYSl3CuioEIG3A5O49NSk2vdlKqikw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:50:34+00:00	login	d_myaaj7s_1
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:50:34+00:00	name	d_myaaj7s_1
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:50:34+00:00	last_login	2018-04-26T20:50:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:50:34+00:00	api_token	aefc41da57c8353350e7b5daa1edbc6c
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:50:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbXlhYWo3c18xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNzgzNCwiaWF0IjoxNTI0Nzc1ODM0LCJub25jZSI6ImdhUlRpcmEwWTNWNGxIZHdIRWpPTnFINFE1eHZoTXhPaXRua2VROHFiSUE9In0%3D.pjkSAz5mE0YyHjctayGjmwYfhWHg7Z5U-QaWIrfq1SGE7wTyt9a9wVNnpUvfKE-4-XDPdys2iOOg7voUiA60KQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:52:04+00:00	twilight-user	{%22authToken%22:%22fjytdc24uaie95qlkk8ngve7yv29lu%22%2C%22displayName%22:%22d_myaaj7s_1%22%2C%22id%22:%22216938539%22%2C%22login%22:%22d_myaaj7s_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:52:04+00:00	auth-token	fjytdc24uaie95qlkk8ngve7yv29lu

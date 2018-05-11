@@ -1,0 +1,14 @@
+#y_emilyp8d_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	SfAXZgEV8bbEKiWLYsptcdn%2F9WX13MJjUOB8rJkI%2FiI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fd4b8c32ac711dad
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f8b358630feacc69a0a1974b7bd2bc1d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851890%3A%3A95tuf68ekji612va77m5g3x86t5wtz
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE4OTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTcwMDIsImlhdCI6MTUyNTYxMzQwMn0=.xgABpiG9rBzpALL3noKM9cTTBhP8mQYLvAO1dFkf_BOwAXYucS7N6ZW-dyaOAnZJVH50o_nhMVsSj4-cXpihGw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE4OTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE4MjAyLCJpYXQiOjE1MjU2MTM0MDJ9.ds26V1hkhccE0eK6SvAcgfjHpM6rQGXOd_TtlaZvBXXE-gtjLsS6VKvI3M5jlGQJY05hsSwe98qAvdNPOMoxww==
+.twitch.tv	TRUE	/	FALSE	0	login	y_emilyp8d_d
+.twitch.tv	TRUE	/	FALSE	0	name	y_emilyp8d_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:30:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ea0b4e5388437967917a69990bdc822c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZW1pbHlwOGRfZCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjU0MDIsImlhdCI6MTUyNTYxMzQwMiwibm9uY2UiOiI2SkxtSlgtRk9qU3JGQzJmQUJtSkZ0SU52UTJSazRkdWxqMk9OTmI3NVdjPSJ9.O3rgYNo-1Deyh-mSKRttmMh9TZGSVi5TVeAWAJeIkbxcYNv2pzD91Yns2ObN7JaF2-hLDaKtA_SbgbqfV3E1jA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22spjelrhlmhuy0vfoopqc2do5wyw2g0%22%2C%22displayName%22:%22y_emilyp8d_d%22%2C%22id%22:%22218851890%22%2C%22login%22:%22y_emilyp8d_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	spjelrhlmhuy0vfoopqc2do5wyw2g0

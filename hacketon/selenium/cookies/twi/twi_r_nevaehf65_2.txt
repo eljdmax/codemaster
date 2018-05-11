@@ -1,0 +1,16 @@
+#r_nevaehf65_2
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	b4B4GYATHGMJgER5nSpRJasv72pxUfSauDdGK%2BE%2FTOU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:10:55+00:00	unique_id	7aeca00322e6f01e
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:10:56+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:11:10+00:00	persistent	215243093%3A%3A2eqbmwkp7joj02c5iiqwgm9vo2mtoj
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:11:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDMwOTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5ODcwLCJpYXQiOjE1MjQwNzUwNzB9.AU9jrv5uJATS0h49iiEapGIwtbeQ08omwcWuIz_7PuC3bEG0HiIVj0qw6sAJCA_NXnx8dSkMykAUhmUOjexf4A==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:11:10+00:00	login	r_nevaehf65_2
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:11:10+00:00	name	r_nevaehf65_2
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:11:10+00:00	last_login	2018-04-18T18:11:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:11:10+00:00	api_token	5dd3c91ee55ab047a668bbd5f7bcdb5c
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:11:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbmV2YWVoZjY1XzIiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI3MDcwLCJpYXQiOjE1MjQwNzUwNzAsIm5vbmNlIjoiTW43OVZQbjgtSzhKb0oyQS1wNHdyOHVpTlVtN2lvVkpsZkFaUDlCdDl2TT0ifQ%3D%3D.w1Z-Ws0Z5mQdeffggGQf1M6VmZp9BZEDzi3BgAYzYPhpTkBts8T6uQwOPIR-cEIXWftcl69f0CrNI4AHjRD-oA%3D%3D
+.twitch.tv	TRUE	/	FALSE	2020-04-17T18:11:19+00:00	__gads	ID=09c2c2c90846f1a9:T=1524075080:S=ALNI_MZzBtxd10qmPacZts41YeyRJ6TbjA
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	u3F1WhY7iM55zj2VwNM0OZHPo12o3RmT
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQwNzg3MzYsIm52IjowLCJ1cHQiOjE1MjQwNzg3MjIsImx0IjoxNTI0MDc4NzIyfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:12:18+00:00	twilight-user	{%22authToken%22:%22ses0gns00qw7cxzc6ubzali2g44xxl%22%2C%22displayName%22:%22r_nevaehf65_2%22%2C%22id%22:%22215243093%22%2C%22login%22:%22r_nevaehf65_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:12:18+00:00	auth-token	ses0gns00qw7cxzc6ubzali2g44xxl

@@ -1,0 +1,13 @@
+#n_amberw68_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Oa%2FFKkQutYi94HEUGmS5%2FsBONvcFBYwtbmcWi7wwChg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:16:07+00:00	unique_id	38d94def51cde907
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:16:07+00:00	_twitch_session_id	8a95f7334459c5576667ad86ad5c022c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:16:25+00:00	persistent	217563721%3A%3A076rjeispd27lnuo2equzuhn7p6xb3
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:16:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjM3MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3Nzg1LCJpYXQiOjE1MjUwMzI5ODV9.WkubHuiEx6jzlq-dYBqEiXilb8YiLBIQMRDM7rOtE2TFiij4fQa1TBV3YBRNTOdZQvfcRzQ2H4lH64-uNedFAg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:16:25+00:00	login	n_amberw68_y
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:16:25+00:00	name	n_amberw68_y
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:16:25+00:00	last_login	2018-04-29T20:16:25Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:16:25+00:00	api_token	ac04fcce93b0edd1e86e2adea7b539b5
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:16:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fYW1iZXJ3NjhfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODQ5ODUsImlhdCI6MTUyNTAzMjk4NSwibm9uY2UiOiJaSFVSdU14aFlzcWJnd1RwTnJiUEVxR202cnBMRTVVcDBiTWpOTVF1eDVnPSJ9.bS6q9nHH_ocfrEKsyaptCdvh1CcnUZRncsuZgCQpwd1MRYJ1THJos_2TwlpPIwwpZdopBD3Y74mApb3ZoGHKEg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:18:08+00:00	twilight-user	{%22authToken%22:%22ledv9hzigoo3rrshzm5hbnlip8i96j%22%2C%22displayName%22:%22n_amberw68_y%22%2C%22id%22:%22217563721%22%2C%22login%22:%22n_amberw68_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:18:08+00:00	auth-token	ledv9hzigoo3rrshzm5hbnlip8i96j

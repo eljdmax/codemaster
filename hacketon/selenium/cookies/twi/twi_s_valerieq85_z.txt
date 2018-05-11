@@ -1,0 +1,14 @@
+#s_valerieq85_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	VaJwJ7HjS7ACtr521pgdGg1m5uO5H7Jn28ggXnck7B4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5a4a40499e4b578e
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1334ff61da00e8d577a84dff8d2ddbc9
+.twitch.tv	TRUE	/	FALSE	0	persistent	218878227%3A%3Adzjibc5yoyaqz1j6bt60lwdumb6ccl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzgyMjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjYwNzUsImlhdCI6MTUyNTYyMjQ3NX0=.kQ939QTH3iB4jnbrcQsYocmdoc8VDy8cdnM32VClX916weCCpPufCffymR9-Z1LrZn4vkNHMWEq_b-pcJOcSHw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzgyMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3Mjc1LCJpYXQiOjE1MjU2MjI0NzV9.QYUGsWtFIF5lJKuA-kdY6a_pvIghCGm-aQsaVjUr31yxQ4K-G_FDqmdZyAA054sl0c40xDGHcTDbIpuJveR7sw==
+.twitch.tv	TRUE	/	FALSE	0	login	s_valerieq85_z
+.twitch.tv	TRUE	/	FALSE	0	name	s_valerieq85_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:01:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bf1ce99f94e9e22e1ff1b90a567860ec
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfdmFsZXJpZXE4NV96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NDQ3NSwiaWF0IjoxNTI1NjIyNDc1LCJub25jZSI6ImgtdWJvOXhrdzhtWXNnYjhzZXEweVd5eEJQNW81M1pvdTZWakFpajdLVE09In0%3D.m_6Ym_nBdq-WmHI9FFCbfnCJ1kFlVvLo0ID3IrQ_GyrvK-HTGngkc9VPooQ1ewVk9MEIGn8WCzBIvUMtQpDE9g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22b9mnupht5m9lyua16pr1079lkrjhw9%22%2C%22displayName%22:%22s_valerieq85_z%22%2C%22id%22:%22218878227%22%2C%22login%22:%22s_valerieq85_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	b9mnupht5m9lyua16pr1079lkrjhw9

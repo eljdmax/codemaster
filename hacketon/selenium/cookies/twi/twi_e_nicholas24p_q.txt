@@ -1,0 +1,14 @@
+#e_nicholas24p_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3jgfwqfPeYAg4ZS7cxG7MhaMJcP8t9K55OEcwafBVEA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6325660c4e6bb0ac
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	90da8b02ce1504dff73879c9229a3f8a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218956912%3A%3Axr4f4vd57nu5sysh2yw0lfesu9fv8k
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTY5MTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkwMDksImlhdCI6MTUyNTY0NTQwOX0=.hZ8geVZfT47sbi0o7Is2hV4ykCR-PDBfp54ifJ_3-CzvThcC_WCJov9xtZ9mmm-vhUHoTwr5Hqp5ew7CxFuJLg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTY5MTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwMjA5LCJpYXQiOjE1MjU2NDU0MDl9.5NmhtV4N5O5i8DY6Ts8P45U7PL_rX2DkUfxo9wwhWkT3o4bqTqZRusSy5pjnRgUDkRjYq1zda95WF9nn1_JXqQ==
+.twitch.tv	TRUE	/	FALSE	0	login	e_nicholas24p_q
+.twitch.tv	TRUE	/	FALSE	0	name	e_nicholas24p_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:23:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	afb8e910382936a6d540f4f1390a3d95
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbmljaG9sYXMyNHBfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTc0MDksImlhdCI6MTUyNTY0NTQwOSwibm9uY2UiOiJqU2JQOFV1NmVWS0tWeW1HUWdyam5TcE5pV3ljNjFVazhsekJnb21wb0xZPSJ9.AVQz8dWddJHg5Zb5EVk7nDiYkXIefDbnuoCnXNomV2jxWm9UYOb3yJnVSMkbEBorgM3OSk3GJjoyJD2IgMKeTA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fkx4wk3uwzn7jh1129v54ff86a5jpv%22%2C%22displayName%22:%22e_nicholas24p_q%22%2C%22id%22:%22218956912%22%2C%22login%22:%22e_nicholas24p_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fkx4wk3uwzn7jh1129v54ff86a5jpv

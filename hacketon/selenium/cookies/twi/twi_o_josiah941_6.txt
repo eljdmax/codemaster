@@ -1,0 +1,13 @@
+#o_josiah941_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	udmuRvFCH8wiN94fWu4084fMoLSW1fITzO1nhn%2FS620%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:18:41+00:00	unique_id	28188cdabbad26ca
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:18:55+00:00	persistent	216145152%3A%3Ax48yoq5l06rh9b5n4a0mf0nwuipg7k
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:18:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDUxNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDQwMzM1LCJpYXQiOjE1MjQ0MzU1MzV9.A93Df5rRxe91tySRizJvRlpUZYdZV84kFrpcu-c0uYP9gZ2-NfCUIWa5ik3hc89Uo4xRvee8bpcpZgHAJOHZXA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:18:55+00:00	login	o_josiah941_6
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:18:55+00:00	name	o_josiah941_6
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:18:55+00:00	last_login	2018-04-22T22:18:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:18:55+00:00	api_token	99de13ec54ecd410d412001a7403c588
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:18:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fam9zaWFoOTQxXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg3NTM1LCJpYXQiOjE1MjQ0MzU1MzUsIm5vbmNlIjoiQ1pIeUtkRC1xeTVFLWVzQzRMNnBDMGZLZFUzbDVfWG1sNEgyb1Z2Z2sxUT0ifQ%3D%3D.ldoMpnNC6GO07rBDnQdZy0eSysDc64qIWDBqZSAGQoc3sKK_z_9RXmcRk_4JXUjCjclshrZIDR8v5hE4oPsKcw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:20:08+00:00	twilight-user	{%22authToken%22:%22h1ya5vwgowskq2teic33slgvug56by%22%2C%22displayName%22:%22o_josiah941_6%22%2C%22id%22:%22216145152%22%2C%22login%22:%22o_josiah941_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:20:08+00:00	auth-token	h1ya5vwgowskq2teic33slgvug56by
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:20:09+00:00	twilight_onboarding	true

@@ -1,0 +1,14 @@
+#o_gregoryu3a_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	LPi71e14wU7Q2FWaroRRrnlwjA7pom1avy0fOfkE2C0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2241694281b96266
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	aa3da9ec803a6ca2c7ce61f8513344a4
+.twitch.tv	TRUE	/	FALSE	0	persistent	218878821%3A%3Apsbf7g362lve4ijbm653gdjogj12s8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzg4MjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjYyNTksImlhdCI6MTUyNTYyMjY1OX0=.uRx7S6qCG1HUHrPUpdWNJPcRJDeCUDpIvVkjoBandC_n3NpYciusaMYF6Cx_KCuqo63GHO4E1fWKdjMe2868MQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzg4MjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3NDU5LCJpYXQiOjE1MjU2MjI2NTl9.stvvrpzqVzamDRSTFggpvAy1aFhAJs555aVruNZ8GGAoPyRhP46fqV2VWh0jMsrBRTN2tsFrtr9xoJmezri0rA==
+.twitch.tv	TRUE	/	FALSE	0	login	o_gregoryu3a_z
+.twitch.tv	TRUE	/	FALSE	0	name	o_gregoryu3a_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:04:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6a51472b15982f9e70c9c54e53d9d600
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZ3JlZ29yeXUzYV96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NDY1OSwiaWF0IjoxNTI1NjIyNjU5LCJub25jZSI6InVWN2JCSHFIbmQxU3JFMFVsSTJaZ1I4SE1GNHZKRDlrdFllSHdQRUxscXc9In0%3D.-ZTGJmdUGcegdgj5rr2mScpRwJrVtseQ4baIc_cXKtK_Y6eIHdcU9kyO8OEu2FQMYKVIbIdZciROndou7ukNgA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22x75b7a3z08bfijl80znyw4ejwcv9d1%22%2C%22displayName%22:%22o_gregoryu3a_z%22%2C%22id%22:%22218878821%22%2C%22login%22:%22o_gregoryu3a_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	x75b7a3z08bfijl80znyw4ejwcv9d1

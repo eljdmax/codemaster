@@ -1,0 +1,14 @@
+#z_crystalf86_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	9YCp86E4Bt7w%2BMy6s35fC7IJtnbPDo0LASGqJCoJ5KI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5b6fd867d28e15e9
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	dc7fa385c0b5c1336bb4e0943dfdce92
+.twitch.tv	TRUE	/	FALSE	0	persistent	218952856%3A%3Ahi3on588xujudct57ttmp3jipqi1nw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI4NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc0OTIsImlhdCI6MTUyNTY0Mzg5Mn0=.YFROhN2o3TCyP3oo565xasPbtv1QMTC7W09Cj1Uzu3YdWfX6BcipG-oNEN98y7mCrOjUWW2L7zmbgchByzmz_w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI4NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4NjkyLCJpYXQiOjE1MjU2NDM4OTJ9.HqolKRjRPse1x5DlgYf6FhSSGgKFrPLDzxbMmoI21hP3U1pRgH5Q40-41JpG1TNxpsirVNPooIHV7OnpNUU8zA==
+.twitch.tv	TRUE	/	FALSE	0	login	z_crystalf86_n
+.twitch.tv	TRUE	/	FALSE	0	name	z_crystalf86_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:58:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	40983f4857e6bf04e6148dfc0abce261
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfY3J5c3RhbGY4Nl9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NTg5MiwiaWF0IjoxNTI1NjQzODkyLCJub25jZSI6Il9DMmtSWEw2aEJfamhuSmhIRDhGeHhvelhsaWFOSlpBVzQzV2d4ZkJxMUE9In0%3D.MSiOyvEskx4bQxpctXQ2oP8mSQgQPrBGgqeb4JKA4Zv-FxFSO1tTd7KqrCVnbyxZPxqLzJRQ5fAhnWy3GRGSUg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s1s1fxarg4y4cb5p3z6bkcx9e5csju%22%2C%22displayName%22:%22z_crystalf86_n%22%2C%22id%22:%22218952856%22%2C%22login%22:%22z_crystalf86_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s1s1fxarg4y4cb5p3z6bkcx9e5csju

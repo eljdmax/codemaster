@@ -1,0 +1,13 @@
+#k_reagan122_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	VJD8iY%2B334Lns3CBmTFs2YhIiMpl1YgwUwsQf2ImvZM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:24:15+00:00	unique_id	98793e8cc5a45e38
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:24:15+00:00	_twitch_session_id	18127c92a0af470d4952baf4968b6574
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:24:44+00:00	persistent	217551589%3A%3A75gklphgzbqzb9tmcpa6m7jpq5fbk9
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:24:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTE1ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0Njg1LCJpYXQiOjE1MjUwMjk4ODV9.nfBUxdjc598IHW2rzN3WV_-_24lU-fRhqJ3tLA0-OYB8FQiFmsdwVgFQfbuHARwPVN4pi5cm-xmM2WRWRFIXOA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:24:44+00:00	login	k_reagan122_7
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:24:44+00:00	name	k_reagan122_7
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:24:44+00:00	last_login	2018-04-29T19:24:45Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:24:44+00:00	api_token	3711e1963046cae02d9ec84c0fc564ba
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:24:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcmVhZ2FuMTIyXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgxODg1LCJpYXQiOjE1MjUwMjk4ODUsIm5vbmNlIjoidnYxak9adW11a3Z5UE1MNEd6dno2TTdyLWtveVdNdUt1OEhpU2xKSVVkST0ifQ%3D%3D.TEACsA4NLHaQ5_4K22nB5cFSFVBqbzuRrZRJhoBkSQTOI2Cgn9u2XgNW-vYdC3C_pdoUdAobUZXbwSQZv7xBOA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:26:29+00:00	twilight-user	{%22authToken%22:%22ro36jygfmusrbm1yhttxy8y6vfcs7h%22%2C%22displayName%22:%22k_reagan122_7%22%2C%22id%22:%22217551589%22%2C%22login%22:%22k_reagan122_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:26:29+00:00	auth-token	ro36jygfmusrbm1yhttxy8y6vfcs7h

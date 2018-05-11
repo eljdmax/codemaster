@@ -1,0 +1,13 @@
+#b_marcust2k_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	CzAoyXKyvVqsFE7i8tinnBOq2Ks3t9MuTENvqd9%2BRqk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:44:29+00:00	unique_id	4e51b6acdfff6e54
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:44:29+00:00	_twitch_session_id	4d68fa91cd3223630565d38c74ea3d7a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:45:03+00:00	persistent	216488384%3A%3Ayowz66rky79f4n18sjx332onfmdfps
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:45:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODgzODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NzA0LCJpYXQiOjE1MjQ1NzM5MDR9.YrOf4mpWDf5Jq5hsskQJpZZsZhTTVuyut963Y3n0BACId3LstZ4DlVRKYKf_l-88a1UWGOnefhiUfB5zjYLMzw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:45:03+00:00	login	b_marcust2k_9
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:45:03+00:00	name	b_marcust2k_9
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:45:03+00:00	last_login	2018-04-24T12:45:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:45:03+00:00	api_token	7b570db8ca06ff02c99ed35c970689d0
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:45:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfbWFyY3VzdDJrXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI1OTA0LCJpYXQiOjE1MjQ1NzM5MDQsIm5vbmNlIjoibWZObUgydWIxenlDc0ZmWElhckVzWW9nUzNtbUhqbkFGbzNFU2lCUEdsOD0ifQ%3D%3D.xWVhiIiHLZcojyjiyP9brp2SZOtGqF5acAefJiWoBOCr-dOevAKbZg0rcBOOFmJwNqlHA98Ivpj7b7YlgnC6Yg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:46:42+00:00	twilight-user	{%22authToken%22:%22ya64h93lzlzjh9vny5asy1gl8b4d9g%22%2C%22displayName%22:%22b_marcust2k_9%22%2C%22id%22:%22216488384%22%2C%22login%22:%22b_marcust2k_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:46:42+00:00	auth-token	ya64h93lzlzjh9vny5asy1gl8b4d9g

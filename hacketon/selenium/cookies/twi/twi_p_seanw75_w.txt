@@ -1,0 +1,13 @@
+#p_seanw75_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	OElKGlnXJ5P9VrZg%2FF6sPZPfUkS%2FEC2z0z39pRjFPBU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:38:01+00:00	unique_id	a57b30661b4cbaf4
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:38:01+00:00	_twitch_session_id	de7b6fbc4bfac4534d63974017db0a43
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:38:40+00:00	persistent	217569028%3A%3Arhjplhwoandyiqb39yxtkxmjdw6i22
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:38:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjkwMjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5MTIwLCJpYXQiOjE1MjUwMzQzMjB9.29ETp1aKwwahywY3Q1dFghS5aOKOP1VV90RW2fOQk_PAYyQNZNhgrcIzrHlKUzEL4ev2QdqA_8o9glgQIcRdnA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:38:40+00:00	login	p_seanw75_w
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:38:40+00:00	name	p_seanw75_w
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:38:40+00:00	last_login	2018-04-29T20:38:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:38:40+00:00	api_token	7efeb48173fca5ae4e3c0f931b448629
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:38:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfc2Vhbnc3NV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NjMyMCwiaWF0IjoxNTI1MDM0MzIwLCJub25jZSI6ImtTbDlPcUVyYkljcU8wMDB1bDE3MmlTbjZSXzFKTEtlSk1xUXpZSTRaUjA9In0%3D.tz-SFUmWL2KQ-vsYY0UeiCzUdHbN0QQzxQSayGzrMT3CUKHG-F9yi9AEzJhrMeKcG3HeVPQ6QifvRvDFDnGaww%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:40:25+00:00	twilight-user	{%22authToken%22:%226o2dfi7hz6i5up7ceuade34jv9n4cf%22%2C%22displayName%22:%22p_seanw75_w%22%2C%22id%22:%22217569028%22%2C%22login%22:%22p_seanw75_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:40:25+00:00	auth-token	6o2dfi7hz6i5up7ceuade34jv9n4cf

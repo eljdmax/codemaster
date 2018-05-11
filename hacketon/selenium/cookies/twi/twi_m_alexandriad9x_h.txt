@@ -1,0 +1,13 @@
+#m_alexandriad9x_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ScZXOHyoxAdRM2nmy2SIMc1d21wbkpD1r9r%2Fj5OuwmI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:22:07+00:00	unique_id	321457eff6c3bf4d
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:22:07+00:00	_twitch_session_id	82a041235087d16d9f5306f59b2c17fc
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:22:26+00:00	persistent	217551074%3A%3A500rycymk2um488e2p638d2hleqrby
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:22:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTEwNzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0NTQ2LCJpYXQiOjE1MjUwMjk3NDZ9._H_Y2ARbIhnoDBgqsfzFxK3p5Ca6PtW6vCd25rndOlrVkZQ4SKu7E7oOqdCkSLmzpw3kdTcrLPvxVbTrjZZ1cA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:22:26+00:00	login	m_alexandriad9x_h
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:22:26+00:00	name	m_alexandriad9x_h
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:22:26+00:00	last_login	2018-04-29T19:22:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:22:26+00:00	api_token	2e19a4a11c0fc293ef0b567219873300
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:22:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWxleGFuZHJpYWQ5eF9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MTc0NiwiaWF0IjoxNTI1MDI5NzQ2LCJub25jZSI6IldjTnktRDA1SlYtX1QzTTA4ci1Xb2ZMNkNjN0hxWmFRMjNWREVITXFRQUE9In0%3D.-Hi4gFAVWQB2__FuB081zVt6PaTJefqrHyBwvD09vg88N0m3UJS2IkTzlItfQvT9t0Tol-Do0n-033KORdIirA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:24:10+00:00	twilight-user	{%22authToken%22:%22ayg2pa4rp9zxatlfu2fx64ivlzp3ed%22%2C%22displayName%22:%22m_alexandriad9x_h%22%2C%22id%22:%22217551074%22%2C%22login%22:%22m_alexandriad9x_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:24:10+00:00	auth-token	ayg2pa4rp9zxatlfu2fx64ivlzp3ed

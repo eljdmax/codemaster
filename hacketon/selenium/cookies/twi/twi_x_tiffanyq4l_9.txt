@@ -1,0 +1,13 @@
+#x_tiffanyq4l_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	EfxGTyYcMSPJGlIqN2dBH%2BOZviILsTMYFIqdgzYoki0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:00:24+00:00	unique_id	15386b6366c7eb6d
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:00:24+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:00:39+00:00	persistent	215241058%3A%3Acr8r50a54i6q6sbqsmd7pzx3dep6io
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:00:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDEwNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5MjQwLCJpYXQiOjE1MjQwNzQ0NDB9.9GVL12ixryQ8u_NTAc09BtRPOz7qPJlDtMuLzSQmjpB2ncR3BphOQNPFc5ZUgKRfHzVnsOBcor3_F-y64qiC3w==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:00:39+00:00	login	x_tiffanyq4l_9
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:00:39+00:00	name	x_tiffanyq4l_9
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:00:39+00:00	last_login	2018-04-18T18:00:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:00:39+00:00	api_token	8fb56495890a53f00e9af035f922fd25
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:00:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfdGlmZmFueXE0bF85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNjQ0MCwiaWF0IjoxNTI0MDc0NDQwLCJub25jZSI6ImFyUUI3aE1jQ3B1ZVdLX3dHSjZLUlJxeDZpclBJYndOemM4UlJGRUZLZDQ9In0%3D.3ob5tuWo_l0vL_No2e2gkN0o5jy7-ZJufmBw40BaSd7PMTMKslVAsCVoT8YPqM9_ZO25lsb7ZTzN7ErK7P_78Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:01:31+00:00	twilight-user	{%22authToken%22:%22h62i0ifq41mcmluaa8bsrx0swnll1h%22%2C%22displayName%22:%22x_tiffanyq4l_9%22%2C%22id%22:%22215241058%22%2C%22login%22:%22x_tiffanyq4l_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:01:31+00:00	auth-token	h62i0ifq41mcmluaa8bsrx0swnll1h

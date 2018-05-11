@@ -1,0 +1,12 @@
+#m_destinyv2g_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XgBLRh5XTOF0Jhl2nMeFOEU1h8yd0xnG1YsRVQkTVx8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:07:24+00:00	unique_id	737c7ab7ed68a339
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:07:50+00:00	persistent	216479106%3A%3Abdgwluaxwm7lwk9y3jqpw9e6bml2oq
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:07:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzkxMDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyODcwLCJpYXQiOjE1MjQ1NjgwNzB9.KG5fh9Dp1jMe5MBdFpMtt-e_ub5niQg_pyZOYU6MAmv39bOI0G846FxXlTAT5JoXObTIWw7tmy7OiH7I1Yd38A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:07:50+00:00	login	m_destinyv2g_u
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:07:50+00:00	name	m_destinyv2g_u
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:07:50+00:00	last_login	2018-04-24T11:07:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:07:50+00:00	api_token	cdec42cd0bb1ba87fb6fca308995f8f2
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:07:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGVzdGlueXYyZ191IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMDA3MCwiaWF0IjoxNTI0NTY4MDcwLCJub25jZSI6Ik5mRmFHcFd6QTNlV2dxZ0lCbGprcFpIT3M1TVZfaDJXc2xjTnNRMXRQTGM9In0%3D.iQh5JlvhtrcfPHD_6UHrg-xBO5unSM5cOKhOQCdTgvuRtrc32LQedd4ChScquEOhUOQyxqCSryS4RIIhCN2HBA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:09:10+00:00	twilight-user	{%22authToken%22:%22wyzw750srietybhlxpka4my63yxx3n%22%2C%22displayName%22:%22m_destinyv2g_u%22%2C%22id%22:%22216479106%22%2C%22login%22:%22m_destinyv2g_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:09:10+00:00	auth-token	wyzw750srietybhlxpka4my63yxx3n

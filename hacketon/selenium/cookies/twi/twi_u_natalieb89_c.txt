@@ -1,0 +1,13 @@
+#u_natalieb89_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nZkasVpDaa%2B%2BmkeRVe1YAwOjw0RO25VDyzkLcjoITm8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:18:11+00:00	unique_id	7e9effe92fb62fa1
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:18:11+00:00	_twitch_session_id	37c4bfd092612af24bcefc98ae11b13e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:18:30+00:00	persistent	217564247%3A%3A75q40wjocf672ffr759rq79y551ylc
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:18:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQyNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3OTEwLCJpYXQiOjE1MjUwMzMxMTB9.Bt4Nzn47iv6-PO9BVzn2zMrpnRCW6feDHk3t9EtLVo5PaaMeHcVZjIqxxphUVTpCBRF12WK8Rt9Fp646eiRMjQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:18:30+00:00	login	u_natalieb89_c
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:18:30+00:00	name	u_natalieb89_c
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:18:30+00:00	last_login	2018-04-29T20:18:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:18:30+00:00	api_token	4374dd0c0f60c7faf8ae33bf5e244b6e
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:18:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmF0YWxpZWI4OV9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NTExMCwiaWF0IjoxNTI1MDMzMTEwLCJub25jZSI6IlVVa2V3YVMtYWhOMl9zZ0hZd1pYNklQX1pZTHZWcWkxRmZ1UnpOTkpGajQ9In0%3D.CqT0vsdkPqzzg2IGcEXejbhr5cwdFZMwud76cWQcBZRp2CgBjo4dWb85o9DifTOEVFagtOyZkyafh3xIS9smVQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:20:13+00:00	twilight-user	{%22authToken%22:%221y40f8elg4iqwx5yv952lfnhku19rx%22%2C%22displayName%22:%22u_natalieb89_c%22%2C%22id%22:%22217564247%22%2C%22login%22:%22u_natalieb89_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:20:13+00:00	auth-token	1y40f8elg4iqwx5yv952lfnhku19rx

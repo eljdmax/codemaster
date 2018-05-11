@@ -1,0 +1,14 @@
+#m_gavinv9a_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	O3S6meG8X9hyVTQeBENuCbo9xnwHD2%2F8h3cWs14c3o0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:00:39+00:00	unique_id	648c51b0dca6ad66
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:00:39+00:00	_twitch_session_id	a15fc2d95e0afebb4caf8745105a30de
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:00:59+00:00	persistent	216141930%3A%3Ar64moimurvg0cdgduwthx079kvn37x
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:00:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDE5MzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5MjU5LCJpYXQiOjE1MjQ0MzQ0NTl9.Es2IaQH08XiDD8Yczk0BJR0HAoii4RaE6Wd8pFG1HLikk2B1Y8-2co3lZrURq1v5d5UAO3GCuXb3bQzPyZ7nKg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:00:59+00:00	login	m_gavinv9a_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:00:59+00:00	name	m_gavinv9a_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:00:59+00:00	last_login	2018-04-22T22:00:59Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:00:59+00:00	api_token	fa7c2fbd33dfe3dbeaed051e59bf0b74
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:00:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZ2F2aW52OWFfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODY0NTksImlhdCI6MTUyNDQzNDQ1OSwibm9uY2UiOiI2RUxPelM1eTI3ODVLdGR0d2xoMzVYT2FObmU4bExOd0ZNMzNJQmZuVS1JPSJ9.uDwruPrI2X2tOV5C7LGCkmWkgNEKoVuqPbA-QLqN0ZdCDZxmqEII8A9flJ693flKp32qlMSD5q8bXyhPmwqBRA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:02:11+00:00	twilight-user	{%22authToken%22:%22xen7dol2sr0c3hku1emwt5dsz5gxco%22%2C%22displayName%22:%22m_gavinv9a_h%22%2C%22id%22:%22216141930%22%2C%22login%22:%22m_gavinv9a_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:02:11+00:00	auth-token	xen7dol2sr0c3hku1emwt5dsz5gxco
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:02:14+00:00	twilight_onboarding	true

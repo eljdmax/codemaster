@@ -1,0 +1,14 @@
+#x_christinac32_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	uLGvCTdqjFo5VV6BEqciauGlQB%2FhUJUleJP3g6WCDjI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d394f8b62e22cf4a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	842bf42fa681749f67e4d3fdc91c4a45
+.twitch.tv	TRUE	/	FALSE	0	persistent	217484869%3A%3A9n2l0jgugqaqbsw9gnh9w9e2genwoa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODQ4NjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTUwMDcsImlhdCI6MTUyNTAxMTQwN30=.0XY4CX3OLE_3Jd6uexEbvuo21rIweCqhD5oPcps4uKDvs8TZdYxwmHyVIVXmYDAjV49BfC1yXevqdeTD8JXoSw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODQ4NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2MjA3LCJpYXQiOjE1MjUwMTE0MDd9.1jmmuq7-sUsvd28TfW8Bs1BzX_yOScfpihxrrWbWfJqa0m3VKFQ7rqYivuZdtYsbjk3LdXlOLZ9v4zsl96zpKw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_christinac32_6
+.twitch.tv	TRUE	/	FALSE	0	name	x_christinac32_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:16:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	eb25dee9b4cd4d37cbc307ef8c14450a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfY2hyaXN0aW5hYzMyXzYiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYzNDA3LCJpYXQiOjE1MjUwMTE0MDcsIm5vbmNlIjoiSThwVFNLT3JsWnRyQlNuOTlKQ1kwQThGUTFtQjhxZTRqRmJjOVFZS3k2ST0ifQ%3D%3D.Y_c9rqkDh_4XEeGaFZWsags9QZQMSXrmnhJIJSxXTFCfB6yE-dX-Th6Bp8mtSgi-uAyHlEjOh4xI_sDCN46CFQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2211kxh1vq2wrrvggzbexvza3ff8ehpa%22%2C%22displayName%22:%22x_christinac32_6%22%2C%22id%22:%22217484869%22%2C%22login%22:%22x_christinac32_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	11kxh1vq2wrrvggzbexvza3ff8ehpa

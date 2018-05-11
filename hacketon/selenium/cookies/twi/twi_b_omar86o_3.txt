@@ -1,0 +1,15 @@
+#b_omar86o_3
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d6b68dbd776c40c
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7ecbc75806ead7f95145f87998033c0f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	AjCMA50W%2BTJM1EtL6lWuelkKI4N8f5KABQXanA%2ByD68%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217927485%3A%3Awhn2py6mwnj8l6f08p21m3kf5ui9l3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjc0ODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTEzMTksImlhdCI6MTUyNTE4NzcxOX0=.EeCBt2l77KY7MPXMKoCQAXe73oW3FjYv941WutXyZQsCTzv2xjt0JppUZj73L93ExFfq1GHr1UVqpZJzog0ABA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5Mjc0ODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNTE5LCJpYXQiOjE1MjUxODc3MTl9.aiUZH7AO_eXMsXU5ObVLhEJ-HpxyVLMbD3jFzVxPNObOGWC9yGBBYQkQczwwXOmK7n3q4_Y2M9ihbd0nlywvYg==
+.twitch.tv	TRUE	/	FALSE	0	login	b_omar86o_3
+.twitch.tv	TRUE	/	FALSE	0	name	b_omar86o_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:15:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c713ad827a9b1a88453323ad266fd35b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfb21hcjg2b18zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDczOTcxOSwiaWF0IjoxNTI1MTg3NzE5LCJub25jZSI6IjhsM0Z6MjdXbkZkdlhSY0p1R2FOamRZNElyU0x4bjJZT29TQzNFM3FxSEE9In0%3D.Njl3o5jOGGomMjzruEhp3MMOpub-LB4MRt_pywKZQ638xDOaCA-JvGhAuI04GyjSzQ50j9puoQKGs-jLmkAbzw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p5sbio7rvse56qeaihzt38s7loy5lq%22%2C%22displayName%22:%22b_omar86o_3%22%2C%22id%22:%22217927485%22%2C%22login%22:%22b_omar86o_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p5sbio7rvse56qeaihzt38s7loy5lq

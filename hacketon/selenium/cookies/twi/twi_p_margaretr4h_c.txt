@@ -1,0 +1,14 @@
+#p_margaretr4h_c
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:02:50+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rGuohyCMwDHEOX4dJ43VWLROT0PN7eOmdt%2BxHeWFHX8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:06:53+00:00	unique_id	5e6d69411c8f6d7e
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:06:53+00:00	_twitch_session_id	6f334032860cdee99ec5b3d7c99e6e30
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:07:20+00:00	persistent	215242352%3A%3A3o0naqdq8zzlw8grz25ltfgs253cik
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:07:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDIzNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5NjQxLCJpYXQiOjE1MjQwNzQ4NDF9.UpUqAVPUKEWUPFOa4Crxe8uTAgzSw3xaymMl2Zc7srsk8ajyfKOCUgWiQCS9sWzdl6Swrc6ikPqfKZX8UbAe7Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:07:20+00:00	login	p_margaretr4h_c
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:07:20+00:00	name	p_margaretr4h_c
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:07:20+00:00	last_login	2018-04-18T18:07:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:07:20+00:00	api_token	a049d7e80a14e5bd3e81d9ed191e2f9f
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:07:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbWFyZ2FyZXRyNGhfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjY4NDEsImlhdCI6MTUyNDA3NDg0MSwibm9uY2UiOiJIalNOd1RRQkx2bm4tWlpWOFFLVjYzSEJvRmViMV9sTVRnY1pvQmRsVHA4PSJ9.ZaJmszz-8kAoa1XsP4GJD1lkKDm-Hg-YQzPdsqtzFtWL7vTXdtM8mxyHCDwshjKrbHcIqr_0VseAQCrcAiGMgw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:08:20+00:00	twilight-user	{%22authToken%22:%220sqarvcb3x2xz3aj70zo44q68svn94%22%2C%22displayName%22:%22p_margaretr4h_c%22%2C%22id%22:%22215242352%22%2C%22login%22:%22p_margaretr4h_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:08:20+00:00	auth-token	0sqarvcb3x2xz3aj70zo44q68svn94

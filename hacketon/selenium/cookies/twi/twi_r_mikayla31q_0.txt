@@ -1,0 +1,12 @@
+#r_mikayla31q_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	h3PGbWiBHvXUOXJZDaKvIKhDeUXXm4KydMsH5IgV00I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:55:47+00:00	unique_id	b0fab5f0055a57ca
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:56:06+00:00	persistent	216939652%3A%3Aw8oay54abbbkzz1rmqtwo31nazwmoq
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:56:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5Mzk2NTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwOTY3LCJpYXQiOjE1MjQ3NzYxNjd9.iMfmRuXfO-GbOun1ASFQo3Ywoot89A3Udr_0bWW9inX4DAo1kipAcW69AxOCWR86KT8sKWTh4CNBu9473wpvKg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:56:06+00:00	login	r_mikayla31q_0
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:56:06+00:00	name	r_mikayla31q_0
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:56:06+00:00	last_login	2018-04-26T20:56:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:56:06+00:00	api_token	c9209ae220f570f0e2601f9b448bcac5
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:56:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWlrYXlsYTMxcV8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyODE2NywiaWF0IjoxNTI0Nzc2MTY3LCJub25jZSI6ImV1dFZRdTJST1RPODJUSkhqUWszcFY0eUwtY0RzSUdqTkFONFVCcUwtdDA9In0%3D.XscmvFs1bH1H99hlt7AmYeYqkjYRBeH0Fm4Hz0rtTt1c-jofzurSHpNzbM8BBl5ym2SqRtRJcfCyhI07sT3PMQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:57:40+00:00	twilight-user	{%22authToken%22:%2287ok0csdvdo1097dq3vc2bbwubd89r%22%2C%22displayName%22:%22r_mikayla31q_0%22%2C%22id%22:%22216939652%22%2C%22login%22:%22r_mikayla31q_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:57:40+00:00	auth-token	87ok0csdvdo1097dq3vc2bbwubd89r

@@ -1,0 +1,23 @@
+#h_austinp7l_z
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cJJBAl%2FmOmC5DtcjTJl1ALsnTQS2n7Uc1eeaTwb6dyQ%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3b68751d960bd5dfdd86f80a7cd5e222
+.twitch.tv	TRUE	/	FALSE	0	persistent	217021157%3A%3Amvuryex4tsn8lcgghbv9sivl17z0it
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMjExNTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4Mjg1NDMsImlhdCI6MTUyNDgyNDk0M30=.sBfeXvyF6_VFTnZF5yzFf_gyH2FlhQSA9xs471ImOD_c5WD5s9aSq0wp-XLzEsaVp6UUtj3594t2mNBvVuxzPQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwMjExNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDI5NzQzLCJpYXQiOjE1MjQ4MjQ5NDN9.9msbPQv7_RPXhSxUj0xFCq_d3RP2A5t7NaWxjutFOfQ0npYCTzfp0hbeoVRSlTYtFW15t6ASZXCnxU2raa6XKA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_austinp7l_z
+.twitch.tv	TRUE	/	FALSE	0	name	h_austinp7l_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T10:29:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	850910a8686cdc8f2baf9f71933fb98a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfYXVzdGlucDdsX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzc2OTQzLCJpYXQiOjE1MjQ4MjQ5NDMsIm5vbmNlIjoibC02V3hKc0xZYXhGRzA5NHJDT0g5YllRQW11SnY1UFBlaDJEYzJyQTR4az0ifQ%3D%3D.pIHUXH_DWKGTqNx8FGevfWeiQ11AQNoMpsK2CPLikTaBcL3JxmSlI7wwty9WbmUIWjRFnPm9I4yyIqWAKBe2Jw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rjwbhbjoz0n9qafi78cinbn2j3scmc%22%2C%22displayName%22:%22h_austinp7l_z%22%2C%22id%22:%22217021157%22%2C%22login%22:%22h_austinp7l_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rjwbhbjoz0n9qafi78cinbn2j3scmc

@@ -1,0 +1,13 @@
+#w_jocelynf92_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qpJ57tGR%2FDxEy1gAMQx0ZKHpxBOuLXS7hkc1aQ95sSE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	44b5b2bc557a181d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218885056%3A%3Axidyd0roqwgj80a3hkzawifdwc4z6y
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODUwNTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgxMjMsImlhdCI6MTUyNTYyNDUyM30=.9jobSO2jAgTd0YKUDwOnVv18dubiuG1hYbsW1Bk4KY2zl0UELr1ITihHtdEwqiB7mMy42Y2HwGDYwswk0HlpdQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODUwNTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5MzIzLCJpYXQiOjE1MjU2MjQ1MjN9.9TW82OGj5MZqb9fiDqZVBfjc8bl1oCjWCUUKvl9W5QJNegiZIRP5_qHXixeyUI24KvhLfjTk2U-FpS8-IzzDiQ==
+.twitch.tv	TRUE	/	FALSE	0	login	w_jocelynf92_7
+.twitch.tv	TRUE	/	FALSE	0	name	w_jocelynf92_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:35:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	916eaab0d5d2340bde1ca3fe569ed96f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Indfam9jZWx5bmY5Ml83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjUyMywiaWF0IjoxNTI1NjI0NTIzLCJub25jZSI6Im1uODdqZHA4QlNTYzVydjVPTTVDNjNhdlhPSVROY2owNTFmQVhjcjlURVk9In0%3D.lDnEnPl2PBBwHceeIhjReoRYNjpj5g0hT_-3gTR_i8zo_XdkNtB2BThNwcKYTUi68APeKS2XGD-3Na1ZKZNE2w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xqj1uigiw5b2gf8l7quub211bvs6kg%22%2C%22displayName%22:%22w_jocelynf92_7%22%2C%22id%22:%22218885056%22%2C%22login%22:%22w_jocelynf92_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xqj1uigiw5b2gf8l7quub211bvs6kg

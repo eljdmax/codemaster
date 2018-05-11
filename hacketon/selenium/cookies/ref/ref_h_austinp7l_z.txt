@@ -1,0 +1,17 @@
+#h_austinp7l_z
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	uMibDCBREUDzqonztnWibwipwbuSijz8_Tpg8I3oiK1Is_L72CbqJCNgxh_hJV7r2KDw_ROukSCtEFggmPSDa1kLbw_4axd4mXf1NeQCJvM1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	c3rweqcogdzd5ej4lopjtbij
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	LgEV7DWnsBoj7tW5eJ7BvEwor_bDJgaQGINs08cYdSWs9mc7yMN4VZ-qryohKTR_IwNvDbnVHS4zAKHvVLVJYg8DKHU-W5_SBkH_db9PNADEImSBoGC9HMMzl-TfbEcAM4LffTGVxgb98e5fjb37ZraXKAo2PLogIfDsiLNPUmRBjSrTCYsTMHlRt9lPw8OsIqObmpRbkYDW_y6QBJtRm2MizmyxUxoy6JOohHtzW_iBNGHEejuNA5joR_sFATu7_8jZ3xtsSo0X-HGh6TYnSvPxUmyDUtvgVuZmVeJ2SDgnonRdUlltWvr7ogSPDwKhwBZQQq8s66reG5FOd0zu3zXCssEGbhmir5RMGmJA24w1WtfyYKjiFvcNe1hDHdZ_WkOm_jyBdOZFfl1z5kgdeM218Fl2ZL2PJ_msVjaDcZPJDAaYMWRZeUyvBqc0W4uOMa5yYG4gaTOicukaZRNGypb0vMfmeWnteqbdlEp3JtMhAQ_uzD8b9tqGHEofOsgV
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.858599826.1524817680
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524817680826%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%223170465867527245%22%2C%22sessionId%22%3A%223705954488669137%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	VfMb|1524817684367|1524817711956.56

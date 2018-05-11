@@ -1,0 +1,14 @@
+#n_rebeccah9e_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	HpFnDrEByivTP9y%2FEsboyOQQRLdhfu850N54oQAHOl8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9becb2a539d7b972
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	abadb2084a8538481edce0f456afe062
+.twitch.tv	TRUE	/	FALSE	0	persistent	218866047%3A%3Ao9dza32easmbarbc485vkxe896k3du
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjYwNDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjIxMjIsImlhdCI6MTUyNTYxODUyMn0=.mMtg7qKMwd_KSM3Covzr8wSHp0fjjAWWH6Km04_ZF2cWiECR91NBLJ5OF0z0To7AXP5O7fG2-Fn1MIZp-rRXWQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjYwNDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIzMzIyLCJpYXQiOjE1MjU2MTg1MjJ9.LqhnifgKwUYGAi2S4OHfmT_cAE9BRSx4rNXmHFVsrsOigESupXAeT2SU2DQbnzJPXU4789OsYjCXJRxKfUePPw==
+.twitch.tv	TRUE	/	FALSE	0	login	n_rebeccah9e_d
+.twitch.tv	TRUE	/	FALSE	0	name	n_rebeccah9e_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:55:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d0bf7699d464cb1a0c99372b523fb6d7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fcmViZWNjYWg5ZV9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3MDUyMiwiaWF0IjoxNTI1NjE4NTIyLCJub25jZSI6InhyZ3JTcXdUdW1McWJfaEh2WlEyV1RhMVBhbzFOd3N5VHJzTVVydzEtM009In0%3D.dsUL0ET-jvv5LksaueKpI-WCpqc_r8RD1cFcLET407LTJgJX3hXETh4RkdjQUqswdKIrbhMbJCjzF0IC130GqA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22vafl1iayi43u51fdxm1hw39tr48s88%22%2C%22displayName%22:%22n_rebeccah9e_d%22%2C%22id%22:%22218866047%22%2C%22login%22:%22n_rebeccah9e_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	vafl1iayi43u51fdxm1hw39tr48s88

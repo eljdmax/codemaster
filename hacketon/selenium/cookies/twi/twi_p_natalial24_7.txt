@@ -1,0 +1,13 @@
+#p_natalial24_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	mg%2FLjEJzcyGO069NjwUBaTP2DdJkkJOEnuPSUFfxQV0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f2e1290e3551ad40
+.twitch.tv	TRUE	/	FALSE	0	persistent	217291140%3A%3Asq0jt46rjd10hqbvn1dtcsjlevh93l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTExNDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mzg5NDIsImlhdCI6MTUyNDkzNTM0Mn0=.C84TqANc0G8osaZGDF8MRaA0BXW4jCN5lA3bI3ysulDcMeD0Tspg7RwdZvGz3qAb9WzTq1_E1JdZtX4zj51lzg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTExNDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwMTQyLCJpYXQiOjE1MjQ5MzUzNDJ9.PrO540UfI2_r5DcdCav8geENA9M1oBDRynDP7kWrKbOvBhx5dkK0uAgZIUeVrVOwQzlacBTAX5LPhIHrrozokQ==
+.twitch.tv	TRUE	/	FALSE	0	login	p_natalial24_7
+.twitch.tv	TRUE	/	FALSE	0	name	p_natalial24_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:09:02Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	94c57ab1f95dff8154eca80c0a1e8889
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbmF0YWxpYWwyNF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4NzM0MiwiaWF0IjoxNTI0OTM1MzQyLCJub25jZSI6IlFhY3Z1LVlwR1JwZ3hweFZlTGpZRG1JSXB2SS1kNUZDOS1JN25ZTnA2REk9In0%3D.IHRB_rsrs38wDKXBHfqjyo1iL7fsoVa2mQXwMA-k2hnBYgrcOgHnT2MGnmMpnW-z0FJcaFObwMhHls5_TKRTtg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2276jrprcijiyesz6wmmp4wmshtovfx0%22%2C%22displayName%22:%22p_natalial24_7%22%2C%22id%22:%22217291140%22%2C%22login%22:%22p_natalial24_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	76jrprcijiyesz6wmmp4wmshtovfx0

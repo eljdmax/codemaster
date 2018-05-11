@@ -1,0 +1,13 @@
+#y_ashlyn41b_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gbGPIy9F1u9gkoZ1bwWwnEkZz1SmkvotoorR3TbfdWs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	201cec7a01e7d8a2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217896571%3A%3A57zvt8a2ddlvkru07uew26wtztyyxy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTY1NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzk4NjksImlhdCI6MTUyNTE3NjI2OX0=.q_MNUBYQ8qWRLqMeZpGLa6ySrvXS77CzYB63yGogsUVLxDxPJecQ-GOWPfDnt2rHirEL_2KOusgx635VRGuzuw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTY1NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgxMDY5LCJpYXQiOjE1MjUxNzYyNjl9.riaRV4EW3WEd5fjFucTHUHe7YGDARmJcYTm1DfQ4e2LsuQ-QHfI1sudlaonpD8VDUrr6UuUSbOQTPYsRUX35QQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_ashlyn41b_l
+.twitch.tv	TRUE	/	FALSE	0	name	y_ashlyn41b_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T12:04:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	939530493a2bb57e644b8ede1205dee3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYXNobHluNDFiX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzI4MjY5LCJpYXQiOjE1MjUxNzYyNjksIm5vbmNlIjoiN1BMRzZBMVpuMlhhMkxqNm9Xc0txZnhZd2tQSHI3Q0Q2NUt6bmVvaXdjMD0ifQ%3D%3D.qG5ikDGJuQNUNC5tSDMbzjFv302k_07ajGgtMjOvY5-5Qes0wC0GDILvs2W6FH_SfwWrnanP0prhK1qbtXTp0w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228tkpdd7yugptx04zg3kbwy284gu2lb%22%2C%22displayName%22:%22y_ashlyn41b_l%22%2C%22id%22:%22217896571%22%2C%22login%22:%22y_ashlyn41b_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8tkpdd7yugptx04zg3kbwy284gu2lb

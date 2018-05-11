@@ -1,0 +1,14 @@
+#q_noahb9s_s
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KV7r4PcPp8GxDgjZF10zcF%2FNc5Z7rvceIgZf8pVoh70%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:49:54+00:00	_twitch_session_id	b75d28db6462d84836afee0708c30b55
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:50:15+00:00	persistent	216482706%3A%3A9ii9x9o8egpbqp84al7rccbzr81110
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:50:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODI3MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1NDE2LCJpYXQiOjE1MjQ1NzA2MTZ9.PPLgIsXKhmk4cjw8nyhrdNcjrw6gQYvzRmFIvcFBYFNo9DcyPkSRLFCaaaR9E0SKSd05XNXev-nFdOpb3dgf0A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:50:15+00:00	login	q_noahb9s_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:50:15+00:00	name	q_noahb9s_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:50:15+00:00	last_login	2018-04-24T11:50:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:50:15+00:00	api_token	10b0111c4f4c6acea9ca78982a71a6a8
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:50:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbm9haGI5c19zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMjYxNiwiaWF0IjoxNTI0NTcwNjE2LCJub25jZSI6Im1uMS1oQklhS2RJUEx2ZUhiS2s2MEhOWks3RVBnZi11c1RoNEhUNWdqZmM9In0%3D.yb0hPSjar85dpIBnOQpaawFoEEULcIhavznAfOP2v-Q2FKVDLed_Qf2U4vpG6u-TMCe6CjU0ftO2Iohfoc3WVg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:51:40+00:00	twilight-user	{%22authToken%22:%22dwembr8s15z1ozm01m9ndt2vezq4do%22%2C%22displayName%22:%22q_noahb9s_s%22%2C%22id%22:%22216482706%22%2C%22login%22:%22q_noahb9s_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:51:40+00:00	auth-token	dwembr8s15z1ozm01m9ndt2vezq4do

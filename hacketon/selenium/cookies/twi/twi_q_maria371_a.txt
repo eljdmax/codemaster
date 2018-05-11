@@ -1,0 +1,13 @@
+#q_maria371_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	r6lJrzF6ndooCbgCmJ3kazpJ5bUYclkSIE4L%2BtVn1aQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	67bbd3c132c5e6d3
+.twitch.tv	TRUE	/	FALSE	0	persistent	218941142%3A%3Aqmue12mpxhwh3x8zdyu8m9y649lpsw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDExNDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM1OTAsImlhdCI6MTUyNTYzOTk5MH0=.ESJLS0MeBVAZWn2XC37YpaAuWmiBCOoNQ8TJE2qynEP_0Dn1Ln43FgdQwiuNO35Vbcb6ddxuvA6HuS-vq7XDkQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDExNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NzkwLCJpYXQiOjE1MjU2Mzk5OTB9.I_TKWKbd8X5OL1f8FBV5mvPAOiW57l_-Tl9Xgh4X7V9AqAxJ-QeI4fAPlm-hpCkK2TXClZONLNpaefIjZbtPLA==
+.twitch.tv	TRUE	/	FALSE	0	login	q_maria371_a
+.twitch.tv	TRUE	/	FALSE	0	name	q_maria371_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:53:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1e400acfb8a2f2c57873bb75599b2d25
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFyaWEzNzFfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTE5OTAsImlhdCI6MTUyNTYzOTk5MCwibm9uY2UiOiJ0QnI2NGRMUXVodWRneFhvZmhfanozWnZpUU1xVmQ3amU3MnJPallDdHZrPSJ9.Pcd0mMBV5dWKvVrAphPmwalpO8jhGb427D8bXJE2Y8YAcmKwqD9MN26b3dTWyyGtbCM7cainVKFcoC-hXF9oPQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mcse9tkrq2p9sq2me8pvsuz5hzh7y4%22%2C%22displayName%22:%22q_maria371_a%22%2C%22id%22:%22218941142%22%2C%22login%22:%22q_maria371_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mcse9tkrq2p9sq2me8pvsuz5hzh7y4

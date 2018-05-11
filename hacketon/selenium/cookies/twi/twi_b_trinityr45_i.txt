@@ -1,0 +1,14 @@
+#b_trinityr45_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Z35X0GecS5m65fhOa02fkRA6982X4GemKMTs08jErRk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	6288d6e0046bc821
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2a1fd79c5beac12988f7e3bb08cfe8b6
+.twitch.tv	TRUE	/	FALSE	0	persistent	218942736%3A%3Aazr5bytjsdc3ot7eogvoamr9n1m7i8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDI3MzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQwODEsImlhdCI6MTUyNTY0MDQ4MX0=.jsYvtl3Z50QiZtsupm7E9ddjOwLK_YGENSGRlWcamR2GDqa8l-FQTkgC0LZjSPMUAxnOAO21FchyDIi16Ncscg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDI3MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MjgxLCJpYXQiOjE1MjU2NDA0ODF9.JPl7heobSA5z7x9emi2VpqRuE25IYEQDHKipt20dS2BXuH1xakHdwTdLJUrj29Wd1BIhumCboHNJ4AZzW9A2gw==
+.twitch.tv	TRUE	/	FALSE	0	login	b_trinityr45_i
+.twitch.tv	TRUE	/	FALSE	0	name	b_trinityr45_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:01:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b2ee6d87a1b18d3de6352ba018d902ee
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfdHJpbml0eXI0NV9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjQ4MSwiaWF0IjoxNTI1NjQwNDgxLCJub25jZSI6ImprUzY1NHFNTFA0T0UtbDE5algtZ0tPTTJZdHd4bUFjRU5WT25jSUhneTA9In0%3D.pqvgbtShvPQqTABLGcGX5k7LNGGq8dvmecNKfrzIF-trJ5iDBQxtQmv_cufHbwkt7Oe9Tgms-BlsKiD-kg8zQQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22eporowfh1kj55z0mmj44pusx21h3z8%22%2C%22displayName%22:%22b_trinityr45_i%22%2C%22id%22:%22218942736%22%2C%22login%22:%22b_trinityr45_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	eporowfh1kj55z0mmj44pusx21h3z8

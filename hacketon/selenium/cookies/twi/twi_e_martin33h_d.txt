@@ -1,0 +1,13 @@
+#e_martin33h_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	oANf7AudI3pOpiPwSXT3HIFbBjKik45oRGhBPDlQyOM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:36:36+00:00	unique_id	878b4e21a01bd257
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:36:36+00:00	_twitch_session_id	ca97d31bf36fd3d3c4cf61dea4bdef50
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:36:53+00:00	persistent	216936103%3A%3Abz42klqvji74b42harp9m2h9dztmpx
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:36:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzYxMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5ODEzLCJpYXQiOjE1MjQ3NzUwMTN9.S7_U08ExyMYGLjpFeBWUdk-5RwGU-lcaIVLTLFGqJjAgyVTyK9kKFnS5QkmqvwqB9tuTtGHBiipMmYRNEOKnqw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:36:53+00:00	login	e_martin33h_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:36:53+00:00	name	e_martin33h_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:36:53+00:00	last_login	2018-04-26T20:36:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:36:53+00:00	api_token	6ce6ac26c69dcf9cf5d26cd354602c0c
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:36:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWFydGluMzNoX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI3MDEzLCJpYXQiOjE1MjQ3NzUwMTMsIm5vbmNlIjoiRWJLVzVFNkNpOUp4ekZkLVI2NEpaNkR0U2IzMFhmOEpsd3E1UkM5bEluZz0ifQ%3D%3D.HDSxAtbgZWwv0539t932tG7cxhVvCYEmZYIXUSFnmho-QJFaY1-kpUepsOGZCoTz4QeeCphjOr00lSBBLjbWKg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:38:24+00:00	twilight-user	{%22authToken%22:%22uz0roil83e6ooshz6rdgw245u7o441%22%2C%22displayName%22:%22e_martin33h_d%22%2C%22id%22:%22216936103%22%2C%22login%22:%22e_martin33h_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:38:24+00:00	auth-token	uz0roil83e6ooshz6rdgw245u7o441

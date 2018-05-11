@@ -1,0 +1,17 @@
+#o_christina09p_c
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	-MMLbfh1V8FT3WxjK2IpRXEYzs9PfArS3-ibFAFrhmWVh_bMi1tluxCqzcr_9GwHiPIWU3Ddyt4bDMrKtIgNvaeziKUgsP3Ronap-6xn3Vk1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	lausmqbzi4ddbd1cciajpvm2
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	obuwqr6BpAslTLXqmXhJsH6EHr7wBv-VJX8-GWzWff-EIm8rA3IqbRlqIKJilAgwzf4nmOaNOY1dXI1nU0n2GspN9CoezXKlPW3St8kxmm1LdODeaZvorn4OO1Jn0cRnyjEEZtkxzk7aBrIy-CpYrrO6I9V2YtBW1-bzw-crfGkP_uCZTcioEeZt2EpDSOOk6OOAQ53uaqA59iP8xgvroZgkbfRXoXnX9XsNrNAhmnC4eN_lrzhjo1E8FdMsuus4g5zNCNd88rQ3xh-3HTKat0tHsXep8ghz4Yi84BcRAiLXif_VMFh-LTY5xivh-US7WfNgMKWnpmVtO3-kCjbFHvgtDracjFM4_6SQtnAS1PKECwOKVsFjyfN8RD_6TsEAui2LHw08vIwgSoIf5eh0dJBOaegMWzl1NJHlw5cPZTmF1RcNe6pZqdaIsSOy0Sf-9mqs97k-MgRXv7C3fOGkeHwmRF5-H0kdwxo5Bg5lpyrGekKdvGbmYn1vXh5buh2C
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.439400540.1524813145
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524813145456%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%222440929244965367%22%2C%22sessionId%22%3A%225818597127719065%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	4cPp0|1524813148526|1524813174845.685

@@ -1,0 +1,13 @@
+#x_oliverp8u_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2FaZQ6DqhBa8cTjf97MCTo0q38m8x6Dj1INDTBjuWbeo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:50:43+00:00	unique_id	3d1ce3e11961b2a9
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:50:43+00:00	_twitch_session_id	24991aac32ad46011752c3e596317f3d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:51:13+00:00	persistent	216489051%3A%3Afdrb8bo10rpsfvtjcp2xx7is6f351i
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:51:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODkwNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5MDczLCJpYXQiOjE1MjQ1NzQyNzN9.lAcq5H9LEUjlw75ANtUEa8hxyhMhRwiTJSp12CcNmlLibd31YFPyOUbMqxwlJWM7CVsJA1ArrAfYhS48Wqe0bQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:51:13+00:00	login	x_oliverp8u_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:51:13+00:00	name	x_oliverp8u_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:51:13+00:00	last_login	2018-04-24T12:51:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:51:13+00:00	api_token	598cd6cd37fac709d59008175fb9ddf8
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:51:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfb2xpdmVycDh1X3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI2MjczLCJpYXQiOjE1MjQ1NzQyNzMsIm5vbmNlIjoid3doMGtaTjhpZC0zb3VFNE1UZklCVUNSNTh1MXFITGlGZ0Q2ODhUSEhvOD0ifQ%3D%3D.p7z1nCwNGatEhvdNYW52Eb8A14qL2jVl0JG0S-jONhTRp3cdI4bgtJHj9eL0nBhIGvYkZQCKSn1jhyTnRgURog%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:52:33+00:00	twilight-user	{%22authToken%22:%22qp3kaf4vm4dk8iss1biugupa38jay4%22%2C%22displayName%22:%22x_oliverp8u_t%22%2C%22id%22:%22216489051%22%2C%22login%22:%22x_oliverp8u_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:52:33+00:00	auth-token	qp3kaf4vm4dk8iss1biugupa38jay4

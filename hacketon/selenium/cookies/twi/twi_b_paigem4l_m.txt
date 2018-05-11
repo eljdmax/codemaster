@@ -1,0 +1,13 @@
+#b_paigem4l_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IlyyYaB6Mm%2FRaMi0osNUKJimVCDO%2BnHCEgr72kjZs2o%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:45:19+00:00	unique_id	d09142c90c351307
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:45:19+00:00	_twitch_session_id	42a6ce6a10959a8a8c1c59b94387d2f0
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:45:47+00:00	persistent	216947547%3A%3Acnv8mrmgwzz46fcio6yqbchs4fzmc2
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:45:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDc1NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzOTQ4LCJpYXQiOjE1MjQ3NzkxNDh9.Y4J5NrRgzZJTu-Ac0o5kosC79FsQYd71WmTY8IHbAffPRyJku9r_GGukPFfdwogB6tHrV8kPnz0LaH4fZrvgPg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:45:47+00:00	login	b_paigem4l_m
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:45:47+00:00	name	b_paigem4l_m
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:45:47+00:00	last_login	2018-04-26T21:45:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:45:47+00:00	api_token	8f0fe699253baa34fe77855eba3e34a1
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:45:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfcGFpZ2VtNGxfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMzExNDgsImlhdCI6MTUyNDc3OTE0OCwibm9uY2UiOiJZNUtwaHN4Y2Vwa1NNblBBc3NjR1J3ejhuX05sSnVoYmNZNmdXcDlLR3dJPSJ9.8rJJtqZf568YdNAvZ0eZhfpExm_JQxZsv9CUtHHB8kcLCFg6esCu11YjEIJfdMByaOs9Z-jex8bwrqev87K42A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:47:18+00:00	twilight-user	{%22authToken%22:%22o0amsyzz1psajv8quxcd07hkrb1py4%22%2C%22displayName%22:%22b_paigem4l_m%22%2C%22id%22:%22216947547%22%2C%22login%22:%22b_paigem4l_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:47:18+00:00	auth-token	o0amsyzz1psajv8quxcd07hkrb1py4

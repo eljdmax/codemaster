@@ -1,0 +1,13 @@
+#s_trinity16b_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	aWbcRIHVGNo8qHIpczWV96ZOVX%2FnBurO9Kh4I%2BUBGNQ%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ed9cee21ac5386e9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217237233%3A%3Asgojupj17sqp6tui93jfmzno8lqbw2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzcyMzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjI4MjUsImlhdCI6MTUyNDkxOTIyNX0=.rGaccf7hBNWb7YHRLsZwPi1JJFizX2cpwCgHyecGteksXTtCh-aYKBcw5RbaxBvIutX9eOHxzo_elrdRXmJJ7g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzcyMzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI0MDI1LCJpYXQiOjE1MjQ5MTkyMjV9.itySuWd2P6Ye8RsA6fM9WgD0zj11eGEy5p4s7QqK1lsodj44X8guAhjuDRsla0AmzVR8Mes8a0cIWGoBdl87yg==
+.twitch.tv	TRUE	/	FALSE	0	login	s_trinity16b_r
+.twitch.tv	TRUE	/	FALSE	0	name	s_trinity16b_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:40:25Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c9e10aa127c46347039e4b6d23fb3507
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfdHJpbml0eTE2Yl9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MTIyNSwiaWF0IjoxNTI0OTE5MjI1LCJub25jZSI6InlhMWpOUFBFdi1TaTd4VW1UaHdKdjF3OU9yb0pFamRUZzd0YVBmX0RENU09In0%3D.PYTZ3dPgc50q8e--7eNTAvoLcHdW5dgzrPdsS3Prq-wQIxRalsVn-m80vlNescEh1CfepIIHo-DJEMF6U7J4wg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xerxue08i28wbdsbsymzk4i20ajc33%22%2C%22displayName%22:%22s_trinity16b_r%22%2C%22id%22:%22217237233%22%2C%22login%22:%22s_trinity16b_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xerxue08i28wbdsbsymzk4i20ajc33

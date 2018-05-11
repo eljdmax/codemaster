@@ -1,0 +1,13 @@
+#q_mackenzie664_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7FCu6HxhhYcVRiIP%2FQWi5SJb9fzre6%2FEcDA1YuT8qLI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:26:38+00:00	unique_id	d1442ba0cf13b2d5
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:26:38+00:00	_twitch_session_id	be4cfc50a38687b655c49afd2b3e26ad
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:26:53+00:00	persistent	217552103%3A%3Acjhw4etp727jzbwpdggg31qwb67sj6
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:26:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTIxMDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0ODE0LCJpYXQiOjE1MjUwMzAwMTR9.jKQ2b5TA9RYWwD2Pmnk-1HIzfDL2wWXqiPxDWptyPnOytWnprXWdKlo8pcrLjMth-RZUCa0RiUnD13HFqLaqgg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:26:53+00:00	login	q_mackenzie664_z
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:26:53+00:00	name	q_mackenzie664_z
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:26:53+00:00	last_login	2018-04-29T19:26:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:26:53+00:00	api_token	f2558eb02271f3af2784a1cf72dbcb09
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:26:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbWFja2VuemllNjY0X3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgyMDE0LCJpYXQiOjE1MjUwMzAwMTQsIm5vbmNlIjoicEhCUmVObWJIbjRCM05TYkNRTHpnZV9kejNOd1Rockt6YzFUUTBabWRpVT0ifQ%3D%3D.M6ZJwLDAxPnKJ7zUPK-putQ-RjrMwTzd9FtoPMPUJzVW2AEd1uaJOfvnebZoz11OlgOWI4n5s6PPm3NxMUiVjQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:28:39+00:00	twilight-user	{%22authToken%22:%22k158muebcz6f4ft1q1smnjt5nsylz6%22%2C%22displayName%22:%22q_mackenzie664_z%22%2C%22id%22:%22217552103%22%2C%22login%22:%22q_mackenzie664_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:28:39+00:00	auth-token	k158muebcz6f4ft1q1smnjt5nsylz6

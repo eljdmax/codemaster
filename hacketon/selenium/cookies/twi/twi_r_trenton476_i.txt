@@ -1,0 +1,14 @@
+#r_trenton476_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0rFyDcZ%2B8%2BJWfmbYcatlOzOQsvP0s%2Fzt2W4BISAsCiY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8c747b085b7eb609
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	581ede1cceeaa60158a4e74478cdc61e
+.twitch.tv	TRUE	/	FALSE	0	persistent	218954874%3A%3Ay8730d6a0rqsloakh1uld3asailbfi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTQ4NzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDgyMjksImlhdCI6MTUyNTY0NDYyOX0=.HrovevElNtf4-3FXwQwF0IJ_Qb6fQfRqmYvNYPWQGi43DFa-Xiv2qIM7knYHti_1-xcQHiSX0CuahRFnSh_kxw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTQ4NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ5NDI5LCJpYXQiOjE1MjU2NDQ2Mjl9.96jf2ENPSDlPQKQLBwBWr8mvCjwIqFqk2NE4lc8R9slJU5iAqIsQkwBP3HrxyN4RxK51G0DJKEo5FNvfsaNbFw==
+.twitch.tv	TRUE	/	FALSE	0	login	r_trenton476_i
+.twitch.tv	TRUE	/	FALSE	0	name	r_trenton476_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:10:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	08ce797098ac230752e9b5e21fe78d11
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfdHJlbnRvbjQ3Nl9pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NjYyOSwiaWF0IjoxNTI1NjQ0NjI5LCJub25jZSI6InBEOFVaN3ZnZlYtQ0U5LU9TdThTLUZ4T1c5NlZEak8zOHlDM19DZWp4Tjg9In0%3D.MtVITDjh5dv-Mml2QNuye46PTsOA4hXkss0h18FSB9hehJOmBczPUq9ZB17WiPikSEl5NDs1gvIVL6E_cPhPlQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221iub6mp8lpaj2t6v6e7owlzdulay6m%22%2C%22displayName%22:%22r_trenton476_i%22%2C%22id%22:%22218954874%22%2C%22login%22:%22r_trenton476_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1iub6mp8lpaj2t6v6e7owlzdulay6m

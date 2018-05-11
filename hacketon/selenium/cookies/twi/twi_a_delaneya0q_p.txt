@@ -1,0 +1,13 @@
+#a_delaneya0q_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	M%2FgpJcbP5fLqDPK7lRBHM60WoM%2FIYvxaiNzDaqqsztw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:44:45+00:00	unique_id	d845dca2954ce126
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:44:45+00:00	_twitch_session_id	a5982b9670bac6215f2a3ad3f2ee7b0d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:45:13+00:00	persistent	217556319%3A%3Asvbtk0elvt50wbs928auxsd27hke7l
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:45:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTYzMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1OTE0LCJpYXQiOjE1MjUwMzExMTR9.5qWmXV9ZujxgeV0G2n_fGnHXMBTuVFn7j-6vKatzbOAolsysZ_zW_oahwXzcZglMK1vTUOexEHZaCwNX_oApLQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:45:13+00:00	login	a_delaneya0q_p
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:45:13+00:00	name	a_delaneya0q_p
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:45:13+00:00	last_login	2018-04-29T19:45:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:45:13+00:00	api_token	801dc0c6dbf499e30323bd9b4a0e91e4
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:45:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfZGVsYW5leWEwcV9wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MzExNCwiaWF0IjoxNTI1MDMxMTE0LCJub25jZSI6IkxSeU9ncXVyMEo4Y3BkUHQxM3Jfd3R3VldLTF9qYmZweW9jamhBRmJad009In0%3D.QOjmRkDhSOoVnRxc6BQV10r2bUDG082mgXiU-fc7eEoSDvyJfhjyHTQiOUNtmg7EY6Lo59MAVcN9p622h7LaEw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:47:02+00:00	twilight-user	{%22authToken%22:%22e5lyc07nnznkjdoenkzwdsq57hkm9s%22%2C%22displayName%22:%22a_delaneya0q_p%22%2C%22id%22:%22217556319%22%2C%22login%22:%22a_delaneya0q_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:47:02+00:00	auth-token	e5lyc07nnznkjdoenkzwdsq57hkm9s

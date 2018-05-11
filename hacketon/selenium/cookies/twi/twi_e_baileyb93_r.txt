@@ -1,0 +1,12 @@
+#e_baileyb93_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	uISECtBK2IabTxJpGE49QjyRuzyB3Sy2SGHp3YnReEQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:45:53+00:00	unique_id	1c3686c57d4e38b1
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:46:15+00:00	persistent	217079108%3A%3Al73ywbhnngp2d7y4xi9imy0d4z8vy5
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:46:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzkxMDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1OTc1LCJpYXQiOjE1MjQ4NTExNzV9.Rhh8NV_CUDcdbXl4zMHRogfPnJEpOlACaSTnkMu2iXRfzIvSt2oimJtNj4gZ8FCEWy9CaAzADtKgTRCFqfnscw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:46:15+00:00	login	e_baileyb93_r
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:46:15+00:00	name	e_baileyb93_r
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:46:15+00:00	last_login	2018-04-27T17:46:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:46:15+00:00	api_token	adaf42e01212db359b4c6e188fc4bac9
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:46:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYmFpbGV5YjkzX3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAzMTc1LCJpYXQiOjE1MjQ4NTExNzUsIm5vbmNlIjoiczk5eFdkT3BNLThIS3pRV3BIUnBaUjRjYm1sZE9kaHNtb2t5eVhuZWQtYz0ifQ%3D%3D.M27G5uQa1hym6Qcajj1F77NXkssTkl6pYmQilrkGQm9OP8HDIlg0fBXGfewV8TcadCu5q6KwynnFkCEBKDlQsA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:47:50+00:00	twilight-user	{%22authToken%22:%22qjgoakpqy0ynneclfgfoww97bx0d0z%22%2C%22displayName%22:%22e_baileyb93_r%22%2C%22id%22:%22217079108%22%2C%22login%22:%22e_baileyb93_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:47:50+00:00	auth-token	qjgoakpqy0ynneclfgfoww97bx0d0z

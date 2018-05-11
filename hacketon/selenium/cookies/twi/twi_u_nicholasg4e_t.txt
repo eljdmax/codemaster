@@ -1,0 +1,13 @@
+#u_nicholasg4e_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jhG8%2Fn8JOLTVjuVnaBbrg%2F3T8i672iF3TdyI3FB34dY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:43:18+00:00	unique_id	fbdd447c30d5452a
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:43:18+00:00	_twitch_session_id	b455568dff4786c62f25376bcdf8a231
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:44:00+00:00	persistent	216947288%3A%3Au5k204yy9do9kih24teljuph2x43c5
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:44:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDcyODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzODQwLCJpYXQiOjE1MjQ3NzkwNDB9.Yr5t0ZynGtjqBknDDgntC96i6-KAHRsFRZspZhZKkLX8M7XGrmG1aPMfe7LFNda0W96lix4FnpJS6ZcvdDW6Rg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:44:00+00:00	login	u_nicholasg4e_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:44:00+00:00	name	u_nicholasg4e_t
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:44:00+00:00	last_login	2018-04-26T21:44:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:44:00+00:00	api_token	039a965b56f662e8278163e58083bb27
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:44:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbmljaG9sYXNnNGVfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMzEwNDAsImlhdCI6MTUyNDc3OTA0MCwibm9uY2UiOiIyeHl3bWtyNndPWmJTcGtydmRUYXNDWEphVERjdUY3dHF1QmVDVWJkYlpvPSJ9.uhvuDh18TcI43Tg6ZKrtEcnHPJfpoe96zQiykLaTD5AfDy-YIt3pNnQ523nhGW4J5Ro6YTTgt0epFCnLUXz3jQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:45:32+00:00	twilight-user	{%22authToken%22:%229d6ykm92vinq4cigbopo7drd2buw8g%22%2C%22displayName%22:%22u_nicholasg4e_t%22%2C%22id%22:%22216947288%22%2C%22login%22:%22u_nicholasg4e_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:45:32+00:00	auth-token	9d6ykm92vinq4cigbopo7drd2buw8g

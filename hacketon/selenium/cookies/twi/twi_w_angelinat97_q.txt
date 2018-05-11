@@ -1,0 +1,13 @@
+#w_angelinat97_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	V5zPSMJsfdBJPr%2FPs2qqRZ3k5axwttLxrVC6G08Mhi8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:01:34+00:00	unique_id	30d9000604b0c4a8
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:01:34+00:00	_twitch_session_id	d291b5aefd022e59124850c5375fad7d
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:01:53+00:00	persistent	216940654%3A%3Aax05rf7nald0q18oi1pv169jja8fxi
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:01:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDA2NTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMzEzLCJpYXQiOjE1MjQ3NzY1MTN9.P7NR29caRdL98R0QdjlsGTOXArpjwePT-p0jgtECtyy7M1rEY1g6PBRciSPDp-hKcxjgZXSQVLdTcJ63Wrosog==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:01:53+00:00	login	w_angelinat97_q
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:01:53+00:00	name	w_angelinat97_q
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:01:53+00:00	last_login	2018-04-26T21:01:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:01:53+00:00	api_token	86187686ce7320163ef286c1a9069b75
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:01:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYW5nZWxpbmF0OTdfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjg1MTMsImlhdCI6MTUyNDc3NjUxMywibm9uY2UiOiJEeXUxdU84cm1OODFVWTBBVllBaVhMS1RCZy1pa0EtVEdzRkg4RTROdUk0PSJ9.vjmaSXhsc8fKsQdGOU_nHjrynMdXJcxbmk6eBqH7wJSUtJ7XlNgvdpZdCt_qFouoY8Hy6vglY49mKYTk3giSDg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:03:23+00:00	twilight-user	{%22authToken%22:%22wmhy0c3cfp31zradx2loop64viqnie%22%2C%22displayName%22:%22w_angelinat97_q%22%2C%22id%22:%22216940654%22%2C%22login%22:%22w_angelinat97_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:03:23+00:00	auth-token	wmhy0c3cfp31zradx2loop64viqnie

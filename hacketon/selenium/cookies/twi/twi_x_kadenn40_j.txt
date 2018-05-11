@@ -1,0 +1,13 @@
+#x_kadenn40_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	smhVXqJTEjlvTgLb2dhehRJm%2Foun0fxrRiGxc5MqujQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:17:32+00:00	unique_id	115ec93a089072bc
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:17:32+00:00	_twitch_session_id	e169f1a7e8c998ed982a83ffc477a996
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:17:54+00:00	persistent	217564115%3A%3A08qo97696cfh6grdkcmyk6ckah4swx
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:17:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQxMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3ODc0LCJpYXQiOjE1MjUwMzMwNzR9.1O8NM-ME8tNw3OBVzVcLUBxhhiVOrDdBiB6ZvaOZLUQ3f93pHiIwu_DuzsSpVtoNRHfZPrhZlkjlT7Z0_-FMYQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:17:54+00:00	login	x_kadenn40_j
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:17:54+00:00	name	x_kadenn40_j
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:17:54+00:00	last_login	2018-04-29T20:17:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:17:54+00:00	api_token	c495689971ef38055d1cf10b98d121e3
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:17:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfa2FkZW5uNDBfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODUwNzQsImlhdCI6MTUyNTAzMzA3NCwibm9uY2UiOiJTTVd1MXlodmFJWUVVMy1CVUctQ0x1V0RhRUhsTUcyeENDeFlVaXdVcW80PSJ9.THJuB8BNEB1KA-JwMQUx8e1P7rJm-ObqaFTQU0NiwFqFSNFTfvRO-1swxntUNqrAjF2xz48odug5eafbiK_vqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:19:38+00:00	twilight-user	{%22authToken%22:%22op84sdc6t5asxieul7sbhvwyj2gjow%22%2C%22displayName%22:%22x_kadenn40_j%22%2C%22id%22:%22217564115%22%2C%22login%22:%22x_kadenn40_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:19:38+00:00	auth-token	op84sdc6t5asxieul7sbhvwyj2gjow

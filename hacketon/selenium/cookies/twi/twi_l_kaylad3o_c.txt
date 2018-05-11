@@ -1,0 +1,14 @@
+#l_kaylad3o_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	bAe%2Fo5MvBREcK8%2FRg1quPCq6TuctA6hot6YkhjEyfVM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	44316806703749a6
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3e92d446bbde79bb820dec30572a755f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217564307%3A%3At0xzhvmpysgizfacgzae3xj2lc85q1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQzMDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzY3MjgsImlhdCI6MTUyNTAzMzEyOH0=.A15rmGns02Smpva0ZHKg2FEs7cH80IcyGQ2zK6UTERIxdy4nJsM2n-WI0nfOLSOJfp3s8zePsHQzQBIewmw96w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQzMDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3OTI4LCJpYXQiOjE1MjUwMzMxMjh9.9kf5XKB_rsWfKurJUNJsVVxEJLpLrmscAGTnKtO6UmkljOKvauPLDaDOGXNMgYnOYYrqduBiGAJjz6ScUSLong==
+.twitch.tv	TRUE	/	FALSE	0	login	l_kaylad3o_c
+.twitch.tv	TRUE	/	FALSE	0	name	l_kaylad3o_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:18:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d1c0df5587263249512e3e48ac86bcd7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfa2F5bGFkM29fYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODUxMjgsImlhdCI6MTUyNTAzMzEyOCwibm9uY2UiOiJVMVJiempQSFd0UlNBbk1jRGRabmE2Q3hUMGM3TTdwcWVxLVdrOEhBRUdJPSJ9.tLpM5CnRy716DqjyX_xPgxViwUzivMZCEnxURbvoep0iMeSgRxj61M4cf0nKU_AHCxP5KO2aFL5xElkHXRuMWw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222kg6t9uu2kqj11k10i79xpepszm1q9%22%2C%22displayName%22:%22l_kaylad3o_c%22%2C%22id%22:%22217564307%22%2C%22login%22:%22l_kaylad3o_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2kg6t9uu2kqj11k10i79xpepszm1q9

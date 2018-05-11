@@ -1,0 +1,13 @@
+#i_hannah90d_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xqFvEPQW1NT9YkcxeBdjdci0HBinw1rJFhEEgWn5tug%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fd74614b6398c04f
+.twitch.tv	TRUE	/	FALSE	0	persistent	219033152%3A%3Ajoagxcdcy174du2pqxqc9sal0j5tvx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMxNTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI3NjYsImlhdCI6MTUyNTY4OTE2Nn0=.y15DOvTAb_-4Tk5EeQOCvHXYy3fSUkSiHmkE02Jy6PqQE66BppNmHZWTacfomuBWVv0XqOoW2bRE51ZdWUiK0A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMxNTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzOTY2LCJpYXQiOjE1MjU2ODkxNjZ9.E5l-7roH0EGnDjDWcHKlXNlekodKCTHD_F8mf9LTiL1c8anaaJMQ1YxsvjzVKNEv_4wCbtSPQUQWyIbPPYtKjQ==
+.twitch.tv	TRUE	/	FALSE	0	login	i_hannah90d_7
+.twitch.tv	TRUE	/	FALSE	0	name	i_hannah90d_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:32:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	18ff6686126262053b2c6a9b5bfb54dc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfaGFubmFoOTBkXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjQxMTY2LCJpYXQiOjE1MjU2ODkxNjYsIm5vbmNlIjoiRmV4OU80SHMtQUlLejgyeW9IX1o1Ul9QcFNZYTJpWEpNZ2tGb041NldKOD0ifQ%3D%3D.IdoKshl3mjzkRfygcu59BQnDAiUNWg5rMDFx0xeOt3MlDrD435ECtarIOecqrLQ0bL4UOYPZCt-uXqTSW__AsA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22css6skgoa5v465pgqs0xszfb94c32x%22%2C%22displayName%22:%22i_hannah90d_7%22%2C%22id%22:%22219033152%22%2C%22login%22:%22i_hannah90d_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	css6skgoa5v465pgqs0xszfb94c32x

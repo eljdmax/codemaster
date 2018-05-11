@@ -1,0 +1,13 @@
+#n_james23o_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zdx5nmfYNlR3Z%2BOuSR8Zz4%2B5%2BZzDvnwM9VwgGJ93yFQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:21:23+00:00	unique_id	1fcdd080d9762445
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:36:55+00:00	_twitch_session_id	0692419f3371c88c3ecb63144016e1e3
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:37:16+00:00	persistent	216946267%3A%3A3ph6d1mbrr12no87771ejguhhamiik
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:37:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDYyNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzNDM3LCJpYXQiOjE1MjQ3Nzg2Mzd9.M-m7TxsRvGk1_W5_7wlVPW0_O3qWRXKZwFy3WvTJa0h9YNVe_Khw9aUqn2pGPY8uIUoILEKfWpnlTFWcDymFOQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:37:16+00:00	login	n_james23o_u
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:37:16+00:00	name	n_james23o_u
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:37:16+00:00	last_login	2018-04-26T21:37:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:37:16+00:00	api_token	ae04cd8d45a79a97d519710b955f0609
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:37:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5famFtZXMyM29fdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMzA2MzcsImlhdCI6MTUyNDc3ODYzNywibm9uY2UiOiJVTWRmVEdycW9sMG1wd2VXRFpYYmRMbk5oV2dyLUhEWDZJcjNBQ2NRRFBrPSJ9.I717_uSg5xFpE1jpJbHHaQisulY6LsIO_W58QpOgTWnRE_Yd0VEdqYAUPb2OSq4P_uLUmY7fN-PF3OX67b1sCw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:38:47+00:00	twilight-user	{%22authToken%22:%22bago742qghmsa2t5d0ii2zbbjn8fdd%22%2C%22displayName%22:%22n_james23o_u%22%2C%22id%22:%22216946267%22%2C%22login%22:%22n_james23o_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:38:47+00:00	auth-token	bago742qghmsa2t5d0ii2zbbjn8fdd

@@ -1,0 +1,13 @@
+#n_laurab32_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yaHWtUbUHKZCbI36TQ7WypumQyKkEty3jMZTfOGrW0M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fdf4496950c321ce
+.twitch.tv	TRUE	/	FALSE	0	persistent	217257547%3A%3A4omgk6dyfzhpzqw14pbc8svgj6u2ls
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTc1NDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjkxOTIsImlhdCI6MTUyNDkyNTU5Mn0=.0rxI4eHiuiCmuTkvN1bVVJxQADpzzGAdNicK9afRuXo002EDs0v-6LdqyUq1tWfT6NCoxbciVxSyqk3iPWLBOw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTc1NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMwMzkyLCJpYXQiOjE1MjQ5MjU1OTJ9.2IHjJdJHi8SNA_sFDPaoaqKnzHn4MVVvGa3q_EX6PZp0FpRYnx6hjxN7SkyMLbhK-0Vt4pu-h9Yp8AjmhrawOA==
+.twitch.tv	TRUE	/	FALSE	0	login	n_laurab32_e
+.twitch.tv	TRUE	/	FALSE	0	name	n_laurab32_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:26:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	89d947bd0ebb66b340ef36ce4ad5af7d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbGF1cmFiMzJfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0Nzc1OTIsImlhdCI6MTUyNDkyNTU5Miwibm9uY2UiOiJpLXFiQ3lUakI0VE03TnltMFJhQU9MUWhERkJHc0U0NTZRSU96Mk1GQ21NPSJ9.wxmR68isTzORV9gX1pkGCBb8a7GVfOTsj7f3lgjvqlFGlbYpj94ScDGEyqkcm3Di94fzkI2oWjUTysh-h-bKmg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22oklmvxtp28hcorteykch3y228aufdc%22%2C%22displayName%22:%22n_laurab32_e%22%2C%22id%22:%22217257547%22%2C%22login%22:%22n_laurab32_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	oklmvxtp28hcorteykch3y228aufdc

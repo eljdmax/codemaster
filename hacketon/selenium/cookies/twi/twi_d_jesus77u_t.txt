@@ -1,0 +1,14 @@
+#d_jesus77u_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	uui1K%2FgDMT86HCQEq9gABGUpWcdPB%2BLISbjG6Ty8W3s%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c5eb6011b958bcc2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	feee82b4724446355296b73c7f719a8b
+.twitch.tv	TRUE	/	FALSE	0	persistent	217447019%3A%3Asrh84ayr1bbikzcq5k4gwk3etq3421
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDcwMTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTgzODksImlhdCI6MTUyNDk5NDc4OX0=.4mFpuOsi0AmngMkn6o2AwmNZVcBr4-6fk7LqMfKqmfD2G9NzG954JBuYfmWiTdgpYIAbN4a_llHbUcUB4DkwOw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDcwMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk5NTg5LCJpYXQiOjE1MjQ5OTQ3ODl9.yIUKIZ0oFczHoqQecbSMBbTmDZ5DhvEW0QGXkgq_ae7tzY_MzIxSyt_QsboGqQwh2NKmYLKuR6yT0r8an5IxGg==
+.twitch.tv	TRUE	/	FALSE	0	login	d_jesus77u_t
+.twitch.tv	TRUE	/	FALSE	0	name	d_jesus77u_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:39:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e10cc4f7d21421028507954f7a0beffe
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamVzdXM3N3VfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDY3ODksImlhdCI6MTUyNDk5NDc4OSwibm9uY2UiOiJqWUJLVHhPWlZpaUc2ZlVGQmYzOHdWRWwxV002aVU0UW1NMURyTnQta2J3PSJ9.QHjWk4KgdVzbn0lomtW6qz3wmb2HqXe2IlHAiSjVc6LS9XP7JwZvdMiS9Nivv6kBBrhoVUXa1XPil-dhqa1J5w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ffodzpfj38a9y0p4wnsp5d6j0o20ff%22%2C%22displayName%22:%22d_jesus77u_t%22%2C%22id%22:%22217447019%22%2C%22login%22:%22d_jesus77u_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ffodzpfj38a9y0p4wnsp5d6j0o20ff

@@ -1,0 +1,12 @@
+#s_lilyy9q_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	BtR8xxjLkF1xDWsyS29kkcuTi%2FE4zP5khX2WUcBGJfo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:58:08+00:00	unique_id	dc427f516b687214
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:58:36+00:00	persistent	216478296%3A%3Axjojaotkff59qv34hicgiolz68h5i2
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:58:36+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzgyOTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyMzE2LCJpYXQiOjE1MjQ1Njc1MTZ9.0s3f5zGGQpPkfkH96m6sn256B1IipuRsPZ9JzH9MPW-5itrPwtYEheUNY1iHSG1ue6m8GBk3HMYIdiGo0MMHhw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:36+00:00	login	s_lilyy9q_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:36+00:00	name	s_lilyy9q_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:36+00:00	last_login	2018-04-24T10:58:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:58:36+00:00	api_token	ba1b6c815fbce5059afd507067d1ed62
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:58:36+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbGlseXk5cV8xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExOTUxNiwiaWF0IjoxNTI0NTY3NTE2LCJub25jZSI6IndkTXFTRU8yblU2ejBNU2FMbmRGTWxSR2UxUEJfTVZ6R0xacXh5Mk9yaG89In0%3D.aY9e90anffQrsDhbfzVnmF5OKhiHfz3iyxgqzsWBmvg_ahqLtwEMzzssGfkI0laHUJxttv4LWuJmOUQ-NhYZUA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:59:57+00:00	twilight-user	{%22authToken%22:%22ypvepmr7gxdqjenb5ii2tn9xprhn4d%22%2C%22displayName%22:%22s_lilyy9q_1%22%2C%22id%22:%22216478296%22%2C%22login%22:%22s_lilyy9q_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:59:57+00:00	auth-token	ypvepmr7gxdqjenb5ii2tn9xprhn4d

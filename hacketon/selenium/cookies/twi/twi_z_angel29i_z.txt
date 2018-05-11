@@ -1,0 +1,13 @@
+#z_angel29i_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	u%2BoD%2FqfGLBsbwOE1SyQ2d6qOschcGbcGrPYSLlZvi%2BY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f8e35decbe9e8f40
+.twitch.tv	TRUE	/	FALSE	0	persistent	217256525%3A%3Afqhfez3tnflu00oo21hyafdym6rige
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTY1MjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjg4NjcsImlhdCI6MTUyNDkyNTI2N30=.IgGcTZ7AvSxlwiOuFKRgLxmtj007asSCD-iZg1eb8NsbXHdireaPcFvPkRYMjuY8vWbyky5xpCq9wwdqDT2htg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTY1MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMwMDY3LCJpYXQiOjE1MjQ5MjUyNjd9.GdgzMroptBTGSHVBZbi4H21f4_ZkXxS1-K_HDivb5Tb8zREeHqljU2HZNnPAf59P9Ril998tWrcERALameFj8g==
+.twitch.tv	TRUE	/	FALSE	0	login	z_angel29i_z
+.twitch.tv	TRUE	/	FALSE	0	name	z_angel29i_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:21:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b3be3c24e860c4d71c846c0298ef7c2e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfYW5nZWwyOWlfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzcyNjcsImlhdCI6MTUyNDkyNTI2Nywibm9uY2UiOiJlSnpXVGtaX3BsS0ZXMURvakJ1azZwSEYxVlVWeVpCY1JraFRsQkZMTXBRPSJ9.zHWbYfT1s3O0iY5CPBKezPM7n5onquo7RKkaEAv9MFGrtPxgk-J0K2NEExnFbFv8MOv3zZuW_ADgSd9TbMcB9A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22d6ou6b3cqvy9hkhug816eh8l3asz72%22%2C%22displayName%22:%22z_angel29i_z%22%2C%22id%22:%22217256525%22%2C%22login%22:%22z_angel29i_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	d6ou6b3cqvy9hkhug816eh8l3asz72

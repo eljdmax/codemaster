@@ -1,0 +1,13 @@
+#i_mary948_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kOMGpyE%2Bc14xjsMUOVWPY4Z1aqkuu%2BZPTg3dbzwt4z0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8c9b7598e0345a1b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218948507%3A%3A6gni65zk9s8ifenastythnhz0wnrb5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDg1MDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU5NjQsImlhdCI6MTUyNTY0MjM2NH0=.S5UVCI8y0ydHFi7_CFbU8ANfzE4K2PSgdOdJ1VAY8PD0EMyO7Ps2T7OM1QhfH4qrS_INZXSnr6xcLZjQXjQoGg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDg1MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MTY0LCJpYXQiOjE1MjU2NDIzNjR9.4UmGG1ylTitTpNkjq38kQmw8A692p1C8Tc2dZR99UdzBrTGNf-BRUTymHWNU4SNNRiWeT4H0db7IVqy_1WWAGA==
+.twitch.tv	TRUE	/	FALSE	0	login	i_mary948_j
+.twitch.tv	TRUE	/	FALSE	0	name	i_mary948_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:32:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0f78ccc64180b94cad6b7ecfc8723700
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFyeTk0OF9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NDM2NCwiaWF0IjoxNTI1NjQyMzY0LCJub25jZSI6IjZhcDB4d0tuWlMyWEp6akNoekZySnJiM1JORm1wU08xajBlMDR0YzRMYkk9In0%3D.RpZ15QVvBViuoIbpHXOe7zWPz-enowxVnGzE2CVscXXWzgIhOlH1qUQIS6YPzZI1Iufw325NvRs2bmFXrFI0QQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s9usz2vcxvezhtqm3h313vzkaure6q%22%2C%22displayName%22:%22i_mary948_j%22%2C%22id%22:%22218948507%22%2C%22login%22:%22i_mary948_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s9usz2vcxvezhtqm3h313vzkaure6q

@@ -1,0 +1,13 @@
+#a_josiahb42_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Vwb6nwUe4VJFs1wb1WU%2Bd04QdwaqVTxoCncUkMyZlrw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	98b5d1480f8b1d0e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217488522%3A%3A64ntvoko76152hfh82artozisoyzbr
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODg1MjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTYyMDcsImlhdCI6MTUyNTAxMjYwN30=.5KSglqGNwdyiO9LAYOdgFfdTcOK4AfwYuM4Hn9sKyKJ6TyYyxiMYO2826ycuWrKkh1ZTZE5Akgm8SJB3GypAMQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODg1MjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE3NDA3LCJpYXQiOjE1MjUwMTI2MDd9.0S-VsufLUZKWt3ioQMR_VEAKWQ6C51AFPQUUh_0t8Skjjg6ridH-MbqCk9Kr2j843l1f2LsY9FsnIBtoazEYuA==
+.twitch.tv	TRUE	/	FALSE	0	login	a_josiahb42_y
+.twitch.tv	TRUE	/	FALSE	0	name	a_josiahb42_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:36:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	19892f535f3b5d9af7c2578cb97bb3c2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfam9zaWFoYjQyX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTY0NjA3LCJpYXQiOjE1MjUwMTI2MDcsIm5vbmNlIjoiTDV3NWw2SHA1N3BGVFg2LWZHWXBndXU4VEtYcy1YMkpFUnRNeDFKZHRjMD0ifQ%3D%3D.uoXLLzMWuRd6QpqhbSllGUaFCZ1_bukgv-7a987hFUSfjKiIsuIJEpz7VoB1es2jjK2VejvzUjUjnzW9hLER3A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kcxt5h7cgmbracloxdkyl8e2v8r7nw%22%2C%22displayName%22:%22a_josiahb42_y%22%2C%22id%22:%22217488522%22%2C%22login%22:%22a_josiahb42_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kcxt5h7cgmbracloxdkyl8e2v8r7nw

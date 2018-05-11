@@ -1,0 +1,13 @@
+#k_jacksond12_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	IkYd3Al8Wf9lv6RKc0ToBFk6UrjCK6nw3F55xv%2FRs24%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fd2c2918262f6340
+.twitch.tv	TRUE	/	FALSE	0	persistent	217243150%3A%3Azyv8u4no0shnxg5ue594qqm030ok8n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDMxNTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjQ2MzgsImlhdCI6MTUyNDkyMTAzOH0=.GdNfrmXtwHj37nEvgPF6XEqcS6BKzfVVGiMUMAdE8FEAiw_doCSMx81m7anfJvgXUHWu8_XLsOYHV7TgJSTySA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDMxNTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI1ODM4LCJpYXQiOjE1MjQ5MjEwMzh9.nbNUNsQ3ueYGY8CdDCEGlgqB-jliCcCret_INdTl0ApQwZg0YsqZWzqHpQAwCMmUkSxAS0fkmvWEFKOADusMQA==
+.twitch.tv	TRUE	/	FALSE	0	login	k_jacksond12_e
+.twitch.tv	TRUE	/	FALSE	0	name	k_jacksond12_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:10:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f48d1dc833a10bbb98081a81a3c13614
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamFja3NvbmQxMl9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MzAzOCwiaWF0IjoxNTI0OTIxMDM4LCJub25jZSI6IkpWdmw0OGpqbnJLRk9RQWV3bW9BczVRUDVCQ1M1SXhOaFRrd1ZOOUN2a289In0%3D.VSJgl7IjYLuOoz7nh2KO1mJm_fdNHE93Ey17RPOltIucICXunh-E0O5RK4EfSwQPUBHmR3brYV_9kA2icFBp1Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22brk4npbg7of63nwchhhlc3twvz0w1j%22%2C%22displayName%22:%22k_jacksond12_e%22%2C%22id%22:%22217243150%22%2C%22login%22:%22k_jacksond12_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	brk4npbg7of63nwchhhlc3twvz0w1j

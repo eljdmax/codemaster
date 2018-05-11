@@ -1,0 +1,13 @@
+#a_breannaf35_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	f2vuyeIhirL6lqTWZksha8KgLuliwRVtlhX%2FmqOqc%2Bg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7aff69ee2e494972
+.twitch.tv	TRUE	/	FALSE	0	persistent	217258951%3A%3Afbro2lx869hzvvit2j01429b6wrhii
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTg5NTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjk2MjksImlhdCI6MTUyNDkyNjAyOX0=.du0-FbTQuaurX8lgq5NDbAAx9DlEUZS6nyqt3UZ9uxP4IVkfd7qXcqPWTnkqWHXa7pY73ZCWwfahkfELZ-dswg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTg5NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMwODI5LCJpYXQiOjE1MjQ5MjYwMjl9.oEEw6yOz37zL4q6lzbUbeZ1Fr41Znzik1iSj6vDkYct3EQhOErN00jNbx-cIpu2tHAmmnF3F1AcuAj4lIekTUw==
+.twitch.tv	TRUE	/	FALSE	0	login	a_breannaf35_d
+.twitch.tv	TRUE	/	FALSE	0	name	a_breannaf35_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:33:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	22e14460bf858804212992a33c664406
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYnJlYW5uYWYzNV9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3ODAyOSwiaWF0IjoxNTI0OTI2MDI5LCJub25jZSI6Ikl5aFA2eVpDTmk1Z2pEem9tZXpMTFRhTXBQdWlmZDE1REpvRG4zR21IaTQ9In0%3D.0sz2p3sC7aUcp5a_mh9I01ttXzC5CPlayeF4z7ciEQ-TJQQMLH0v0TvXVq1fwZd1n6wp8gaizLB_PaCejliXQA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s3jeto0la18l9whtoo0nm4um16n6mj%22%2C%22displayName%22:%22a_breannaf35_d%22%2C%22id%22:%22217258951%22%2C%22login%22:%22a_breannaf35_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s3jeto0la18l9whtoo0nm4um16n6mj

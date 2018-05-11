@@ -1,0 +1,14 @@
+#l_francky3q_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UKc5EggFKcJUKUCMdPFoOsmby2HNrDQlTRL4G0B5Wb0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:43:39+00:00	unique_id	d828fce1f565494d
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:43:39+00:00	_twitch_session_id	68fed3c1e38014becfa7810658dbc11c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:44:15+00:00	persistent	217570276%3A%3Aruftf14jvvhrk79wzb6iv7fyu4iltl
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:44:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzAyNzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5NDU2LCJpYXQiOjE1MjUwMzQ2NTZ9.5CBBgMUeDrSVieyeKr6CCGPZE5N8y8a3y5se2SypaOW8tQTVxJqbok-fNk0yai8N4mwP2vpAPHGuxb_zd-RlkA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:44:15+00:00	login	l_francky3q_4
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:44:15+00:00	name	l_francky3q_4
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:44:15+00:00	last_login	2018-04-29T20:44:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:44:15+00:00	api_token	37e34f98c2cf6b9781a744b402fa3e11
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:44:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfZnJhbmNreTNxXzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg2NjU2LCJpYXQiOjE1MjUwMzQ2NTYsIm5vbmNlIjoiWDFsTEd6NDgzX3lycFNYa1ZRV2pJenVNOFRUeE13TXl4NlVrZFpydDk1ST0ifQ%3D%3D.cL7wzWj-F3LPQkQ82-EKqywBy7kTOcHGBOlvbKt4Q-i-RzHZebw-GLkBxWNNm9deiyDkQqD7Krpd2xKvJDkd_A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:45:59+00:00	twilight-user	{%22authToken%22:%223l5bsbo0s6iiit8j2zeyhkas0berpe%22%2C%22displayName%22:%22l_francky3q_4%22%2C%22id%22:%22217570276%22%2C%22login%22:%22l_francky3q_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:45:59+00:00	auth-token	3l5bsbo0s6iiit8j2zeyhkas0berpe
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:46:02+00:00	twilight_onboarding	true

@@ -1,0 +1,15 @@
+#b_henrym9n_t
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d6b68dbd776c40c
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fCMErfcgACZFCH8YIOI5PPOsQceXnvDHx3gPNEBeYWI%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7f462c0d0b060ddafdf81f07bfad651b
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031005%3A%3Awdwyt3ifntvzh7re7ninxyxlfnghd9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEwMDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTEwNjEsImlhdCI6MTUyNTY4NzQ2MX0=.DKFRFlRDs_h_hfwp3F6V0hj5_nFbeanAQJwWc04WKknwzAmXCtvH20hLo-7clwKjihdsLkb7yGkATgeqUDgUXA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEwMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyMjYxLCJpYXQiOjE1MjU2ODc0NjF9.Gkb-P-k6Ikn680eM7SIZ7fQV6Ndaon7OO2HFVu8zXIaBGIgoqyIFbeJ22u_zoFSMp-P_PXCiC7GVRZ9YsHHkew==
+.twitch.tv	TRUE	/	FALSE	0	login	b_henrym9n_t
+.twitch.tv	TRUE	/	FALSE	0	name	b_henrym9n_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:04:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0fead58cf15ba4be7d82a8405fd86ae1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfaGVucnltOW5fdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzk0NjEsImlhdCI6MTUyNTY4NzQ2MSwibm9uY2UiOiIwbHY0aFVnSTdkYV9udFV2UlRnRHUybEdjMTNTQl84RncydGM4QjhIVVBrPSJ9.bP_aytjG5FBDnOkGssExNyqKXBIGS6O4KX2sa2mQWJbq-eQMU8ysmLQcyGXiy9d2iBRZAV2B8-5MmGkyKXfxIg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ptsat6lsf41y66wrgluvb7jc48w8ry%22%2C%22displayName%22:%22b_henrym9n_t%22%2C%22id%22:%22219031005%22%2C%22login%22:%22b_henrym9n_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ptsat6lsf41y66wrgluvb7jc48w8ry

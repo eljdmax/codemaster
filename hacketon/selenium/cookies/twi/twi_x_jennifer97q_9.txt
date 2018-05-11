@@ -1,0 +1,13 @@
+#x_jennifer97q_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3D9BA62OAMVSdIqemvso7FUbIFe6cT6DQuUkz%2B09mkk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f2640c90e0da1438
+.twitch.tv	TRUE	/	FALSE	0	persistent	217292098%3A%3A3ukumj9dx2tji284tl3jtjbyom6enu
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTIwOTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzkxNDAsImlhdCI6MTUyNDkzNTU0MH0=.OxjlZTNBxy7OeI8AJapQLgdd-5565tDAbG2Io5Q35g2mykNOYYGr9rC7mjQJxzQiYHCRwT2EN6pEqvKAsVLITA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyOTIwOTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTQwMzQwLCJpYXQiOjE1MjQ5MzU1NDB9.ja8U-aRsHa5b1uMMb_QZNF7F8W6BifWER-6u7amJoQ5xt10U-n-4T-Ik3MdR1M4Xciiy7NCrPZs-cPs-GGCrhg==
+.twitch.tv	TRUE	/	FALSE	0	login	x_jennifer97q_9
+.twitch.tv	TRUE	/	FALSE	0	name	x_jennifer97q_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T17:12:20Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4a6e471403b0cab87788dd19679fa181
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfamVubmlmZXI5N3FfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODc1NDAsImlhdCI6MTUyNDkzNTU0MCwibm9uY2UiOiI1c0k0TkVvSlk0VEY5ZUlSdU1Oa0ZkUTI2d0FzdjBZeEV4eWhzYS1VQjFZPSJ9.g3eEv2poCToALS2ppSO5zAB4YIgGEXHr42OkrvLHsNvEFkfNza24kB0PZumQMMFnHQM0X6WI80odUh3qA5J34A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22egnyqmpr0zj1bj36iaa24x3fgik1bh%22%2C%22displayName%22:%22x_jennifer97q_9%22%2C%22id%22:%22217292098%22%2C%22login%22:%22x_jennifer97q_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	egnyqmpr0zj1bj36iaa24x3fgik1bh

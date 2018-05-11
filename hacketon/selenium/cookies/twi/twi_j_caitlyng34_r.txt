@@ -1,0 +1,14 @@
+#j_caitlyng34_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xnyRR4Ndg2RVJNTWky%2BHJrCEIEf2mRKMeXJjsgq1zZ8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:33:09+00:00	unique_id	4f0f70f65b17f50f
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:33:09+00:00	_twitch_session_id	19a6cee3e1d18195aee48b10b8e1d12d
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:33:23+00:00	persistent	217076794%3A%3Azwstsao4ikl0zpmy7z2ymbk11ogwf1
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:33:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzY3OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1MjAzLCJpYXQiOjE1MjQ4NTA0MDN9.lJtM-K8LBGqO44F3yKcpFnfcRXyRx4bvfLd3oDVAGT8Fn19nBLYk1sCqI6kr9DvggcowCVZ4nzE2hzXx_jvnjQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:33:23+00:00	login	j_caitlyng34_r
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:33:23+00:00	name	j_caitlyng34_r
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:33:23+00:00	last_login	2018-04-27T17:33:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:33:23+00:00	api_token	da14308997a53d7bf0052f5ed75f4c1c
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:33:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfY2FpdGx5bmczNF9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMjQwMywiaWF0IjoxNTI0ODUwNDAzLCJub25jZSI6IkR3clFLSXdqYlhOSTlaVndUVTNLeE1rQlI5b1BPY1JWOXN5OXlNeTRTdWc9In0%3D.jXso7w69qTyUJ_ykkprWu4yLX0VT7mJERH3UnvIzHWzorPsCrHw-3f8FDCGBbhm2PvolxJX-iKz641Zio9NU8g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:34:56+00:00	twilight-user	{%22authToken%22:%22qr5znayk1ss32pv3oihd5cesb4oedb%22%2C%22displayName%22:%22j_caitlyng34_r%22%2C%22id%22:%22217076794%22%2C%22login%22:%22j_caitlyng34_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:34:56+00:00	auth-token	qr5znayk1ss32pv3oihd5cesb4oedb
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:34:59+00:00	twilight_onboarding	true

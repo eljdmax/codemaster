@@ -1,0 +1,13 @@
+#n_haydenk2j_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	h%2BP7942eL6f9xKgak0cRwBDGbRLgHppjTCejL6aUiOE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	28e9539c221730cd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217273177%3A%3Aagh1x2ae75ocht9f8gq59ux7ommgu2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzMxNzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzM5MTQsImlhdCI6MTUyNDkzMDMxNH0=.BCPmDbIulsXX26bHGe1TgDlHF7atrbPtugpSAeMuF7KdJdXCwSdhwbNoyzKe4fDRDyz0R_HBQeslZ70Uo-d06A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzMxNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM1MTE0LCJpYXQiOjE1MjQ5MzAzMTR9.gfHosmc2LdHmjoT1TOGvm9Xmz4o7m8ND3vmpCsQfdBrID5z-LM0gqjY8TzMgzOqEMacUzhb-FDVyteLLJMcv7g==
+.twitch.tv	TRUE	/	FALSE	0	login	n_haydenk2j_9
+.twitch.tv	TRUE	/	FALSE	0	name	n_haydenk2j_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:45:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6ea8014c8b89663df2c0cc9f3783f957
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5faGF5ZGVuazJqXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDgyMzE0LCJpYXQiOjE1MjQ5MzAzMTQsIm5vbmNlIjoiQktmczhBNTRneHZiMUxwZHNBci1fZlJEdUJBUlIxVHFHV3g1YldobFJUYz0ifQ%3D%3D.G9_SbT21NRmJ2dBZheHJMdOOGBe2vaVMKx3CFrL3c3lsjpC_TsoXhX-y-taBkap0kGfGr-Hfn6O_yfNUkazrxA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cre16vkspp6qpdmhch54rioz35u7az%22%2C%22displayName%22:%22n_haydenk2j_9%22%2C%22id%22:%22217273177%22%2C%22login%22:%22n_haydenk2j_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cre16vkspp6qpdmhch54rioz35u7az

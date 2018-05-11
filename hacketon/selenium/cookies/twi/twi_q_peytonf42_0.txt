@@ -1,0 +1,12 @@
+#q_peytonf42_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	eglXVjHm9z2Zw4Av7UUGDxGr9q16ZPaQpNoSRFV45As%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:35:24+00:00	unique_id	8df0ec8674462e01
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:35:44+00:00	persistent	217568341%3A%3Asoxdrjomq0l5wda8yqkbrtkhouhypk
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:35:44+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjgzNDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4OTQ0LCJpYXQiOjE1MjUwMzQxNDR9.wzN6brA33RumypwfyCVVD72ig12LmCIIC027G5opDXx31zFausFngG0IY4bzfz8QeoDXeP7V79cXNmffD4saGg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:35:44+00:00	login	q_peytonf42_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:35:44+00:00	name	q_peytonf42_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:35:44+00:00	last_login	2018-04-29T20:35:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:35:44+00:00	api_token	719d873c90b98636beddad289a6e193d
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:35:44+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfcGV5dG9uZjQyXzAiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg2MTQ0LCJpYXQiOjE1MjUwMzQxNDQsIm5vbmNlIjoieHRieVdnelBraDBJc1VULW43U3ZObkluUWd5ajA2MXJyaFlwakJ5UTl2ST0ifQ%3D%3D.un2LoGiqOvRcLok4TKGcxeS9O9FR8ceo8ZV58PlE8Kv0GvGs4E_MmW1SDyD1KhmRrhJkx_Yrq5ItKI5ztdgn4Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:37:28+00:00	twilight-user	{%22authToken%22:%22iggk9l6qy01robc0p54y3umxoc8h03%22%2C%22displayName%22:%22q_peytonf42_0%22%2C%22id%22:%22217568341%22%2C%22login%22:%22q_peytonf42_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:37:28+00:00	auth-token	iggk9l6qy01robc0p54y3umxoc8h03

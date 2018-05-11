@@ -1,0 +1,13 @@
+#e_antonio09u_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	i5gd4yWPI7A7uqUc7XBpqgmrQ5iKFTDGl9EcQd0yugU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:53:41+00:00	unique_id	8084369d3bb5348c
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:53:41+00:00	_twitch_session_id	a7cfe1d3641bd2de9e81ec59aedb9f70
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:54:03+00:00	persistent	216477909%3A%3Aeyzoq14ndi39duqvh30fzfk5y27bbi
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:54:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzc5MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyMDQ0LCJpYXQiOjE1MjQ1NjcyNDR9.Hbqq2b9C3t8gMrwdHJB7qrjrHbEg0-oy2o6rRCdjEJcqRdIN4kHWAr0OFSrY-34cAgqG6SHIfIqAdbwSdiPLfA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:54:03+00:00	login	e_antonio09u_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:54:03+00:00	name	e_antonio09u_3
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:54:03+00:00	last_login	2018-04-24T10:54:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:54:03+00:00	api_token	4f2a29cb307f01bc413a85ce5824eb49
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:54:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYW50b25pbzA5dV8zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExOTI0NCwiaWF0IjoxNTI0NTY3MjQ0LCJub25jZSI6InlYZFRqaUZQWm5tcVJmVUdNb1hId2NnTWtfRW9TbDNiVWlRR0t5NlhNYlE9In0%3D.Lm1TIurzGFSeDVhQHfepI9sRmgv_VoqQuMaiJgLsGXpiWpabb7GyNXjurncNnVTN5st2rrwHGWioOj8yy4-f2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:55:25+00:00	twilight-user	{%22authToken%22:%22f9v2bkxtr9d3uuupf545uxq86dbgvu%22%2C%22displayName%22:%22e_antonio09u_3%22%2C%22id%22:%22216477909%22%2C%22login%22:%22e_antonio09u_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:55:25+00:00	auth-token	f9v2bkxtr9d3uuupf545uxq86dbgvu

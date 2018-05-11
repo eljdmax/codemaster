@@ -1,0 +1,14 @@
+#g_alexanderb9a_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	KT46JDtt7K%2FEkNRUTf4Ib0QiJu%2FOHdwZPCXoUfUL%2Ba4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	774fe7fbe18f9367
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ba4b7de6783aee91e9a83491b77caf91
+.twitch.tv	TRUE	/	FALSE	0	persistent	217452474%3A%3A7victj71723t24rwsvo1wklqva309u
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTI0NzQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDA5MjMsImlhdCI6MTUyNDk5NzMyM30=.HxKUDHKDE__EUaVOsNB00c2ed2uzA4CUvD9u66dSGcgYUwbQ5FsDdWkRBaqiGo9kPOsCcBiWQtFti3WHMzHYYQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTI0NzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyMTIzLCJpYXQiOjE1MjQ5OTczMjN9.2Jr9qmeOVFKJTbrM1qaoAwBf_GJb48bcTOLrk2a91v9B2yYK6GBKwsAvXkcI3ETW34gBmUMD5A-wbCxYj7pmfg==
+.twitch.tv	TRUE	/	FALSE	0	login	g_alexanderb9a_z
+.twitch.tv	TRUE	/	FALSE	0	name	g_alexanderb9a_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:22:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a04102514abef18f0ff737a5ac08796e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYWxleGFuZGVyYjlhX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ5MzIzLCJpYXQiOjE1MjQ5OTczMjMsIm5vbmNlIjoiWlFwdFdJRUNmekt2Y3hPcGlpcURMTHIwNTl4VjVpeElaZG1UR2xGaTVGVT0ifQ%3D%3D.MctPjBJFZjU5mdGErQnTkvAdtt4CwCHDD0-JSeT9ebkn0XQ9jMBbEBdCiHFoAhpguplbcoW4FSOWfP-eYxSfHg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22irfurt4lfq3xtl3rsxbvurzayyoser%22%2C%22displayName%22:%22g_alexanderb9a_z%22%2C%22id%22:%22217452474%22%2C%22login%22:%22g_alexanderb9a_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	irfurt4lfq3xtl3rsxbvurzayyoser

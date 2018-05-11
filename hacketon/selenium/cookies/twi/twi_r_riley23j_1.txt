@@ -1,0 +1,22 @@
+#r_riley23j_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	948730ce9266ed02
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=64dc17089c02d63e:T=1517496110:S=ALNI_MZi_hmTBE0CpZuEnYtMwLdb4zBL6w
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	language	en
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	mp_809576468572134f909dffa6bd0dcfcf_mixpanel	%7B%22distinct_id%22%3A%20%2216151d34bf9c5-02ef8db08563f28-3b6a4646-d2f00-16151d34bfd11d%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Frefereum.com%2F%3Frefid%3D367blgezsk%22%2C%22%24initial_referring_domain%22%3A%20%22refereum.com%22%7D
+.twitch.tv	TRUE	/	FALSE	0	mp_mixpanel__c	6
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyMDMzMTE5NnxlMzBLfATrNtXK0_51oN3THpdnycpqfUlSuxIC3MC6-4mFYewa
+.twitch.tv	TRUE	/	FALSE	0	_ga	GA1.2.427467830.1520331427
+.twitch.tv	TRUE	/	FALSE	0	_gid	GA1.2.1161610361.1520331427
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	V83%2BMn%2FutveBqZZDTJ%2Bb61abBrXk1YVncaAJOlsON5Y%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	217046382%3A%3A7s2vug1xsisujs9t1ks5tfm6ppatma
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNDYzODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ4NDMwMTIsImlhdCI6MTUyNDgzOTQxMn0=.QjMM1DdwqqQ8Ac6Bjsyfg5ABcGmj5llsk2O4P3DQUiDQk6ER-RHvWaB0GSwBH6bxERVZ89SyhaAF6diwSVPsfg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNDYzODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDQ0MjEyLCJpYXQiOjE1MjQ4Mzk0MTJ9.KgUwt9a_fq4jUnW36LXA09iiET92_V7_rgQNAAz4MtaXyqwCQt6j4FOQkMqKV0ZW8lpk0UFw9Up0_rPFc0vUPg==
+.twitch.tv	TRUE	/	FALSE	0	login	r_riley23j_1
+.twitch.tv	TRUE	/	FALSE	0	name	r_riley23j_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-27T14:30:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7673f23bc9796d177f76c3577ac88514
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfcmlsZXkyM2pfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzOTE0MTIsImlhdCI6MTUyNDgzOTQxMiwibm9uY2UiOiJ4blVBLVVUVzIzQlBkeGMtYXFjZkpVV1lGTVNmZTNZMmlFQjZjWld1OThzPSJ9.xCyJevdI4YupRD8pRE74siwIkOs5Q07ZvZdCs_tOsFfBjY6BcA0yy2dd27RsFCPJ667frZ491FGArETkmQwVow%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cb5phtt13idlzf4xkatfligr589ik1%22%2C%22displayName%22:%22r_riley23j_1%22%2C%22id%22:%22217046382%22%2C%22login%22:%22r_riley23j_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cb5phtt13idlzf4xkatfligr589ik1

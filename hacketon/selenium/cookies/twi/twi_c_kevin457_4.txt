@@ -1,0 +1,14 @@
+#c_kevin457_4
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XdgrnqTimLCgChhZy2iQgqynRGH2feoiOPpfP%2BVWHxU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:57:48+00:00	unique_id	3e341005693e42d1
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:57:48+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:58:10+00:00	persistent	215240613%3A%3Akar59dcl3i5b7nsuml70bsbp50334p
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:58:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDA2MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5MDkxLCJpYXQiOjE1MjQwNzQyOTF9.F63UllMHiAK0HD18aRUi6sRsOyQSD3UyYGon5qIuCWqiwFo_GYXUkLTvBB6VoyA0IzjzUsO-yh8OAVJNLabg7A==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:58:10+00:00	login	c_kevin457_4
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:58:10+00:00	name	c_kevin457_4
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:58:10+00:00	last_login	2018-04-18T17:58:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:58:10+00:00	api_token	301462e422e250f12da478ac24aea952
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:58:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfa2V2aW40NTdfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjYyOTEsImlhdCI6MTUyNDA3NDI5MSwibm9uY2UiOiJXWnBuTjBEb0R0a28xdTJRZ1UyS0s0cUVZMVNIR1pOQmNZODFKREFOeTJZPSJ9.-4AROBLYl6DLdbvQ_deH_e-9JIy8J8pHOsF2q4Po2fKNfEYW5b6vCH8SXv6DdftYirZkwGamlLpefad0wbeHTQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:59:03+00:00	twilight-user	{%22authToken%22:%22gv9kb180povj21hhxf8lqkcdqh9xpa%22%2C%22displayName%22:%22c_kevin457_4%22%2C%22id%22:%22215240613%22%2C%22login%22:%22c_kevin457_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:59:03+00:00	auth-token	gv9kb180povj21hhxf8lqkcdqh9xpa
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:59:06+00:00	twilight_onboarding	true

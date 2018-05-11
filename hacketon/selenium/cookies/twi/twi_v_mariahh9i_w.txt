@@ -1,0 +1,13 @@
+#v_mariahh9i_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	JJnBa60HX%2FQ2LxAKhQz7Y8MYvatyUoCxvcAYGUdOVpQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:10:30+00:00	unique_id	109db7ef7dac2e9a
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:10:30+00:00	_twitch_session_id	7763ab82c801a392111c863165dbdfc7
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:10:46+00:00	persistent	216143693%3A%3A6rksxbqodxl25hm97xlg9mgot37d0u
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:10:46+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDM2OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5ODQ3LCJpYXQiOjE1MjQ0MzUwNDd9.XYI8iGs-YDVfmrBTtDkhpzjSMDPZPyo7cWXUXvbsWzPfxElJyP2lyM1J212gTnYBQunZi9ZCYGCauPomMH7qyw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:10:46+00:00	login	v_mariahh9i_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:10:46+00:00	name	v_mariahh9i_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:10:46+00:00	last_login	2018-04-22T22:10:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:10:46+00:00	api_token	fb840d671f0ea3a73dc78705b3a2bb7c
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:10:46+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFyaWFoaDlpX3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg3MDQ3LCJpYXQiOjE1MjQ0MzUwNDcsIm5vbmNlIjoiSE5lN2h5Vno5c0w4XzlGYWJhekpCd1o4bFBxV3hrRGU3Wlk2ajB1d0ljVT0ifQ%3D%3D.Y1iPEsPmLZJrU-SlebbXbt9NyOWelupuAxOgVMhyGqud1_UV7XB6_LeNFb12LGQ1yL3AeEVwXHv2rQ2F9l7eEQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:11:59+00:00	twilight-user	{%22authToken%22:%229h763v882ebz1fok373ed8h5u5qot7%22%2C%22displayName%22:%22v_mariahh9i_w%22%2C%22id%22:%22216143693%22%2C%22login%22:%22v_mariahh9i_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:11:59+00:00	auth-token	9h763v882ebz1fok373ed8h5u5qot7

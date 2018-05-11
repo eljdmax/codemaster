@@ -1,0 +1,13 @@
+#c_genesisv3i_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AjnAI5Mo0NV7og01zA%2BWjZoSNi32%2BBa6Aifcjlh%2F7qg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:45:45+00:00	unique_id	eed81c495900b663
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:45:45+00:00	_twitch_session_id	9d3b3cc7d0680879eb20e082e1227f30
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:46:08+00:00	persistent	216477225%3A%3Atgsc8qgp0ekfocnfj0o78eviyc6o9f
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:46:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzcyMjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNTY5LCJpYXQiOjE1MjQ1NjY3Njl9.OmfPaI8fwibsRfn9GZi0RYw_fM4W3wb5q46pyZMcN5T2BGN1G4ELxKxXvqFBar22ZUNCaBM_n8JpQ6awdbVdVQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:46:08+00:00	login	c_genesisv3i_g
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:46:08+00:00	name	c_genesisv3i_g
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:46:08+00:00	last_login	2018-04-24T10:46:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:46:08+00:00	api_token	f8985169e5be523c67b2fc6779c76142
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:46:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfZ2VuZXNpc3YzaV9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODc2OSwiaWF0IjoxNTI0NTY2NzY5LCJub25jZSI6ImxVYVF2Y2ZoMUxnMmpSWFBvcVhqZWw0dWNyTWhTck1PSHNfZmV6RF9FSkE9In0%3D.9Y2qrsGm3bFfLnnL2cpLeGF5IAEcHSMtlKwbIwEIMb-nGyaeCb_NphqPXz0LVox18uNK7GNg5jsrVwatbniOvg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:47:29+00:00	twilight-user	{%22authToken%22:%22pjcyovqkqtl1ivftjxgwe6vaifm2ea%22%2C%22displayName%22:%22c_genesisv3i_g%22%2C%22id%22:%22216477225%22%2C%22login%22:%22c_genesisv3i_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:47:29+00:00	auth-token	pjcyovqkqtl1ivftjxgwe6vaifm2ea

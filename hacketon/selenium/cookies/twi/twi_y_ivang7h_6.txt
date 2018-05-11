@@ -1,0 +1,13 @@
+#y_ivang7h_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bF6hWzeAEvrD1INxBH2pMg2%2FBG6ldxpLMaICNO%2BtDUo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:41:48+00:00	unique_id	8e01d0fee377d2d1
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:41:48+00:00	_twitch_session_id	f28099b23223e39b798d96441d7d4ec2
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:42:12+00:00	persistent	216488070%3A%3Add58vvej35zke945xpo4zlm11yd2fs
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:42:12+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODgwNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NTMzLCJpYXQiOjE1MjQ1NzM3MzN9.uAIXxbddXf3rXuI8s8Y0pDL4aDcN0hfFNp5KXdB9eDMilCqsZ0nxfBuOwnUvELdDXjoekAcyV_1-9Sed71A-Bw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:42:12+00:00	login	y_ivang7h_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:42:12+00:00	name	y_ivang7h_6
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:42:12+00:00	last_login	2018-04-24T12:42:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:42:12+00:00	api_token	ff5f3ae9f88d29396c0953444e1cc275
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:42:12+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfaXZhbmc3aF82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTczMywiaWF0IjoxNTI0NTczNzMzLCJub25jZSI6IkNmRmlWTEpkWU1NT1J4cWVLdE1tdUxkTkRkZlh4OW0tR000UklKYjZLT0k9In0%3D.B98t4BG1PIGpuJ4SC1kbQt-_F5otCFjW_BDfL5vjEiQv1AdPfAp2g7_LN7-yXK1BhSvt_h07Mt8qqtsOkW4Y-A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:43:32+00:00	twilight-user	{%22authToken%22:%22w7hlqpzn14q6cvkeaq8c5o2tcwvqrp%22%2C%22displayName%22:%22y_ivang7h_6%22%2C%22id%22:%22216488070%22%2C%22login%22:%22y_ivang7h_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:43:32+00:00	auth-token	w7hlqpzn14q6cvkeaq8c5o2tcwvqrp

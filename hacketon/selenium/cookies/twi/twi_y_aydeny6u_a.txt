@@ -1,0 +1,17 @@
+#y_aydeny6u_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1fd4995c0f6c76c7
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	Ri6VsIIYi0irSqZc5Pl4hoI3Bq750vw7
+.twitch.tv	TRUE	/	FALSE	0	passport_requested	imv6bPJ1nX7INWngNZ4WlVdRpQpAMF
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTY4NjI4MHxlMzBLfHkHzxJyUfGkHmctE_G3ecb_qVYISa70tU1MywmQYNux
+.twitch.tv	TRUE	/	FALSE	0	persistent	217254899%3A%3As0tb20000kgn48nqd4sokuhyfnvirc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTQ4OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2ODk4ODksImlhdCI6MTUyNTY4NjI4OX0=.7TIrhPcaKD4zFQNFFoL_1_2882J2TYk4kNaC0wWcpvspyzADy643Ie2Pxg_mzUvplp1hMIgGnvzRQ5mpenJJXg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTQ4OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkxMDg5LCJpYXQiOjE1MjU2ODYyODl9.oWAqiasq4VTNTGnZRp0xAhj71j2TbNTDZ9qNR7e_tuwWz7K6cGa4HrI80POdOZYXhcD6DYjmoHavRqbJutYxcA==
+.twitch.tv	TRUE	/	FALSE	0	login	y_aydeny6u_a
+.twitch.tv	TRUE	/	FALSE	0	name	y_aydeny6u_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T09:44:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a424a798465c8814602b55fb39504d9e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfYXlkZW55NnVfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzgyODksImlhdCI6MTUyNTY4NjI4OSwibm9uY2UiOiJMVkVyX0RMaHRuUXFEZG9MMWtibDFBcUZIQkJ1UnU2Qzk5OHlVdERtTDRFPSJ9.3pvkPcx9puE64MaSXKzMXBuXHsFe4GeqbP8v-emJpB7ghjnEVoZjV6yCHIygZ0eMZ3wqgpnHsUQFa4vtJfaBWA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s7pmf0ll6g744myinjzfpj0vm8d8x8%22%2C%22displayName%22:%22y_aydeny6u_a%22%2C%22id%22:%22217254899%22%2C%22login%22:%22y_aydeny6u_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s7pmf0ll6g744myinjzfpj0vm8d8x8
+.twitch.tv	TRUE	/	FALSE	0	language	en
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImNqTy8iLCJ0c2wiOjE1MjU2ODYzMTgsIm52IjowLCJ1cHQiOjE1MjU2ODYyOTAsImx0IjoxNTI1Njg2Mjk5fV0.

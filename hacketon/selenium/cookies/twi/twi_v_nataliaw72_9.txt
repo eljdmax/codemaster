@@ -1,0 +1,13 @@
+#v_nataliaw72_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LaMvK11pB021fVLRXhmwgC1HmhT1wd2WasRIZUbiBEU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:38:44+00:00	unique_id	024fd86d5d00bfcf
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:38:44+00:00	_twitch_session_id	4aedf2b93f0592e4913c56ec3e7bf7eb
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:39:06+00:00	persistent	217077827%3A%3Aswxl84d4shia9hdd4v0h91g33ygqxf
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:39:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzc4MjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NTQ2LCJpYXQiOjE1MjQ4NTA3NDZ9.JwWE1awaN-LHFhLoGcnctGQbB3JULSz6SpqbNE3MdvzecqJq1U6erYUJHsiE71rNKqoHzWjGOhTFSXivjiuUIw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:39:06+00:00	login	v_nataliaw72_9
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:39:06+00:00	name	v_nataliaw72_9
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:39:06+00:00	last_login	2018-04-27T17:39:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:39:06+00:00	api_token	befe6d069a964d7689a6af2f0cbc4e89
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:39:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbmF0YWxpYXc3Ml85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQwMjc0NiwiaWF0IjoxNTI0ODUwNzQ2LCJub25jZSI6IkdPdGNFcUNQakRFSnZlV1ZfUWtsSVBkYTBrbGhPaDNMdnJ1X2UtaldQN3M9In0%3D.p7ZD9-ma2n4lOfHZFxD0GvyUaLl4swB9R12xLcL96JlWuFooLSJ7B2VbruUWaJAg5wGUzhslEnnJWMTRRi_gpg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:40:39+00:00	twilight-user	{%22authToken%22:%22dl6i7dbkelsx21zcpe273teiji8l8b%22%2C%22displayName%22:%22v_nataliaw72_9%22%2C%22id%22:%22217077827%22%2C%22login%22:%22v_nataliaw72_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:40:39+00:00	auth-token	dl6i7dbkelsx21zcpe273teiji8l8b

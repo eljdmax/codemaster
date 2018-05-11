@@ -1,0 +1,14 @@
+#b_bradleyq6g_q
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	U5GViwcVe%2BYfw5kg8z0VLnmcs%2FsejWPu3%2FFj%2BFJynXk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c973b98a28a99f38
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a592c2bc54f1a6cda7be252b4b3730fe
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032319%3A%3Acvwsiwt63przvyj45jwvmjv4u0y67t
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzIzMTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTIxNjcsImlhdCI6MTUyNTY4ODU2N30=.nLBMHcRI7h8JmmYrC2vc5ovoOdDoOpWsp7ZoBd1BEXMKxf4TzwnUBm4NaRsm0c3YqmF9ur3dr8KocABdCMxEuQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzIzMTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzMzY3LCJpYXQiOjE1MjU2ODg1Njd9.4ntX75utllBiFGtByzJ-MiwGSOxFaJKmh3swGjZtdwNZiMk9IIVvia4A2aRHv7NHbymZERx5_eOyAwg32eXTag==
+.twitch.tv	TRUE	/	FALSE	0	login	b_bradleyq6g_q
+.twitch.tv	TRUE	/	FALSE	0	name	b_bradleyq6g_q
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:22:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f3ccb76d5f754a7061c543849a5d2d38
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfYnJhZGxleXE2Z19xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MDU2NywiaWF0IjoxNTI1Njg4NTY3LCJub25jZSI6ImtDOFpEc3FKZ0FFc3F1X1dJblRUcE95ZVVfR2RhZmFuSXlMT1FiWHVFT0k9In0%3D.DK-Rxdo-mX0E5MALOJQ9ReMtkA3YPb7VMibnzhdAj0LavyTZeXC2OJZcNm41BTQJXdaE49o-cJ6aRO8X4W1nOA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hbi6rh7ozybxed632rgwo135p6fftx%22%2C%22displayName%22:%22b_bradleyq6g_q%22%2C%22id%22:%22219032319%22%2C%22login%22:%22b_bradleyq6g_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hbi6rh7ozybxed632rgwo135p6fftx

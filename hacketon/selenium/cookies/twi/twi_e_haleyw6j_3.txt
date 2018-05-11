@@ -1,0 +1,13 @@
+#e_haleyw6j_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zcwM%2F6Ns1YDYCbLliiQ8crp%2FvkrUogPCJ1Mi%2BZyOjoQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:47:24+00:00	unique_id	9ad1e38d882af750
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:47:24+00:00	_twitch_session_id	ac743de8f1ef3c445df8d5ec4128d294
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:47:55+00:00	persistent	216947853%3A%3Avyokala036gn38jn2gj0pdpfm1jfm9
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:47:55+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDc4NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzg0MDc1LCJpYXQiOjE1MjQ3NzkyNzV9.u6gii9u7lcTKrioaX7sfu9er2RLxwRYNtGLF-mYrR9iJ2l-Tn3EXF1A66dLr1xeez_YtChi3fXwGmHrH023k-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:47:55+00:00	login	e_haleyw6j_3
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:47:55+00:00	name	e_haleyw6j_3
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:47:55+00:00	last_login	2018-04-26T21:47:55Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:47:55+00:00	api_token	6b9da3d1fb70a302d2cd51c236ab6ee4
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:47:55+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfaGFsZXl3NmpfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMzEyNzUsImlhdCI6MTUyNDc3OTI3NSwibm9uY2UiOiJkcGE5N2I2V3VSRnBCdzM2Vng3aUpyWDJKcEY3TXdkSDV4SWI0Z3JYbHB3PSJ9.If536D3DG8qz978D4SyXmkPDwH1eZSwaIaO_bdulsx95laIo6cJh3VQyi8BNfg-U1EpnREIAEqk02AB7f1P-9Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:49:26+00:00	twilight-user	{%22authToken%22:%2221m1glwtrm0bknhto96jr4j3b9vptg%22%2C%22displayName%22:%22e_haleyw6j_3%22%2C%22id%22:%22216947853%22%2C%22login%22:%22e_haleyw6j_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:49:26+00:00	auth-token	21m1glwtrm0bknhto96jr4j3b9vptg

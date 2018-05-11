@@ -1,0 +1,13 @@
+#m_damianu6s_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	leZubD%2BHOzOUBdk3xJfxWEwUx%2Fc8gGfRJG7k%2FM0Z%2Bck%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:58:02+00:00	unique_id	585c253f2f78b046
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:58:02+00:00	_twitch_session_id	59ecf0f89e3c68e16f7c08857afb2871
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:58:21+00:00	persistent	216478271%3A%3A7cqvvbv21dc7bjx3irjnivhr0kpht9
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:58:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzgyNzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyMzAyLCJpYXQiOjE1MjQ1Njc1MDJ9.4bLRwCvWt-X7T61-KHcDB5SoikxvRvSH6DOJWaSGSfrS2gxfX5YcnnLDzDRSMK30JAzU0GOovi5ESwu-TqkyGg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:21+00:00	login	m_damianu6s_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:21+00:00	name	m_damianu6s_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:58:21+00:00	last_login	2018-04-24T10:58:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:58:21+00:00	api_token	ba581a61fb07e9c89f97abda2faf6e54
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:58:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGFtaWFudTZzXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE5NTAyLCJpYXQiOjE1MjQ1Njc1MDIsIm5vbmNlIjoiSWtkRU5rWjUyYzVnc0hsLXBZaHRJNUNuRnhSZEhQaVEyRWJTcE1BTE41Yz0ifQ%3D%3D.DgLPEZ8SrMuWLqKQyitDlqvm2C_1TRBFaQgf5hnvyYAIggWWvL4I8y9tiIIfcGM6jaDjcrQaHOyPumQlChVH4w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:59:44+00:00	twilight-user	{%22authToken%22:%22jgws8seg2qofaqr5vwyjkpo0o6okzv%22%2C%22displayName%22:%22m_damianu6s_1%22%2C%22id%22:%22216478271%22%2C%22login%22:%22m_damianu6s_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:59:44+00:00	auth-token	jgws8seg2qofaqr5vwyjkpo0o6okzv

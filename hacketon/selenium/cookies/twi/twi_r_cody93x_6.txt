@@ -1,0 +1,12 @@
+#r_cody93x_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	o8T4wp3sh5ewKZ4VYBachtYrcC1wuWW9MwKTgBab1Uw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:34:25+00:00	unique_id	7b10b1b760451de0
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:34:50+00:00	persistent	216935762%3A%3Aty636szeu8v6hgtgu7np7p274m4cc5
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:34:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzU3NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5NjkxLCJpYXQiOjE1MjQ3NzQ4OTF9.jQaph2wyZuJRH-wuRUUyRgl-mytSJ_6ZHmKFXsOlGcHQ-PumCrqFikMQeOy1_VTlX6R84dG9xmLgQil6VufjTA==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:34:50+00:00	login	r_cody93x_6
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:34:50+00:00	name	r_cody93x_6
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:34:50+00:00	last_login	2018-04-26T20:34:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:34:50+00:00	api_token	510d4b580ef5fd5ca474e66b4f933d38
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:34:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY29keTkzeF82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNjg5MSwiaWF0IjoxNTI0Nzc0ODkxLCJub25jZSI6InpSN3hnQmMycV9FeGVaR3BOYkY3N0VQM043QkxxS2JaN1JfZVNmdnlMNFE9In0%3D.6mdt-MJbRABEdDEhGlRhRpPl0iwYIe6tSo0nqYfIgeuVScsNLlPWTDLKUZ0WqFv6JCE-yMDFS3g9IBvVD8Hv_Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:36:21+00:00	twilight-user	{%22authToken%22:%22hdzgxf3f6nwc2ys5espqeo31mbbbve%22%2C%22displayName%22:%22r_cody93x_6%22%2C%22id%22:%22216935762%22%2C%22login%22:%22r_cody93x_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:36:21+00:00	auth-token	hdzgxf3f6nwc2ys5espqeo31mbbbve

@@ -1,0 +1,13 @@
+#y_paul14a_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BXZEaMbr2qUWVWdyfhY9TYO8KcCciETsrDd%2BNxq3%2B6M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c044c7a19523774e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217236805%3A%3Aws1ogud47bwvt1knh976vxssgvzcxi
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzY4MDUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjI2OTIsImlhdCI6MTUyNDkxOTA5Mn0=.xmzI-iBAaOi-YIKZZSYgBAicE3Qa6YAQN1kFOOiWb2m7jrfG1b2KYVEWRXjrXido2TJxUKqhXW6BmfbxaaQdnA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMzY4MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTIzODkyLCJpYXQiOjE1MjQ5MTkwOTJ9.lraIRczymkFrMZpbi9p9gvxaukImPitwCipa3fyOQrPfqTGNEqDX3Qv9kYiEBujYVEFXuEv14LjTo4stMlg77Q==
+.twitch.tv	TRUE	/	FALSE	0	login	y_paul14a_0
+.twitch.tv	TRUE	/	FALSE	0	name	y_paul14a_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T12:38:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	457848bd4b8285c07c946e86e430b35c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfcGF1bDE0YV8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MTA5MiwiaWF0IjoxNTI0OTE5MDkyLCJub25jZSI6IjNwS3k3Z3piS0ZzOU12REI2N2ZScmRmQk51TEFoU2FMUTFvdS1rWDFKYTA9In0%3D.8aQ576fc1avTFkbtRxGPdAi4fmYTrvPjlynCs3OlKqks9AUTdjJON7nuUWq_0RG_z8neWCccG3QZUcRWWWzYGw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fafqbwwjj00vsbfc9dmf8nuqs8anzi%22%2C%22displayName%22:%22y_paul14a_0%22%2C%22id%22:%22217236805%22%2C%22login%22:%22y_paul14a_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fafqbwwjj00vsbfc9dmf8nuqs8anzi

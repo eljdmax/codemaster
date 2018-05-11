@@ -1,0 +1,14 @@
+#u_liamq8e_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QbVASVndX1T%2F0jfg8VSKy1B95syQLEcusPGwIITZ2Js%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c68d7fc943e7d06f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	368798119bcc5aab240c402572714d9f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218941220%3A%3Au830pie7ua2w0422p8lekgdhnd3a8w
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDEyMjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM2MTEsImlhdCI6MTUyNTY0MDAxMX0=.zEuQ-jZZ_0ZPC_Li4wePx_7D6qJBxjbfAhzeotuY_aB6DM2q3kmXBIKkzDLdWLp5U1hHxHQHEPYBSNrVEuBAMw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDEyMjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0ODExLCJpYXQiOjE1MjU2NDAwMTF9.gB7PeCy0jQp4gsUe0AwHJC-XLsRJghv6Ln_lOLFSIpvfp-a9vbODPttsQYIQFlU89eTbvEg_ffEIJz0FbfeYKA==
+.twitch.tv	TRUE	/	FALSE	0	login	u_liamq8e_w
+.twitch.tv	TRUE	/	FALSE	0	name	u_liamq8e_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:53:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	aeac75017a5d5011c35444dc92c3f07a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbGlhbXE4ZV93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjAxMSwiaWF0IjoxNTI1NjQwMDExLCJub25jZSI6IklpMUlTSUdUSVM5c000a2dibnFSZnpJUzFvcjRlMnRNNk1UaFJOekhmUzQ9In0%3D.O8jTJEG9dMj_NAcxLIObWLTUOTgNw-Wxbf2WAsQh9fix0QuMbqRfBvFtpsV5LcGfsKEw5nm2_S4SGuQT2EF1yA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22rgaqq2r4rndum9ykz3rwajyh0gy3nn%22%2C%22displayName%22:%22u_liamq8e_w%22%2C%22id%22:%22218941220%22%2C%22login%22:%22u_liamq8e_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	rgaqq2r4rndum9ykz3rwajyh0gy3nn

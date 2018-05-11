@@ -1,0 +1,14 @@
+#d_colby62f_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	R8Y74FgwL398%2FksLDAR5syOjdJW7IBtEER07rm1YHCE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	51befd8c1a4d1cc5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c6b7b97753bfe94b00d1f8c653f7a929
+.twitch.tv	TRUE	/	FALSE	0	persistent	218848242%3A%3Acdufteg54z4wuan4h7gl74988trk9b
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDgyNDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTU1MDksImlhdCI6MTUyNTYxMTkwOX0=.DSb81RIS45IbzYJXGvB5PG6TLB3BeWGkp9pW8KnqlhmPDkuIBZjWzt9l0QlcUiMsdwV-M017Z4a4vvYNzCoO0w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDgyNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2NzA5LCJpYXQiOjE1MjU2MTE5MDl9.UZUh9lFeJ7TeQUCiweJXZVP6mIKZH5VQneZq3TqYF-rBDu6IaKFFkfd4u-EPpxNSbAUDRGVlhSup2Sop3V7xIg==
+.twitch.tv	TRUE	/	FALSE	0	login	d_colby62f_g
+.twitch.tv	TRUE	/	FALSE	0	name	d_colby62f_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:05:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f417acc8809840c0f2cb6c035307f02d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfY29sYnk2MmZfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjM5MDksImlhdCI6MTUyNTYxMTkwOSwibm9uY2UiOiJXOFJkQlFhemkzY2J0LWdKeWVMSnpBUmxuN3psbkdkN1B3YWtZd3BldGxvPSJ9.lMPneGpNDfKniO44Us6Gr2XllbOsVB43vgpqQOJisdx_oSmKeiZ3_yt82c9CGznNwF2K8vOXmD-of1V8093_Dw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22cugcb966syrly2dgk1r4p6hk1o8osb%22%2C%22displayName%22:%22d_colby62f_g%22%2C%22id%22:%22218848242%22%2C%22login%22:%22d_colby62f_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	cugcb966syrly2dgk1r4p6hk1o8osb

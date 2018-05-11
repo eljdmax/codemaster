@@ -1,0 +1,12 @@
+#u_christopher071_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	QGR2Hzn5UdjyVJUoNUJ7%2FtsAcrMLm8Wdcm1cum6fbMw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:49:18+00:00	unique_id	a75004a462c2345d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:49:47+00:00	persistent	216477540%3A%3Abywpmljzbs4s7jeb8r21fwef7gzjzy
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:49:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzc1NDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNzg4LCJpYXQiOjE1MjQ1NjY5ODh9.K8HY47WFWN-bogNEm5KHik5brK2_YhK1EktmokQQ5to9oahiZ4BomC2k3Prth7fExeWT03BbzDZepk4dgPrvDA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:47+00:00	login	u_christopher071_e
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:47+00:00	name	u_christopher071_e
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:47+00:00	last_login	2018-04-24T10:49:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:49:47+00:00	api_token	9f8f6570967d030b4b111f2fcb0dbdfd
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:49:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfY2hyaXN0b3BoZXIwNzFfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTg5ODgsImlhdCI6MTUyNDU2Njk4OCwibm9uY2UiOiJzcHZLN1ZVbE9TY3RMOTBqcWtGWFZTZUpod0NCZ1pwTExHNzZDT1dXNllJPSJ9.CGiW5hZfQPeKn2z1vc7lloTv3ZXbn-9Cl81vMHl5zPWC9b99OQ3AK6gC0YHhr5VDNXJ7ek6_lVVRv3cuzVDuIQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:51:06+00:00	twilight-user	{%22authToken%22:%220ds9h8i4irwefmgdb1wtes5patshul%22%2C%22displayName%22:%22u_christopher071_e%22%2C%22id%22:%22216477540%22%2C%22login%22:%22u_christopher071_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:51:06+00:00	auth-token	0ds9h8i4irwefmgdb1wtes5patshul

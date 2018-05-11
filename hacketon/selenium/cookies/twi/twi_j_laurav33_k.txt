@@ -1,0 +1,14 @@
+#j_laurav33_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6t6VKkKlBLrsDBK1lgJQxxXEP21rUVguwG%2BTekmfVDE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d97782d4ebde7a6d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3f2752275024f8bdd253b7f3f245066e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217566189%3A%3Aeo2y87c2tvjx5w52zlcwhlwxs3adiv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjYxODkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzcxOTMsImlhdCI6MTUyNTAzMzU5M30=.GEo80hIy1vD3PQCW97nw5eAvU01XP7PB4k7IHT6BIHaWhnq6YGZ_bDdEeky3HvpE3uDU-jwE_1XvXtPHDUDyhQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjYxODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4MzkzLCJpYXQiOjE1MjUwMzM1OTN9.8BzbmYn1hZRi8LIrlUSv7-ZztKu5TqFcWe8XyeH0aFiTRlmpxLr04-k5yDBBdgtQWXe1io59XpdXC5Ed7liFnw==
+.twitch.tv	TRUE	/	FALSE	0	login	j_laurav33_k
+.twitch.tv	TRUE	/	FALSE	0	name	j_laurav33_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:26:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	02b1c49a81f95cc24883ede733f47117
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfbGF1cmF2MzNfayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODU1OTMsImlhdCI6MTUyNTAzMzU5Mywibm9uY2UiOiJwZVVkT3VyZzQtQ0VZa0owTXpMdWVsZDU2SWJnNjdvbDBubFY0VEY2RktvPSJ9.phC-74Ub0yRNSCEIp1WFxOAnd7MslimOHiViyVyGe1fmQ8tVEsu-emQPRv5y9t3cMwxY0ajx1sWiYmV3TA5dkg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227umb98b905kw440uqoyn3z4zjrmv5o%22%2C%22displayName%22:%22j_laurav33_k%22%2C%22id%22:%22217566189%22%2C%22login%22:%22j_laurav33_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7umb98b905kw440uqoyn3z4zjrmv5o

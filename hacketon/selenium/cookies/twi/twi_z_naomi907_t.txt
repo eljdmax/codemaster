@@ -1,0 +1,13 @@
+#z_naomi907_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vP%2F%2FSDaaOguW5t68c8zwfmRkQ0DohNWZMRibOkF1XJE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:32:58+00:00	unique_id	b5836799c77117d9
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:32:58+00:00	_twitch_session_id	12f1459baf0eb4ca910fddf4b87644f8
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:33:17+00:00	persistent	216136772%3A%3A6xdv0v1d7nshqwk8d9rvtehuwraih6
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:33:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzY3NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3NTk3LCJpYXQiOjE1MjQ0MzI3OTd9.gvX_I5b9QATijEzXXkmEm_XU5Sc-XB-V166rjqCy8Dvj9DQ80XMcgI-md8PEcfzmzsogi4KH33XXc7IKQ7_qMg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:33:17+00:00	login	z_naomi907_t
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:33:17+00:00	name	z_naomi907_t
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:33:17+00:00	last_login	2018-04-22T21:33:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:33:17+00:00	api_token	cc34a8864698c24ae5e68603ed064a2b
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:33:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbmFvbWk5MDdfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODQ3OTcsImlhdCI6MTUyNDQzMjc5Nywibm9uY2UiOiI2aTZmUlhvQlZ3YURTSmRuLUVqSF9Fc1UxZTJjUTMzU1NrNGN2cUtZTTc0PSJ9.zS9U6mpSzhdDZV1Y553yTChn8t6wjVMXoTIZaP9yd9zqbpChRR-AvndtobtMkRHSmQorpdvbKVPZUwj-e0OTQA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:34:29+00:00	twilight-user	{%22authToken%22:%223eh7irs3b846csnsrmgisk29pmqk4m%22%2C%22displayName%22:%22z_naomi907_t%22%2C%22id%22:%22216136772%22%2C%22login%22:%22z_naomi907_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:34:29+00:00	auth-token	3eh7irs3b846csnsrmgisk29pmqk4m

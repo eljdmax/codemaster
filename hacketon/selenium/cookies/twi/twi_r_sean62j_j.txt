@@ -1,0 +1,12 @@
+#r_sean62j_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	eOifQ%2Bn%2BqlG21YX643ajYQ4A7UViQUAHoZrtbql7hck%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:02:50+00:00	unique_id	e7aa95fef8244363
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:03:10+00:00	persistent	216478706%3A%3Axxuy0rzi34xis8tfslsxon3343t8lf
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:03:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzg3MDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyNTkxLCJpYXQiOjE1MjQ1Njc3OTF9.w5KajufXaGEnQU6Gtud_lxQ1NCVwCsgMoHK07NSJvs7ScIitqEMWJkNjFOm712ACO-NyZ_jvJOuy8JyhQVTGqQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:10+00:00	login	r_sean62j_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:10+00:00	name	r_sean62j_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:10+00:00	last_login	2018-04-24T11:03:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:03:10+00:00	api_token	d677a5313b791546e01d4726a9bcae55
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:03:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfc2VhbjYyal9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExOTc5MSwiaWF0IjoxNTI0NTY3NzkxLCJub25jZSI6IjhFX3hQamIzY2E3aUQ4WTc0eldGaVNXMGpIZVB4LURaSk9UT3Qzd09Tamc9In0%3D.tWNqO9u273dzuGuCuWc2cMcCcaxkn93Rpbcq-k7i0WYIMdJa3sUBIJYkmJxhmO1pXdNiaFtynhjr4Oe1Fu_Y7g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:04:30+00:00	twilight-user	{%22authToken%22:%22tlax0gj8b5vp5455l198vvmsf7eydn%22%2C%22displayName%22:%22r_sean62j_j%22%2C%22id%22:%22216478706%22%2C%22login%22:%22r_sean62j_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:04:30+00:00	auth-token	tlax0gj8b5vp5455l198vvmsf7eydn

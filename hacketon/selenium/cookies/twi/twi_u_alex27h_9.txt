@@ -1,0 +1,14 @@
+#u_alex27h_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	hH3%2FNdcLgbxVb1oO4kYH9Kb2kD%2F1jYFWvoYt76wiSN0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f3381d921ca46196
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3cceb3957f7ec9944773d515db06cb38
+.twitch.tv	TRUE	/	FALSE	0	persistent	217447067%3A%3Ai0bsacbgv9to3pmg4mnigbu38nuetd
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDcwNjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTg0MTQsImlhdCI6MTUyNDk5NDgxNH0=.CRiYzG6Kb8T_pY3VNi5C1D8usQYqAzEpXeAwFSQ1aCIcSkBCXfKUvBqVbEY3pNjFai0mMkjuqePBnENOIMT1tg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDcwNjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk5NjE0LCJpYXQiOjE1MjQ5OTQ4MTR9.YEk1HimTU1zxl3a0G7l09rhaz6pMeFXTWMBctSjMyJfJjmdI7YYuirY0tgPle4EdMgjd_AGAOScjKQwrjo2m1Q==
+.twitch.tv	TRUE	/	FALSE	0	login	u_alex27h_9
+.twitch.tv	TRUE	/	FALSE	0	name	u_alex27h_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:40:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d6c6e2e55a9c9bbee760a9d450017b27
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfYWxleDI3aF85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU0NjgxNCwiaWF0IjoxNTI0OTk0ODE0LCJub25jZSI6Ik5nN3BLdWp2T2M2bXFrVGpEdjJCd3pxS3BEQ0g0TEx2VkdXcmQwd3J5cGM9In0%3D.1TmSEzbuQmhs7I8gCeiFK3wsnMdqY09Ue9XhbepkV3tniqlnhEopKaM5cV5xs6lB3gPy4yuAvPHWIGWpkfHK1A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dt3589jgacwvx56y4cnwor0lwnj7xa%22%2C%22displayName%22:%22u_alex27h_9%22%2C%22id%22:%22217447067%22%2C%22login%22:%22u_alex27h_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dt3589jgacwvx56y4cnwor0lwnj7xa

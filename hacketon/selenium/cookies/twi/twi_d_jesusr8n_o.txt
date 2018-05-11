@@ -1,0 +1,13 @@
+#d_jesusr8n_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WRpDMR3Ft7C8czl282fAbgCecDwEM%2BRJmD%2Bdu9KyTkA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:20:24+00:00	unique_id	80ee0d42021e4d2f
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:20:24+00:00	_twitch_session_id	ef376b2bf63b67bff0d24a5d3c1ade3a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:20:47+00:00	persistent	216485694%3A%3A0og0om5m0k3v3cm55ly2382apqm68y
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:20:47+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODU2OTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3MjQ3LCJpYXQiOjE1MjQ1NzI0NDd9.gxglRQ0W4bxYlxc4Nd1BOrVEW9b_endNu6KT-Ha5FKo_vq_C_66-R6IlupxzJEU6Mq2oZv4Z_pAVioydGPMcBw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:20:47+00:00	login	d_jesusr8n_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:20:47+00:00	name	d_jesusr8n_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:20:47+00:00	last_login	2018-04-24T12:20:47Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:20:47+00:00	api_token	ad798d96959a2ef7f7c0513df234ad69
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:20:47+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfamVzdXNyOG5fbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjQ0NDcsImlhdCI6MTUyNDU3MjQ0Nywibm9uY2UiOiJUeThsX0VnUFNkekYtNHVyM191eGFHemxqMm1hZ1VDc0dXQjdIU3lUUktjPSJ9.TaJ1jtTtsm2tURBdkiB-6zugMUWESbfjJXoR7aJ6mFwkksfxxQuau2q39HjrcxcWoO0A1YSzxbdXu8uoBqcwIA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:22:07+00:00	twilight-user	{%22authToken%22:%22qybfzcbv5grky9b3g913ezg07sa1id%22%2C%22displayName%22:%22d_jesusr8n_o%22%2C%22id%22:%22216485694%22%2C%22login%22:%22d_jesusr8n_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:22:07+00:00	auth-token	qybfzcbv5grky9b3g913ezg07sa1id

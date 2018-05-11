@@ -1,0 +1,14 @@
+#p_edwardy46_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nCcu8%2Ff%2Fk3sSHbFsHZgqhFuoixmxSoJ0rp%2FwQbb6WGk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a7a2d58caded7aff
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	aa73df2df59f94ca557b7be2b9be4af1
+.twitch.tv	TRUE	/	FALSE	0	persistent	217573063%3A%3A7t0rix0cpsgpwdkxtw2nvwyrt2ygf6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzMwNjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzkwMTUsImlhdCI6MTUyNTAzNTQxNX0=.2uhpCT7yqCJ9eA-n3-Iigz4Ic_myUWYk7pO98lEseRGkbS6akx5hdyjIZX6BBHpwyJTZm3Kc9xTrfDfB8FqY8w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzMwNjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjQwMjE1LCJpYXQiOjE1MjUwMzU0MTV9.XpFFoPdDLYeJLKOww4-GBtYhNCFQVPw3YEHEUgQwRPjq2w5DYnjMLWsReXBQ9tjgG0CLvPzJz4HPuwfw-r0A2w==
+.twitch.tv	TRUE	/	FALSE	0	login	p_edwardy46_r
+.twitch.tv	TRUE	/	FALSE	0	name	p_edwardy46_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:56:55Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3b794031b910468b1f1e39adea064fc1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfZWR3YXJkeTQ2X3IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg3NDE1LCJpYXQiOjE1MjUwMzU0MTUsIm5vbmNlIjoiWnhDUEJBczlzNFZrUVB1UmpHRVFPY3VyVlhCUEx0am5kVExvSWVtdklERT0ifQ%3D%3D.HbLhAKUI-bguhGBqpJolooU8XHg7Hf0RkJ5kze6Z1SmE-hj0Z6xYeH-5gZKf_kdmpHcGy44BMPfOI0iPMto1kQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22x92kwqj78oe41tsauo3nkem9stiaob%22%2C%22displayName%22:%22p_edwardy46_r%22%2C%22id%22:%22217573063%22%2C%22login%22:%22p_edwardy46_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	x92kwqj78oe41tsauo3nkem9stiaob

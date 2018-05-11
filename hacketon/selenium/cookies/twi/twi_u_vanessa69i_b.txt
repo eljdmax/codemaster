@@ -1,0 +1,13 @@
+#u_vanessa69i_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IJs0oUpYFhn0d9W2VcneBjntkp9tWalKepZuvMRmCpc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:32:16+00:00	unique_id	c6c8c36abcf8efc8
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:32:16+00:00	_twitch_session_id	889569f17ccb8774dcfc4c6e7ce9a0c0
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:32:33+00:00	persistent	216476143%3A%3Atk2tglp58p6dlw1bmm7u30wbwvynsz
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:32:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzYxNDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwNzU0LCJpYXQiOjE1MjQ1NjU5NTR9.59zaWrhLDcFhGxMWzm-qlgDrym2TfIFzx5hGrUFxVKnKVrdoF3eSjpF3Vs6DXLm5DLtYnRGGj2-vWBNMt-oh8A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:32:33+00:00	login	u_vanessa69i_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:32:33+00:00	name	u_vanessa69i_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:32:33+00:00	last_login	2018-04-24T10:32:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:32:33+00:00	api_token	000a61abb8546200c800c8613c9ad0d7
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:32:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfdmFuZXNzYTY5aV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExNzk1NCwiaWF0IjoxNTI0NTY1OTU0LCJub25jZSI6IkJ1ZXNzM21LRGp6b1Y1aWdpNFdNRC0zb1AtaGQ0TTRvVkt2TmEwcGhaYlE9In0%3D.Bm9Tf4yHrhkkDUzHdeZM3ViyQYorHnd7j_Sxg-LTQBjTpq9DWfPpptSHSSAt9gWpnd6aDXLP5q4fQbbTToCm5g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:33:55+00:00	twilight-user	{%22authToken%22:%22q4fkk5c9r21yxnlqalh893e942aibd%22%2C%22displayName%22:%22u_vanessa69i_b%22%2C%22id%22:%22216476143%22%2C%22login%22:%22u_vanessa69i_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:33:55+00:00	auth-token	q4fkk5c9r21yxnlqalh893e942aibd

@@ -1,0 +1,14 @@
+#b_julianw5h_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pp7DqBT3Z9L5zC7mjV8t9RQKUTAtEmqnM7zXGamdNuk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	35868560274f22ab
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	9ddf3e362520034f17892bc635b154d4
+.twitch.tv	TRUE	/	FALSE	0	persistent	218878433%3A%3Afcgxy2j9xv17orki79gdw7jxlzeibw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzg0MzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjYxMzYsImlhdCI6MTUyNTYyMjUzNn0=.DeA9qrJmO24Sv0cPxKFGINGL8zjQ83-xjx8Yrt2htIrC0TeE9rFBhixrnmn09v6Hj4VMS3V8h8S80CwTar80-g==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzg0MzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3MzM2LCJpYXQiOjE1MjU2MjI1MzZ9.sHTC1ohBoAQEvPlKkvWDNkQP8DR3-BkeLEvvwvHeivbjxQja_sV4Z2pKTY5ezA2VGU1EuHEa4MIqthkieDZlXg==
+.twitch.tv	TRUE	/	FALSE	0	login	b_julianw5h_m
+.twitch.tv	TRUE	/	FALSE	0	name	b_julianw5h_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:02:16Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	18b38bfdb8690d40c76adf5292b30b75
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfanVsaWFudzVoX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc0NTM2LCJpYXQiOjE1MjU2MjI1MzYsIm5vbmNlIjoiTDhtX3k0QmlwX3hCS29POGhvLWZoZ3labkdnT2dzTVdwWjhlMVVoSTRCdz0ifQ%3D%3D.1yMOX2a16vIpgnNtgBF8SPU7AYMERx02OQ-WApJBjj1oFWV-6LhVqpRptn9x__tRLdnhWQsHS4xcWgB82SZYnw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p1x45f5f7omh0xkgjp6dcdjhtodzyh%22%2C%22displayName%22:%22b_julianw5h_m%22%2C%22id%22:%22218878433%22%2C%22login%22:%22b_julianw5h_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p1x45f5f7omh0xkgjp6dcdjhtodzyh

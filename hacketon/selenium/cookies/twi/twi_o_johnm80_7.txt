@@ -1,0 +1,12 @@
+#o_johnm80_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xiiNPcV09t%2FdM2Unku3kQXvLev4RfvYvZJ2wmtVx6NE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:04:03+00:00	unique_id	301d2902d156a079
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:04:17+00:00	persistent	217560709%3A%3A8g2gjnwlr271zon23m3ht7wbmy79aq
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:04:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjA3MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3MDU4LCJpYXQiOjE1MjUwMzIyNTh9.4JoayxWZwUvFi5ia4qU2SwMqUpbEvQk2TIOr6aa9d5d9bJvxQS9cMMWVVyVe70OPKXwg7Bn6sC6twstzgTIwQQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:04:17+00:00	login	o_johnm80_7
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:04:17+00:00	name	o_johnm80_7
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:04:17+00:00	last_login	2018-04-29T20:04:18Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:04:17+00:00	api_token	ac4fb822bb3e839b05a7ac1aaf380cb5
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:04:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fam9obm04MF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDI1OCwiaWF0IjoxNTI1MDMyMjU4LCJub25jZSI6ImFDUW1VWjBYZUxIUDR6TmdhWWxqMHJxeWRnOEZRdUd6SHRjQ3pibU5RVzA9In0%3D.cqXVV_RRTxhrxYl-I2K92Uj3ioyuSZEdE15nFHyG7_wU-bm8e_pGLs7jnXxuOHk7eUH5ZntVZES20vRmEIhGDw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:06:02+00:00	twilight-user	{%22authToken%22:%22nv1swiwhkylafoceegw85e4t681sq3%22%2C%22displayName%22:%22o_johnm80_7%22%2C%22id%22:%22217560709%22%2C%22login%22:%22o_johnm80_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:06:02+00:00	auth-token	nv1swiwhkylafoceegw85e4t681sq3

@@ -1,0 +1,13 @@
+#s_marcust40_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	U0Dy%2FKsxhZ4n%2FqjJ9KmG3iuI4VepXUeIatoDe5eoOs0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5221da29346b7118
+.twitch.tv	TRUE	/	FALSE	0	persistent	217486370%3A%3Aqew5iduke6wxmm5yn6ek93crmmnysk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODYzNzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTU1MTIsImlhdCI6MTUyNTAxMTkxMn0=.zfqAfAV36bGh_2bdh0s983IVmufcHtV0AdjWQV4U4U_3eZ-XH7n8RhI_tVmkM7delZz-gCjP2J9tpnTM83EFCQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODYzNzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2NzEyLCJpYXQiOjE1MjUwMTE5MTJ9.FDloPelBqJnqbMlPKWUsalLSANYB4rfWEnfHMVqjjhawcwMkM884MYUjLm1k7Ah1DZPoiJuZFGPaMfOstkg_Ww==
+.twitch.tv	TRUE	/	FALSE	0	login	s_marcust40_c
+.twitch.tv	TRUE	/	FALSE	0	name	s_marcust40_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:25:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	0159a28433f5448d8fffda8be233f052
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbWFyY3VzdDQwX2MiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYzOTEyLCJpYXQiOjE1MjUwMTE5MTIsIm5vbmNlIjoidHY2cERLR09uYjVFWk1Ydm9KeGxNbnJrM1lzNXFQdV9JLWFxU253SUVldz0ifQ%3D%3D.IyXynCG3QP9CFb1Wz05tYFITAOqF4vLVd5dOKLKrS49C187524KoxNxFvOtMTNUGO1zrLTAb7xBQ-eos0myUFA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wdnur4s0nt6arz4v3zknn2ikdpgx3c%22%2C%22displayName%22:%22s_marcust40_c%22%2C%22id%22:%22217486370%22%2C%22login%22:%22s_marcust40_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wdnur4s0nt6arz4v3zknn2ikdpgx3c

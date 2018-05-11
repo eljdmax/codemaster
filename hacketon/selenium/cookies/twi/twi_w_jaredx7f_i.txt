@@ -1,0 +1,13 @@
+#w_jaredx7f_i
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BsoL0ye%2FMNvvjdZ7gOOh9YrCw9QU7XVJZxNvnsXr4xw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	39ed31e43c3a0dc7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218855386%3A%3A4bqjnohm71dz9l5lvqftrmgfwukzie
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTUzODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTgzNTEsImlhdCI6MTUyNTYxNDc1MX0=.Ql1Gm-Jyd_nQ5k46nrmOXnOePsTMayFgz8r0kTmCwDhkWk_7TO1Fa2aVTTHGWO5_jvJEwf1yQZbDgtoxq2VXgA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTUzODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE5NTUxLCJpYXQiOjE1MjU2MTQ3NTF9.P5Nyy7tHckLT0WvAynA1tCI2yc7sJ4EQwtDEtyYtNZhVUiDDP5H8cvAn18SZJ4kq-Tw0MV4MrWGddnTwbaxXxw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_jaredx7f_i
+.twitch.tv	TRUE	/	FALSE	0	name	w_jaredx7f_i
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:52:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a0bf7c7dfdafd5b2fb4ddbb68dbe6929
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfamFyZWR4N2ZfaSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjY3NTEsImlhdCI6MTUyNTYxNDc1MSwibm9uY2UiOiI0WFJDSUh6ZHJKZlZheGczbDJOdVVfTTVyaWRtdjNmTzJud3VzM25hZlZ3PSJ9.fIeI6ZhAzK_-SWhCTephtyanHzjO_y4riCCpA-hmLLaJn3POgSlpmURBAj56PwkgVdwNGQmGgoiJh_y4h7HJlg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227xhddipc3zzc8edgr45nef0w00oo01%22%2C%22displayName%22:%22w_jaredx7f_i%22%2C%22id%22:%22218855386%22%2C%22login%22:%22w_jaredx7f_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7xhddipc3zzc8edgr45nef0w00oo01

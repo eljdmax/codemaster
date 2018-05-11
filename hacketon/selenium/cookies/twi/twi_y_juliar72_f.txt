@@ -1,0 +1,14 @@
+#y_juliar72_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fF3tDHCQUyQrR8cOMiC7pblt%2Bc4L%2BYOjYmhh2zgRXrw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	55e02e2d1b276a1b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	77fef269fd179645df46bafe24d52ef2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217252188%3A%3Azj8d7uc4tg30t6bee6061bhn5rx0uf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTIxODgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjc1MDIsImlhdCI6MTUyNDkyMzkwMn0=.UAbMiQvpuAt6EsLEpoBS9xJxPdGHRHKZCKETyxGRaVRwRatvbgyumpyXT5coDSWBr67EVi_3k_s7eqO98wFzAw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTIxODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4NzAyLCJpYXQiOjE1MjQ5MjM5MDJ9.52TeV-AfOqKOHHdryBVXK3K6z_TjvpIjqkvl0sX30t2T6IljlEiHM3mGOL-RllnXHQMBryTwM7CJPnsksSfnww==
+.twitch.tv	TRUE	/	FALSE	0	login	y_juliar72_f
+.twitch.tv	TRUE	/	FALSE	0	name	y_juliar72_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:58:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c93320ced3283d87730e4577d6f1c868
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfanVsaWFyNzJfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzU5MDIsImlhdCI6MTUyNDkyMzkwMiwibm9uY2UiOiJUaUl4YWJHQmE0NThqWnBSR3BsMGh0WVctcGVCSEtVZ3pJdmw4OEVPbzFRPSJ9.v3bB_Y4MV18y2w0rWiMX8q_jFLoTMzmmOt71vGFrgHaD1jBRVc_1W-De55A537uiG4_kp6wdDHyvaF4Y2eyxOQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229ik9pq8k65nm1sxfuhq3qvuygyy6b8%22%2C%22displayName%22:%22y_juliar72_f%22%2C%22id%22:%22217252188%22%2C%22login%22:%22y_juliar72_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9ik9pq8k65nm1sxfuhq3qvuygyy6b8

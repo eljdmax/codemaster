@@ -1,0 +1,13 @@
+#t_nathanb49_f
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	N%2BfxnvkFPRxhIJV9z9cySBkUEdUQD%2B%2B%2FppA5%2BFV3EQg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	607d1b93a343fdf1
+.twitch.tv	TRUE	/	FALSE	0	persistent	218890869%3A%3A5qsw9hvt3m18wjuhhd78mi5hq5jett
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA4NjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk4MzgsImlhdCI6MTUyNTYyNjIzOH0=.4rJh5V_6ubMZcMXc6h6n3itSdhlUXexb1Dox2Uer9AhBBX23xoGt3zj-heRXc75ECtztH60NY0RZ-UIaiqsSJw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA4NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMxMDM4LCJpYXQiOjE1MjU2MjYyMzh9.KgFf3diEx-F3EwBWMzlpdeGv08JpvO60-zPaGiahCQVcWAWgtX6fGe2y9fJBnoY_gEWqXMB_voCgHKbZWsgjPA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_nathanb49_f
+.twitch.tv	TRUE	/	FALSE	0	name	t_nathanb49_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T17:03:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1530270318d7750691fb1af321d3a4da
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbmF0aGFuYjQ5X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTc4MjM4LCJpYXQiOjE1MjU2MjYyMzgsIm5vbmNlIjoiMk9sTkxBQnZvNmZwbHlLVUlwQ01WN2NOdVJnaFVfczBsX0NIeXYyR3FJbz0ifQ%3D%3D.ffaFIFjL0-K4yWFfwO2-g9gxyolhljKRdau4igYOo6ZnPghR4FDxUmXG50LwaRXSQFFnxxyr6jArgdCD8aTbEw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221ews7gkqpe54w4aonr4q7nrldu3z57%22%2C%22displayName%22:%22t_nathanb49_f%22%2C%22id%22:%22218890869%22%2C%22login%22:%22t_nathanb49_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1ews7gkqpe54w4aonr4q7nrldu3z57

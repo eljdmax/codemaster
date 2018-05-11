@@ -1,0 +1,14 @@
+#r_edgara45_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	WCNPUARFs2MMaObFB1zWOtEv2mMUjaSFSL7949cIJLA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a226affdaa2a34e1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4274624190084b953924966f7f2d7e54
+.twitch.tv	TRUE	/	FALSE	0	persistent	217453802%3A%3A59gnc8q5uir6eh7j58s00zr6r9jqkg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM4MDIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDE2ODIsImlhdCI6MTUyNDk5ODA4Mn0=.nLKbNjPN9S99zLs24XLnbLAQ1pa6uz7JiB6IRRZN2OINjFWetvZ8xl_Xpns1EB_TC9IYXW8TqgjKlov9gwwM6w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTM4MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyODgyLCJpYXQiOjE1MjQ5OTgwODJ9.pd-NSA90CreW3VQycP1nh018KSffr9KcsW9QW3_cdjXpUNfiuCJiWk3wPy0oxXgrHgUSxa3Mkd9uSapyvNDiQA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_edgara45_8
+.twitch.tv	TRUE	/	FALSE	0	name	r_edgara45_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:34:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f2d87dfdc879560ab665e9a390d87363
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfZWRnYXJhNDVfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NTAwODIsImlhdCI6MTUyNDk5ODA4Miwibm9uY2UiOiI4NFlYczgyVGUtc1Z2am9oQzFWUV8tcEIxeHBqOUl5ZzktRVpCTG9tWjJrPSJ9.1YTyAsVax3X22GqfzllafTzs2_ToAyWbnZ3EE0DlWZvsJdiOAE3nPcBCkMjoa4e4A28RauibVocLNyt-JMABzg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220bx5rntw3fyg5o2skynw0quwqune55%22%2C%22displayName%22:%22r_edgara45_8%22%2C%22id%22:%22217453802%22%2C%22login%22:%22r_edgara45_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0bx5rntw3fyg5o2skynw0quwqune55

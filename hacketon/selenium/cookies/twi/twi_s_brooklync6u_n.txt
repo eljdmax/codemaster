@@ -1,0 +1,13 @@
+#s_brooklync6u_n
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	J%2BS2i%2FDTcFvknSLrdYcXfNYbm93JS%2Ftn65ODfPuP7yo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:41:05+00:00	unique_id	f8b2879892d7ba9a
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:41:05+00:00	_twitch_session_id	2d6c284147486cc68e2ba2a7094a40d4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:41:34+00:00	persistent	216488006%3A%3A9p3svs3531ac6gbval6iosf8n4sgk7
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:41:34+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODgwMDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NDk1LCJpYXQiOjE1MjQ1NzM2OTV9.9RJOn-ll5bL4YX7oDt6OlE0N1O03fre3Um2YEgM97RVi5ZRGhdy3a6e6UYzKHdK17hWdfTd96ySEZJG6pIE0jQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:41:34+00:00	login	s_brooklync6u_n
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:41:34+00:00	name	s_brooklync6u_n
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:41:34+00:00	last_login	2018-04-24T12:41:35Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:41:34+00:00	api_token	62ce20d97e4b238b7831651ea6a8ac4e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:41:34+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYnJvb2tseW5jNnVfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjU2OTUsImlhdCI6MTUyNDU3MzY5NSwibm9uY2UiOiJmYzhFaFI0cUtXTXJHTmptMDJTSUgtZ3phMS1UbERXbHJabDh6X1REVVdrPSJ9.0jmeZhjphVdlrX7KDP1M-B5-NPyoYsFx5BN5Z02U7oTGDyd6ZZLDbN1Y44cmHPZEuV3nSa0O2uxAKa8d6kcohg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:42:56+00:00	twilight-user	{%22authToken%22:%22v9a9okhqo123ddrs8fgtq9le02zgjo%22%2C%22displayName%22:%22s_brooklync6u_n%22%2C%22id%22:%22216488006%22%2C%22login%22:%22s_brooklync6u_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:42:56+00:00	auth-token	v9a9okhqo123ddrs8fgtq9le02zgjo

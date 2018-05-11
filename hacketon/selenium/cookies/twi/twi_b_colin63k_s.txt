@@ -1,0 +1,13 @@
+#b_colin63k_s
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	2QEJjBmEvFmWfYzRh8nDEyrn%2F9JUvsHJqZFPydxuPUM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9d19682c1629df0c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217501535%3A%3Apjvhpac21mb7gp5dgpwwjcajmthqhc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDE1MzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMjAxNzcsImlhdCI6MTUyNTAxNjU3N30=.yZdSGfZZoddmwSSmHqGA0Xjdlbkr3fWxvRxvb-mOelacfosWbgi8Md1cRQHto3Qab6EzWV1HWfGLEFrrhN4q9A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1MDE1MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjIxMzc3LCJpYXQiOjE1MjUwMTY1Nzd9.RZIM4ESd2UYRQEO_wAIFNwkO5rqNLPFX7eqnVLtVdwENGHVkvIeC_v9HuX2XYC_k_fFvdCn89zrMH0OFedyMZw==
+.twitch.tv	TRUE	/	FALSE	0	login	b_colin63k_s
+.twitch.tv	TRUE	/	FALSE	0	name	b_colin63k_s
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T15:42:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5c2e62d7b4053c84efeae459974cb141
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfY29saW42M2tfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1Njg1NzcsImlhdCI6MTUyNTAxNjU3Nywibm9uY2UiOiIzTC1ENHUwaW1WMGFNeVJqQnRoa3dnamEwZUdhT3IybWg3QXd3ZHRCRkpFPSJ9.q4Rl6aKx-2Lr0B6d9jHuwCaj5rDb-d7CLgXMhaxVDM1WwA8hZXc7dggxuGwA9bAAGYqspEINucl7AkMdWbJaNg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224zjxl0v08fe3nb01u0rhg5lbhfzib2%22%2C%22displayName%22:%22b_colin63k_s%22%2C%22id%22:%22217501535%22%2C%22login%22:%22b_colin63k_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4zjxl0v08fe3nb01u0rhg5lbhfzib2

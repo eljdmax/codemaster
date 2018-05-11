@@ -1,0 +1,14 @@
+#s_timothyd98_0
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zj4BuRK%2Fg3oX27V%2FKi0SzgkUrhbW68p2Ed9DE6fciy4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	bf3a1798d76c6d57
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	005d8115b10ff042855be0bc5becc68c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217241441%3A%3Acwnqc8mhe2nrjpnc41yd6nmrgxbg3k
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDE0NDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjQxMjYsImlhdCI6MTUyNDkyMDUyNn0=.ddV1v-9SQP12t9JlSR2j9Uyd_M0DIwy1AmfG0P3AxbuyhCpq0qn1shBqlU03yv8_4uUM-3LtZVqGgxEbyiWGFg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDE0NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI1MzI2LCJpYXQiOjE1MjQ5MjA1MjZ9.s7eqayuHXH-ODlvKPEqb3tlP6geIHiCqv7Kl8ga1EKzBmN_tDrc3grHLFP73eG_0Pxeh-4JnltTty4t8PkKfcQ==
+.twitch.tv	TRUE	/	FALSE	0	login	s_timothyd98_0
+.twitch.tv	TRUE	/	FALSE	0	name	s_timothyd98_0
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:02:06Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	63c635768e3d036d24b3dedc2c1c1949
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfdGltb3RoeWQ5OF8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ3MjUyNiwiaWF0IjoxNTI0OTIwNTI2LCJub25jZSI6ImMzdE5JeFQ3RzI4b0hSWFE0aW1DV2dTVzA3X0NNN09GdWJIcmszR1dORVE9In0%3D.80NQAbZ2tLSDbJK8peE0Yy9hymVegFb96Mwltt5uFn2ldhGC5fu4f55z4fCNOMp_sAwe5iV5FdjX5wNbL2PGCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22licy0q0xrz43ys240q4qur00idgnxo%22%2C%22displayName%22:%22s_timothyd98_0%22%2C%22id%22:%22217241441%22%2C%22login%22:%22s_timothyd98_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	licy0q0xrz43ys240q4qur00idgnxo

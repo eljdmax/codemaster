@@ -1,0 +1,13 @@
+#c_vincent71z_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	0rXc4KsLqSOiEzFa3gA6p0S37XHdP083MkGTmSY7gnc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8659b2461d9795dd
+.twitch.tv	TRUE	/	FALSE	0	persistent	218884716%3A%3A6829zyqogb07ovnmn8z2ukzxsh09r9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODQ3MTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgwMjIsImlhdCI6MTUyNTYyNDQyMn0=.DnRCpaeWsJxQE9oqVI5r8xpADts9ZzYTM2sBZOGAJGb3BWzzaAj88fr9jnIEYjFcYK95JoSh8Y4racuMpsMhAw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODQ3MTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5MjIyLCJpYXQiOjE1MjU2MjQ0MjJ9.Yhux3_F1aFTNrsKRtWkDdIneCkFuzA-muCTCFukO4X3TX9ud6bSZQ04ok0ubQ27ZmiH-apu94_YeEQog8v6dkQ==
+.twitch.tv	TRUE	/	FALSE	0	login	c_vincent71z_e
+.twitch.tv	TRUE	/	FALSE	0	name	c_vincent71z_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:33:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6eabe46459b2e8b42827a1ca76211bd3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfdmluY2VudDcxel9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjQyMiwiaWF0IjoxNTI1NjI0NDIyLCJub25jZSI6ImFYQnA4S3RVcDdWN29reXNvMmdZLXcwQWpvNk5qWHpwSEJXRi1YMmEtUkU9In0%3D.vnN25F365D36j2C3imDvgvk9V2Rg87tyv2FucFnUKju7RKlldP27m5FmWZ1JSFH-imAsF4See96CPfCsalGtZw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222b1tl646hv1s6kum3sah4sz3fsq5kn%22%2C%22displayName%22:%22c_vincent71z_e%22%2C%22id%22:%22218884716%22%2C%22login%22:%22c_vincent71z_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2b1tl646hv1s6kum3sah4sz3fsq5kn

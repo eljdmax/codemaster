@@ -1,0 +1,13 @@
+#o_thomas081_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	7tOoc9VmluP8evA%2BjpBsw8x1GNqmN6H5KAsnFilLDRI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	26c7366b7ff3e7b2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217460823%3A%3A9id5nx7wmsy0w3p1t6yb6jrrnba9o2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjA4MjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDUzMzgsImlhdCI6MTUyNTAwMTczOH0=.KLdE7pexGfZ9zHe9VWFCt5eQ2bUEPeOpc7qec7lX8d1viQ1cxloD6WnUd07XejJLcBbnoQV2JrO3c1RNxpbWPw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NjA4MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjA2NTM4LCJpYXQiOjE1MjUwMDE3Mzh9.hJKG7glH6p6mg5Nsoyp-J9fUguwJnymuNqz_OAIrY5ObGX7ksIT6d8tJqbxagBRHf-PonyzwwFt_J8vciczsWQ==
+.twitch.tv	TRUE	/	FALSE	0	login	o_thomas081_b
+.twitch.tv	TRUE	/	FALSE	0	name	o_thomas081_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T11:35:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	88fe2f3449d4caaa665704f887621726
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fdGhvbWFzMDgxX2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTUzNzM4LCJpYXQiOjE1MjUwMDE3MzgsIm5vbmNlIjoiQ210cWkxLXVMeWxpRGNZSzR0V2VMYS1nYXhPN01oR1Q1YmN6dHpDMkx5WT0ifQ%3D%3D.R-Bh2B5VcFTeWhZx3VdAXx4vXuYM8-kd8qZc9Ftg7GqVmxyFAT6d3ELHjGd6_qTotblCxtWihdTZB5QBP9ZhMw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22t301jcai1kf1i4k7wv21twqp9vtzk5%22%2C%22displayName%22:%22o_thomas081_b%22%2C%22id%22:%22217460823%22%2C%22login%22:%22o_thomas081_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	t301jcai1kf1i4k7wv21twqp9vtzk5

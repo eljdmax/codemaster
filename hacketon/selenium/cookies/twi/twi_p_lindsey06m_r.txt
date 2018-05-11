@@ -1,0 +1,12 @@
+#p_lindsey06m_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	D42F25SI3QszAp8519BNM5lgGISul47tlMbNS2ZlTbo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:02:58+00:00	unique_id	a132bb0e22b90fd2
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:03:37+00:00	persistent	216483975%3A%3A1zm707y14cglzm3cbni9jp72ntqqub
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:03:37+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODM5NzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2MjE3LCJpYXQiOjE1MjQ1NzE0MTd9.WSyYJwQyf6Dr9tFmmrJMaGTp16sMH_IRVY4wE_HITz_4ttz4ixcfN1VlOFymQ2UvWkZYAAUIqWUvcamPJRkipA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:03:37+00:00	login	p_lindsey06m_r
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:03:37+00:00	name	p_lindsey06m_r
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:03:37+00:00	last_login	2018-04-24T12:03:37Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:03:37+00:00	api_token	9a5eaccff0075491d17091b158acf4de
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:03:37+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbGluZHNleTA2bV9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMzQxNywiaWF0IjoxNTI0NTcxNDE3LCJub25jZSI6InR5aXpURXhlT2hZZHk5OEVENTYxTHN2d3EzMTI2OXRHdGJYcU1lNlN1SDQ9In0%3D.4JRCASYJG_M3smvKkj-VW6QDdfeBiVqzYNO1s1Zvm1j4B2KFM58dI5pAarGg2v3ArdMMRfNlOlcv_lhDZaj5WQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:04:57+00:00	twilight-user	{%22authToken%22:%22bq93sxnst49qzdg8d8yadxo970uls7%22%2C%22displayName%22:%22p_lindsey06m_r%22%2C%22id%22:%22216483975%22%2C%22login%22:%22p_lindsey06m_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:04:57+00:00	auth-token	bq93sxnst49qzdg8d8yadxo970uls7

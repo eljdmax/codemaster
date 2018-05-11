@@ -1,0 +1,14 @@
+#q_lucas877_o
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zld6vAHf7F2DCC%2BlwSkb%2Bm12CULiZJ72cpEGlVpvwQ4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cd3c7414d2130399
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2d0dd5bfab3cb3b1f744cf92acb16c09
+.twitch.tv	TRUE	/	FALSE	0	persistent	218940484%3A%3Ageywozq1kxrpzcqt35rqfgvsnvw7lv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDA0ODQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMzNzMsImlhdCI6MTUyNTYzOTc3M30=.96-dTd3uypOt2K0NHjjSve2aqIp8-huFIr08aDM4onmi-ze6GDG7dKoef_utyk7fiBtGFf_Mjjbl3KFtChZpnQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDA0ODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NTczLCJpYXQiOjE1MjU2Mzk3NzN9.NB82nuTizWEj2BZBu77otAImUNmq-J2ExDrIS97yJPvKdetqlgIrIF-wHvz91exD8GwEpDAnBWkYu5XuVGj82A==
+.twitch.tv	TRUE	/	FALSE	0	login	q_lucas877_o
+.twitch.tv	TRUE	/	FALSE	0	name	q_lucas877_o
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:49:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	138c3f7e6ebe4a3603160aadf2860fa7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfbHVjYXM4NzdfbyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTE3NzMsImlhdCI6MTUyNTYzOTc3Mywibm9uY2UiOiJxN1FxU2p6MFhIZlIzNFpHakpEMkYzbWlwdVNTYlhVem9tZFVIek53LThVPSJ9.fPHtu_KZZ5s211KQPyOITAG9GzCGtBKooQ71-rlpYNE8ekxJhs8AUwpEvz4K8G4BqBhnGC-dTF7ogyKnFg6lYw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22spbugxs8yhmdntigabngfabb975mpy%22%2C%22displayName%22:%22q_lucas877_o%22%2C%22id%22:%22218940484%22%2C%22login%22:%22q_lucas877_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	spbugxs8yhmdntigabngfabb975mpy

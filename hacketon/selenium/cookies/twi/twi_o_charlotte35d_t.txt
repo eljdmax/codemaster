@@ -1,0 +1,14 @@
+#o_charlotte35d_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	I5ZPK7%2BXjjvTIYnA3%2Fu%2F%2BK3tC%2Ff0c%2BYrpA3grIO2XCU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d9517a2209a16288
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0cf15fda6b40f6e4360fabd61a3cd9b3
+.twitch.tv	TRUE	/	FALSE	0	persistent	218943960%3A%3Axbrfarh3ib0vvwbbtd79tute0qmpor
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDM5NjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ0NjksImlhdCI6MTUyNTY0MDg2OX0=.gMPAdOx7USSh_cNmIKVjkzAx8CCTQID8JFbdHaFmr8LXEOYe7ivy5cU1_bWBGYiJ8itWUmzREfiLyTYH2kKrEA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDM5NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1NjY5LCJpYXQiOjE1MjU2NDA4Njl9.QNuvXKNlXl98mLK4fihsF_Sc534goIj4XrIq8Moj8RBwQUKvSHaCw9rup4PbXVbDm-N5-qdCXOfBjhdfCuf4Tw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_charlotte35d_t
+.twitch.tv	TRUE	/	FALSE	0	name	o_charlotte35d_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:07:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f9da831312570103de10eb8a3d876c65
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fY2hhcmxvdHRlMzVkX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkyODY5LCJpYXQiOjE1MjU2NDA4NjksIm5vbmNlIjoiMjVjWG9wcWdpbU5XYlJ0RThTS2hWOWR3bDNsanpCaGw2YV9kdE1lcDRpVT0ifQ%3D%3D.mCW4kH7yEdm7cqWSClcedTLxYHZx_6Rwe-oKG3anrmCOKyBvhX0iX2yEgtgsvZnxhpVRAxplELnWUKWtGT9Xog%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nr87tjor4xb9sd38k0f238jo600vff%22%2C%22displayName%22:%22o_charlotte35d_t%22%2C%22id%22:%22218943960%22%2C%22login%22:%22o_charlotte35d_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nr87tjor4xb9sd38k0f238jo600vff

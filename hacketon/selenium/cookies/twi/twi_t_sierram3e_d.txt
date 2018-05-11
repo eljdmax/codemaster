@@ -1,0 +1,12 @@
+#t_sierram3e_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q4AiT6hnT2Le9zDGDPCBidoCRxIi2wVpUaeep8EY7dE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:38:11+00:00	unique_id	aeab652e9156925e
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:38:33+00:00	persistent	216936404%3A%3Ahsklt8cg85ze2mgopko749vnaz0mg5
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:38:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzY0MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5OTE0LCJpYXQiOjE1MjQ3NzUxMTR9._eJWa-4_HgiHgrlwpSIkq4dtPbkNxdBDVSHU9b30Ep83j4-Vb1qq8c4e68efWAKuVSzw9WkKYxzTMpMd95OUmw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:38:33+00:00	login	t_sierram3e_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:38:33+00:00	name	t_sierram3e_d
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:38:33+00:00	last_login	2018-04-26T20:38:34Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:38:33+00:00	api_token	793cd776ba85b0de3a876a9db90c80b4
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:38:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfc2llcnJhbTNlX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI3MTE0LCJpYXQiOjE1MjQ3NzUxMTQsIm5vbmNlIjoiZXJub2dKRWJHdXdrX281OEo4UFFfRXlOd2lET19UcFhFTUNvRlpqNm5Ecz0ifQ%3D%3D.pyeXnZzxmlq1X5auhDfpD08zpHFfqaZqT1DxDRmo5PmOY5j25xu4sEUwDJkJpLTJ-nc0W4XG6FxKimLVpj21Kw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:40:04+00:00	twilight-user	{%22authToken%22:%22jpng1228lhs4ytcv2s33q70svv18xt%22%2C%22displayName%22:%22t_sierram3e_d%22%2C%22id%22:%22216936404%22%2C%22login%22:%22t_sierram3e_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:40:04+00:00	auth-token	jpng1228lhs4ytcv2s33q70svv18xt

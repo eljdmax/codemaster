@@ -1,0 +1,13 @@
+#g_devinh9x_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	yfPGP%2BmHP1cceXD8aEf%2FNXpXI1nAhGAD8i1soh0boww%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:53:28+00:00	unique_id	281b3adf90f1e350
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:53:28+00:00	_twitch_session_id	ca2f7ad974d4bcdc0573c2052710841d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:53:53+00:00	persistent	216140620%3A%3Ar7jd51wvgni0ecvpu77rtpf78igdhc
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:53:53+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDA2MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4ODMzLCJpYXQiOjE1MjQ0MzQwMzN9.WGOduyOCjg_7W8DG0e7pdzDIHqAoUDTkEucqZ1hln60Vd46FNL_mOFlFXy5I2sjdc1i_fbw1XbHtkjanFFdzTA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:53:53+00:00	login	g_devinh9x_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:53:53+00:00	name	g_devinh9x_w
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:53:53+00:00	last_login	2018-04-22T21:53:53Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:53:53+00:00	api_token	0e864978ca86aaeb6c4ab223d4b3f12c
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:53:53+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZGV2aW5oOXhfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODYwMzMsImlhdCI6MTUyNDQzNDAzMywibm9uY2UiOiJoVkRTMEpTOGZjSFZnMTUyZktXY2N6cEJmZktYWW9iaFdkQlR1aTNfMVU0PSJ9.EZ0wX_tozmy04L8VBjQoESNl99_JlHpoqAwhmxCjw20pSWu-BBqG8ZvYFNzF0gMi62X0UYl7rahLhUtszXP-tA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:06+00:00	twilight-user	{%22authToken%22:%22ceukxw1ownjhifjxp9etyjgx2zhrht%22%2C%22displayName%22:%22g_devinh9x_w%22%2C%22id%22:%22216140620%22%2C%22login%22:%22g_devinh9x_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:55:06+00:00	auth-token	ceukxw1ownjhifjxp9etyjgx2zhrht

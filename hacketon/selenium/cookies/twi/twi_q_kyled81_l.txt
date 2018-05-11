@@ -1,0 +1,12 @@
+#q_kyled81_l
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5v8DEUpJg9MRio4W1mcDlsJhJJAsJhZYXD8NaH%2BNDCM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:01:31+00:00	unique_id	3f194929b3a1297d
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:01:50+00:00	persistent	216142082%3A%3A5ue09zr4i0aawy3g5xrmm58me6zeaw
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:01:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDIwODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5MzEwLCJpYXQiOjE1MjQ0MzQ1MTB9.CM2rpz7k-MBxwG3brKSBfOWJY_IBpoO-R26RbaSEw78b-ugiOF0h4xS6fKucWGy8Y8ImcWrk4fbDuJspMFSWVA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:01:50+00:00	login	q_kyled81_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:01:50+00:00	name	q_kyled81_l
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:01:50+00:00	last_login	2018-04-22T22:01:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:01:50+00:00	api_token	ead0146b1428a44659514225dfd77e97
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:01:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfa3lsZWQ4MV9sIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NjUxMCwiaWF0IjoxNTI0NDM0NTEwLCJub25jZSI6IkxMaW9xWmVkMjFRQUY2UGRrdk02alpJZ0pWcDZqbHRfMnFUdkVXRS1IaUk9In0%3D.rTUTZ9h6yYwGTTt-4UEgSq_gKvxzzAcgjfMFzcC1PEXn7wS9F_2vOP2jnXCdrWi14AmlwYCjJoavhbZ3PL-JqQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:03:02+00:00	twilight-user	{%22authToken%22:%22vagwrk8iehgp2wdim1lfvkm8sa9uq4%22%2C%22displayName%22:%22q_kyled81_l%22%2C%22id%22:%22216142082%22%2C%22login%22:%22q_kyled81_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:03:02+00:00	auth-token	vagwrk8iehgp2wdim1lfvkm8sa9uq4

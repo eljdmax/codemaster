@@ -1,0 +1,14 @@
+#k_cesarc2d_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XzT9O1BSqXO%2ByrSoOKeWyZ8d2SZB7RnCUhE48y55ZKw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	abac433ce3cad259
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	14e4e1b3675622eda79ac7df57839b24
+.twitch.tv	TRUE	/	FALSE	0	persistent	218959728%3A%3A93ht5iapbf6so1h2cwwnt67ikgfo9l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTk3MjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NTAxMTMsImlhdCI6MTUyNTY0NjUxM30=.qLrFkU0GgcrXxDkqQRVOCUlfOP0kIk7ZzpqWFjjXqQ-iUEWOGq133j5G0N0lGbIE0NNuHxyr0b-nSK1gM2YcuQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTk3MjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUxMzEzLCJpYXQiOjE1MjU2NDY1MTN9.qPRfGHLvjCK09w_UrKMhRbca37ZbdNrWM4sseQuyQCCC3txewBm8mb5M_EKF1Wi9KsfiYeUO3wm_9Rjo5nvzLg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_cesarc2d_e
+.twitch.tv	TRUE	/	FALSE	0	name	k_cesarc2d_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:41:53Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2bf39b302d1dfa0811152f01859bc375
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2VzYXJjMmRfZSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTg1MTMsImlhdCI6MTUyNTY0NjUxMywibm9uY2UiOiJrLTZrZml3WE1HeXV3TE5lbnRoZlZVbXFITTkwT0RYQWlEd2doOElBdG5ZPSJ9.LvxY25KlF4TjdizuD-I87jiuRTL90oTMoUkaFgetBFgTS8co4Kh-0CTeJsqpZwczSoeYZmht1I7VmQ88zHM_kA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2213rdlqhy3boqnf5rjrvdujps957lyt%22%2C%22displayName%22:%22k_cesarc2d_e%22%2C%22id%22:%22218959728%22%2C%22login%22:%22k_cesarc2d_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	13rdlqhy3boqnf5rjrvdujps957lyt

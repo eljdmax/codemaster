@@ -1,0 +1,12 @@
+#z_joelw8o_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	biNBTyDbcorcFpkluTAis%2BKPig1goLmsg5Lu%2FLmKjIU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:13:03+00:00	unique_id	83edcc5f131fdc6d
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:13:21+00:00	persistent	217563014%3A%3Aswgrtiioja8jiidd3ezcho8p8i8cto
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:13:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjMwMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3NjAxLCJpYXQiOjE1MjUwMzI4MDF9.qHb_2BSf9oLKIXhHH-dP6ujY3o7Ep35r2ykqaWgH1MNO5jBRD2dkGkW4OD4k51QG47XGgTyAFHAvfKBJJp1pmw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:13:21+00:00	login	z_joelw8o_e
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:13:21+00:00	name	z_joelw8o_e
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:13:21+00:00	last_login	2018-04-29T20:13:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:13:21+00:00	api_token	fe73809b301479552c7d9073abe70dba
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:13:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfam9lbHc4b19lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDgwMSwiaWF0IjoxNTI1MDMyODAxLCJub25jZSI6Im9HNnR4QzQ3ckxHYXo3UGlucmRZT0VjZFN3SnJTWVZaZXRJaXFCa2hZTFE9In0%3D.Bm4CpdNVxbQrl9pVD3CJtVFoOyZJkptmfZSfSpkz5Dm4l_s56nZXvmZ9cfT9flZ7JVAPJtOryLOnwaZmEXnLkg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:15:05+00:00	twilight-user	{%22authToken%22:%22j9bxmm78bw41t7dfhjmmxf2c36bf9q%22%2C%22displayName%22:%22z_joelw8o_e%22%2C%22id%22:%22217563014%22%2C%22login%22:%22z_joelw8o_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:15:05+00:00	auth-token	j9bxmm78bw41t7dfhjmmxf2c36bf9q

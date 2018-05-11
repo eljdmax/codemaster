@@ -1,0 +1,13 @@
+#m_george04f_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3T%2B3ouz40FT6fEaaZkT12wtAd%2FnTm6fKapuZ%2Bg%2FImv8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:02:04+00:00	unique_id	a4d45e53bbc831b9
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:02:04+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:02:39+00:00	persistent	215241425%3A%3Anuyltkjxjwnf8jxr12wwf2wqse3oom
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:02:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDE0MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5MzU5LCJpYXQiOjE1MjQwNzQ1NTl9.8im36VEYuTxoU4kFtjoG6mq20i1G9Ds2rguZoIsU03IyLeesCF1z8MXh92Fd-APhQvPfUERl1FIkWHK_JvQaKQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:02:39+00:00	login	m_george04f_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:02:39+00:00	name	m_george04f_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:02:39+00:00	last_login	2018-04-18T18:02:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:02:39+00:00	api_token	8343782d3e85b0dd83623746649b740f
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:02:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZ2VvcmdlMDRmX2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI2NTU5LCJpYXQiOjE1MjQwNzQ1NTksIm5vbmNlIjoic3AwR2dqTnRfeTJ0MUFLOUJJTFRhNk0zQkVvaFZDTWh6d0taN0NtS0xKUT0ifQ%3D%3D.CtSCfrEHbb7kSTcz31EXZY34smCSsSzEyOuB0YneAKnqDpdu2i1sXBa96GOR78nlwXcAl_NTcYrBsQ1SxHDW5w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:03:32+00:00	twilight-user	{%22authToken%22:%22qtzpcz6s9775lizc5dcqxqfzfg0oap%22%2C%22displayName%22:%22m_george04f_g%22%2C%22id%22:%22215241425%22%2C%22login%22:%22m_george04f_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:03:32+00:00	auth-token	qtzpcz6s9775lizc5dcqxqfzfg0oap

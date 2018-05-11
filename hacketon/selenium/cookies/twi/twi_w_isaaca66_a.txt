@@ -1,0 +1,15 @@
+#w_isaaca66_a
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d6b68dbd776c40c
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GKxbSWOYSbsAOdyEKqMXrHSGW%2FC%2BcDYPtQqDNYgMLZA%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	db8ee3e6dd9a3994d49c1882c44d8f5b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218848480%3A%3A2q7qi9o9i6hnqjfo9w6lncvbmcl8dv
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDg0ODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTU2MTQsImlhdCI6MTUyNTYxMjAxNH0=.X2bpBj1YXAqMe4XUnmxW6wOubjN2Lx8Dyy8AELciyJOcc_hhmNKg6LYcBs76z4o3Z8PzBGSNE_YcCHBX-z3_Hw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDg0ODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2ODE0LCJpYXQiOjE1MjU2MTIwMTR9.4IUUsMohU6B2LE9N0UMgNLF-vBkDLJZI8Kux6pgxmKq1_PJYHmFa3P7Ldkk0L-FR8gNXRKCLMXMEw5AdKO8a0A==
+.twitch.tv	TRUE	/	FALSE	0	login	w_isaaca66_a
+.twitch.tv	TRUE	/	FALSE	0	name	w_isaaca66_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:06:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d4090bfd3ac4a6768ceac4b76af8b6f3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfaXNhYWNhNjZfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjQwMTQsImlhdCI6MTUyNTYxMjAxNCwibm9uY2UiOiJsTnFwdU5wVEpuTU43MUZWdmQwZlhROUhTMjlUUEFfcGJRVDl5cHFHOGRjPSJ9.we5vsyKof2iw8yRWh4O571ACT7cXlIewtGKRM9WjaxmZ3y3I8U_xMRofJKCpcdOVLcsf8XpsUNX2jYDbSu9Wlg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%227expf5nz81ulzizi7495udlkw1b86u%22%2C%22displayName%22:%22w_isaaca66_a%22%2C%22id%22:%22218848480%22%2C%22login%22:%22w_isaaca66_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	7expf5nz81ulzizi7495udlkw1b86u

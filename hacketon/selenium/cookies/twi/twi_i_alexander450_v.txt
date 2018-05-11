@@ -1,0 +1,13 @@
+#i_alexander450_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Xc5Mb1miSuB8ZTaAC%2FNkgAajn4aNC0WCJvZYC1zPJqs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:05:01+00:00	unique_id	d2884d712f53a71b
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:05:01+00:00	_twitch_session_id	3123d8922b9b06d720c55f21a556ccca
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:05:25+00:00	persistent	216490853%3A%3Aq7fvsucomisd192wwmhplspbl3y0up
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:05:25+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTA4NTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5OTI2LCJpYXQiOjE1MjQ1NzUxMjZ9.zSe550iqMbR3E1KRmko5fxusDHyfKS8DFk-rDGMo1p2E84ksiILo_7ZwHmqbPgs00yuZXi3bo24DbKfPEK_a_g==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:05:25+00:00	login	i_alexander450_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:05:25+00:00	name	i_alexander450_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:05:25+00:00	last_login	2018-04-24T13:05:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:05:25+00:00	api_token	22f75342e1a8fa992734a063b55d1dfb
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:05:25+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYWxleGFuZGVyNDUwX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI3MTI2LCJpYXQiOjE1MjQ1NzUxMjYsIm5vbmNlIjoiZ1hVWk1EcDZKWXBYN2lUTXRoLUgyb0FmNXZWMmVCdlZTZmxDMDVYVWhrYz0ifQ%3D%3D.YETSs_jHia0HjZKEjukbQJc_Y7M_wHio4zlDjRstIOcC-Cz1IYA042cpWendxq-LhFS2q1F_UW1BFGp-gREPPg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:06:45+00:00	twilight-user	{%22authToken%22:%22jziuuqvepg9y4uil8n4tuzwcc0qg0i%22%2C%22displayName%22:%22i_alexander450_v%22%2C%22id%22:%22216490853%22%2C%22login%22:%22i_alexander450_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:06:45+00:00	auth-token	jziuuqvepg9y4uil8n4tuzwcc0qg0i

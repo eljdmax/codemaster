@@ -1,0 +1,14 @@
+#z_lilianan33_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RVkNjLO9%2FejXjGXyHiLMK7dQtTULTn0PALWteMYAvhc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:15:02+00:00	unique_id	f95fb16077afd26f
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:15:02+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:15:16+00:00	persistent	215243918%3A%3Abqon6ldofkkygywd3v9fp3qkvc6xn7
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:15:16+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDM5MTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMTE2LCJpYXQiOjE1MjQwNzUzMTZ9.XJFZRdXtlRa_Fzrv6hcRfxSp5zrzu9BEiHvRbmFqOvVxdU4GZe-ka4sT4-i4-jDLv9g_Tlv0pyiWxvXoJG1HPA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:15:16+00:00	login	z_lilianan33_0
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:15:16+00:00	name	z_lilianan33_0
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:15:16+00:00	last_login	2018-04-18T18:15:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:15:16+00:00	api_token	584de44267968e502135b192c73d4390
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:15:16+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfbGlsaWFuYW4zM18wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNzMxNiwiaWF0IjoxNTI0MDc1MzE2LCJub25jZSI6IkdManRqaHA1c2MyTFhocFlROFJ2Q3hNYnd2NXQxeEV4cFFqZVRmZ3VRSmM9In0%3D.zjMeCtPmTbDCG1NV8WXn30L2fZt3lC86hzGhOAP2CAyhb_O98DpVndmSE_qusMOy6bSU7E9UDBhm_z1cdsSiIg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:16:08+00:00	twilight-user	{%22authToken%22:%22amclvzpbrxbkz38zne9q6srej6qqct%22%2C%22displayName%22:%22z_lilianan33_0%22%2C%22id%22:%22215243918%22%2C%22login%22:%22z_lilianan33_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:16:08+00:00	auth-token	amclvzpbrxbkz38zne9q6srej6qqct
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:16:12+00:00	twilight_onboarding	true

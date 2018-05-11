@@ -1,0 +1,12 @@
+#j_valeriae4s_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	LP0lfFCLX%2FtcW6FjC3ywDM%2Bz8RHB1gJ3Vy44okoM2Gw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:39:53+00:00	unique_id	55923e1823e8a38d
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:40:17+00:00	persistent	216936732%3A%3Az45bz108utouqe8crx1vjcsvo6t0jm
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:40:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzY3MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMDE3LCJpYXQiOjE1MjQ3NzUyMTd9.VGa2pl9aKrzHBwceHIar-NBeqMvar2UUAww0Hn87-jIK3kJ_oBTAk_Xd7AsC-AId4MtORLcnE7vvjqK8XGZo3A==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:40:17+00:00	login	j_valeriae4s_s
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:40:17+00:00	name	j_valeriae4s_s
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:40:17+00:00	last_login	2018-04-26T20:40:17Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:40:17+00:00	api_token	cb5c9bd533c88cff2282bc6d281120ba
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:40:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfdmFsZXJpYWU0c19zIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNzIxNywiaWF0IjoxNTI0Nzc1MjE3LCJub25jZSI6IlRjM3I1SFJ3WTJLQ215QTVwQnY0NE5mM1VUS0NqbU5tWjl3Z193d3h5Wmc9In0%3D.UIdSawfRHVXgNA55Yk_w1IyehKRor2214x9WQPe-S_EqTsYyPZMiLvaBQe_f2fRaJXXvAk7we_iSMjUuYrrJmg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:41:47+00:00	twilight-user	{%22authToken%22:%22ugds8qclb4639f6vsle0dc3i6495i9%22%2C%22displayName%22:%22j_valeriae4s_s%22%2C%22id%22:%22216936732%22%2C%22login%22:%22j_valeriae4s_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:41:47+00:00	auth-token	ugds8qclb4639f6vsle0dc3i6495i9

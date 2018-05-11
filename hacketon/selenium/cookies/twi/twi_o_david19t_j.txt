@@ -1,0 +1,14 @@
+#o_david19t_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	xjnxN1ZJuWCLBx8K9EGNQXsbxDnSXWbLxcpr1%2BocWYU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3e74e67fc64cb1c9
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ecc91519004e016593f832f32efbab3a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217955417%3A%3A9zy87l1w1odxkdj00aseytb304kyrt
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTU0MTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTk4MTksImlhdCI6MTUyNTE5NjIxOX0=.kBxWylo3eRimqaF0edn31nDWBkYMX7er_QXbNVzrnIKWXzXiYq072FB7fqt8Ij143kaw3ZERlTc597dEL86wTw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTU0MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAxMDE5LCJpYXQiOjE1MjUxOTYyMTl9.qt5iMpZ_JZF5bkIzmrw7537PSAn-6oyGMV_BO1yMlt5FY8wtgwv8as9IijuC_vmb1vLAwdTtzc9TtmJWwLVUcw==
+.twitch.tv	TRUE	/	FALSE	0	login	o_david19t_j
+.twitch.tv	TRUE	/	FALSE	0	name	o_david19t_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:36:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	bbe3588dd044be136f09487c28a97f5e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZGF2aWQxOXRfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDgyMTksImlhdCI6MTUyNTE5NjIxOSwibm9uY2UiOiJYV2lOQktyM2w0M2dVVXNmMS1LVWZaLVMzX1FQYnRneVdPSVFNSTBoV3Q4PSJ9.5URHjWTdL1h99I1siB0Wb42j6PHeQXmk6lpWMbEcqatlO2ivqxrEL3JYJQO5f9zkIf7kZ6w8vyWOHzkRyUCDeQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22l7cf0zajkg8xrxh3g76mm3i5fo3m27%22%2C%22displayName%22:%22o_david19t_j%22%2C%22id%22:%22217955417%22%2C%22login%22:%22o_david19t_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	l7cf0zajkg8xrxh3g76mm3i5fo3m27

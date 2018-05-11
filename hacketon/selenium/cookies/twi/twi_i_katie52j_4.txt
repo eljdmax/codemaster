@@ -1,0 +1,13 @@
+#i_katie52j_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eH0LyJwa5%2FPRRgfRV5c3aEeYhVUlBIz7idXjv9r9Egs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f35d017e6e86632d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217894366%3A%3Armbgunc5pyh8cppqrlbj2d96v2bij3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQzNjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg4NjgsImlhdCI6MTUyNTE3NTI2OH0=.T1bBxQffXvNTOGsBKRtROY8_iEo0h4XiHXCVRMIC1ln5GPolrfIPrq74592ZjKjev9ZindBzs4pfBET-voi_xg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQzNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMDY4LCJpYXQiOjE1MjUxNzUyNjh9.2624HasJGtGuLv7nRnyp9RTmOP_8-o-jk2qCrvm4PTGJ3ueY4Q7ajMiqXr1ELrFyCyn5dcczxLsk5H3LUW3T4A==
+.twitch.tv	TRUE	/	FALSE	0	login	i_katie52j_4
+.twitch.tv	TRUE	/	FALSE	0	name	i_katie52j_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:47:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	75b02455ba16eaa9ca802eb99cb31a46
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imlfa2F0aWU1MmpfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3MjcyNjgsImlhdCI6MTUyNTE3NTI2OCwibm9uY2UiOiJ2VWtZRXEzci1PSUFYT1BuZTB6VWNRUDNiNjZ1NllaWktjejMzSWxvTmd3PSJ9.w1VSZbe-PuNAFa7tsips6Ih3C3nXGW3qdcvEPLgOpj1YH2OLz5UmXoxQO2syxGTJMbrY2vRxwcBUlWsigCWmFA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2264jmvozp04sn6ic2so5qmc1yw9v2ul%22%2C%22displayName%22:%22i_katie52j_4%22%2C%22id%22:%22217894366%22%2C%22login%22:%22i_katie52j_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	64jmvozp04sn6ic2so5qmc1yw9v2ul

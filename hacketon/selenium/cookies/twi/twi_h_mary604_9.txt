@@ -1,0 +1,13 @@
+#h_mary604_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1wToLwKOHHc6U1m2HdkbjeV24BQsrX0zGCrAG3SkaFw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:29:39+00:00	unique_id	c085fc0e6ba8d085
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:29:39+00:00	_twitch_session_id	eb45edb7932a4e32a5bc4b88fcbb5b9a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:30:10+00:00	persistent	216486749%3A%3Ayzzwoatfxffbi3e8ccfi4ckqpwc3b2
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:30:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODY3NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3ODEwLCJpYXQiOjE1MjQ1NzMwMTB9.l1TAsKHdpiBFod8XnlwQwyERSIgOs5AFdJT_Yk__SkHuw1LYsv7Le4ZYU305y0bF1uqyy1dNO1lpj26S-fjKOQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:30:10+00:00	login	h_mary604_9
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:30:10+00:00	name	h_mary604_9
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:30:10+00:00	last_login	2018-04-24T12:30:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:30:10+00:00	api_token	2793cb4df8a33316c099772556f2d43d
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:30:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFyeTYwNF85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNTAxMCwiaWF0IjoxNTI0NTczMDEwLCJub25jZSI6Ikt5eWx0NVhicklQd0drWjF1WDdndTk4emhZUjB3N0lTT0xNU2w2Y3ctcGM9In0%3D.99_XSNSLjor_Fp0tNNJe2Vn5IKZnk5_g9mnpdwbsq6wb7NtqI9eMkRCS8r0uQMALRkA4QhlqG0OMX1qCkqCTZw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:31:29+00:00	twilight-user	{%22authToken%22:%22jd7kk9pcxm7jhmlscjhogzp8le9z42%22%2C%22displayName%22:%22h_mary604_9%22%2C%22id%22:%22216486749%22%2C%22login%22:%22h_mary604_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:31:29+00:00	auth-token	jd7kk9pcxm7jhmlscjhogzp8le9z42

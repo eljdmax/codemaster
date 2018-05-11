@@ -1,0 +1,14 @@
+#e_trinityv89_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	UtyoblUfrbSKe71mJ%2B%2FoFoqJ7KCmn%2Fx4vR49A6Aq5w4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ad959a54b4b36c6c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	04894658d4d16fbd86a1ec8aa2bfd90d
+.twitch.tv	TRUE	/	FALSE	0	persistent	218941062%3A%3Aamwi0vrmrjely2qid65yybub9qpokp
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDEwNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM1NjEsImlhdCI6MTUyNTYzOTk2MX0=.nr6BVR4EDKlrvchM4UiRsY4faYLXGjyrVvrTeIqyNvft2Fw_nnCRXwWing65D3uTEwQTEtg1FvKnDP4H8CmIGw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDEwNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NzYxLCJpYXQiOjE1MjU2Mzk5NjF9.WxzFc03BJAmVkHnmES3y3E7L_PXTWBpt0Jth8VrFXVsogIUKQqkZjLYqdpeUv5AvPDUsrq4lBbYNu93mmBlHYw==
+.twitch.tv	TRUE	/	FALSE	0	login	e_trinityv89_v
+.twitch.tv	TRUE	/	FALSE	0	name	e_trinityv89_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:52:41Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	139fcfe3560c99f86ba99a02d3ed9377
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfdHJpbml0eXY4OV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MTk2MSwiaWF0IjoxNTI1NjM5OTYxLCJub25jZSI6InlsZU5ZbEZkd2lheVlWYkpkUUx1dC1rT21Lb1BDUW9ZTGFEWFkxNmVyS2c9In0%3D.j-S4SU_laKsTAvw0FCFNgw-3DiOQ7OKGoxT-CF8ZChwjDi_KE00YXKrW__9e14nkZ9h-7Zks0EsjdBEjImJUeQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gqeskmgqguodrvdqgwtg1qkceccpav%22%2C%22displayName%22:%22e_trinityv89_v%22%2C%22id%22:%22218941062%22%2C%22login%22:%22e_trinityv89_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gqeskmgqguodrvdqgwtg1qkceccpav

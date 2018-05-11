@@ -1,0 +1,14 @@
+#e_megan953_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	S8jluPAZgac%2FraleCcUhoIhy%2BYSl7vVL377nRz74%2BBo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	923ed757628962bf
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	965ddb541d8fe5b63f900341b07e6a34
+.twitch.tv	TRUE	/	FALSE	0	persistent	217452770%3A%3Asd5zj5bqzll4o5x4r0w5b29uedxer0
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTI3NzAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDEwOTgsImlhdCI6MTUyNDk5NzQ5OH0=.s0-7JtUIdQCq69jUs6Lx6BB29uPgJDMCtxIl5lso_bJIhYbqehBAqFEcDRj27ByTJ9Dk6DJ4F-LNFF8iz2jtMA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTI3NzAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAyMjk4LCJpYXQiOjE1MjQ5OTc0OTh9.lItpgtc_B_cTS88FPGFlvAD1rxqDxuoxTPIpu5KFppSgOk6S_H-A91waiG-mfcUdkibUoSyk9Uud2QEy7VKb-g==
+.twitch.tv	TRUE	/	FALSE	0	login	e_megan953_y
+.twitch.tv	TRUE	/	FALSE	0	name	e_megan953_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:24:58Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cd68922294d1d65676c377510d293f59
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWVnYW45NTNfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDk0OTgsImlhdCI6MTUyNDk5NzQ5OCwibm9uY2UiOiJDelh0SnI5bjU4ampOZ0RMQUdYVUJCbFh5aFZxZjB4WVhMWjNyd3hHd3hjPSJ9.R9bmC9sFMOSMScmT8ng3aymAw-A1ih6wYMc0zprRGMNRehR1BoA-Ca_6D-GlfMFcocO8jDyir5nkDPsbFXhZKQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22e0csav7xajugkqkfafuawl6mw2uhp8%22%2C%22displayName%22:%22e_megan953_y%22%2C%22id%22:%22217452770%22%2C%22login%22:%22e_megan953_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	e0csav7xajugkqkfafuawl6mw2uhp8

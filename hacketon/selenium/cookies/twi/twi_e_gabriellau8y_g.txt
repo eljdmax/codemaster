@@ -1,0 +1,14 @@
+#e_gabriellau8y_g
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	E9V0zVU7szIiNcHYabmFl84Jf2cNne%2B%2B9m%2BWtV0ai4I%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c845c56edf6bac1c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	31e7f991e50f056da93a174332ea30ab
+.twitch.tv	TRUE	/	FALSE	0	persistent	217938200%3A%3Az8jcy0zrpmzzitilk046uelhaetvby
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzgyMDAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQ3ODksImlhdCI6MTUyNTE5MTE4OX0=.UPlzwSw06_-e-_DTTrBs9dvWZQDkf0eb77bgqAC_F2uNnbmyJ2JdB6IUqeFSEOPNYTAoEJcd56bmz6tUeRm_Gg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzgyMDAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1OTg5LCJpYXQiOjE1MjUxOTExODl9.Jz6HYRMeF2_Utyf2Eqd_PXe9Xk4cSnuu0ldxVcT5DQ-KGx5q6vZx-a8yPLePdXRSp3-JSJeZHNPOfecVYXsUSA==
+.twitch.tv	TRUE	/	FALSE	0	login	e_gabriellau8y_g
+.twitch.tv	TRUE	/	FALSE	0	name	e_gabriellau8y_g
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:13:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	2002f1d0f778951fbfeec86389acbf12
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZ2FicmllbGxhdTh5X2ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQzMTg5LCJpYXQiOjE1MjUxOTExODksIm5vbmNlIjoiRUNqWC1vX0Fhc2UzdlhaZ1RVdDlwNHJvV19SQVdHai1BUDdfMUE1elVMOD0ifQ%3D%3D.mUJfwHxowpBE5tdpoqSGhFgdYxMv1d3Q6Hw09oKViRhebQP9zpZCKulSrovpdAyxbjDcHsI-zCdOn1jMk20GmQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22n7qoynt408ja1rijj6wdh2n670esod%22%2C%22displayName%22:%22e_gabriellau8y_g%22%2C%22id%22:%22217938200%22%2C%22login%22:%22e_gabriellau8y_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	n7qoynt408ja1rijj6wdh2n670esod

@@ -1,0 +1,14 @@
+#r_vanessa962_2
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5820ee6f5a9cf0d5
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	203f909a1cee6f11f3f8c8251fe07627
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	30CQ0m1OdvwaEguf1yXfDloysPdzo5Jl51c82RDjSPs%3D
+.twitch.tv	TRUE	/	FALSE	0	persistent	218846913%3A%3Ahnzmednnfp1lzb59ihkn0w3c0wjszb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDY5MTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTQ5NTEsImlhdCI6MTUyNTYxMTM1MX0=.QFl5r2clOATOPQHKYUMUKFDzD649LHHVre7QPv-QwlS_Cs7r1OzAgLOHcdnfKM0YdryKpt0_7t-y5rDhsAZMaw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDY5MTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2MTUxLCJpYXQiOjE1MjU2MTEzNTF9.jgM7tfYHY28SUGyrsG8n13qvHINLSwUpbj3GKedlijLN62LyahGHnlZXXWTaKzaahO-zRp9WlK4RDo5hWccGnA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_vanessa962_2
+.twitch.tv	TRUE	/	FALSE	0	name	r_vanessa962_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T12:55:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b9f2b77a053c9afb6770c6e5ce41cd6a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfdmFuZXNzYTk2Ml8yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2MzM1MSwiaWF0IjoxNTI1NjExMzUxLCJub25jZSI6Il84ZWg1blF6aDZ5bTI0NXNCOUN0czZXODlvRjRtZnU4ZVZwNEVDVWJGQzg9In0%3D.GAzT3xEJbm0GDTfpHdhCtyXLWTkrEOiEoWovS6UiFPFY1BpS9WpSmW6E7XOCepWDLEI3D9CrT4bdavrCzMJM5Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22nu3j01acbhmil23yhs3ca0louel407%22%2C%22displayName%22:%22r_vanessa962_2%22%2C%22id%22:%22218846913%22%2C%22login%22:%22r_vanessa962_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	nu3j01acbhmil23yhs3ca0louel407

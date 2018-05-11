@@ -1,0 +1,13 @@
+#f_zoeyx8y_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	JglTk1LbP4vk3DEmJbudrOIM96PVym5xyJQ%2Fd%2FDA4Z0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4e648210748d3812
+.twitch.tv	TRUE	/	FALSE	0	persistent	217562159%3A%3Asj9f0zah79jzcbaz7v06w6spo0gtw1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjIxNTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzYyMDksImlhdCI6MTUyNTAzMjYwOX0=.YCL-Y3a99rJcfRSsefQMqRSI45yJJzIdIATpIl5uQUk_6NycYi-ZH654uz7DDK1OJ1EiJAXWCx7_W8p0P7klzQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjIxNTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3NDA5LCJpYXQiOjE1MjUwMzI2MDl9.FaLOPEzH4ipMmuW9Y9qmqzYwpN5qTB4D-b7sangv5B-jF4J6ULhFldvcXC7Xidie5q2Bk4B2RVPBCxUH9BYqQQ==
+.twitch.tv	TRUE	/	FALSE	0	login	f_zoeyx8y_m
+.twitch.tv	TRUE	/	FALSE	0	name	f_zoeyx8y_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:10:09Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	00bda9dcbd202be1dd2cc04927b6c6e7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfem9leXg4eV9tIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDYwOSwiaWF0IjoxNTI1MDMyNjA5LCJub25jZSI6ImY4LUR4NXlJWUUtdkV3WEhvckdhUFl5RFBERnBmMjRrOVBobFJZRVBGZms9In0%3D.mrQMt5TouZhenDm12v-l949242TZTL5G8N316zbcDVL07yVN8Ru54LNFjadLBJZ8hImDFdWfZT9XeaCG9VLyjQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zrzimuu1iss7sk8wmv9j2a2jnn0ymt%22%2C%22displayName%22:%22f_zoeyx8y_m%22%2C%22id%22:%22217562159%22%2C%22login%22:%22f_zoeyx8y_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zrzimuu1iss7sk8wmv9j2a2jnn0ymt

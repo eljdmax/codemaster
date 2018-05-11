@@ -1,0 +1,13 @@
+#o_mario72w_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BvfpiJiquiQir7t7RWOLZco4gX6%2FWtAxld5tPcM2%2FSA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:03:34+00:00	unique_id	5decf2a15dc1ca00
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:03:34+00:00	_twitch_session_id	9b11d0c9c65460f1b3998b298771ea80
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:04:00+00:00	persistent	216142468%3A%3Az71r1jo6btxnfnagam37rakzoyubmc
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:04:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDI0NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5NDQxLCJpYXQiOjE1MjQ0MzQ2NDF9.C3yBAmaJH3smM_6Mh9uRcKvAfNio7lz9P7aFqtdMVzhz15pRZIf2-6CLBM-uD8Jimvs8Mj2l2dIir1dnzgW0pw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:04:00+00:00	login	o_mario72w_9
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:04:00+00:00	name	o_mario72w_9
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:04:00+00:00	last_login	2018-04-22T22:04:01Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:04:00+00:00	api_token	fc9733cb5fc2970cda6a21aa021c1dfa
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:04:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbWFyaW83MndfOSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODY2NDEsImlhdCI6MTUyNDQzNDY0MSwibm9uY2UiOiJlU0w3cHZRdk1qZDhEM25KZm9OSnBqNldndVp2VTI1WTJCMWtFRUdkdF9jPSJ9.j8vu16ihorlLquOH_1TdAU8AJmpzQ2iterQuiPgYNvYxoRX6tvgpmc9f4fFtIPgv_u2hfOJnXeUzOxifBOILGw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:05:13+00:00	twilight-user	{%22authToken%22:%22hpri4yfycn0z1rqm8pwlvtk5d5k3us%22%2C%22displayName%22:%22o_mario72w_9%22%2C%22id%22:%22216142468%22%2C%22login%22:%22o_mario72w_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:05:13+00:00	auth-token	hpri4yfycn0z1rqm8pwlvtk5d5k3us

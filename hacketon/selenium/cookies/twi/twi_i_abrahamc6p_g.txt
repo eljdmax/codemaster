@@ -1,0 +1,13 @@
+#i_abrahamc6p_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XzDwWE%2F7ptpnvgGTP7vrA7S8vJ9kuqt453FqVhwv7c0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:37:36+00:00	unique_id	1eaeab520a95ff06
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:37:36+00:00	_twitch_session_id	452ab136e048fd68ecd472fb2f1f5602
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:37:52+00:00	persistent	216936288%3A%3Aj4bqan8jb1i70owic6cfzqk1ummgz0
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:37:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzYyODgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5ODcyLCJpYXQiOjE1MjQ3NzUwNzJ9.r9ElJXaViPLkewAnGzNax1_bZVG-4ssulNmPAVIZypNFXTeqk6fBezXCxPcXfElXyilWRaItiGaeA_fUkZM6NQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:37:52+00:00	login	i_abrahamc6p_g
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:37:52+00:00	name	i_abrahamc6p_g
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:37:52+00:00	last_login	2018-04-26T20:37:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:37:52+00:00	api_token	d0b4c29c830a3a39976289a12449d9ad
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:37:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfYWJyYWhhbWM2cF9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNzA3MiwiaWF0IjoxNTI0Nzc1MDcyLCJub25jZSI6InA0UVFSUWJQZGoySm5FU0JiNVBJblI3U3ltVjlaYWdnWGxFSE1sTEh1Z1E9In0%3D.8PtequfQbiasVhtkuY4CJzD8BzP0kOvAOK2PKrAikeyejPOeSRDv87RidE-b44Tu6-dqxYdV8uYoOxUi0bYU0Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:39:23+00:00	twilight-user	{%22authToken%22:%22beszkp3e7ta3xehpp09vvy440lad49%22%2C%22displayName%22:%22i_abrahamc6p_g%22%2C%22id%22:%22216936288%22%2C%22login%22:%22i_abrahamc6p_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:39:23+00:00	auth-token	beszkp3e7ta3xehpp09vvy440lad49

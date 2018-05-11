@@ -1,0 +1,12 @@
+#f_kalebg7w_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	bDvpSb9Z3uC8maPjYDveSn2dAYx6THrwV909UQatSlI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:10:33+00:00	unique_id	3ef7497f969c65e4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:10:59+00:00	persistent	216484702%3A%3Aol77lrxninlpz4l2rgaym20513kek2
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:10:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQ3MDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NjYwLCJpYXQiOjE1MjQ1NzE4NjB9.9S0pfUFmCs8fSxlH6m4PjKo--ZacLmHsP4GQPvpM1QYIIW13NjBMpZPo8DBv9QW_ZoHrcw8Kx7_Hnj6TO277yQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:10:59+00:00	login	f_kalebg7w_g
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:10:59+00:00	name	f_kalebg7w_g
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:10:59+00:00	last_login	2018-04-24T12:11:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:10:59+00:00	api_token	17eab57ee41e34622e8f35c6f796bfce
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:10:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfa2FsZWJnN3dfZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjM4NjAsImlhdCI6MTUyNDU3MTg2MCwibm9uY2UiOiJ4X2xEa29lRFZLVHJfY2NhY1hOQjlBQ1lhcm1yTVQzVTJ0NkdtakM5d1lFPSJ9.mdk7Px1seuxmM-hVR7h4oMUF96RX5jmCY10G3PvVjv3V7sT3YEIk8mSm_iEO7c0KvXtaDRcwhe4HqpZ3iS32rw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:12:29+00:00	twilight-user	{%22authToken%22:%22cka2ayv8rwkoyvonjre7c63p0z8wdv%22%2C%22displayName%22:%22f_kalebg7w_g%22%2C%22id%22:%22216484702%22%2C%22login%22:%22f_kalebg7w_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:12:29+00:00	auth-token	cka2ayv8rwkoyvonjre7c63p0z8wdv

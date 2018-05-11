@@ -1,0 +1,13 @@
+#f_jeremiahn3f_y
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ1NzQxMzgsIm52IjowLCJ1cHQiOjE1MjQ1NzQxMjgsImx0IjoxNTI0NTc0MTI4fV0.
+.twitch.tv	TRUE	/	FALSE	2028-04-21T11:52:07+00:00	unique_id	hzxqxoQcVn1pt9wGwCOsuMFHlXLZsZsa
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Xs58RErJrFjlTtlxy8vvyf%2B40fyZ0n%2FVH%2Fy72u%2FCHOc%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:56:51+00:00	persistent	216483335%3A%3Ak26cuvuxeq1uaqcxj7bkhlx6lpt96a
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:56:51+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODMzMzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1ODExLCJpYXQiOjE1MjQ1NzEwMTF9.q5dVXblkQuqAmuXTdxGO2R6nl_EunJpNuSRWMwZ2bI54lQACW355D49zSd9_nBehiEUZhwuoODeTFM5MgqFMrw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:56:51+00:00	login	f_jeremiahn3f_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:56:51+00:00	name	f_jeremiahn3f_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:56:51+00:00	last_login	2018-04-24T11:56:51Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:56:51+00:00	api_token	d4c05f83a15cc3cee9965d9b24840007
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:56:51+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfamVyZW1pYWhuM2ZfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjMwMTEsImlhdCI6MTUyNDU3MTAxMSwibm9uY2UiOiIxOWRXandFSDRhTFVXbVhtN09oeXlHbTF2YjVnZFlYTU5URHR6a2ZMU0ZvPSJ9._zqwaidAR0FPT_UnnhdhmVc_Eq-x_2YFIlTtMrYDANRv01YhxKIgPhV1K5WEptXi4WKBIw_o46pyn7eCbAJfyA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:58:09+00:00	twilight-user	{%22authToken%22:%22eixf8f85mfr3xyrd8eiqh3zxsshcl1%22%2C%22displayName%22:%22f_jeremiahn3f_y%22%2C%22id%22:%22216483335%22%2C%22login%22:%22f_jeremiahn3f_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:58:09+00:00	auth-token	eixf8f85mfr3xyrd8eiqh3zxsshcl1

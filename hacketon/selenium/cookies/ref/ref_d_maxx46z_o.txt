@@ -1,0 +1,17 @@
+#d_maxx46z_o
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	j0yjFYiwUvXtfr_6tQ3wvIUVufBBPnDzx6oku1jjlbjq-GYoGIngZMi1EbhbtFsqA3MNv-pvJRCFOJ4_vXODv0Q6QVJHmFm2ZN9fc_9UPpk1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	tbiqtenvpu3xrgg4vqnid240
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	tfrxCge7vkyNnOlJy27iSCyxzQGhA1mhp_EFDrGwU_dQeq8xztgHSbJ8XzHPOBowOanAew3G-snoI9ESzqsgdsQFr3uPgwBnxZr-9qXGS-zRancnoLL41lumh7LywLbU4Hp9MJxtvzePx_CFYUz6FuK7wWKiF9AONYn02b4t4nLXSxSrBvKXBL2NRm7worU1arrxdBRzRBsOJe3vMODQ3eul-h4gy3ec15STU4P0-Rc3SB4d78piKmqcRpXWt6sGPlIfoy4sDbGnXB_92EVEyMzpFwiUaCKXPISi9K-mkKmqsABkWFsRBBblcy-6XTixU5EvnzjdeHLAtSkxrj4XwMejli7TpzfRm5mn_xmaXOmAbDqHK0-ReQognkhJf0pcgyM9xdo8lfRs1onlDL-kbLKi0j1fiiL3g94OH1rKZfKUbEby5e_j-y20qwE5PAk278TrP0FeF47BKnt5C8w-WStOWL94jWxkaXQvmDHYzJMxktRHzvj-webXUXpRO-5C
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1540865292.1524828605
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524828607043%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%225985600358544049%22%2C%22sessionId%22%3A%228433206166823547%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+refereum.com	TRUE	/	FALSE	0	ai_session	1defI|1524828611050|1524828641294.35

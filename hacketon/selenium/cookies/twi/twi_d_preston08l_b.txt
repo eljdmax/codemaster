@@ -1,0 +1,14 @@
+#d_preston08l_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4p2jCo5YVNuzOrYuk5L9f0deW%2BwpxIWOexjNipGB%2FvI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d8a6a703bb9e4815
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	178d04413fd58390d6d49d7836ca5fc4
+.twitch.tv	TRUE	/	FALSE	0	persistent	218877855%3A%3Ao45iy6dhuvk89zslu1sahgnijhccik
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzc4NTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjU5NTgsImlhdCI6MTUyNTYyMjM1OH0=.jSjfPVxJ2k20-gex18YHgqwx4xoOeDwBzYvEe-XYrcFFpqFV3VPJTQpy2XHQmxE5avaKNG5N1zs8NRURDCTlOA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4Nzc4NTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI3MTU4LCJpYXQiOjE1MjU2MjIzNTh9.5AXB-daGD-8LZG2bsiAaYDaNhFAPROhDaGlTTpUfuBiMvu_Rx89j3ZHU46LQok2DrypMaJK0nCKCMsGVlY5UoA==
+.twitch.tv	TRUE	/	FALSE	0	login	d_preston08l_b
+.twitch.tv	TRUE	/	FALSE	0	name	d_preston08l_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:59:18Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	da673a8685dca2ba927245153271faf6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfcHJlc3RvbjA4bF9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NDM1OCwiaWF0IjoxNTI1NjIyMzU4LCJub25jZSI6Im13MUpYbEJQVnhieVN5ZU9RR0JjUVNCWFVKT1pjcncwdHdaRnQtLV94NWs9In0%3D.prIsGRuBBSzYZiZiQWtxxpoYNewNCRLp1YPJ1wNenSS7QUPstQa5zGjMhSz31gfhmU09PjfiLZrfzrzgsaQJZw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22j8bj5ydtqcaylyvdun17tnwuu5fq8k%22%2C%22displayName%22:%22d_preston08l_b%22%2C%22id%22:%22218877855%22%2C%22login%22:%22d_preston08l_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	j8bj5ydtqcaylyvdun17tnwuu5fq8k

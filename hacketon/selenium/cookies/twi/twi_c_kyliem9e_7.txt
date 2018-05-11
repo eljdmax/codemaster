@@ -1,0 +1,13 @@
+#c_kyliem9e_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	GQ0nJAPS95B0MFI12BlEFRaLlFqlYB4WFeOuzHgFaxQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:58:53+00:00	unique_id	c6ab7b8f9ea4980a
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:58:53+00:00	_twitch_session_id	676468e4fe792c7db69a8ade00376e99
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:59:29+00:00	persistent	216483565%3A%3A39mmdixa8w6q9v42q6vbhsln9zv2rb
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:59:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODM1NjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1OTcwLCJpYXQiOjE1MjQ1NzExNzB9.6i9NM-9dzgWTqTfIuUVZ6tAlcmJhKVSk127yUdl5L56wAQVnUbsfBDZDqKfjjMAcL5aVTWsgE6rFPIkEWzXuOA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:59:29+00:00	login	c_kyliem9e_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:59:29+00:00	name	c_kyliem9e_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:59:29+00:00	last_login	2018-04-24T11:59:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:59:29+00:00	api_token	83e48527e2f0eb0df802972132b369c7
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:59:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfa3lsaWVtOWVfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjMxNzAsImlhdCI6MTUyNDU3MTE3MCwibm9uY2UiOiJxWWZfN2VpdHktS2lIZXFxQzBjb0UwZmc5eVhNTU11M0JBYW9xZUZURnpVPSJ9.9DXVydJvGpxmq35L9lBa9HoyohdKtFYUkOTNtODfoCybTqNe-CK8jbAbGjwoxghI4Dumm-4C7ZRN83Bt1AcyUw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:00:48+00:00	twilight-user	{%22authToken%22:%22hg8pp4gzxaln8ekajjdi7gvtcw90yu%22%2C%22displayName%22:%22c_kyliem9e_7%22%2C%22id%22:%22216483565%22%2C%22login%22:%22c_kyliem9e_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:00:48+00:00	auth-token	hg8pp4gzxaln8ekajjdi7gvtcw90yu

@@ -1,0 +1,13 @@
+#f_victorn8g_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	w9jMYQFvER3iP0rEHoSDlDsq25qGwkPC3eNjedcCdMs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d34aff58b57f1a29
+.twitch.tv	TRUE	/	FALSE	0	persistent	217556463%3A%3A7rbawe2ojob3dxcodh69wqsjjw8u8o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTY0NjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQ3NTQsImlhdCI6MTUyNTAzMTE1NH0=.cxlSSxcPMtm-CAayMnJ1BNfwubgvN_unPoS2Joq1Wd-AMl6oxOLWxasquQ4OLcfBIO-KwRrfdpzLyXUzGklvlA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTY0NjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1OTU0LCJpYXQiOjE1MjUwMzExNTR9.ymr5bF47HC_mwCbWyvKFiCNabWMsuIo5QXogb7h5B7Y8Zl962MU0zGMMnflAieDagx-3Sl15ETOLfoHvPoU3QA==
+.twitch.tv	TRUE	/	FALSE	0	login	f_victorn8g_9
+.twitch.tv	TRUE	/	FALSE	0	name	f_victorn8g_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:45:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f31892fe359d230cdb97fbd94f583cc2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfdmljdG9ybjhnXzkiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgzMTU0LCJpYXQiOjE1MjUwMzExNTQsIm5vbmNlIjoiVmozVUd3LW1mT05ncGE0eS1JSjRzUDlfOUcxYllKNmxuUGRha0lMTXdTWT0ifQ%3D%3D.s1YhS6U_4ZTgq2scjnvDBd5C_IEP-t8VOYD2BS-8SXqel4nWKu1qyzA0AYfIbZLfAatqobfJLJt8ZrI9i16ZLA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%222g1n56pa2sdl59lebjdbqlso8h0c5o%22%2C%22displayName%22:%22f_victorn8g_9%22%2C%22id%22:%22217556463%22%2C%22login%22:%22f_victorn8g_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	2g1n56pa2sdl59lebjdbqlso8h0c5o

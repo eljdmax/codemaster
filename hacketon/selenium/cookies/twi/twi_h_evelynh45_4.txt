@@ -1,0 +1,14 @@
+#h_evelynh45_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GFHVhH5p6sv%2BSI9879tjTc3JVjPdqo4A2ksPK6tCv3I%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4edcba03573b1f02
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1f8b61f47a5b02ff0037d3fcef6e0a7d
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031309%3A%3Aif6689gx9dpeidiyp7pfqkcm0ivkon
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEzMDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTEzMTgsImlhdCI6MTUyNTY4NzcxOH0=.oQp_W4dkztYQPzEGISuffN0xyewFo-Rr41a7uk6QwfjDcgJoyiRNoSbXTRCKKEoV6vDp_7fL0vdcaSGTCtGm4w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzEzMDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyNTE4LCJpYXQiOjE1MjU2ODc3MTh9.XJGiiPj69HgOhOA6l70d6UpX1pnFVWv7hC3ORI0uv7cTxpCdvfYBdHlh2iJdvakJRWZRubte2HyiOl30cnDihA==
+.twitch.tv	TRUE	/	FALSE	0	login	h_evelynh45_4
+.twitch.tv	TRUE	/	FALSE	0	name	h_evelynh45_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:08:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4ed48251f3d00fc495ad312d896012e6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZXZlbHluaDQ1XzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjM5NzE4LCJpYXQiOjE1MjU2ODc3MTgsIm5vbmNlIjoiVlhySHQ0MDNISEprOFNNaExOUU5Cc1ZwN3BCUTlBdXdtTndSVmgwRU95Zz0ifQ%3D%3D.Qba1N-0XkhfAcmexguLAYsYQValmI9xN9862k5_YzOK_D4PV73rCR8Uc0b4JUVzdgTzgg78WCrRahXdpbrenlA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m9hmi9rqs3z9ujj0re516z7t9jk2ml%22%2C%22displayName%22:%22h_evelynh45_4%22%2C%22id%22:%22219031309%22%2C%22login%22:%22h_evelynh45_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m9hmi9rqs3z9ujj0re516z7t9jk2ml

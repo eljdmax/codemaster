@@ -1,0 +1,14 @@
+#m_derek83o_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	2%2FvwfDrHWrJXdDihOp0moRXwUIoFZSuUUa7ycQ%2F8AEE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7452ddf459c16c55
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a3df53689f72e1fd2eb879e8727c2e4b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218848355%3A%3Ajbzxz4b5iskrqvol9i0dt6ic7sbct3
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDgzNTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTU1NTksImlhdCI6MTUyNTYxMTk1OX0=.KDb9qYEWlRE0_I85unmmXOKVC8gZUUUIr1J1-y9OEtij_16dvOTtQFx21-OBfbuNj6sXuxUUap7f_cBrLtv-lQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDgzNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2NzU5LCJpYXQiOjE1MjU2MTE5NTl9.v1WQMd2xs3lPa7VGAP3buscGfwpPwx_yH4FUP0YLbSpfRhpGGlySs6Jmms5bgk8YxTlUeq-e2oKTCPhURLm8DA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_derek83o_n
+.twitch.tv	TRUE	/	FALSE	0	name	m_derek83o_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:05:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a014260c9ca1ef16832861ddc1637ef3
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fZGVyZWs4M29fbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjM5NTksImlhdCI6MTUyNTYxMTk1OSwibm9uY2UiOiJjbGxqalVrRVYxYkVFYlV3a3h5dDh0Z1RWTDZfLVJtWkk4UmhZdEtudl9jPSJ9.ypxrZYyGeu0KSi80njKuI60M3UFgdvCiRgQo1byN3ebooSXX4Ohm0QG1U8iXa67Mgvi3xkkUWfXg_IzPYjQG0g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2285ngsfbj2sej3whyjjmuh2t8hv8qot%22%2C%22displayName%22:%22m_derek83o_n%22%2C%22id%22:%22218848355%22%2C%22login%22:%22m_derek83o_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	85ngsfbj2sej3whyjjmuh2t8hv8qot

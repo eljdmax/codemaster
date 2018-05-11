@@ -1,0 +1,13 @@
+#l_margaretv9b_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	%2BEEidb3amwYGFrUziZdtvzgVTAKilzGWfUIaeSo487M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c1962bd649efdba9
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031993%3A%3Aofug4lan0ig4m6of1dquk4u3f082yo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE5OTMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTE5MDksImlhdCI6MTUyNTY4ODMwOX0=.AtCTguhSxHLpEhbqWtSkZ2EO3Wp_GN3GEp7mfY6KtNFads8yA9A5tzupZDy05uMwZRDV62yXa77QRl3a1gY0hg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE5OTMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzMTA5LCJpYXQiOjE1MjU2ODgzMDl9.MaPuTRWRDAMGoNuk5GuPNBvSbJACF70A5WNAv7fpBpYCgpfaB4x9SRn6WlL8joPQzpKvMd0_-66-8AqbqVSe6A==
+.twitch.tv	TRUE	/	FALSE	0	login	l_margaretv9b_6
+.twitch.tv	TRUE	/	FALSE	0	name	l_margaretv9b_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:18:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fad15a2950a8d6eec032441206af6abb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbWFyZ2FyZXR2OWJfNiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyNDAzMDksImlhdCI6MTUyNTY4ODMwOSwibm9uY2UiOiJuUlRHZHJQVUE4RFFpNkkwQnZ0aUZUR2x3dDc5bXZVOXZjRXZMRXBhc1M4PSJ9.gLmIpwtKBYEFWtF8gY7rn4GMe8gz_4WYE6z4bz3sj5nDJTVAZIUCTE2ENYaxED-hozMuNV0_bsqlkgiDAWp7HA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%2219am00uc7xzt68veb45kitwhs9m5um%22%2C%22displayName%22:%22l_margaretv9b_6%22%2C%22id%22:%22219031993%22%2C%22login%22:%22l_margaretv9b_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	19am00uc7xzt68veb45kitwhs9m5um

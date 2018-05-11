@@ -1,0 +1,14 @@
+#k_chloej49_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	XhKr3X3%2BaHlqrYYaUb0C2dlWaM%2BD%2Fs%2FakLmbKVVlOUo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	edafccb075dbb1a3
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4baabecb1675531b9083814d077e9734
+.twitch.tv	TRUE	/	FALSE	0	persistent	218956431%3A%3Alv0l1nhivj2xnojfyy1h0qe8m36e3t
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTY0MzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDg4MTMsImlhdCI6MTUyNTY0NTIxM30=.ql8XfHtgMbPyviZLYa8xHnt1GMw-gKNO8ZBwgU6TSRHTjdZ25CiCP8crS6Wvv1OAHs9u8Pur2rVAbVKkCOq7Mg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTY0MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwMDEzLCJpYXQiOjE1MjU2NDUyMTN9.E4S2C907NCyNOzp2oTOGohzoz0zAKHVJtVWhPzxCDoqzJ0zNCKUEtNSkkGbDTwJf8vusvSfXOdzUQJ8_ZXGXkw==
+.twitch.tv	TRUE	/	FALSE	0	login	k_chloej49_8
+.twitch.tv	TRUE	/	FALSE	0	name	k_chloej49_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:20:13Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	53476be766b813c668976d1ad2c7d879
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfY2hsb2VqNDlfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTcyMTMsImlhdCI6MTUyNTY0NTIxMywibm9uY2UiOiJ0cHE4SEJZdEc5NEdGMjE2Wm5Fd1h5eEdnRWZaZnJ0Wnk3WHBKcFRmY2d3PSJ9.B3GeS6hrIVVxF8zzOrR8bC2jln6REjXez72gJkRLBUdWJoA_WT9LTU-8bhQxtT8IGQdt5ps8Be0kY6Q6hOS5Gw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22obblzjcc4q4oo7jdcqnn90996udwla%22%2C%22displayName%22:%22k_chloej49_8%22%2C%22id%22:%22218956431%22%2C%22login%22:%22k_chloej49_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	obblzjcc4q4oo7jdcqnn90996udwla

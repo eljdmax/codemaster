@@ -1,0 +1,14 @@
+#f_brandonp6b_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	qgP5t7DYohmV5imvKacCpH%2B4gULeH7YF2bm7889OaE0%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:52:32+00:00	unique_id	1ad46e6e1ac3ada0
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:52:32+00:00	_twitch_session_id	9145b3996beb9b7e9683db66c37ef963
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:53:07+00:00	persistent	216489284%3A%3A0hlfzshep1sfcjxuaaodo1e5yqoobv
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:53:07+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODkyODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5MTg3LCJpYXQiOjE1MjQ1NzQzODd9.HCGDCSxeSrwRl6tkdmmOydHxzYJr0ecyGwDyS9Jnk-XD9XlWe2clx2hlF0BaaxD0OoBn3fTBC3l5fI-tiNKRug==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:53:07+00:00	login	f_brandonp6b_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:53:07+00:00	name	f_brandonp6b_c
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:53:07+00:00	last_login	2018-04-24T12:53:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:53:07+00:00	api_token	2ed38f99142fc7fd441fac9967c3d5f5
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:53:07+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfYnJhbmRvbnA2Yl9jIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNjM4NywiaWF0IjoxNTI0NTc0Mzg3LCJub25jZSI6Ii1PMm5rbU1UUVVFTjA0cDY5OXJMUW9JTHFiYU8ycjhIcWkzNTBodEhEVjA9In0%3D.psJlFZTDLMeJpFkL1uVEVTm8ph5_4yR_QjFkkKMhUVmOePP3qJ3uX1ccat72wzCR2ZIti2FgqQJC1lQaFnQGmA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:54:27+00:00	twilight-user	{%22authToken%22:%22pfix6u9p398h8a57s53jklqq5h5gkd%22%2C%22displayName%22:%22f_brandonp6b_c%22%2C%22id%22:%22216489284%22%2C%22login%22:%22f_brandonp6b_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:54:27+00:00	auth-token	pfix6u9p398h8a57s53jklqq5h5gkd
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:54:28+00:00	twilight_onboarding	true

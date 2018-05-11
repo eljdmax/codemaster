@@ -1,0 +1,13 @@
+#t_giselle30v_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9vOYIN3iwMCHpwB%2BeM54efiIpZczMPvujO8616UaKEA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:09:34+00:00	unique_id	90b9286cdb44ce3c
+.twitch.tv	TRUE	/	TRUE	2018-04-27T09:09:34+00:00	_twitch_session_id	d65db40c31e77800bf9d2a9934c21200
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:09:56+00:00	persistent	216941997%3A%3Aiz1zagekjzt6wd4kw6badklnihufsr
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:09:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDE5OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxNzk2LCJpYXQiOjE1MjQ3NzY5OTZ9.ewGqtgFED9TmRRGFJACPWnFV_4SLxiMBaXnoGygLN6RnuITP0KjJpJdtLf7I9_0xZ-3KGPz4FhoebWOnhtjXhQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:09:56+00:00	login	t_giselle30v_w
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:09:56+00:00	name	t_giselle30v_w
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:09:56+00:00	last_login	2018-04-26T21:09:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:09:56+00:00	api_token	2b48cdd82f405402ba60ed195f117075
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:09:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZ2lzZWxsZTMwdl93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyODk5NiwiaWF0IjoxNTI0Nzc2OTk2LCJub25jZSI6IjY3U2ZoZGpsSVBZTVEyOV9fWU1wb1gxWlh6Wnk5NThSQXl2XzczbWl5dnc9In0%3D.RTFQWSdHIqZnZsMR7ALd3g5MIg5c_JWImchynJpkDJSKOi7FuNzuR2iYi6hf1owZ78S1flLqXY9a-6JuMCZ3Yg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:11:28+00:00	twilight-user	{%22authToken%22:%22p78ndd4wjdube58qsornp58ruddck1%22%2C%22displayName%22:%22t_giselle30v_w%22%2C%22id%22:%22216941997%22%2C%22login%22:%22t_giselle30v_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:11:28+00:00	auth-token	p78ndd4wjdube58qsornp58ruddck1

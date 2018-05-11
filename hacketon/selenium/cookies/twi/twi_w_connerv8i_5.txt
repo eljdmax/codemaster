@@ -1,0 +1,12 @@
+#w_connerv8i_5
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	AXD4%2BzHCOCSd5Js1aRg37d%2BBl2NmbkUx8ZFb%2BaZlMhc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:55:59+00:00	unique_id	aeb26550b9352c5a
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:56:20+00:00	persistent	217558825%3A%3Az4xeuv900eftiyhndh8fuby7gf13zd
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:56:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTg4MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NTgxLCJpYXQiOjE1MjUwMzE3ODF9.dQjxJNWTcd-E-gEQ8s3PEVmEUyuppqSJNQyULbm7Kn9l5fFeMmIamO5oV0L-CQUA1qD2XV3bwXskSPITU5WMjw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:56:20+00:00	login	w_connerv8i_5
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:56:20+00:00	name	w_connerv8i_5
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:56:20+00:00	last_login	2018-04-29T19:56:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:56:20+00:00	api_token	af51f2d2cf1d30e618e44c3148e5596b
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:56:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfY29ubmVydjhpXzUiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgzNzgxLCJpYXQiOjE1MjUwMzE3ODEsIm5vbmNlIjoiTTI0WE1QbUQxY0FIMFN2SVdLb0xEWk11aU1RWjh3dndOVFBHOXhpcFJ4dz0ifQ%3D%3D.fgEcHVSS-akBOoh3jPrQrbYLt2P7Xrn2eQQkTCIhm6Lvmjg_LzV8ZGVcHYtnPoaubidqG2V2qshDX9m60d1Sow%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:58:05+00:00	twilight-user	{%22authToken%22:%22et3tkm4if090i2rh3odxxwqxg1ybwk%22%2C%22displayName%22:%22w_connerv8i_5%22%2C%22id%22:%22217558825%22%2C%22login%22:%22w_connerv8i_5%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:58:05+00:00	auth-token	et3tkm4if090i2rh3odxxwqxg1ybwk

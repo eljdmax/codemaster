@@ -1,0 +1,13 @@
+#l_ivan55s_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	bly4U7yH0CBShnZYkC4lv9v2KXoAq1rTVotaAyrCoI8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	f98ec7b243b8b053
+.twitch.tv	TRUE	/	FALSE	0	persistent	217894561%3A%3Aaouh1ylggmszy9ljphanu3ir9uh4v9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ1NjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg5NTksImlhdCI6MTUyNTE3NTM1OX0=.Wv4xn0QRUx7NJwK9lmlJbYtPXMVRJ7Pic_gUdiEVm2pibUVtuvta0ROmm269ID9OhYaYMZ-aJYVEybwdgqXCYQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ1NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMTU5LCJpYXQiOjE1MjUxNzUzNTl9.stq26FRmRl4Vr9qmx1ArECkBmjaDJyfsat1tEBlzEf5HtgR6EZIdS8l8Vc7FyS6f0HzSfbhNTiD_JDerHFoNTA==
+.twitch.tv	TRUE	/	FALSE	0	login	l_ivan55s_e
+.twitch.tv	TRUE	/	FALSE	0	name	l_ivan55s_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:49:19Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6d96cc4dd7bca56eb934b5ee2b544a13
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfaXZhbjU1c19lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNzM1OSwiaWF0IjoxNTI1MTc1MzU5LCJub25jZSI6Ii02VGxydEhYYkRHd295eGFaQlNXVDQ5NjIxVnRlTkFSem5qWTdkcHRRd2c9In0%3D.WJtwmb2f_sqxOGIk59CmzjcyQIni1pLZ_tR7cxDWW8WDx0wEkANfU8iuvYuqApnY0slJtKSl30rO7KPOyqIAdA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wv6j6tc5ez96t77v67nty4szohsw6f%22%2C%22displayName%22:%22l_ivan55s_e%22%2C%22id%22:%22217894561%22%2C%22login%22:%22l_ivan55s_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wv6j6tc5ez96t77v67nty4szohsw6f

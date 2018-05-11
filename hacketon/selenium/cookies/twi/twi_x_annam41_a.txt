@@ -1,0 +1,14 @@
+#x_annam41_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	g6DLx2fNLDAoJHYa6qxuf1V%2FOij7mpOs2MjRbGNMxXs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	83acad8476692a78
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1b0b15d809453b9561685b9cb27b113a
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032481%3A%3Adiuymejcazqfheks47jjscvug8o5gq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI0ODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTIyNzMsImlhdCI6MTUyNTY4ODY3M30=.XmV-To1FTNEmy9zENND0XQxJFjIwiCVVR3c5U5SCdl-PS9nltM_teOQLfj9_bsO6GWESu0f1x6B5mZxcoZXxnQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI0ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNDczLCJpYXQiOjE1MjU2ODg2NzN9.j3oz8iuh-YCRxakRavG4HdnO63DFg4tFZ-aeWrklGGTDmyfbNQDczAxVVrqQyDHTk62dIQzgVGSOYG-jjTMDFw==
+.twitch.tv	TRUE	/	FALSE	0	login	x_annam41_a
+.twitch.tv	TRUE	/	FALSE	0	name	x_annam41_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:24:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	17989ca575a59bae6a1e5f63b2500741
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYW5uYW00MV9hIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MDY3MywiaWF0IjoxNTI1Njg4NjczLCJub25jZSI6Ik9aMkpoYkhLVXdJdHR1d25iREtQQnRkc2ljSHBRV3o1TlJYNGp6UnJmVGs9In0%3D.TqcTVaEjgqyeX9CLXRtZNxzSPyTicdelH-GLIMRaoXRgipbfBaPdehM0juoxNCcTPOTpe0JFwZ474TAr4aiq8g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ulqlxzoug4if9tsqhyiti4hzygm499%22%2C%22displayName%22:%22x_annam41_a%22%2C%22id%22:%22219032481%22%2C%22login%22:%22x_annam41_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ulqlxzoug4if9tsqhyiti4hzygm499

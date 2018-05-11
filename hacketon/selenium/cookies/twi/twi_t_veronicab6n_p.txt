@@ -1,0 +1,15 @@
+#t_veronicab6n_p
+.twitch.tv	TRUE	/	TRUE	2028-05-03T20:19:57+00:00	unique_id	8e0c643e95920cf8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	rf%2FjOQkumKz5K5QxNH%2BEuMkvnlqWXa5g7iWDq67jv9w%3D
+.twitch.tv	TRUE	/	TRUE	2018-05-05T05:44:26+00:00	_twitch_session_id	990efa2625df9f7549638f0c3c542e7e
+.twitch.tv	TRUE	/	TRUE	2018-10-19T17:44:54+00:00	persistent	218468782%3A%3Ahbjiz00pp0k77b4zk0pescbbokynim
+.twitch.tv	TRUE	/	TRUE	2018-05-04T18:44:53+00:00	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0Njg3ODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU0NTk0OTQsImlhdCI6MTUyNTQ1NTg5NH0=.fJ-ZImBMfyVukvPLcvujSgFav0WyCZRMl4fyEX4nXTzVGckGW_7IZyyh-629DzMxCqYLxe-yniI190ZZkYRW7w==
+.twitch.tv	TRUE	/	TRUE	2018-05-11T17:44:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg0Njg3ODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MDYwNjk0LCJpYXQiOjE1MjU0NTU4OTR9.Reh-SNib5LVuwplCvnf01fcf14mEF530aNpIYAAtjkogMz1Ji2wha_4UpXhTgJihFMy_xlNVDGwdlZu8GtCPZQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-19T17:44:54+00:00	login	t_veronicab6n_p
+.twitch.tv	TRUE	/	FALSE	2018-10-19T17:44:54+00:00	name	t_veronicab6n_p
+.twitch.tv	TRUE	/	FALSE	2018-10-19T17:44:54+00:00	last_login	2018-05-04T17:44:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-19T17:44:54+00:00	api_token	8db7df7fd4332e9a10bc344c99da30f0
+.twitch.tv	TRUE	/	TRUE	2018-10-31T17:44:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfdmVyb25pY2FiNm5fcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEwMDc4OTQsImlhdCI6MTUyNTQ1NTg5NCwibm9uY2UiOiJLTG15ajJpSG1jLTVKZ0JES1RnMGFfQzFkbFN5YzFrZF9PaUV1Y0F1S2NrPSJ9.9nLYpza_Kgnmy11eWJiQ13A90jqUW9hNzWZ8OAMh6D2nO8-6ZsJjxaspVDGfjS0HUDvxAqKbeovRjVexT-cEPA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-05-04T18:44:51+00:00	twilight-user	{%22authToken%22:%22ov8nzw4vwz7gms9iej4u2h41bvfijw%22%2C%22displayName%22:%22t_veronicab6n_p%22%2C%22id%22:%22218468782%22%2C%22login%22:%22t_veronicab6n_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-05-04T18:44:51+00:00	auth-token	ov8nzw4vwz7gms9iej4u2h41bvfijw
+.twitch.tv	TRUE	/	TRUE	2019-05-04T18:44:53+00:00	twilight_onboarding	true

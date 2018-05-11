@@ -1,0 +1,14 @@
+#d_rylee20k_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	F7rxsrvNWR6VqAVTlNmkT6G5Azsc2E8kQM7ezuseFXA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cf743c86df289bc7
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3c22fda3df3eb11ba96a33b6ef4b999d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217927204%3A%3Ahvo3uyxjtmo1wx5kmlpzo6ieh7ldzf
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjcyMDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTEyMjUsImlhdCI6MTUyNTE4NzYyNX0=.AMZFec5_pUAbSa9eTFeM71KmyXypkdBWtcx-xriuV8gQSDJdGA2xcybBaUxgRidb5tVOalM8uO-KyN5aKFdvfQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MjcyMDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzkyNDI1LCJpYXQiOjE1MjUxODc2MjV9.Jbtm6e87RkbwFgDidMOGijmJ9XwM7mnAzH3vLYc-bcoBRapSGHIKVd-YMorLtfArkRuBpsyn9zxjHvok2iyg6Q==
+.twitch.tv	TRUE	/	FALSE	0	login	d_rylee20k_h
+.twitch.tv	TRUE	/	FALSE	0	name	d_rylee20k_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T15:13:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f64030eae158ffc0c36a6674d06e6fe6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfcnlsZWUyMGtfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3Mzk2MjUsImlhdCI6MTUyNTE4NzYyNSwibm9uY2UiOiJmLUc4S2hFYVhCbWhTTzB5VUdpZ1l4ejdLTGYxcXdrc05ZOEZYT0RhSHZNPSJ9.8GU4rYzTvhOYfpTOtWcSBA_KcBsly7SKZCchiF527q9ZwIgfmd6NUDJ8E0ipgEqzrjDX8M2EQYb3PPs4VF__zw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220tufwfku4yprfizx8ze1vhrxt7vwkm%22%2C%22displayName%22:%22d_rylee20k_h%22%2C%22id%22:%22217927204%22%2C%22login%22:%22d_rylee20k_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0tufwfku4yprfizx8ze1vhrxt7vwkm

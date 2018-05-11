@@ -1,0 +1,13 @@
+#w_evan11a_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7MF7%2FKhw2F1brpkOcR%2B2UXRp8hbY6rSGaPSeL%2F%2BRxeM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:15:48+00:00	unique_id	e675ae7f4a7a6b80
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:15:48+00:00	_twitch_session_id	ca86bdf816b97a57fd12a37ecb7c2da4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:16:11+00:00	persistent	216485205%3A%3Adnuryq72z7iwgcn2crkuwz9rmd2cx5
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:16:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODUyMDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2OTcyLCJpYXQiOjE1MjQ1NzIxNzJ9.gHWEGgz_4IFoPVSxsfxCqxvidHKF3olKG2I89xQckkEiu7m5eNPJ0G8UXgeR3ij1wLLVGVgXXM3h-6BZuoJWUg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:16:11+00:00	login	w_evan11a_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:16:11+00:00	name	w_evan11a_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:16:11+00:00	last_login	2018-04-24T12:16:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:16:11+00:00	api_token	fcb99c68a8bf191e0ef357467a163db1
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:16:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfZXZhbjExYV9iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNDE3MiwiaWF0IjoxNTI0NTcyMTcyLCJub25jZSI6IkloQ2lnR093NFVCdy0tVjFhMXpuTGJhUUx6NXFJSTJXelRBOWNiUTdzTGc9In0%3D.1x5QFfGqe_gEMNQI5Q5z8Pp7z5RUDVEL1KqVDWtUwUXCK1LnATkdUDXZy2LA_RL9fzMII_C7TzPAMomsENx2kg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:17:33+00:00	twilight-user	{%22authToken%22:%22f2cwygrhqmex27p48tzoq8lkvlnbg0%22%2C%22displayName%22:%22w_evan11a_b%22%2C%22id%22:%22216485205%22%2C%22login%22:%22w_evan11a_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:17:33+00:00	auth-token	f2cwygrhqmex27p48tzoq8lkvlnbg0

@@ -1,0 +1,13 @@
+#q_rileyc85_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UU924U8kAyvi7kMMiZrI1Y7eOWrQWyvnW3xdKmEPzUQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:34:35+00:00	unique_id	3c24618d7517871a
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:34:35+00:00	_twitch_session_id	019c733844107caa99db0380976c9425
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:35:06+00:00	persistent	216137181%3A%3A3gdfn100kylrhtsmjxugyyo21lnqfq
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:35:06+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzcxODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3NzA3LCJpYXQiOjE1MjQ0MzI5MDd9.Vd7xXDv1xav2N1TxwYcmg-vfH48vlmJHPFmYWM462AuGg2LwvRtYCUNzz70tlXLngjRaI0lGCYKAohhLfDWx-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:35:06+00:00	login	q_rileyc85_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:35:06+00:00	name	q_rileyc85_h
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:35:06+00:00	last_login	2018-04-22T21:35:07Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:35:06+00:00	api_token	4977ce25e718f93dce6797cee5385b4e
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:35:06+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfcmlsZXljODVfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODQ5MDcsImlhdCI6MTUyNDQzMjkwNywibm9uY2UiOiJsaTNjVU5VZXk3N3YzYmZHbk0yM2FrNDhGRE15Z2t2SzNRUm1rSEU4aTFrPSJ9.MEeKvInolSoYueaoMnC5nzh2aGvketyLTQokYyqh3CdHzAVDbYsBW9BrlbHGW_medb_Ko7ZppFbO3prQ4xJ3Jw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:36:19+00:00	twilight-user	{%22authToken%22:%229itl354uskpt2qv9buknfwy85xhiwg%22%2C%22displayName%22:%22q_rileyc85_h%22%2C%22id%22:%22216137181%22%2C%22login%22:%22q_rileyc85_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:36:19+00:00	auth-token	9itl354uskpt2qv9buknfwy85xhiwg

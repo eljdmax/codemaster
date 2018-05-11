@@ -1,0 +1,13 @@
+#u_jakeh8u_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vnoXIftZBSy2Ps%2BZYaWAlpYoa3iPc63VAZ8a5%2B73vC8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:43:44+00:00	unique_id	e99271ea91302593
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:43:44+00:00	_twitch_session_id	07e1d0a89f05b9f4db5b6d9e975affb5
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:44:11+00:00	persistent	216477083%3A%3A4lpa2204zb8zo42p9rmzp7o7jvl72c
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:44:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzcwODMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNDUyLCJpYXQiOjE1MjQ1NjY2NTJ9.PQhoP3cS0D4xr9n7OE6b80IyP1uJHda3Tl2o_9NhpPyPt7MUnaGQ4WNA3JuYDdVaADvpVG4dDSaXmv6dmHlp0A==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:44:11+00:00	login	u_jakeh8u_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:44:11+00:00	name	u_jakeh8u_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:44:11+00:00	last_login	2018-04-24T10:44:12Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:44:11+00:00	api_token	f3f677579da8a836ead763f3535cd0dd
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:44:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamFrZWg4dV92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODY1MiwiaWF0IjoxNTI0NTY2NjUyLCJub25jZSI6ImFxUXphcW9DeDc4LTdWS0w0WmpTeTIxd1BNZnJhZFRuMnFXemlQdS1zdDQ9In0%3D.jcv5zfSWWP12RQi_hE5CNyQJYYeTaGVvGoP6U2cvT7BiXx2opmS8aZggeOcVWMHYbHYxG3k50r79P-sVGUWL2A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:45:34+00:00	twilight-user	{%22authToken%22:%224a3r6v4akqqi11i0a7fha28r9p32ni%22%2C%22displayName%22:%22u_jakeh8u_v%22%2C%22id%22:%22216477083%22%2C%22login%22:%22u_jakeh8u_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:45:34+00:00	auth-token	4a3r6v4akqqi11i0a7fha28r9p32ni

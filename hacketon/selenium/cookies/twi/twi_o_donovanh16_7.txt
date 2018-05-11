@@ -1,0 +1,12 @@
+#o_donovanh16_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ditGbnqEe2TIYn4W%2FGAw9w87zMmVGCDEnOfUX4H5RD4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:16:07+00:00	unique_id	e42f955a0e61282a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:16:27+00:00	persistent	216485228%3A%3Aqaquj7zq6lskxqx3s3lbcntete9gsi
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:16:27+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODUyMjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2OTg4LCJpYXQiOjE1MjQ1NzIxODh9.MTUo9ZnHLe7IReYw-CYT4IOCQINhq10yez_3ZCDOdMbyKZcfmvvMNCxATpkT-KIk-4lKUjZ6em9-29t2IMbbmg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:16:27+00:00	login	o_donovanh16_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:16:27+00:00	name	o_donovanh16_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:16:27+00:00	last_login	2018-04-24T12:16:28Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:16:27+00:00	api_token	85516537c73d4632422cdefcf423b0d7
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:16:27+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZG9ub3ZhbmgxNl83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyNDE4OCwiaWF0IjoxNTI0NTcyMTg4LCJub25jZSI6ImxfOHF6Skk2Zlc5Z3dINFJ2ckJiX3pNMl9IYmNOQU1UMWUwX3VLaXU5emc9In0%3D.hmr79tu8FM-dpjzkf4lbkuHDrcNShgGGvEnzKtfz_ZTKi51BomVY0F_lZc6N1eOHmCydG4lxNJpfmNfr6dAjtw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:17:50+00:00	twilight-user	{%22authToken%22:%22mwsedra7vh0a30yapjs4wqdlcwafyn%22%2C%22displayName%22:%22o_donovanh16_7%22%2C%22id%22:%22216485228%22%2C%22login%22:%22o_donovanh16_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:17:50+00:00	auth-token	mwsedra7vh0a30yapjs4wqdlcwafyn

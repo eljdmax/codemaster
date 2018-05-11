@@ -1,0 +1,13 @@
+#q_eric90j_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	6uGK%2FEnRmZBDrJpbUhuWbsG%2FfHDQJrb%2F5jERrIn7B4c%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ef40b83dc7eb9a41
+.twitch.tv	TRUE	/	FALSE	0	persistent	219033382%3A%3Ao4ksntb0dfdvs687qlyqnzsjeohyo9
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMzODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI5NDYsImlhdCI6MTUyNTY4OTM0Nn0=.fw_zxv_gM7ChaQ-1sea6gGqOZ58w6JHYt5hGnUkctbozchOsJWPpDdwFKcIpZ6N4DYcneyCMjFKo3sUSW1oeHg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzMzODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2Mjk0MTQ2LCJpYXQiOjE1MjU2ODkzNDZ9.I-Fq6Kpbd7gbJm36SG6LcO3jTvdr9mUqgrXz4lFnEbMFjDg2nzR7U0Z7nSET32FMhN-r2jAvG3LsciuzvbU9TQ==
+.twitch.tv	TRUE	/	FALSE	0	login	q_eric90j_r
+.twitch.tv	TRUE	/	FALSE	0	name	q_eric90j_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:35:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	df18e68b424b6f3285546729f9bd5dca
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfZXJpYzkwal9yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MTM0NiwiaWF0IjoxNTI1Njg5MzQ2LCJub25jZSI6IlVpWTgwTjlDUElDWnVCN3dGNUtQbUJucks4bFlha282RHBVZHNNNlJhVFE9In0%3D.E5-6dQ1vUEIi5PjgUeN01FSRSjSdEgfcByXA3zsJ3RWRW3iqgu5FJ98d9lzbjzlVRhCS-iceRZSF6QcdU2Vwgg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224z8qcbzll0gaewahsv3h8vdo4iedvr%22%2C%22displayName%22:%22q_eric90j_r%22%2C%22id%22:%22219033382%22%2C%22login%22:%22q_eric90j_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4z8qcbzll0gaewahsv3h8vdo4iedvr

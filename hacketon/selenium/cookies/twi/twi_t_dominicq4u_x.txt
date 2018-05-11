@@ -1,0 +1,13 @@
+#t_dominicq4u_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fOk1RVDmm5qHbwatUZ%2FKBp7OUA4%2Fqy7c5kEUVaXq%2Fh8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	135ed5b19aebf5db
+.twitch.tv	TRUE	/	FALSE	0	persistent	218952924%3A%3A8yb9n2ye21s5bxu63fhow0j3s81sw4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI5MjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDc1MTksImlhdCI6MTUyNTY0MzkxOX0=.ev__4j0tvDyTA_QCRiZiOHrC4Ui_bs3RM3vY4ZNg2f_h1PWgUMCImfYSOqISXb7ms6Rozi_ZI0N3QHHLrkm78A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTI5MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4NzE5LCJpYXQiOjE1MjU2NDM5MTl9.lFhv-kGf5FnhMynLbDxa6e7eofupZG2oJVfBz6HHhAp5L_Jgb4YOTKOo1_KoI9rIKYqxVry5D5yH0N5K-znynQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_dominicq4u_x
+.twitch.tv	TRUE	/	FALSE	0	name	t_dominicq4u_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:58:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a7742fcbfc1df3a2b07f87f10b4f2897
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfZG9taW5pY3E0dV94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NTkxOSwiaWF0IjoxNTI1NjQzOTE5LCJub25jZSI6IlpReXRGZ1JENG9YaS1RMGt1MWx4Xzd6VTk5a3hFUVZWMTNJNms1MUJBWDQ9In0%3D.VQvZHABmc0QkdqSfse4edOE6pxuigX45BBFPwWnfiHWU31cajy--Shl7phoVKbbyKkNgcyH5L21d7_Z7kPO-Rg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tlhvg5vllffygondvee7luta18onn5%22%2C%22displayName%22:%22t_dominicq4u_x%22%2C%22id%22:%22218952924%22%2C%22login%22:%22t_dominicq4u_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tlhvg5vllffygondvee7luta18onn5

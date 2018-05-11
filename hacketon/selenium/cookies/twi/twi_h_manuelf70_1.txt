@@ -1,0 +1,13 @@
+#h_manuelf70_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	OV%2FypGkStpWEcj6lBPClDSIYQbJkUILs9ZSXa8321EM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:22:30+00:00	unique_id	de3ef0a136a25eea
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:22:52+00:00	persistent	216485916%3A%3Agyuc2z56iz84nv6m9i7iqs4dzp8i5p
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:22:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODU5MTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3MzcyLCJpYXQiOjE1MjQ1NzI1NzJ9.6xkF6MolkMt3o98N1AjN472f6-Dr_uSqZdQSH_jN8DTcQ4zofPP3P057-ajG-0szIIaat0n4Pt1nYSJmPjyv2w==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:22:52+00:00	login	h_manuelf70_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:22:52+00:00	name	h_manuelf70_1
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:22:52+00:00	last_login	2018-04-24T12:22:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:22:52+00:00	api_token	d112726318d2f5176b9da2a0902536a1
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:22:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfbWFudWVsZjcwXzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI0NTcyLCJpYXQiOjE1MjQ1NzI1NzIsIm5vbmNlIjoiM3RlUGNnMDh1YXhKUzc4WG9PdnRzelNLYzZSeVJpdWF2ZlFXUzhOZUVFbz0ifQ%3D%3D.wyzRYZt9GnRAfPntBgMtdSB4D9oAhsQXow1HCyuUyIRhpKlINjDexlfBuCGmlN2P3UIhQu9gJkAFmhqA-F8nSA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:24:12+00:00	twilight-user	{%22authToken%22:%222ifeoxdwf8uxieevlo1jhwoywxx0g6%22%2C%22displayName%22:%22h_manuelf70_1%22%2C%22id%22:%22216485916%22%2C%22login%22:%22h_manuelf70_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:24:12+00:00	auth-token	2ifeoxdwf8uxieevlo1jhwoywxx0g6
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:24:13+00:00	twilight_onboarding	true

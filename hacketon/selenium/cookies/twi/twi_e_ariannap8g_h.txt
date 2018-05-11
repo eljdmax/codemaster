@@ -1,0 +1,14 @@
+#e_ariannap8g_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4ne74r3PzOubfct%2BDacooNnUGzloYeOj6vMdJJ5f7gs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	18d4b4c60fefa87f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	094f5e7d0203ffa7eb35dcc4f8349003
+.twitch.tv	TRUE	/	FALSE	0	persistent	217270333%3A%3Aisaxfdno24rh6riqcrx06vhkuocvs2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzAzMzMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzMwNTQsImlhdCI6MTUyNDkyOTQ1NH0=.SoE9OC4O-hcIqVBzpbou-y4b4NS-aX0vNd3Q0JX3AFERRopaZf6D-302RvDZ1W27jFKrKIetLpMgUASurhu2aQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzAzMzMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0MjU0LCJpYXQiOjE1MjQ5Mjk0NTR9.XN-4o1za8R-uK2Xk4dQLTW31riQFoPybZ1feykYxHhYbi7-wIJaqB0LAG-BTvEoWfOR9SqeDTmfqCDExf5NP1Q==
+.twitch.tv	TRUE	/	FALSE	0	login	e_ariannap8g_h
+.twitch.tv	TRUE	/	FALSE	0	name	e_ariannap8g_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:30:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	981bef95a790fe61a4728317dc2c6675
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYXJpYW5uYXA4Z19oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDQ4MTQ1NCwiaWF0IjoxNTI0OTI5NDU0LCJub25jZSI6Il9OOWlIM2dVQWw0SDJjQzZRQy1Pa3lFRDJUSXJiUGx0ZnJWYzZZcklCMDQ9In0%3D.Li1RV3iJ4NELuwh0x0SROL_Nl-e7J3N0EwwDxcgScl1M0BRXKDEo-wz9MJPsGsknEntmtcGs4Gviyn5Y6K9p9Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22sf84hkyil748hna7kesylvgj4klv3u%22%2C%22displayName%22:%22e_ariannap8g_h%22%2C%22id%22:%22217270333%22%2C%22login%22:%22e_ariannap8g_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	sf84hkyil748hna7kesylvgj4klv3u

@@ -1,0 +1,15 @@
+#j_garretta4k_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2B%2FkRlMLSlL3uAGsew4PmbhF0aNwQKUsxu0iSEAaDPNM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:55:51+00:00	unique_id	2c8af9e55b68f944
+.twitch.tv	TRUE	/	TRUE	2018-04-19T05:55:51+00:00	_twitch_session_id	f1510e2760a09008a719d3b7483e120b
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:55:53+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:56:13+00:00	persistent	215240242%3A%3A3xsax186vu8gltxe28mi2vg398i2ag
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:56:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDAyNDIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4OTc0LCJpYXQiOjE1MjQwNzQxNzR9.8aPo4oHzbA8zrgC0ko0Qh7jMbISb1MKT1nMfQjZhco5oPND-Lwa5B7-zDQkmyFO78bTWB5Oa2lLD6CsYLnz6MQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:56:13+00:00	login	j_garretta4k_j
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:56:13+00:00	name	j_garretta4k_j
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:56:13+00:00	last_login	2018-04-18T17:56:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:56:13+00:00	api_token	875f5af297143f7dc48f56f352e8f881
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:56:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZ2FycmV0dGE0a19qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNjE3NCwiaWF0IjoxNTI0MDc0MTc0LCJub25jZSI6ImRSbWFVODViMWZvemQ5TkpldXFBMERSbXZwMFNPY0RkS2xEaXJIMWFWUkU9In0%3D.lj_78IBV1XQ3CHymqfOLgFAeOmrAwDQBv0pJRNJ5HYq18aawisG-dmZNfYvqkQiOHrUYt1i1ci4dJ5yzvLWolw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:57:06+00:00	twilight-user	{%22authToken%22:%22mfnuji5y3bg61blgstrp459b2masds%22%2C%22displayName%22:%22j_garretta4k_j%22%2C%22id%22:%22215240242%22%2C%22login%22:%22j_garretta4k_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:57:06+00:00	auth-token	mfnuji5y3bg61blgstrp459b2masds
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:57:09+00:00	twilight_onboarding	true

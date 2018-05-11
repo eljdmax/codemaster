@@ -1,0 +1,14 @@
+#k_ashlyn01k_v
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9hKlVE5UDf06UX1hDBJQQJ8YE%2FH23%2B9V%2FGlp0x4bojo%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:49:08+00:00	_twitch_session_id	daf9d90dc3d1e588f5f02e62d3d0b1c2
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:49:31+00:00	persistent	216482632%3A%3A11bfd82ayph4ggzbg7637vpg0kot5t
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:49:31+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODI2MzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc1MzcxLCJpYXQiOjE1MjQ1NzA1NzF9.aGuIIEEe7nQCQBOM9x2RIrLRJ2SEsn-Cig0ujAkD6HdXKOXz0kzQVaLKIdFLUo82QGURZv5sXzPmj7UkSLBclw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:49:31+00:00	login	k_ashlyn01k_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:49:31+00:00	name	k_ashlyn01k_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:49:31+00:00	last_login	2018-04-24T11:49:31Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:49:31+00:00	api_token	378a5c4926b57e4c9f899b809c832e38
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:49:31+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYXNobHluMDFrX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIyNTcxLCJpYXQiOjE1MjQ1NzA1NzEsIm5vbmNlIjoibHpNejR2ZE5Kd1JWZnNuWElLN2xmd3Utb3FWZWlUS0FPdWJqaXhFMnQzUT0ifQ%3D%3D.P4ZDf2aIogC9C9fs8teehbj7EzHRrYFZ6ymio1Q6qa-r32hUXKxHFSHXmslMKDepcPglLjnSD7KbidxHCMZ9bA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:50:52+00:00	twilight-user	{%22authToken%22:%22cxcnh9hwqpgv1vt64e45yjntcr8mz9%22%2C%22displayName%22:%22k_ashlyn01k_v%22%2C%22id%22:%22216482632%22%2C%22login%22:%22k_ashlyn01k_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:50:52+00:00	auth-token	cxcnh9hwqpgv1vt64e45yjntcr8mz9

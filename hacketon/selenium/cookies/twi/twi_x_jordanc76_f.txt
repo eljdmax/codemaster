@@ -1,0 +1,15 @@
+#x_jordanc76_f
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d6b68dbd776c40c
+.twitch.tv	TRUE	/	FALSE	0	impact_excluded	1
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	n%2FMaocK04OcKVcaIH8T0xvJb61vBtxA%2FVst%2FCAne9wM%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	7ecbc75806ead7f95145f87998033c0f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217224032%3A%3Ay53lcm6bm32qm47f94q1kcgoee3k2v
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQwMzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MTcyMDYsImlhdCI6MTUyNDkxMzYwNn0=.4hgomZ9-G0f2ncfICvWuzfefPt3sDo_LjDV2de_d4wrOS4HN8EcjlXlaR1ktbB3gMRvj9l0h9Q0_VQ426bID3A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyMjQwMzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTE4NDA2LCJpYXQiOjE1MjQ5MTM2MDZ9.pbLvNMkzlS-QK_veGHiuH3UaFUGzFa9adjHuumJeC594jw1HQaTwLpcP_HKIywB71Pyv8knoVlFnPrBY3Tz-ow==
+.twitch.tv	TRUE	/	FALSE	0	login	x_jordanc76_f
+.twitch.tv	TRUE	/	FALSE	0	name	x_jordanc76_f
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T11:06:46Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c279e23b321ba62d04055896ea4b57fc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inhfam9yZGFuYzc2X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDY1NjA2LCJpYXQiOjE1MjQ5MTM2MDYsIm5vbmNlIjoiOGk5T0xoMlY1MHY3bnlHUXFUZEtadjltcGFseklXM1FmLVNEUXRWX2Z0Yz0ifQ%3D%3D.xUPrtGfxN3evBZrCrDWINR3gFUYB7ryKZydMmEBCz985r0tNGXjnmfCSGcZjURF_PI2n0Uu5Uaa9IoBrzhjuDA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22keg7w2j1a3ac8cy5nnbzg66411jk04%22%2C%22displayName%22:%22x_jordanc76_f%22%2C%22id%22:%22217224032%22%2C%22login%22:%22x_jordanc76_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	keg7w2j1a3ac8cy5nnbzg66411jk04

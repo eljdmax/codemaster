@@ -1,0 +1,13 @@
+#r_connera08_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zHMCqxhVaSRUrBIrXmsgGpla243a%2FR65bMCTkI2ooKo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cd4dc1dff6be059b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218947704%3A%3Af2hdxemxc5zbr4zfwjh286hh5y2gy1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDc3MDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU2NzcsImlhdCI6MTUyNTY0MjA3N30=.AfvEzRHoMfRR830GD2qBoyPPHtE7SCwpeZcvSu1tUKzAqb7idV4rfCyzsBEeJM1dSZL2JjNd6bwJI2K-h62eIA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDc3MDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2ODc3LCJpYXQiOjE1MjU2NDIwNzd9.0n2G1O4KPid9SAb41o0BlgV11V0qY5yYwQXwy86UFdYmfNi79huQsZNBcL7BAfT97N_PzT0w5uKzhB1hV28VAQ==
+.twitch.tv	TRUE	/	FALSE	0	login	r_connera08_b
+.twitch.tv	TRUE	/	FALSE	0	name	r_connera08_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:27:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	39ec589dfa30b2e08350c7cc03be9bda
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY29ubmVyYTA4X2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0MDc3LCJpYXQiOjE1MjU2NDIwNzcsIm5vbmNlIjoiREpXazNkVHNFNGlMTEV1Y0xRWk1QTXdKakFKNDRPMUVud2VFVFk1ZHFydz0ifQ%3D%3D.X9ov5nBNdbJU4vxoKqbVFhj4Wowcf-dbf2Uf7spPmt1_DVN7sz08Yn6LTVNB16-Ika6c4HCws2-xeRuK8uF4eg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22wp6cy4ihb7z437hn97sqt0guno3ew8%22%2C%22displayName%22:%22r_connera08_b%22%2C%22id%22:%22218947704%22%2C%22login%22:%22r_connera08_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	wp6cy4ihb7z437hn97sqt0guno3ew8

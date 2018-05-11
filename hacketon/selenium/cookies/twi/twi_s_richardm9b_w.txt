@@ -1,0 +1,14 @@
+#s_richardm9b_w
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8mURp2a%2F4V0Sj5JRzW1aRZzG3GKx3tvVa5s0BQPVYIg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:20:17+00:00	unique_id	6a1cb2f2063538f3
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:20:17+00:00	_twitch_session_id	dfeb7443135e332d291f3738d1cb7b28
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:20:17+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:20:40+00:00	persistent	215245027%3A%3Aki6nas074galsyn9n0amo4mmfcvi03
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:20:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDUwMjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwNDQwLCJpYXQiOjE1MjQwNzU2NDB9.m4aMNf9KNWoR1_6Jj8gr3UUy0vlyJe0zqUC5t6PJQF00ImMLfPCDpPegMrW9tQd00EyBxeOtCa6u-QbXqMAwGA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:20:40+00:00	login	s_richardm9b_w
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:20:40+00:00	name	s_richardm9b_w
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:20:40+00:00	last_login	2018-04-18T18:20:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:20:40+00:00	api_token	31f7d05452c3e52c79c5a4b5a3f2c420
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:20:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfcmljaGFyZG05Yl93IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNzY0MCwiaWF0IjoxNTI0MDc1NjQwLCJub25jZSI6Inc4NndoRVdrdk02MVhxY0prbkxDMzNGdnl1SmpkYlZMbkwycm1MVW90cEE9In0%3D.dG6j4jjEr_Yn4xySJEV3hi3blJQVCze9iwWL1gaeodbaKNPA6MmqIyQXOXx8nyeaKgscAvAfE2X_gFRHMUE0vA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:21:33+00:00	twilight-user	{%22authToken%22:%224a9ch1xf5owloacw7exf6hhb59x125%22%2C%22displayName%22:%22s_richardm9b_w%22%2C%22id%22:%22215245027%22%2C%22login%22:%22s_richardm9b_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:21:33+00:00	auth-token	4a9ch1xf5owloacw7exf6hhb59x125

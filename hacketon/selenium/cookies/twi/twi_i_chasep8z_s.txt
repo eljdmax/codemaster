@@ -1,0 +1,12 @@
+#i_chasep8z_s
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RRPozypwT8ovgEXT4XgV2iTP%2BoUc8SJYprFo3zMAA9Y%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:06:57+00:00	unique_id	66a83f483ffd3286
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:07:20+00:00	persistent	216484338%3A%3Aa30z36vsw6lyv42767r740k1iggwyw
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:07:20+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQzMzgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NDQxLCJpYXQiOjE1MjQ1NzE2NDF9.5xFLufWs6QVcVy4B6pV04ri1ZDBt3lOQonLdugthDzJeVIE-grstZZMD1HDhFgsAth2xfGu-tkbLgOzu41gHXA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:07:20+00:00	login	i_chasep8z_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:07:20+00:00	name	i_chasep8z_s
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:07:20+00:00	last_login	2018-04-24T12:07:21Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:07:20+00:00	api_token	44c6b534ce9e13abab4f0d8b75586a88
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:07:20+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfY2hhc2VwOHpfcyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjM2NDEsImlhdCI6MTUyNDU3MTY0MSwibm9uY2UiOiJIVW5fcFpmbWpHLU1sZWNHcldWZWRYay01NEN2d0pVNk5xY3VzZ1dOcmJJPSJ9.Qm2WpoY0HpRDWWcgZTxq-mtocLy7D3Z0BeD-GAQncQEG38lYKUWDezrTTXtrlTH5Y7QgDKozQShdZRG9_oIdyg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:08:40+00:00	twilight-user	{%22authToken%22:%220a1qghtnxrumgx19b7y1vjff1oemgq%22%2C%22displayName%22:%22i_chasep8z_s%22%2C%22id%22:%22216484338%22%2C%22login%22:%22i_chasep8z_s%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:08:40+00:00	auth-token	0a1qghtnxrumgx19b7y1vjff1oemgq

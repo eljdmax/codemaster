@@ -1,0 +1,13 @@
+#l_victoria41m_g
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:48:52+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KaQzSGfpUbIBjYZFgWjk5H1gLclDltrKEmiHKqwwkY8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:52:54+00:00	unique_id	fb4755c2ba803fd1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:53:10+00:00	persistent	215239660%3A%3Acko1k0o753doksil4n38h1d6tb8t8f
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:53:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzk2NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4NzkxLCJpYXQiOjE1MjQwNzM5OTF9.DdOmC6DnbInf-lkYTIsM72Fng9M7WpEhlN4IAYokrfF-opZZy53z-4NmKu5Zxmu09mtX7S7PgefrLo5o8mYeiA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:53:10+00:00	login	l_victoria41m_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:53:10+00:00	name	l_victoria41m_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:53:10+00:00	last_login	2018-04-18T17:53:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:53:10+00:00	api_token	115eeac6ecf82d6ca912a0423e24c4f2
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:53:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfdmljdG9yaWE0MW1fZyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2MjU5OTEsImlhdCI6MTUyNDA3Mzk5MSwibm9uY2UiOiJxRDJkYWR1M2ZBRUtTU2cxTGtUTDlPMWw0QUpmLVNaNjhMX01OLVI4R2lFPSJ9.dD4SZvSMQIpSnZOOIg09T-VJ11TzGzmEevpLF_UGzTdvdFvoFCcsZ1bdcYPNJLIQHgIs_vnAsSOIhNvDlMnGJg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:54:03+00:00	twilight-user	{%22authToken%22:%227xev3ybn7qludch7naukfqcwl4smhm%22%2C%22displayName%22:%22l_victoria41m_g%22%2C%22id%22:%22215239660%22%2C%22login%22:%22l_victoria41m_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:54:03+00:00	auth-token	7xev3ybn7qludch7naukfqcwl4smhm

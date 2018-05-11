@@ -1,0 +1,15 @@
+#l_mariap8w_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3xg7HLy503riJMpWiFDC8bTGRxNs1T%2FTgU0f0LBv3L4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:51:44+00:00	unique_id	8a78113e43cc3fc6
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:51:44+00:00	_twitch_session_id	afb178aa9ff50c4740d65b189b19e02b
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:52:04+00:00	persistent	216140274%3A%3An0fwkypy8ies8rfpj81zdgaw6l1xhu
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:52:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDAyNzQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4NzI0LCJpYXQiOjE1MjQ0MzM5MjR9.US9oyCNARiUBy2-6Pe7P0nDUa4X8-y95IuZqCGQst6ORk6FGj8_io2lJOtvjZjQuRJjR9K8NxnJLoHNdJyFKGA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:52:04+00:00	login	l_mariap8w_1
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:52:04+00:00	name	l_mariap8w_1
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:52:04+00:00	last_login	2018-04-22T21:52:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:52:04+00:00	api_token	b236686ad24b81237de1a206d37d13ae
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:52:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbWFyaWFwOHdfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODU5MjQsImlhdCI6MTUyNDQzMzkyNCwibm9uY2UiOiJkUUlLZjlldm9JanJ1ejJYb1BhSThrV3M3MWd0SU0wdEZTYXNtVmRDMnFNPSJ9.g2NMxBkYGe5MdUi1aIFRCOinqSTZZPV1STsjlvoiMWXolAgsPnGx7BeWVUeLWOAKJ_feo8YwAwnGUj_H-_8JPA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:53:16+00:00	twilight-user	{%22authToken%22:%22xe3gxy61v7sn7oqwrnxflqat9c2qer%22%2C%22displayName%22:%22l_mariap8w_1%22%2C%22id%22:%22216140274%22%2C%22login%22:%22l_mariap8w_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:53:16+00:00	auth-token	xe3gxy61v7sn7oqwrnxflqat9c2qer
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:53:17+00:00	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	ImXXC4Y49R7JamW2ezalLI7P2saQC0Z7

@@ -1,0 +1,14 @@
+#p_chaser7q_r
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	uPk7CkcEmQkoWx0zRJoioOY96AZ1MRrM7MsTV3FBVcA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4537487d789bcb6b
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	dd87627e7f94d45d80d215ebbeda5ecd
+.twitch.tv	TRUE	/	FALSE	0	persistent	217255211%3A%3Ax33qnnv6biikdp3j8lu2hqznznk2tb
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTUyMTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5Mjg0NDgsImlhdCI6MTUyNDkyNDg0OH0=.b6lePT1T_CkrSX1EdVmTHY2Qu86vn-zXIuaAfq8de_PWne7htxoRRA3oerC0NlqD7pEcuFQ_JhhSjEULhZwkyQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTUyMTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI5NjQ4LCJpYXQiOjE1MjQ5MjQ4NDh9.8xVnyWDBKF9HPsmW0DfWHGjVGFy7x8VsfSdJIBvD-13oGfG3lB-GW1pFcSbj73P4it6vQjQN8gM6n9bJqsvnzA==
+.twitch.tv	TRUE	/	FALSE	0	login	p_chaser7q_r
+.twitch.tv	TRUE	/	FALSE	0	name	p_chaser7q_r
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T14:14:08Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	7dd18310f95912dd9cf59208fc61b77d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfY2hhc2VyN3FfciIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzY4NDgsImlhdCI6MTUyNDkyNDg0OCwibm9uY2UiOiJybUw4anVZY1lTN2NHZlpTLXh3OVJ5UENYY2ZlT1lhUUU0MnZQTEZBY0g0PSJ9.JmOQAyzl5qbZR4hVUwkYIVy_WLwUOl8O_l5OTsrSLaflYUYBd3P7_rfQYFa8DIhGf5ZyPeJTn9cmQY-Fg8V5UQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22c4e3o8a9uf6zrccg0npkuo6shf5p33%22%2C%22displayName%22:%22p_chaser7q_r%22%2C%22id%22:%22217255211%22%2C%22login%22:%22p_chaser7q_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	c4e3o8a9uf6zrccg0npkuo6shf5p33

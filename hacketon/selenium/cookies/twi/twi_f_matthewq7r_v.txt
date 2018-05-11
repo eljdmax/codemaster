@@ -1,0 +1,12 @@
+#f_matthewq7r_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ovSnGv0SGavstICISTuCR2U3jQPBMv2zr9Hlg9HTHvc%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:20:35+00:00	unique_id	dbec920ac985e70c
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:21:01+00:00	persistent	217564841%3A%3Aaqatlv3nl9t1edl1t3g699buvn1n56
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:21:01+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQ4NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4MDYxLCJpYXQiOjE1MjUwMzMyNjF9.-6XVwxgcfzWKgttwq_vRK0QlJ77xG9drP4IipFNh4pOETLxHFpJZABGoIaTGc0gJxYqGAiUcosNFsTNURA5oUQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:21:01+00:00	login	f_matthewq7r_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:21:01+00:00	name	f_matthewq7r_v
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:21:01+00:00	last_login	2018-04-29T20:21:01Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:21:01+00:00	api_token	81e7aabdede6fc492e6d2a492846b895
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:21:01+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWF0dGhld3E3cl92IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NTI2MSwiaWF0IjoxNTI1MDMzMjYxLCJub25jZSI6ImNqU1YxRjhSaDBCS1pwYWU0SlJWZWszdUtQRzJLLWxieHZXZzFnWjlDMDA9In0%3D.W__ufP3Pq4IT3ZqNCW9PWM5vi_ao7bzLALn7DX5Lic6Ajg2iVcvYOkrj2FkF1vvuDe7L0gzYSXIKTFbfuthBxA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:22:45+00:00	twilight-user	{%22authToken%22:%2290x7fwzz0ihbx81pa2wrnl09ogi21w%22%2C%22displayName%22:%22f_matthewq7r_v%22%2C%22id%22:%22217564841%22%2C%22login%22:%22f_matthewq7r_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:22:45+00:00	auth-token	90x7fwzz0ihbx81pa2wrnl09ogi21w

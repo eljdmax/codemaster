@@ -1,0 +1,13 @@
+#s_leonardou6y_c
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	5IfzmhZVcVqqU%2FMR9HxYX27kglBoFoFG50im9DcZwLo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:58:48+00:00	unique_id	16f6945fc73c3365
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:59:22+00:00	persistent	216141605%3A%3A1ovwle3xwysw48yodck4v2g8x2dcu2
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:59:22+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDE2MDUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5MTYzLCJpYXQiOjE1MjQ0MzQzNjN9.MycF9WYv4KPmbSdMdgQb_SS01ntMgaqajgVI_CRqIR1EOyOhHDic7bLjOPl9fAWUKblJ0HgqPor3H_vp2Vr1CA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:59:22+00:00	login	s_leonardou6y_c
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:59:22+00:00	name	s_leonardou6y_c
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:59:22+00:00	last_login	2018-04-22T21:59:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:59:22+00:00	api_token	714961ae3dcfaca9cf350df18fbfd197
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:59:22+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfbGVvbmFyZG91NnlfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODYzNjMsImlhdCI6MTUyNDQzNDM2Mywibm9uY2UiOiJqTFJqN2wzYXZrY2g0aXBxOWpjV2l1akJZMHJNN1EyS0RwU1JSQlA2SlJRPSJ9.UzqhcXbd-lp7dQ-1yX5wsWfvCq-fs7aHAGWcuTDKhEeNPFfVL8sR5d29aAy8wOzrBzEfHkY-kwejjxK6wAoxMg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:00:34+00:00	twilight-user	{%22authToken%22:%22q1ll8ofrja9ugjf0tidt5wpfghpnvp%22%2C%22displayName%22:%22s_leonardou6y_c%22%2C%22id%22:%22216141605%22%2C%22login%22:%22s_leonardou6y_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:00:34+00:00	auth-token	q1ll8ofrja9ugjf0tidt5wpfghpnvp
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:00:37+00:00	twilight_onboarding	true

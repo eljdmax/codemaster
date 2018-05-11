@@ -1,0 +1,13 @@
+#e_daltone67_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	RvGKRpkblte4bhkua1Y7Z3cYX81cokCHabDDBD0IufA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:20:41+00:00	unique_id	192289060d9e49a7
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:20:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:21:23+00:00	persistent	215245159%3A%3A8llrxemrcwm3cs4t7vdetz9cssyng6
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:21:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDUxNTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwNDgzLCJpYXQiOjE1MjQwNzU2ODN9.nyH7tEH1N4IJfbIorjqPB1yJKg5LFZ7C_DYm6IekPulyPGa_7ePmle6tQv7LFOd5iXqUvi3942kVOZBIm2mvLg==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:21:23+00:00	login	e_daltone67_1
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:21:23+00:00	name	e_daltone67_1
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:21:23+00:00	last_login	2018-04-18T18:21:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:21:23+00:00	api_token	8f0b0006872f1029e722ca576306a387
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:21:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfZGFsdG9uZTY3XzEiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI3NjgzLCJpYXQiOjE1MjQwNzU2ODMsIm5vbmNlIjoiMWRrOUhhVFNLUFdJczVlNzFGa1JTQkxuU0JIdmt6aU5Pb3dPdGRKX1dpaz0ifQ%3D%3D.fQGUPViADwAAWmETNFvDiHti81F4szUpQyS8LS1gUIzNABaalrKpkkFmoxl9CuBsM3D2pO5cO7Ji9XSbAH9x2Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:22:15+00:00	twilight-user	{%22authToken%22:%22esg1cp9n2ha15nsaalzsqvcgdip1x4%22%2C%22displayName%22:%22e_daltone67_1%22%2C%22id%22:%22215245159%22%2C%22login%22:%22e_daltone67_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:22:15+00:00	auth-token	esg1cp9n2ha15nsaalzsqvcgdip1x4

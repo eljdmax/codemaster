@@ -1,0 +1,13 @@
+#p_leonardo78y_u
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	01xyB7lNxceXa4aTF0k9lbyilcDNibRdIEccylbTwvI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:53:29+00:00	unique_id	66d70f46ec05f3d3
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:53:29+00:00	_twitch_session_id	312c43378c9c1c25562956795ea6822a
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:53:52+00:00	persistent	217080519%3A%3Armpfu85cc1l93t4sk2k6e115ux0n6x
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:53:52+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwODA1MTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU2NDMyLCJpYXQiOjE1MjQ4NTE2MzJ9.xjf7cvhJF-eci4l8bBMo9qtgURG943BQJPkJQIBQ_cPIaBbkhE1QEWyx-MJFLB_V0MY73UU5BKjN3-KF6Rr8jw==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:53:52+00:00	login	p_leonardo78y_u
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:53:52+00:00	name	p_leonardo78y_u
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:53:52+00:00	last_login	2018-04-27T17:53:52Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:53:52+00:00	api_token	612c95fbbf9ba9d210fe601bc89c06aa
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:53:52+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbGVvbmFyZG83OHlfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0MDM2MzIsImlhdCI6MTUyNDg1MTYzMiwibm9uY2UiOiJuR1lnbFIzcnV0LTl5T0RXMVJJN0Z2LVA0OGd5Yk0xVlZjcmx1Ty1nVG84PSJ9.6XumL3DR_JPkXeQ9oDawTS37DbaVErfM6u4B9wW3zSO7xJHkHkegkKktBlVlbx_SJa6WQfoBsAo4yRvMrn5bZw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:55:27+00:00	twilight-user	{%22authToken%22:%22qaw95buw8c4lp6ou6g6zu3jdzpdpe2%22%2C%22displayName%22:%22p_leonardo78y_u%22%2C%22id%22:%22217080519%22%2C%22login%22:%22p_leonardo78y_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:55:27+00:00	auth-token	qaw95buw8c4lp6ou6g6zu3jdzpdpe2

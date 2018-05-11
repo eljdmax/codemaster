@@ -1,0 +1,14 @@
+#k_paul84j_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	21TjFv15d9jBYEtu63P9EVRKQddArbSOuhhZ1zEYWZk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	80c398b5b8e828ad
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3341824537fd6c13a05026ff892d89d3
+.twitch.tv	TRUE	/	FALSE	0	persistent	218943237%3A%3Ascgjnhyi0zvevh83kw10lmpql0nlhu
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDMyMzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQyMzYsImlhdCI6MTUyNTY0MDYzNn0=.FBWA_3wlA8yzOUabMk9MOjArEvsJbkhOjJ_9eOS6O4ilqjGcWHtXTqVyriXaZ3i_-cgJ7OhslrpIvBrkcRQKAw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDMyMzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1NDM2LCJpYXQiOjE1MjU2NDA2MzZ9.N07bG7pvaXYNEN1_mGuKAwogvOw7KaeTFXzA4N0QaIMI3OCkbbxXEsFAgAVdg-zeR0VQ8y0iqlNWiRDVlp0lVg==
+.twitch.tv	TRUE	/	FALSE	0	login	k_paul84j_d
+.twitch.tv	TRUE	/	FALSE	0	name	k_paul84j_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:03:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c32656831ce53e3b37123922cdb52a5d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfcGF1bDg0al9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjYzNiwiaWF0IjoxNTI1NjQwNjM2LCJub25jZSI6Im1sdFgtb01Ic2hwOXFZZDd3clVaZmtFZGxKYmNNZUYwUlBqQWtaNXhZRzQ9In0%3D.CBgu1D1ewUesjLNPvkVZELklpwR1b7qpQR5FnyNJ6LGVv-qA_TplPus0-a75l548NBGiWRZc4M_9pbPCXTHh8Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fbk0tp13gawtn0rdh3y8vthqd0zi7e%22%2C%22displayName%22:%22k_paul84j_d%22%2C%22id%22:%22218943237%22%2C%22login%22:%22k_paul84j_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fbk0tp13gawtn0rdh3y8vthqd0zi7e

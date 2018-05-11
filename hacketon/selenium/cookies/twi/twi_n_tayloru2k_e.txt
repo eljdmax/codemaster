@@ -1,0 +1,14 @@
+#n_tayloru2k_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RTmiIn7FUDtmeAYFQAk4vLvgb%2Bm8%2BGs46A7u54Ah9tc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2f64ceb966c11f50
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	fa3b51cf99fe8d8429f33f09cbaf8c2a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218955823%3A%3Afafqk8nqf4rt0hzmw9k462l49hzgcu
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTU4MjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDg1ODMsImlhdCI6MTUyNTY0NDk4M30=.-2IvRMFzDVDpnilUOUVeEDXV2LcfkJiCHV0fdpoXivPK945lSK82Qr7FRSdRBJNn2zfUD063TGvtBN_mAcGqug==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTU4MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ5NzgzLCJpYXQiOjE1MjU2NDQ5ODN9.wlZbnSdfxTF5qrGkARnmB1o7eezld9PSRkW0GpoYrD5r4TLt-AoJNVYK5pzhifb34rM6oDoiulpFGILpLiw_Jg==
+.twitch.tv	TRUE	/	FALSE	0	login	n_tayloru2k_e
+.twitch.tv	TRUE	/	FALSE	0	name	n_tayloru2k_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:16:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	6f1939a959b315132a45e0f6cfac8b74
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fdGF5bG9ydTJrX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk2OTgzLCJpYXQiOjE1MjU2NDQ5ODMsIm5vbmNlIjoibDNXaVI4N0o0RGhnNUg3LTZqM1J5YnhDWFV1NzQ1RVRkMWZyMTJ4SmhDTT0ifQ%3D%3D.5kPxp067B0uK72OUNMTRR5MfRv3RHUMFkQBs5PglxXrXTGLsKXwQtB8ClBQ-T_U7PiKXkICRzO9FwUUek-C97g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225eiokql3hkkwm15k3bc0zzyoy36emr%22%2C%22displayName%22:%22n_tayloru2k_e%22%2C%22id%22:%22218955823%22%2C%22login%22:%22n_tayloru2k_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5eiokql3hkkwm15k3bc0zzyoy36emr

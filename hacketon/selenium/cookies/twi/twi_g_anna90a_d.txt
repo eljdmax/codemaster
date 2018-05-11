@@ -1,0 +1,13 @@
+#g_anna90a_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	o7AF6LhOWAJVkAURjWmjnclBV96Lrv1ZWJF5rTuDY3g%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	79197a545a67bd2a
+.twitch.tv	TRUE	/	FALSE	0	persistent	218958568%3A%3Av2wylfs1rva1qp1e0xu2ia4zu817tt
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTg1NjgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk2NTQsImlhdCI6MTUyNTY0NjA1NH0=.x-IbVWOB9ArYiM7kbzDIcccgsqLvz4PRc_LDogiSYk062_KJhNs8mU8yCK6px0JDpGk44LpFeAgyPXo-o25TaA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTg1NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwODU0LCJpYXQiOjE1MjU2NDYwNTR9.qemyUbnBY3hhfEA_U6E7RKwnXP5yUzSakEna3F0wBS-mTkikYNSRCdalzW4nYIz5ItIQZrwMmWyLuzxMX6D6mw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_anna90a_d
+.twitch.tv	TRUE	/	FALSE	0	name	g_anna90a_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:34:14Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	69cac25394e87076d735561d13a561aa
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfYW5uYTkwYV9kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5ODA1NCwiaWF0IjoxNTI1NjQ2MDU0LCJub25jZSI6IjhKZHlyUTlBRkNTX1IzUVZ0SWUwYXctZjYzaXpORlZNNzZRSThfbEpodzQ9In0%3D.iLzawBcvMQABV1AV1Ta72jmTlDNmIwlXJAV_M3x7Dh0obbZzLsO_s0ag4BtNkyPKd5p1TU1Wmww6EpR8fEsU0Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p0qnxhifu3pj613yo4llostgyzjfol%22%2C%22displayName%22:%22g_anna90a_d%22%2C%22id%22:%22218958568%22%2C%22login%22:%22g_anna90a_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p0qnxhifu3pj613yo4llostgyzjfol

@@ -1,0 +1,15 @@
+#l_hannah30g_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	kQ8PLseALxHfY71m92Xl%2FD8thhbEsz7jwmc%2BCScQWEk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ef7e206c8f81384f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218957014%3A%3A492276mnw763vq4yn21axu3x38b5zj
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTcwMTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDkwNDcsImlhdCI6MTUyNTY0NTQ0N30=.snKmQoCAdWZHze2wUR-2a4KL6jp-UnB-fo6zqHaULUhMHJgsY6hk0bPQ7X68KvLmU0O9YV0r_nZ-qFY1pqN8lg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTcwMTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUwMjQ3LCJpYXQiOjE1MjU2NDU0NDd9.Qh4ejMOSJOe3q2wc4aMxjOXW_KupX4yWGbBhzGb1brD8tTz1WoTgshsIfZZAVBf8UjpbCm6E_oOmMh3iG7Hwjw==
+.twitch.tv	TRUE	/	FALSE	0	login	l_hannah30g_t
+.twitch.tv	TRUE	/	FALSE	0	name	l_hannah30g_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:24:07Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	99fe2918ed0e8c295d80f438ffbb7d5b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfaGFubmFoMzBnX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk3NDQ3LCJpYXQiOjE1MjU2NDU0NDcsIm5vbmNlIjoidnRQMUluYmlHVzhpNnNRNXVTMDlYVTRpNUtYMjJPMUg0N2ZtNjZFek15WT0ifQ%3D%3D.5GClRUtzbYIld9ZibpKs4-v1sBIdpK7AM7JtLXu72cAvExrZsCoHTooRr_Ch0kGlB6zK-0xUrCmZcNasUxRl0g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	lAQ1oA2DB3zVahiJyy0PuHROZxNXk4nT
+.twitch.tv	TRUE	/	FALSE	0	__gads	ID=05158cc14e4496c5:T=1525645453:S=ALNI_MbvUYVIhbjaew8rDBwC0PiL6F31mQ
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ggnc4ccfbqeoyl93l6kn4ygw4ggi3f%22%2C%22displayName%22:%22l_hannah30g_t%22%2C%22id%22:%22218957014%22%2C%22login%22:%22l_hannah30g_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ggnc4ccfbqeoyl93l6kn4ygw4ggi3f

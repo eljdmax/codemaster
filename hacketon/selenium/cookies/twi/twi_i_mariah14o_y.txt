@@ -1,0 +1,12 @@
+#i_mariah14o_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	%2BTEGYvmkcKqGUWveml%2FK8IWZ%2FkyrvCyWw2CI5Cv2cKM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:12:44+00:00	unique_id	5a90ff69cf868530
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:13:11+00:00	persistent	216484925%3A%3Aafa4zmxc4ik4slezfmahzl1oit6lhg
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:13:11+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQ5MjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NzkxLCJpYXQiOjE1MjQ1NzE5OTF9.XofPG__PRP6mzDaJ-lQxgBRbPV7nspywEbT8ua8Eywh0nteF8UQC3S35YC4mvyFIXoR6Tz351SJRHKtECmM6OA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:13:11+00:00	login	i_mariah14o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:13:11+00:00	name	i_mariah14o_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:13:11+00:00	last_login	2018-04-24T12:13:11Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:13:11+00:00	api_token	cc15b710c3569c65ecefcc72acb8ae82
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:13:11+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWFyaWFoMTRvX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIzOTkxLCJpYXQiOjE1MjQ1NzE5OTEsIm5vbmNlIjoiRFgxMXQ1NnhiNGEtUjE0WVdPLTVHcjdEZWtlNGdLNVJKb2p2cTVmT1JnZz0ifQ%3D%3D.y-WfZWJo6JVm2xdqod4AkRPxL-CtbVi0mg3CfuDLJ6Sj_F7sB1yyrwtqn1CFz4twtBc0HEErnrF6d4pxJzU7bQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:14:31+00:00	twilight-user	{%22authToken%22:%229xt3imj0v1lp07qa024p9lp696oyi7%22%2C%22displayName%22:%22i_mariah14o_y%22%2C%22id%22:%22216484925%22%2C%22login%22:%22i_mariah14o_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:14:31+00:00	auth-token	9xt3imj0v1lp07qa024p9lp696oyi7

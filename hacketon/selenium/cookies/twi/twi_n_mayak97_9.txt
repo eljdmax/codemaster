@@ -1,0 +1,13 @@
+#n_mayak97_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	T9%2B3IgwxHrlBVYsuQ4LBBmCPMVOjjXwfcjUktyP77Kg%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:06:37+00:00	unique_id	626cd028836ba8d2
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:06:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:07:04+00:00	persistent	215242292%3A%3Au37f3jqh5akpci5ipwhgkyge5n2jp8
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:07:04+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDIyOTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5NjI0LCJpYXQiOjE1MjQwNzQ4MjR9.V9pU5hMYqQvKoDJlK4q9JLgBTR1NeZ0Wo6rJJynBDRPRlf_jwE7-mlDa6g5WUKw6k5Guiz-0cI4Gp8rBzPVTUw==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:07:04+00:00	login	n_mayak97_9
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:07:04+00:00	name	n_mayak97_9
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:07:04+00:00	last_login	2018-04-18T18:07:04Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:07:04+00:00	api_token	0b612909f2cb3fa0a170b4c90e09c99b
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:07:04+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbWF5YWs5N185IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNjgyNCwiaWF0IjoxNTI0MDc0ODI0LCJub25jZSI6InlLOE9zSzRlMXNIYmNhaUdDaHVIQ1ZEV0s0aG16dnFnUFVjN2NJY1JuMDg9In0%3D.HuhTJJaCy8S57j9eHP07-DN7WV3Ef00109uBvHXB_okQzoyYUYzCDDD8FxEWNaBRo5d8sF8ZaYoCFUCN5tvJ_g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:07:57+00:00	twilight-user	{%22authToken%22:%22mjzdfsp8usblbus5rhs6wmiey702gq%22%2C%22displayName%22:%22n_mayak97_9%22%2C%22id%22:%22215242292%22%2C%22login%22:%22n_mayak97_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:07:57+00:00	auth-token	mjzdfsp8usblbus5rhs6wmiey702gq

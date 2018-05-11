@@ -1,0 +1,13 @@
+#i_danielak4p_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	c64bB5XiRP7S8JbC%2BWNg6bfdd%2BXvj%2B2zgm8E7nYcxFM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b9d03af68153fccf
+.twitch.tv	TRUE	/	FALSE	0	persistent	218945094%3A%3Ar4jt1f19a6v4nwljgeggvr49jzmv3y
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDUwOTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDQ4MjcsImlhdCI6MTUyNTY0MTIyN30=.rB1mMPZcCjD2aQJ761NanH_uYvF3uPBrklBVcUTa_zHcLSUxIbjv_pD5t80Ylc6WnWt83gtgjjHLJpvoLIYDPA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDUwOTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2MDI3LCJpYXQiOjE1MjU2NDEyMjd9.Oyqf4rryRBFa-damBmQxCR3QnkRtuwJa5KtR6dMjoT9ZJ8P9caGbhA0VIEQI4eET3FegTS-Yz15dDV9zvj2GWA==
+.twitch.tv	TRUE	/	FALSE	0	login	i_danielak4p_k
+.twitch.tv	TRUE	/	FALSE	0	name	i_danielak4p_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:13:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f4885673b59387a2752a58d3b6122b7d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfZGFuaWVsYWs0cF9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MzIyNywiaWF0IjoxNTI1NjQxMjI3LCJub25jZSI6IjNJNHZxOXF2TXAxdXlXRkg4Zi00WXdzaGdDWGRmazg2Q3VJbWZuNWNDejg9In0%3D.koYw8Zl4HvbCu9rDXitmZu8V8WXHHRBc6wOCljAepOm4GrnKbMO_EG9HCafBiHW_2mdpmXchV2q9zVHJScy5CA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22owt4p0tx5gswmw9k1iyn7umrzeehsg%22%2C%22displayName%22:%22i_danielak4p_k%22%2C%22id%22:%22218945094%22%2C%22login%22:%22i_danielak4p_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	owt4p0tx5gswmw9k1iyn7umrzeehsg

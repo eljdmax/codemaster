@@ -1,0 +1,13 @@
+#j_calebj2p_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	4g3YYMEEbHawFzKADJgydqhGSR1iE8ix2r%2FjIItF4JM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3fdd5b0869b392b3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217936709%3A%3As6m6bvgofshi6rxt0zib8k9tndywvy
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzY3MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTQzNDgsImlhdCI6MTUyNTE5MDc0OH0=._V8bOBBBbnVA3_NFJtImkkx-eRoJK9_OyJWhJKZatmlhFlEbPgevDgKFfXeapGPaxZLdYg3IiAnJm_fuQFPJhg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5MzY3MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk1NTQ4LCJpYXQiOjE1MjUxOTA3NDh9.1XfKBpT5gBiEReUD9g6gWMkzMsZaTx0NoF-51tEFqXhiKPRrbWQm32xLO4304zz4Ndf54neQyoFfGelIXomufg==
+.twitch.tv	TRUE	/	FALSE	0	login	j_calebj2p_b
+.twitch.tv	TRUE	/	FALSE	0	name	j_calebj2p_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:05:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	5845ae4f92da23945a8a0acce8e2a6f2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfY2FsZWJqMnBfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDI3NDgsImlhdCI6MTUyNTE5MDc0OCwibm9uY2UiOiJ2RThQMWpFNUZ4SEE1ekNPRDJxZ3R6NXpYaGZ1WUlHSG1OclFaMjBhLUZJPSJ9.CaRha5dInEqOcu1WGSet9iwyZGsqPYaSDKgWmC68iJ6yiW6OI7qJQKXJA-na65F8EYIPOMr-qIS75vnispqJKA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22go57oqzp85nmdwosxnhba5bq3g60um%22%2C%22displayName%22:%22j_calebj2p_b%22%2C%22id%22:%22217936709%22%2C%22login%22:%22j_calebj2p_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	go57oqzp85nmdwosxnhba5bq3g60um

@@ -1,0 +1,13 @@
+#c_victoria12x_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	tCmb9YsEMGJP%2BmEjXdL8RulkPrnBHZvkxqIvtossDIw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	693701208b5cc091
+.twitch.tv	TRUE	/	FALSE	0	persistent	218945909%3A%3A2it3h8zmc9431c9mpres2od1wt142j
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU5MDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDUwOTUsImlhdCI6MTUyNTY0MTQ5NX0=.O78NdjUZYrcBzu9tQxHvROZzUeeqxlRFooY812pE6T7b6gTEev7pVfJSzHike5XFAQlc-Lr2bCu1z2eMwRlhww==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDU5MDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2Mjk1LCJpYXQiOjE1MjU2NDE0OTV9.1mNMnLvDsoQ8MSYBTDgFo3MlsVealtUwsh3KZZc6b1dOCWCD_hYRfRtfwU9ZVHB1LhPf77DAdUjuG0ihJSThQQ==
+.twitch.tv	TRUE	/	FALSE	0	login	c_victoria12x_4
+.twitch.tv	TRUE	/	FALSE	0	name	c_victoria12x_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:18:15Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	250c3052e46154ebcfbb0f62377077b7
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfdmljdG9yaWExMnhfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTM0OTUsImlhdCI6MTUyNTY0MTQ5NSwibm9uY2UiOiJFX1JGZFlodHBhMzc0SkVNSkN3UGNKckI0ZG9TQkx1UU8wQ3FGY2JaN1pRPSJ9.XzpJRKJfIBqGRv08rsFtoxWKF10UBYZsytRag7bf8MKstA-HwfoIq2qBykMNlR5e33mrxtX1EKKCW8hUa4qlCA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h3gcyzjt1wwaoj847lkvkg5lg0zor8%22%2C%22displayName%22:%22c_victoria12x_4%22%2C%22id%22:%22218945909%22%2C%22login%22:%22c_victoria12x_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h3gcyzjt1wwaoj847lkvkg5lg0zor8

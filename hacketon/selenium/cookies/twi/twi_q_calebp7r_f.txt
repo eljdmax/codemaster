@@ -1,0 +1,13 @@
+#q_calebp7r_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	vs8QynltGWwJLqjyBspJeTDBqBlHCYZe54Tsh74iuaw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:30:00+00:00	unique_id	c08f1ab726a8d0ce
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:30:00+00:00	_twitch_session_id	4ada86c886cf469927b6bc2adc316ae3
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:30:15+00:00	persistent	216475941%3A%3Ayizt8nxei1qc1p7ye3dy2z5wb86euq
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:30:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzU5NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwNjE2LCJpYXQiOjE1MjQ1NjU4MTZ9.50lmvO6CeJ82WYf6OLuxV0PWgwv3xu1VYmwCtZ-K4wAARZxbWP66fHyEdbRBaCGPfbWw8-oYmtg7RiRZl78Xqg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:30:15+00:00	login	q_calebp7r_f
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:30:15+00:00	name	q_calebp7r_f
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:30:15+00:00	last_login	2018-04-24T10:30:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:30:15+00:00	api_token	0507a961f3874646e56abddc7d1d76cf
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:30:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfY2FsZWJwN3JfZiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTc4MTYsImlhdCI6MTUyNDU2NTgxNiwibm9uY2UiOiJnemw4MWcxVXZFRk45bDBaZTFfOXFXdnFYUEtyRTNQUTd4VUZBcEhNMm9RPSJ9.yV8Ejh280L2jQKyZPOylFgBWi9od1mr8K51aSbTZGCjvV3UpkHie7AzrGh1VtkwIxReXNUnfpKBvANSEkCk6Nw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:31:38+00:00	twilight-user	{%22authToken%22:%22jtxvbcs4xape0zeroepuhgbo59g6dv%22%2C%22displayName%22:%22q_calebp7r_f%22%2C%22id%22:%22216475941%22%2C%22login%22:%22q_calebp7r_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:31:38+00:00	auth-token	jtxvbcs4xape0zeroepuhgbo59g6dv

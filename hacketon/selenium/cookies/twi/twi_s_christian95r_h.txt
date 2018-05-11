@@ -1,0 +1,13 @@
+#s_christian95r_h
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NGBK7MsSUnBgDgmGNJls%2FYbsPx8tFh34FOzhQDxvZmo%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:53:28+00:00	unique_id	fcdee0247281c7bf
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:53:28+00:00	_twitch_session_id	a848e2ba97c5f4bf3e54a4c9bcfd749c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:53:54+00:00	persistent	216477887%3A%3Avwxfy6yvaitmuqgsmq5lqnqpbdz94z
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:53:54+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzc4ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyMDM0LCJpYXQiOjE1MjQ1NjcyMzR9.UZ03IV2AQgODObX2jY0GYAVxiZ9saq8BkSeI-nb0kVpUmFz7TKka0IQZvhsHsle-YzN_IKeEi3YPg3l7Je4hCA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:53:54+00:00	login	s_christian95r_h
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:53:54+00:00	name	s_christian95r_h
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:53:54+00:00	last_login	2018-04-24T10:53:54Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:53:54+00:00	api_token	5e5e8a7138414ec45e1fa236d1fbf7ee
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:53:54+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfY2hyaXN0aWFuOTVyX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE5MjM0LCJpYXQiOjE1MjQ1NjcyMzQsIm5vbmNlIjoiZTFMVlV1dEVUQk9NSGpHQjctS2prLXR6c0FDTDdlNTlwWDFDUDNMLXlxND0ifQ%3D%3D.6V2EfYLYG6g7p_YJFTqjD1r3V2EAiA-Fw3gcbl9fecnPJbL4bw6TbqzWb7xnjx1FwaNPCUs8d67JOff6STuGrg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:55:14+00:00	twilight-user	{%22authToken%22:%220g52yms6k53jluesr3b4xzby8zapz4%22%2C%22displayName%22:%22s_christian95r_h%22%2C%22id%22:%22216477887%22%2C%22login%22:%22s_christian95r_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:55:14+00:00	auth-token	0g52yms6k53jluesr3b4xzby8zapz4

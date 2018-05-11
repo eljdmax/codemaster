@@ -1,0 +1,13 @@
+#p_juanf67_6
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Fs6laA6y2jjEmawdty0HOwlmnFi8j0zyxs6Pvpu3Oqg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7b08ba8f60c82ed7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218948144%3A%3Au7ek4k57166i3wq5frdykw7do6vzm5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDgxNDQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU4MzcsImlhdCI6MTUyNTY0MjIzN30=.xJvX1sAyjj9GI9F4RmW75n1q79UNAU4XgGSqElXoHjz7YlfC8Mcqr3mSi-CwNMjtTKyh7p2yQeNFoMLbmtyhIA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDgxNDQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MDM3LCJpYXQiOjE1MjU2NDIyMzd9.dVKgzrfD5fxgF4TCOiQqFwwMq42HEggakcvMzBh4IxygLY9r1ZoT9kWS0MJElRpgpvQ3pxzvmbrNX9W32WKuXQ==
+.twitch.tv	TRUE	/	FALSE	0	login	p_juanf67_6
+.twitch.tv	TRUE	/	FALSE	0	name	p_juanf67_6
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:30:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	75fd04d15b42b94636266f96c394ce38
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfanVhbmY2N182IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NDIzNywiaWF0IjoxNTI1NjQyMjM3LCJub25jZSI6IkFQems3T090S3A1MHc1ZklaWWMtSGVZZWJnWjlZc0phaVU2RUxqd0xNVEk9In0%3D.AxjsU4U-PwpvW-5V-1fMlBjXoW2d4gNsvFLR1X1-JRTmUXW6P_ItZD-_V9pDHbPD_xqA7kWAaBkKol8l_1IUVA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h85q3uub8lzn3frgw35rswmzkrh4ps%22%2C%22displayName%22:%22p_juanf67_6%22%2C%22id%22:%22218948144%22%2C%22login%22:%22p_juanf67_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h85q3uub8lzn3frgw35rswmzkrh4ps

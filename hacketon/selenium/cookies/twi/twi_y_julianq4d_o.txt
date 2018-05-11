@@ -1,0 +1,13 @@
+#y_julianq4d_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7%2BzbaLAdFznwfsDfSPmtNPyfFdaQkrHJ0QLfkkxcMUM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:41:32+00:00	unique_id	35c986fe84da3060
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:41:32+00:00	_twitch_session_id	bfb5a7c83c575ad5c3eea3513da62b0d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:42:05+00:00	persistent	216488060%3A%3Apmdrcq6fasn2lple93pcuvmxczujq0
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:42:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODgwNjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc4NTI2LCJpYXQiOjE1MjQ1NzM3MjZ9.vyViVPlgT8hyfhZSMaFpi5g3WFF7bj0F18iys5NEuUGPm58OoMhUoNo5bfjGYDbwnY5TWKw-ruhRMdnW_C34UA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:42:05+00:00	login	y_julianq4d_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:42:05+00:00	name	y_julianq4d_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:42:05+00:00	last_login	2018-04-24T12:42:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:42:05+00:00	api_token	ffce32941e241630859baf77bfda134e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:42:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfanVsaWFucTRkX28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI1NzI2LCJpYXQiOjE1MjQ1NzM3MjYsIm5vbmNlIjoiQWo2d3hCT1lYV1ZKRTFyeFVvSk5VeHNLQmdZQzVtYWlCOFJLc1dOcDZjRT0ifQ%3D%3D.yFXFKpuikG-W5PwgTInQpmHJ2NMeIeZtxfb3udabgbK0533zkrzbolsiUom-rHBe_pSw1voi774C1lEATlwkWQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:43:24+00:00	twilight-user	{%22authToken%22:%22h5jb0p9plmc930nmsvnxxuurnq9d4v%22%2C%22displayName%22:%22y_julianq4d_o%22%2C%22id%22:%22216488060%22%2C%22login%22:%22y_julianq4d_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:43:24+00:00	auth-token	h5jb0p9plmc930nmsvnxxuurnq9d4v

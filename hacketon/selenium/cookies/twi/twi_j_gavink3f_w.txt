@@ -1,0 +1,14 @@
+#j_gavink3f_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	eg7LMekkWdCrLye1HXIMXh2LpSiPpATrC%2Bc8F2XIdVI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	abe636a7472c7dae
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b8e4acb718a894d5cf8631310e24f60f
+.twitch.tv	TRUE	/	FALSE	0	persistent	217947551%3A%3Aez334dq2qj7c8s6voaj8q5gqzhlji5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc1NTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxOTc1MTEsImlhdCI6MTUyNTE5MzkxMX0=.xy-jTVxuF1QfZktDbQMRAgxIJKxKQns75yESBglRqF0EIkRpeZqY7yWS8reAUzMFijNgo6buVjHzCZBl7kcDMw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NDc1NTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzk4NzExLCJpYXQiOjE1MjUxOTM5MTF9.GjLcRQiGX2RJKkkQaVX_w75TyLtqzqSX8wfsZ8SrqAOfKqo043e1V2UX-kRMIxNN4QlzDUHiXFQRH53UUTCqZQ==
+.twitch.tv	TRUE	/	FALSE	0	login	j_gavink3f_w
+.twitch.tv	TRUE	/	FALSE	0	name	j_gavink3f_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T16:58:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	682a18f32e45bcb9f1cbb73e8fbe1377
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZ2F2aW5rM2ZfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDU5MTEsImlhdCI6MTUyNTE5MzkxMSwibm9uY2UiOiJOdG5LbHNub3pkeGliNVRjYk82MGFQZkRrb2pfbnlwXzNaSWFEMFE2MGtnPSJ9.S6Y-eM-oploooZICA3ektMoVSQGgAEfcjD7NwTafoxtmFnU8z_m_fEBgDkpRe7WfYLuQEMgKsZ3_NL2cPH8dRw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22dlj5kwnfq07ysqn99j253gw0yxjja7%22%2C%22displayName%22:%22j_gavink3f_w%22%2C%22id%22:%22217947551%22%2C%22login%22:%22j_gavink3f_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	dlj5kwnfq07ysqn99j253gw0yxjja7

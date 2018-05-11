@@ -1,0 +1,13 @@
+#q_alex72k_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pPmqSadtMSfEJvJa8o9ao6F3XgFgXvDOt3MxzpSN3YE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T20:09:04+00:00	unique_id	9002230c69a0ce71
+.twitch.tv	TRUE	/	TRUE	2018-04-30T08:09:04+00:00	_twitch_session_id	60f9306b332f65cecdef0e91a4c2db5a
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:23+00:00	persistent	217561966%3A%3A2id1l6xi7glroa06fdxkgnemaiwwaj
+.twitch.tv	TRUE	/	TRUE	2018-05-06T20:09:23+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjE5NjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM3MzYzLCJpYXQiOjE1MjUwMzI1NjN9.sV3XM0YUU_bL_GVdr-d0XVBNXArbS_FsPHsGBUAcQ9rwNFY98wZ6-YyejIlc7d7OVwBvLRgn6MzA6GQknBwhDQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:09:23+00:00	login	q_alex72k_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:09:23+00:00	name	q_alex72k_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T20:09:23+00:00	last_login	2018-04-29T20:09:23Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T20:09:23+00:00	api_token	ce2110b36ab9605edadfecaa680d95ce
+.twitch.tv	TRUE	/	TRUE	2018-10-26T20:09:23+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfYWxleDcya18wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NDU2MywiaWF0IjoxNTI1MDMyNTYzLCJub25jZSI6Im1RaUdWbUpsWWNUTFFNMktqekFXT09tSG9CcHU1djBhQ2hLRGJHX21BY2c9In0%3D.FJu5R_T00dtBqkpVL8Bm7l8lpRlvFk6XvMFkRAdPzgmZ9hMebCe7Kh4TL4-aAp7spYwyZjyoujeUgbD3swX4qA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:11:07+00:00	twilight-user	{%22authToken%22:%22vsqlevh2tjaqbbjlmn5d3ex7cdx57e%22%2C%22displayName%22:%22q_alex72k_0%22%2C%22id%22:%22217561966%22%2C%22login%22:%22q_alex72k_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T21:11:07+00:00	auth-token	vsqlevh2tjaqbbjlmn5d3ex7cdx57e

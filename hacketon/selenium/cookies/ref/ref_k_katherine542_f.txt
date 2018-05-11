@@ -1,0 +1,17 @@
+#k_katherine542_f
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	ONcSvFelu5NPiEFhf9ysN8rBkWBzf_ATut5nkDFcde47Zv0aC9MhL8NfeCJHNH7yTC-OXBOmyziVvMeZ2sWMLMcmbBqLcjq6NitLMSUvMt41
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	fivk2d0d5nfgxfhtmodvdudz
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	51keeRGoVG6LRUzejGbQJR31UgXQBwHgobw3PHIvLU7OUt6etzQAPdumtB0rsJ8qfuD3IeK-K_mX5S-Za_eQqNOmDmBJjmZYQExXOp0fun4k8hjYLaWSf9-Xu0p2Ma-wGU7JJx5zKh7MjKz3AhZZlvvjdqe3S0dbnxV7p8F4_WGNMh5qqeNFRlRQ3IpfTmjE93LlGBcpzBMP-WWnnYb200jPpC88nxwyjGINLOMFxf5HN7nsPWWgTgWNZhUzuD5U1ENRcaLCcfaTa5oR6CUaLoYtnLjzZSoaduJpjI6BbUoUqgcI0rq7jFzi_Kdps1MRF4BJOJYRwAdeUlOYANCDac8FeMMrpNd6zqB_iUrlhWcYBKYWkAvDJniki2QhrGp8KEVlmCDoLCer2HlGzMD5p5IY1JY2RURRTsaNukdd6kVbvG7AFMKbQ66VMBSzaRSO1F2IQRTRQo3UKRKkn7d1lUTRa3PZH0lYPAq4c0mQjueoqrNAdkUXVnknTilyuoDa
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524836272875%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%222809515196325028%22%2C%22sessionId%22%3A%226559567762377155%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.213011439.1524836272
+refereum.com	TRUE	/	FALSE	0	ai_session	SVgcE|1524836278742|1524836379059.725

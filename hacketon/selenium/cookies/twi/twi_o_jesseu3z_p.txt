@@ -1,0 +1,12 @@
+#o_jesseu3z_p
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pBkb7iZwKOjQwisqG6%2Fip97LLNeISKI2h6UJGiHxwUY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:24:27+00:00	unique_id	face59fe0d68d329
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:24:43+00:00	persistent	216135079%3A%3Azxhbxolymrd9vp68jk6ce7u7filyqu
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:24:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzUwNzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3MDg0LCJpYXQiOjE1MjQ0MzIyODR9.ZX_lJ92NhSh3n2Sk0oi2LtcIQTp_9A6zAeLsl-YayoYSAH_nytK3V_QMdOhNVKX2PT5D6gvj2Iq3eWLBxRss7w==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:24:43+00:00	login	o_jesseu3z_p
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:24:43+00:00	name	o_jesseu3z_p
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:24:43+00:00	last_login	2018-04-22T21:24:44Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:24:43+00:00	api_token	08ce54e996e3b5334e7ceb5ebf674656
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:24:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9famVzc2V1M3pfcCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk5ODQyODQsImlhdCI6MTUyNDQzMjI4NCwibm9uY2UiOiJOdzVNaEtSeEE3OXlHU3Jod0t6NUYxQThScElFdy1OU0RpVHkxaFpTamQwPSJ9.0HtKgGXjMzjeUycw2mnyXeIV1CdKEwly5vmJyGRAQaPJn2rhz1fSAZ3ZyalRgDbXxRVZ3Pz8FEIojNobHFKosA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:25:57+00:00	twilight-user	{%22authToken%22:%22qouogbpgejkqnsqbd4iw50t7q4udbd%22%2C%22displayName%22:%22o_jesseu3z_p%22%2C%22id%22:%22216135079%22%2C%22login%22:%22o_jesseu3z_p%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:25:57+00:00	auth-token	qouogbpgejkqnsqbd4iw50t7q4udbd

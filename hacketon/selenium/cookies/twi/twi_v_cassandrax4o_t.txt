@@ -1,0 +1,13 @@
+#v_cassandrax4o_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	qBmnkhArBE2fXZOW%2Be%2FtTpmgRRmTygow3zw9BHNpGhA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e0991222fdbbe7da
+.twitch.tv	TRUE	/	FALSE	0	persistent	217564979%3A%3Amln9t65l5f6ze2ca3b047ovz9qxl9a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQ5NzkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzY4OTksImlhdCI6MTUyNTAzMzI5OX0=.Iz4Hl5RGGAnLs5tY6O_K_4hwapiz-I-ZZsKR47UvgoTnXKy4kyhv-qrbxOJjjjS9ZFZ5MwPEbAOJE8u-jVrC6Q==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NjQ5NzkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4MDk5LCJpYXQiOjE1MjUwMzMyOTl9.KWyQb1Bm2FPS67aKDIsISQGDH7rBDsTm6ZgL1M91s9V1pdtJr_BozReO7v29Tdj2_70nLBHGHeatWZo_ejJPVw==
+.twitch.tv	TRUE	/	FALSE	0	login	v_cassandrax4o_t
+.twitch.tv	TRUE	/	FALSE	0	name	v_cassandrax4o_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:21:39Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	9f500af3e6430151df8b2af4ead22281
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfY2Fzc2FuZHJheDRvX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTg1Mjk5LCJpYXQiOjE1MjUwMzMyOTksIm5vbmNlIjoidjV5eS0teEV0NlVHLWs4alpSZ2V3MkZHYk1sZC1mUjBibk1UYWRZeHY2VT0ifQ%3D%3D._4v_G9QvMmVjZiLQAStFKr_SySEtV5rr_vUX1uxEPaZQYNVT5pir_Gwl-mSE4VfOt2vG0TUEVnRg4fCfQIDWgg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22e57jdqzgb5c1cz87nu17naz32ugb00%22%2C%22displayName%22:%22v_cassandrax4o_t%22%2C%22id%22:%22217564979%22%2C%22login%22:%22v_cassandrax4o_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	e57jdqzgb5c1cz87nu17naz32ugb00

@@ -1,0 +1,13 @@
+#p_mark92y_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	zq9YegqvkBOBHtZ3T5of7ZcKclNUft%2Bu7XlUv18QaXA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cd67799bd43b020a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217445335%3A%3Ahf1wuryvru3ndhbi1d4hy0d2y05x39
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDUzMzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTc0NDQsImlhdCI6MTUyNDk5Mzg0NH0=.UxypjWrG9vCd37PvV5liPQHUx5diu69-TKZU-c42a1DQzdQKuv9yryMtGsDF2WHEdJLVhUhyhbMh8pfrSeOOeg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDUzMzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk4NjQ0LCJpYXQiOjE1MjQ5OTM4NDR9.NtQav_4J2jrI46lJUZcvtly_6c6t8B3gpZCJ5GFiVrh2VJ3BmVGkdiG4B7iuewV0lWqwOlGKDvQvejIwBHfbqg==
+.twitch.tv	TRUE	/	FALSE	0	login	p_mark92y_z
+.twitch.tv	TRUE	/	FALSE	0	name	p_mark92y_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:24:04Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a2776ecdf818fb7f45afee4f932bbbcd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfbWFyazkyeV96IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU0NTg0NCwiaWF0IjoxNTI0OTkzODQ0LCJub25jZSI6ImFNcFJ0Mlc0M19sZzQtc3FJODdWNTB3a3drRFdlVUpDdjl2WWRzS3RzbmM9In0%3D.9bXOvhd6yFNfZRzP1hqTLfxRFdmJ__Ukdv4SuEI7DkT3vvQqYgxBlMgB4pascPlAXdeGne5YWoGBPsvg-WvYbQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22h7zagxvqocd3v2thmoiwyqofg744wt%22%2C%22displayName%22:%22p_mark92y_z%22%2C%22id%22:%22217445335%22%2C%22login%22:%22p_mark92y_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	h7zagxvqocd3v2thmoiwyqofg744wt

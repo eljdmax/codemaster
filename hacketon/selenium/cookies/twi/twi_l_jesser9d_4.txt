@@ -1,0 +1,14 @@
+#l_jesser9d_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	CwfXzktXzv9ypr28sWcx2jqmGDrXRsaAaK1BoCyZwlY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	db514ac89b12d817
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	1bd33db5a18bea824c11d13c7eb8068e
+.twitch.tv	TRUE	/	FALSE	0	persistent	217250212%3A%3Aeguxac4i8doc8wn20pd453vhusaq2x
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTAyMTIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjY4NjcsImlhdCI6MTUyNDkyMzI2N30=.Rf3VrWe0zuOpZ7dRJx9nkeQupEMn5AOnS-w6Q4mmY3h36zv0s0U_1tz173VSmNhj9vKsly6JkRbZCN3WRIPzGw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNTAyMTIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI4MDY3LCJpYXQiOjE1MjQ5MjMyNjd9.FHxicaIVS6SKFM4hk2wTha-p2Ci6_yYuXPOsw4nOaBcxJoeercODGERTiFJ_tiVxXUlUzYL2TWutJGs11RiXVQ==
+.twitch.tv	TRUE	/	FALSE	0	login	l_jesser9d_4
+.twitch.tv	TRUE	/	FALSE	0	name	l_jesser9d_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:47:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d9debc3a1d225704a7694957327aea2d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfamVzc2VyOWRfNCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzUyNjcsImlhdCI6MTUyNDkyMzI2Nywibm9uY2UiOiJNbUx6dENoeWtHUTFkZU5CT195NDN2QjlWQmV5VXNiZzhwYUdMTzB2b0tZPSJ9.XAzpeb7JBuljbiDZb4WZOCI28hG6taqHd0nSv50ejqc7TdNJTvWR_HdFb3JxlMdcKCEPhVyOWL-Z6zSQtjkvKw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22tlogfi5mv0dvybho8f96fgtq4x0cc3%22%2C%22displayName%22:%22l_jesser9d_4%22%2C%22id%22:%22217250212%22%2C%22login%22:%22l_jesser9d_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	tlogfi5mv0dvybho8f96fgtq4x0cc3

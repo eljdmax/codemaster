@@ -1,0 +1,14 @@
+#d_sarahe2t_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ULUETmAjQmCzAXt7I1wYHEMjn%2B2PTk3qek5gpZ4OpSo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	317198f6414936c1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3826e5097f4a3d7cc27a49ef1b204442
+.twitch.tv	TRUE	/	FALSE	0	persistent	217249660%3A%3Araur2ul177p0rrl4pbcdb7hurjueaa
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDk2NjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MjY2OTQsImlhdCI6MTUyNDkyMzA5NH0=.mGaI92eUUAKB1zevTzmEqgtxAJAKQPoWmOmH25qtduZ0H1B9UG17W088gCQB1BNx4KfGi0okFBGJJMZldThEEQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNDk2NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTI3ODk0LCJpYXQiOjE1MjQ5MjMwOTR9.4GuTtHqWcmxKk55ekoeYWxJERxeXy4KlWjnF3MQp4BI95znLrEGk1mZrTqp4QL7LH5rKJqvEfdh1I78c2NRWkw==
+.twitch.tv	TRUE	/	FALSE	0	login	d_sarahe2t_x
+.twitch.tv	TRUE	/	FALSE	0	name	d_sarahe2t_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T13:44:54Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3612417a167c7a5817a950fdcc6b18d0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfc2FyYWhlMnRfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0NzUwOTQsImlhdCI6MTUyNDkyMzA5NCwibm9uY2UiOiJUUG5JUGkxa1lrckMzRHhtTkNGRWRIUXg4UkxnSkdRNDRsOVZqaU5iN1RBPSJ9.WPMyeRPIaMtI3nCaG81H9MNnMhG26XlJZwv_IzktwkEwdnyvnqFTkgvRzjYHMzZcdWJU6vvSwyjLlJ7UpAnStw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bzyxlfql6euajqfc7xy23ap0yxf07j%22%2C%22displayName%22:%22d_sarahe2t_x%22%2C%22id%22:%22217249660%22%2C%22login%22:%22d_sarahe2t_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bzyxlfql6euajqfc7xy23ap0yxf07j

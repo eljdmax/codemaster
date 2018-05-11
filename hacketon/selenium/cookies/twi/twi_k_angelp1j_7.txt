@@ -1,0 +1,14 @@
+#k_angelp1j_7
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:45:28+00:00	unique_id	6391e6601369361c
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:45:28+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	9hKlVE5UDf06UX1hDBJQQJ8YE%2FH23%2B9V%2FGlp0x4bojo%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:03:43+00:00	_twitch_session_id	daf9d90dc3d1e588f5f02e62d3d0b1c2
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:04:10+00:00	persistent	216473923%3A%3Almp9mezl49rgs6v7jtkk7wsdmkcdj3
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:04:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzM5MjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5MDUwLCJpYXQiOjE1MjQ1NjQyNTB9.kfGUZSCQXZvfo6U__OrCPtnKL9wMJu5SojgdItccZFC-_X_0B5qUdwfVXltXz1Xq3lKRPeb_iP59g0vXVgrOBQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:04:10+00:00	login	k_angelp1j_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:04:10+00:00	name	k_angelp1j_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:04:10+00:00	last_login	2018-04-24T10:04:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:04:10+00:00	api_token	b177b1367cbd21a03a384b1e1f870dae
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:04:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYW5nZWxwMWpfNyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTYyNTAsImlhdCI6MTUyNDU2NDI1MCwibm9uY2UiOiJuWHB3OHE5MnFuYTFhZHdJWmg5aFZpV0FXNk9UaFp5Y1pSRnB4d21abXBJPSJ9.95pxnpGbSgIzS7D1ZKu0evAJyWxtYsMYw0MzoviRGCCOHSb3VqX6IPOPwMJTKHf8BaKSKZwMUSar_NVt3g1yMw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:05:30+00:00	twilight-user	{%22authToken%22:%22z7viyeci3icytz70nyemmoiyqtkxjt%22%2C%22displayName%22:%22k_angelp1j_7%22%2C%22id%22:%22216473923%22%2C%22login%22:%22k_angelp1j_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:05:30+00:00	auth-token	z7viyeci3icytz70nyemmoiyqtkxjt

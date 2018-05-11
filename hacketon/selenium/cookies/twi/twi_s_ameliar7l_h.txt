@@ -1,0 +1,14 @@
+#s_ameliar7l_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	lZ%2BdthvSinNqtn%2Bsg469V6pWgoQf0V3UAjvtKbuCiT0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b56f9a4b9d85e86a
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8046bd2d709b8767db8720805ee01329
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851860%3A%3Az6itgidztizy37tqwjqd6pxhdr4pad
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE4NjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY5OTAsImlhdCI6MTUyNTYxMzM5MH0=.eWMLaZ4Uds9brNj-bR3kA-bkdco3GZ8pxvey2Ednl7TSfsQiVNtVlKIl6e4KgitX3F7dlK0L8TWwyAWReY2LIg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE4NjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE4MTkwLCJpYXQiOjE1MjU2MTMzOTB9.Gv4VGSLpYA305G-waBcZBcxlojbTo8DT1KLmXsZ52icdCDx_ABdTXp65fuND1f6NzKkrPZBbTVH-SM6iTNGqyA==
+.twitch.tv	TRUE	/	FALSE	0	login	s_ameliar7l_h
+.twitch.tv	TRUE	/	FALSE	0	name	s_ameliar7l_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:29:50Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a00b0d2910062494889693d114a760dd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYW1lbGlhcjdsX2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY1MzkwLCJpYXQiOjE1MjU2MTMzOTAsIm5vbmNlIjoiZlA4OGl2aWdKNmVSSnZ4dXdTR0lPOU9INW9scG16UHRLRDJHWHBHVkN1RT0ifQ%3D%3D.FJpJgl-JrmDfYWBjqo84ohTNRQsjqhd9-k6939xAx1J_A1hv58nQmrM9WOKAjQP5orW_3X_-Eb9t8a1pefDSzQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22db34c2pelrz29t5s79tv5wtd3txkzk%22%2C%22displayName%22:%22s_ameliar7l_h%22%2C%22id%22:%22218851860%22%2C%22login%22:%22s_ameliar7l_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	db34c2pelrz29t5s79tv5wtd3txkzk

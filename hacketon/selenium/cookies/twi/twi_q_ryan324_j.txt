@@ -1,0 +1,14 @@
+#q_ryan324_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	1wTKFjxqWe%2BYg5h%2FbSCcrveaJWqa26WVbl79MKywFGI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1390b8cefa41b5b7
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	2ddcc8eeacc3256da07eca60312a2d52
+.twitch.tv	TRUE	/	FALSE	0	persistent	218946924%3A%3Adw5pq72zgcebln24exlf66wececs96
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDY5MjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDU0MjgsImlhdCI6MTUyNTY0MTgyOH0=.alHjwKnD1XS_TwqEw8vhfKEyTmrWx-ldoywDqZ-90bVwNH3vlfwmhbHJBO68ZbCZUkAiJex4kwe8wi8sxVrsww==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDY5MjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ2NjI4LCJpYXQiOjE1MjU2NDE4Mjh9.MEF5EKVekWwrOjI4Khg1ltJvgxWWaTfOwI3wt1G9b4iWccFk08gYI3hhOxVkDMrKh9gYYwmE6eZZX7bg0Bgocw==
+.twitch.tv	TRUE	/	FALSE	0	login	q_ryan324_j
+.twitch.tv	TRUE	/	FALSE	0	name	q_ryan324_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:23:48Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	14da2d33d8b99fd761c6ac470c18fa3e
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfcnlhbjMyNF9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MzgyOCwiaWF0IjoxNTI1NjQxODI4LCJub25jZSI6InR6WEZxb01xXzczLWp4cnhNSUNyUzhoQm5RdG9PaHhpUUQ1T0ZjSXdsMjA9In0%3D.FuH2Tf5PIsNXPa5yf5ZmoVnVobal71KIAIVPswv0jyBuEaLKHmfED4W0vwiJqExia4XeZzLmfdLbqev3Cwq_QQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22f4zep4yalqs6cyp0u82z5iio9b1hxd%22%2C%22displayName%22:%22q_ryan324_j%22%2C%22id%22:%22218946924%22%2C%22login%22:%22q_ryan324_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	f4zep4yalqs6cyp0u82z5iio9b1hxd

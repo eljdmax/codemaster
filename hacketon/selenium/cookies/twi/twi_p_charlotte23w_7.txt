@@ -1,0 +1,13 @@
+#p_charlotte23w_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	0Ol96Rt9SJcx6df7B0UYqInHVqBF3ljusoq21O7CFG8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:24:45+00:00	unique_id	4b61c7d65f34ad11
+.twitch.tv	TRUE	/	TRUE	2018-04-23T09:24:45+00:00	_twitch_session_id	bd4a65bb98f2b46627071f0e04b9d65c
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:25:09+00:00	persistent	216135151%3A%3Avggburlww210k0cf8izrcv0irk127e
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:25:09+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzUxNTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM3MTA5LCJpYXQiOjE1MjQ0MzIzMDl9.5GOg_KuaGeq751XyuS2mkVTC5x9FVnz-DBIWK0NmMqFWfDQ6aThYiZ8_rZou5LlvS0t4CoiRhyDJPyomVZ1DBw==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:25:09+00:00	login	p_charlotte23w_7
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:25:09+00:00	name	p_charlotte23w_7
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:25:09+00:00	last_login	2018-04-22T21:25:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:25:09+00:00	api_token	d22ec12af8ad08f5c3d1a0ea756715a8
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:25:09+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfY2hhcmxvdHRlMjN3XzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5OTg0MzA5LCJpYXQiOjE1MjQ0MzIzMDksIm5vbmNlIjoiWnhfY29TUG0yZ0dUQWF0d0JFSHdxMWdseVZSdFVFQ1owV1NtUlV1VWlqbz0ifQ%3D%3D.jIG_lHv6w1hXHckJuo2CPAOH8-RFfPIOAfWncCBLjZamh-SzN6PK6EpMBxd8bo-qc1iKgFIG0B6wVA2lY8xwZQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:26:21+00:00	twilight-user	{%22authToken%22:%223l9n69e0x3svqmpdvitf4h4ydtvyi8%22%2C%22displayName%22:%22p_charlotte23w_7%22%2C%22id%22:%22216135151%22%2C%22login%22:%22p_charlotte23w_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:26:21+00:00	auth-token	3l9n69e0x3svqmpdvitf4h4ydtvyi8

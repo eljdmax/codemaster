@@ -1,0 +1,12 @@
+#s_benjaming31_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	jbXeFcvnB6OE6LNYynJkbX4YWKOg2Ey%2BnrgkGXfQGKA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:02:19+00:00	unique_id	9407310567a15336
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:02:58+00:00	persistent	216940850%3A%3A7sn6uz85emq6xehmb4mb5ldxbfa294
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:02:58+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDA4NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMzc4LCJpYXQiOjE1MjQ3NzY1Nzh9.d1Cqh2wdEgE1ThuLZwsRHy8_toiig--2Cc_pKJtJ_pE6wh_F0IEYew-h4mCX_c6YgLY0LJOJW9CfvZqfzPrs4w==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:02:58+00:00	login	s_benjaming31_j
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:02:58+00:00	name	s_benjaming31_j
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:02:58+00:00	last_login	2018-04-26T21:02:58Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:02:58+00:00	api_token	024bb4f6901570050eea75985b69d9ad
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:02:58+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYmVuamFtaW5nMzFfaiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjg1NzgsImlhdCI6MTUyNDc3NjU3OCwibm9uY2UiOiIyckdONFBHUU5vVjFSNzUybmlnek5MMGR1YklCU3JUYXJ5bU90eDhNSFZZPSJ9.qZ9MLl27nq72kzMQFMmhb9TRNbaA_l8j1C2B5aPqEkJ2pLqHQGdMjPA0vQoVUwtvxnOAUb4e32DnId7v17aQ9g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:04:30+00:00	twilight-user	{%22authToken%22:%22jlt64ril42e21gwny21evbxbkdd3er%22%2C%22displayName%22:%22s_benjaming31_j%22%2C%22id%22:%22216940850%22%2C%22login%22:%22s_benjaming31_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:04:30+00:00	auth-token	jlt64ril42e21gwny21evbxbkdd3er

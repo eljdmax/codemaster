@@ -1,0 +1,13 @@
+#f_mariaht41_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DtJn06i0v5eCLobDfD1fIPU%2FGLP77ztzAdS4Yj4%2BH44%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ffa6458e661768ed
+.twitch.tv	TRUE	/	FALSE	0	persistent	217451643%3A%3A1q52hrctf1i5uzyj08gl7fm7u6by19
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE2NDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMDA0NTAsImlhdCI6MTUyNDk5Njg1MH0=.1GjU990S9UD8iBtcHqwIHHw7elHqippYggebGFMYm_hwuRyCHSUQGVvlrrwkiSxE1tPXRJpe9tk2WPJIiCjlDA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NTE2NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAxNjUwLCJpYXQiOjE1MjQ5OTY4NTB9.6vJHkYNONezOnOicEpJqrLtQAL7NqCwYRlZhe43tNPhc6W9xUumjIi_ly_ocHXLLJ7F7NggvH1vnw4BJxEejKw==
+.twitch.tv	TRUE	/	FALSE	0	login	f_mariaht41_e
+.twitch.tv	TRUE	/	FALSE	0	name	f_mariaht41_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T10:14:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a129f4207427e50544b0fe2c85aa64f6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbWFyaWFodDQxX2UiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ4ODUwLCJpYXQiOjE1MjQ5OTY4NTAsIm5vbmNlIjoib3pwaUdEQmtRRU55c0pKWEg5d09Bci1PcXlPYk00Tndpa2hjQnZYMlRaUT0ifQ%3D%3D.7BDUt0wCkmqGbDoe2oxePm-7-I2_ucXKRYZWT6Q8IUi3B8neVww-kriqAXlNC_Zx4nwZYd_Vjh1y2C22CnljuA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228stpwtpximl7d39mkspkwac2w4wdc8%22%2C%22displayName%22:%22f_mariaht41_e%22%2C%22id%22:%22217451643%22%2C%22login%22:%22f_mariaht41_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8stpwtpximl7d39mkspkwac2w4wdc8

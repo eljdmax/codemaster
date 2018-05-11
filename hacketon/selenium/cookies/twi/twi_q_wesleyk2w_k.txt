@@ -1,0 +1,13 @@
+#q_wesleyk2w_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	NYOTPZbHn7npAi8WVjuthtkCt9U%2FHIJgtaETfETUGwM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	094af5438b03f395
+.twitch.tv	TRUE	/	FALSE	0	persistent	217957599%3A%3A41nhk3u03mz82v44dteosrpbnfkg1z
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTc1OTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUyMDA0NDksImlhdCI6MTUyNTE5Njg0OX0=.T7kQOK_ydgQx9aFscDIV6db6wFqvy5YQirvKqhSAFrZfzADAzP7vZtm7B53IIz34om8TH36FEJpLhKRt4ecdrg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTc1OTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAxNjQ5LCJpYXQiOjE1MjUxOTY4NDl9.KXW_nw1ZZcwy_QSInUSp6RFcZ8I88pnUMO0Fxg1_VMQ9Ihas3nW_NGQqOwniX8nqr4SqS8lhrI7Gzh5-vc2H-g==
+.twitch.tv	TRUE	/	FALSE	0	login	q_wesleyk2w_k
+.twitch.tv	TRUE	/	FALSE	0	name	q_wesleyk2w_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:47:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	41b5d17748ea6127ca6c913198f23b6c
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfd2VzbGV5azJ3X2siLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNzQ4ODQ5LCJpYXQiOjE1MjUxOTY4NDksIm5vbmNlIjoibWd1XzZhZWgyaDBuU3NGRnRoRDJabmZVbWFrV1cwcC1NTUlDcnBnM1Zmbz0ifQ%3D%3D.TEGs-VBoM75rDS3dZF1v1Eeq4HW-FznbzNlVk2-07l9dcjPaJ4mkWMtuCBrClqi-dr-i5rZZoOTly6hNhCZbVA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xhjkurtfllzwtjs4r0ibd04x68i36r%22%2C%22displayName%22:%22q_wesleyk2w_k%22%2C%22id%22:%22217957599%22%2C%22login%22:%22q_wesleyk2w_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xhjkurtfllzwtjs4r0ibd04x68i36r

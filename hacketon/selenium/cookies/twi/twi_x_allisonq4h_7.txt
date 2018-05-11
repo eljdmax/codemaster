@@ -1,0 +1,13 @@
+#x_allisonq4h_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Rxtt91PcJmv7JzAtdDVyOFpdb4crMN%2BaWBob5QvEuA4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:58:09+00:00	unique_id	0c2d852dce983d92
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:58:09+00:00	_twitch_session_id	23efb7c92bf1d4d99b914296645a807c
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:58:26+00:00	persistent	216940046%3A%3As2y80ut6e2twqwzv0uznrrlbzc7isr
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:58:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDAwNDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMTA2LCJpYXQiOjE1MjQ3NzYzMDZ9.p1XvCWN9k8C8FNEj9ZlCE-NhyNERh8oyxq_yLPna-_3kvlR8qXVDzBeUDRFqX2EW2QCzW1NnrQng1EwR6QbNHA==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:58:26+00:00	login	x_allisonq4h_7
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:58:26+00:00	name	x_allisonq4h_7
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:58:26+00:00	last_login	2018-04-26T20:58:26Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:58:26+00:00	api_token	5eb018764e16082bd63075ad4c6c1722
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:58:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYWxsaXNvbnE0aF83IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyODMwNiwiaWF0IjoxNTI0Nzc2MzA2LCJub25jZSI6ImhIbDkzRFpaMjVwOFQ1d1hBWkFUZnAzMVI0ckhQVlJzN05IeTJjeGFrd0U9In0%3D.ZLUPpuB3fIacGcxpy33OmZV35SbbHdZWlhe59Foh3zydp0p06X0PVhID1e9l_vcgXnKt6Bt0nIU00dgZlbf52w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:59:57+00:00	twilight-user	{%22authToken%22:%228myhfq0ruct7t8hgafug05aa20eosk%22%2C%22displayName%22:%22x_allisonq4h_7%22%2C%22id%22:%22216940046%22%2C%22login%22:%22x_allisonq4h_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:59:57+00:00	auth-token	8myhfq0ruct7t8hgafug05aa20eosk

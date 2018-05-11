@@ -1,0 +1,13 @@
+#z_nicolasd4w_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tvTbUG6LPZEFHo8koa0iPRhcrdiuNQX8MQnwDcFOXok%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:48:55+00:00	unique_id	ace0365b992f2c5d
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:48:55+00:00	_twitch_session_id	fc776f5de89fb08f78cf74354af40e9c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:49:15+00:00	persistent	216477487%3A%3A166wk3rqrm1annh0medknq1jzdny7f
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:49:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzc0ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxNzU2LCJpYXQiOjE1MjQ1NjY5NTZ9.kdKgFhDPad1AMrrYgyX4SXwa8mX7Ud1ylJVt565tYWWEF8tzjEvj2hqYIL30X9Li3jYd6cT-ztDPCR11kPqk4Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:15+00:00	login	z_nicolasd4w_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:15+00:00	name	z_nicolasd4w_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:49:15+00:00	last_login	2018-04-24T10:49:16Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:49:15+00:00	api_token	58716d0517c839201e8a04acd1f3ca38
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:49:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfbmljb2xhc2Q0d19iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDExODk1NiwiaWF0IjoxNTI0NTY2OTU2LCJub25jZSI6Ii1mY3E0Q3QzYl9jNVcwNWRJRG9ObnFkc0gtSEVRaGQ1YUF6c2VHdjNtRlU9In0%3D.YBhv7_xMMBAZoyw1ZN5eZOPvydJyLYJBjxLnbaS_u949v_xpfNJljjf2Q5rUTMCXChWDqhPAIfo2qdzFkNXv9g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:50:35+00:00	twilight-user	{%22authToken%22:%22cav66w8i03fa2ejbt3hagaw62npe31%22%2C%22displayName%22:%22z_nicolasd4w_b%22%2C%22id%22:%22216477487%22%2C%22login%22:%22z_nicolasd4w_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:50:35+00:00	auth-token	cav66w8i03fa2ejbt3hagaw62npe31

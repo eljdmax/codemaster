@@ -1,0 +1,13 @@
+#e_mariaf8m_1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	pA9SaNxSlu2jOYLYTxlvzM7%2FcsECPDeJXLUd%2BtovEg8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:25:03+00:00	unique_id	254a1e27d604565c
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:25:03+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:25:33+00:00	persistent	215245947%3A%3Alsfz7jqylnezt014gjut6dh28ecjxc
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:25:33+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDU5NDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwNzMzLCJpYXQiOjE1MjQwNzU5MzN9.Ieh5YrrV3-EWJYcQD24vHMn-erHFoVBlkwWltZkrGFULU9k00oQfdOPQcTHPJfKrJGsKZYicTIHeQTIonpjexw==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:25:33+00:00	login	e_mariaf8m_1
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:25:33+00:00	name	e_mariaf8m_1
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:25:33+00:00	last_login	2018-04-18T18:25:33Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:25:33+00:00	api_token	51ba9c21484313685abf9e0c893d4ef7
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:25:33+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfbWFyaWFmOG1fMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1Mzk2Mjc5MzMsImlhdCI6MTUyNDA3NTkzMywibm9uY2UiOiJCRDlQS1pwVUhiNjFpaDN2RjFuaDRud3lILW8zd2hpcEFqbE1BMDBGWjQ0PSJ9.roMNiL1bdRqm0mJWW6I39I8vYuP7bsb8Ubld5VC8uka-EUgRWshNLqIsJ88nZ-ZORPgrHvgpEKz-ZL_BaSODEw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:26:25+00:00	twilight-user	{%22authToken%22:%22ey4qzq46r3u35lk9o2j7ypf806x5yl%22%2C%22displayName%22:%22e_mariaf8m_1%22%2C%22id%22:%22215245947%22%2C%22login%22:%22e_mariaf8m_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:26:25+00:00	auth-token	ey4qzq46r3u35lk9o2j7ypf806x5yl

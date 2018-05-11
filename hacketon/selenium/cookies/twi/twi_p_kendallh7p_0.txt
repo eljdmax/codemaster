@@ -1,0 +1,12 @@
+#p_kendallh7p_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	SDh0yIDoElZcb6G6X9WVmcSCPn2U6zVd8tEkf0cmewU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:37:59+00:00	unique_id	a4d35fdd7343845e
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:38:19+00:00	persistent	217554817%3A%3Axz7w29bgf52x0vj4wg6ipwq4qkg357
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:38:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQ4MTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1NTAwLCJpYXQiOjE1MjUwMzA3MDB9.E2VhISqWotDZfAcXJ8HFMdsuq-qrMkVt35XGWZkJ5fxFoAHcgrXlWoma1YTFmzaVuQJNebZls-kTpdqHfFFPjw==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:38:19+00:00	login	p_kendallh7p_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:38:19+00:00	name	p_kendallh7p_0
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:38:19+00:00	last_login	2018-04-29T19:38:20Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:38:19+00:00	api_token	b10da705611cd442eec32b684fd90f4b
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:38:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfa2VuZGFsbGg3cF8wIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MjcwMCwiaWF0IjoxNTI1MDMwNzAwLCJub25jZSI6ImpzS0dPVFI4Mkl5TW5vY20wV0ZwOXpaaVRPNi0wQVNzSnNqVzVYZVBiZnM9In0%3D.lAKxVMw-b61mFv6FbUbgaSGJ9sS1WET9YtCbL1SdMNTAyKY7MKKJa9LbVLduSQlsk8KoLpWjcqI_MH1ksX0uEg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:40:03+00:00	twilight-user	{%22authToken%22:%22faq4lv0r128bls78l8gp2hlsafq9ol%22%2C%22displayName%22:%22p_kendallh7p_0%22%2C%22id%22:%22217554817%22%2C%22login%22:%22p_kendallh7p_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:40:03+00:00	auth-token	faq4lv0r128bls78l8gp2hlsafq9ol

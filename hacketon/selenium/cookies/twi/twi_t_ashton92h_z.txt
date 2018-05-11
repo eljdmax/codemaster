@@ -1,0 +1,14 @@
+#t_ashton92h_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	w7skvcTL0hDJh97wipi2y2Nj3QT%2FE2He0enUNvi%2B1J4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8bd70cbe665e93af
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ff4d6db4e9e123d82521ff1273333b34
+.twitch.tv	TRUE	/	FALSE	0	persistent	218850456%3A%3A53q9ozg4jcc4rqo1fgnj88nft5ebjs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTA0NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY0MzIsImlhdCI6MTUyNTYxMjgzMn0=.55ifXphZ241Q4T4JlVFAady5y4CAgsKqrlE8UgH5koqcpkJy8qIstW3XPWdyD_yXq3vrog8rjLGne7KGnr6Ttw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTA0NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3NjMyLCJpYXQiOjE1MjU2MTI4MzJ9.cg6Rp3NtTk4EUhHlEVfLe5FOwZLtcJ5DOymh6ksowD-Frcbd0cBVpR1883lEwuNNzglj3uce6CkemQXgf0fJVw==
+.twitch.tv	TRUE	/	FALSE	0	login	t_ashton92h_z
+.twitch.tv	TRUE	/	FALSE	0	name	t_ashton92h_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:20:32Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	31d1b652aa9411a2fe9a0c9e1bbd8955
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYXNodG9uOTJoX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY0ODMyLCJpYXQiOjE1MjU2MTI4MzIsIm5vbmNlIjoiZFRLeWJnaUs3X1gwcjVwZWR4Qmo5WDhyajFvdkdiVnZKQ0U4OE83MGRpYz0ifQ%3D%3D.0wS5-eYNcvXLoIkVZ17hcGpLcd8Kte2kiacRdRbTgv2o-by9iI7cvLvVzpMb161Uqu7SmrJsHBIr34VvO7LBBA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22go5vjsh1bx8dlcmbzymdw5tu1foz1z%22%2C%22displayName%22:%22t_ashton92h_z%22%2C%22id%22:%22218850456%22%2C%22login%22:%22t_ashton92h_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	go5vjsh1bx8dlcmbzymdw5tu1foz1z

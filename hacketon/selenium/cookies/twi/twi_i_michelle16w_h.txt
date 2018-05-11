@@ -1,0 +1,13 @@
+#i_michelle16w_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	k12d5albiSUJ2eslzc9h2ZfTj3VgrAif7EgOLtFzJTc%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	fb26ea6348c4ccd8
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949896%3A%3Apbzohppesbp6j8mbj9ao1x8eylqa0l
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDk4OTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDY0NDIsImlhdCI6MTUyNTY0Mjg0Mn0=.6X9hx0fvXigzv-NR5TJAHtmBBNU1aehOhU6JpcXDvzQd1vXnUU5sntZvGFyrw8D9R2xtfb8u4gCaoBcq7uVhZA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDk4OTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3NjQyLCJpYXQiOjE1MjU2NDI4NDJ9.wIXP5lD7mBWb3TSLzSWE55pYipYMx2vS5YW5tbHQT7exEsEFkNgalk0z-QUKSGKLKcewxKEl4_C2wKJODsPh2w==
+.twitch.tv	TRUE	/	FALSE	0	login	i_michelle16w_h
+.twitch.tv	TRUE	/	FALSE	0	name	i_michelle16w_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:40:42Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4fd858baf97d9b7d6aad414f8a0f8061
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfbWljaGVsbGUxNndfaCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTQ4NDIsImlhdCI6MTUyNTY0Mjg0Miwibm9uY2UiOiJ4dE1xUk1MMlpOSmlGVlowWlBVMnYzUHpOZFlrZk5iZzJfVGNKTXh1S19vPSJ9.t9lYmjfHwoSQtE20o956CmJAP9IQCdvJKEgJo-qXk5O_iUdPf_IMvHa1FXQBUUAySwK1LBeUXAq0hx0byJa8Ug%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pg3j9vz1mcoijgvvee16vdyto8wxo5%22%2C%22displayName%22:%22i_michelle16w_h%22%2C%22id%22:%22218949896%22%2C%22login%22:%22i_michelle16w_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pg3j9vz1mcoijgvvee16vdyto8wxo5

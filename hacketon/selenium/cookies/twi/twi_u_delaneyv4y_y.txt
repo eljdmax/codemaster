@@ -1,0 +1,15 @@
+#u_delaneyv4y_y
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQwNzc5MDcsIm52IjowLCJ1cHQiOjE1MjQwNzc4OTcsImx0IjoxNTI0MDc3ODk3fV0.
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	p%2FaPVW3FRmUBE7nH2WD9%2FJCULa4oeVD9oK9f6ZpwK7I%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:01:37+00:00	unique_id	8106e5df5667d53a
+.twitch.tv	TRUE	/	TRUE	2018-04-19T06:01:37+00:00	_twitch_session_id	cdaf88427b101a8f42362bd683fe26b2
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:01:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:02:17+00:00	persistent	215241354%3A%3A2hxkuqpsukjqivebdw0a8z6y5hsgrt
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:02:17+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDEzNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5MzM4LCJpYXQiOjE1MjQwNzQ1Mzh9.nI6phKVxSsqtEcWKcOMH3X_jRM0UeG0xFUVPdRG__GG3Sd_sHRxUe5H1P2Bgf0hCe0NbUYItARVdVCuuNXuhbA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:02:17+00:00	login	u_delaneyv4y_y
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:02:17+00:00	name	u_delaneyv4y_y
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:02:17+00:00	last_login	2018-04-18T18:02:18Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:02:17+00:00	api_token	1b140d0589cf24925f0e9143b07c33c2
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:02:17+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZGVsYW5leXY0eV95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNjUzOCwiaWF0IjoxNTI0MDc0NTM4LCJub25jZSI6InpWOG5iN0FLU0J5dUJ0YnFna05taXN3X3ZZZzB2X1Q4eHp1SF9zVnJUR2M9In0%3D.75znDWY-NLa5_psa_WgiwT3zvyscOzidUCQh0gkxFsAHiX_f9Xwq-_3IXrYRsfolHEQbpdmdIqRbmI1S0fOeAw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:03:11+00:00	twilight-user	{%22authToken%22:%225w6g3kox1h3kj028ss6nxrys9yzgka%22%2C%22displayName%22:%22u_delaneyv4y_y%22%2C%22id%22:%22215241354%22%2C%22login%22:%22u_delaneyv4y_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:03:11+00:00	auth-token	5w6g3kox1h3kj028ss6nxrys9yzgka

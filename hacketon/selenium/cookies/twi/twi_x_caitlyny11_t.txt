@@ -1,0 +1,13 @@
+#x_caitlyny11_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	zv5YM%2BXCTqQS7NHlXulmzfskaO1rlNN3TIH9V1H6kfE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:05:09+00:00	unique_id	85f0e86b6f1027bc
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:05:09+00:00	_twitch_session_id	8165e9d87c944a4397cf1bb73a22c849
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:05:43+00:00	persistent	216142789%3A%3Awn2ubecjmb888h1uzlgewyzvrzjynn
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:05:43+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDI3ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5NTQzLCJpYXQiOjE1MjQ0MzQ3NDN9.dhej9L_aR3Yk5EOtK8usR9vN0upYQHO7vHLKW7ZX_y96qrZtw-YETkGP7FyEXkpp3uj-YPBJVEdmobPblN4DSA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:05:43+00:00	login	x_caitlyny11_t
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:05:43+00:00	name	x_caitlyny11_t
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:05:43+00:00	last_login	2018-04-22T22:05:43Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:05:43+00:00	api_token	58c16c4ca6315abc48543f9a707487e2
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:05:43+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfY2FpdGx5bnkxMV90IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4Njc0MywiaWF0IjoxNTI0NDM0NzQzLCJub25jZSI6Indha1NoR3RQeFhpZmpmRWIySG1adFVTbTVqemk3REJqZjJrWGwyVzhxT009In0%3D.Mo3OkAuKuC40DrL5a4fhshyOCUMDYzyIeSOC_cU_pF5k4_xMpFsyM4w0wajndEDMsg4O2UtuHRYmsctc3GSSJA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:06:55+00:00	twilight-user	{%22authToken%22:%22839plwv072gmyrwydoq0qfj0efl4qp%22%2C%22displayName%22:%22x_caitlyny11_t%22%2C%22id%22:%22216142789%22%2C%22login%22:%22x_caitlyny11_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:06:55+00:00	auth-token	839plwv072gmyrwydoq0qfj0efl4qp

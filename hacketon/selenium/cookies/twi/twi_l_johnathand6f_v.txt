@@ -1,0 +1,14 @@
+#l_johnathand6f_v
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	cKvV6gXBBeauZZ1OfaqsWMurKo4H7IGlZhUtJ0unKQI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	44af074bb7e0417f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	e794448a89788ee49e068f7b882e7aad
+.twitch.tv	TRUE	/	FALSE	0	persistent	218951620%3A%3Atl3m9y55f5lc4sy4oksxys8h36kwi5
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTE2MjAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDcwNTEsImlhdCI6MTUyNTY0MzQ1MX0=.JhJw9lR6GMxkwATf7XCiSr4Out3RQ1bt89nB3LYSaIOM_XAt8hU9bH0aHnOxvRAtmWzsquw37REpRDnkjllhNA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTE2MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ4MjUxLCJpYXQiOjE1MjU2NDM0NTF9.CHUzV_5RJQgYN6fOB2FCPx4ogEeNxE5BH-vZD-8jyw63cBXx6pQ_uIZiWEfJz1tqhUUrUI-1t9AHbMXod-WEsQ==
+.twitch.tv	TRUE	/	FALSE	0	login	l_johnathand6f_v
+.twitch.tv	TRUE	/	FALSE	0	name	l_johnathand6f_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:50:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4395c418f3a8b32d6402a10073ded8ad
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imxfam9obmF0aGFuZDZmX3YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk1NDUxLCJpYXQiOjE1MjU2NDM0NTEsIm5vbmNlIjoiYWJRenRZQlMwNU5mZHZRendzSThrRThsWEI2MkYySERPYXdwQlpKNGQwZz0ifQ%3D%3D.WM42CAFx9DfxjsCEdg1eBYplMnLtdCysNV6sBKGYSXawT_EmHwP_F3xVPnAcrOQA0dHDvPiBD7QDYcCxORgvoQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zgm9b5qbtexy9c8edopy3ka4hj00oi%22%2C%22displayName%22:%22l_johnathand6f_v%22%2C%22id%22:%22218951620%22%2C%22login%22:%22l_johnathand6f_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zgm9b5qbtexy9c8edopy3ka4hj00oi

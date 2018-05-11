@@ -1,0 +1,13 @@
+#k_abigail81h_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pSoHQPXKKOsxTbTacZmbEMCh4BTKJ1T08dkfJISOEnw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7227647dfc700c2b
+.twitch.tv	TRUE	/	FALSE	0	persistent	218847576%3A%3Aiefcl5klf74u20nwb7qghooz7mqbtk
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDc1NzYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTUyMjYsImlhdCI6MTUyNTYxMTYyNn0=.KzONLHLAyIoTIAKjsb00VsFLUMxkhejxjujHqQy6Mjb6R-5u8PYfm3HdD5DgYKZinBLAeVtGZvsGF9csKEytnA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NDc1NzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE2NDI2LCJpYXQiOjE1MjU2MTE2MjZ9.8fiWvJbM9ZBRtFVr9mHjFAHc8hOI1mK-qrU7Nr3j79VYIFGvlQY58-X8hbSS9_a-QD4pew4RQzscGE81GSVpCQ==
+.twitch.tv	TRUE	/	FALSE	0	login	k_abigail81h_k
+.twitch.tv	TRUE	/	FALSE	0	name	k_abigail81h_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:00:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	fe1a4822d2f21fda9c0add5c35db49bd
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfYWJpZ2FpbDgxaF9rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2MzYyNiwiaWF0IjoxNTI1NjExNjI2LCJub25jZSI6ImZSaG5qWFpYTHh5a0I2MVZmY2RFWDQzTUplTVdkY0tiSDROdHpmM1UzVmM9In0%3D.FfZCfMn7wtpWo5f86-wx9h-QOMqhqCBLz4f64IuIgOQHMr71H_mHl_qTVAWE74VqD7z-G0E6CjQV15-E3H43qA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%225f3crujnslp3349itl4lbnrbxmdi68%22%2C%22displayName%22:%22k_abigail81h_k%22%2C%22id%22:%22218847576%22%2C%22login%22:%22k_abigail81h_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	5f3crujnslp3349itl4lbnrbxmdi68

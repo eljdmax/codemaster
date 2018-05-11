@@ -1,0 +1,13 @@
+#y_melaniew4d_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	yf8ovYG32Ra%2FU8qzYK7QJJd7j1wbrxtZs8Nxeyqp2%2B4%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	be8337397f2264fa
+.twitch.tv	TRUE	/	FALSE	0	persistent	218942365%3A%3Axshyup48e7beyqr4cx2w0v4lwaou4q
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIzNjUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM5NzMsImlhdCI6MTUyNTY0MDM3M30=.ZqvNadasMseq_9PbeU09PxG9xqt6EqpASOQZ8Rl3rjw1sRn8FavWyo8vX-OlLObuoNw9-Vjnzzn249g4SPkECw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIzNjUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MTczLCJpYXQiOjE1MjU2NDAzNzN9.OVXg1wY3Ez-55ISxlg017IfZmSZE8OteJNISwqFQCYQYgGawjmhNHs8L9SiWawztQdWPkQibJwoimQyzJ0Uvqw==
+.twitch.tv	TRUE	/	FALSE	0	login	y_melaniew4d_x
+.twitch.tv	TRUE	/	FALSE	0	name	y_melaniew4d_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:59:33Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	730cce40ace7d4c479a26b920e73e043
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWVsYW5pZXc0ZF94IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjM3MywiaWF0IjoxNTI1NjQwMzczLCJub25jZSI6ImszVDJSWHRkbzNWR3RZTW5McWY5NlFzNUFzRkgxLWJGcUFNVUV2QXNJckU9In0%3D.BZeAzDeR8YsIBtRopZqRZcA6iMA-NHMUWpC9ebZrGdN-k-dBDTJO1K0xRvuv7bKP6xvmI9yEmQthLQ-Wc5EEkg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22pal9x41lb03z78d85c6a5561lxg0gx%22%2C%22displayName%22:%22y_melaniew4d_x%22%2C%22id%22:%22218942365%22%2C%22login%22:%22y_melaniew4d_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	pal9x41lb03z78d85c6a5561lxg0gx

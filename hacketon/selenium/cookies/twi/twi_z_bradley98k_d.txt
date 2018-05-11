@@ -1,0 +1,12 @@
+#z_bradley98k_d
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	P8V9W2ymX6UCO4R8T9b0ht2N4KdioQMxVzRZViBqYK4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:10:05+00:00	unique_id	4927f898ca4b395c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:10:39+00:00	persistent	216484668%3A%3Am8qon98l0tjj4mkbp0cvwdibt30nhw
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:10:39+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQ2NjgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NjM5LCJpYXQiOjE1MjQ1NzE4Mzl9.ixd6jTOPpdlwXY062581-nQgUWDxMbUxUihJNOgPguswtnCT8fISofUQKxa95byVhQG3NyFF7iJJ-TuVgLiSVQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:10:39+00:00	login	z_bradley98k_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:10:39+00:00	name	z_bradley98k_d
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:10:39+00:00	last_login	2018-04-24T12:10:39Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:10:39+00:00	api_token	9a602321f96a8ca8ff4607f15ca0bd73
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:10:39+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfYnJhZGxleTk4a19kIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDEyMzgzOSwiaWF0IjoxNTI0NTcxODM5LCJub25jZSI6Im5YTlVvZUZ1MnBoY29NU0dSVWRJQWtOOHRCMF9mT0hZX2dDS05UM2lVT1U9In0%3D.Klr5AD0kYeoGgS4m8Pw30zj8AEKCzznKH20iSCA1g6Z4YrVJmkXGg36lu1Otg_A8lE1I57o4cQhUNyU22ZguXA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:11:58+00:00	twilight-user	{%22authToken%22:%22zj19vwkak8tw89swl5ezz3ykweygfd%22%2C%22displayName%22:%22z_bradley98k_d%22%2C%22id%22:%22216484668%22%2C%22login%22:%22z_bradley98k_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:11:58+00:00	auth-token	zj19vwkak8tw89swl5ezz3ykweygfd

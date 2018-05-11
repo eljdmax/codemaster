@@ -1,0 +1,13 @@
+#k_danielu7t_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Pk1%2FO9koF6X22fG43GnHLSYJsHt4eundQX%2BO87Yn6ng%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:57:22+00:00	unique_id	002b9cf4c08f6045
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:57:22+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:57:40+00:00	persistent	215240510%3A%3Afslchsvaxqhpxv6erad9kwpog3yo3p
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:57:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDA1MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5MDYxLCJpYXQiOjE1MjQwNzQyNjF9.c6pVkCQ_NES2Q1ltfvxgQCBEXiMN4z_i_nQdS8uAJw_tv_R7ohrziIHJbVtCO_rUzdKwGK4WaSbNTeR2jY7eNw==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:57:40+00:00	login	k_danielu7t_3
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:57:40+00:00	name	k_danielu7t_3
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:57:40+00:00	last_login	2018-04-18T17:57:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:57:40+00:00	api_token	c888c6f60fc4128fed23317399e87342
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:57:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfZGFuaWVsdTd0XzMiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI2MjYxLCJpYXQiOjE1MjQwNzQyNjEsIm5vbmNlIjoickpwTXg5c2QxN1B1RlNha1AwN1lPT2oyZkk5c1pFUkVrVGdVX09HVE5zND0ifQ%3D%3D.BShRUh-7aFvWGld7rIRwchgv7Bq3SUddetnNUvLsOyOmRXssAPrltlvCBQM6Ot88zU0nB9vO03ZCWJGXaEi5GA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:58:34+00:00	twilight-user	{%22authToken%22:%225oy9pd379i493s7wuyjf7kiy51d73v%22%2C%22displayName%22:%22k_danielu7t_3%22%2C%22id%22:%22215240510%22%2C%22login%22:%22k_danielu7t_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:58:34+00:00	auth-token	5oy9pd379i493s7wuyjf7kiy51d73v

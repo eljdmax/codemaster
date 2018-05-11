@@ -1,0 +1,14 @@
+#u_serenitye68_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	oqFtpk0JAM2v7uX1bKLkd2KqcCa0hXZ5bj0SDEoV8zw%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3c3adcdc3e7fa1f7
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	423802074c88a2f78bf84886dca81777
+.twitch.tv	TRUE	/	FALSE	0	persistent	217272331%3A%3Awmyfactev4d252ejstatc74lre3tf1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzIzMzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzM2NTYsImlhdCI6MTUyNDkzMDA1Nn0=.NQ5IZtD8qHGZkAgkOjZMKnoiAAJLHj9ahDvyZLc5nnhZQDhb7SzaoVn9CstPE_jEu7Z8KY6lyUYEUclSWAvadA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzIzMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM0ODU2LCJpYXQiOjE1MjQ5MzAwNTZ9.7GgXOBs7gdR6OmXK1ACnLjFxfcY50zL6YoNpUxzxAlIYVuEKQnICxlZiS2_fQYAkFaMqhlP4Pp6Jaes8Bxa-PA==
+.twitch.tv	TRUE	/	FALSE	0	login	u_serenitye68_y
+.twitch.tv	TRUE	/	FALSE	0	name	u_serenitye68_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:40:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	834a636b182936f5a5bd64ecae61e9ca
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfc2VyZW5pdHllNjhfeSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODIwNTYsImlhdCI6MTUyNDkzMDA1Niwibm9uY2UiOiJtNFByeWlVd3Jldlg5dXVrRDJSREttSDlyeHM1cEZSUHRTT19DX1libng0PSJ9.VUyT54ggnbko9RTIjEUbmxH9Oldc0NKbUwjJqfGhsfuI3x7RolLfzS3UT9bR5_3ZbDsN394QXbJLoNTvHyzbnA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gqp2q4bdekycghlf0hj0vkfbldrqnx%22%2C%22displayName%22:%22u_serenitye68_y%22%2C%22id%22:%22217272331%22%2C%22login%22:%22u_serenitye68_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gqp2q4bdekycghlf0hj0vkfbldrqnx

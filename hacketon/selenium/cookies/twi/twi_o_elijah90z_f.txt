@@ -1,0 +1,12 @@
+#o_elijah90z_f
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	xRxgmqpzQ3r0eZ%2FJeUgiWuj0ndAJdgFuYB55o8Bsotw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:01:01+00:00	unique_id	09d91a7909084e4a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:01:26+00:00	persistent	216483741%3A%3Aq6sj7ercpvl7mdklgws8n7xvd8xc3r
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:01:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODM3NDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2MDg3LCJpYXQiOjE1MjQ1NzEyODd9.kBRZrZ63A4mzrIFK_VreCTNfcqFn3xGmJJwpTxsyncvo8dnIGCNa7DVCLYriOohYnIHUOXyCW5tAQLbBYtO9aA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:01:26+00:00	login	o_elijah90z_f
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:01:26+00:00	name	o_elijah90z_f
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:01:26+00:00	last_login	2018-04-24T12:01:27Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:01:26+00:00	api_token	5b99c64a3a15479377235205ac040ebc
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:01:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fZWxpamFoOTB6X2YiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIzMjg3LCJpYXQiOjE1MjQ1NzEyODcsIm5vbmNlIjoiaWRKaE1jSzd4VTdSTHRrV2JLT29lVm8wUlJKUjhEanRXbmdZcmVpeVNCbz0ifQ%3D%3D.SCYq3HoPO_j9fS3LLiPIfiKQ5lIWFI4bErG9ANYWnCNEXqyP9Gp6fUoQdpb04Q9cbDA6mrQlmy8LNkpM_ay1_g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:02:46+00:00	twilight-user	{%22authToken%22:%229o7agdvgaihkrrq3deyulcf8jh9ii6%22%2C%22displayName%22:%22o_elijah90z_f%22%2C%22id%22:%22216483741%22%2C%22login%22:%22o_elijah90z_f%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:02:46+00:00	auth-token	9o7agdvgaihkrrq3deyulcf8jh9ii6

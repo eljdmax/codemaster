@@ -1,0 +1,14 @@
+#s_ameliat6h_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Wo54VtDfBDKa82qFU0EPTpzVzkVaBaS%2FFKjrCZGEEFs%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	97e370bec69fc3ab
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ffbaa4343e894eed38c3ad09b83dd1d1
+.twitch.tv	TRUE	/	FALSE	0	persistent	217552280%3A%3Amn1iwuzky8ui4birn7ugpo5bvsib1r
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTIyODAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzM2NTcsImlhdCI6MTUyNTAzMDA1N30=._D1_S89waJ2Pq27xCoksjxndM1DkIL5KCd28Wtw0VcM0BznDvvIq8iaS6hYth76DyQvILP8SCEj-MnixpYU0WA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTIyODAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0ODU3LCJpYXQiOjE1MjUwMzAwNTd9.2dDos3ni6eTduQQjHrNno3JBbvS6CJ6wUNR_z1EvZb9Sa7sfJEmB4VCr3sRCvx9qEEdEPhQEJQ-Smd8eNdGhbQ==
+.twitch.tv	TRUE	/	FALSE	0	login	s_ameliat6h_x
+.twitch.tv	TRUE	/	FALSE	0	name	s_ameliat6h_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:27:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4a17a9ff81003813e8b751f167e835a6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfYW1lbGlhdDZoX3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTgyMDU3LCJpYXQiOjE1MjUwMzAwNTcsIm5vbmNlIjoicTZqLU94TkFRci1IWXdBVG9sejRNS1J6UzR6Y2xLNlVfeFpyZ1NmbFgwdz0ifQ%3D%3D.PV4o-82B2G6Ql9cApD_uF1ZGbSHdOHY2HPI_dF04C7SaJ5oppizPoLNh3UCHhZzYKN_OPDy4sCI0op9yjgN9tg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22378ijgi1msmqlachzldqymtbu2s24d%22%2C%22displayName%22:%22s_ameliat6h_x%22%2C%22id%22:%22217552280%22%2C%22login%22:%22s_ameliat6h_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	378ijgi1msmqlachzldqymtbu2s24d

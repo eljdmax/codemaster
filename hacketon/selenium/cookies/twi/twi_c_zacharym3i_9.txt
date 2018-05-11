@@ -1,0 +1,13 @@
+#c_zacharym3i_9
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	Q7xqqCg28lNQsdNMzgufCdG0tG0xTppXfz8qI%2B39Zv8%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:44:29+00:00	unique_id	83c38a8d0dfa19e4
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:44:29+00:00	_twitch_session_id	06f6915ada6786f375b56cd104d51348
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:44:48+00:00	persistent	217556206%3A%3A8qpehny6tbhw5uzznnoakphpuncm18
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:44:48+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTYyMDYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1ODg4LCJpYXQiOjE1MjUwMzEwODh9.Eqzg7WeumNlNCXxvVERxwwlzv9uaKAg8uqZZl99UXvxcJyN-Q63m99ZFtPlWg8g1D-9YkzydDtqOM4AhOZLBsg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:44:48+00:00	login	c_zacharym3i_9
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:44:48+00:00	name	c_zacharym3i_9
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:44:48+00:00	last_login	2018-04-29T19:44:48Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:44:48+00:00	api_token	490dad55eba62376f4d323bd9cde825d
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:44:48+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfemFjaGFyeW0zaV85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MzA4OCwiaWF0IjoxNTI1MDMxMDg4LCJub25jZSI6IkdMZmFycHlKaWlGWlh1M2tjRWF3cDdsSENkR0hxNWNCMzd6dTVWMW03WkE9In0%3D.fST0SqnE8XZuK3OMSlH9Kon8JD5MVY00FAyZKdxkEE1WDqv5LVwjQXCw2x3iUVRVjmogOt-khn-3vA4LUZ-wdA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:46:32+00:00	twilight-user	{%22authToken%22:%220mwm9tr8palke0eohjtg36k4972rnj%22%2C%22displayName%22:%22c_zacharym3i_9%22%2C%22id%22:%22217556206%22%2C%22login%22:%22c_zacharym3i_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:46:32+00:00	auth-token	0mwm9tr8palke0eohjtg36k4972rnj

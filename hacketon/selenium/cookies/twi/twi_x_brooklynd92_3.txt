@@ -1,0 +1,13 @@
+#x_brooklynd92_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ea1%2BPHqJUD6qVmhvncBwPpvtmWj8zQHsWOI7ZQVR3nE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	195e34c6edaa3dec
+.twitch.tv	TRUE	/	FALSE	0	persistent	217572282%3A%3Adswsycs1hmotw2kwsw552wcwnrxvyq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzIyODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzg4MDYsImlhdCI6MTUyNTAzNTIwNn0=.14jE0DCOhahzu0XBA35-_dDlErtAoJgYZ5S51-rQL5SxQpFdbNaJg0ngQzkxnRYBlUTGjgJ6jGyjG2OAQcw7qA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzIyODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjQwMDA2LCJpYXQiOjE1MjUwMzUyMDZ9.9fhC2h9QLwYQqh6hLDPLE4hYcfTrW6mSbBMrOwWM9O7FI_1Ar_bLCymn_f-XuYwps9C5wMiZ4Z1N67wAbyJkkg==
+.twitch.tv	TRUE	/	FALSE	0	login	x_brooklynd92_3
+.twitch.tv	TRUE	/	FALSE	0	name	x_brooklynd92_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:53:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b73a970195373cc78e7aa920465b606a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfYnJvb2tseW5kOTJfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODcyMDYsImlhdCI6MTUyNTAzNTIwNiwibm9uY2UiOiIzeHJRSmxhUEFCRFdNSWwwRUY1aWFBOVlrZTZtVEgxZ3ZWbXRoV0hNQWMwPSJ9.45vaWeZeJEKrxcloXlQl35QigMFIBMhNiymkrLO1aDo0IK17n8EPay7dyvLuWXd0tA1qJ-TH2ea7mXj4IpQ1_w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22se02fgani152rsgd8heqptwbntj6lj%22%2C%22displayName%22:%22x_brooklynd92_3%22%2C%22id%22:%22217572282%22%2C%22login%22:%22x_brooklynd92_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	se02fgani152rsgd8heqptwbntj6lj

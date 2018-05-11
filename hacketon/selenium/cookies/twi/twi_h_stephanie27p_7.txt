@@ -1,0 +1,12 @@
+#h_stephanie27p_7
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	gaJbzvDj0GFNr7O4mXnCjdQ2o%2F2Fd0Ggk5MJSgmhNy4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:29:18+00:00	unique_id	1d3e173f815e4e96
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:29:40+00:00	persistent	216475889%3A%3Aet65poqtp01r5s170w64mzsccgnv1g
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:29:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzU4ODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcwNTgxLCJpYXQiOjE1MjQ1NjU3ODF9.BoQlzvSvkNjrQq3UG4ifIr4Cd1xyDU_mkauMwK7SWeaCKA8dV7QBxFQ61MFgcpCZ6aj5oaRidZ94FgvInkdY-g==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:29:40+00:00	login	h_stephanie27p_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:29:40+00:00	name	h_stephanie27p_7
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:29:40+00:00	last_login	2018-04-24T10:29:41Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:29:40+00:00	api_token	53ee181a4ae1f96a6db462e1f5d5b013
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:29:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfc3RlcGhhbmllMjdwXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE3NzgxLCJpYXQiOjE1MjQ1NjU3ODEsIm5vbmNlIjoiUTAweUdqNThmSUwydk1HZVA3WnFCNmt3dTVPTDNUM0FYOXhkX0RhaHUxbz0ifQ%3D%3D.MjVx-UWBLc9m1knil0xQrPxdf5PgBwNk99KWxatW3cDjTcYl-O8Ge_7dueGUVIb77TfJcKiuS5MxEB03LbKfhw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:31:00+00:00	twilight-user	{%22authToken%22:%2228htkf4bwbk6b3au7ngcp7494t7vb4%22%2C%22displayName%22:%22h_stephanie27p_7%22%2C%22id%22:%22216475889%22%2C%22login%22:%22h_stephanie27p_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:31:00+00:00	auth-token	28htkf4bwbk6b3au7ngcp7494t7vb4

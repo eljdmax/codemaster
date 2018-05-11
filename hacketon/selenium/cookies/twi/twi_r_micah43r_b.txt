@@ -1,0 +1,13 @@
+#r_micah43r_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	p1Ojs1qWumCNsnBzKRy73Dcm68HYe8xWSiA0Qa0KS0A%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:08:27+00:00	unique_id	254d4e4a06e9edbd
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:08:27+00:00	_twitch_session_id	f7b2db0c96db49527a9bb8cc17f3cc6a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:09:13+00:00	persistent	216484536%3A%3Addvsu98kyec7wr3sazz79z3h8w4z80
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:09:13+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODQ1MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc2NTUzLCJpYXQiOjE1MjQ1NzE3NTN9.WLo9oPX1EPnGrcXcgJMJ0cvYT4_F1wl-_vl9vADr1F7DK-gt-gMshgMvda6AG3WZaFHqzUzY13vMwcPqCjF2eA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:09:13+00:00	login	r_micah43r_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:09:13+00:00	name	r_micah43r_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:09:13+00:00	last_login	2018-04-24T12:09:13Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:09:13+00:00	api_token	3f3dcd193035743b209d936e771df9f5
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:09:13+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfbWljYWg0M3JfYiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjM3NTMsImlhdCI6MTUyNDU3MTc1Mywibm9uY2UiOiJiWjFKeWRaRHNNV2NMbl9hWmFDSjlxbkthcEhuWTItVjRBd3dXTnJOWk9FPSJ9.AMK4DhxCco4n7sTLHBr8CAVUrc-iWwi-yVBgYAi3KJiSvTTAJC59LMGn5qFGPlGqdc7yCl31i8EFeEaPV3Et8g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:10:32+00:00	twilight-user	{%22authToken%22:%224wy3xvhoddpisbb75akql5x43vwyyt%22%2C%22displayName%22:%22r_micah43r_b%22%2C%22id%22:%22216484536%22%2C%22login%22:%22r_micah43r_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:10:32+00:00	auth-token	4wy3xvhoddpisbb75akql5x43vwyyt

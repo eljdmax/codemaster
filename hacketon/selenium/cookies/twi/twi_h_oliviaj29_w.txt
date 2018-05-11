@@ -1,0 +1,14 @@
+#h_oliviaj29_w
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	PgwfX8nQNmGG2oxiQQwqzC9bL89ZjQO0v1caHTlYlck%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	27f16d7ecc82219f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	d2f9fc94745e3d684d5ec26ba8dfb71e
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949062%3A%3Acnaw1ve0jjgqnz6evtuosrl8ct4zt8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkwNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDYxNTksImlhdCI6MTUyNTY0MjU1OX0=.s2n4KoCviAnbj0-5O6e8rkvaVZV1o5KMiGsaIztRPGvPKSWYDA0aDSpdnqw_o97VdM_mW5pF7w5y7XkNyzOPqA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkwNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3MzU5LCJpYXQiOjE1MjU2NDI1NTl9.SSUbxNXXsG9-lfQ_lPrm_Okffp_Uqsh4aCGZr_YLbaKOLRJxh0T6c0GCNzNkJV17m3vKQcud56HRSn8_29Cxcg==
+.twitch.tv	TRUE	/	FALSE	0	login	h_oliviaj29_w
+.twitch.tv	TRUE	/	FALSE	0	name	h_oliviaj29_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:35:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	aa5309476c972f9a64f70085d53886c6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imhfb2xpdmlhajI5X3ciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk0NTU5LCJpYXQiOjE1MjU2NDI1NTksIm5vbmNlIjoibFhtNnFvSUl3Z2dseWxOZWNfUnpWYVFtdTVPUWNLSDU0LXdOZWlCY2ZtZz0ifQ%3D%3D.2MTxF0cgegVTBac6l080jOpOxsLpamKRcYOwMmXgV-p80Z0f97HjjIJ3ra7WFntSojqJf47AUP1IivIujBWXbQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gl8tqufmtucatysnzpawytvojlh5ae%22%2C%22displayName%22:%22h_oliviaj29_w%22%2C%22id%22:%22218949062%22%2C%22login%22:%22h_oliviaj29_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gl8tqufmtucatysnzpawytvojlh5ae

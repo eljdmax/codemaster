@@ -1,0 +1,14 @@
+#j_angelam9g_t
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	O4euL6Sswnq5qzkQZOtlQMBi%2BiXy07T0JinVGkgPOxE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	cc3fa2cf3f3a6f41
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	b1772a9d28c2b529193e43dba5ab1a16
+.twitch.tv	TRUE	/	FALSE	0	persistent	218940162%3A%3Agfvcgi3cy8ddd75hi26flvzot98vs4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAxNjIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMyNTgsImlhdCI6MTUyNTYzOTY1OH0=.ZOzBVpwdIPKLnpxqoNsSUyBUMvudqaehjN24ECmOh-559U1gxy7SQ9KCzRgCMQ6S9gIP8asFXUbcZkGwWGMdVQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAxNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NDU4LCJpYXQiOjE1MjU2Mzk2NTh9.xDgvV3lBS4GbrQ2wate9CJiYwglcpj4sTHIjIVLBRY22TkOcGTWvzGBKViE7cPBGH1zuEvrOFj1GCGO-f2yuBQ==
+.twitch.tv	TRUE	/	FALSE	0	login	j_angelam9g_t
+.twitch.tv	TRUE	/	FALSE	0	name	j_angelam9g_t
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:47:38Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b3b7bbc1744850a7e417493e9ccf308b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfYW5nZWxhbTlnX3QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkxNjU4LCJpYXQiOjE1MjU2Mzk2NTgsIm5vbmNlIjoiTjQxTW90Ti01WUpXTUh5Z3JyM1BJSldyY0hlM25SUmw1UjM5eGhVREVLOD0ifQ%3D%3D.LplJpBL0eGus5nVfKM-eqivs13q3UAwoZtBJDCB8iBrV7_9mR00obJpuWvxWspHLeRvI2Ehthmth_LQBDD6I8w%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%223xt008ly4fwi3tv7hypvei891qhju2%22%2C%22displayName%22:%22j_angelam9g_t%22%2C%22id%22:%22218940162%22%2C%22login%22:%22j_angelam9g_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	3xt008ly4fwi3tv7hypvei891qhju2

@@ -1,0 +1,13 @@
+#u_devin43r_1
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:22:06+00:00	unique_id	85eac9f9f205350b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	8jZAh5wW2%2FA%2FnTYcmYdQQIwpZ%2F%2FUX4eT1B0USW7pgmY%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:31:19+00:00	_twitch_session_id	e8270f5cd40cf445aea6dbd0b4e7fceb
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:31:35+00:00	persistent	216935169%3A%3Advr5rzi0um98j38k6brny7fe77jfrt
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:31:35+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzUxNjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Mzc5NDk2LCJpYXQiOjE1MjQ3NzQ2OTZ9.jOVhU2Ujj2PcAFIFfi1cINeSEaNl3E5XTopVFmpSHWX4wUYS8xzIKAmujsCI28niaQLek9hmC3vx-R4Igz0Nvg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:31:35+00:00	login	u_devin43r_1
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:31:35+00:00	name	u_devin43r_1
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:31:35+00:00	last_login	2018-04-26T20:31:36Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:31:35+00:00	api_token	23f00ccb63c4270b7d7098782993d26a
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:31:35+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfZGV2aW40M3JfMSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjY2OTYsImlhdCI6MTUyNDc3NDY5Niwibm9uY2UiOiJzamNaVkJsUTlYOUNiRThDX0pkc09kNVQtUFFIc0haOHlxbkRDUFN2TXhrPSJ9.h-0TZHZs-XiYvzSfsJkdro7fMwmbKHEvo2NsXclAakQYMqDfCzq6pcZiiVuiPJ6U1RqD5XdnYNWK08bM_toGlw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:33:08+00:00	twilight-user	{%22authToken%22:%22rshch5lwvr972xxcq0p5ljc33h2gfk%22%2C%22displayName%22:%22u_devin43r_1%22%2C%22id%22:%22216935169%22%2C%22login%22:%22u_devin43r_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:33:08+00:00	auth-token	rshch5lwvr972xxcq0p5ljc33h2gfk

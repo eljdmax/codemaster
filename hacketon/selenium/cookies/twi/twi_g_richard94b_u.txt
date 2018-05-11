@@ -1,0 +1,13 @@
+#g_richard94b_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QmiJISiSC7mDJctP%2FWZ%2BJGvCOGNRTPAIfNIab09btOA%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1fe15368d0d77d4c
+.twitch.tv	TRUE	/	FALSE	0	persistent	218850254%3A%3A6zkpn0g77h22fkv8x1pbklchte7eff
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTAyNTQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTYzNTAsImlhdCI6MTUyNTYxMjc1MH0=.nx7ix2nCkKXkKrOmBpLKhwt6OTou-oQWjAQJzdUUGKyPWe8F2FCosUFYALof2r9-bvHcF0J5_44D6Hl6DuRBRA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTAyNTQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3NTUwLCJpYXQiOjE1MjU2MTI3NTB9.RBOZfrzddPaupafzouLehk53D_vCtHhvJdQ0v-ih0vE0QvstBUNr5KsO7z7uztGPxO7Rskjk-Ih9ES6bd_bTSw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_richard94b_u
+.twitch.tv	TRUE	/	FALSE	0	name	g_richard94b_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:19:10Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ccc1c062d83f62bad8462c80e3a36dee
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfcmljaGFyZDk0Yl91IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE2NDc1MCwiaWF0IjoxNTI1NjEyNzUwLCJub25jZSI6InpnOXdaQnkxTE81RkhPa3NsaE50Ul9KbzNjYWVDd3M5elFJalFpV3VaaHc9In0%3D.xaOzbGsM-SPW9ZQM-1sd0TypPSB8UYCIuzFPldPv_OL-daAJ1oIgxor2UDoKby1LuB5GH8bBmH8Xo4V5gGxH4Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220z4ubc55m4gcodewmpfin1e0m3g263%22%2C%22displayName%22:%22g_richard94b_u%22%2C%22id%22:%22218850254%22%2C%22login%22:%22g_richard94b_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0z4ubc55m4gcodewmpfin1e0m3g263

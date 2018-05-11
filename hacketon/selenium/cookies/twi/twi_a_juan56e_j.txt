@@ -1,0 +1,14 @@
+#a_juan56e_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ofJORhkqjxjsKmbIFpdFgpn2gvaFa5Hk1neiysx2N6M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	aaccf291d7bd1c44
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	3d3de2b512fde64bb6e3e2f377f231e0
+.twitch.tv	TRUE	/	FALSE	0	persistent	217554166%3A%3Acjeditmb600hvjenl1gz8qz4i3tcgx
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQxNjYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzQxMzcsImlhdCI6MTUyNTAzMDUzN30=.YZPy4Zdj-HaVPNAbhXCGQuUe3TH-rvMmeuh43s2wb0mnUoesCBbUIz2PT-CSNT8UlvDxyuwQ1by_uRPTFNSaKA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQxNjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1MzM3LCJpYXQiOjE1MjUwMzA1Mzd9.4iZrGfnKbLryugUMvMwE6y4TL12cts21lSJ_HpDpOAmhBSA0wqSeZopRGuFE_kxCspYTHKsZflkLNh2N9lOU5g==
+.twitch.tv	TRUE	/	FALSE	0	login	a_juan56e_j
+.twitch.tv	TRUE	/	FALSE	0	name	a_juan56e_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:35:37Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	144d8b5318a3ddc77ce1e15a38f2fbf4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfanVhbjU2ZV9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MjUzNywiaWF0IjoxNTI1MDMwNTM3LCJub25jZSI6Ijh1b3k1ejJCN2ozMnEwNGs4eU5SaWVrXzJmX3U3RGs2LUFpRGw3eUZqdXc9In0%3D.JEkUIisYO4O2niAjcs4mvuvdeYn9E3j0AtQz3zWK8sI9GS2KitdFi6CDxLPmiMYI3PwMxkRwtJW48VeH4qVYYQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mmiozqhwl5nkqbalno6jhp4ybwcpa1%22%2C%22displayName%22:%22a_juan56e_j%22%2C%22id%22:%22217554166%22%2C%22login%22:%22a_juan56e_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mmiozqhwl5nkqbalno6jhp4ybwcpa1

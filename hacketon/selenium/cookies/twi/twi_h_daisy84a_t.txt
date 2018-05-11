@@ -1,0 +1,13 @@
+#h_daisy84a_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	KXElubl%2BcA4JAt77S1Eu8uqWyIyEQASsqFOvSPDeKus%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:07:55+00:00	unique_id	e610a7c2b885cba3
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:07:55+00:00	_twitch_session_id	7d17cbd49ab1e46ab5750d8b88d11f96
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:08:18+00:00	persistent	216479149%3A%3Anwb1ldgsuk7jqty1benfc96dityukd
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:08:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzkxNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyODk5LCJpYXQiOjE1MjQ1NjgwOTl9.hq_pGirxvdqW_t8YgpitMX81T_l_bvJhf8zsbShqHNhrhHZRIj3Rl7KFlUkNqkD5zyR9iy20T9hmwnYY4egCOQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:08:18+00:00	login	h_daisy84a_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:08:18+00:00	name	h_daisy84a_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:08:18+00:00	last_login	2018-04-24T11:08:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:08:18+00:00	api_token	5eb0621e772aa7786e842a5a4670bdbe
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:08:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImhfZGFpc3k4NGFfdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjAwOTksImlhdCI6MTUyNDU2ODA5OSwibm9uY2UiOiJfV0syY0htZnlWOEx4Q3BIeDczNWFWU0NJYUdERUROS2pGa3hBZzJfOEs4PSJ9.9Wnsk3VUudmRv5y8ItzxMS-f5EWkPSjPEpSIBKAhLEUfNIf-saSlZRt0FSAz3kROv-N0wjBl3PW5U7uAcIZoWA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:09:38+00:00	twilight-user	{%22authToken%22:%22ln2yqhmdvxcsugd7rf20lfwpw6kqfl%22%2C%22displayName%22:%22h_daisy84a_t%22%2C%22id%22:%22216479149%22%2C%22login%22:%22h_daisy84a_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:09:38+00:00	auth-token	ln2yqhmdvxcsugd7rf20lfwpw6kqfl

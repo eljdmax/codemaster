@@ -1,0 +1,13 @@
+#l_morgan46i_y
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3la24QOVNnxuwBp6cJdLesavyTN5jouCJvDXxgY6iO4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:12:07+00:00	unique_id	d3906e64093a2b45
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:12:07+00:00	_twitch_session_id	e82a64645196e0090127e3fe37e9c46d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:12:30+00:00	persistent	216474526%3A%3Afn1j2gs4crq03uzoyavjh3popfxi2p
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:12:30+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQ1MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5NTUwLCJpYXQiOjE1MjQ1NjQ3NTB9.h8aMag8a4Yzrs4AN3NlHRHTZ6NxLrm-JBxPwOAdVjB8Kzm58Z2PP0BMZI9dpHc7mzz-mYh80vB_uiEQFikHWoQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:12:30+00:00	login	l_morgan46i_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:12:30+00:00	name	l_morgan46i_y
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:12:30+00:00	last_login	2018-04-24T10:12:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:12:30+00:00	api_token	5127a24cdde2e1739f129e53223c648f
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:12:30+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfbW9yZ2FuNDZpX3kiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTE2NzUwLCJpYXQiOjE1MjQ1NjQ3NTAsIm5vbmNlIjoiTy0zWTlZaTFadFJZbGdiTGF1eF9UUUtYM1prQkE1cUNCaWJERFB1cTlORT0ifQ%3D%3D.xPnZKvpMFbBD_CGmouZWm9OIEtm9-D1Ovzmb2a2CtxuQxhP4Rc2NIvA3qWlvNpqFqSbvZHBW385XH2d5uGlaYA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:13:49+00:00	twilight-user	{%22authToken%22:%22e39n1b1uzu6oaobz2t4ycypyvylgl1%22%2C%22displayName%22:%22l_morgan46i_y%22%2C%22id%22:%22216474526%22%2C%22login%22:%22l_morgan46i_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:13:49+00:00	auth-token	e39n1b1uzu6oaobz2t4ycypyvylgl1

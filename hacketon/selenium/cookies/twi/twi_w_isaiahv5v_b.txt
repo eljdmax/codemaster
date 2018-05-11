@@ -1,0 +1,13 @@
+#w_isaiahv5v_b
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	90ZlHqLl4YflaGPqJc1WPwaft%2BZj7APvB%2F%2FTV0Ft6Sk%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T13:09:58+00:00	unique_id	15844987ed767731
+.twitch.tv	TRUE	/	TRUE	2018-04-25T01:09:58+00:00	_twitch_session_id	06d8331968c1788f4fe6888c7483e82d
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:10:21+00:00	persistent	216491511%3A%3Ab6sqkies1vtxsu922jlrjineppsenu
+.twitch.tv	TRUE	/	TRUE	2018-05-01T13:10:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0OTE1MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTgwMjIyLCJpYXQiOjE1MjQ1NzU0MjJ9.N-Es3jtECc7VAJRKiA4YYMmWA94thLJana7KpryffYOaL8d7o9tNpDu6_w2vfT_OaL1_eMBmtgC6-Uuv89uA2Q==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:21+00:00	login	w_isaiahv5v_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:21+00:00	name	w_isaiahv5v_b
+.twitch.tv	TRUE	/	FALSE	2018-10-09T13:10:21+00:00	last_login	2018-04-24T13:10:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T13:10:21+00:00	api_token	6f7e45c121551cf303e3bf6e47cb4cf3
+.twitch.tv	TRUE	/	TRUE	2018-10-21T13:10:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfaXNhaWFodjV2X2IiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTI3NDIyLCJpYXQiOjE1MjQ1NzU0MjIsIm5vbmNlIjoiVWVFalI1WE1jSjQwOWhUZmtVa1o2TG9EMWpuYnI1bnhJZXZfYkdWRnI0ND0ifQ%3D%3D.FPAcg7oogXQTgg4Lxx1mHZvsXNiGCGa9HnWVbc54EpSEGIIhzCeKsVQIwQ5iFckde3Wg5O79pLz4vI2N6y_8EA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:11:41+00:00	twilight-user	{%22authToken%22:%2247eevdj0v65wis13bqpnzukgruvev6%22%2C%22displayName%22:%22w_isaiahv5v_b%22%2C%22id%22:%22216491511%22%2C%22login%22:%22w_isaiahv5v_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T14:11:41+00:00	auth-token	47eevdj0v65wis13bqpnzukgruvev6

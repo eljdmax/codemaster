@@ -1,0 +1,17 @@
+#w_dalton505_5
+.refereum.com	TRUE	/	FALSE	0	__cfduid	da94453a15507c7995e65531ebb5cc8f61517496231
+refereum.com	TRUE	/	FALSE	0	ai_user	mLbXx|2018-02-01T14:44:00.272Z
+refereum.com	TRUE	/	FALSE	0	refereum-language	en
+.refereum.com	TRUE	/	FALSE	0	intercom-session-de0q0t0f	ck92Mnlzay9MU294RFFCVjJ1RUh1Z2xzNGVYQzFseHZ6TFdHaFNmVnV6dzA1K05TcE5UdFhZa21XdXF0ajRsUy0tcDdRekRwbjM4cEF1Ym1DYk9rbUR1QT09--3f94b47c1389aec42a525aba35447f003f916751
+.refereum.com	TRUE	/	FALSE	0	intercom-lou-de0q0t0f	1
+refereum.com	TRUE	/	FALSE	0	refid	367blgezsk
+refereum.com	TRUE	/	FALSE	0	__RequestVerificationToken	AIO6wloKblFW2Wu2lWReQKDlccldH03Kx6FLgw-IFcvPLXP1oEi4CLtaBixat9gPJLjQFvEoURzJ-i0RqObJi6jafaira4W-31SxtRQUbnA1
+.refereum.com	TRUE	/	FALSE	0	ARRAffinity	accb56b11a90a4702d647cd2d4723b9f5bf047e842fd6b00942ec9964ba3b291
+.refereum.com	TRUE	/	FALSE	0	_gat_gtag_UA_7760280_22	1
+refereum.com	TRUE	/	FALSE	0	ASP.NET_SessionId	tj2w11isedjvr4ouw4ifopfm
+refereum.com	TRUE	/	FALSE	0	.AspNet.ApplicationCookie	RGWA82NT_KXsQmmpWdtlgRFIkUz4s45GbhXD3ZNnsm1SCEJyw7ILLZI1pCshMXr05kzbCII1hM9EM9alQzzuIJ76HCYqm_wzDcoAKw9hMKx3KIulWoLAuyJQ23N2oTo-c8XLa16t2kd5wR3a2H1HRFQDslU4j6rPN6pJ6YyofNzRCkMybIPZ11cV9LfBcJx_XR86Vkq2bHWRGXlQuwX7GnThqgj0J2rpi3hE6Gzivx44GE87ipe8X3X_XMmeMhxj6a3ZZdkA_diJDtiGnfzX9eLSs2Xr3yo4s9lybwOtg4S9Z4b-9RKZjJs-jKVYwN1viStsQcFZBZkcomSKN8962JE6TwdZTB11QaHV_eUYlVgwB9iKaDItm-VlybBwB0A8kVom1gZAXHjgnEWalIA_RJ3ZK2m4zhEMTLlbw2IzucmenVcnUJYGpE0PNnv9GyytPUIsozs20hv8UColavZ8gmSi9LoFyDDcLcjT7hCqAcF0AqVll9SFAgQ-y0z1PVOp
+refereum.com	TRUE	/	FALSE	0	ai_session	T9dU9|1524819761880|1524819794081.515
+.refereum.com	TRUE	/	FALSE	0	_ga	GA1.2.2010708883.1517496239
+.refereum.com	TRUE	/	FALSE	0	_gid	GA1.2.1471538011.1524819751
+.refereum.com	TRUE	/	FALSE	0	_hp2_ses_props.3735157917	%7B%22ts%22%3A1524819755513%2C%22d%22%3A%22refereum.com%22%2C%22h%22%3A%22%2F%22%7D
+.refereum.com	TRUE	/	FALSE	0	_hp2_id.3735157917	%7B%22userId%22%3A%226351573191700383%22%2C%22pageviewId%22%3A%225797789045484387%22%2C%22sessionId%22%3A%220166605936400491%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D

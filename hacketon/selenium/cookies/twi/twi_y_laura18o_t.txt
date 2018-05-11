@@ -1,0 +1,12 @@
+#y_laura18o_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2R8lJ%2FRyak%2Fxptrx7SZmxiZhwuD%2FGRQZVf9S1m%2BXKwA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:03:08+00:00	unique_id	275968ad820d7cb0
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:03:29+00:00	persistent	216478735%3A%3A3iryfyufqfz9s6liqurqeq5bwp1sl7
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:03:29+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzg3MzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyNjEwLCJpYXQiOjE1MjQ1Njc4MTB9.S4wEXYPCbZx1QQob9fJXI5s5NXPq67cJq0xX0vwvNiD6wvaty-iZgaR6S1YB0vUnd4hQJvea__hPEeANH56rvw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:29+00:00	login	y_laura18o_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:29+00:00	name	y_laura18o_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:03:29+00:00	last_login	2018-04-24T11:03:30Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:03:29+00:00	api_token	92ede613d64c7eb4eaf0f85c3dda5cd1
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:03:29+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbGF1cmExOG9fdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTk4MTAsImlhdCI6MTUyNDU2NzgxMCwibm9uY2UiOiJYWGFtODc1TUJfdTRaaXM0N01FS0xkeFUxMVkyNDVPMU9idFU3Sk4wM3VFPSJ9.5fUHlwmj9QTdXzdGw_XLz6TJAC1AsCR-HjGV__glCuVGiTbJ16mmYJMj-DDW9kj0ieilFLuLYzFQ4os4elROZg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:04:51+00:00	twilight-user	{%22authToken%22:%224dzmmiq2tqbtaonldsjyt91x57qcjj%22%2C%22displayName%22:%22y_laura18o_t%22%2C%22id%22:%22216478735%22%2C%22login%22:%22y_laura18o_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:04:51+00:00	auth-token	4dzmmiq2tqbtaonldsjyt91x57qcjj

@@ -1,0 +1,14 @@
+#m_sebastian28v_4
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	W5RGQv03M0r2Ez2%2BUeB1vwytTCsoZpgePaYGmQXLl9w%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	9b61003e4852b905
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	f705c92e73cd41532ddc436c49f2e36f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218865810%3A%3Antqalbyg29rea0rqqdoharkexq84o7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjU4MTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjIwMzYsImlhdCI6MTUyNTYxODQzNn0=.GflxhG22mHBXxwRhoTsMS7VlF4XFUyWNhqobDwO-hqak6XFVuuo9oG_r5CKlSKO4e5QO0pPNmhENYLeJencHVg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjU4MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIzMjM2LCJpYXQiOjE1MjU2MTg0MzZ9.XHxfkZXIlVtilerBj63BH0bzj61vLAj4lBjfi9xm81uED8B9043UMHwXhemnMaO530Tjyr9p7HCczIlANbQHnQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_sebastian28v_4
+.twitch.tv	TRUE	/	FALSE	0	name	m_sebastian28v_4
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:53:56Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d0c779943078899e54145a6458b56bb1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fc2ViYXN0aWFuMjh2XzQiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTcwNDM2LCJpYXQiOjE1MjU2MTg0MzYsIm5vbmNlIjoieHFhalNaRmJqRDZvWkZUYzduOEtYVWdsNkdMclB6OXhObUxYYjllTE5mST0ifQ%3D%3D.kZSGOEO_NHdd_AOtAkfAWZ8aqnePKuujcxSoohyHWCSptJv9y-sk7XeFSQqAyrT7wxI6TtureuV2lMVP7uCuow%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22mb8to53skcyox543m3viom4r9ml2bw%22%2C%22displayName%22:%22m_sebastian28v_4%22%2C%22id%22:%22218865810%22%2C%22login%22:%22m_sebastian28v_4%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	mb8to53skcyox543m3viom4r9ml2bw

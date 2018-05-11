@@ -1,0 +1,13 @@
+#f_bradyp6w_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	GpxCUzmBo%2BZiyEwO7VrhVsNXtEpf7PZFPwXoweNnpFI%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	a092194fb29aa363
+.twitch.tv	TRUE	/	FALSE	0	persistent	218880756%3A%3A2j6yqlw8fiv5fu5jiq61w0chsblx4h
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODA3NTYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjY4NzEsImlhdCI6MTUyNTYyMzI3MX0=.P4UC5yCzMCMZb1Qb00Cx4cSjZfUeQ_to9-1DkgNjG1dYwbeuh2_cKHrqfGEfP_fDO1JsGd7Gb1BqFJYyCFe3KQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODA3NTYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI4MDcxLCJpYXQiOjE1MjU2MjMyNzF9.xauO30xNFgT4eSBr-zBOHVs9mhpnei0t52MEObiWMvV2GPpo6WQMe6W8G2xczywQ7ElPF9achopj3yHZQf7qLg==
+.twitch.tv	TRUE	/	FALSE	0	login	f_bradyp6w_u
+.twitch.tv	TRUE	/	FALSE	0	name	f_bradyp6w_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:14:31Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f5198b93ec2028ec0d6021bd055625b6
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfYnJhZHlwNndfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzUyNzEsImlhdCI6MTUyNTYyMzI3MSwibm9uY2UiOiJMZF9va1gtYk53V0JEZVVSa0JHZlNJNTI0ei1JWTdPT3MyWDR0MzZDdVU0PSJ9.-6eols7Rb0KW1XTV9sLO6iMvGnU7GNgH7_hbwlMFNqBnzsiWa5v1oAYMW2OHdodL7cKHQgP_xy3c0WpouQ3vHw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jv08pr0rmh1g0d5gdwwkzlcgdsgde2%22%2C%22displayName%22:%22f_bradyp6w_u%22%2C%22id%22:%22218880756%22%2C%22login%22:%22f_bradyp6w_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jv08pr0rmh1g0d5gdwwkzlcgdsgde2

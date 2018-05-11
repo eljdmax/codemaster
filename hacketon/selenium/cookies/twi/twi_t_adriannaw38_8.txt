@@ -1,0 +1,13 @@
+#t_adriannaw38_8
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	SiNsTVj82FygAO7wIuE9uMFJsjTsPpOdfTAUQ%2FeZZrM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	8bfbaa852c126d6f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218940358%3A%3Ajoyignsjdx0ybv318u8k9z9xixlauh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAzNTgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMzMjksImlhdCI6MTUyNTYzOTcyOX0=.oWnJvrucOUPyGf5sqrne7wsAeBS7YvXjTCrBcudP4NErxz8DcB-Y8qWswQgeoKiWC_HCpuNNNQYokJ6aIECBKA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDAzNTgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0NTI5LCJpYXQiOjE1MjU2Mzk3Mjl9.VvMqjIZgZtrYpSzCYOGDdZECPcf4VG6Uyzzfcyyo2FJLeX8dUvXQnaF9mW2HGJ2NK39ehqNEHMaiwLLILDbAIQ==
+.twitch.tv	TRUE	/	FALSE	0	login	t_adriannaw38_8
+.twitch.tv	TRUE	/	FALSE	0	name	t_adriannaw38_8
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:48:49Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b426eadc1da4c47b24426244d5238f91
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfYWRyaWFubmF3MzhfOCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTE3MjksImlhdCI6MTUyNTYzOTcyOSwibm9uY2UiOiJudEUxYkZiUnppekJxUXpuX2hxQkhMTkE4b283TXRza3FwRXpoejZtMEhJPSJ9.1Wa4-WSyxc6jB60jn6ZtgnxREf9prJd44-KxxU6Me3oUDsArl4LMZhIJMxlj6pa2OswRJufnwX6JvVlAD1iTPw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22twin8k9vuws3cnrjlrm3z701be08e9%22%2C%22displayName%22:%22t_adriannaw38_8%22%2C%22id%22:%22218940358%22%2C%22login%22:%22t_adriannaw38_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	twin8k9vuws3cnrjlrm3z701be08e9

@@ -1,0 +1,14 @@
+#o_miguel68f_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	etoJO1B93%2FPN0XXy2HxaTLzWXpu2PciT3T%2BLJLuxzpo%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	30999db85bb0eaf8
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	656b30c02ec31e34d26d8f61cbb5f9a2
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851185%3A%3Ap1ebig9t9iziac0gvnkofcf44p74ng
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTExODUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTY3MjEsImlhdCI6MTUyNTYxMzEyMX0=.-C53d99OXYdTGctFUOd6JwtTFqDQ_7oFI4jqhS8uhQAVA7Cc8en-Kd77jdvEiH2k_C49fwzOCdB0nP_BNjlJUw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTExODUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE3OTIxLCJpYXQiOjE1MjU2MTMxMjF9.qenTimk83bewaak0DzArJgI9crJ0di4Vvgmrd9RTZZpHUl9WFEqmjCnIP-VHUndMY6Zlm1EJINaYcjZmCutSKg==
+.twitch.tv	TRUE	/	FALSE	0	login	o_miguel68f_l
+.twitch.tv	TRUE	/	FALSE	0	name	o_miguel68f_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:25:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8beb6d8c32d03d6196d26b53f43e0f3d
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im9fbWlndWVsNjhmX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTY1MTIxLCJpYXQiOjE1MjU2MTMxMjEsIm5vbmNlIjoiR0Zjcjl0N2ZlWFNYYkUtbGppNUM5Unl0SzFDbUQ2eU9xQzd6eHFsakVQMD0ifQ%3D%3D.qaW0CInbGYRSkT2TxBTxbaJwf8ekvCOvRFXPfn2GsIAtSn7sVdvSI0IdKTun1vC9oi7P4xixA6xU_6Y1w2nWDA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%224vtlerzlwsbyb8dzq0dm6cdgup1wjc%22%2C%22displayName%22:%22o_miguel68f_l%22%2C%22id%22:%22218851185%22%2C%22login%22:%22o_miguel68f_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	4vtlerzlwsbyb8dzq0dm6cdgup1wjc

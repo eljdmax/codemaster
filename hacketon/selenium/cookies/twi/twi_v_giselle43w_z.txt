@@ -1,0 +1,14 @@
+#v_giselle43w_z
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	V4E8ZDfMcKu%2FGqCZHWkP2%2BJzOf9CEj3wUQiqOIvC0NE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	899c3a7637ad7fe1
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	348c3edcf39cdbef35bd6d500e8f1ac7
+.twitch.tv	TRUE	/	FALSE	0	persistent	217567957%3A%3A8nkkg8tzmly069kfbyvleq4fyl8vx1
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njc5NTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzc2MzksImlhdCI6MTUyNTAzNDAzOX0=.N_Yt3Nbb_cbtv8981B1PQVYLDJT7w4cz9WOaii8fvNwocgTpAUXUqRbM7YbWpF_ewxNzz712OfhOjQ1xsB4ltw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1Njc5NTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM4ODM5LCJpYXQiOjE1MjUwMzQwMzl9.rG21raN8HrGc1FNrw5to0m2jdjbwjpY8KA-XVjknMMO3zfn0ybr746Ft-jyIQIcgELyl6ZaC_V30XkG7BT5bGg==
+.twitch.tv	TRUE	/	FALSE	0	login	v_giselle43w_z
+.twitch.tv	TRUE	/	FALSE	0	name	v_giselle43w_z
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:33:59Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	44ccbe981b04e96c6ccec75322de4ed2
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfZ2lzZWxsZTQzd196IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NjAzOSwiaWF0IjoxNTI1MDM0MDM5LCJub25jZSI6InRpcFlDeGQ3QjZhSE52dHFkQXdyYkwyRTZ3UWN1RlRqNEMxazBjTWF1cGM9In0%3D.HJMMk77u_owDdgeBE4iq6KyNqJm9zlX8hnuzk6rx-7ctpW_4df9ekZyhckzxZMqUUCWI2KWOT378i-cc0MhJfw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22i6od0p20p0skxqbdlnaawykoe2za2w%22%2C%22displayName%22:%22v_giselle43w_z%22%2C%22id%22:%22217567957%22%2C%22login%22:%22v_giselle43w_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	i6od0p20p0skxqbdlnaawykoe2za2w

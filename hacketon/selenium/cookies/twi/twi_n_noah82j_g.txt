@@ -1,0 +1,16 @@
+#n_noah82j_g
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	tos%2Fnr%2B1bcnKUzDfraH7QYrbhHHaJNw6Dd4KUPyKj0Q%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T18:25:41+00:00	unique_id	e4181bfd2041c9fc
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:25:41+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:26:08+00:00	persistent	215246075%3A%3Adg6prrun9i5fx3d92rq08o3hyylfse
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:26:08+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDYwNzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwNzY5LCJpYXQiOjE1MjQwNzU5Njl9.Nm1bO8Fmok9zyei8D2P2D_zq_EqIQvXQWgX-qzeNlRYsaE3Pz8JRuAJ4wI7hTmagVvCbS5PYiDqQH9ih6KszNg==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:26:08+00:00	login	n_noah82j_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:26:08+00:00	name	n_noah82j_g
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:26:08+00:00	last_login	2018-04-18T18:26:09Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:26:08+00:00	api_token	141daa6e77e11486d11653e70233ac2e
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:26:08+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im5fbm9haDgyal9nIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNzk2OSwiaWF0IjoxNTI0MDc1OTY5LCJub25jZSI6IksySDEyd0dzUlo4NDN0V25rNDNST2l0Y2RnQkZjY0RrRzBhMjNiaEliaTA9In0%3D.2CnrWtAqiVaR3jP7IuXUITzoSlSslvLkoiJROaO9JDtP_9DZsTtwHjdVKwGKZd5Tr1BgRwOHXiMdI3VQpp7H8g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	6vACqhuJpWgGyloPOAL9e38CI0XE3gMt
+.twitch.tv	TRUE	/	FALSE	2020-04-17T18:26:15+00:00	__gads	ID=b7ab2782f294f524:T=1524075975:S=ALNI_MZYw3P6azDpRzOFp5RevAKzE4zBXQ
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQwNzk2MjksIm52IjowLCJ1cHQiOjE1MjQwNzk2MjEsImx0IjoxNTI0MDc5NjIxfV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:27:08+00:00	twilight-user	{%22authToken%22:%228ueea9hyrd7n1q9qeijcn7oob809dt%22%2C%22displayName%22:%22n_noah82j_g%22%2C%22id%22:%22215246075%22%2C%22login%22:%22n_noah82j_g%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:27:08+00:00	auth-token	8ueea9hyrd7n1q9qeijcn7oob809dt

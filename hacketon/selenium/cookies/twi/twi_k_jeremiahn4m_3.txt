@@ -1,0 +1,13 @@
+#k_jeremiahn4m_3
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	OovegFmO07tTzUTJMhDBEiDZkmc8xVJq%2FPUGVC7p2G0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	34b9fcb3a302c798
+.twitch.tv	TRUE	/	FALSE	0	persistent	217267567%3A%3Ay2k81z7rzu8sdf2u2dkirkfso0l0yc
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjc1NjciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzIyMjEsImlhdCI6MTUyNDkyODYyMX0=.w87T880kkTbu3blK9aeQz5KVvvc9JYlH-uvFEPMX9EyRuKGA03_aUlx2PvQS0lwqGXU--qcXfcUj0at7fPFfUQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNjc1NjciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTMzNDIxLCJpYXQiOjE1MjQ5Mjg2MjF9.IfZQHAwM4VvWHlXWwBmY4VATzlJkVCOMJnPH8SGZrn_muS6Hokq-EPV14ECJgch6UXFCxqBnK8quVZ8A-YiLMQ==
+.twitch.tv	TRUE	/	FALSE	0	login	k_jeremiahn4m_3
+.twitch.tv	TRUE	/	FALSE	0	name	k_jeremiahn4m_3
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:17:01Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e828a20daaec76ec803586cd72771fba
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImtfamVyZW1pYWhuNG1fMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA0ODA2MjEsImlhdCI6MTUyNDkyODYyMSwibm9uY2UiOiJoRi1ZUVRlX2lwSDVkZF85S2ZsYmdjTDB4MUM4NllqUmw3VHdzalVQb0ZnPSJ9.bpkyEQvFgRsWThk3bevdwwTuG5nPavaS-dbj6YmEtY1oUFzk4cmAouHPyNGFqdrz6sq1vhU00-MjC9w3e_eRwA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22s4xc94hj4ps5syygpi158uu2xnj08f%22%2C%22displayName%22:%22k_jeremiahn4m_3%22%2C%22id%22:%22217267567%22%2C%22login%22:%22k_jeremiahn4m_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	s4xc94hj4ps5syygpi158uu2xnj08f

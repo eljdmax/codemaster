@@ -1,0 +1,12 @@
+#w_veronica62m_j
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	4Auz6YCyAAPLQoPkihAheHdDjM9cBYwm3g8Ft0kgVQU%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:58:33+00:00	unique_id	23f2772e6310f898
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:59:15+00:00	persistent	216478355%3A%3A7lp8dag8rlpx9vkxa17uczc5h07tov
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:59:15+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzgzNTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcyMzU1LCJpYXQiOjE1MjQ1Njc1NTV9.f0nTwNJuT0PWe54Id8F7mjs2tKvZaxNkKNWPAg1KOAwVunovoNAHGikjd82rdvEFA2Wy6lIRwbaxRjBwRdnPkA==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:59:15+00:00	login	w_veronica62m_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:59:15+00:00	name	w_veronica62m_j
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:59:15+00:00	last_login	2018-04-24T10:59:15Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:59:15+00:00	api_token	0b59802e873e0f9a1642d3840baf2244
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:59:15+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfdmVyb25pY2E2Mm1faiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTk1NTUsImlhdCI6MTUyNDU2NzU1NSwibm9uY2UiOiJYOWJGZEZOR3BaMmF6RlFTSkRMOEJaSmVhSl9pb2tBVXNnTFEzV1FPQUpzPSJ9.qC_ppib5w2NIhS0V2qOsOX4rWLpdFp-BmSrr66pHY0myZb_uCXsnPw7-CS5uawMOiIXeRm6u8NW6anpHumYQsg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:00:35+00:00	twilight-user	{%22authToken%22:%22l518jad8ojuu4plyfapgm36t5ewzvy%22%2C%22displayName%22:%22w_veronica62m_j%22%2C%22id%22:%22216478355%22%2C%22login%22:%22w_veronica62m_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:00:35+00:00	auth-token	l518jad8ojuu4plyfapgm36t5ewzvy

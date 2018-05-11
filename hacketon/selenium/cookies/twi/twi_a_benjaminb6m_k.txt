@@ -1,0 +1,14 @@
+#a_benjaminb6m_k
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FlOiyxsw6mRgY1DmlO4hazDqfjPQSeleeCEi5rx3ukE%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2c2b0f8d3503231d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	43528fa5062ed574bad37f2a36bd611c
+.twitch.tv	TRUE	/	FALSE	0	persistent	217445197%3A%3Ahybi5m8bqct8kz80gpkg7ljvguzesw
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDUxOTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTczNjUsImlhdCI6MTUyNDk5Mzc2NX0=.X3FvKSRxJlai1bLVOD4v_yjX8duzlnKeGN26tNf_wYRZYJ6tAzSq30dJUx-6B0j6BmxRhv2H9q2wWvl-xqCqXA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDUxOTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTk4NTY1LCJpYXQiOjE1MjQ5OTM3NjV9.GsWo5m_vfcuhn0JbtP-WkQ0VX3o5KMRqHmkf3p3Ye6kUMNgDEDeL2WPB8F43E2fQNplziWn7ROSt0RoNS7r8vw==
+.twitch.tv	TRUE	/	FALSE	0	login	a_benjaminb6m_k
+.twitch.tv	TRUE	/	FALSE	0	name	a_benjaminb6m_k
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:22:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	ff35adc2e99c2486c68de55a923ca0d1
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfYmVuamFtaW5iNm1fayIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1NDU3NjUsImlhdCI6MTUyNDk5Mzc2NSwibm9uY2UiOiJtY2ppcWJJT3FrbmFrMGRqYkJXckVKVVhJZ2lKMkxNVVY2ZEYxVDI1NmdzPSJ9.PfGvqhpOhiexe6jeRbmga4AtkeHEyzHutWGwMOGo-zMe8QuL-q2nwedsIlmaBdlJICe8RFTaF4rjZFaQqRDi-g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220o53rak5xwg6ez8l6dyqij5gycho6d%22%2C%22displayName%22:%22a_benjaminb6m_k%22%2C%22id%22:%22217445197%22%2C%22login%22:%22a_benjaminb6m_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0o53rak5xwg6ez8l6dyqij5gycho6d

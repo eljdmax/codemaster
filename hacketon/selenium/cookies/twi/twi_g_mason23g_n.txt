@@ -1,0 +1,14 @@
+#g_mason23g_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DXYUr2%2BSp2IZkDF2PNbvJyUdoRbh31vwZNQt7IP7qbM%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7967062d52dff34f
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	c27c25414cda4656bb8423d070b9f1ec
+.twitch.tv	TRUE	/	FALSE	0	persistent	218877235%3A%3Al50gmr5xqcbnpx3ytveydm6z0edwvg
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzcyMzUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjU3NzcsImlhdCI6MTUyNTYyMjE3N30=.JkFhiLmZG6jawvUiuY0CRm_KK8pgNbP1692ywYLMC4b4WnL4XQVQNxu-1U3QJAVN2ea2HtiWGwsOWPcEhLrDeQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NzcyMzUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI2OTc3LCJpYXQiOjE1MjU2MjIxNzd9.AVIL0_cHXwswNXKkPMjS37HPvKbZqfWerKwalxIQeC7BWwCKu0W2z9xxQaAKpnSc_X3WI11PfGehC5e_VH0VHA==
+.twitch.tv	TRUE	/	FALSE	0	login	g_mason23g_n
+.twitch.tv	TRUE	/	FALSE	0	name	g_mason23g_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T15:56:17Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d7bd269fadbf99f2db2f324cd2063e51
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbWFzb24yM2dfbiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzQxNzcsImlhdCI6MTUyNTYyMjE3Nywibm9uY2UiOiJBbkpzM3htSkM0WVBLSXFFNFo5dHdMb0hSX3lTWHJyRjN1T2RidF9LVk8wPSJ9.iCGxZ5R0COGff0Sh8nvn9ClMIxQ4sUG9e8aWCy1Xwxr4bW2hIE6XHTrdnTkKUnpmQywqppy8gcD-T84qieo6Sg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22yd041yl1228dot7vaa8scd3ykeowfn%22%2C%22displayName%22:%22g_mason23g_n%22%2C%22id%22:%22218877235%22%2C%22login%22:%22g_mason23g_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	yd041yl1228dot7vaa8scd3ykeowfn

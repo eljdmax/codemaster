@@ -1,0 +1,14 @@
+#g_diegof9e_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	HbTNEAeIJG1rftcUIYnGshf7kDKPJIUSPnGQuLQw97Y%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	78d3337d615a3104
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	88643baab8dc7998251e977f003f4f78
+.twitch.tv	TRUE	/	FALSE	0	persistent	218890561%3A%3Atn44c0n77b4ef8xyx69q9kcq0aut17
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA1NjEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2Mjk3NDYsImlhdCI6MTUyNTYyNjE0Nn0=.WNAcT208sBhD9izqbonTOuywKIBu3YGdqq7IvBpgPg03WRJdgXOe8DAYw0WQQ2I36UXXsJvnk_EW1Mar-z3INg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4OTA1NjEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjMwOTQ2LCJpYXQiOjE1MjU2MjYxNDZ9.n7xnxfeco3qOjwq21tLxzN2nMuisRL3JRZ13P-I3k58VVRybCK579nG3Dy52SovX7U9a2SKQxpTm4xJg3ooaXw==
+.twitch.tv	TRUE	/	FALSE	0	login	g_diegof9e_a
+.twitch.tv	TRUE	/	FALSE	0	name	g_diegof9e_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T17:02:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	276df4b6cec0b68b69bc61f5eb35837b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfZGllZ29mOWVfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzgxNDYsImlhdCI6MTUyNTYyNjE0Niwibm9uY2UiOiJCbWJLSkYwOWxtSWg1MXEySWNIVjlPbUxXeFBORU1maTlPMEZQVER0bW9zPSJ9.si9VeABUKpqVr1Njnse-VmRcWnRZKBwbshRQu6D1jE1L663Nch9Y7BGBXCfu23ER7VAUcK0kGe6TqWBizLJ6cw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22y0fotleuha3s3i60kjlcfssaq7zwlr%22%2C%22displayName%22:%22g_diegof9e_a%22%2C%22id%22:%22218890561%22%2C%22login%22:%22g_diegof9e_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	y0fotleuha3s3i60kjlcfssaq7zwlr

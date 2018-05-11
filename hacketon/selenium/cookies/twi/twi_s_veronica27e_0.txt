@@ -1,0 +1,13 @@
+#s_veronica27e_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WaWyeh%2BJTskFmHzHsGtFrmbV8m4HiKSxMLux6ayt4VY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:49:34+00:00	unique_id	608e73a8fb35d342
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:49:34+00:00	_twitch_session_id	f2c6e9320b969be08519f50035adda4b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:50:05+00:00	persistent	216488937%3A%3A75dlbno8triopkqr0uuqod2ej9cvq6
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:50:05+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODg5MzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc5MDA2LCJpYXQiOjE1MjQ1NzQyMDZ9.afj2KkAuFUABUkzSczhFp4tH_q64qU1LKQK4YFKw3w3skFGWZ6n2vtXzlKdNdMyCLKXC95xA9xNZ2mjFKOkBAg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:50:05+00:00	login	s_veronica27e_0
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:50:05+00:00	name	s_veronica27e_0
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:50:05+00:00	last_login	2018-04-24T12:50:06Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:50:05+00:00	api_token	34ee06219131e5417b7c3d2efbe983a2
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:50:05+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InNfdmVyb25pY2EyN2VfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjYyMDYsImlhdCI6MTUyNDU3NDIwNiwibm9uY2UiOiJzdEdQWkZVc1ZCQTFxaHpNQkZpSmRNN3NLRHlQbFF1SEt1WEFtYVFDdm9VPSJ9.ijUT_uDQh3kTF7EHLtU8TscQTv_R_Pw-8bhUphZAtOZdHLaitI1XtDkbbRybRacJCoTSzvTcqR1gdAOR69Si-w%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:51:27+00:00	twilight-user	{%22authToken%22:%223lkulnq0xawvkasyn63bncnwjny34x%22%2C%22displayName%22:%22s_veronica27e_0%22%2C%22id%22:%22216488937%22%2C%22login%22:%22s_veronica27e_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:51:27+00:00	auth-token	3lkulnq0xawvkasyn63bncnwjny34x

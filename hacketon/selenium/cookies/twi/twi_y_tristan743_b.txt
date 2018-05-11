@@ -1,0 +1,14 @@
+#y_tristan743_b
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	BgqZd6S%2FwpjwSfvVGWcA9guCblrOJX9Ig%2BnbfSdmDV8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	d452287bf7a51643
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	54b13fa5d0f350eedbfd2b59c62c132e
+.twitch.tv	TRUE	/	FALSE	0	persistent	218939595%3A%3Ac0wws8a8mf60j11bwqoyixemsbgg0a
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzk1OTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDMwODQsImlhdCI6MTUyNTYzOTQ4NH0=.nAp7unjOisMQ9uB-xSzIPCLLgIX1pKByovjIDaodynccEGqgzUk2sFofed7v3t8wgZiovMoNcXYFopR1-1yKGQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzk1OTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0Mjg0LCJpYXQiOjE1MjU2Mzk0ODR9.t0XgvRZ4qR0w28cT0z95tKjudIUk0EFC0v_Tbi4Nx56gBuoowTPnRHc9GmT_RdMTpVRo5II81Yd3c25RsraPeQ==
+.twitch.tv	TRUE	/	FALSE	0	login	y_tristan743_b
+.twitch.tv	TRUE	/	FALSE	0	name	y_tristan743_b
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:44:44Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	8ee5ae5a60c8e23b353d9da1396ecc04
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfdHJpc3Rhbjc0M19iIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MTQ4NCwiaWF0IjoxNTI1NjM5NDg0LCJub25jZSI6InhNenNHS19nX1FsX1NPOHh4dDRGTVJfdzN6X3g4S2tkSzVFZ0k4UnVuNTQ9In0%3D.L_zmG9f_LjnrOBkU77b9Ex8aMMhbNu2b6S0mD7EcVG7z787T3Lf9LB73WnmkQE4RcjNRL4k9Cii1_628eAkEgw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22e12djouuytgcv7nofljpir1gref1eh%22%2C%22displayName%22:%22y_tristan743_b%22%2C%22id%22:%22218939595%22%2C%22login%22:%22y_tristan743_b%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	e12djouuytgcv7nofljpir1gref1eh

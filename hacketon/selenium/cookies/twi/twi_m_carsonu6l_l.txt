@@ -1,0 +1,13 @@
+#m_carsonu6l_l
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	SeE6LVSjHyGBsN66FwVqrkOHFYSjzcv2T0laP5VDadk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	621afcd09c4a425a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217448401%3A%3Au4ufrboj0ivtg1igfh19hxfsv0zbt6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDg0MDEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5OTkxNDgsImlhdCI6MTUyNDk5NTU0OH0=.JGxTEAVwHKDW_5ZGzT20aDPoxRkEDEJqa8AxceFTncumSvcQYuRgBeLE_e_6r81lyaTFiGqqo8rOyMccGDLL_A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0NDg0MDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjAwMzQ4LCJpYXQiOjE1MjQ5OTU1NDh9.PGALQEvZdJ5Odpte2anZxT7akJcnYanGrlqvNKtFTmR5Z3R1Fl7mzZmIZM1pki1d457kG47ElEdDqeBZvrLeHA==
+.twitch.tv	TRUE	/	FALSE	0	login	m_carsonu6l_l
+.twitch.tv	TRUE	/	FALSE	0	name	m_carsonu6l_l
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T09:52:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f9c39d68995d0b13a34bf85cbbd2ad2b
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fY2Fyc29udTZsX2wiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTQ3NTQ4LCJpYXQiOjE1MjQ5OTU1NDgsIm5vbmNlIjoiRVB2LVNfTVVxVjg5ZHdDZDg1Mm1vUTZ6M1VETFdiSGRsX1lkMVVEYnY2VT0ifQ%3D%3D.QPRWa6U08zWL_uTJ_6TdhIawiqQu9LhAvLzXPnu408hjYp3OF4iEOpTM26qSwasvt7tawHcXIPzBUOYbZcoPLg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p4xj6qqj6btwc4u2za2xsd0tj9l5kf%22%2C%22displayName%22:%22m_carsonu6l_l%22%2C%22id%22:%22217448401%22%2C%22login%22:%22m_carsonu6l_l%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p4xj6qqj6btwc4u2za2xsd0tj9l5kf

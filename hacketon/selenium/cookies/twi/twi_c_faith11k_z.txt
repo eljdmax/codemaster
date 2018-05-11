@@ -1,0 +1,12 @@
+#c_faith11k_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	3W7aEieEFiW64beo%2FwMBKhd60FNIN3lmSgDtgcwlUVQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:16:14+00:00	unique_id	19358ebdfd500257
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:16:41+00:00	persistent	216479820%3A%3Aogwfwru3jy2m3zhn56a5phg0kw00al
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:16:41+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzk4MjAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTczNDAyLCJpYXQiOjE1MjQ1Njg2MDJ9.RAjf-W8spI0ex0upH3w9sPRy3pTy1B87_JTQnDbkBL3SfhwSM3D3g4DgJh4Q6t90EV7QJnC_KxIFTgvxfXkBKQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:16:41+00:00	login	c_faith11k_z
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:16:41+00:00	name	c_faith11k_z
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:16:41+00:00	last_login	2018-04-24T11:16:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:16:41+00:00	api_token	2aa493485f608c9ccce8a376cfb5dd8b
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:16:41+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfZmFpdGgxMWtfeiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjA2MDIsImlhdCI6MTUyNDU2ODYwMiwibm9uY2UiOiJNN2cwYTdZZjhZb2xmanJ6ZTJvdWxyeUlvSjZxZzFzeVFMZER2U3pfbWJJPSJ9.xxIjVwZs-5aPbH1SCa9B0TjEHKVb1cwjc5LVwj08AkIutLD7S-fvv90PUhQw6EItlVpnEcWAfdfNkttSiFeFuQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:18:01+00:00	twilight-user	{%22authToken%22:%22aildd9dzvjv7vng2vdzf8am3bkpvdb%22%2C%22displayName%22:%22c_faith11k_z%22%2C%22id%22:%22216479820%22%2C%22login%22:%22c_faith11k_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:18:01+00:00	auth-token	aildd9dzvjv7vng2vdzf8am3bkpvdb

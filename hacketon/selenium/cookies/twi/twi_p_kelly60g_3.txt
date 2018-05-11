@@ -1,0 +1,13 @@
+#p_kelly60g_3
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	cVXprgww53IFdi9Ysr43u4Xj5zRpq4cW3yQXh3ogGb4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:40:22+00:00	unique_id	d138d8caecb29842
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:40:22+00:00	_twitch_session_id	330069e4eb98af6e11fb2a20ef4c652d
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:40:40+00:00	persistent	216936810%3A%3Af6h97s4oqe8srixe04qlq2vm3a6gj6
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:40:40+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzY4MTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwMDQwLCJpYXQiOjE1MjQ3NzUyNDB9.YmaIdtVXlXxkVUz0D3Mmpv5zfvpxE5akE1s-zx8FQd00zspvdFD0EAQ-1JzNVg6UPhRxUNR0zUFBHr0dF5OaHQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:40:40+00:00	login	p_kelly60g_3
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:40:40+00:00	name	p_kelly60g_3
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:40:40+00:00	last_login	2018-04-26T20:40:40Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:40:40+00:00	api_token	514f8d55f3bd1510fc1530eaf213a64a
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:40:40+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfa2VsbHk2MGdfMyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAzMjcyNDAsImlhdCI6MTUyNDc3NTI0MCwibm9uY2UiOiJVaUNPbmF0YTBzSGlRTWdGWlBUSThVakw1TF9IS3p5Wk54T292UkVaNG40PSJ9.fcFIJbC3mGbmLSkHUbUQZqCntfOAfc24-XoULijur_F6xjoEcYvydapLFX5O_ejQoNXgUfeLGBdbIviAMH20zQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:42:11+00:00	twilight-user	{%22authToken%22:%22zu872y25qibkan1mzeyi2r77bipl9n%22%2C%22displayName%22:%22p_kelly60g_3%22%2C%22id%22:%22216936810%22%2C%22login%22:%22p_kelly60g_3%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:42:11+00:00	auth-token	zu872y25qibkan1mzeyi2r77bipl9n

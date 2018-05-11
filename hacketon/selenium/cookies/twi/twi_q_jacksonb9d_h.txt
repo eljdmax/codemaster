@@ -1,0 +1,14 @@
+#q_jacksonb9d_h
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3xbIyaSELA6TQCd8mj678OoZzKz1ES%2BuKT3In6Nb4wk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	4f2ebe96a3bcf4f7
+.twitch.tv	TRUE	/	FALSE	0	persistent	218942099%3A%3Aoe6hv2hewbx17gk0xrkp50sy4466hq
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIwOTkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM4ODMsImlhdCI6MTUyNTY0MDI4M30=.Emo2FOx2LAWAmhhXHRWpZ2q409nat2I7FfBy_j9oHC9V96kx7yOYIbD3xxOqmL718V4RdMJssU6-FRzW95Ifmw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIwOTkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MDgzLCJpYXQiOjE1MjU2NDAyODN9.PhyNk-IdLhvxaTR-RrtMpKanIfm5KifUkfsabn2114XpbptfAItl3L98GFLmSN4BJi7D9mX_vDHN8XSFd0ElaQ==
+.twitch.tv	TRUE	/	FALSE	0	login	q_jacksonb9d_h
+.twitch.tv	TRUE	/	FALSE	0	name	q_jacksonb9d_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:58:03Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	36df472a5e4e00e48671e06ab5cefdb4
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InFfamFja3NvbmI5ZF9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjI4MywiaWF0IjoxNTI1NjQwMjgzLCJub25jZSI6IkJKR043TzJpQ2RacmdzWl9XSnloM3BfN3RqNG9Ga1l6dWFKUWU4MkNWWG89In0%3D.Ys1ogDJQTqwNgQtAcJ1BsFYFjscSLu51Byp73QXFeQSpAZTkxu4WosRnunl1YcgcIESVjqIr__eHMKqAiC1XUQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22bbgcwyx8e0sn2sindegq0m9b840s0h%22%2C%22displayName%22:%22q_jacksonb9d_h%22%2C%22id%22:%22218942099%22%2C%22login%22:%22q_jacksonb9d_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	bbgcwyx8e0sn2sindegq0m9b840s0h

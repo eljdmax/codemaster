@@ -1,0 +1,13 @@
+#c_cadene7n_t
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	7yNaJhIrK4aoP3CWqtNlx2vAmdYT50S0PiX8zd5%2Fm%2FA%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:07:13+00:00	unique_id	68f271388f302013
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:07:13+00:00	_twitch_session_id	065b2471ffd8989e04a8d01a6638afb4
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:07:26+00:00	persistent	216474162%3A%3Auj0dcbmlxdol2d4e3kwajuqunmt12e
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:07:26+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQxNjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5MjQ3LCJpYXQiOjE1MjQ1NjQ0NDd9.tnpSrS3WowfaK5VhD0de-v3sH5n61Y9Qw_yH9l2bwjxWjgg7Gb0M3xCHZU134WaIKTx_MQipIeIQXoWII2Z0Zw==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:07:26+00:00	login	c_cadene7n_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:07:26+00:00	name	c_cadene7n_t
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:07:26+00:00	last_login	2018-04-24T10:07:27Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:07:26+00:00	api_token	312ac6923a9322a26eda98f221e42b9e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:07:26+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImNfY2FkZW5lN25fdCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTY0NDcsImlhdCI6MTUyNDU2NDQ0Nywibm9uY2UiOiJKcjhuQ2ZiRmx6ejM2SmxVbUVPNnVPbUc4aVc4dTJVQnplM0Vndm1qOUpFPSJ9.PsRViol6yDBX5Jn1RjQtkpnOBPZjwen1H6yCbwDxtA5LaStoOoZyhLMr0rXFr-iwdRSzEYbirlW9QUfnXix10Q%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:08:46+00:00	twilight-user	{%22authToken%22:%22zhmede1uko9b9syzg3znmu79jv90xk%22%2C%22displayName%22:%22c_cadene7n_t%22%2C%22id%22:%22216474162%22%2C%22login%22:%22c_cadene7n_t%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:08:46+00:00	auth-token	zhmede1uko9b9syzg3znmu79jv90xk

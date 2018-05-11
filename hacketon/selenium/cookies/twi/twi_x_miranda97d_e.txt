@@ -1,0 +1,13 @@
+#x_miranda97d_e
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	lGFDksMEgaWgoAqhG%2FSAizjq%2FV7GQyzLm9cZ6BXZPfQ%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T22:07:29+00:00	unique_id	769e9941864a69be
+.twitch.tv	TRUE	/	TRUE	2018-04-23T10:07:29+00:00	_twitch_session_id	bc100c6f85628cffae9080da9ceee954
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:07:57+00:00	persistent	216143184%3A%3Awizet2984j4m200od4tv008q7dxdbu
+.twitch.tv	TRUE	/	TRUE	2018-04-29T22:07:57+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxNDMxODQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM5Njc3LCJpYXQiOjE1MjQ0MzQ4Nzd9.ww5pLd35_kV_6dWU_ZhC1q7wTknSQM-M-Aoq-ZYWoc2yRfUnSLNr5fA45iOeE0WxfkgK3nyd2FtG028swOJiQA==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:07:57+00:00	login	x_miranda97d_e
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:07:57+00:00	name	x_miranda97d_e
+.twitch.tv	TRUE	/	FALSE	2018-10-07T22:07:57+00:00	last_login	2018-04-22T22:07:57Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T22:07:57+00:00	api_token	dbb72de49db42b4b480449ea636c134a
+.twitch.tv	TRUE	/	TRUE	2018-10-19T22:07:57+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfbWlyYW5kYTk3ZF9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4Njg3NywiaWF0IjoxNTI0NDM0ODc3LCJub25jZSI6InhpS0VfcllPR29hYmdxTW5GQ3BPM283WWt4MWtzS0NFeTFGLUZ5alpqcms9In0%3D.kTOqw_BJUAY5kTsuGFhfOBBxWrcYOkpZWzmxDIy6-wqDNVJHGL1rIK4EPKM8R8_911ZSjGEldXMpMq4zV9vckw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:09:09+00:00	twilight-user	{%22authToken%22:%22rzw1p2rs2rk13ktqi6kfaqddl6ayd8%22%2C%22displayName%22:%22x_miranda97d_e%22%2C%22id%22:%22216143184%22%2C%22login%22:%22x_miranda97d_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T23:09:09+00:00	auth-token	rzw1p2rs2rk13ktqi6kfaqddl6ayd8

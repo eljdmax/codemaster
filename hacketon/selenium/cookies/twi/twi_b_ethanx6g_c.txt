@@ -1,0 +1,13 @@
+#b_ethanx6g_c
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	FsMHYvv5haltlEk%2Fl5GoHcRYF4o1kBDc%2BQaSmf%2Fejug%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	c34945c365faeac4
+.twitch.tv	TRUE	/	FALSE	0	persistent	218864581%3A%3Ad0unjti1y5lcfygidjsb6b218b1v8o
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjQ1ODEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjE2MjAsImlhdCI6MTUyNTYxODAyMH0=.Ln-p5OrkSCFd4K2r3KmOABxzH1kAJ4pIVZqm8JaR05bHBvcwPPo2Z-bPOdOF4vaNKHzXBAxSYFmHMWLStGdM9A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NjQ1ODEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjIyODIwLCJpYXQiOjE1MjU2MTgwMjB9.p3KAmpTQdttmeujtRkHo5fmIQ6vKW0sqLE62aiVD18CZ_b6U1jGDQBsUN9gW07mRBuUiL70nyqaH6ACDWBmvEA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_ethanx6g_c
+.twitch.tv	TRUE	/	FALSE	0	name	b_ethanx6g_c
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T14:47:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4efe9624d82309cb5d352bba349a9004
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZXRoYW54NmdfYyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNzAwMjAsImlhdCI6MTUyNTYxODAyMCwibm9uY2UiOiJFYjJyUVZfS0x5dDhKNzFuMDBTcWdiem84SkpWbFZ2a29XZ3A4T1dyY1JrPSJ9.Z5BbYbwk3SwN_3gfP4agF6bVH3WwcPOzhKbUG4_nw4pl0FCgDB9-f68WrE4HTiv6l1D5eoGIDxYsW9UHD53K8A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%229bxkzdrvir5k3m5fc9l2367n209kes%22%2C%22displayName%22:%22b_ethanx6g_c%22%2C%22id%22:%22218864581%22%2C%22login%22:%22b_ethanx6g_c%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	9bxkzdrvir5k3m5fc9l2367n209kes

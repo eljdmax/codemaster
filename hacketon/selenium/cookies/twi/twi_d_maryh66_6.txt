@@ -1,0 +1,12 @@
+#d_maryh66_6
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	TSLJBBCe%2BcSlcT9abXecWO6GxH87P7RgI%2FKyvymAEv4%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-22T21:44:40+00:00	unique_id	b8e4520f860f798e
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:45:00+00:00	persistent	216138986%3A%3Aaqgly7simao9m42sibynxrd9fegsyd
+.twitch.tv	TRUE	/	TRUE	2018-04-29T21:45:00+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTYxMzg5ODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MDM4MzAwLCJpYXQiOjE1MjQ0MzM1MDB9.P_bZ5T_I7CBBsCVeXS6Im9kBFCRK4DY_z9DX-sg5CV0CbWtovC3_8bjQCGdjAnECcwDIvE7BYH8whinaUEibIg==
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:45:00+00:00	login	d_maryh66_6
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:45:00+00:00	name	d_maryh66_6
+.twitch.tv	TRUE	/	FALSE	2018-10-07T21:45:00+00:00	last_login	2018-04-22T21:45:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-07T21:45:00+00:00	api_token	bac790f94e79fb3d4bac8035d113a236
+.twitch.tv	TRUE	/	TRUE	2018-10-19T21:45:00+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfbWFyeWg2Nl82IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTk4NTUwMCwiaWF0IjoxNTI0NDMzNTAwLCJub25jZSI6ImJDek9DZHR0endqN3owTTU0MmJTWEZyNUdvbzRKS2tlRldMX3BYUHlqN2c9In0%3D.KNZK-3oLnjWL7EZ_mPkBo2yfERqJV4N-lhUiOaR9juUHTDDH4GIQpvhzyGIikX1oz9KbtxnkjCpNjkZiu1DYJQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:46:12+00:00	twilight-user	{%22authToken%22:%2274wvrp6dej5dpcri37fagb6di7cc09%22%2C%22displayName%22:%22d_maryh66_6%22%2C%22id%22:%22216138986%22%2C%22login%22:%22d_maryh66_6%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-22T22:46:12+00:00	auth-token	74wvrp6dej5dpcri37fagb6di7cc09

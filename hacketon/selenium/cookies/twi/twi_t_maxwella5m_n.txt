@@ -1,0 +1,13 @@
+#t_maxwella5m_n
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nAjdHOgjoLGmA7HWtToH5wJXYJdjXpGuBWsLv7oW4Ic%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1d434071b6d5f8c8
+.twitch.tv	TRUE	/	FALSE	0	persistent	217572182%3A%3A54ei8my994undipfx4ziebcwf68cpn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzIxODIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzg3NzcsImlhdCI6MTUyNTAzNTE3N30=.1oDuYiZgu2HvGKqgMlvWoPjmKdfnf4Qdm20NuhyVQ9LXLF5t5B-JvkpSy0BIHm-uz450EzWnU5Q-6x87_ixEmQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NzIxODIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM5OTc3LCJpYXQiOjE1MjUwMzUxNzd9.nVC5SbWuUkmDSQ47dPWS8OEx1IEt2AAtR7RFy3BFZ7ZYq0F174JYkenM4syi9g5WeFEWzORqMKHAMXdpf0LxTA==
+.twitch.tv	TRUE	/	FALSE	0	login	t_maxwella5m_n
+.twitch.tv	TRUE	/	FALSE	0	name	t_maxwella5m_n
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T20:52:57Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	90f1857a24c56a523e96b9c86fb52ab9
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InRfbWF4d2VsbGE1bV9uIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4NzE3NywiaWF0IjoxNTI1MDM1MTc3LCJub25jZSI6Ik1MYTB2bnJhbk5PbWZtd052MGVrVUJ5SzdacGk4cHZydGVLczJNSVpoTlU9In0%3D.szfnIxY2UnOHYxXZWGltMq-tv2b5Ri-7S5SStDudUM2-MZY-bXOueldqjGuRmHo0o641jU81yJQmygsMU0wigA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%220majvz3ldoowp8xskp0kznlhmbz4ph%22%2C%22displayName%22:%22t_maxwella5m_n%22%2C%22id%22:%22217572182%22%2C%22login%22:%22t_maxwella5m_n%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	0majvz3ldoowp8xskp0kznlhmbz4ph

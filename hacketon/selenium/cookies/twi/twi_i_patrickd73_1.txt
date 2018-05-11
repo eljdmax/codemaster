@@ -1,0 +1,14 @@
+#i_patrickd73_1
+.twitch.tv	TRUE	/	FALSE	0	unique_id	PjoIHvWxnKByEzk39YH6aH4ELVGtKiuP
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	sFPb2T6Fr36qBb56Qi4e6DeAn9%2FL%2BGPdTuyLCx4FTjU%3D
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	bdcb7d64b2cdf84d653d856c51218d8a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217893691%3A%3A2bh1cs9u81xbxgc7dl43gqd6hzoi0r
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM2OTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg1ODUsImlhdCI6MTUyNTE3NDk4NX0=.r9ZXLcnkQZM58EUL5xFApvagkgcNplnQ7krSvLq1XFkuhcu4gI75KuuhDM_Jy-zOfe-GxwKEtGao-4cRHRfy7w==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTM2OTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1Nzc5Nzg1LCJpYXQiOjE1MjUxNzQ5ODV9.jYkVCEW0qrmZHvzNujawSVLmmgzt4U1o-48bJ4hpkqUcP6FP5-5PH_5DgJAnKHCptaS5zIEn_oDI53i1P0C1rw==
+.twitch.tv	TRUE	/	FALSE	0	login	i_patrickd73_1
+.twitch.tv	TRUE	/	FALSE	0	name	i_patrickd73_1
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:43:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4f102203b9abf008eaa31a16715e7a82
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfcGF0cmlja2Q3M18xIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNjk4NSwiaWF0IjoxNTI1MTc0OTg1LCJub25jZSI6IndEZTkxT1B2cEJiVFlmdmVTZ0hfRF90NnVCQ2RzTDhyYTFlWm5YZ1VtTEU9In0%3D.xa9velSM8e3XJBBAePNiOCBj1N4kqySZciil_yECz0U9_Beh4NW-ndWHjWGl1SjNRbarZb8orh69zu6xmJi-fQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22xpe1tqy8gg4y00zo38pajjztj7ax8l%22%2C%22displayName%22:%22i_patrickd73_1%22%2C%22id%22:%22217893691%22%2C%22login%22:%22i_patrickd73_1%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	xpe1tqy8gg4y00zo38pajjztj7ax8l

@@ -1,0 +1,14 @@
+#z_audreye9s_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	DqUnbWOcgyFJLj2eXnAEthVYds4cZTDn6FxUxRwS2QY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7d4322fd30599d7c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	49df0232a10a41b55f41a56eede6fc41
+.twitch.tv	TRUE	/	FALSE	0	persistent	218959223%3A%3A8fd228yi5sytug4i14lbokqawlybem
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTkyMjMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDk5MDYsImlhdCI6MTUyNTY0NjMwNn0=.Z2elKB_3EHDdsa-kMt63MLqP5wys599k-lbYRNzKMbUrZJO8I_4A--LZakoosGnToDqUxP_Yo9AChiUn9sTQEg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTkyMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjUxMTA2LCJpYXQiOjE1MjU2NDYzMDZ9.T_s2NF6Iicj9Ak2kRs5RETQA5QuAWpVsBDVZlphA212qA2mRrjOsK1VzqK4vswPRrUD0iNGVZMHRhsRUYqAn8w==
+.twitch.tv	TRUE	/	FALSE	0	login	z_audreye9s_m
+.twitch.tv	TRUE	/	FALSE	0	name	z_audreye9s_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:38:26Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d7f6e0f884bfc2e5409128fc18cea4c0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfYXVkcmV5ZTlzX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTk4MzA2LCJpYXQiOjE1MjU2NDYzMDYsIm5vbmNlIjoiUVlDc0xTdlprMUZsWW1fUUFITkhOOTlaMUJnOE1od2ZSWVJIN28wdXkxYz0ifQ%3D%3D.cdNlMRyeV9MgGhR52NwWgiH1nnE_W9xzng9lM8g2ULbiWTo7LMXQmeubaOwOX6vLdM6W0ShDaji5QLZxhpnOlw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22jn181r1ny1uh79zslpmycr2j2l85x0%22%2C%22displayName%22:%22z_audreye9s_m%22%2C%22id%22:%22218959223%22%2C%22login%22:%22z_audreye9s_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	jn181r1ny1uh79zslpmycr2j2l85x0

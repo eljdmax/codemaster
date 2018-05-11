@@ -1,0 +1,14 @@
+#a_connorm24_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	fonErKoVckNb%2FIBjUMnFNNuVdGPKAk9XhNRMCaHHMyg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7a3e4f07387917f2
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	19e8a2db6806e7ca9f13742cd677b79a
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032569%3A%3Autrtx83s0rxy7tkf4hb5h2f4drtru7
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI1NjkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTIzNDUsImlhdCI6MTUyNTY4ODc0NX0=.FI4AoK8kWmuDdaCfXhsjeHJLO-wSqym_Sc2gygBKFUrrsjS77rh92dUp0dpa7_B3HV5LC0azYEXZbGga7R4Jmw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI1NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNTQ1LCJpYXQiOjE1MjU2ODg3NDV9.7uHXKNlxV2qYnKLLgsJKeBVI8B-uznaCqVCN8Lo_RXS81g3p26gNl5eW37v8JXxFvkCYvblDCoIuT-Bo_8JFhA==
+.twitch.tv	TRUE	/	FALSE	0	login	a_connorm24_m
+.twitch.tv	TRUE	/	FALSE	0	name	a_connorm24_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:25:45Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	f8e3ebdf859fa2d6a426fbfd9f9a7162
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfY29ubm9ybTI0X20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMjQwNzQ1LCJpYXQiOjE1MjU2ODg3NDUsIm5vbmNlIjoiRUNBbzJnUE92Z3c5Z0lZTTFBLVc1UXVwMjJJTEhMSW1DUDN3c043N0NvZz0ifQ%3D%3D.sMW7BH4SrBdeUs7KSKfmKsGxqAf6uErAJWePGfMW3L77M_bpWEBJyb0afhWpkHFjsOTlgOyn_JvSnFGiCz96dQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22kyekbkwn6k18iu66vbchnci0qgujmc%22%2C%22displayName%22:%22a_connorm24_m%22%2C%22id%22:%22219032569%22%2C%22login%22:%22a_connorm24_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	kyekbkwn6k18iu66vbchnci0qgujmc

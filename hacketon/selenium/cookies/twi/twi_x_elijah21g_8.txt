@@ -1,0 +1,13 @@
+#x_elijah21g_8
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	alD1fqKt7OyG8zrxfwCVfVeDjWPrR7wo2bPhYjqigqs%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-27T17:41:08+00:00	unique_id	68add0026b1f1a8b
+.twitch.tv	TRUE	/	TRUE	2018-04-28T05:41:08+00:00	_twitch_session_id	7d7142ab5e4fc6f9dbcb7e8064938b38
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:41:42+00:00	persistent	217078287%3A%3Ai3fiao6n9bbu0ylfx8r6ufsvlfc7bh
+.twitch.tv	TRUE	/	TRUE	2018-05-04T17:41:42+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcwNzgyODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NDU1NzAyLCJpYXQiOjE1MjQ4NTA5MDJ9.JcKpdwTmcXIjf0EQi2zFSuRJ2Xmd3fRu5zsY0ZkLi5hNKmrQhcc54BwsboOCcuJgVrXEkfNb__G1PpVosfFT9A==
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:41:42+00:00	login	x_elijah21g_8
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:41:42+00:00	name	x_elijah21g_8
+.twitch.tv	TRUE	/	FALSE	2018-10-12T17:41:42+00:00	last_login	2018-04-27T17:41:42Z
+.twitch.tv	TRUE	/	TRUE	2018-10-12T17:41:42+00:00	api_token	a91983dc14e5c6cc7d9fc2d901493f31
+.twitch.tv	TRUE	/	TRUE	2018-10-24T17:41:42+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfZWxpamFoMjFnXzgiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDAyOTAyLCJpYXQiOjE1MjQ4NTA5MDIsIm5vbmNlIjoidGl1d3pmdHl5dWRfNWlsX1pMR1dpcWh6LUpvLXJTS1BIUjlXVGpIZW5nMD0ifQ%3D%3D.228abo706FHWOkqzyzr0q1faOZb9g-EKikTAJq5bm5DcpHqBMsuCf2sT-Xo7ITOJTgFUz9w7xBjfjpsBYwSjDw%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:43:17+00:00	twilight-user	{%22authToken%22:%22gjsk8e64tjcc7vqy376p6szeak3q1l%22%2C%22displayName%22:%22x_elijah21g_8%22%2C%22id%22:%22217078287%22%2C%22login%22:%22x_elijah21g_8%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-27T18:43:17+00:00	auth-token	gjsk8e64tjcc7vqy376p6szeak3q1l

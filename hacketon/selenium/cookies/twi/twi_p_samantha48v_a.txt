@@ -1,0 +1,14 @@
+#p_samantha48v_a
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Ibf5YIbKwtLBGphm6IR2BSKkrZrykGPJvRDBMuaxEIg%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	609aab4947304adb
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	a9648f8b4fe59ea27182cd2bc2bf34e2
+.twitch.tv	TRUE	/	FALSE	0	persistent	217558611%3A%3Ao162zbb22dlak6e0uu1dqxux8pjfno
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTg2MTEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMzUzMjcsImlhdCI6MTUyNTAzMTcyN30=.Ibvuq-E0dHYvYKfOHtnmYeanZT9cw8cNHDtWIM86a8mB_nU0xcB-dtSjSGV5yFkjpaS1P_cC-NBuG8f4mNy8wA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTg2MTEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM2NTI3LCJpYXQiOjE1MjUwMzE3Mjd9.uShTVBQjQ3iuLPhJ_KKc0XemnymFZe-VHjuOKWowDOsyLQ70tT1FVPBvL9D6FH-MyKriWPC3Kz6cAKBMLtJPWQ==
+.twitch.tv	TRUE	/	FALSE	0	login	p_samantha48v_a
+.twitch.tv	TRUE	/	FALSE	0	name	p_samantha48v_a
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T19:55:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a447b42507c15b193e1953574e1eaead
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InBfc2FtYW50aGE0OHZfYSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODM3MjcsImlhdCI6MTUyNTAzMTcyNywibm9uY2UiOiIyUy1qTXZ2anNNLWpUYlg3Q1paMXBDTU9EVEpOSXk5Z0xXcUpsT2g4RzM4PSJ9.3szxXYCLNz-1lKkb_mDUGypBOdzZ5HNkfsZjidTr76HxHqOCSkiOsXjUQgTSu27_IzCxfED0y1Ogn4paxxjQFg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%221q0i1rhj74330642hw5vrl6u4ohfsj%22%2C%22displayName%22:%22p_samantha48v_a%22%2C%22id%22:%22217558611%22%2C%22login%22:%22p_samantha48v_a%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	1q0i1rhj74330642hw5vrl6u4ohfsj

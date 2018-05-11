@@ -1,0 +1,13 @@
+#j_edwine2k_x
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	hLhSeNyvflKb4Cu3PZKVQODtzVvg4AQFERdbvgsTyOM%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:39:56+00:00	unique_id	3d8567f4be82fdfb
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:39:56+00:00	_twitch_session_id	a3132d7ae34c3ac0a520d87160068e88
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:40:21+00:00	persistent	216476769%3A%3Aj9ht0v3r0rgy98k99f215igvhmjczo
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:40:21+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzY3NjkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTcxMjIyLCJpYXQiOjE1MjQ1NjY0MjJ9.LFfQhvLwBqfvQSSgGcyhsHyJy7fKmrNwLTF61wAcyQ08obL3STAoMYvwtwQdSY1kTS-bG5ZrPLFHl666gyJh9g==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:40:21+00:00	login	j_edwine2k_x
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:40:21+00:00	name	j_edwine2k_x
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:40:21+00:00	last_login	2018-04-24T10:40:22Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:40:21+00:00	api_token	94c817f60708c3561b12cb97cbe8fc56
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:40:21+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImpfZWR3aW5lMmtfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTg0MjIsImlhdCI6MTUyNDU2NjQyMiwibm9uY2UiOiJpaXZSQWNVTDNWWEtSRm9Ha0JZanFCSTRCV29KUWdRelgycl9XWW1VWm4wPSJ9.oA5CW1lNqnodLhQssiqnibet-n5_cUjMghkxrozqhtlvXQPK0hBd0nvzdRIJUPCuBbtyURa1LSytpH-b6grMOQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:41:42+00:00	twilight-user	{%22authToken%22:%22vuz72cxefhthufwrjbclr978uw2345%22%2C%22displayName%22:%22j_edwine2k_x%22%2C%22id%22:%22216476769%22%2C%22login%22:%22j_edwine2k_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:41:42+00:00	auth-token	vuz72cxefhthufwrjbclr978uw2345

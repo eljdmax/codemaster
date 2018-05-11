@@ -1,0 +1,14 @@
+#r_kylev85_h
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:50:37+00:00	unique_id	a16c985d5da5c636
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:50:37+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	XCLpErDcvEZx6M6OC1Cil8YpzOgsh0u%2BEJDUmso%2FJj0%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-19T05:53:02+00:00	_twitch_session_id	1f39da2f1503d159d82e733c7a551683
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:53:19+00:00	persistent	215239687%3A%3Andoq2ufz57v1lm1wvoq7axe32zh7cd
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:53:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyMzk2ODciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc4ODAwLCJpYXQiOjE1MjQwNzQwMDB9.iBMYZrMtAC44vfTsXu4dO6B324r28H0OYnBnN6IbKsy4Hu9XTGPxOfhktOA8M-wpTcQcPYM2OnnN-SoFYxr5vA==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:53:19+00:00	login	r_kylev85_h
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:53:19+00:00	name	r_kylev85_h
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:53:19+00:00	last_login	2018-04-18T17:53:20Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:53:19+00:00	api_token	4588ec9a374ab1a7fdfce51f8120a17a
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:53:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfa3lsZXY4NV9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTUzOTYyNjAwMCwiaWF0IjoxNTI0MDc0MDAwLCJub25jZSI6InNPX0J1bjZWVGpJemNxRG5UUVVsd0t6Q1pFT00xSVNMeTh1VEJ1NUdjYU09In0%3D.aV8205GfB6k6iTjIWu0hP94ZT6LkmCWh5G2IDe5vb-R9cfmtcMFCEDKHTeerorg14Yh2LreawuWTdTYQcCDJ1g%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:54:14+00:00	twilight-user	{%22authToken%22:%22mr8xpyizmik55m1aqjgumz3xkrtgjg%22%2C%22displayName%22:%22r_kylev85_h%22%2C%22id%22:%22215239687%22%2C%22login%22:%22r_kylev85_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:54:14+00:00	auth-token	mr8xpyizmik55m1aqjgumz3xkrtgjg

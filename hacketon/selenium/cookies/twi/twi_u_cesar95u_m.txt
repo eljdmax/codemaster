@@ -1,0 +1,13 @@
+#u_cesar95u_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	2np20zEutsoFznPxE2ubYcW4mf1FzHTEvijHJL%2BHJ%2BE%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T10:07:41+00:00	unique_id	3b8d4f2657db1728
+.twitch.tv	TRUE	/	TRUE	2018-04-24T22:07:41+00:00	_twitch_session_id	92cf3db3b8aab561b1ede03899b0026c
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:07:56+00:00	persistent	216474189%3A%3Amd3epyfx0e6e7ysdlknsujgsv813ep
+.twitch.tv	TRUE	/	TRUE	2018-05-01T10:07:56+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0NzQxODkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTY5Mjc2LCJpYXQiOjE1MjQ1NjQ0NzZ9.gXBu46ttFwUUACwLWL32CL7hehnTf_0f8aPAznUzh1Y2dMowGU7-JqKWxCKG51vPM5jnVevLj1w4mq-b45LafQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:07:56+00:00	login	u_cesar95u_m
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:07:56+00:00	name	u_cesar95u_m
+.twitch.tv	TRUE	/	FALSE	2018-10-09T10:07:56+00:00	last_login	2018-04-24T10:07:56Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T10:07:56+00:00	api_token	f29e92550a5c9c66580ad5eea6f98d08
+.twitch.tv	TRUE	/	TRUE	2018-10-21T10:07:56+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfY2VzYXI5NXVfbSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMTY0NzYsImlhdCI6MTUyNDU2NDQ3Niwibm9uY2UiOiJOdGgzVHRVc25Lc09DbzAtSXVXVEZOZUZvYjZkSFFCQV9TR29wVXYxN3dNPSJ9.5X5D-m4xPGJyKvECrL0h6fXu2nJ3990Sw7PF0_LbyZFwScd_HkpMsU77V2vtzlWydrHGJFqbLNgEsbQr6FCJKQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:09:16+00:00	twilight-user	{%22authToken%22:%22wfz1ggier09lwxwxd06sy06a3s7rgw%22%2C%22displayName%22:%22u_cesar95u_m%22%2C%22id%22:%22216474189%22%2C%22login%22:%22u_cesar95u_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T11:09:16+00:00	auth-token	wfz1ggier09lwxwxd06sy06a3s7rgw

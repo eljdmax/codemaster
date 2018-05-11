@@ -1,0 +1,13 @@
+#e_angela886_x
+.twitch.tv	TRUE	/	TRUE	2028-04-15T19:12:35+00:00	unique_id	e04aa6cdc504d987
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	WZmOsQNiWp7C%2Fj5p3MJ0lSz4yWn5xmu8oEWQda%2B%2Fsew%3D
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:15:45+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:16:10+00:00	persistent	215244123%3A%3Afkt6hjf2rguz1m4j68bl1csx65n0i8
+.twitch.tv	TRUE	/	TRUE	2018-04-25T18:16:10+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDQxMjMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0NjgwMTcwLCJpYXQiOjE1MjQwNzUzNzB9.0Qs90GFTfz4Svs_hqodCxK4dFSVRenkKdzB2ygvb0OX1XtF_cOI_Q3SzpWtJEI-KEQP2yG32AvJWMh50XDP3Lg==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:10+00:00	login	e_angela886_x
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:10+00:00	name	e_angela886_x
+.twitch.tv	TRUE	/	FALSE	2018-10-03T18:16:10+00:00	last_login	2018-04-18T18:16:10Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T18:16:10+00:00	api_token	9397028c66268c3f6f8cb80da125caeb
+.twitch.tv	TRUE	/	TRUE	2018-10-15T18:16:10+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImVfYW5nZWxhODg2X3giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI3MzcwLCJpYXQiOjE1MjQwNzUzNzAsIm5vbmNlIjoiSnlkcUY1VGVUT1FRMm5jcHpjM3RPSFVfaHpmYjRBUjFabGRXYWk2cERJQT0ifQ%3D%3D.IRaXcVNig-8GKeJ8FesM79WCvOh2jrzCEohHM4UVWSQ6-jt8do6yt1AZlExc8YxHxdeGQ_E1n17h2kR8rhLbhQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:17:03+00:00	twilight-user	{%22authToken%22:%22r8dz5zy7m4qa18uvdcoon9mzxbo61d%22%2C%22displayName%22:%22e_angela886_x%22%2C%22id%22:%22215244123%22%2C%22login%22:%22e_angela886_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T19:17:03+00:00	auth-token	r8dz5zy7m4qa18uvdcoon9mzxbo61d

@@ -1,0 +1,13 @@
+#a_jeffrey42o_r
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	6Gu%2B9fEGvFaT6ZvS14PyLZYwyJvIlGOSigv%2BeB9RR9c%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:46:39+00:00	unique_id	64614f7f5734449e
+.twitch.tv	TRUE	/	TRUE	2018-04-27T08:46:39+00:00	_twitch_session_id	d078c875a5d566544f9fae885e358437
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:47:03+00:00	persistent	216938176%3A%3Ain815j5dtcdf23qyke8yh2s0tq0ewg
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:47:03+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5MzgxNzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgwNDIzLCJpYXQiOjE1MjQ3NzU2MjN9.edHrcey8QsFuf4cWMxZ1Q9h1tTwx87EhGB51zI4g6xnRiABeK5ShAVKJ0pkDAFRGSzOrzxIrZnm1NjMY6EMSIg==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:47:03+00:00	login	a_jeffrey42o_r
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:47:03+00:00	name	a_jeffrey42o_r
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:47:03+00:00	last_login	2018-04-26T20:47:03Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:47:03+00:00	api_token	b61c272100a2eb52bf8dd579e60eb618
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:47:03+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImFfamVmZnJleTQyb19yIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMyNzYyMywiaWF0IjoxNTI0Nzc1NjIzLCJub25jZSI6IlUxOTdSanRmN1ZLUXRzV0Rsa2VfbERrZTdETlpBeE02NFcyM3hwaGR2Z1E9In0%3D.bJFDerQXLdU3is1NzeC421digpCrYJeumbKNF-DBtn4QPLfZh7NeW5xrM-fhtqt2zG3vqGVFE1MwVKRhD5La1A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:48:34+00:00	twilight-user	{%22authToken%22:%22fl4ohyn4q10pf8t50a78kcmmjro84y%22%2C%22displayName%22:%22a_jeffrey42o_r%22%2C%22id%22:%22216938176%22%2C%22login%22:%22a_jeffrey42o_r%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T21:48:34+00:00	auth-token	fl4ohyn4q10pf8t50a78kcmmjro84y

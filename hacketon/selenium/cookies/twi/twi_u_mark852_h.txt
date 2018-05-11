@@ -1,0 +1,14 @@
+#u_mark852_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	oaVcQA8ccaYlbyP82%2B%2F4aSOW5mYwfEQ5MPm%2BY1xQCh0%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	b45298d0ad7a6e64
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	0c08e485e7f428a9f001fabe628455bf
+.twitch.tv	TRUE	/	FALSE	0	persistent	218885177%3A%3A4qcnfse2l9mij271h0je3kc32kx6sh
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODUxNzciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MjgxNjAsImlhdCI6MTUyNTYyNDU2MH0=.Yv-70Hi5jNF6A7Q6ahMRE1V_ZKbwAck-uBQJPerT7VLbBXotEbhY_WGOV45veGr8LGyPoGkirIie0SVQdHaGTQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4ODUxNzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjI5MzYwLCJpYXQiOjE1MjU2MjQ1NjB9.V_7SyMNZEBhry36yqwOwBe9cKyGTW6ADOUrhTe4c2uPIc4crD7XHqHdQ5u8m_b9gi9-J_xSgm6Us3KpSFcqpyg==
+.twitch.tv	TRUE	/	FALSE	0	login	u_mark852_h
+.twitch.tv	TRUE	/	FALSE	0	name	u_mark852_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T16:36:00Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	d5697496d049b68ff477f0d6bcfd3b1f
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfbWFyazg1Ml9oIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE3NjU2MCwiaWF0IjoxNTI1NjI0NTYwLCJub25jZSI6ImJzMVlac1dPUDdLR2kyLVRXNWxRakhUYzdsM1FMT1Zva083MzFvVzJfRUE9In0%3D.ShO9OudVauxOPnjV5UoOHdx9WkO97ncPPUA4FgPlBJPB350AgekDpq68aZsT4rwfrA6tVIrWalkOiN3rnLxY4A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22g4pu9ljympc9ll15yocx88biafx84w%22%2C%22displayName%22:%22u_mark852_h%22%2C%22id%22:%22218885177%22%2C%22login%22:%22u_mark852_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	g4pu9ljympc9ll15yocx88biafx84w

@@ -1,0 +1,13 @@
+#m_adrian12i_d
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	dKptzzTzoXG8%2BXLAqfRZAdr4ZKLcMZjsU9%2Bhe61rR1U%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ed2227d6071459c3
+.twitch.tv	TRUE	/	FALSE	0	persistent	217484015%3A%3Aoix9a1zl387uithbkacukrni0q6era
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODQwMTUiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTQ3MTEsImlhdCI6MTUyNTAxMTExMX0=.FrKJxuzHxgQBwfGyIj_JKkwP4Mr_oZxK22tN2XMiebZhwxhFQigQ4zwOgZOBx5HxwaCCvu6ucZteDAV-RAe_pg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODQwMTUiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE1OTExLCJpYXQiOjE1MjUwMTExMTF9.s9JBqNJ8IJNEXFQ8mQlFj-Sc627XChYp6XAZ0W5rhWA4mYdz4NwkmfpthAfozfOz3xFde7jUjrQaeceCIZknoQ==
+.twitch.tv	TRUE	/	FALSE	0	login	m_adrian12i_d
+.twitch.tv	TRUE	/	FALSE	0	name	m_adrian12i_d
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:11:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	817f6eaf2d9305da6d5e6fdbdd899dab
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Im1fYWRyaWFuMTJpX2QiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYzMTExLCJpYXQiOjE1MjUwMTExMTEsIm5vbmNlIjoiZ1BidUhwOG1HZTRRemw2SjVicmEwTTMtdEloc1lSZUt3SjdULTEzeTFJST0ifQ%3D%3D.nPvg6zkWJhfoow_dGeIBBcfHlfijKBIgGc-XmgTE-t6NBjX_PyOjhMdmAfBZ99IkndzCIb1YUe9Zip9olm8VkQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22j2eb3uxawdxajsgsbpkjhpwoz0dtp4%22%2C%22displayName%22:%22m_adrian12i_d%22%2C%22id%22:%22217484015%22%2C%22login%22:%22m_adrian12i_d%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	j2eb3uxawdxajsgsbpkjhpwoz0dtp4

@@ -1,0 +1,14 @@
+#b_ellie09f_x
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	RVSpZVn0Q4tT683Ufe7jGLWW8o59ylYnc8Dn5eZRt2M%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	361a5f259d4b91e8
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	487d0104118913654d233469377f318e
+.twitch.tv	TRUE	/	FALSE	0	persistent	219031597%3A%3Akugi27ftkev7ctt4qflonvwrwcy9kl
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE1OTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTE1OTIsImlhdCI6MTUyNTY4Nzk5Mn0=.UaQfnt_BhmIiFo4DqrCxhbk7jbVoApuUnxlYnV_gaBO8HkEkZAF5V2fh7keJSOUgOy7cUWb0ZAxf05ipVjbm6A==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzE1OTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkyNzkyLCJpYXQiOjE1MjU2ODc5OTJ9.2_GQ_3AUoN1NGB_Aygm9YEbaly-RohKq7KN_FvF2EnqDTiaKMUDU4veBSEHIWQ2PFay1TOtBmMidCVfohg7YAA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_ellie09f_x
+.twitch.tv	TRUE	/	FALSE	0	name	b_ellie09f_x
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:13:12Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	4ba195abf49aff93a5e2e35ca4573d40
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfZWxsaWUwOWZfeCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzk5OTIsImlhdCI6MTUyNTY4Nzk5Miwibm9uY2UiOiJScEI1dDlYblIxdWlKZ0hnUHR6b0swQjkyQk9FR05GT2k5QWtKUkpmRWpjPSJ9.dwmza9Ki5fKAZwx-hVhDbazdCQTOoVzx06Z_ft7jxuIMiYiGy-TGTYG-tRDIhMwdRGEFV9PrkIMzvBcXk5Qnqw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22v0s971igcb9b76p3r1yy2ip5icneeg%22%2C%22displayName%22:%22b_ellie09f_x%22%2C%22id%22:%22219031597%22%2C%22login%22:%22b_ellie09f_x%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	v0s971igcb9b76p3r1yy2ip5icneeg

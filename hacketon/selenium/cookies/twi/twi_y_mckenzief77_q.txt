@@ -1,0 +1,13 @@
+#y_mckenzief77_q
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	nVK2HSXP%2F8EMFXOqCp%2BlprsPweShFHTeJcr6mlOWF7w%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-29T19:35:39+00:00	unique_id	81168844a26f6a2d
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:35:39+00:00	_twitch_session_id	555e464b8afc702313d3c87226abbc5b
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:35:59+00:00	persistent	217554249%3A%3A01be2c6wt3dns0r41x4p2qlt6dflez
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:35:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTQyNDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM1MzYwLCJpYXQiOjE1MjUwMzA1NjB9.dTLHpUsgHo1nv0rl7PtuMkXcCDfZ8nVhRB_dVzHwl_jmk9EjtkpOCE9A2NgHwDKmzttEzeQ8J10Xz68RiLLAhg==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:35:59+00:00	login	y_mckenzief77_q
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:35:59+00:00	name	y_mckenzief77_q
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:35:59+00:00	last_login	2018-04-29T19:36:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:35:59+00:00	api_token	49eed10764a819552a4177101edd5284
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:35:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfbWNrZW56aWVmNzdfcSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA1ODI1NjAsImlhdCI6MTUyNTAzMDU2MCwibm9uY2UiOiJSQktYQXpMdHpFekVhM3NlZy1YenRYYWZ6d0doN2RENkhCTGN3WUlnRjdrPSJ9.xbGfYvi6rKBeVbaw1lki4PozsQLi4ysUwgBRkdGnl6ksPvGYvTHFSBhsS4v1Pm83SC3PYe1YIj6WS86b1UE7MA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:37:45+00:00	twilight-user	{%22authToken%22:%22x0cm8laf8onvfuhd0kydb4zxubryfv%22%2C%22displayName%22:%22y_mckenzief77_q%22%2C%22id%22:%22217554249%22%2C%22login%22:%22y_mckenzief77_q%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:37:45+00:00	auth-token	x0cm8laf8onvfuhd0kydb4zxubryfv

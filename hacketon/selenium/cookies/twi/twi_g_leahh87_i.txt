@@ -1,0 +1,14 @@
+#g_leahh87_i
+.twitch.tv	TRUE	/	TRUE	2028-03-18T22:43:00+00:00	unique_id	93087d9e23f51105
+.twitch.tv	TRUE	/	TRUE	2018-09-14T22:43:00+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ckhxvm0jEF2TyjXpnhLMeqiL%2BOlrtG47jItZy%2B%2FActQ%3D
+.twitch.tv	TRUE	/	TRUE	2018-04-30T07:17:26+00:00	_twitch_session_id	31bac8ea59f11b66d98ab5e246d8f7f4
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:17:50+00:00	persistent	217550001%3A%3A39bo0zip7dgfgfewd01hlvqseztpi8
+.twitch.tv	TRUE	/	TRUE	2018-05-06T19:17:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc1NTAwMDEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjM0MjcwLCJpYXQiOjE1MjUwMjk0NzB9.CroD58xpqFuQNA-BPLWbRBAZQ-qUXQ2O-jrmta7GRn0NtHxXsIOargxbu4cJ8OBqphwXB2R5aERsqTHM0EDzKA==
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:17:50+00:00	login	g_leahh87_i
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:17:50+00:00	name	g_leahh87_i
+.twitch.tv	TRUE	/	FALSE	2018-10-14T19:17:50+00:00	last_login	2018-04-29T19:17:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-14T19:17:50+00:00	api_token	45fa91add28cf0c48824e3ccdfa66bb8
+.twitch.tv	TRUE	/	TRUE	2018-10-26T19:17:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImdfbGVhaGg4N19pIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDU4MTQ3MCwiaWF0IjoxNTI1MDI5NDcwLCJub25jZSI6ImN1aEF0VkMtZzhJVnZBY0lCS3FoLURXdy1pMjdVeUJqempWU1NFWHFmNmM9In0%3D.Kyr2LI5aH8snrZPgqnnNw_4ldhGvDvBa0vZ0gLjOregC6Ir1UavYvyyHey-OpPO3MO2XdMcqI49hO-HQ9YPfVQ%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:19:40+00:00	twilight-user	{%22authToken%22:%22u9rqpwxuavi7puy8mt235t77pwgkht%22%2C%22displayName%22:%22g_leahh87_i%22%2C%22id%22:%22217550001%22%2C%22login%22:%22g_leahh87_i%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-29T20:19:40+00:00	auth-token	u9rqpwxuavi7puy8mt235t77pwgkht

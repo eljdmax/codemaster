@@ -1,0 +1,13 @@
+#j_kelly71g_0
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	UNXmJjUbSIDGNqwa9PXDCXRzLEUE0s65UbGDxoyf8fI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:17:56+00:00	unique_id	74d9579cc08e1305
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:17:56+00:00	_twitch_session_id	bce638df6753717041ca7119a97f7c5a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:18:19+00:00	persistent	216485431%3A%3A5eewd77bajelz50mw5digpf7ohrouk
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:18:19+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODU0MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3MDk5LCJpYXQiOjE1MjQ1NzIyOTl9.qC9owW0ImqEgf_FPGOUEQNAWYqMvUhiqBaXSRNwwB5Luq97JFpMDWpMxC9SkZqU5Ks38J8P_cdd0m2vPLTuchQ==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:18:19+00:00	login	j_kelly71g_0
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:18:19+00:00	name	j_kelly71g_0
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:18:19+00:00	last_login	2018-04-24T12:18:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:18:19+00:00	api_token	37058001c3be4e3508eb547fd4a9c43c
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:18:19+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Impfa2VsbHk3MWdfMCIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjQyOTksImlhdCI6MTUyNDU3MjI5OSwibm9uY2UiOiJFZkdtSjRpcE1hTm1mZEY1UTNjRmJLenFwM01jQ1cwNzliOE43eUhkR0xNPSJ9.x-F3Mv5ZguHJA0AueErTav4OGIbbHw1hVmorDfWSB7QUpxARBtBy5wwNKR2EazniD9CXhiqAQpYxZBHcLxBhmA%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:19:39+00:00	twilight-user	{%22authToken%22:%22de6jgda6207i57e1163o0obl2qgsms%22%2C%22displayName%22:%22j_kelly71g_0%22%2C%22id%22:%22216485431%22%2C%22login%22:%22j_kelly71g_0%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:19:39+00:00	auth-token	de6jgda6207i57e1163o0obl2qgsms

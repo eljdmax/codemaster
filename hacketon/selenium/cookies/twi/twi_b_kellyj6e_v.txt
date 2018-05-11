@@ -1,0 +1,14 @@
+#b_kellyj6e_v
+.twitch.tv	TRUE	/	FALSE	0	twilight_onboarding	true
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gySJQ8Jt2B8hrepzMR1PRtm3W3l2%2F0HCclHSmtoGjJk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	1954e34afcab4b0d
+.twitch.tv	TRUE	/	FALSE	0	persistent	217957186%3A%3Alfbebcrdhm4cvq28bduc88v1c3bnhs
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTcxODYiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUyMDAzMjksImlhdCI6MTUyNTE5NjcyOX0=.q3ImQZmT3fBgplr_LuncdM9FJu00GeT0PBP0irWDViESeXgcuuHbZAwiJ0C3NzYvbyy46XekyFzdcVwPmft5vA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc5NTcxODYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1ODAxNTI5LCJpYXQiOjE1MjUxOTY3Mjl9.qMECk11Ef5fNJpQf25EYkZ3Y_XFJgYcTObtPEgL-wd28oj7lXioSnfBM5A70m5VRcKoE7J-R95EVIfL8eL9mtA==
+.twitch.tv	TRUE	/	FALSE	0	login	b_kellyj6e_v
+.twitch.tv	TRUE	/	FALSE	0	name	b_kellyj6e_v
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T17:45:29Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	af9f9b904d1a9e1b4654929a4f2d7039
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImJfa2VsbHlqNmVfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDA3NDg3MjksImlhdCI6MTUyNTE5NjcyOSwibm9uY2UiOiJNX29jcXpqTnNMcEJnckV4S1N0MExnZDJIR0NCZnlTX29xcGpKVnBnVG9vPSJ9.MrJCojFXn1B9VVTqnKds7ecYgeRGCSeVhc-rKmlFXbP5-S5b85atob2Ehyu-K5GJlmswnH0KqWrTjp01zPsWPQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22aho3orxsenh5k7ku4iwqvy4dc38qgt%22%2C%22displayName%22:%22b_kellyj6e_v%22%2C%22id%22:%22217957186%22%2C%22login%22:%22b_kellyj6e_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	aho3orxsenh5k7ku4iwqvy4dc38qgt

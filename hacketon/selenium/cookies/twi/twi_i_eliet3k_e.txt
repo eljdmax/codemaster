@@ -1,0 +1,13 @@
+#i_eliet3k_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	Mim%2BPHhcOSC8mtlFXpWAzeoaEyF4PktoeSe4nDY%2FhkU%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	58e640cdabf01af9
+.twitch.tv	TRUE	/	FALSE	0	persistent	217894431%3A%3Aszhnugjurb6dfz1vgwau9e7wdxyx12
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ0MzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUxNzg5MDIsImlhdCI6MTUyNTE3NTMwMn0=.mxVMn77cdNbPJTodMnLFho6EtkHhH3XWSpOF4KvD99jDqpXrmJDO79VQIrRi_lwX89doer4CakYZz04l21J3ow==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc4OTQ0MzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NzgwMTAyLCJpYXQiOjE1MjUxNzUzMDJ9.4C7o6ApMVwOc1ZMNqlfX7BNTZQcYjebX8ab-X0JUiz-X7oivNmrk-_FD0BiWVzeyGIBXrHAxeVpwZz3l2aaS9w==
+.twitch.tv	TRUE	/	FALSE	0	login	i_eliet3k_e
+.twitch.tv	TRUE	/	FALSE	0	name	i_eliet3k_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-01T11:48:22Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	1fc877dd572c469286142928d1d14f36
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfZWxpZXQza19lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDcyNzMwMiwiaWF0IjoxNTI1MTc1MzAyLCJub25jZSI6InZ0MFllaDRBY3FtZnRUQ0hwaml3MmhPRjh0bGhDb3BrYXJZS0drS2Vpd2c9In0%3D.UVlWFOA463a0NGH5bhbgWY2zZ4DuaivlHMiOX765y9pAr-2Dr1SXNL9SXNyA0xzv5yZlybsWQzZ_32iGtpkwCg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22m2m7ozyyn6030h5rcedojqeaeo1tey%22%2C%22displayName%22:%22i_eliet3k_e%22%2C%22id%22:%22217894431%22%2C%22login%22:%22i_eliet3k_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	m2m7ozyyn6030h5rcedojqeaeo1tey

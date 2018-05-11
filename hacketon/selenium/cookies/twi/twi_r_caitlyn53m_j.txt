@@ -1,0 +1,13 @@
+#r_caitlyn53m_j
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	QNvlOpH5DckOHfIwjjdr2g1lfmiWk%2FP2RBcYaAfTzo8%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	77f7d201a17df44f
+.twitch.tv	TRUE	/	FALSE	0	persistent	218949364%3A%3Ab6d3dbtpswmhmye2z0bkcrhw8qvppo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkzNjQiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDYyNjcsImlhdCI6MTUyNTY0MjY2N30=.KdQbUTZ-5WDJiMuU-lcKldHBcQHkL4Q4X66AepkKNeedHLKKKYCJB7RRTjt5Bm3Gsr3wlu64XZUgp8M_vrgGrQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDkzNjQiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ3NDY3LCJpYXQiOjE1MjU2NDI2Njd9.xD1TRZM7QdEkWjPuWbcdEvoxhQDrWSSNNYeOUD49_le0EXPMhstfMLWP6a7tWRDEZ-mEtdexs5cHmYjTUDCxsA==
+.twitch.tv	TRUE	/	FALSE	0	login	r_caitlyn53m_j
+.twitch.tv	TRUE	/	FALSE	0	name	r_caitlyn53m_j
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T21:37:47Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	c387be05bbc176f5ee882db03312a5de
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InJfY2FpdGx5bjUzbV9qIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NDY2NywiaWF0IjoxNTI1NjQyNjY3LCJub25jZSI6IlNxbW1EODRXTnFTOWk3d0N0bTJRVVZ0cWw5WllNSEFHa1RXcjBOZlR0TEE9In0%3D.etWQfdvTzpet8Mw_wzH-230zsYV0m5qqLxmAx5Kg46lyu_sH6_idMY1KqZPnhxtBA1tNCJj_VO_IaSfCJft9Hw%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22hcf6a3qk2kigxcejxqwrijk2w9bqkz%22%2C%22displayName%22:%22r_caitlyn53m_j%22%2C%22id%22:%22218949364%22%2C%22login%22:%22r_caitlyn53m_j%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	hcf6a3qk2kigxcejxqwrijk2w9bqkz

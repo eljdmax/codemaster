@@ -1,0 +1,14 @@
+#w_allison20r_e
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	ebNe2ki76vkmm1ceFb7Wj4v9ylVaXAe%2F%2Bt%2BF%2Fe3%2Fi7Y%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e724138a19b49380
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	cff976f78278013164acf8b4966a755c
+.twitch.tv	TRUE	/	FALSE	0	persistent	219032703%3A%3Awmqh8qefnauofk8rp7xsjsi3scb1c4
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI3MDMiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2OTI0NDEsImlhdCI6MTUyNTY4ODg0MX0=.j1osqJD_wPbqE6aToXyW-wnpHSlwigXhMiKNlPwRs5HiZw7UnV-JyNiv6y19RrHwtekrdULU6zMUaSWYfamiCA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTkwMzI3MDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkzNjQxLCJpYXQiOjE1MjU2ODg4NDF9.ARODyIaTbNFqbMVp3wm8V_gxnG48PgKmaqgXhLXZycmVgOVceYdsrRIa-ZhJU1TC7aulLD84Gos8BMxrWPrXOw==
+.twitch.tv	TRUE	/	FALSE	0	login	w_allison20r_e
+.twitch.tv	TRUE	/	FALSE	0	name	w_allison20r_e
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T10:27:21Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	db505f18bdfa369615747af39326f9eb
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfYWxsaXNvbjIwcl9lIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTI0MDg0MSwiaWF0IjoxNTI1Njg4ODQxLCJub25jZSI6ImN0R2JKSUMtTmxGVWo2RmxCM3EyYzk0Wkd0V2hzaTU3MW5oUkpOeVU4RFk9In0%3D.dWddW3pLA9r5K4EBd5bXqULu0eVpvxSYuNStq_qLGJYahRhrg7pJL0fWuMMfT0lM2Ft12VRGlPIyfUn_4OYkCA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ko60asrk5eduqxttn06111348h3kdl%22%2C%22displayName%22:%22w_allison20r_e%22%2C%22id%22:%22219032703%22%2C%22login%22:%22w_allison20r_e%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ko60asrk5eduqxttn06111348h3kdl

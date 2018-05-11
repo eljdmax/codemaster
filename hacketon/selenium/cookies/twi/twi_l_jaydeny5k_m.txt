@@ -1,0 +1,13 @@
+#l_jaydeny5k_m
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	IIz3iv8okJFWmr%2FvPgKz1PyIQaOuhrzdoDioLI%2Fa%2Bdw%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-18T17:57:35+00:00	unique_id	396b1d5f65fe5fc3
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:57:35+00:00	impact_excluded	1
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:57:50+00:00	persistent	215240543%3A%3Absg8uly09on1m662u9fzo2lhmkfgvt
+.twitch.tv	TRUE	/	TRUE	2018-04-25T17:57:50+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTUyNDA1NDMiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI0Njc5MDcwLCJpYXQiOjE1MjQwNzQyNzB9.LQbenD4rzzrH68TUjNkz-AnT25-gp1HOEI0yT27wt__N7ShoQeeJoWtbIhZpWMbOeK0YjDPd6ZVm2JTJlkXQ-A==
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:57:50+00:00	login	l_jaydeny5k_m
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:57:50+00:00	name	l_jaydeny5k_m
+.twitch.tv	TRUE	/	FALSE	2018-10-03T17:57:50+00:00	last_login	2018-04-18T17:57:50Z
+.twitch.tv	TRUE	/	TRUE	2018-10-03T17:57:50+00:00	api_token	f4e23e6e422d4bb1810d37a1ace48a53
+.twitch.tv	TRUE	/	TRUE	2018-10-15T17:57:50+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImxfamF5ZGVueTVrX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTM5NjI2MjcwLCJpYXQiOjE1MjQwNzQyNzAsIm5vbmNlIjoid3RxNUhxek5sd3c0X1hTWHBleExpaTRLc1hkckJ4R1ZfREFnbTNEcXdhST0ifQ%3D%3D.e6gyYS09Wid7x0DFoKNZ-RwYDf6t1dW9nKUl79N4BIgiwXRRf5ZvWF9rW-RtBzmgI_m5yFgNyDWZwVW3ib6O7A%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:58:44+00:00	twilight-user	{%22authToken%22:%22xjpzpfaubfmbp9act4csm2tbjqhsnm%22%2C%22displayName%22:%22l_jaydeny5k_m%22%2C%22id%22:%22215240543%22%2C%22login%22:%22l_jaydeny5k_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-18T18:58:44+00:00	auth-token	xjpzpfaubfmbp9act4csm2tbjqhsnm

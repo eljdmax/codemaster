@@ -1,0 +1,15 @@
+#k_william68g_k
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	em7sJVSApszoO%2BiIpGdqhFEibWVSHRn2CJ3w7BR5b%2FI%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T21:37:58+00:00	unique_id	fb2475baa117eb0a
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:38:18+00:00	persistent	216946436%3A%3A77dq4v1o2kfzjqp0ke9yeub9vv1i19
+.twitch.tv	TRUE	/	TRUE	2018-05-03T21:38:18+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDY0MzYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgzNDk5LCJpYXQiOjE1MjQ3Nzg2OTl9.QlFIj5Bjg4M98d9hFW0uW0eCWyNau74zQfwDm_PTkNabfGyLFdIuToYlXSA9goY_PVC8xp6Wy9z2fMl4a2tk9g==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:38:18+00:00	login	k_william68g_k
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:38:18+00:00	name	k_william68g_k
+.twitch.tv	TRUE	/	FALSE	2018-10-11T21:38:18+00:00	last_login	2018-04-26T21:38:19Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T21:38:18+00:00	api_token	b49ca901a594c12a401e68c98a28897f
+.twitch.tv	TRUE	/	TRUE	2018-10-23T21:38:18+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Imtfd2lsbGlhbTY4Z19rIiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MDMzMDY5OSwiaWF0IjoxNTI0Nzc4Njk5LCJub25jZSI6IjBaWS1aVWRRdjl0SlJtZTRXMmhESjF4b25PQVlCWUw4MF9kZC1CbF82YTg9In0%3D.5MmzPgjjgw0BRg7bghJVZjofzjOp-IEueOX5OaL8HPfTH5zA6GkEPFDxM-rNbwF_wERU65AlkI0PLivjDF2Vjg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	WcqU2cfXyk3AyZk63rfgrCAY7OkzvKaa
+.twitch.tv	TRUE	/	FALSE	2020-04-25T21:38:26+00:00	__gads	ID=f61c3212ed85f626:T=1524778707:S=ALNI_MZTsKKFdcxaVsRaAVyb49UPF0GbJQ
+www.twitch.tv	TRUE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImRRa04iLCJ0c2wiOjE1MjQ3ODI0MDUsIm52IjoxLCJ1cHQiOjE1MjQ3ODIzODgsImx0IjoxNTI0NzgyNDA1fV0.
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:40:05+00:00	twilight-user	{%22authToken%22:%22p6ap4t4ub8n5xv7kuqznpyzg25klvx%22%2C%22displayName%22:%22k_william68g_k%22%2C%22id%22:%22216946436%22%2C%22login%22:%22k_william68g_k%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:40:05+00:00	auth-token	p6ap4t4ub8n5xv7kuqznpyzg25klvx

@@ -1,0 +1,13 @@
+#v_marcoh3e_2
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	KCgwF%2BHAuDIFPv0eaVvDver8mZyT2RUyk%2F2Ee7c%2FAas%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	7177a5dfef01094c
+.twitch.tv	TRUE	/	FALSE	0	persistent	218851971%3A%3Agafhaf7993hsrq3o7pu8ynhry331xo
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE5NzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2MTcwMzYsImlhdCI6MTUyNTYxMzQzNn0=.eI2_gTxZ7YCFYA1ohA3oNY8BsOQVnmK3nEwg6qXO9Nd_tpVbJARSqQurM1v5zRTyJIVt5dHcxqSUCiA2YhhZPA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg4NTE5NzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjE4MjM2LCJpYXQiOjE1MjU2MTM0MzZ9.1pMz0z9eTuersFTadIpEGSxWmCNDe3iDF4czrl2AM6SR9oOrC0kfZ1BwtxK536OvG-Uyyz9f8aFW_aJ5bPKV2w==
+.twitch.tv	TRUE	/	FALSE	0	login	v_marcoh3e_2
+.twitch.tv	TRUE	/	FALSE	0	name	v_marcoh3e_2
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T13:30:36Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	e7d87d8644fb630dbe82eeedfd3dc8ec
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InZfbWFyY29oM2VfMiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExNjU0MzYsImlhdCI6MTUyNTYxMzQzNiwibm9uY2UiOiJHNzB3cDRtelREWXFkMUwyNzNXUGlUQ2txM2pZVzZXX0RrTXl1U0NPN1E4PSJ9.xLWvYjqgYjoT6nTQlJuQ3xC2hCi5fM1pAGv0CuVz5WFjRQe2L-2bS3nLbPnhCLthiqOXCY18V9bWqIEJVAWq_A%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22ml7qzsz0u4i33apjyofr65b1zg4ddb%22%2C%22displayName%22:%22v_marcoh3e_2%22%2C%22id%22:%22218851971%22%2C%22login%22:%22v_marcoh3e_2%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	ml7qzsz0u4i33apjyofr65b1zg4ddb

@@ -1,0 +1,14 @@
+#z_garrettv7b_y
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	nAcRtFFgJuWnjal2HH%2FKCeWMcrDBUHXuN8%2BSx1ur%2F%2Fk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	e019a3be09eb1495
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	ee7190cfd9b1f8dc23540c50afb2f298
+.twitch.tv	TRUE	/	FALSE	0	persistent	218942157%3A%3Aijkxjslxoyv13jjrpbflrl0bocg22q
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIxNTciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDM5MDMsImlhdCI6MTUyNTY0MDMwM30=.j6WxbZYxZJbD6dvw7cBzzIyVbKSejIVGrpj0Ab95nzZ0LXCs0wGKemLy2T-i4J9M5idoP-ppGT3NPuZby6HjYQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDIxNTciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ1MTAzLCJpYXQiOjE1MjU2NDAzMDN9.K5iu-jP7kbBMl1sKYiqqYIeYdfPywRjwjuNuoZ3z7AvlKgfmrz3Yjq8KYOJblu2G32K8gF3jS2BlSsii7KGd0A==
+.twitch.tv	TRUE	/	FALSE	0	login	z_garrettv7b_y
+.twitch.tv	TRUE	/	FALSE	0	name	z_garrettv7b_y
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:58:23Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	3d3c8d71fe5c2c74d50c993aafdcb7bc
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InpfZ2FycmV0dHY3Yl95IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5MjMwMywiaWF0IjoxNTI1NjQwMzAzLCJub25jZSI6ImhaR0d4ZHhTWXRSdHVaRl9XdWtQcVJ6bU1jTnNUX1k2YUtRVWEtUTdPTnM9In0%3D.9KiPSMy90DOLGEbO9mo1b4E1ka83Umc8ADdiEXxyrVgTnjO58Fa8kHu-bY-pOJaJUGjBzCPvD8xesbdXxmK89Q%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22gf1779nu1k5rxgp16akd61kjewp02t%22%2C%22displayName%22:%22z_garrettv7b_y%22%2C%22id%22:%22218942157%22%2C%22login%22:%22z_garrettv7b_y%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	gf1779nu1k5rxgp16akd61kjewp02t

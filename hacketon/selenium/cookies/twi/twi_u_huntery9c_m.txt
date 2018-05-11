@@ -1,0 +1,14 @@
+#u_huntery9c_m
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	pHt0zIms4L9hTxoClVFJYe1BXYAKMKYtVlN62xC1F0Y%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	2cf09e7fb346177c
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	4540cb766a5dc6630854d3a98036b06a
+.twitch.tv	TRUE	/	FALSE	0	persistent	217273907%3A%3A13yc89d5bjgduf7ca544z7908zrvy2
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzM5MDciLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjQ5MzQxMzEsImlhdCI6MTUyNDkzMDUzMX0=.y3J_JpDJXSjZw37GJ3VP0AJVqIG4mlzRbnaUMBI5eZ2fEZ7WpCJtR0o0gV-zgleF92ZmEctc_Qk7mJYtoX-1pQ==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTcyNzM5MDciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NTM1MzMxLCJpYXQiOjE1MjQ5MzA1MzF9.d6tQwmmjD8ev3X-NgZrPbfpdGaZasEq2E8WpsCu6tpuhm9FPy4Pd-0TJJVQpTqx-XET2qoxAXjvsQdZtvu0mrw==
+.twitch.tv	TRUE	/	FALSE	0	login	u_huntery9c_m
+.twitch.tv	TRUE	/	FALSE	0	name	u_huntery9c_m
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-28T15:48:51Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	b4ba0372343c1fc6ce4ea1c3772e2ee0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfaHVudGVyeTljX20iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNDgyNTMxLCJpYXQiOjE1MjQ5MzA1MzEsIm5vbmNlIjoib29pQnRhanZsMU9Rc1JMSUZFVzY3cXNFdkxiYVlxSXdubGlqNkw2Q1djWT0ifQ%3D%3D.p05YZwB6_dg7MmOa4GNEV7kLhqOxwY2_PscKvbRDJAFIVZyJpObn4T1LmfTnSjzLbSAg8NcgbsWttwY4IVxDFg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22srlghwhbsrztxhlry41btlrlqucmhk%22%2C%22displayName%22:%22u_huntery9c_m%22%2C%22id%22:%22217273907%22%2C%22login%22:%22u_huntery9c_m%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	srlghwhbsrztxhlry41btlrlqucmhk

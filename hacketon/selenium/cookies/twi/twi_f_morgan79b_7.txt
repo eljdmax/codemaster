@@ -1,0 +1,13 @@
+#f_morgan79b_7
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	3KNqQAxFQpAohR0JbaNvQORFVJHJ5h1Xhg0CcADHgNY%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	faf5360d5088d492
+.twitch.tv	TRUE	/	FALSE	0	persistent	217485749%3A%3Aa8x3y5ydnrl5q1cylx9qto7fn6f13n
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU3NDkiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjUwMTUyOTQsImlhdCI6MTUyNTAxMTY5NH0=.dVCHSlZHH_NQPk7LyxUz0YafLFsj9fAsO0_-dmSsIWaTWkO4LcG89tfXv7xU9xGGUppttWEpTSHqrecXvOBTPw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTc0ODU3NDkiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1NjE2NDk0LCJpYXQiOjE1MjUwMTE2OTR9.lDbhfVMriqIKt_g9yaC6uMKWcdX1jYXp6GUi7AMOHIHoAhM5_X9x0nw7LKe6b-YWgQs9N_ADAQVq7eWOo0XefQ==
+.twitch.tv	TRUE	/	FALSE	0	login	f_morgan79b_7
+.twitch.tv	TRUE	/	FALSE	0	name	f_morgan79b_7
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-04-29T14:21:34Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	50ef19097a6e01077daccb22f4242105
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImZfbW9yZ2FuNzliXzciLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwNTYzNjk0LCJpYXQiOjE1MjUwMTE2OTQsIm5vbmNlIjoidDkzbEoxRjVOSUx6aTZSRFNhdldxeklvVWFMTE1WaHpIS0FmM2JwSGFKYz0ifQ%3D%3D.OFn23CHg8An-wdt_T_4md0OmgMlOPWscIm43mPM693SmRxhH2EivfWvFkQ1-gr6Q7qZw1YDnqeGSDl_vSQYiCQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%228qh5or5ag5qr8mqwn43wi4pdil3yvr%22%2C%22displayName%22:%22f_morgan79b_7%22%2C%22id%22:%22217485749%22%2C%22login%22:%22f_morgan79b_7%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	8qh5or5ag5qr8mqwn43wi4pdil3yvr

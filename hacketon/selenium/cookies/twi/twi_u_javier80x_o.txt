@@ -1,0 +1,13 @@
+#u_javier80x_o
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	1pFA8pKfaNSUVu%2BsL%2FECNZPJkKQrC3osJwpPVK6uihY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T11:17:32+00:00	unique_id	cba71e50cdc925ab
+.twitch.tv	TRUE	/	TRUE	2018-04-24T23:17:32+00:00	_twitch_session_id	b7d0eae3cb5ea2f080c2008e16ef6f7b
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:17:59+00:00	persistent	216479926%3A%3Alw46uwdjzmd58l3eewsbj2faasaxrt
+.twitch.tv	TRUE	/	TRUE	2018-05-01T11:17:59+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0Nzk5MjYiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTczNDgwLCJpYXQiOjE1MjQ1Njg2ODB9.36X9taaDkEH1am4Xd0v-fp-8scAsJcEYIAO1KFm4uu9DJAulxfug2cEKG50PZlqNTIxtZpMikXCKgbNdQxRURg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:17:59+00:00	login	u_javier80x_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:17:59+00:00	name	u_javier80x_o
+.twitch.tv	TRUE	/	FALSE	2018-10-09T11:17:59+00:00	last_login	2018-04-24T11:18:00Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T11:17:59+00:00	api_token	59ea650224268be45a1b8bdd2d3df85e
+.twitch.tv	TRUE	/	TRUE	2018-10-21T11:17:59+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InVfamF2aWVyODB4X28iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMTIwNjgwLCJpYXQiOjE1MjQ1Njg2ODAsIm5vbmNlIjoialpRUGJwZVZOcXhSODBibC1IQ181VXFGeTdsNFc3dlQyUU5TVlRfMzRuST0ifQ%3D%3D.xVH0UlyRDRvZNbVoOzKFYcz9yo0Ljo2Y41K7z5qsZn2n-P41Vuv7GaBmrEvneRg4pSV7-5l9Qss0MgTECpIiNg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:19:19+00:00	twilight-user	{%22authToken%22:%22wrhvwf15l8v7otm8wixykn5m9420ju%22%2C%22displayName%22:%22u_javier80x_o%22%2C%22id%22:%22216479926%22%2C%22login%22:%22u_javier80x_o%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T12:19:19+00:00	auth-token	wrhvwf15l8v7otm8wixykn5m9420ju

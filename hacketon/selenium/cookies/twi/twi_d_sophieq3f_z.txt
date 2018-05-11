@@ -1,0 +1,12 @@
+#d_sophieq3f_z
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	NHXwZWqqE4enfcIufzypNKUIg04KoJqipjJtmEQP13s%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-26T20:59:17+00:00	unique_id	10d6e7322b350807
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:59:32+00:00	persistent	216940237%3A%3Ajazhcgk3owkvi5lu6qab7g4yz20yze
+.twitch.tv	TRUE	/	TRUE	2018-05-03T20:59:32+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY5NDAyMzciLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MzgxMTcyLCJpYXQiOjE1MjQ3NzYzNzJ9.L1NHX1YLFtzQ9O133u8EMdOFZ3sie3qowCYVR4T0kQDYbREcFeIdvX2p8XNJzsTcXBTLUO4n017sVtbaAHtHMw==
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:59:32+00:00	login	d_sophieq3f_z
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:59:32+00:00	name	d_sophieq3f_z
+.twitch.tv	TRUE	/	FALSE	2018-10-11T20:59:32+00:00	last_login	2018-04-26T20:59:32Z
+.twitch.tv	TRUE	/	TRUE	2018-10-11T20:59:32+00:00	api_token	74114027d44268a8a12ef8064fb79fa6
+.twitch.tv	TRUE	/	TRUE	2018-10-23T20:59:32+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImRfc29waGllcTNmX3oiLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQwMzI4MzcyLCJpYXQiOjE1MjQ3NzYzNzIsIm5vbmNlIjoiZVNFdjV6VVdSYWJ4MmZmZi0wcXBmdXR1MW9JclZ4R1lpdmhlWU5sNTRQZz0ifQ%3D%3D.rdH60_WC8P_pvjZ-6jRrzTxz_EfJkg2Bi_Kosk_JUyWy8ji7QeNnoqddL4Aa8URwTu37T0lrol9bpvp9kOiXAg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:01:02+00:00	twilight-user	{%22authToken%22:%22tbqxdxfkv3fsetkx82j9thndv1ja4j%22%2C%22displayName%22:%22d_sophieq3f_z%22%2C%22id%22:%22216940237%22%2C%22login%22:%22d_sophieq3f_z%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-26T22:01:02+00:00	auth-token	tbqxdxfkv3fsetkx82j9thndv1ja4j

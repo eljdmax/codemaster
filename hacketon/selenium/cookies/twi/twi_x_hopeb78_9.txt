@@ -1,0 +1,14 @@
+#x_hopeb78_9
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	HAjUHlmUkFfKRzNt268XTS1qFWuIz6G3EUKuQJ7bMgk%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	399d59523d1f6097
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	8c2a82db079053756168b89d7bd08aab
+.twitch.tv	TRUE	/	FALSE	0	persistent	218955672%3A%3Auxsgvtoluiwqsfbkp4lv8vylx8ygrn
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTU2NzIiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDg1MjcsImlhdCI6MTUyNTY0NDkyN30=.VQZd7wj_u01jeupmbjt0XH47hsasYPnjVCAXxY7Jv4EEPPiwcAne-dwSu6UDe_4Z7D4xj1e80qVtscVEwtnNBA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NTU2NzIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ5NzI3LCJpYXQiOjE1MjU2NDQ5Mjd9.Hz6QuSIGfNfr_0LbW-8zLk8ltVI0sX3VQXBNTmPiqeS9GLqlG-X4_C2Y_TwsqGACMZLuYduUKeTh0XNwA4QH0w==
+.twitch.tv	TRUE	/	FALSE	0	login	x_hopeb78_9
+.twitch.tv	TRUE	/	FALSE	0	name	x_hopeb78_9
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T22:15:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	a543c6b02a651aaf6dbf80677c08d6ca
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InhfaG9wZWI3OF85IiwiYXVkIjoiYnJ1dGUtZm9yY2UtcHJvdGVjdGlvbiIsImV4cCI6MTU0MTE5NjkyNywiaWF0IjoxNTI1NjQ0OTI3LCJub25jZSI6IkRsRTZSYURQd1U2UU5YdldnVEZMTjVadkVmT1VrX0ZoRENTc3JBTHdBWVk9In0%3D.4_715oQIXJuau2iBj_dSKE2532DxcYJ3rzpPlW5c3pj26QtzbbPJj-Ryz2jBXVgTF-cd_Io1PDNo5t1dLqEnQQ%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22fikw99scas29fqgj5ute1lklw7r08t%22%2C%22displayName%22:%22x_hopeb78_9%22%2C%22id%22:%22218955672%22%2C%22login%22:%22x_hopeb78_9%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	fikw99scas29fqgj5ute1lklw7r08t

@@ -1,0 +1,13 @@
+#y_grantt4d_v
+.twitch.tv	TRUE	/	TRUE	0	csrf_token	ztKGN9vhQrwQ7UsEz%2F25ENZfOL1layCtf4tRooKJ6YY%3D
+.twitch.tv	TRUE	/	FALSE	2028-04-24T12:31:20+00:00	unique_id	2cb02d1c12fb0332
+.twitch.tv	TRUE	/	TRUE	2018-04-25T00:31:20+00:00	_twitch_session_id	bfb2c70de4d818039212e588d147b14a
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:32:14+00:00	persistent	216486962%3A%3A18iga0xapt168g0pqo9aatjw8dfkso
+.twitch.tv	TRUE	/	TRUE	2018-05-01T12:32:14+00:00	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTY0ODY5NjIiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI1MTc3OTM0LCJpYXQiOjE1MjQ1NzMxMzR9.KYxFKz6lMziqKf7cnz--nEB0E4LP8y-vi3bZS1LEKGye6y1sZ-bZRtgrAURYU_yxPLCwq6tmv1xQmsHLCQoJEg==
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:14+00:00	login	y_grantt4d_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:14+00:00	name	y_grantt4d_v
+.twitch.tv	TRUE	/	FALSE	2018-10-09T12:32:14+00:00	last_login	2018-04-24T12:32:14Z
+.twitch.tv	TRUE	/	TRUE	2018-10-09T12:32:14+00:00	api_token	1b2ad63e2b32a6e6c4448041cb272044
+.twitch.tv	TRUE	/	TRUE	2018-10-21T12:32:14+00:00	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6InlfZ3JhbnR0NGRfdiIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDAxMjUxMzQsImlhdCI6MTUyNDU3MzEzNCwibm9uY2UiOiJZTHJTcW1FTHAzMUhqeWZOWDBhT1NkbXJSYVFVZEo3d0c3QlIzVjJTUVdJPSJ9.CXca8bXFDJdSCbuJ4QgIAQB6vKBoAPCn43WyrDpZYJpNUXRz61U4VqgbdQG7Vk54xWJH6mSbORLxlXlC4kysFg%3D%3D
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:33:37+00:00	twilight-user	{%22authToken%22:%22q83i4eh87dd9pmt6xysokwo6pcb2xf%22%2C%22displayName%22:%22y_grantt4d_v%22%2C%22id%22:%22216486962%22%2C%22login%22:%22y_grantt4d_v%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	TRUE	2019-04-24T13:33:37+00:00	auth-token	q83i4eh87dd9pmt6xysokwo6pcb2xf

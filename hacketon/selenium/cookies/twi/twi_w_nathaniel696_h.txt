@@ -1,0 +1,13 @@
+#w_nathaniel696_h
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	IKluuJ947zIJn%2Brs0G0Wmok08jF6cx3bTzDhWl685Us%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	ff009b1c8bdd8dfd
+.twitch.tv	TRUE	/	FALSE	0	persistent	218938650%3A%3Asngimyg264l0v2oaqv589ls19mgdj8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg2NTAiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI3NjcsImlhdCI6MTUyNTYzOTE2N30=.aY9mIp5JRs_t0IYSFN0zOgitlSkCCEYhjaHlONB9KraBT4HhgXTeaGH_nYHeNNQWxLwnaYq3USzhjzXAjR_5pg==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5Mzg2NTAiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQzOTY3LCJpYXQiOjE1MjU2MzkxNjd9.C4G9zrrEO9STL_sV63-2hUMRYhHOKdTeQGfmVA7jSQI2dlSLV4YSZtTMpt3n03AfVe4R5IKK-sux-KDNhu91iA==
+.twitch.tv	TRUE	/	FALSE	0	login	w_nathaniel696_h
+.twitch.tv	TRUE	/	FALSE	0	name	w_nathaniel696_h
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:39:27Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	cd4e687059413adc5594795267e49c2a
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IndfbmF0aGFuaWVsNjk2X2giLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNTQxMTkxMTY3LCJpYXQiOjE1MjU2MzkxNjcsIm5vbmNlIjoiZDhseWQ1eFFTYUFBdTNUckFzeVFxWXdFQUwzVmdPT3FVYUNOaXBkUVdlaz0ifQ%3D%3D.zULBznkOewMjwASKnT_HhKUTzibZ4uYDuS21_5zKcihP6TtpYRqJAixsFWTtmXWDeD47vdzIEtlS5wORtM-qeA%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22zhx4svvijq6mz8io88gllhk4zfhfqa%22%2C%22displayName%22:%22w_nathaniel696_h%22%2C%22id%22:%22218938650%22%2C%22login%22:%22w_nathaniel696_h%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	zhx4svvijq6mz8io88gllhk4zfhfqa

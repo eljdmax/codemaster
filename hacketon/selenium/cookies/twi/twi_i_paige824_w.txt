@@ -1,0 +1,17 @@
+#i_paige824_w
+.twitch.tv	TRUE	/	FALSE	0	unique_id	5224d907b8cf67f3
+.twitch.tv	TRUE	/	FALSE	0	session_unique_id	YhFk3rPip3do9qS8UJH9rB3Dcuw0b7jX
+.twitch.tv	TRUE	/	FALSE	0	passport_requested	umDB9y3KCYYUG0Gd3rsdkECtcPLsvU
+.twitch.tv	TRUE	/	FALSE	0	passport	MTUyNTY4NjM3M3xlMzBLfEbXQtWJTk_-RyUOvD2pQXaoRsfzVP0wbT3iA7Y31wA3
+.twitch.tv	TRUE	/	FALSE	0	persistent	218944548%3A%3Arl27j7nf2pecjss1szvd984zpl9za6
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQ1NDgiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2ODk5ODgsImlhdCI6MTUyNTY4NjM4OH0=.iugQrAuUNGQKFWFgQUtQsldJywp3uN9WAuc_1VMCEt3qiWQ31mUuZNO9lD-CdNUwhMpmHt-qg1H8F92pqKKRwA==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5NDQ1NDgiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjkxMTg4LCJpYXQiOjE1MjU2ODYzODh9.YQR6E_oSTM6WN8BSwoUFkvnxz-aQLZUmBDIVDuEBcEeyaChCqqXA1urrm9ORHLVjcB-qlmJheFIar9wNf__6kQ==
+.twitch.tv	TRUE	/	FALSE	0	login	i_paige824_w
+.twitch.tv	TRUE	/	FALSE	0	name	i_paige824_w
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-07T09:46:28Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	938013627e38545e5de9e1ce3393b622
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6ImlfcGFpZ2U4MjRfdyIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDEyMzgzODgsImlhdCI6MTUyNTY4NjM4OCwibm9uY2UiOiJuRDhnbnd4aXVWS2g1WjZDZmpTQmNYYkZyaHBWcVg5TDh4TjZPRFZrTWVzPSJ9.IArnw0Ja3puDMP_QOEuE0sxKXlbXAZH0HDH1LPJpBFIvYAPNDloB-wSvXOQugm0cCTy_fgH7jgN4u5opAt5s5g%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22j3w45dmmj3hsf908hrtf1cz7b7gol0%22%2C%22displayName%22:%22i_paige824_w%22%2C%22id%22:%22218944548%22%2C%22login%22:%22i_paige824_w%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	j3w45dmmj3hsf908hrtf1cz7b7gol0
+.twitch.tv	TRUE	/	FALSE	0	language	en
+www.twitch.tv	TRUE	/	FALSE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6ImNqTy8iLCJ0c2wiOjE1MjU2ODY0MDQsIm52IjowLCJ1cHQiOjE1MjU2ODYzODgsImx0IjoxNTI1Njg2Mzg4fV0.

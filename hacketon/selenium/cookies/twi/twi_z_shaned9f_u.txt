@@ -1,0 +1,14 @@
+#z_shaned9f_u
+.twitch.tv	TRUE	/	FALSE	0	csrf_token	gWNZ3kGeGl6I2mgaRVUr2AFsxXEQxBFV63CSPAfLYck%3D
+.twitch.tv	TRUE	/	FALSE	0	unique_id	3ae472178f33d47d
+.twitch.tv	TRUE	/	FALSE	0	_twitch_session_id	26f8f4047d87bb83c7b0d3b347245066
+.twitch.tv	TRUE	/	FALSE	0	persistent	218939131%3A%3Awek0r2kzl1md5i67mt3prjb3a26gn8
+.twitch.tv	TRUE	/	FALSE	0	sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzkxMzEiLCJhdWQiOlsic3VkbyJdLCJleHAiOjE1MjU2NDI5MjUsImlhdCI6MTUyNTYzOTMyNX0=.nQXVWK8KLFHml92REtIsbplUf5qjVt98F7ZgoCkAcXnmllC9YqjDuPNMhkBv-00DsGjeSAPo8foVf4-E2JL9lw==
+.twitch.tv	TRUE	/	FALSE	0	bits_sudo	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMTg5MzkxMzEiLCJhdWQiOlsic3VkbyIsImJpdHMiXSwiZXhwIjoxNTI2MjQ0MTI1LCJpYXQiOjE1MjU2MzkzMjV9.3Z8UFTdVdOB6WhygGAjm_NKhpmFrTHnfZCx_6NulbApY6nFcdoWWdelT52dfeEc7dHG8fblZDiOagOtWZ_wK6w==
+.twitch.tv	TRUE	/	FALSE	0	login	z_shaned9f_u
+.twitch.tv	TRUE	/	FALSE	0	name	z_shaned9f_u
+.twitch.tv	TRUE	/	FALSE	0	last_login	2018-05-06T20:42:05Z
+.twitch.tv	TRUE	/	FALSE	0	api_token	101a6408f53b775c9bb4c33bbf59c2a0
+.twitch.tv	TRUE	/	FALSE	0	device_cookie	eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6Inpfc2hhbmVkOWZfdSIsImF1ZCI6ImJydXRlLWZvcmNlLXByb3RlY3Rpb24iLCJleHAiOjE1NDExOTEzMjUsImlhdCI6MTUyNTYzOTMyNSwibm9uY2UiOiJCY3JCVUN2OHBlcURvejRrODBTR3MwVFhtZUs3WHBHNUFYV0tpSC1VRnRZPSJ9.sfXBuSo93GYI8T8ReEQl-LZfxBF2jDPXw_4yO_1DZQ7mk7Gysc67RQCkv7w8Hq-ZtGkrf8hBv6Kytb-2ehBsDg%3D%3D
+.twitch.tv	TRUE	/	FALSE	0	twilight-user	{%22authToken%22:%22p454ae2vzeytu15efxxxe33f8qxoaz%22%2C%22displayName%22:%22z_shaned9f_u%22%2C%22id%22:%22218939131%22%2C%22login%22:%22z_shaned9f_u%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}
+.twitch.tv	TRUE	/	FALSE	0	auth-token	p454ae2vzeytu15efxxxe33f8qxoaz
